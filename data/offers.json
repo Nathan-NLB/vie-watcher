@@ -1844,37 +1844,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "259",
-      "318",
-      "320"
+      "[\"180\",\"259\",\"318\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n\r\nWe invite you to join us as a VIE in our Custody Services Department.\r\n\r\nThe candidate will be in the position to: \r\n•\tProcess receipt of Income payments within agreed service standards.\r\n•\tFull adherence to the team’s control functions, including operations/events and end-of-the-day checklists.\r\n•\tAssist with the day-to-day administrative tasks of investigation/amendment and clearance of reconciling items in ensuring accurate processing.\r\n•\tEnsure that queries raised/assigned to individuals are answered within agreed service standards.\r\n•\tEnsure on-going productivity by providing back-up relief for staff who are absent or on leave.\r\n•\tContinually ensure complete awareness of Client, external custodians and inter-departmental Service Level Standards / Agreements and ensure compliance at all times.\r\n•\tEnsure prompt escalation of operational issues that may cause financial or reputational issues to CACEIS or its clients to Senior Officer/Assistant Manager/Manager of the team/department. \r\n•\tEstablish working relationships with people at all levels both inter departmental and across the wider firm.\r\n•\tProvide feedback on agent network and vendor performance on any deviations from their service level agreement with CACEIS.\r\n•\tAble to demonstrate capability to perform validation on common task.\r\n\r\nGood Reasons to Join Us \r\n1.\tJoin an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2.\tDevelop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3.\tExpand your professional horizons with numerous mobility opportunities within the group. \r\n4.\tThrive in a company that respects its employees and clients.  \r\n5.\tTake advantage of ongoing training to enhance your skills and boost your employability. \r\n6.\tOpportunity to work in a multicultural environment and engage with a diverse team.",
     "creationDate": "2026-09-17T09:25:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3363,93 +3335,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "180",
-      "200",
-      "202",
-      "259",
-      "318",
-      "320",
-      "321",
-      "322",
-      "324"
+      "[\"5\",\"8\",\"9\",\"180\",\"200\",\"202\",\"259\",\"318\",\"320\",\"321\",\"322\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "321",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance Verte et Responsable",
-        "specializationLabelEn": "Finance Verte et Responsable"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "1.\tDescription du groupe Amethis \nAmethis est un gestionnaire de fonds d’investissement (« AIFM ») dédié au continent africain, contribuant à favoriser au développement durable des entreprises africaines. \nCréé en 2012 en partenariat avec le groupe Edmond de Rothschild, nous disposons aujourd’hui de plus de €1 milliard d’actifs sous gestion et continuons de nous développer rapidement. Amethis a investi dans des sociétés présentes dans plus de 20 pays africains et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.\nAfin d’accompagner notre forte croissance, nous recherchons un(e) analyste en valorisation. Dans ce cadre, vous accompagnerez l’équipe financière de l’AIFM du groupe Amethis (Amethis Investment Fund Manager S.A.), réglementé par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg. Cette équipe est en charge du pilotage de la fonction financière et de la gestion des fonds d’investissements.\n\n2.\tContexte AIFM (Aspect règlementaire)\nAmethis Investment Fund Manger S.A. est une société du groupe Amethis. Amethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissements alternatifs (GFIA). Cette société créée en 2017 est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg. L’AIFM assure entre autres, pour les fonds d’investissement dont elle a la supervision, les fonctions réglementaires suivantes :\n•\tContrôle interne (gestion des risques / compliance / audit interne)\n•\tGestion de portefeuille\n•\tEvaluation des actifs\n•\tCommercialisation\n\n3.\tRôle et missions du poste\nLe poste sera rattaché au directeur en charge des risques, de la finance et de la gestion administrative des fonds et fournira une exposition régulière aux membres du comité exécutif de l’AIFM, au front office, aux investisseurs, aux commissaires aux comptes et aux prestataires délégués pour l’administration des fonds.\nLes tâches associées au poste sont les suivantes : \n•\tAssister le Valuation and Fund Administration Manager dans:\no\tLa revue des valorisations des investissements du portefeuille d’actifs (méthodologies, hypothèses d’évaluation, supports, etc.)\no\tLa préparation des mémos à destination des comités de valorisation\no\tLa coordination des audits des fonds d’investissement\n•\tLa production des rapports trimestriels à destination des investisseurs (incluant des revues analytiques des états comptables produits par différents prestataires de service)\n•\tLa préparation et support sur les opérations des fonds (appels de fonds, distributions, investissement, etc.)\n•\tLe support de l’équipe Finance sur d’autres fonctions transversales (modélisation de cash-flows prévisionnels, création d’outils interne de gestion/contrôle, Digitalisation etc.)\n•\tAide à la clôture annuelle des comptes.\n•\tAide au suivi de la collaboration et des échanges avec les différents prestataires de services (Banque dépositaire, Agent de transfert, Prestataire comptable / fiscal ; Auditeur interne / externe ; etc.)",
     "creationDate": "2026-09-08T07:54:23Z",
     "missionStartDate": "2027-02-01T00:00:00",
