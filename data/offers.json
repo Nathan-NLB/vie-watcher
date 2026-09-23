@@ -486,51 +486,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:43:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1053,16 +1011,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le groupe BK CONSULTING est une ESN de 800 personnes active dans les secteurs de la finance et de l’industrie en France, en Belgique et au Grand-Duché du Luxembourg. Notre proposition de valeur réside dans notre double compétence informatique et financière qui nous positionne comme un partenaire privilégié chez nos clients. Dans le cadre du développement de nos activités en Belgique et au Grand-Duché du Luxembourg, nous recherchons un/des Business Consultant en VIE.\r\n\r\nMissions Proposées :\r\nParticiper à des analyse de processus métiers.\r\nSpécifier les attentes des utilisateurs à destination de l'informatique.\r\nGestion et suivi de processus back office et middle office (AML/KYC). Analyse de dossiers clients corporate et particuliers.\r\nIdentification des projets et des besoins de vos clients.\r\n\r\nNotre offre, un management et une équipe qui supportent votre dynamique. Un acteur bien implanté et reconnu sur ses marchés. Des outils de travail adaptés. Des perspectives d’évolution significatives au sein du groupe.",
     "creationDate": "2026-09-21T13:32:04Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1221,16 +1172,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Moon Surgical is a French-American medical device company that is revolutionizing laparoscopic surgery through robotics and data-driven artificial intelligence.\r\nAt Moon Surgical, we are driven by an intrinsic desire to advance global healthcare for patients, to innovate and inspire the art of surgery, and to make a difference through creativity, perseverance, and teamwork.\r\n\r\nWe are looking for a highly motivated, organized, and analytical Financial Controller to join our San Carlos team through the French V.I.E. program. \r\n\r\nReporting to our Senior Financial Controller in France, you will be the finance point of contact on the ground for our US operations.\r\nAs financial controller, you play a crucial role in an organization that is scaling fast. You act as a business partner to the US team, and you own the purchasing, travel, and MRP systems (Open-\r\nProd) that produce the numbers you analyze. Day to day, you work with the finance team in Paris, with operations and supply chain in San Carlos, and with our external accounting provider.\r\n\r\nYour Day-to-day Activities\r\nSystems & Tools Management\r\nMRP Operations (Open-Prod): Own and drive the implementation of our MRP system, an industrial ERP built on the Odoo platform, with a strong focus on procurement. You will take end-to-end ownership of the finance side of the project for the US site, overseeing procurement flows, ensuring the system meets operational needs. With the support of the Senior Controller, you will lead the MRP go-live planned for January 2027, including project kick-off, user training and post-launch support. You will be the key on-site point of contact, driving adoption, resolving issues and ensuring a successful transition to the new system.\r\nProcure-to-Pay (Payflows): Manage the end-to-end procurement process within Payflows, ensuring purchase requests, approvals, and workflows operate smoothly and efficiently across the P2P cycle. Own the interface between Payflows and the MRP, ensuring seamless data and process flows from purchase requests to purchase orders, while driving process standardization and continuous improvement.\r\nNavan Administrator: Acting as the primary point of contact for Navan (our travel and expense management platform), you will track tool usage, troubleshoot and resolve user issues, and conduct training sessions for new and existing team members.\r\n\r\nOperational Finance\r\nOwn monthly inventory reporting and reconciliation for the US site, including inventory control and inventory analysis.\r\nSupervise our externalized accounting provider: review their deliverables, control quality, and prepare payments.\r\nMonitor industrial costs (fixed and variable) and lead the analysis of deviations against standard costs.\r\nSupport monthly reporting through budget-versus-actual variance analysis, identifying the root causes of any deviation.\r\nMaintain and strengthen internal control and compliance.",
     "creationDate": "2026-09-09T13:51:25Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5155,16 +5099,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Lieu : New York, États-Unis\r\nSociété : LexiFi Inc.\r\nDurée : 18 mois\r\nDate de début : À confirmer\r\nRattachement hiérarchique : Responsable Développement Commercial États-Unis\r\nÀ propos de LexiFi\r\nLexiFi est une société de logiciels de technologie financière spécialisée dans les produits structurés et les dérivés. Notre plateforme est utilisée par des institutions financières pour gérer l’ensemble du cycle de vie des produits structurés, notamment la valorisation, la documentation, la saisie des transactions, la gestion du cycle de vie, l’intégration des données et les processus opérationnels.\r\nLexiFi Inc. a été créée aux États-Unis afin d’établir une présence locale, de mieux accompagner nos clients américains existants et de développer de nouvelles opportunités commerciales en Amérique du Nord. Dans le cadre de cette expansion, nous recherchons un(e) Customer Success Manager pour rejoindre notre équipe à New York.\r\nMissions\r\nLe/la Customer Success Manager contribuera à la fourniture de services de support et d’implémentation de haute qualité aux clients américains de LexiFi Inc., tout en participant au développement de la présence locale de l’entreprise.\r\nCe poste est idéal pour une personne souhaitant évoluer à l’intersection des marchés financiers, de la technologie, du support client et du développement commercial. Le/la candidat(e) retenu(e) travaillera en étroite collaboration avec le responsable du lancement des activités aux États-Unis, l’équipe technique locale et les équipes LexiFi basées en France.\r\nResponsabilités\r\nSupport client et gestion de la relation client\r\nVous participerez au support quotidien des clients américains existants, notamment des institutions financières utilisant les solutions LexiFi pour leurs activités liées aux produits structurés.\r\nVos responsabilités incluront :\r\n•\tRépondre aux questions et demandes de support des clients.\r\n•\tAnalyser les problématiques fonctionnelles et techniques.\r\n•\tCoordonner les échanges avec les développeurs et spécialistes produit lorsqu’une analyse approfondie est nécessaire.\r\n•\tAssurer le suivi des demandes afin de garantir leur résolution satisfaisante.\r\n•\tDocumenter les questions récurrentes, incidents et solutions apportées.\r\n•\tContribuer au maintien de relations clients solides grâce à une communication claire et professionnelle.\r\nImplémentation et onboarding\r\nVous contribuerez aux projets d’implémentation et d’intégration des clients, notamment à la configuration et au déploiement des solutions LexiFi dans leurs environnements.\r\nCela pourra inclure :\r\n•\tParticiper à la collecte et à la clarification des besoins clients.\r\n•\tAccompagner les activités de configuration et de tests.\r\n•\tIntervenir sur les sujets liés aux données, aux workflows et aux intégrations.\r\n•\tPréparer les supports de formation destinés aux utilisateurs.\r\n•\tParticiper aux sessions de formation des utilisateurs.\r\n•\tCoordonner le suivi des projets d’implémentation avec les équipes internes.\r\nExpertise produit et coordination interne\r\nVous développerez progressivement une connaissance approfondie des logiciels LexiFi, des processus liés aux produits structurés et des cas d’usage clients.\r\nVous collaborerez avec les équipes en France et aux États-Unis afin de :\r\n•\tRemonter les questions produit et les retours clients.\r\n•\tAider à la priorisation des sujets en fonction de leur impact pour les clients.\r\n•\tContribuer à la documentation interne.\r\n•\tPartager les retours du marché américain avec les équipes produit et support.\r\n•\tParticiper à l’amélioration continue des processus de support client.\r\nSupport avant-vente et développement commercial\r\nDans le cadre du développement de LexiFi Inc. sur le marché américain, vous contribuerez également aux activités commerciales pilotées par l’équipe de direction locale.\r\nCela pourra inclure :\r\n•\tParticiper aux démonstrations produit.\r\n•\tPréparer les supports pour les réunions clients.\r\n•\tAccompagner les phases de preuve de concept (PoC) et d’évaluation.\r\n•\tContribuer à l’analyse des besoins des prospects.\r\n•\tAssurer le suivi des réunions et démonstrations.\r\n•\tFaciliter la transition entre les phases d’avant-vente et les projets d’implémentation.\r\nProfil recherché\r\nNous recherchons un profil junior motivé, doté de solides capacités d’analyse, d’une grande curiosité intellectuelle et d’un intérêt marqué pour la finance et la technologie.\r\nLe/la candidat(e) idéal(e) possède :\r\n•\tUn diplôme de niveau Master ou une formation d’ingénieur / école de commerce.\r\n•\tUn fort intérêt pour les marchés financiers, les produits structurés, les dérivés ou la fintech.\r\n•\tUne bonne compréhension des systèmes logiciels et des flux de données.\r\n•\tD’excellentes capacités de communication en anglais.\r\n•\tUne aptitude à travailler avec des clients professionnels exigeants.\r\n•\tDe solides compétences en résolution de problèmes et un grand sens du détail.\r\n•\tDe l’autonomie, de la rigueur et une forte capacité d’apprentissage.\r\n•\tLa capacité à travailler avec des équipes réparties entre la France et les États-Unis, dans des fuseaux horaires différents.\r\nUne expérience préalable dans la banque, les services financiers ou la fintech serait un atout.\r\nCompétences techniques\r\nLes compétences suivantes seraient appréciées :\r\n•\tConnaissances de base des produits dérivés et des produits structurés.\r\n•\tFamiliarité avec Python, VBA, les API ou les formats de données.\r\n•\tCapacité à traduire les besoins clients en spécifications internes claires.\r\nUne expertise technique approfondie n’est pas requise au démarrage, mais le/la candidat(e) devra être prêt(e) à développer progressivement une compréhension solide du produit et de son environnement technique.\r\nCe que vous apprendrez\r\nCe poste vous offrira une exposition concrète aux éléments suivant :\r\n•\tLe marché américain des technologies financières.\r\n•\tLes produits structurés, les dérivés et leurs workflows opérationnels.\r\n•\tL’implémentation de logiciels d’entreprise.\r\n•\tLes métiers du Customer Success et du support auprès d’institutions financières.\r\n•\tLe lancement et le développement d’une filiale américaine.\r\n•\tLa collaboration internationale entre les équipes françaises et américaines.\r\nCe poste représente une opportunité unique de rejoindre l’équipe fondatrice des activités américaines d’une fintech spécialisée et de contribuer directement à son développement en Amérique du Nord.",
     "creationDate": "2026-09-08T15:25:09Z",
     "missionStartDate": "2026-12-01T00:00:00",
