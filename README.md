@@ -6,58 +6,96 @@ catégorie **Finance Comptabilité Gestion Banque**, toutes les 20 minutes
 environ. Une notification est envoyée sur ton téléphone (via ntfy.sh) à
 chaque nouvelle offre détectée.
 
-Dernière vérification : **23/09/2026 10:30:11**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 10:47:52**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
 
 <details>
-<summary><strong>CONTROLEUR DE GESTION (H/F)</strong> · FRIEDLANDER · GEORGETOWN, GUYANA · 3 164,30 €/mois</summary>
+<summary><strong>Financial Analyst (H/F)</strong> · ARKEMA FRANCE · RADNOR       -PA-, ETATS-UNIS · 3 671,13 €/mois</summary>
 
-- **Entreprise :** FRIEDLANDER
-- **Lieu :** GEORGETOWN, GUYANA
-- **Indemnité :** 3 164,30 €/mois
-- **Durée de la mission :** 12 mois
+- **Entreprise :** ARKEMA FRANCE
+- **Lieu :** RADNOR       -PA-, ETATS-UNIS
+- **Indemnité :** 3 671,13 €/mois
+- **Durée de la mission :** 18 mois
 - **Publiée le :** 23/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/237810](https://mon-vie-via.businessfrance.fr/offres/237810)
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246287](https://mon-vie-via.businessfrance.fr/offres/246287)
 
 **Description du poste**
 
-Rejoignez Friedlander Guyana, une agence du Groupe Ortec, reconnue pour son expertise en ingénierie, travaux
-neufs et maintenance industrielle.
-
-Engagées aux côtés des acteurs clés du territoire, nos équipes interviennent sur des projets d’envergure dans les
-secteurs Oil & Gas / industrie lourde.
-
-Intégrer Friedlander Guyana, c’est rejoindre une structure agile, équipée d’infrastructures modernes et de
-technologies innovantes, où sécurité, qualité et performance guident chaque mission.
-
-Rattaché(e) à Thomas, Directeur d’Agence, et en lien avec les services du Siège, vous assurez le support
-administratif et financier de l’agence, êtes le/la garant(e) de la fiabilité de l’information financière et contribuez à
-la structuration des outils et processus.
-
-Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la
-Comptabilité Internationale et Benoît, Responsable du Contrôle de Gestion International.
-
-A ce titre, vos principales missions sont les suivantes :
-- Préparation de la clôture mensuelle de gestion
-- Contribution à la clôture comptable trimestrielle
-- Révision et suivi de la comptabilité générale et analytique
-- Gestion opérationnelle de la trésorerie
-- Contrôle de l’application des procédures Groupe
-- Appui administratif et financier en coordination avec la Responsable Administrative
+The V.I.E. will have the following responsibilities:
+The Americas Financial Analyst routinely interacts with the Americas Regional Group President and 
+Business Directors and Managers, Supply Chain Manager, Business Development, Supply Chain and 
+Customer Service functions, Operations Accounting, the regional reporting and consolidation group of 
+Arkema Inc., and the Finance Teams in other regions. This role also interacts regularly with the Molecular 
+Sieves and Surfactants US teams. The Americas region consists of four (4) entities and five (4) 
+manufacturing facilities (located in US, Mexico and Brazil), as well as 1 capacity reservation and significant 
+imported products from Molecular Sieves and Surfactants Business. 
+Overall, this position aligns with the BU and Americas Finance Manager to prepare and deliver detail files, 
+financial reporting, analysis and support of all profit centers (4 in Functional Additives, 4 in Surfactants 
+resale and 2 in Molecular Sieves resale). This role also helps coordinates to consolidate the BU’s Americas 
+results and prepare the monthly earnings package, as well as ensures the monthly operating results are 
+communicated in a timely and accurate manner to business management. Additional responsibilities 
+include working with the Americas Finance Manager on the annual budget process, business 
+review/planning, some financial modeling, ad-hoc reporting, special process improvement and SAP testing 
+projects, as well as preparation of financial information in support of business requests.
+Monthly Reporting and Analysis - Actual vs Forecast 30% - Work with Americas Finance Manager to 
+consolidate the BU’s Americas results and prepare the monthly earnings package, as well as collaboration 
+in maintaining systems used to prepare the monthly “Flash” estimate of earnings on the 1st Work Day; 
+Maintain the Analytical Income Statement (AIS) reporting files and update them with forecast and actual 
+information, as well as prior year and budget information to allow for proper analysis of results; Utilize AIS 
+excel reporting file information to compile Income Statements for each business; Works with Americas 
+Finance Manager to compile information from AIS and other Excel files to help prepare PowerPoint 
+Monthly Reporting Packaging for review at the Monthly S&OP Business Review;Prepares monthly structural 
+cost reporting
+Monthly Forecast and Management Business Review (MBR) Meeting Preparation 25% - Prepare the 
+Arkema Inc. 3 month forecast of operational results, working with business management, sales, marketing, 
+logistics, purchasing, accounting and manufacturing to identify significant trends; Consolidate the regional 
+forecast with additional data from Canada, Mexico and Brazil; Work with Americas Finance Manager during 
+the annual business review process for FA Americas by helping to maintain the regional BU budget models 
+to reflect the business global plan; May assist, as requested, the Americas Finance Manager in preparation 
+of business model presentations for Management Business Review meetings.
+Annual Budget and Planning 25% - Work with Americas Finance Manager to facilitate the annual budget 
+process for Arkema Inc. Maintain the regional BU budget model; Review budget data and confirm data 
+alignment with SAP/BW and analytics – provide confirmation or discrepancy information with comments 
+to Americas Finance Manager for review; Assist with the preparation of the budget review presentation 
+and ensuring the budget process is tracked, monitored and maintained year round; Work with Americas 
+Finance Manager to prepare detail files specific to volume, sales and margin, and structural costs; Provide 
+detailed analysis that will be reviewed by Americas Finance Manager and provided to the Global Finance 
+Director.
+Financial Analysis and Special Projects 20% - Ad hoc analysis/reporting as requested; SAP/BW testing of 
+reports for process improvements, developing financial processes and reports to support business 
+processes; Work on emerging issues and financial information for crisis response, including ad-hoc 
+reporting, as necessary; Serves as backup to Americas Finance Manager for other budgeting, analysis and 
+closing activities as required; Assists Americas Finance Manager with review and update of transfer pricing 
+as necessary; Assists Americas Finance Manager with review and update of transfer pricing as necessary.
 
 **Profil recherché**
 
-Issu(e) d'une formation Bac +5 en Comptabilité/Finance, avec une très bonne base en Comptabilité / Contrôle de Gestion, vous souhaitez donner un élan international à votre carrière et intégrer un groupe avec de fortes valeurs.
-
-Vous êtes reconnu(e) pour votre sens du relationnel & êtes apte à interagir avec une multitude d’interlocuteurs
-(opérationnels, clients, DAF…).
-
-Vous maîtrisez les outils informatiques (plus particulièrement Microsoft Excel) & avez un très bon niveau d'anglais (écrit & oral) ?
-
-Vous souhaitez partir à l'international et êtes attiré(e) par l'Afrique et son potentiel ? Cette mission est faite pour vous, Rejoignez-nous !
+Master's in Accounting, Finance (or other technical degree combined with demonstrated 
+equivalent work experience) required, MBA preferred.
+• Demonstrated understanding and application of Financial and Cost Accounting (in a manufacturing 
+environment preferred). 
+• Demonstrated financial analysis experience, including the ability to develop & maintain complex 
+financial spreadsheets. 
+• Advanced Microsoft Excel (Current Version) skills, including tables 
+• Experience navigating an ERP and reporting system, developing queries to run financial reports 
+and extracting data to analyze for business results and trends or quick learner of system
+• Strong written and verbal communication skills.
+• Ability to oscillate between details and big picture with presentation of information to varying 
+audiences (staff through management level)
+• Intercultural and political savy – understands and can work effectively within a regional and global 
+environment.
+• Alignment and understand of own objectives and role with overall business goals and strategy 
+• Attention to detail and strong analytical skills and an eye for details/proofing. 
+• Interpersonal skills and influencing skills – can gather support and feedback for ideas. 
+• Ability to manage multiple responsibilities, prioritize effectively and meet deadlines without 
+suffering on quality and accuracy. 
+• Ability to clearly document and explain work processes and systems. 
+• Possesses a collaborative mindset and is a team player, contributing to team results as needed. 
+• Problem solving skills – can identify, seek root cause for and explain financial issues and variances 
+and their impact on the business’ financial reporting/outcomes.
 
 </details>
 
