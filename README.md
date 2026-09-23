@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/09/2026 21:04:45**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 21:27:36**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2321,86 +2321,6 @@ QUALITÉS ATTENDUES
 •	Curiosité et goût pour les chiffres.
 •	Force de proposition et volonté d'amélioration continue.
 •	Autonomie et capacité à évoluer dans un environnement international.
-
-</details>
-
-<details>
-<summary><strong>Accountant and Advisory Senior (H/F)</strong> · ORBISS · BOSTON          -MA-, ETATS-UNIS · 4 059,86 €/mois</summary>
-
-- **Entreprise :** ORBISS
-- **Lieu :** BOSTON          -MA-, ETATS-UNIS
-- **Indemnité :** 4 059,86 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 14/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244044](https://mon-vie-via.businessfrance.fr/offres/244044)
-
-**Description du poste**
-
-Orbiss is an advisory and tax firm specialized in business growth in the United States. Founded in 2019, Orbiss helps international small and medium-sized private companies successfully scale up in the United States.  
-
-The firm offers a 360° and tailor-made support to its clients' cross-border accounting, tax, and M&A transaction needs. 
-The Orbiss team’s vision is modernity. This vision is implemented through an innovative approach focusing on processes automation and aiming to place people at the heart of every decision, every day, in line with our values: kindness, honesty, respect, and integrity. Visit Orbiss.com to learn more about us.
-
-As an Accountant and Advisory Senior, you will be responsible for:
- Managing a client portfolio from bookkeeping to year-end closing, including bank reconciliation, closing journal entries, P&L analysis, and supporting schedules.  
-
-1. Full-Cycle Client Management
-· Serve as the main point of contact for an assigned portfolio of clients.
-· Oversee the end-to-end accounting cycle including day-to-day bookkeeping, monthly closings, year-end financial statements, and compliance deadlines.
-· Ensure timely delivery of accurate financial information to clients in accordance with relevant accounting standards and deadlines.
-
-2. Financial Reporting & Analysis
-· Prepare monthly, quarterly, and annual financial statements (P&L, balance sheet, cash flow) in accordance with GAAP or applicable frameworks.
-· Perform variance analysis and trend identification to support advisory insights.
-· Deliver executive summaries to clients, highlighting financial health, key performance indicators (KPIs), and areas for improvement.
-
-3. Account Reconciliation & Integrity
-· Perform bank and credit card reconciliations with accuracy and timeliness.
-· Reconcile balance sheet accounts, including intercompany transactions and accruals.
-· Identify discrepancies, investigate root causes, and propose corrective actions.
-
-4. Process Optimization & Advisory
-· Evaluate and propose improvements to client accounting processes, internal controls, and technology tools (e.g., automation, ERP systems).
-· Provide clients with strategic insights and guidance to streamline operations and improve financial visibility.
-· Assist in implementing accounting best practices tailored to the client’s business needs.
-
-5. Intercompany & Consolidation
-· Manage intercompany reconciliations and ensure eliminations are properly accounted for.
-· Support or lead consolidation processes for clients with multi-entity structures, including foreign subsidiaries when applicable.
-
-6. Tax & Compliance Support
-· Collaborate with the tax team by providing accurate trial balances, schedules, and documentation required for tax returns.
-· Ensure compliance with federal, state, and local filing requirements by maintaining accurate and up-to-date records.
-
-7. Team Facilitator
-· Support, coach, and review the work of junior accountants and interns.
-· Provide technical guidance, conduct quality control reviews, and promote a learning culture within the team.
-· Help onboard new team members and ensure adherence to internal accounting procedures.
-
-8. Client Relationship Management
-· Build strong, long-term relationships with clients by offering proactive support and clear communication.
-· Participate in client calls and meetings to address accounting questions and provide financial insights.
-· Understand each client’s business model to offer relevant and customized advisory services.
-
-**Profil recherché**
-
-The required competencies are: 
-- Bachelor’s degree or higher in Accounting or Finance. 
-- 3 to 5 years of experience working in a public accounting firm. 
-- Technical accounting expertise in bookkeeping, journal entries, bank reconciliations, and financial close procedures. 
-- Strong financial reporting skills across monthly, quarterly, and annual periods. 
-- Familiarity with U.S. accounting principles and practices (US GAAP) is considered a strong asset. 
-- Analytical thinking to detect and resolve financial discrepancies. 
-- Problem-solving mindset with the ability to recommend process enhancements. 
-- Familiarity with intercompany reconciliation and multi-entity accounting. 
-- Experience in financial consolidation and reporting. 
-- Team leadership and mentoring capabilities. 
-- Precision and attention to detail in all tasks. 
-- Effective multitasking while delivering high-quality outputs. 
-- Strong time management to meet multiple deadlines. 
-- Excellent verbal and written communication skills to convey complex accounting concepts. 
-
-Visit orbiss.com to learn more about Orbiss.
 
 </details>
 
