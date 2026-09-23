@@ -382,9 +382,113 @@ function buildOffersPageData(offers, compatCache) {
     });
 }
 
-function buildOffersPageHtml(offers, geoPoints, compatCache) {
+function median(sortedNumbers) {
+  const n = sortedNumbers.length;
+  if (n === 0) return null;
+  const mid = Math.floor(n / 2);
+  return n % 2 === 0 ? (sortedNumbers[mid - 1] + sortedNumbers[mid]) / 2 : sortedNumbers[mid];
+}
+
+function topCounts(values, limit) {
+  const counts = new Map();
+  for (const v of values) {
+    if (!v) continue;
+    counts.set(v, (counts.get(v) || 0) + 1);
+  }
+  return {
+    total: counts.size,
+    top: [...counts.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, limit)
+      .map(([label, value]) => ({ label, value })),
+  };
+}
+
+// Lundi de la semaine ISO contenant `date`, au format jj/mm.
+function weekStartLabel(date) {
+  const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  const day = d.getUTCDay() || 7;
+  d.setUTCDate(d.getUTCDate() - day + 1);
+  return d.toLocaleDateString("fr-FR", { day: "2-digit", month: "2-digit" });
+}
+
+function buildDashboardData(offers, compatCache, totalSeen) {
+  const indemnites = offers
+    .map((o) => o.indemnite)
+    .filter((v) => typeof v === "number")
+    .sort((a, b) => a - b);
+
+  const avgIndemnite = indemnites.length
+    ? indemnites.reduce((sum, v) => sum + v, 0) / indemnites.length
+    : null;
+
+  const indemniteBuckets = [
+    { label: "< 2000 €", min: 0, max: 2000 },
+    { label: "2000-2499 €", min: 2000, max: 2500 },
+    { label: "2500-2999 €", min: 2500, max: 3000 },
+    { label: "3000-3499 €", min: 3000, max: 3500 },
+    { label: "3500-3999 €", min: 3500, max: 4000 },
+    { label: "4000 € et +", min: 4000, max: Infinity },
+  ].map((b) => ({
+    label: b.label,
+    value: indemnites.filter((v) => v >= b.min && v < b.max).length,
+  }));
+
+  const pays = topCounts(offers.map((o) => o.countryName), 10);
+  const entreprises = topCounts(offers.map((o) => o.organizationName), 10);
+
+  const weekCounts = new Map();
+  for (const o of offers) {
+    if (!o.startBroadcastDate) continue;
+    const label = weekStartLabel(new Date(o.startBroadcastDate));
+    weekCounts.set(label, (weekCounts.get(label) || 0) + 1);
+  }
+  const semaines = [...weekCounts.entries()]
+    .sort((a, b) => {
+      const [da, ma] = a[0].split("/").map(Number);
+      const [db, mb] = b[0].split("/").map(Number);
+      return ma - mb || da - db;
+    })
+    .map(([label, value]) => ({ label: `Semaine du ${label}`, value }));
+
+  const compatScores = offers
+    .map((o) => compatCache[String(o.id)]?.score)
+    .filter((v) => typeof v === "number");
+  const avgCompat = compatScores.length
+    ? Math.round(compatScores.reduce((sum, v) => sum + v, 0) / compatScores.length)
+    : null;
+  const compatBuckets = [
+    { label: "0-39 %", min: 0, max: 40, tier: "low" },
+    { label: "40-69 %", min: 40, max: 70, tier: "mid" },
+    { label: "70-100 %", min: 70, max: 101, tier: "high" },
+  ].map((b) => ({
+    label: b.label,
+    tier: b.tier,
+    value: compatScores.filter((v) => v >= b.min && v < b.max).length,
+  }));
+
+  return {
+    totalActives: offers.length,
+    totalVus: totalSeen,
+    indemniteMoyenne: avgIndemnite,
+    indemniteMediane: median(indemnites),
+    indemniteBuckets,
+    pays: pays.top,
+    nbPays: pays.total,
+    entreprises: entreprises.top,
+    nbEntreprises: entreprises.total,
+    semaines,
+    compatBuckets,
+    compatNotees: compatScores.length,
+    compatMoyenne: avgCompat,
+  };
+}
+
+function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
   const now = new Date().toLocaleString("fr-FR", { timeZone: "Europe/Paris" });
   const data = buildOffersPageData(offers, compatCache);
+  const dashboard = buildDashboardData(offers, compatCache, totalSeen);
+  const dashboardJson = JSON.stringify(dashboard).replace(/</g, "\\u003c");
   const dataJson = JSON.stringify(data).replace(/</g, "\\u003c");
   const geoJson = JSON.stringify(geoPoints).replace(/</g, "\\u003c");
 
@@ -634,6 +738,101 @@ function buildOffersPageHtml(offers, geoPoints, compatCache) {
     flex-direction: column;
     gap: 12px;
   }
+  .dash-wrap {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 16px 16px 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 10px;
+  }
+  .stat-tile {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+  }
+  .stat-value {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  .stat-label {
+    display: block;
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin-top: 2px;
+  }
+  .chart-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0 0 4px;
+  }
+  .chart-sub {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin: 0 0 10px;
+  }
+  .hbar-chart {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 12px;
+  }
+  .hbar-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .hbar-row-label {
+    width: 128px;
+    flex: 0 0 128px;
+    font-size: 0.82rem;
+    color: var(--text);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .hbar-row-track {
+    display: block;
+    flex: 1;
+    background: var(--tag-bg);
+    border-radius: 4px;
+    height: 18px;
+    overflow: hidden;
+  }
+  .hbar-row-fill {
+    display: block;
+    height: 100%;
+    min-width: 3px;
+    background: var(--accent);
+    border-radius: 0 4px 4px 0;
+  }
+  .hbar-fill-high { background: #16a34a; }
+  .hbar-fill-mid { background: #d97706; }
+  .hbar-fill-low { background: #dc2626; }
+  @media (prefers-color-scheme: dark) {
+    .hbar-fill-high { background: #22c55e; }
+    .hbar-fill-mid { background: #f59e0b; }
+    .hbar-fill-low { background: #ef4444; }
+  }
+  .hbar-row-value {
+    flex: 0 0 30px;
+    text-align: right;
+    font-size: 0.82rem;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .dash-empty {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
 </style>
 </head>
 <body>
@@ -645,6 +844,7 @@ function buildOffersPageHtml(offers, geoPoints, compatCache) {
   <div class="tabs">
     <button class="tab-btn active" data-tab="liste" type="button">Liste</button>
     <button class="tab-btn" data-tab="carte" type="button">Carte</button>
+    <button class="tab-btn" data-tab="dashboard" type="button">Dashboard</button>
   </div>
 </header>
 
@@ -661,9 +861,42 @@ function buildOffersPageHtml(offers, geoPoints, compatCache) {
   <div id="carte-offres"></div>
 </section>
 
+<section id="panel-dashboard" class="panel">
+  <div class="dash-wrap">
+    <div class="stat-grid" id="stat-grid"></div>
+
+    <div class="chart-block">
+      <h2 class="chart-title">Top pays</h2>
+      <div class="hbar-chart" id="chart-pays"></div>
+    </div>
+
+    <div class="chart-block">
+      <h2 class="chart-title">Entreprises qui recrutent le plus</h2>
+      <div class="hbar-chart" id="chart-entreprises"></div>
+    </div>
+
+    <div class="chart-block">
+      <h2 class="chart-title">Répartition des indemnités</h2>
+      <div class="hbar-chart" id="chart-indemnites"></div>
+    </div>
+
+    <div class="chart-block">
+      <h2 class="chart-title">Offres en ligne par semaine de publication</h2>
+      <div class="hbar-chart" id="chart-semaines"></div>
+    </div>
+
+    <div class="chart-block" id="chart-compat-block">
+      <h2 class="chart-title">Répartition des scores de compatibilité</h2>
+      <p class="chart-sub" id="chart-compat-sub"></p>
+      <div class="hbar-chart" id="chart-compat"></div>
+    </div>
+  </div>
+</section>
+
 <script>
   const OFFRES = ${dataJson};
   const GEO_POINTS = ${geoJson};
+  const DASHBOARD = ${dashboardJson};
 
   const listEl = document.getElementById("list");
   const searchEl = document.getElementById("search");
@@ -746,7 +979,11 @@ function buildOffersPageHtml(offers, geoPoints, compatCache) {
 
   // Onglets
   const tabBtns = document.querySelectorAll(".tab-btn");
-  const panels = { liste: document.getElementById("panel-liste"), carte: document.getElementById("panel-carte") };
+  const panels = {
+    liste: document.getElementById("panel-liste"),
+    carte: document.getElementById("panel-carte"),
+    dashboard: document.getElementById("panel-dashboard"),
+  };
   let globeInitialized = false;
 
   tabBtns.forEach((btn) => {
@@ -761,6 +998,85 @@ function buildOffersPageHtml(offers, geoPoints, compatCache) {
       }
     });
   });
+
+  // Tableau de bord
+  function formatNombre(n) {
+    return n.toLocaleString("fr-FR");
+  }
+
+  function renderStatTiles() {
+    const tiles = [
+      { value: formatNombre(DASHBOARD.totalActives), label: "Offres actuellement en ligne" },
+      { value: formatNombre(DASHBOARD.totalVus), label: "Offres vues depuis le début" },
+      {
+        value: DASHBOARD.indemniteMediane != null
+          ? \`\${Math.round(DASHBOARD.indemniteMediane).toLocaleString("fr-FR")} €\`
+          : "N/C",
+        label: "Indemnité médiane",
+      },
+      {
+        value: DASHBOARD.indemniteMoyenne != null
+          ? \`\${Math.round(DASHBOARD.indemniteMoyenne).toLocaleString("fr-FR")} €\`
+          : "N/C",
+        label: "Indemnité moyenne",
+      },
+      { value: formatNombre(DASHBOARD.nbPays), label: "Pays représentés" },
+      { value: formatNombre(DASHBOARD.nbEntreprises), label: "Entreprises différentes" },
+    ];
+
+    if (DASHBOARD.compatNotees > 0) {
+      tiles.push({
+        value: \`\${DASHBOARD.compatMoyenne} %\`,
+        label: \`Compatibilité moyenne (\${DASHBOARD.compatNotees} offre(s) notée(s))\`,
+      });
+    }
+
+    const grid = document.getElementById("stat-grid");
+    grid.innerHTML = tiles
+      .map((t) => \`<div class="stat-tile"><span class="stat-value">\${t.value}</span><span class="stat-label">\${t.label}</span></div>\`)
+      .join("");
+  }
+
+  function renderHBarChart(containerId, rows, fillClassFn) {
+    const container = document.getElementById(containerId);
+    if (!rows || rows.length === 0 || rows.every((r) => r.value === 0)) {
+      container.innerHTML = '<p class="dash-empty">Pas encore assez de données.</p>';
+      return;
+    }
+    const max = Math.max(...rows.map((r) => r.value), 1);
+    container.innerHTML = rows
+      .map((r) => {
+        const pct = Math.max((r.value / max) * 100, 2);
+        const fillClass = fillClassFn ? fillClassFn(r) : "";
+        return \`
+          <div class="hbar-row">
+            <span class="hbar-row-label" title="\${r.label}">\${r.label}</span>
+            <span class="hbar-row-track"><span class="hbar-row-fill \${fillClass}" style="width:\${pct}%"></span></span>
+            <span class="hbar-row-value">\${r.value}</span>
+          </div>
+        \`;
+      })
+      .join("");
+  }
+
+  function renderDashboard() {
+    renderStatTiles();
+    renderHBarChart("chart-pays", DASHBOARD.pays);
+    renderHBarChart("chart-entreprises", DASHBOARD.entreprises);
+    renderHBarChart("chart-indemnites", DASHBOARD.indemniteBuckets);
+    renderHBarChart("chart-semaines", DASHBOARD.semaines);
+
+    const compatBlock = document.getElementById("chart-compat-block");
+    if (DASHBOARD.compatNotees > 0) {
+      document.getElementById("chart-compat-sub").textContent =
+        \`Sur les \${DASHBOARD.compatNotees} offre(s) notée(s) depuis la mise en place du score.\`;
+      renderHBarChart("chart-compat", DASHBOARD.compatBuckets, (r) => \`hbar-fill-\${r.tier}\`);
+    } else {
+      compatBlock.style.display = "none";
+    }
+  }
+
+  renderDashboard();
 
   // Regroupe les offres géolocalisées par point (arrondi ~1 km) pour ne pas
   // empiler des dizaines de marqueurs au même endroit.
@@ -890,7 +1206,7 @@ async function main() {
 
   fs.writeFileSync(README_FILE, buildReadme(offers, compatCache));
   fs.mkdirSync(path.dirname(PAGE_FILE), { recursive: true });
-  fs.writeFileSync(PAGE_FILE, buildOffersPageHtml(offers, geoPoints, compatCache));
+  fs.writeFileSync(PAGE_FILE, buildOffersPageHtml(offers, geoPoints, compatCache, updatedSeenIds.size));
 
   const scoredCount = offers.filter((o) => compatCache[String(o.id)]).length;
   console.log(
