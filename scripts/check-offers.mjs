@@ -82,6 +82,16 @@ function offerLink(offer) {
   return `${OFFER_PAGE_URL}/${offer.id}`;
 }
 
+function formatMissionPeriod(offer) {
+  const start = offer.missionStartDate ? new Date(offer.missionStartDate) : null;
+  const end = offer.missionEndDate ? new Date(offer.missionEndDate) : null;
+  const fmt = (d) => d.toLocaleDateString("fr-FR", { day: "numeric", month: "short", year: "numeric" });
+
+  if (start && end) return `Du ${fmt(start)} au ${fmt(end)}`;
+  if (start) return `À partir du ${fmt(start)}`;
+  return "Dates non précisées";
+}
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -192,7 +202,7 @@ function formatOfferMarkdown(offer) {
 - **Entreprise :** ${offer.organizationName || "Non précisée"}
 - **Lieu :** ${lieu}
 - **Indemnité :** ${formatIndemnite(offer)}
-- **Durée de la mission :** ${offer.missionDuration ? `${offer.missionDuration} mois` : "Non précisée"}
+- **Durée de la mission :** ${offer.missionDuration ? `${offer.missionDuration} mois` : "Non précisée"} (${formatMissionPeriod(offer)})
 - **Publiée le :** ${publie}
 - **Lien vers l'offre :** [${offerLink(offer)}](${offerLink(offer)})
 
@@ -251,6 +261,7 @@ function buildOffersPageData(offers) {
       pays: offer.countryName || "",
       indemnite: formatIndemnite(offer),
       duree: offer.missionDuration ? `${offer.missionDuration} mois` : "Non précisée",
+      periode: formatMissionPeriod(offer),
       publieLe: offer.startBroadcastDate
         ? new Date(offer.startBroadcastDate).toLocaleDateString("fr-FR")
         : "Non précisée",
@@ -534,7 +545,7 @@ function buildOffersPageHtml(offers, geoPoints) {
         <p class="offer-sub">\${o.entreprise} · \${lieu}</p>
         <div class="tags">
           <span class="tag">\${o.indemnite}</span>
-          <span class="tag">\${o.duree}</span>
+          <span class="tag">\${o.periode} (\${o.duree})</span>
           <span class="tag">Publiée le \${o.publieLe}</span>
         </div>
       </summary>

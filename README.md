@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/09/2026 17:47:27**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 18:05:31**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -20,7 +20,7 @@ Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 - **Entreprise :** SOLINA GROUP SERVICES
 - **Lieu :** OAK BROOK -IL-, ETATS-UNIS
 - **Indemnité :** 3 769,14 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/242163](https://mon-vie-via.businessfrance.fr/offres/242163)
 
@@ -95,7 +95,7 @@ Skills & Mindset
 - **Entreprise :** FRIEDLANDER
 - **Lieu :** GEORGETOWN, GUYANA
 - **Indemnité :** 3 164,30 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246319](https://mon-vie-via.businessfrance.fr/offres/246319)
 
@@ -146,7 +146,7 @@ Si nous poursuivons l’aventure ensemble, vous me rencontrerez au sein de notre
 - **Entreprise :** ARKEMA FRANCE
 - **Lieu :** RADNOR       -PA-, ETATS-UNIS
 - **Indemnité :** 3 671,13 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246287](https://mon-vie-via.businessfrance.fr/offres/246287)
 
@@ -233,7 +233,7 @@ and their impact on the business’ financial reporting/outcomes.
 - **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
 - **Lieu :** BARCELONE, ESPAGNE
 - **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245978](https://mon-vie-via.businessfrance.fr/offres/245978)
 
@@ -282,7 +282,7 @@ Les Avantages
 - **Entreprise :** ALPINEO CONSULTING LYON
 - **Lieu :** VERNIER, SUISSE
 - **Indemnité :** 4 150,28 €/mois
-- **Durée de la mission :** 6 mois
+- **Durée de la mission :** 6 mois (Du 1 déc. 2026 au 1 juin 2027)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245944](https://mon-vie-via.businessfrance.fr/offres/245944)
 
@@ -350,7 +350,7 @@ Anglais professionnel courant (C1) : réunions, relances et reporting ; le fran�
 - **Entreprise :** FORTIL GROUP
 - **Lieu :** LIEGE, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245348](https://mon-vie-via.businessfrance.fr/offres/245348)
 
@@ -403,7 +403,7 @@ Vous entreprenez, portez des projets, des engagements. Vous challenger vos méth
 - **Entreprise :** TELCO OI
 - **Lieu :** ANTANANARIVO, MADAGASCAR
 - **Indemnité :** 2 559,22 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246326](https://mon-vie-via.businessfrance.fr/offres/246326)
 
@@ -455,7 +455,7 @@ o	Aisance relationnelle et capacité à dialoguer avec des interlocuteurs de hau
 - **Entreprise :** CACEIS
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246277](https://mon-vie-via.businessfrance.fr/offres/246277)
 
@@ -490,7 +490,7 @@ o   Compétences comportementales : Rigueur, organisation, curiosité, sens du t
 - **Entreprise :** AMUNDI ASSET MANAGEMENT
 - **Lieu :** DUBLIN, IRLANDE
 - **Indemnité :** 3 514,63 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246274](https://mon-vie-via.businessfrance.fr/offres/246274)
 
@@ -524,7 +524,7 @@ The successful VIE candidate will support the team in the analysis and implement
 - **Entreprise :** SANOFI WINTHROP INDUSTRIE
 - **Lieu :** CAMBRIDGE       -MA-, ETATS-UNIS
 - **Indemnité :** 4 059,86 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246271](https://mon-vie-via.businessfrance.fr/offres/246271)
 
@@ -614,7 +614,7 @@ To facilitate the examination of your application by our English-speaking manage
 - **Entreprise :** COLAS RAIL
 - **Lieu :** SANTIAGO, CHILI
 - **Indemnité :** 2 465,52 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246270](https://mon-vie-via.businessfrance.fr/offres/246270)
 
@@ -650,7 +650,7 @@ Dans le cadre du processus d'integration du candidat, la prise de poste commence
 - **Entreprise :** ENGIE GLOBAL MARKETS
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246259](https://mon-vie-via.businessfrance.fr/offres/246259)
 
@@ -736,7 +736,7 @@ The ideal candidate has a master’s degree in Finance.
 - **Entreprise :** LEGRAND FRANCE
 - **Lieu :** AUCKLAND, NOUVELLE-ZELANDE
 - **Indemnité :** 2 633,50 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246229](https://mon-vie-via.businessfrance.fr/offres/246229)
 
@@ -766,7 +766,7 @@ You have ERP proficiency and fluency in BPC.
 - **Entreprise :** LEGRAND FRANCE
 - **Lieu :** SYDNEY, AUSTRALIE
 - **Indemnité :** 3 623,81 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246228](https://mon-vie-via.businessfrance.fr/offres/246228)
 
@@ -796,7 +796,7 @@ You have ERP proficiency and fluency in BPC.
 - **Entreprise :** ODDO BHF SCA
 - **Lieu :** FRANCFORT, ALLEMAGNE
 - **Indemnité :** 3 030,57 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246219](https://mon-vie-via.businessfrance.fr/offres/246219)
 
@@ -825,7 +825,7 @@ You have ERP proficiency and fluency in BPC.
 - **Entreprise :** CLEEVEN ND
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245470](https://mon-vie-via.businessfrance.fr/offres/245470)
 
@@ -887,7 +887,7 @@ A first experience in the financial sector is a +
 - **Entreprise :** MORGAN PHILIPS
 - **Lieu :** MEXICO, MEXIQUE
 - **Indemnité :** 3 200,91 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245420](https://mon-vie-via.businessfrance.fr/offres/245420)
 
@@ -922,7 +922,7 @@ A first experience in the financial sector is a +
 - **Entreprise :** ERE
 - **Lieu :** VARSOVIE, POLOGNE
 - **Indemnité :** 2 725,23 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244882](https://mon-vie-via.businessfrance.fr/offres/244882)
 
@@ -966,7 +966,7 @@ Diplôme : MASTER 1, MASTER 2, MBA
 - **Entreprise :** CLEEVEN ND
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 6 mois
+- **Durée de la mission :** 6 mois (Du 1 déc. 2026 au 1 juin 2027)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/231210](https://mon-vie-via.businessfrance.fr/offres/231210)
 
@@ -1040,7 +1040,7 @@ A first experience in compliance, internal audit, or financial crime prevention 
 - **Entreprise :** BK CONSULTING FRANCE
 - **Lieu :** LUXEMBOURG, LUXEMBOURG
 - **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 21/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246216](https://mon-vie-via.businessfrance.fr/offres/246216)
 
@@ -1068,7 +1068,7 @@ Nous recherchons un/une candidat(e) pugnace et constant(e) dans son travail. Cet
 - **Entreprise :** COMPAGNIE MONDIALE DE TRANSPORT
 - **Lieu :** ATHENES, GRECE
 - **Indemnité :** 2 276,83 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 21/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246136](https://mon-vie-via.businessfrance.fr/offres/246136)
 
@@ -1126,7 +1126,7 @@ Le(la) candidat(e) travaillera en Le(la) candidat(e) travaillera en direct avec 
 - **Entreprise :** MOON SURGICAL
 - **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
 - **Indemnité :** 5 087,01 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 21/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245748](https://mon-vie-via.businessfrance.fr/offres/245748)
 
@@ -1176,7 +1176,7 @@ Maintain and strengthen internal control and compliance.
 - **Entreprise :** EURO LATINA FINANCE
 - **Lieu :** SAO PAULO, BRESIL
 - **Indemnité :** 2 689,62 €/mois
-- **Durée de la mission :** 9 mois
+- **Durée de la mission :** 9 mois (Du 1 janv. 2027 au 1 oct. 2027)
 - **Publiée le :** 21/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245372](https://mon-vie-via.businessfrance.fr/offres/245372)
 
@@ -1256,7 +1256,7 @@ Personal Attributes
 - **Entreprise :** CONSEILS PLUS
 - **Lieu :** MILAN, ITALIE
 - **Indemnité :** 2 998,98 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 18/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246089](https://mon-vie-via.businessfrance.fr/offres/246089)
 
@@ -1297,7 +1297,7 @@ Enfin, si innovation, service client et gestion de projet résonnent en vous, vo
 - **Entreprise :** CA CONSUMER FINANCE
 - **Lieu :** STUTTGART, ALLEMAGNE
 - **Indemnité :** 3 030,57 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 18/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246087](https://mon-vie-via.businessfrance.fr/offres/246087)
 
@@ -1373,7 +1373,7 @@ Plus:
 - **Entreprise :** MERIDIAM
 - **Lieu :** LIBREVILLE, GABON
 - **Indemnité :** 2 769,07 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
 - **Publiée le :** 18/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246082](https://mon-vie-via.businessfrance.fr/offres/246082)
 
@@ -1442,7 +1442,7 @@ Début de contrat souhaitée : 1er Février 2027
 - **Entreprise :** CAISSE D'EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 18/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245921](https://mon-vie-via.businessfrance.fr/offres/245921)
 
@@ -1511,7 +1511,7 @@ o	Proactivité et autonomie.
 - **Entreprise :** MINEBEA ACCESSSOLUTIONS FRANCE
 - **Lieu :** KOSICE, SLOVAQUIE
 - **Indemnité :** 2 363,04 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 nov. 2026 au 1 mai 2028)
 - **Publiée le :** 18/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244965](https://mon-vie-via.businessfrance.fr/offres/244965)
 
@@ -1533,7 +1533,7 @@ Technical Skills: Experience in SAP  and Microsoft Office (Excel, PowerPoint, Wo
 - **Entreprise :** CACEIS
 - **Lieu :** SELANGOR, MALAISIE
 - **Indemnité :** 2 082,26 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 17/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246067](https://mon-vie-via.businessfrance.fr/offres/246067)
 
@@ -1600,7 +1600,7 @@ Please send your resume in English
 - **Entreprise :** CRITEO TECHNOLOGY
 - **Lieu :** BARCELONE, ESPAGNE
 - **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 16/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246022](https://mon-vie-via.businessfrance.fr/offres/246022)
 
@@ -1645,7 +1645,7 @@ A proactive and autonomous mindset, with the ability to manage multiple projects
 - **Entreprise :** PAPREC FRANCE
 - **Lieu :** MILAN, ITALIE
 - **Indemnité :** 2 998,98 €/mois
-- **Durée de la mission :** 6 mois
+- **Durée de la mission :** 6 mois (Du 1 nov. 2026 au 1 mai 2027)
 - **Publiée le :** 16/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245982](https://mon-vie-via.businessfrance.fr/offres/245982)
 
@@ -1686,7 +1686,7 @@ Italien courant impératif (échanges quotidiens avec les équipes locales), fra
 - **Entreprise :** GBH
 - **Lieu :** SAINT DOMINGUE, REPUBLIQUE DOMINICAINE
 - **Indemnité :** 2 209,00 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 16/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245818](https://mon-vie-via.businessfrance.fr/offres/245818)
 
@@ -1739,7 +1739,7 @@ Pourquoi nous rejoindre ?
 - **Entreprise :** VINCI CONSTRUCTION SI
 - **Lieu :** BOTTROP, ALLEMAGNE
 - **Indemnité :** 3 030,57 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 16/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245657](https://mon-vie-via.businessfrance.fr/offres/245657)
 
@@ -1802,7 +1802,7 @@ QUALITÉS HUMAINES ET COMPÉTENCES :
 - **Entreprise :** DIRECTION GENERALE DU TRESOR
 - **Lieu :** DHAKA, BANGLADESH
 - **Indemnité :** 3 072,77 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
 - **Publiée le :** 16/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246021](https://mon-vie-via.businessfrance.fr/offres/246021)
 
@@ -1864,7 +1864,7 @@ MERCI D'ENVOYER VOTRE CV ET LM EN FRANCAIS UNIQUEMENT
 - **Entreprise :** PRODUCT DEVELOPMENT EMPLOYENEURSHIP
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
 - **Publiée le :** 15/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245989](https://mon-vie-via.businessfrance.fr/offres/245989)
 
@@ -1894,7 +1894,7 @@ Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG e
 - **Entreprise :** CA INDOSUEZ
 - **Lieu :** MILAN, ITALIE
 - **Indemnité :** 2 998,98 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 15/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245972](https://mon-vie-via.businessfrance.fr/offres/245972)
 
@@ -1931,7 +1931,7 @@ Knowledge of the Real Estate Finance business would be considered a plus
 - **Entreprise :** LEXIFI
 - **Lieu :** NEW YORK  -NY-, ETATS-UNIS
 - **Indemnité :** 5 025,51 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 15/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245718](https://mon-vie-via.businessfrance.fr/offres/245718)
 
@@ -2041,7 +2041,7 @@ Une expertise technique approfondie n’est pas requise au démarrage, mais le/l
 - **Entreprise :** ALSTOM TRANSPORT SA
 - **Lieu :** COPENHAGUE, DANEMARK
 - **Indemnité :** 3 681,85 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 14/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245914](https://mon-vie-via.businessfrance.fr/offres/245914)
 
@@ -2118,7 +2118,7 @@ As a global business, we’re an equal-opportunity employer that celebrates dive
 - **Entreprise :** PLANISWARE
 - **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
 - **Indemnité :** 5 087,01 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 14/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245319](https://mon-vie-via.businessfrance.fr/offres/245319)
 
@@ -2177,7 +2177,7 @@ Before applying, be sure to check the eligibility requirements for this destinat
 - **Entreprise :** PLANISWARE
 - **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
 - **Indemnité :** 5 087,01 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 14/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244495](https://mon-vie-via.businessfrance.fr/offres/244495)
 
@@ -2237,7 +2237,7 @@ Before applying, be sure to check the eligibility requirements for this destinat
 - **Entreprise :** GROUPE IDEC INTERNATIONAL
 - **Lieu :** PORTO, PORTUGAL
 - **Indemnité :** 2 677,43 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
 - **Publiée le :** 14/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244146](https://mon-vie-via.businessfrance.fr/offres/244146)
 
@@ -2327,7 +2327,7 @@ QUALITÉS ATTENDUES
 - **Entreprise :** ORBISS
 - **Lieu :** BOSTON          -MA-, ETATS-UNIS
 - **Indemnité :** 4 059,86 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 14/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244044](https://mon-vie-via.businessfrance.fr/offres/244044)
 
@@ -2407,7 +2407,7 @@ Visit orbiss.com to learn more about Orbiss.
 - **Entreprise :** KONI FRANCE FAB AMORTISSEURS
 - **Lieu :** ROTTERDAM, PAYS-BAS
 - **Indemnité :** 3 395,60 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
 - **Publiée le :** 14/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244024](https://mon-vie-via.businessfrance.fr/offres/244024)
 
@@ -2512,7 +2512,7 @@ Stakeholder satisfaction (CFO, Finance, Sales)
 - **Entreprise :** STELLANTIS BANK
 - **Lieu :** POTSDAM, ALLEMAGNE
 - **Indemnité :** 3 030,57 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 11/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245849](https://mon-vie-via.businessfrance.fr/offres/245849)
 
@@ -2555,7 +2555,7 @@ Knowledge of banking, lending, credit risk, or financial services is beneficial 
 - **Entreprise :** KLEPIERRE MANAGEMENT
 - **Lieu :** COPENHAGUE, DANEMARK
 - **Indemnité :** 3 681,85 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 11/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245857](https://mon-vie-via.businessfrance.fr/offres/245857)
 
@@ -2601,7 +2601,7 @@ Support sustainability and operational projects such as solar energy, EV chargin
 - **Entreprise :** ACE ORGA LAB
 - **Lieu :** GENEVE, SUISSE
 - **Indemnité :** 4 172,27 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 nov. 2026 au 1 mai 2028)
 - **Publiée le :** 10/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244645](https://mon-vie-via.businessfrance.fr/offres/244645)
 
@@ -2637,7 +2637,7 @@ What do You have?
 - **Entreprise :** DEEP DATING
 - **Lieu :** GENEVE, SUISSE
 - **Indemnité :** 4 172,27 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 09/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245672](https://mon-vie-via.businessfrance.fr/offres/245672)
 
@@ -2741,7 +2741,7 @@ Facultatif mais apprécié : un lien vers une vidéo de 2 min max pour vous pré
 - **Entreprise :** SCHNEIDER ELECTRIC INDUSTRIES SAS
 - **Lieu :** BUDAPEST, HONGRIE
 - **Indemnité :** 2 471,33 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 08/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245696](https://mon-vie-via.businessfrance.fr/offres/245696)
 
@@ -2818,7 +2818,7 @@ Ability to work effectively under pressure and meet deadlines.
 - **Entreprise :** AMETHIS ADVISORY
 - **Lieu :** LUXEMBOURG, LUXEMBOURG
 - **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
 - **Publiée le :** 08/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245665](https://mon-vie-via.businessfrance.fr/offres/245665)
 
@@ -2868,7 +2868,7 @@ o	La coordination des audits des fonds d’investissement
 - **Entreprise :** ENGIE GLOBAL MARKETS
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 08/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245664](https://mon-vie-via.businessfrance.fr/offres/245664)
 
@@ -2930,7 +2930,7 @@ Languages:
 - **Entreprise :** IVECO FRANCE
 - **Lieu :** ZEDELGEM, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 08/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245660](https://mon-vie-via.businessfrance.fr/offres/245660)
 
@@ -2979,7 +2979,7 @@ Key requirements:
 - **Entreprise :** SANOFI WINTHROP INDUSTRIE
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 08/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245644](https://mon-vie-via.businessfrance.fr/offres/245644)
 
@@ -3066,7 +3066,7 @@ To facilitate the examination of your application by our English-speaking manage
 - **Entreprise :** NEXANS FRANCE
 - **Lieu :** OSLO, NORVEGE
 - **Indemnité :** 3 436,12 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 07/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245646](https://mon-vie-via.businessfrance.fr/offres/245646)
 
@@ -3104,7 +3104,7 @@ We are looking for someone autonomous, with strong communication and cooperation
 - **Entreprise :** ODDO BHF SCA
 - **Lieu :** FRANCFORT, ALLEMAGNE
 - **Indemnité :** 3 030,57 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 07/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245635](https://mon-vie-via.businessfrance.fr/offres/245635)
 
@@ -3138,7 +3138,7 @@ Cette double exposition vous permettra d’appréhender les différents métiers
 - **Entreprise :** ELIOR GROUP
 - **Lieu :** BANGALORE, INDE
 - **Indemnité :** 2 608,14 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 07/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245633](https://mon-vie-via.businessfrance.fr/offres/245633)
 
@@ -3205,7 +3205,7 @@ Goût pour l’analyse et capacité à transformer les données financières en 
 - **Entreprise :** PRAMEX INTERNATIONAL
 - **Lieu :** MADRID, ESPAGNE
 - **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 07/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245630](https://mon-vie-via.businessfrance.fr/offres/245630)
 
@@ -3256,7 +3256,7 @@ Le(la) candidat(e) devra être motivé(e) par la perspective de rejoindre une so
 - **Entreprise :** MEOTEC
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 07/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245218](https://mon-vie-via.businessfrance.fr/offres/245218)
 
@@ -3342,7 +3342,7 @@ Vous aimez les environnements où la précision est essentielle et où vous pouv
 - **Entreprise :** NAOS
 - **Lieu :** MONTREAL -QC, CANADA
 - **Indemnité :** 2 632,92 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245622](https://mon-vie-via.businessfrance.fr/offres/245622)
 
@@ -3377,7 +3377,7 @@ La maîtrise de l'anglais est indispensable.
 - **Entreprise :** CACEIS
 - **Lieu :** SELANGOR, MALAISIE
 - **Indemnité :** 2 082,26 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245616](https://mon-vie-via.businessfrance.fr/offres/245616)
 
@@ -3439,7 +3439,7 @@ Please send your resume in English.
 - **Entreprise :** CACEIS
 - **Lieu :** SELANGOR, MALAISIE
 - **Indemnité :** 2 082,26 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245614](https://mon-vie-via.businessfrance.fr/offres/245614)
 
@@ -3503,7 +3503,7 @@ Please send your resume in English
 - **Entreprise :** SHIFT TECHNOLOGY
 - **Lieu :** BOSTON          -MA-, ETATS-UNIS
 - **Indemnité :** 4 059,86 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245608](https://mon-vie-via.businessfrance.fr/offres/245608)
 
@@ -3540,7 +3540,7 @@ At Shift, we value ownership from day one. In this role, you will:
 - **Entreprise :** NAVAL GROUP
 - **Lieu :** KUALA LUMPUR, MALAISIE
 - **Indemnité :** 2 082,26 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245600](https://mon-vie-via.businessfrance.fr/offres/245600)
 
@@ -3645,7 +3645,7 @@ Enfin, dès que nous aurons fait notre choix final, vous en serez informé(e) da
 - **Entreprise :** LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS
 - **Lieu :** ILLERTISSEN, ALLEMAGNE
 - **Indemnité :** 3 030,57 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/243858](https://mon-vie-via.businessfrance.fr/offres/243858)
 
@@ -3701,7 +3701,7 @@ Note:
 - **Entreprise :** ALBIOMA
 - **Lieu :** SAO PAULO, BRESIL
 - **Indemnité :** 2 689,62 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245612](https://mon-vie-via.businessfrance.fr/offres/245612)
 
@@ -3763,7 +3763,7 @@ Dans un contexte de fort développement de nos activités au Brésil, vos princi
 - **Entreprise :** FAURECIA INTERIORS HOLDING
 - **Lieu :** DEXTER -MO-, ETATS-UNIS
 - **Indemnité :** 3 391,06 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 03/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244750](https://mon-vie-via.businessfrance.fr/offres/244750)
 
@@ -3822,7 +3822,7 @@ We are looking for curious, ambitious, and business-minded finance talents who a
 - **Entreprise :** SIBELCO FRANCE
 - **Lieu :** BILBAO, ESPAGNE
 - **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 02/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244190](https://mon-vie-via.businessfrance.fr/offres/244190)
 
@@ -3906,7 +3906,7 @@ Adaptabilité interculturelle
 - **Entreprise :** ISALYS CONSULTING FRANCE
 - **Lieu :** BARCELONE, ESPAGNE
 - **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
 - **Publiée le :** 02/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245568](https://mon-vie-via.businessfrance.fr/offres/245568)
 
@@ -3947,7 +3947,7 @@ Administration & gestion :
 - **Entreprise :** BEIERSDORF S.A.S
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 02/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245562](https://mon-vie-via.businessfrance.fr/offres/245562)
 
@@ -3998,7 +3998,7 @@ Multilingual preferred : English, Dutch, French
 - **Entreprise :** SCHNEIDER ELECTRIC INDUSTRIES SAS
 - **Lieu :** BUDAPEST, HONGRIE
 - **Indemnité :** 2 471,33 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
 - **Publiée le :** 01/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245548](https://mon-vie-via.businessfrance.fr/offres/245548)
 
@@ -4059,7 +4059,7 @@ Comfortable working across cultures and time zones.
 - **Entreprise :** ALTEN
 - **Lieu :** BRUXELLES, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 01/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245544](https://mon-vie-via.businessfrance.fr/offres/245544)
 
@@ -4101,7 +4101,7 @@ Your profile:
 - **Entreprise :** FORTIL GROUP
 - **Lieu :** LIEGE, BELGIQUE
 - **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 31/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245507](https://mon-vie-via.businessfrance.fr/offres/245507)
 
@@ -4173,7 +4173,7 @@ Ce poste est ouvert aux personnes en situation de handicap, des adaptations de p
 - **Entreprise :** NATIXIS INVESTMENT MANAGERS
 - **Lieu :** LUXEMBOURG, LUXEMBOURG
 - **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 31/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245504](https://mon-vie-via.businessfrance.fr/offres/245504)
 
@@ -4241,7 +4241,7 @@ Ce poste est réservé aux candidats éligibles au programme V.I.E. de Business 
 - **Entreprise :** NORAC MISSIONS
 - **Lieu :** IBIUNA, BRESIL
 - **Indemnité :** 2 260,64 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 31/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245150](https://mon-vie-via.businessfrance.fr/offres/245150)
 
@@ -4298,7 +4298,7 @@ Proactive and results-driven
 - **Entreprise :** TOTALENERGIES SE
 - **Lieu :** POINTE NOIRE, CONGO
 - **Indemnité :** 3 045,94 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
 - **Publiée le :** 31/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245135](https://mon-vie-via.businessfrance.fr/offres/245135)
 
@@ -4352,7 +4352,7 @@ La branche Exploration-Production (EP) de TotalEnergies couvre l’exploration e
 - **Entreprise :** MAISON KYKA
 - **Lieu :** MOKA, MAURICE
 - **Indemnité :** 1 884,02 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 31/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245029](https://mon-vie-via.businessfrance.fr/offres/245029)
 
@@ -4431,7 +4431,7 @@ Soft skills
 - **Entreprise :** ORANO NUCLEAR PACKAGES AND SERVICES
 - **Lieu :** TOKYO, JAPON
 - **Indemnité :** 2 758,89 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 31/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244934](https://mon-vie-via.businessfrance.fr/offres/244934)
 
@@ -4503,7 +4503,7 @@ Durée du contrat VIE : 24 mois
 - **Entreprise :** BLUE CUBE (FRANCE)
 - **Lieu :** LONDRES, ROYAUME-UNI
 - **Indemnité :** 3 827,06 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 28/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245487](https://mon-vie-via.businessfrance.fr/offres/245487)
 
@@ -4549,7 +4549,7 @@ Candidates should have a genuine interest in financial markets and cryptocurrenc
 - **Entreprise :** GRIMALDI FRANCE
 - **Lieu :** TEMA, GHANA
 - **Indemnité :** 3 475,69 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 28/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245482](https://mon-vie-via.businessfrance.fr/offres/245482)
 
@@ -4581,7 +4581,7 @@ Diplôme en économie, finance ou domaine similaire, expérience souhaitée, esp
 - **Entreprise :** GRIMALDI FRANCE
 - **Lieu :** COTONOU, BENIN
 - **Indemnité :** 2 321,28 €/mois
-- **Durée de la mission :** 18 mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 28/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245481](https://mon-vie-via.businessfrance.fr/offres/245481)
 
@@ -4614,7 +4614,7 @@ Diplôme en économie, finance ou domaine similaire, expérience souhaitée, esp
 - **Entreprise :** COMPAGNIE DE SAINT-GOBAIN
 - **Lieu :** ESLÖV, SUEDE
 - **Indemnité :** 3 245,42 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 25/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245411](https://mon-vie-via.businessfrance.fr/offres/245411)
 
@@ -4678,7 +4678,7 @@ Mission VIE de 12 mois, renouvelable 12 mois supplémentaires.
 - **Entreprise :** ALTEN
 - **Lieu :** MADRID, ESPAGNE
 - **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 24 mois
+- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
 - **Publiée le :** 25/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245386](https://mon-vie-via.businessfrance.fr/offres/245386)
 
@@ -4727,7 +4727,7 @@ What We Offer
 - **Entreprise :** EURONEXT PARIS SA
 - **Lieu :** LONDRES, ROYAUME-UNI
 - **Indemnité :** 3 827,06 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 25/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245375](https://mon-vie-via.businessfrance.fr/offres/245375)
 
@@ -4833,7 +4833,7 @@ Strong team spirit with a commitment to delivering high-quality results
 - **Entreprise :** EXTIA
 - **Lieu :** LISBONNE, PORTUGAL
 - **Indemnité :** 2 677,43 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 24/08/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245367](https://mon-vie-via.businessfrance.fr/offres/245367)
 
@@ -4886,7 +4886,7 @@ Language Requirements:
 - **Entreprise :** SIBELCO FRANCE
 - **Lieu :** BILBAO, ESPAGNE
 - **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 12 mois
+- **Durée de la mission :** 12 mois (Du 1 oct. 2026 au 1 oct. 2027)
 - **Publiée le :** 28/07/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244192](https://mon-vie-via.businessfrance.fr/offres/244192)
 
