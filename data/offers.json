@@ -4168,16 +4168,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nDisposant de 17 bureaux dans 13 pays, Pramex International, filiale du Groupe BPCE, deuxième groupe bancaire français, est une société de conseil spécialisée en développement international et en Corporate Finance.\n\nLe département Corporate Finance conseille les PME/ETI dans leurs opérations de croissance externe, de cession, ou dans tout autre type d’opérations de haut de bilan, en France et à l’étranger.\n\nComposée d’une dizaine de professionnels à travers le monde, l’équipe Corporate Finance intervient sur des opérations mid-caps pour le compte de groupes industriels, de fonds d’investissement et d’entreprises familiales.\n\nL'équipe Pramex International Espagne est composée d’une vingtaine de professionnels accompagnant les société françaises dans leur développement en Espagne. Le candidat sélectionné travaillera sous la supervision directe du Managing Director Espagne et de l’équipe M&A basée à Paris.\n\n\nPoste et missions :\n\nEn tant que membre à part en entière de l’équipe M&A de Pramex International, le VIE contribuera aux phases d’origination et d’exécution des transactions françaises et internationales. Ses tâches s’orienteront autour de :\n\n-la préparation et la rédaction de documents de présentation (pitch, teaser, information memorandum...)\n-l’identification d’investisseurs/acquéreurs potentiels dans le cadre de mandat de vente\n-la réalisation d’études sectorielles et la recherche de cibles dans le cadre de mandats d’acquisition\n-l’analyse financière, l’évaluation d’entreprise\n-la rédaction de livrables à destination des clients de Pramex International (en français, en espagnol et en anglais)\n-l’encadrement des stagiaires, notamment sur les aspects méthodologiques, analytiques et de présentation des livrable",
     "creationDate": "2026-09-04T16:14:42Z",
     "missionStartDate": "2027-01-01T00:00:00",
