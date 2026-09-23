@@ -290,5 +290,10 @@
   "ville|vernier|suisse": {
     "lat": 46.2131843,
     "lon": 6.0815756
+  },
+  "entreprise|telco oi|antananarivo|madagascar": null,
+  "ville|antananarivo|madagascar": {
+    "lat": -18.9100122,
+    "lon": 47.5255809
   }
 }

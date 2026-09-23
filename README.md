@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/09/2026 17:04:41**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 17:29:44**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -394,6 +394,58 @@ De formation ingénieur ou équivalente, vous justifiez d’au moins une premiè
 Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
 
 Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.
+
+</details>
+
+<details>
+<summary><strong>ANALYSTE M&A (H/F)</strong> · TELCO OI · ANTANANARIVO, MADAGASCAR · 2 559,22 €/mois</summary>
+
+- **Entreprise :** TELCO OI
+- **Lieu :** ANTANANARIVO, MADAGASCAR
+- **Indemnité :** 2 559,22 €/mois
+- **Durée de la mission :** 24 mois
+- **Publiée le :** 23/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246326](https://mon-vie-via.businessfrance.fr/offres/246326)
+
+**Description du poste**
+
+Mission Principale :
+Contribuer activement à l’exécution de la stratégie de croissance externe du Groupe dans le secteur de l’Assurance à travers l’identification, l’analyse, l’évaluation et le suivi des opportunités de fusions, acquisitions, partenariats et cessions dans le secteur de l’assurance, mais également à travers le lancement de projets de créations de nouvelles compagnies d’assurance.
+
+Responsabilités :
+1- Identification et qualification des opportunités :
+-	Réaliser une veille marché sur les secteurs assurance en Afrique.
+-	Identifier des opportunités d’acquisition ou de création de sociétés (greenfield).
+-	Produire des notes d’analyse à destination de la Direction.
+2- Analyse financière et modélisation :
+-	Réaliser des modélisations financières : valorisation (DCF, multiples…), simulations de synergies, analyses de sensibilité.
+-	Analyser les états financiers historiques et les business plans des cibles.
+-	Produire des projections internes.
+-	Structurer les modèles financiers pour appuyer la structuration des transactions
+3- Due Diligence et coordination des expertises : 
+-	Participer activement aux due diligences : financières, juridiques, réglementaires et opérationnelles.
+-	Coordonner les travaux avec les cabinets externes (M&A, juridiques, cabinets d’audit, actuaires...)
+-	Consolider les livrables dans une logique d’aide à la décision pour la Direction.
+-	Participer à la préparation des documents de transaction (NBO, BO, Term Sheets, LOI, mémorandums internes...) et les suivre jusqu’au closing. 
+4- 	Création de sociétés d’assurance - Greenfield :
+-	Participer à la création de sociétés d’assurance – Projets Greenfield
+
+**Profil recherché**
+
+•	Formation :
+Bac+5 en finance, ingénierie financière, stratégie, ou équivalent grande école de commerce/ingénieur 
+•	Expérience :
+3 ans minimum d’expérience dans une fonction similaire, en M&A, banque d’affaires, cabinet de conseil en stratégie. Une spécialisation dans les secteurs financiers (banque, assurance, fintech) est un atout majeur.
+•	Compétences techniques :
+o	Excellente maîtrise de la modélisation financière et des techniques de valorisation.
+o	Maîtrise avancée d’Excel, PowerPoint, outils de dataroom et bases de données financières.
+o	Capacité de rédaction et de synthèse
+o	La connaissance du business assurance et/ou banque est un atout.
+•	Compétences comportementales :
+o	Esprit analytique et rigueur intellectuelle.
+o	Sens de la confidentialité et de la discrétion.
+o	Capacité à travailler sous pression, sur plusieurs dossiers en parallèle.
+o	Aisance relationnelle et capacité à dialoguer avec des interlocuteurs de haut niveau.
 
 </details>
 
