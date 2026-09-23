@@ -31,7 +31,7 @@ const COMPAT_CACHE_FILE = path.join(DATA_DIR, "compat-scores.json");
 // Actions ; en leur absence, le score est simplement omis.
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const CANDIDATE_PROFILE = process.env.CANDIDATE_PROFILE;
-const GEMINI_MODEL = "gemini-3.6-flash";
+const GEMINI_MODEL = "gemini-3.6-flash-lite";
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
 
 // Service gratuit de géocodage (OpenStreetMap), sans clé. On s'identifie
@@ -214,6 +214,10 @@ Donne un score de compatibilité de 0 à 100 (100 = correspondance parfaite avec
       body: JSON.stringify(body),
     });
 
+    if (res.status === 429) {
+      throw new QuotaExceededError(await res.text());
+    }
+
     if (!res.ok) {
       console.error(`Score de compatibilité échoué (${res.status}) pour l'offre ${offer.id} : ${await res.text()}`);
       return undefined;
@@ -229,14 +233,19 @@ Donne un score de compatibilité de 0 à 100 (100 = correspondance parfaite avec
 
     return { score: Math.max(0, Math.min(100, Math.round(parsed.score))), raison };
   } catch (err) {
+    if (err instanceof QuotaExceededError) throw err;
     console.error(`Score de compatibilité échoué pour l'offre ${offer.id} : ${err.message}`);
     return undefined;
   }
 }
 
+class QuotaExceededError extends Error {}
+
 // Complète `cache` (mutée en place) avec le score des offres pas encore
 // évaluées. Sans clé ou sans profil configuré, ne fait rien : le score
-// est simplement absent de la page.
+// est simplement absent de la page. S'arrête proprement dès que le quota
+// gratuit journalier est atteint, plutôt que d'insister sur chaque offre
+// restante (elles seront tentées au prochain passage).
 async function resolveCompatScores(offers, cache) {
   if (!GEMINI_API_KEY || !CANDIDATE_PROFILE) return;
 
@@ -244,10 +253,18 @@ async function resolveCompatScores(offers, cache) {
     const key = String(offer.id);
     if (cache[key]) continue;
 
-    const result = await scoreOfferCompatibility(offer);
-    if (result) cache[key] = result;
+    try {
+      const result = await scoreOfferCompatibility(offer);
+      if (result) cache[key] = result;
+    } catch (err) {
+      if (err instanceof QuotaExceededError) {
+        console.error("Quota Gemini gratuit atteint pour aujourd'hui, on réessaiera au prochain passage.");
+        return;
+      }
+      throw err;
+    }
 
-    // Reste large sous la limite du palier gratuit de Gemini (15 req/min).
+    // Reste large sous la limite du palier gratuit de Gemini (par minute).
     await sleep(4500);
   }
 }
