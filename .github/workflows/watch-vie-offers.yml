@@ -1,0 +1,42 @@
+name: Veille offres VIE
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vie-watcher
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Vérifier les nouvelles offres et notifier
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: node scripts/check-offers.mjs
+
+      - name: Enregistrer les changements
+        run: |
+          git config user.name "vie-watcher-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Mise à jour automatique des offres VIE"
+            git push
+          else
+            echo "Aucun changement à enregistrer."
+          fi
