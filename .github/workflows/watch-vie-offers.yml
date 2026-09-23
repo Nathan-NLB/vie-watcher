@@ -27,6 +27,8 @@ jobs:
       - name: Vérifier les nouvelles offres et notifier
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
         run: node scripts/check-offers.mjs
 
       - name: Enregistrer les changements

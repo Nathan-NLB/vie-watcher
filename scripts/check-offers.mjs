@@ -24,6 +24,15 @@ const SEEN_FILE = path.join(DATA_DIR, "seen-ids.json");
 const README_FILE = path.join(ROOT_DIR, "README.md");
 const PAGE_FILE = path.join(ROOT_DIR, "docs", "index.html");
 const GEOCACHE_FILE = path.join(DATA_DIR, "geocache.json");
+const COMPAT_CACHE_FILE = path.join(DATA_DIR, "compat-scores.json");
+
+// Score de compatibilité candidat/offre, via l'API gratuite de Google
+// (Gemini). Les deux secrets sont fournis par l'utilisateur via GitHub
+// Actions ; en leur absence, le score est simplement omis.
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const CANDIDATE_PROFILE = process.env.CANDIDATE_PROFILE;
+const GEMINI_MODEL = "gemini-2.0-flash";
+const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
 
 // Service gratuit de géocodage (OpenStreetMap), sans clé. On s'identifie
 // comme le demande sa politique d'usage, et on respecte la limite d'une
@@ -165,6 +174,84 @@ async function resolveOfferLocations(offers, cache) {
   return points;
 }
 
+// Interroge Gemini pour noter la compatibilité d'une offre avec le profil
+// du candidat. Renvoie {score, raison}, ou undefined en cas d'échec
+// (jamais mis en cache, pour retenter au prochain passage).
+async function scoreOfferCompatibility(offer) {
+  const prompt = `Tu évalues la compatibilité entre le profil d'un candidat et une offre de VIE (Volontariat International en Entreprise).
+
+Profil du candidat :
+${CANDIDATE_PROFILE}
+
+Offre :
+Titre : ${offer.missionTitle || ""}
+Entreprise : ${offer.organizationName || ""}
+Lieu : ${[offer.cityName, offer.countryName].filter(Boolean).join(", ")}
+Description : ${offer.missionDescription || ""}
+Profil recherché par l'entreprise : ${offer.missionProfile || ""}
+
+Donne un score de compatibilité de 0 à 100 (100 = correspondance parfaite avec le profil et l'expérience du candidat, 0 = aucun rapport) et une explication très concise en français (2 à 3 phrases maximum) justifiant ce score, en mentionnant les points de correspondance et les éventuels écarts.`;
+
+  const body = {
+    contents: [{ parts: [{ text: prompt }] }],
+    generationConfig: {
+      responseMimeType: "application/json",
+      responseSchema: {
+        type: "OBJECT",
+        properties: {
+          score: { type: "INTEGER" },
+          raison: { type: "STRING" },
+        },
+        required: ["score", "raison"],
+      },
+    },
+  };
+
+  try {
+    const res = await fetch(`${GEMINI_URL}?key=${GEMINI_API_KEY}`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+
+    if (!res.ok) {
+      console.error(`Score de compatibilité échoué (${res.status}) pour l'offre ${offer.id} : ${await res.text()}`);
+      return undefined;
+    }
+
+    const data = await res.json();
+    const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
+    if (!text) return undefined;
+
+    const parsed = JSON.parse(text);
+    const raison = String(parsed.raison || "").trim();
+    if (!raison || typeof parsed.score !== "number") return undefined;
+
+    return { score: Math.max(0, Math.min(100, Math.round(parsed.score))), raison };
+  } catch (err) {
+    console.error(`Score de compatibilité échoué pour l'offre ${offer.id} : ${err.message}`);
+    return undefined;
+  }
+}
+
+// Complète `cache` (mutée en place) avec le score des offres pas encore
+// évaluées. Sans clé ou sans profil configuré, ne fait rien : le score
+// est simplement absent de la page.
+async function resolveCompatScores(offers, cache) {
+  if (!GEMINI_API_KEY || !CANDIDATE_PROFILE) return;
+
+  for (const offer of offers) {
+    const key = String(offer.id);
+    if (cache[key]) continue;
+
+    const result = await scoreOfferCompatibility(offer);
+    if (result) cache[key] = result;
+
+    // Reste large sous la limite du palier gratuit de Gemini (15 req/min).
+    await sleep(4500);
+  }
+}
+
 async function notifyNewOffer(offer) {
   if (!NTFY_TOPIC) return;
 
@@ -188,13 +275,15 @@ async function notifyNewOffer(offer) {
   }
 }
 
-function formatOfferMarkdown(offer) {
+function formatOfferMarkdown(offer, compatCache) {
   const lieu = [offer.cityName, offer.countryName].filter(Boolean).join(", ") || "Non précisé";
   const publie = offer.startBroadcastDate
     ? new Date(offer.startBroadcastDate).toLocaleDateString("fr-FR")
     : "Non précisée";
   const description = (offer.missionDescription || "").trim() || "Non communiquée.";
   const profil = (offer.missionProfile || "").trim() || "Non communiqué.";
+  const compat = compatCache[String(offer.id)];
+  const compatLine = compat ? `- **Compatibilité avec ton profil :** ${compat.score} % — ${compat.raison}\n` : "";
 
   return `<details>
 <summary><strong>${offer.missionTitle || "Offre VIE"}</strong> · ${offer.organizationName || "?"} · ${lieu} · ${formatIndemnite(offer)}</summary>
@@ -204,7 +293,7 @@ function formatOfferMarkdown(offer) {
 - **Indemnité :** ${formatIndemnite(offer)}
 - **Durée de la mission :** ${offer.missionDuration ? `${offer.missionDuration} mois` : "Non précisée"} (${formatMissionPeriod(offer)})
 - **Publiée le :** ${publie}
-- **Lien vers l'offre :** [${offerLink(offer)}](${offerLink(offer)})
+${compatLine}- **Lien vers l'offre :** [${offerLink(offer)}](${offerLink(offer)})
 
 **Description du poste**
 
@@ -218,7 +307,7 @@ ${profil}
 `;
 }
 
-function buildReadme(offers) {
+function buildReadme(offers, compatCache) {
   const sorted = [...offers].sort(
     (a, b) => new Date(b.startBroadcastDate ?? 0) - new Date(a.startBroadcastDate ?? 0)
   );
@@ -244,36 +333,41 @@ Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
   const body =
     sorted.length > 0
-      ? sorted.map(formatOfferMarkdown).join("\n")
+      ? sorted.map((offer) => formatOfferMarkdown(offer, compatCache)).join("\n")
       : "_Aucune offre en ligne pour le moment dans cette catégorie._\n";
 
   return header + body;
 }
 
-function buildOffersPageData(offers) {
+function buildOffersPageData(offers, compatCache) {
   return [...offers]
     .sort((a, b) => new Date(b.startBroadcastDate ?? 0) - new Date(a.startBroadcastDate ?? 0))
-    .map((offer) => ({
-      id: offer.id,
-      titre: offer.missionTitle || "Offre VIE",
-      entreprise: offer.organizationName || "Non précisée",
-      ville: offer.cityName || "",
-      pays: offer.countryName || "",
-      indemnite: formatIndemnite(offer),
-      duree: offer.missionDuration ? `${offer.missionDuration} mois` : "Non précisée",
-      periode: formatMissionPeriod(offer),
-      publieLe: offer.startBroadcastDate
-        ? new Date(offer.startBroadcastDate).toLocaleDateString("fr-FR")
-        : "Non précisée",
-      lien: offerLink(offer),
-      description: (offer.missionDescription || "").trim() || "Non communiquée.",
-      profil: (offer.missionProfile || "").trim() || "Non communiqué.",
-    }));
+    .map((offer) => {
+      const compat = compatCache[String(offer.id)];
+      return {
+        id: offer.id,
+        titre: offer.missionTitle || "Offre VIE",
+        entreprise: offer.organizationName || "Non précisée",
+        ville: offer.cityName || "",
+        pays: offer.countryName || "",
+        indemnite: formatIndemnite(offer),
+        duree: offer.missionDuration ? `${offer.missionDuration} mois` : "Non précisée",
+        periode: formatMissionPeriod(offer),
+        publieLe: offer.startBroadcastDate
+          ? new Date(offer.startBroadcastDate).toLocaleDateString("fr-FR")
+          : "Non précisée",
+        lien: offerLink(offer),
+        description: (offer.missionDescription || "").trim() || "Non communiquée.",
+        profil: (offer.missionProfile || "").trim() || "Non communiqué.",
+        compatScore: compat ? compat.score : null,
+        compatRaison: compat ? compat.raison : null,
+      };
+    });
 }
 
-function buildOffersPageHtml(offers, geoPoints) {
+function buildOffersPageHtml(offers, geoPoints, compatCache) {
   const now = new Date().toLocaleString("fr-FR", { timeZone: "Europe/Paris" });
-  const data = buildOffersPageData(offers);
+  const data = buildOffersPageData(offers, compatCache);
   const dataJson = JSON.stringify(data).replace(/</g, "\\u003c");
   const geoJson = JSON.stringify(geoPoints).replace(/</g, "\\u003c");
 
@@ -414,6 +508,30 @@ function buildOffersPageHtml(offers, geoPoints) {
     font-size: 0.82rem;
     font-weight: 500;
   }
+  .tag-compat-high { background: #dcfce7; color: #166534; font-weight: 700; }
+  .tag-compat-mid { background: #fef3c7; color: #92400e; font-weight: 700; }
+  .tag-compat-low { background: #fee2e2; color: #991b1b; font-weight: 700; }
+  @media (prefers-color-scheme: dark) {
+    .tag-compat-high { background: #14532d; color: #bbf7d0; }
+    .tag-compat-mid { background: #78350f; color: #fde68a; }
+    .tag-compat-low { background: #7f1d1d; color: #fecaca; }
+  }
+  .compat-box {
+    border-radius: 10px;
+    padding: 10px 14px;
+    margin-bottom: 14px;
+    border-left: 4px solid;
+    font-size: 0.9rem;
+  }
+  .compat-box p { margin: 4px 0 0; white-space: normal; }
+  .compat-high { background: #dcfce7; color: #166534; border-color: #16a34a; }
+  .compat-mid { background: #fef3c7; color: #92400e; border-color: #d97706; }
+  .compat-low { background: #fee2e2; color: #991b1b; border-color: #dc2626; }
+  @media (prefers-color-scheme: dark) {
+    .compat-high { background: #14532d; color: #bbf7d0; border-color: #22c55e; }
+    .compat-mid { background: #78350f; color: #fde68a; border-color: #f59e0b; }
+    .compat-low { background: #7f1d1d; color: #fecaca; border-color: #ef4444; }
+  }
   .offer-body {
     margin-top: 14px;
     padding-top: 14px;
@@ -535,8 +653,25 @@ function buildOffersPageHtml(offers, geoPoints) {
   const countEl = document.getElementById("count");
   const carteOffresEl = document.getElementById("carte-offres");
 
+  function compatTier(score) {
+    if (score >= 70) return "high";
+    if (score >= 40) return "mid";
+    return "low";
+  }
+
   function renderOfferCard(o) {
     const lieu = [o.ville, o.pays].filter(Boolean).join(", ") || "Lieu non précisé";
+    const hasCompat = typeof o.compatScore === "number";
+    const compatTag = hasCompat
+      ? \`<span class="tag tag-compat-\${compatTier(o.compatScore)}">\${o.compatScore} % compatible</span>\`
+      : "";
+    const compatBox = hasCompat
+      ? \`<div class="compat-box compat-\${compatTier(o.compatScore)}">
+          <strong>\${o.compatScore} % compatible avec ton profil</strong>
+          <p>\${o.compatRaison}</p>
+        </div>\`
+      : "";
+
     const details = document.createElement("details");
     details.className = "offer";
     details.innerHTML = \`
@@ -544,12 +679,14 @@ function buildOffersPageHtml(offers, geoPoints) {
         <p class="offer-title">\${o.titre}</p>
         <p class="offer-sub">\${o.entreprise} · \${lieu}</p>
         <div class="tags">
+          \${compatTag}
           <span class="tag">\${o.indemnite}</span>
           <span class="tag">\${o.periode} (\${o.duree})</span>
           <span class="tag">Publiée le \${o.publieLe}</span>
         </div>
       </summary>
       <div class="offer-body">
+        \${compatBox}
         <h3>Description du poste</h3>
         <p>\${o.description}</p>
         <h3>Profil recherché</h3>
@@ -725,13 +862,18 @@ async function main() {
   const geoPoints = await resolveOfferLocations(offers, geocache);
   writeJson(GEOCACHE_FILE, geocache);
 
-  fs.writeFileSync(README_FILE, buildReadme(offers));
-  fs.mkdirSync(path.dirname(PAGE_FILE), { recursive: true });
-  fs.writeFileSync(PAGE_FILE, buildOffersPageHtml(offers, geoPoints));
+  const compatCache = readJson(COMPAT_CACHE_FILE, {});
+  await resolveCompatScores(offers, compatCache);
+  writeJson(COMPAT_CACHE_FILE, compatCache);
 
+  fs.writeFileSync(README_FILE, buildReadme(offers, compatCache));
+  fs.mkdirSync(path.dirname(PAGE_FILE), { recursive: true });
+  fs.writeFileSync(PAGE_FILE, buildOffersPageHtml(offers, geoPoints, compatCache));
+
+  const scoredCount = offers.filter((o) => compatCache[String(o.id)]).length;
   console.log(
     `Offres actives : ${offers.length}. Nouvelles notifiées : ${isFirstRun ? 0 : newOffers.length}. ` +
-      `Localisées : ${geoPoints.length}/${offers.length}` +
+      `Localisées : ${geoPoints.length}/${offers.length}. Score de compatibilité : ${scoredCount}/${offers.length}` +
       (isFirstRun ? " (premier passage : initialisation sans notification)." : ".")
   );
 }
