@@ -285,5 +285,10 @@
     "lat": 38.7077507,
     "lon": -9.1365919
   },
-  "entreprise|societe pour l'informatique industrielle|barcelone|espagne": null
+  "entreprise|societe pour l'informatique industrielle|barcelone|espagne": null,
+  "entreprise|alpineo consulting lyon|vernier|suisse": null,
+  "ville|vernier|suisse": {
+    "lat": 46.2131843,
+    "lon": 6.0815756
+  }
 }
