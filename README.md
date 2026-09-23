@@ -6,11 +6,226 @@ catégorie **Finance Comptabilité Gestion Banque**, toutes les 20 minutes
 environ. Une notification est envoyée sur ton téléphone (via ntfy.sh) à
 chaque nouvelle offre détectée.
 
-Dernière vérification : **23/09/2026 04:43:54**, 81 offre(s) actuellement en ligne.
+**[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
+
+Dernière vérification : **23/09/2026 12:44:15**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>M&A & Integration Specialist -  Transactions & Food Manufacturing (H/F)</strong> · SOLINA GROUP SERVICES · OAK BROOK -IL-, ETATS-UNIS · 3 769,14 €/mois</summary>
+
+- **Entreprise :** SOLINA GROUP SERVICES
+- **Lieu :** OAK BROOK -IL-, ETATS-UNIS
+- **Indemnité :** 3 769,14 €/mois
+- **Durée de la mission :** 24 mois
+- **Publiée le :** 23/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/242163](https://mon-vie-via.businessfrance.fr/offres/242163)
+
+**Description du poste**
+
+The M&A & Integration Specialist – Transactions & Food Manufacturing role is designed for candidates with hands-on transaction experience (investment banking, transaction services, private equity, or corporate development) who are eager to apply their deal skills in a Corporate M&A environment incorporating all aspects of the transaction, Legal, Tax, finance, operation, quality etc….
+You will be part of the M&A & Transformation team, reporting directly to the Head of M&A for the Americas, and working closely with North American leadership and Group functions including Operations, R&D, Finance, Procurement, and Commercial teams.
+While this role involves full participation in the M&A lifecycle, it is distinct from a traditional finance-only role. A significant portion of your impact will come from understanding manufacturing environments and supporting the integration and performance improvement of acquired food businesses, including time spent on-site.
+
+Key Responsibilities
+M&A Transactions 
+You will actively contribute to and execute M&A transactions across the food ingredients and food manufacturing space:
+•	Support end-to-end M&A processes, including:
+o	Financial analysis and valuation
+o	Business plan and synergy assessment
+o	Identification of key risks during due diligence
+•	Participate in and coordinate due diligence processes (financial, operational, commercial)
+•	Work closely with external advisors (investment banks, transaction services, legal, tax)
+•	Prepare investment memoranda and presentations for Executive Management and Investment Committees
+•	Support negotiation of key transaction documents
+
+Post-Merger Integration & Operational Value Creation
+Following acquisitions, you will play a key role in post-merger integration and value creation, working closely with operational teams:
+•	Contribute to the preparation of detailed integration plans
+•	Support execution of integration initiatives across:
+o	Manufacturing performance and cost structures
+o	Procurement and sourcing synergies
+o	Margin, and profitability improvement
+o	R&D and product portfolio alignment
+•	Analyze operational and financial data to identify performance levers
+•	Track integration progress and report key issues to senior management
+•	Participate in short- to mid-term on-site assignments at acquired companies
+
+Cross-Functional & Strategic Projects
+As part of the M&A & Transformation team, you will also contribute to broader initiatives such as:
+•	Strategic analysis 
+•	Operational performance improvement projects
+•	Cost optimization and procurement synergy initiatives
+•	Manufacturing footprint and capacity analysis
+•	Group-wide best practice implementation
+
+**Profil recherché**
+
+Experience
+•	Approximately 1 to 2 years of experience in one or more of the following:
+o	Investment Banking (M&A)
+o	Transaction Services / Deal Advisory
+o	Private Equity
+o	Corporate Development
+•	Demonstrated exposure to completed M&A transactions
+•	Experience working on industrial, manufacturing, or asset-heavy businesses is a strong plus
+•	Exposure to post-merger integration or operational projects is highly valued
+
+Industry Background
+•	Prior experience in food manufacturing, food ingredients, or industrial sectors is a plus
+•	Alternatively, a strong interest in the food industry and the ability to understand manufacturing environments is required
+
+Skills & Mindset
+•	Strong analytical and financial skills, with the ability to connect numbers to operational realities
+•	Solid understanding of manufacturing cost structures and performance drivers
+•	Advanced Excel skills and strong PowerPoint capabilities
+•	Hands-on, pragmatic, and solution-oriented mindset
+•	Comfortable working directly with operational teams and senior management
+•	Curious, adaptable, and eager to learn the food manufacturing business
+•	Willingness to travel (~20% of the time)
+
+</details>
+
+<details>
+<summary><strong>Responsable Administratif et Financier (H/F)</strong> · FRIEDLANDER · GEORGETOWN, GUYANA · 3 164,30 €/mois</summary>
+
+- **Entreprise :** FRIEDLANDER
+- **Lieu :** GEORGETOWN, GUYANA
+- **Indemnité :** 3 164,30 €/mois
+- **Durée de la mission :** 12 mois
+- **Publiée le :** 23/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246319](https://mon-vie-via.businessfrance.fr/offres/246319)
+
+**Description du poste**
+
+Votre quotidien à nos côtés ?
+
+La société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Responsable Administratif et Financier en VIE.
+Rattaché à Thomas, Directeur d’Agence, votre objectif est d’accompagner l’agence dans sa gestion administrative et financière. Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international.
+Votre poste est basé à George Town, Guyana.
+
+Vos missions clés consisteront notamment à : 
+- Gestion admin et financière des filiales Friedlander et Friedlander Energie Guyana, en collaboration avec les services du Siège
+- Participer Révision de la comptabilité Générale et analytique 
+- Préparer Clôture mensuelle de gestion et reporting
+- Participer à la Clôture Trimestrielle Comptable
+- S’assurer du Contrôle du respect des procédures Groupe
+- Contribuer au suivi de Gestion de la trésorerie
+- Accompagnement de la croissance & structuration interne
+- Soutien au support des relations avec les conseils fiscaux, comptables
+
+Ces missions n’ont pas de secret pour vous ? Nous vous offrons les outils et les moyens à la hauteur de vos ambitions !
+Une intégration personnalisée avec Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international durant 2 semaines au sein du siège, à Aix-En-Provence. Tous deux vous formeront sur les process, les outils, le périmètre et ses spécificités et effectuerons un suivi de l’intégration en local.
+Il ne manque plus que vous - pour apporter votre contribution personnelle - à cette belle organisation.
+
+Regardons un peu plus loin, quel futur ?  
+Chez Ortec, nous considérons que chaque collaborateur doit pouvoir déployer son talent et ses compétences, et donner du sens à son poste. Plus tard, cela se traduit aussi par des opportunités au sein de la Direction Administrative Financière ou dans l’équipe de Direction d’une agence d’exploitation.
+
+**Profil recherché**
+
+Parlons de vous ! Qui êtes-vous ?
+
+Issu(e) d'une formation Bac +5 en Comptabilité/Finance, avec une bonne base en Gestion et Comptabilité, vous souhaitez donner un élan international à votre carrière et intégrer un groupe avec de fortes valeurs.
+Vous êtes reconnu(e) pour votre sens du relationnel & êtes apte à interagir avec une multitude d’interlocuteurs (opérationnels, clients, DAF...).
+Vous souhaitez partir à l'international ? Vous avez envie de responsabilités ? Vous êtes proactif(ve), autonome et curieux(se)?
+Vous êtes motivé(e) et aimez les challenges ? 
+Vous maîtrisez les outils informatiques (plus particulièrement Microsoft Excel / Power BI) & avez un très bon niveau d'anglais (écrit & oral)?
+Cette mission est faite pour vous, Rejoignez-nous !
+
+Et maintenant, quelle suite pour votre candidature ?
+Si nous poursuivons l’aventure ensemble, vous me rencontrerez au sein de notre siège social basé à Aix-En-Provence : Elodie, Chargée de Recrutement puis Philippe, Responsable de la Comptabilité International, accompagné de Benoit, Responsable du Contrôle de Gestion Internationale.
+
+</details>
+
+<details>
+<summary><strong>Financial Analyst (H/F)</strong> · ARKEMA FRANCE · RADNOR       -PA-, ETATS-UNIS · 3 671,13 €/mois</summary>
+
+- **Entreprise :** ARKEMA FRANCE
+- **Lieu :** RADNOR       -PA-, ETATS-UNIS
+- **Indemnité :** 3 671,13 €/mois
+- **Durée de la mission :** 18 mois
+- **Publiée le :** 23/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246287](https://mon-vie-via.businessfrance.fr/offres/246287)
+
+**Description du poste**
+
+The V.I.E. will have the following responsibilities:
+The Americas Financial Analyst routinely interacts with the Americas Regional Group President and 
+Business Directors and Managers, Supply Chain Manager, Business Development, Supply Chain and 
+Customer Service functions, Operations Accounting, the regional reporting and consolidation group of 
+Arkema Inc., and the Finance Teams in other regions. This role also interacts regularly with the Molecular 
+Sieves and Surfactants US teams. The Americas region consists of four (4) entities and five (4) 
+manufacturing facilities (located in US, Mexico and Brazil), as well as 1 capacity reservation and significant 
+imported products from Molecular Sieves and Surfactants Business. 
+Overall, this position aligns with the BU and Americas Finance Manager to prepare and deliver detail files, 
+financial reporting, analysis and support of all profit centers (4 in Functional Additives, 4 in Surfactants 
+resale and 2 in Molecular Sieves resale). This role also helps coordinates to consolidate the BU’s Americas 
+results and prepare the monthly earnings package, as well as ensures the monthly operating results are 
+communicated in a timely and accurate manner to business management. Additional responsibilities 
+include working with the Americas Finance Manager on the annual budget process, business 
+review/planning, some financial modeling, ad-hoc reporting, special process improvement and SAP testing 
+projects, as well as preparation of financial information in support of business requests.
+Monthly Reporting and Analysis - Actual vs Forecast 30% - Work with Americas Finance Manager to 
+consolidate the BU’s Americas results and prepare the monthly earnings package, as well as collaboration 
+in maintaining systems used to prepare the monthly “Flash” estimate of earnings on the 1st Work Day; 
+Maintain the Analytical Income Statement (AIS) reporting files and update them with forecast and actual 
+information, as well as prior year and budget information to allow for proper analysis of results; Utilize AIS 
+excel reporting file information to compile Income Statements for each business; Works with Americas 
+Finance Manager to compile information from AIS and other Excel files to help prepare PowerPoint 
+Monthly Reporting Packaging for review at the Monthly S&OP Business Review;Prepares monthly structural 
+cost reporting
+Monthly Forecast and Management Business Review (MBR) Meeting Preparation 25% - Prepare the 
+Arkema Inc. 3 month forecast of operational results, working with business management, sales, marketing, 
+logistics, purchasing, accounting and manufacturing to identify significant trends; Consolidate the regional 
+forecast with additional data from Canada, Mexico and Brazil; Work with Americas Finance Manager during 
+the annual business review process for FA Americas by helping to maintain the regional BU budget models 
+to reflect the business global plan; May assist, as requested, the Americas Finance Manager in preparation 
+of business model presentations for Management Business Review meetings.
+Annual Budget and Planning 25% - Work with Americas Finance Manager to facilitate the annual budget 
+process for Arkema Inc. Maintain the regional BU budget model; Review budget data and confirm data 
+alignment with SAP/BW and analytics – provide confirmation or discrepancy information with comments 
+to Americas Finance Manager for review; Assist with the preparation of the budget review presentation 
+and ensuring the budget process is tracked, monitored and maintained year round; Work with Americas 
+Finance Manager to prepare detail files specific to volume, sales and margin, and structural costs; Provide 
+detailed analysis that will be reviewed by Americas Finance Manager and provided to the Global Finance 
+Director.
+Financial Analysis and Special Projects 20% - Ad hoc analysis/reporting as requested; SAP/BW testing of 
+reports for process improvements, developing financial processes and reports to support business 
+processes; Work on emerging issues and financial information for crisis response, including ad-hoc 
+reporting, as necessary; Serves as backup to Americas Finance Manager for other budgeting, analysis and 
+closing activities as required; Assists Americas Finance Manager with review and update of transfer pricing 
+as necessary; Assists Americas Finance Manager with review and update of transfer pricing as necessary.
+
+**Profil recherché**
+
+Master's in Accounting, Finance (or other technical degree combined with demonstrated 
+equivalent work experience) required, MBA preferred.
+• Demonstrated understanding and application of Financial and Cost Accounting (in a manufacturing 
+environment preferred). 
+• Demonstrated financial analysis experience, including the ability to develop & maintain complex 
+financial spreadsheets. 
+• Advanced Microsoft Excel (Current Version) skills, including tables 
+• Experience navigating an ERP and reporting system, developing queries to run financial reports 
+and extracting data to analyze for business results and trends or quick learner of system
+• Strong written and verbal communication skills.
+• Ability to oscillate between details and big picture with presentation of information to varying 
+audiences (staff through management level)
+• Intercultural and political savy – understands and can work effectively within a regional and global 
+environment.
+• Alignment and understand of own objectives and role with overall business goals and strategy 
+• Attention to detail and strong analytical skills and an eye for details/proofing. 
+• Interpersonal skills and influencing skills – can gather support and feedback for ideas. 
+• Ability to manage multiple responsibilities, prioritize effectively and meet deadlines without 
+suffering on quality and accuracy. 
+• Ability to clearly document and explain work processes and systems. 
+• Possesses a collaborative mindset and is a team player, contributing to team results as needed. 
+• Problem solving skills – can identify, seek root cause for and explain financial issues and variances 
+and their impact on the business’ financial reporting/outcomes.
+
+</details>
 
 <details>
 <summary><strong>Risk Officer (H/F)</strong> · CACEIS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
@@ -1452,55 +1667,6 @@ Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG e
 </details>
 
 <details>
-<summary><strong>Comptable international Multi-pays (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
-
-- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 12 mois
-- **Publiée le :** 15/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245978](https://mon-vie-via.businessfrance.fr/offres/245978)
-
-**Description du poste**
-
-Dans le cadre de notre développement et la structuration de notre activité à l’international, nous souhaitons recruter un VIE Comptable International au sein d’un share service center pour le groupe basé à Barcelone et en charge de la tenue comptable de plusieurs filiales dans le cadre du passage à un nouvel outil comptable.
-
-Mission à pourvoir asap.
-Localisation : Barcelone
-
-Vos missions : Réviser la saisie comptable pour plusieurs filiales du groupe dans le cadre de l’implémentation d’un nouveau logiciel et de la réinternalisation de la fonction comptable au sein d’un service partagé basé à Barcelone.
-
-Les missions principales dans ce cadre seront :
-- Révision de la saisie des écritures comptables pour les sociétés du groupe assignées, en respect des normes comptables applicables dans chaque pays.
-- Vérification des notes de frais,
-- Révision des rapprochements bancaires,
-- Préparation des fichiers de paiements fournisseur,
-- Révisions des comptes clients et fournisseurs, du lettrage et des autres comptes de bilan,
-- Clôtures comptables mensuelles : révision des comptes de bilan et compte de résultat et préparation des écritures de clôtures mensuelles (FNP, CCA, WIP ..)
-- Préparation des données nécessaires aux déclarations fiscales afin de les transmettre pour validation.
-- Préparation des fichiers de liasses sociales pour la consolidation groupe.
-
-Liste non exhaustive, les missions peuvent évoluer au cours de la période.
-
-
-Les Avantages
-- Entreprise dynamique, petite structure très horizontale malgré plus de 600 employés pour la filiale espagnole. Et une dynamique de croissance et de coopération avec le groupe et les autres filiales.
-- Ambiance de travail très agréable où il est facile de s’intégrer et de rapidement apporter (entreprise élue « great place to work »).
-
-- Groupe français et présent à l’international sur 3 continents avec de nombreuses nationalités représentées.
-- Interactions multiples avec au moins 2 filiales différentes.
-
-**Profil recherché**
-
-- Formation : Business school, Master, DSCG.
-- Français courant (impératif écrit/oral), espagnol et anglais niveau professionel (B2).
-- Maîtrise des outils Excel, expérience avec l’utilisation d’un ERP.
-- Expérience en comptabilité requise.
-- Prise d’initiative, curiosité, travail en équipe, esprit critique.
-
-</details>
-
-<details>
 <summary><strong>VIE Junior Structured Credits & Real Estate Analyst (H/F)</strong> · CA INDOSUEZ · MILAN, ITALIE · 2 998,98 €/mois</summary>
 
 - **Entreprise :** CA INDOSUEZ
@@ -2158,63 +2324,6 @@ German language skills are an advantage
 Experience with data analysis, business intelligence tools, or reporting solutions (e.g., Power BI)
 Interest in process improvement, automation, and system development
 Knowledge of banking, lending, credit risk, or financial services is beneficial but not essential
-
-</details>
-
-<details>
-<summary><strong>VIE - Business Analyste et Economiste (H/F) - Congo</strong> · TOTALENERGIES SE · POINTE NOIRE, CONGO · 3 045,94 €/mois</summary>
-
-- **Entreprise :** TOTALENERGIES SE
-- **Lieu :** POINTE NOIRE, CONGO
-- **Indemnité :** 3 045,94 €/mois
-- **Durée de la mission :** 24 mois
-- **Publiée le :** 11/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244476](https://mon-vie-via.businessfrance.fr/offres/244476)
-
-**Description du poste**
-
-Rejoignez une équipe au cœur des décisions stratégiques de TotalEnergies au Congo.
-
-Vous êtes rattaché au Business Manager. Vous contribuez à l'évaluation économique des projets pétroliers et accompagnez les décisions d'investissement de la filiale.
-
-Vous participez à l'analyse de la rentabilité des projets, à la planification long terme et aux échanges avec les partenaires. Vous évoluez dans un environnement international, en lien avec des interlocuteurs techniques, financiers et stratégiques.
-
-Vos principales missions :
-- Réaliser des études économiques sur les projets de la filiale.
-- Analyser la rentabilité des projets de développement et d'optimisation.
-- Contribuer à l'élaboration et à la mise à jour des modèles économiques.
-- Participant aux travaux du plan à long terme (PLT) de la filiale.
-- Préparateur des présentations et dossiers destinés aux partenaires actionnaires.
-- Accompagner l'organisation des réunions techniques et financières.
-- Effectuer une veille économique et concurrentielle sur les marchés et acteurs clés.
-- Rédiger des notes d'analyse et de synthèse pour les décideurs.
-- Étudier les impacts fiscaux, contractuels et économiques des projets.
-- Collecter et consolider les données nécessaires aux analyses économiques.
-
-Pourquoi nous rejoindre
-- Évoluer dans un environnement international.
-- Participer à des projets stratégiques à fort impact.
-- Développer une expertise économique dans l'énergie.
-- Collaborateur avec des équipes multidisciplinaires.
-- Interagir avec des partenaires internationaux.
-
- Merci de candidater en anglais.
-Logement fourni en colocation.
-
-**Profil recherché**
-
-Indispensables
-- Diplômé d'un Bac+5 minimum école d'ingénieurs ou école de commerce, spécialisation en économie, finance.
-- Connaissances en économie et finance d'entreprise.
-- Première expérience dans l'industrie.
-- Maîtrise avancée d'Excel et PowerPoint.
-- Niveau d'anglais B2 minimum.
-- Français courant.
-- Rigueur et capacité d'analyse. Capacité d'adaptation à un environnement international.
-
-Atouts
-- Connaissance du secteur pétrolier et énergétique.
-- Maîtrise de Power BI ou connaissance d'outils d'automatisation et d'analyse de données similaires.
 
 </details>
 
