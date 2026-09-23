@@ -6,7 +6,7 @@ catégorie **Finance Comptabilité Gestion Banque**, toutes les 20 minutes
 environ. Une notification est envoyée sur ton téléphone (via ntfy.sh) à
 chaque nouvelle offre détectée.
 
-Dernière vérification : **23/09/2026 11:47:18**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 12:05:02**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -84,6 +84,57 @@ Skills & Mindset
 •	Comfortable working directly with operational teams and senior management
 •	Curious, adaptable, and eager to learn the food manufacturing business
 •	Willingness to travel (~20% of the time)
+
+</details>
+
+<details>
+<summary><strong>Responsable Administratif et Financier (H/F)</strong> · FRIEDLANDER · GEORGETOWN, GUYANA · 3 164,30 €/mois</summary>
+
+- **Entreprise :** FRIEDLANDER
+- **Lieu :** GEORGETOWN, GUYANA
+- **Indemnité :** 3 164,30 €/mois
+- **Durée de la mission :** 12 mois
+- **Publiée le :** 23/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246319](https://mon-vie-via.businessfrance.fr/offres/246319)
+
+**Description du poste**
+
+Votre quotidien à nos côtés ?
+
+La société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Responsable Administratif et Financier en VIE.
+Rattaché à Thomas, Directeur d’Agence, votre objectif est d’accompagner l’agence dans sa gestion administrative et financière. Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international.
+Votre poste est basé à George Town, Guyana.
+
+Vos missions clés consisteront notamment à : 
+- Gestion admin et financière des filiales Friedlander et Friedlander Energie Guyana, en collaboration avec les services du Siège
+- Participer Révision de la comptabilité Générale et analytique 
+- Préparer Clôture mensuelle de gestion et reporting
+- Participer à la Clôture Trimestrielle Comptable
+- S’assurer du Contrôle du respect des procédures Groupe
+- Contribuer au suivi de Gestion de la trésorerie
+- Accompagnement de la croissance & structuration interne
+- Soutien au support des relations avec les conseils fiscaux, comptables
+
+Ces missions n’ont pas de secret pour vous ? Nous vous offrons les outils et les moyens à la hauteur de vos ambitions !
+Une intégration personnalisée avec Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international durant 2 semaines au sein du siège, à Aix-En-Provence. Tous deux vous formeront sur les process, les outils, le périmètre et ses spécificités et effectuerons un suivi de l’intégration en local.
+Il ne manque plus que vous - pour apporter votre contribution personnelle - à cette belle organisation.
+
+Regardons un peu plus loin, quel futur ?  
+Chez Ortec, nous considérons que chaque collaborateur doit pouvoir déployer son talent et ses compétences, et donner du sens à son poste. Plus tard, cela se traduit aussi par des opportunités au sein de la Direction Administrative Financière ou dans l’équipe de Direction d’une agence d’exploitation.
+
+**Profil recherché**
+
+Parlons de vous ! Qui êtes-vous ?
+
+Issu(e) d'une formation Bac +5 en Comptabilité/Finance, avec une bonne base en Gestion et Comptabilité, vous souhaitez donner un élan international à votre carrière et intégrer un groupe avec de fortes valeurs.
+Vous êtes reconnu(e) pour votre sens du relationnel & êtes apte à interagir avec une multitude d’interlocuteurs (opérationnels, clients, DAF...).
+Vous souhaitez partir à l'international ? Vous avez envie de responsabilités ? Vous êtes proactif(ve), autonome et curieux(se)?
+Vous êtes motivé(e) et aimez les challenges ? 
+Vous maîtrisez les outils informatiques (plus particulièrement Microsoft Excel / Power BI) & avez un très bon niveau d'anglais (écrit & oral)?
+Cette mission est faite pour vous, Rejoignez-nous !
+
+Et maintenant, quelle suite pour votre candidature ?
+Si nous poursuivons l’aventure ensemble, vous me rencontrerez au sein de notre siège social basé à Aix-En-Provence : Elodie, Chargée de Recrutement puis Philippe, Responsable de la Comptabilité International, accompagné de Benoit, Responsable du Contrôle de Gestion Internationale.
 
 </details>
 
