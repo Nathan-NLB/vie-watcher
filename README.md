@@ -6,11 +6,86 @@ catégorie **Finance Comptabilité Gestion Banque**, toutes les 20 minutes
 environ. Une notification est envoyée sur ton téléphone (via ntfy.sh) à
 chaque nouvelle offre détectée.
 
-Dernière vérification : **23/09/2026 11:04:58**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 11:29:09**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>M&A & Integration Specialist -  Transactions & Food Manufacturing (H/F)</strong> · SOLINA GROUP SERVICES · OAK BROOK -IL-, ETATS-UNIS · 3 769,14 €/mois</summary>
+
+- **Entreprise :** SOLINA GROUP SERVICES
+- **Lieu :** OAK BROOK -IL-, ETATS-UNIS
+- **Indemnité :** 3 769,14 €/mois
+- **Durée de la mission :** 24 mois
+- **Publiée le :** 23/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/242163](https://mon-vie-via.businessfrance.fr/offres/242163)
+
+**Description du poste**
+
+The M&A & Integration Specialist – Transactions & Food Manufacturing role is designed for candidates with hands-on transaction experience (investment banking, transaction services, private equity, or corporate development) who are eager to apply their deal skills in a Corporate M&A environment incorporating all aspects of the transaction, Legal, Tax, finance, operation, quality etc….
+You will be part of the M&A & Transformation team, reporting directly to the Head of M&A for the Americas, and working closely with North American leadership and Group functions including Operations, R&D, Finance, Procurement, and Commercial teams.
+While this role involves full participation in the M&A lifecycle, it is distinct from a traditional finance-only role. A significant portion of your impact will come from understanding manufacturing environments and supporting the integration and performance improvement of acquired food businesses, including time spent on-site.
+
+Key Responsibilities
+M&A Transactions 
+You will actively contribute to and execute M&A transactions across the food ingredients and food manufacturing space:
+•	Support end-to-end M&A processes, including:
+o	Financial analysis and valuation
+o	Business plan and synergy assessment
+o	Identification of key risks during due diligence
+•	Participate in and coordinate due diligence processes (financial, operational, commercial)
+•	Work closely with external advisors (investment banks, transaction services, legal, tax)
+•	Prepare investment memoranda and presentations for Executive Management and Investment Committees
+•	Support negotiation of key transaction documents
+
+Post-Merger Integration & Operational Value Creation
+Following acquisitions, you will play a key role in post-merger integration and value creation, working closely with operational teams:
+•	Contribute to the preparation of detailed integration plans
+•	Support execution of integration initiatives across:
+o	Manufacturing performance and cost structures
+o	Procurement and sourcing synergies
+o	Margin, and profitability improvement
+o	R&D and product portfolio alignment
+•	Analyze operational and financial data to identify performance levers
+•	Track integration progress and report key issues to senior management
+•	Participate in short- to mid-term on-site assignments at acquired companies
+
+Cross-Functional & Strategic Projects
+As part of the M&A & Transformation team, you will also contribute to broader initiatives such as:
+•	Strategic analysis 
+•	Operational performance improvement projects
+•	Cost optimization and procurement synergy initiatives
+•	Manufacturing footprint and capacity analysis
+•	Group-wide best practice implementation
+
+**Profil recherché**
+
+Experience
+•	Approximately 1 to 2 years of experience in one or more of the following:
+o	Investment Banking (M&A)
+o	Transaction Services / Deal Advisory
+o	Private Equity
+o	Corporate Development
+•	Demonstrated exposure to completed M&A transactions
+•	Experience working on industrial, manufacturing, or asset-heavy businesses is a strong plus
+•	Exposure to post-merger integration or operational projects is highly valued
+
+Industry Background
+•	Prior experience in food manufacturing, food ingredients, or industrial sectors is a plus
+•	Alternatively, a strong interest in the food industry and the ability to understand manufacturing environments is required
+
+Skills & Mindset
+•	Strong analytical and financial skills, with the ability to connect numbers to operational realities
+•	Solid understanding of manufacturing cost structures and performance drivers
+•	Advanced Excel skills and strong PowerPoint capabilities
+•	Hands-on, pragmatic, and solution-oriented mindset
+•	Comfortable working directly with operational teams and senior management
+•	Curious, adaptable, and eager to learn the food manufacturing business
+•	Willingness to travel (~20% of the time)
+
+</details>
 
 <details>
 <summary><strong>Financial Analyst (H/F)</strong> · ARKEMA FRANCE · RADNOR       -PA-, ETATS-UNIS · 3 671,13 €/mois</summary>
@@ -2245,63 +2320,6 @@ German language skills are an advantage
 Experience with data analysis, business intelligence tools, or reporting solutions (e.g., Power BI)
 Interest in process improvement, automation, and system development
 Knowledge of banking, lending, credit risk, or financial services is beneficial but not essential
-
-</details>
-
-<details>
-<summary><strong>VIE - Business Analyste et Economiste (H/F) - Congo</strong> · TOTALENERGIES SE · POINTE NOIRE, CONGO · 3 045,94 €/mois</summary>
-
-- **Entreprise :** TOTALENERGIES SE
-- **Lieu :** POINTE NOIRE, CONGO
-- **Indemnité :** 3 045,94 €/mois
-- **Durée de la mission :** 24 mois
-- **Publiée le :** 11/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244476](https://mon-vie-via.businessfrance.fr/offres/244476)
-
-**Description du poste**
-
-Rejoignez une équipe au cœur des décisions stratégiques de TotalEnergies au Congo.
-
-Vous êtes rattaché au Business Manager. Vous contribuez à l'évaluation économique des projets pétroliers et accompagnez les décisions d'investissement de la filiale.
-
-Vous participez à l'analyse de la rentabilité des projets, à la planification long terme et aux échanges avec les partenaires. Vous évoluez dans un environnement international, en lien avec des interlocuteurs techniques, financiers et stratégiques.
-
-Vos principales missions :
-- Réaliser des études économiques sur les projets de la filiale.
-- Analyser la rentabilité des projets de développement et d'optimisation.
-- Contribuer à l'élaboration et à la mise à jour des modèles économiques.
-- Participant aux travaux du plan à long terme (PLT) de la filiale.
-- Préparateur des présentations et dossiers destinés aux partenaires actionnaires.
-- Accompagner l'organisation des réunions techniques et financières.
-- Effectuer une veille économique et concurrentielle sur les marchés et acteurs clés.
-- Rédiger des notes d'analyse et de synthèse pour les décideurs.
-- Étudier les impacts fiscaux, contractuels et économiques des projets.
-- Collecter et consolider les données nécessaires aux analyses économiques.
-
-Pourquoi nous rejoindre
-- Évoluer dans un environnement international.
-- Participer à des projets stratégiques à fort impact.
-- Développer une expertise économique dans l'énergie.
-- Collaborateur avec des équipes multidisciplinaires.
-- Interagir avec des partenaires internationaux.
-
- Merci de candidater en anglais.
-Logement fourni en colocation.
-
-**Profil recherché**
-
-Indispensables
-- Diplômé d'un Bac+5 minimum école d'ingénieurs ou école de commerce, spécialisation en économie, finance.
-- Connaissances en économie et finance d'entreprise.
-- Première expérience dans l'industrie.
-- Maîtrise avancée d'Excel et PowerPoint.
-- Niveau d'anglais B2 minimum.
-- Français courant.
-- Rigueur et capacité d'analyse. Capacité d'adaptation à un environnement international.
-
-Atouts
-- Connaissance du secteur pétrolier et énergétique.
-- Maîtrise de Power BI ou connaissance d'outils d'automatisation et d'analyse de données similaires.
 
 </details>
 

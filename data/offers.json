@@ -1,5 +1,68 @@
 [
   {
+    "id": 242163,
+    "organizationName": "SOLINA GROUP SERVICES",
+    "missionTitle": "M&A & Integration Specialist -  Transactions & Food Manufacturing (H/F)",
+    "missionDuration": 24,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "At Solina, our community of over 4,000 people share a passion for food and live our entrepreneurial culture.\n\nWe design customised savoury solutions for our clients operating in the food industry, food service, butchery and nutrition markets. With sustainability at the heart of our business model, we aim to produce food that is good in every sense of the word : delicious, nourishing, affordable, sustainable and convenient.\n\nSolina is a fast growing business, with 41 production sites and R&D laboratory, we are present in more than 18 countries mainly in Europe and North America.\n\nBy constantly rethinking culinary solutions, we make food matter for people and the planet.",
+    "organizationUrlImage": "http://null.jpeg",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "0",
+    "effectifInd": "0",
+    "effectifConso": "20",
+    "organizationCountryCounter": "17",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "OAK BROOK -IL-",
+    "cityNameEn": "OAK BROOK -IL-",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"109\",\"324\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "The M&A & Integration Specialist – Transactions & Food Manufacturing role is designed for candidates with hands-on transaction experience (investment banking, transaction services, private equity, or corporate development) who are eager to apply their deal skills in a Corporate M&A environment incorporating all aspects of the transaction, Legal, Tax, finance, operation, quality etc….\nYou will be part of the M&A & Transformation team, reporting directly to the Head of M&A for the Americas, and working closely with North American leadership and Group functions including Operations, R&D, Finance, Procurement, and Commercial teams.\nWhile this role involves full participation in the M&A lifecycle, it is distinct from a traditional finance-only role. A significant portion of your impact will come from understanding manufacturing environments and supporting the integration and performance improvement of acquired food businesses, including time spent on-site.\n\nKey Responsibilities\nM&A Transactions \nYou will actively contribute to and execute M&A transactions across the food ingredients and food manufacturing space:\n•\tSupport end-to-end M&A processes, including:\no\tFinancial analysis and valuation\no\tBusiness plan and synergy assessment\no\tIdentification of key risks during due diligence\n•\tParticipate in and coordinate due diligence processes (financial, operational, commercial)\n•\tWork closely with external advisors (investment banks, transaction services, legal, tax)\n•\tPrepare investment memoranda and presentations for Executive Management and Investment Committees\n•\tSupport negotiation of key transaction documents\n\nPost-Merger Integration & Operational Value Creation\nFollowing acquisitions, you will play a key role in post-merger integration and value creation, working closely with operational teams:\n•\tContribute to the preparation of detailed integration plans\n•\tSupport execution of integration initiatives across:\no\tManufacturing performance and cost structures\no\tProcurement and sourcing synergies\no\tMargin, and profitability improvement\no\tR&D and product portfolio alignment\n•\tAnalyze operational and financial data to identify performance levers\n•\tTrack integration progress and report key issues to senior management\n•\tParticipate in short- to mid-term on-site assignments at acquired companies\n\nCross-Functional & Strategic Projects\nAs part of the M&A & Transformation team, you will also contribute to broader initiatives such as:\n•\tStrategic analysis \n•\tOperational performance improvement projects\n•\tCost optimization and procurement synergy initiatives\n•\tManufacturing footprint and capacity analysis\n•\tGroup-wide best practice implementation",
+    "creationDate": "2026-04-10T11:36:07Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-12-01T00:00:00",
+    "startBroadcastDate": "2026-09-23T00:00:00",
+    "durationBroadcast": 120,
+    "endBroadcastDate": "2027-01-21T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "Experience\n•\tApproximately 1 to 2 years of experience in one or more of the following:\no\tInvestment Banking (M&A)\no\tTransaction Services / Deal Advisory\no\tPrivate Equity\no\tCorporate Development\n•\tDemonstrated exposure to completed M&A transactions\n•\tExperience working on industrial, manufacturing, or asset-heavy businesses is a strong plus\n•\tExposure to post-merger integration or operational projects is highly valued\n\nIndustry Background\n•\tPrior experience in food manufacturing, food ingredients, or industrial sectors is a plus\n•\tAlternatively, a strong interest in the food industry and the ability to understand manufacturing environments is required\n\nSkills & Mindset\n•\tStrong analytical and financial skills, with the ability to connect numbers to operational realities\n•\tSolid understanding of manufacturing cost structures and performance drivers\n•\tAdvanced Excel skills and strong PowerPoint capabilities\n•\tHands-on, pragmatic, and solution-oriented mindset\n•\tComfortable working directly with operational teams and senior management\n•\tCurious, adaptable, and eager to learn the food manufacturing business\n•\tWillingness to travel (~20% of the time)",
+    "countryId": "US",
+    "countryName": "ETATS-UNIS",
+    "countryNameEn": "UNITED STATES",
+    "reference": "VIE242163",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Madame Audrey MICHARD",
+    "indemnite": 3769.14,
+    "teleworkingAvailable": true,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "katia.pegoraro@businessfrance.fr",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "e2cgqep3vd",
+    "contactURL": "",
+    "dateCandidature": null
+  },
+  {
     "id": 244190,
     "organizationName": "SIBELCO FRANCE",
     "missionTitle": "Comptable Fournisseurs Senior – Environnement International (H/F)",
@@ -927,79 +990,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "4",
-      "5",
-      "8",
-      "9",
-      "199",
-      "200",
-      "201",
-      "202",
-      "203",
-      "259"
+      "[\"4\",\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"202\",\"203\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "4",
-        "specializationParentId": "89",
-        "specializationLabel": "Assurances",
-        "specializationLabelEn": "Insurance"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "203",
-        "specializationParentId": "19",
-        "specializationLabel": "Chargé / Conseiller clientèle bancaire particuliers / professionnels",
-        "specializationLabelEn": "Client advisor (banking)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\n!Join a Dynamic Team at Cleeven!\n\n\n\nAre you ready to join a fast-growing company where your work truly matters? Do you want to contribute to strategic compliance initiatives that shape the future of financial institutions?\n\n\n\nAt Cleeven, we combine energy, innovation, and purpose. Join a team that values your development and gives you the tools to grow while working on impactful projects.\n\n\n\nWHO ARE WE ?\n\n\n\nCleeven is an international engineering consulting firm built on two core principles:\n\nOUR MISSION: To enhance self-awareness and the awareness of those around us.\nOUR BELIEF: Europe’s leadership in innovation depends on the excellence of its engineers and professionals.\n\n\nAt Cleeven, our consultants work hand-in-hand with clients to manage compliance challenges, mitigate risks, and ensure alignment with evolving regulatory demands.\n\nPoste et missions :\n\nYOUR ROLE AS A COMPLIANCE ANALYST (KYC/KYT/AML)\n\n\n\nYou’ll play a key role in helping financial institutions meet regulatory expectations and safeguard their operations. Your responsibilities will include:\n\nMonitoring regulations: Stay on top of regulatory developments in the financial sector and assess their impact.\nKYC/KYT/AML analysis: Review client profiles, monitor transactions, and flag suspicious activity in accordance with legal standards.\nRisk assessment and mitigation: Identify gaps, evaluate compliance risks, and implement mitigation strategies.\nProcess improvement: Propose and deploy enhancements to compliance frameworks and internal procedures.\nInternal controls & audits: Support internal audits and ensure robust compliance practices are in place.\nAwareness and training: Prepare training materials, raise employee awareness, and promote compliance culture.\nBridge business and regulation: Translate complex regulatory language into actionable processes for operational teams.",
     "creationDate": "2025-09-24T10:46:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2902,97 +2895,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "https://stellantis-bank-karriere.dvinci-hr.com/en/jobs/10416/2026-097-vie-transversal-corporate-risk-mfd-24-months-volontariat-international-en-entreprise",
-    "dateCandidature": null
-  },
-  {
-    "id": 244476,
-    "organizationName": "TOTALENERGIES SE",
-    "missionTitle": "VIE - Business Analyste et Economiste (H/F) - Congo",
-    "missionDuration": 24,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "1110",
-    "effectifConso": "100",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "POINTE NOIRE",
-    "cityNameEn": "POINTE NOIRE",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "17",
-      "180",
-      "259",
-      "322"
-    ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
-    "missionDescription": "Rejoignez une équipe au cœur des décisions stratégiques de TotalEnergies au Congo.\n\nVous êtes rattaché au Business Manager. Vous contribuez à l'évaluation économique des projets pétroliers et accompagnez les décisions d'investissement de la filiale.\n\nVous participez à l'analyse de la rentabilité des projets, à la planification long terme et aux échanges avec les partenaires. Vous évoluez dans un environnement international, en lien avec des interlocuteurs techniques, financiers et stratégiques.\n\nVos principales missions :\n- Réaliser des études économiques sur les projets de la filiale.\n- Analyser la rentabilité des projets de développement et d'optimisation.\n- Contribuer à l'élaboration et à la mise à jour des modèles économiques.\n- Participant aux travaux du plan à long terme (PLT) de la filiale.\n- Préparateur des présentations et dossiers destinés aux partenaires actionnaires.\n- Accompagner l'organisation des réunions techniques et financières.\n- Effectuer une veille économique et concurrentielle sur les marchés et acteurs clés.\n- Rédiger des notes d'analyse et de synthèse pour les décideurs.\n- Étudier les impacts fiscaux, contractuels et économiques des projets.\n- Collecter et consolider les données nécessaires aux analyses économiques.\n\nPourquoi nous rejoindre\n- Évoluer dans un environnement international.\n- Participer à des projets stratégiques à fort impact.\n- Développer une expertise économique dans l'énergie.\n- Collaborateur avec des équipes multidisciplinaires.\n- Interagir avec des partenaires internationaux.\n\n Merci de candidater en anglais.\nLogement fourni en colocation.",
-    "creationDate": "2026-07-08T13:51:57Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-11T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-10-11T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Indispensables\n- Diplômé d'un Bac+5 minimum école d'ingénieurs ou école de commerce, spécialisation en économie, finance.\n- Connaissances en économie et finance d'entreprise.\n- Première expérience dans l'industrie.\n- Maîtrise avancée d'Excel et PowerPoint.\n- Niveau d'anglais B2 minimum.\n- Français courant.\n- Rigueur et capacité d'analyse. Capacité d'adaptation à un environnement international.\n\nAtouts\n- Connaissance du secteur pétrolier et énergétique.\n- Maîtrise de Power BI ou connaissance d'outils d'automatisation et d'analyse de données similaires.",
-    "countryId": "CG",
-    "countryName": "CONGO",
-    "countryNameEn": "CONGO",
-    "reference": "VIE244476",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Véronique BACAUD",
-    "indemnite": 3045.94,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Business-Analyste-et-Economiste-H-F-Congo/82109",
     "dateCandidature": null
   },
   {
@@ -5036,16 +4938,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "ALTEN group’s mission is to create customer satisfaction by developing tailor-made and innovative solutions for IT and Technology.\nPresent in 30 countries, we propose IT Solutions and Engineering Consulting to the world’s largest companies. For more than 30 years, a passion for engineering has driven us: ALTEN today is a European leader in engineering consulting and advanced technologies.\nTo follow our growth and development on the International perimeter (30 000 employees, turnover superior to 2 billion €), the ALTEN Group is looking for a:\n\nBusiness Controller & Analyst \nBased in ALTEN BELGIUM, Brussels \n\nYou will report directly to the Head of the International Development Department.  Your assignment consists in consolidating and analysing the operational data from ALTEN in Benelux. \nYour main tasks will be the following ones: \n•\tProducing weekly, monthly & quarterly operational reports for the Group as well as ad hoc analysis upon request\n•\tAnalysing with a critical eye the weekly operational indicators (KPIs)\n•\tProviding the best quality reports and analysis for key deadlines such as:\n•\tthe monthly business review (MBR) with the Top Management & the COO \n•\tthe Committee Career (CC) (biannual assessment of the commercial/management team based on operational data)\n•\tImplementation of the Bonus System for the management team \n•\tMaintaining & creating various dashboards for the COO to drive the activity\n•\tImproving the information flow from subsidiaries to headquarter\n•\tHelping in the deployment of the ALTEN tools in the new subsidiaries",
     "creationDate": "2026-09-01T10:21:54Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -6359,30 +6254,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "129",
-      "322"
+      "[\"17\",\"129\",\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "129",
-        "specializationParentId": "227",
-        "specializationLabel": "Economie du développement",
-        "specializationLabelEn": "Development Economics"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Enregistrant une croissance moyenne de 6% sur les dix dernières années, ayant aujourd’hui atteint un PIB par habitant équivalent à l’Inde tout en ayant un indice de développement humain plus avancé, le Bangladesh a rempli les critères de sortie de la catégorie des pays les moins avancés, initialement prévue en novembre 2026, mais actuellement en cours d'arbitrage à l'ONU suite à une demande de prorogation du pays (jusqu'en 2029). Ce développement s’accompagne de nombreux défis (diversification de l’économie, déficit d’image, fragilités sur le plan externe, vulnérabilité au changement climatique) pour lesquels la France tente de se positionner comme un partenaire de choix auprès des autorités locales et du secteur privé. \n\nAprès une période d'instabilité politique consécutive au renversement du gouvernement en août 2024, avec un gouvernement intérimaire dirigé par le Pr. Yunus durant un an et demi, les élections de février 2026 ont marqué le retour à un gouvernement élu civil. Cette nouvelle phase devrait ouvrir à la fois de nouveaux défis et des opportunités pour renforcer la présence française dans le pays.\nDans ce contexte, le service économique de Dacca est en charge du suivi de la situation économique du Bangladesh, en particulier sur les principaux secteurs industriels matures et émergents, du soutien aux entreprises françaises et aux grands contrats, ainsi que du suivi des activités de l’Agence Française de Développement (AFD) et des bailleurs de fonds multilatéraux, dont l’Union européenne en particulier. Le service économique anime la communauté des affaires française et travaille étroitement avec les autres services de l’Ambassade, le service économique régional de Delhi et Business France. Enfin, il répond aux commandes de l’Ambassadeur et le conseille sur les questions économiques et commerciales.\n\nLe service économique de Dacca se compose de deux personnes : la cheffe de service et un(e) attaché(e) économique, qui officiera en tant qu’adjoint(e). \n\nMISSION ET ATTRIBUTIONS DU VIA :\n\nL’attaché(e) économique travaillera sous l’autorité directe et en étroite collaboration avec la cheffe du service économique. Il/elle assurera l’intérim de la cheffe de service en son absence (participation aux réunions de service de l’Ambassade, rencontre avec interlocuteurs extérieurs, etc.). \n\nIl/elle assurera les missions suivantes :\n•\tVeille quotidienne sur la presse économique ;\n•\tContribution à la production des lettres d’actualité sur l’économie bangladaise et à la rédaction d’une lettre mensuelle ;\n•\tProduction de notes macro-économiques, sectorielles et d’analyse, à la demande de l’administration ou sur des sujets considérés d’importance par l’équipe du service économique ;\n•\tSuivi des projets des bailleurs de fonds (participation à des réunions de coordination, notamment avec l’UE, rédaction d’avis) \n•\tSoutien ponctuel à des entreprises ou des opérateurs français (information générale de contexte d’un secteur, soutien auprès des autorités bangladaises, etc.).\n\nLe périmètre du poste pourra être adapté en fonction de tout autre dossier d’actualité à la demande de la cheffe de service. \n\nCOMPETENCES REQUISES :\n\n•\tCapacités de synthèse, d’analyse et de rédaction\n•\tGoût du contact, ouverture d’esprit\n•\tPolyvalence et adaptabilité\t\n•\tConnaissances solides en macro-économie\n•\tAnglais courant à l’écrit et à l’oral (niveau C1 minimum indispensable)\n\nUn intérêt pour la zone Asie du Sud et/ou une expérience professionnelle ou académique à l’étranger seraient un plus.\n\nPROFIL RECHERCHE : \n\nNiveau master en école (ingénieur, commerce, IEP) ou à l’université (économie ou finances). \n\nDIVERS :\n\nHébergement : non pourvu. L’offre de logement du secteur privé est abondante dans les trois quartiers où le personnel de l’ambassade peut résider (Gulshan, Baridhara et Banani). Elle comprend presque exclusivement des appartements de trois chambres, avec des prix entre 700 et 1100€/mois hors charges pour un meublé. La colocation est une pratique courante pour les personnes expatriées (environ 400€). \n\nSécurité : peu de délinquance de droit commun touchant les expatriés. \n\nConditions de vie : Dacca est une ville particulièrement densément peuplée, bruyante et polluée (surtout en hiver), rendant les conditions de vie parfois peu agréables et difficiles. La ville offre néanmoins une vie sociale dynamique, avec une grande diversité de restaurants, cafés, clubs et centres de bien-être, et les interactions sont faciles avec les expatriés comme avec les Bangladais. Il est possible de voyager dans le pays, moyennant une certaine vigilance et à l’exception de zones à la frontière birmane. Il est par ailleurs facile de voyager dans la région (bonnes connections avec l’Inde, le Sri Lanka, le Népal, l’Asie du Sud-Est et le Moyen-Orient).",
     "creationDate": "2026-09-16T08:23:59Z",
     "missionStartDate": "2026-11-01T00:00:00",
