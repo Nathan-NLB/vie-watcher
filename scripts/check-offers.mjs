@@ -814,6 +814,60 @@ function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
   .hbar-row.clickable:hover {
     background: var(--tag-bg);
   }
+  .hbar-row.selected {
+    background: var(--tag-bg);
+    box-shadow: inset 0 0 0 1.5px var(--accent);
+  }
+  .hbar-row.selected .hbar-row-label {
+    font-weight: 600;
+    color: var(--accent);
+  }
+  .chart-title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .clear-filters-btn {
+    background: none;
+    border: none;
+    color: var(--accent);
+    font-size: 0.85rem;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 4px 0;
+  }
+  .filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 10px 0;
+  }
+  .filter-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--tag-bg);
+    color: var(--tag-text);
+    border-radius: 999px;
+    padding: 4px 6px 4px 12px;
+    font-size: 0.82rem;
+    font-weight: 500;
+  }
+  .filter-chip button {
+    background: rgba(0, 0, 0, 0.12);
+    border: none;
+    color: inherit;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 0.85rem;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
   .hbar-row-label {
     width: 128px;
     flex: 0 0 128px;
@@ -916,7 +970,12 @@ function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
     </div>
 
     <div class="chart-block" id="dash-resultats-block" style="display:none">
-      <h2 class="chart-title" id="dash-resultats-title"></h2>
+      <div class="chart-title-row">
+        <h2 class="chart-title">Offres filtrées</h2>
+        <button type="button" id="dash-clear-filters" class="clear-filters-btn">Tout effacer</button>
+      </div>
+      <div class="filter-chips" id="dash-filter-chips"></div>
+      <p class="chart-sub" id="dash-resultats-count"></p>
       <div id="dash-resultats"></div>
     </div>
   </div>
@@ -1067,19 +1126,88 @@ function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
   }
 
   const dashResultatsBlock = document.getElementById("dash-resultats-block");
-  const dashResultatsTitle = document.getElementById("dash-resultats-title");
+  const dashChipsEl = document.getElementById("dash-filter-chips");
+  const dashCountEl = document.getElementById("dash-resultats-count");
   const dashResultatsEl = document.getElementById("dash-resultats");
+  const dashClearBtn = document.getElementById("dash-clear-filters");
 
-  function showDashboardResults(label, matches) {
+  const FILTER_FIELD_LABELS = {
+    pays: "Pays",
+    entreprise: "Entreprise",
+    indemniteBucket: "Indemnité",
+    semaine: "Publication",
+    compatBucket: "Compatibilité",
+  };
+
+  // Une sélection par champ (OU à l'intérieur d'un champ, ET entre champs) :
+  // ex. (Belgique OU France) ET (2500-2999€).
+  const activeFilters = {
+    pays: new Set(),
+    entreprise: new Set(),
+    indemniteBucket: new Set(),
+    semaine: new Set(),
+    compatBucket: new Set(),
+  };
+
+  function setRowSelected(field, value, selected) {
+    document
+      .querySelectorAll(\`.hbar-row[data-field="\${CSS.escape(field)}"][data-value="\${CSS.escape(value)}"]\`)
+      .forEach((el) => el.classList.toggle("selected", selected));
+  }
+
+  function toggleFilter(field, value) {
+    const set = activeFilters[field];
+    const active = set.has(value);
+    if (active) set.delete(value);
+    else set.add(value);
+    setRowSelected(field, value, !active);
+    renderDashboardResults();
+  }
+
+  function clearAllFilters() {
+    for (const [field, set] of Object.entries(activeFilters)) {
+      for (const value of set) setRowSelected(field, value, false);
+      set.clear();
+    }
+    renderDashboardResults();
+  }
+
+  dashClearBtn.addEventListener("click", clearAllFilters);
+
+  function renderDashboardResults() {
+    const hasFilters = Object.values(activeFilters).some((s) => s.size > 0);
+    if (!hasFilters) {
+      dashResultatsBlock.style.display = "none";
+      return;
+    }
+
+    const matches = OFFRES.filter((o) =>
+      Object.entries(activeFilters).every(([field, set]) => set.size === 0 || set.has(o[field]))
+    );
+
     dashResultatsBlock.style.display = "block";
-    dashResultatsTitle.textContent = \`\${matches.length} offre(s) : \${label}\`;
+    dashChipsEl.innerHTML = Object.entries(activeFilters)
+      .flatMap(([field, set]) =>
+        [...set].map(
+          (value) => \`
+            <span class="filter-chip">\${FILTER_FIELD_LABELS[field]} : \${value}
+              <button type="button" data-field="\${field}" data-value="\${value}" aria-label="Retirer ce filtre">×</button>
+            </span>
+          \`
+        )
+      )
+      .join("");
+    dashChipsEl.querySelectorAll("button").forEach((btn) => {
+      btn.addEventListener("click", () => toggleFilter(btn.dataset.field, btn.dataset.value));
+    });
+
+    dashCountEl.textContent = \`\${matches.length} offre(s) correspondante(s).\`;
     dashResultatsEl.innerHTML = "";
     for (const o of matches) {
       const card = renderOfferCard(o);
       card.open = true;
       dashResultatsEl.appendChild(card);
     }
-    dashResultatsBlock.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   function renderHBarChart(containerId, rows, opts = {}) {
@@ -1095,8 +1223,10 @@ function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
         const pct = Math.max((r.value / max) * 100, 2);
         const fillClass = fillClassFn ? fillClassFn(r) : "";
         const clickable = filterField && r.value > 0;
+        const selected = filterField && activeFilters[filterField].has(r.label);
         return \`
-          <div class="hbar-row\${clickable ? " clickable" : ""}" data-index="\${i}">
+          <div class="hbar-row\${clickable ? " clickable" : ""}\${selected ? " selected" : ""}"
+               data-index="\${i}" \${filterField ? \`data-field="\${filterField}" data-value="\${r.label}"\` : ""}>
             <span class="hbar-row-label" title="\${r.label}">\${r.label}</span>
             <span class="hbar-row-track"><span class="hbar-row-fill \${fillClass}" style="width:\${pct}%"></span></span>
             <span class="hbar-row-value">\${r.value}</span>
@@ -1109,8 +1239,7 @@ function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
       container.querySelectorAll(".hbar-row.clickable").forEach((el) => {
         el.addEventListener("click", () => {
           const row = rows[Number(el.dataset.index)];
-          const matches = OFFRES.filter((o) => o[filterField] === row.label);
-          showDashboardResults(row.label, matches);
+          toggleFilter(filterField, row.label);
         });
       });
     }
