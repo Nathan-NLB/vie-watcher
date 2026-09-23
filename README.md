@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/09/2026 18:36:59**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 18:54:32**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -235,6 +235,7 @@ and their impact on the business’ financial reporting/outcomes.
 - **Indemnité :** 2 692,70 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 23/09/2026
+- **Compatibilité avec ton profil :** 68 % — Nathan possède le niveau d'études requis (Master), d'excellentes compétences sur Excel et correspond très bien aux critères géographiques (Barcelone) et linguistiques. Néanmoins, l'offre est fortement axée sur de la comptabilité générale et technique (saisie, lettrage, déclarations), ce qui diverge du parcours et des aspirations du candidat centrés sur le contrôle de gestion et le FP&A.
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245978](https://mon-vie-via.businessfrance.fr/offres/245978)
 
 **Description du poste**
@@ -352,6 +353,7 @@ Anglais professionnel courant (C1) : réunions, relances et reporting ; le fran�
 - **Indemnité :** 2 978,53 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 23/09/2026
+- **Compatibilité avec ton profil :** 20 % — Le profil du candidat est orienté vers le contrôle de gestion et la finance d'entreprise, alors que ce poste exige une formation d'ingénieur et une expertise technique en supply chain industrielle (optimisation des flux de production, ERP type SAP). Bien qu'il existe quelques compétences transversales secondaires comme la gestion des KPI, l'écart de domaine fonctionnel et de formation minimale requise est très important.
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245348](https://mon-vie-via.businessfrance.fr/offres/245348)
 
 **Description du poste**
@@ -738,6 +740,7 @@ The ideal candidate has a master’s degree in Finance.
 - **Indemnité :** 2 633,50 €/mois
 - **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
 - **Publiée le :** 22/09/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux missions de Financial Performance Analyst grâce à son Master en contrôle de gestion, son expérience en analyse financière et sa maîtrise de Power BI et de l'anglais (TOEIC 925). Le principal point de vigilance réside dans le besoin de maîtriser un ERP et l'outil BPC, non mentionnés dans son CV.
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246229](https://mon-vie-via.businessfrance.fr/offres/246229)
 
 **Description du poste**
@@ -4888,6 +4891,7 @@ Language Requirements:
 - **Indemnité :** 2 692,70 €/mois
 - **Durée de la mission :** 12 mois (Du 1 oct. 2026 au 1 oct. 2027)
 - **Publiée le :** 28/07/2026
+- **Compatibilité avec ton profil :** 55 % — Le lieu (Bilbao), le statut VIE et la maîtrise des langues (anglais et espagnol) correspondent très bien aux recherches du candidat. Toutefois, il existe un écart important de métier : l'offre exige une expertise poussée en comptabilité générale française (PCG, écritures d'inventaire, TVA, ERP), alors que Nathan a un profil orienté contrôle de gestion et FP&A.
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244192](https://mon-vie-via.businessfrance.fr/offres/244192)
 
 **Description du poste**
