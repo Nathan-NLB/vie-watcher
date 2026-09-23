@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/09/2026 00:05:18**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **24/09/2026 00:26:53**, 81 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1796,68 +1796,6 @@ QUALITÉS HUMAINES ET COMPÉTENCES :
 •	Une formation axée sur le Contrôle de gestion et/ou BTP et/ou Systèmes d’Information est un plus 
 •	Une 1ère expérience en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus
 •	Dans le cadre de vos missions, vous serez amené à faire des déplacements ponctuels
-
-</details>
-
-<details>
-<summary><strong>Attaché économique au SE de Dhaka (Dacca) (H/F)</strong> · DIRECTION GENERALE DU TRESOR · DHAKA, BANGLADESH · 3 072,77 €/mois</summary>
-
-- **Entreprise :** DIRECTION GENERALE DU TRESOR
-- **Lieu :** DHAKA, BANGLADESH
-- **Indemnité :** 3 072,77 €/mois
-- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
-- **Publiée le :** 16/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246021](https://mon-vie-via.businessfrance.fr/offres/246021)
-
-**Description du poste**
-
-Enregistrant une croissance moyenne de 6% sur les dix dernières années, ayant aujourd’hui atteint un PIB par habitant équivalent à l’Inde tout en ayant un indice de développement humain plus avancé, le Bangladesh a rempli les critères de sortie de la catégorie des pays les moins avancés, initialement prévue en novembre 2026, mais actuellement en cours d'arbitrage à l'ONU suite à une demande de prorogation du pays (jusqu'en 2029). Ce développement s’accompagne de nombreux défis (diversification de l’économie, déficit d’image, fragilités sur le plan externe, vulnérabilité au changement climatique) pour lesquels la France tente de se positionner comme un partenaire de choix auprès des autorités locales et du secteur privé. 
-
-Après une période d'instabilité politique consécutive au renversement du gouvernement en août 2024, avec un gouvernement intérimaire dirigé par le Pr. Yunus durant un an et demi, les élections de février 2026 ont marqué le retour à un gouvernement élu civil. Cette nouvelle phase devrait ouvrir à la fois de nouveaux défis et des opportunités pour renforcer la présence française dans le pays.
-Dans ce contexte, le service économique de Dacca est en charge du suivi de la situation économique du Bangladesh, en particulier sur les principaux secteurs industriels matures et émergents, du soutien aux entreprises françaises et aux grands contrats, ainsi que du suivi des activités de l’Agence Française de Développement (AFD) et des bailleurs de fonds multilatéraux, dont l’Union européenne en particulier. Le service économique anime la communauté des affaires française et travaille étroitement avec les autres services de l’Ambassade, le service économique régional de Delhi et Business France. Enfin, il répond aux commandes de l’Ambassadeur et le conseille sur les questions économiques et commerciales.
-
-Le service économique de Dacca se compose de deux personnes : la cheffe de service et un(e) attaché(e) économique, qui officiera en tant qu’adjoint(e). 
-
-MISSION ET ATTRIBUTIONS DU VIA :
-
-L’attaché(e) économique travaillera sous l’autorité directe et en étroite collaboration avec la cheffe du service économique. Il/elle assurera l’intérim de la cheffe de service en son absence (participation aux réunions de service de l’Ambassade, rencontre avec interlocuteurs extérieurs, etc.). 
-
-Il/elle assurera les missions suivantes :
-•	Veille quotidienne sur la presse économique ;
-•	Contribution à la production des lettres d’actualité sur l’économie bangladaise et à la rédaction d’une lettre mensuelle ;
-•	Production de notes macro-économiques, sectorielles et d’analyse, à la demande de l’administration ou sur des sujets considérés d’importance par l’équipe du service économique ;
-•	Suivi des projets des bailleurs de fonds (participation à des réunions de coordination, notamment avec l’UE, rédaction d’avis) 
-•	Soutien ponctuel à des entreprises ou des opérateurs français (information générale de contexte d’un secteur, soutien auprès des autorités bangladaises, etc.).
-
-Le périmètre du poste pourra être adapté en fonction de tout autre dossier d’actualité à la demande de la cheffe de service. 
-
-COMPETENCES REQUISES :
-
-•	Capacités de synthèse, d’analyse et de rédaction
-•	Goût du contact, ouverture d’esprit
-•	Polyvalence et adaptabilité	
-•	Connaissances solides en macro-économie
-•	Anglais courant à l’écrit et à l’oral (niveau C1 minimum indispensable)
-
-Un intérêt pour la zone Asie du Sud et/ou une expérience professionnelle ou académique à l’étranger seraient un plus.
-
-PROFIL RECHERCHE : 
-
-Niveau master en école (ingénieur, commerce, IEP) ou à l’université (économie ou finances). 
-
-DIVERS :
-
-Hébergement : non pourvu. L’offre de logement du secteur privé est abondante dans les trois quartiers où le personnel de l’ambassade peut résider (Gulshan, Baridhara et Banani). Elle comprend presque exclusivement des appartements de trois chambres, avec des prix entre 700 et 1100€/mois hors charges pour un meublé. La colocation est une pratique courante pour les personnes expatriées (environ 400€). 
-
-Sécurité : peu de délinquance de droit commun touchant les expatriés. 
-
-Conditions de vie : Dacca est une ville particulièrement densément peuplée, bruyante et polluée (surtout en hiver), rendant les conditions de vie parfois peu agréables et difficiles. La ville offre néanmoins une vie sociale dynamique, avec une grande diversité de restaurants, cafés, clubs et centres de bien-être, et les interactions sont faciles avec les expatriés comme avec les Bangladais. Il est possible de voyager dans le pays, moyennant une certaine vigilance et à l’exception de zones à la frontière birmane. Il est par ailleurs facile de voyager dans la région (bonnes connections avec l’Inde, le Sri Lanka, le Népal, l’Asie du Sud-Est et le Moyen-Orient).
-
-**Profil recherché**
-
-Niveau master en école (ingénieur, commerce, IEP) ou à l’université (économie ou finances). 
-Anglais courant à l’écrit et à l’oral (niveau C1 minimum indispensable)
-MERCI D'ENVOYER VOTRE CV ET LM EN FRANCAIS UNIQUEMENT
 
 </details>
 
@@ -4747,59 +4685,6 @@ Proactive, hands-on mindset with a strong sense of initiative and ownership
 Customer-oriented with a commercial mindset
 
 Strong team spirit with a commitment to delivering high-quality results
-
-</details>
-
-<details>
-<summary><strong>Project Manager Finance  (H/F)</strong> · EXTIA · LISBONNE, PORTUGAL · 2 677,43 €/mois</summary>
-
-- **Entreprise :** EXTIA
-- **Lieu :** LISBONNE, PORTUGAL
-- **Indemnité :** 2 677,43 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 24/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245367](https://mon-vie-via.businessfrance.fr/offres/245367)
-
-**Description du poste**
-
-As an Intermediate Finance Project Manager, you will lead end-to-end business and regulatory finance projects to integrate multi-entity accounting frameworks into a standardized global General Ledger system. Joining an immersive integration program combining hands-on training with project execution, you will play a key role in harmonizing regional finance operating models worldwide.
-
-Key Responsibilities:
-
--Drive Project Lifecycle: Lead business and regulatory transformation projects from inception to delivery to fulfill global finance and business line requirements.
--Conduct Feasibility Studies: Evaluate impact assessments, define target operating solutions, and capture comprehensive user requirements across business units.
--Manage Accounting Mapping & Validation: Oversee non-regression testing across active entities to ensure accounting mappings strictly adhere to standardized core General Ledger frameworks for financial accounting, management accounting, credit risk, and liquidity reporting.
--Define & Execute UAT Strategy: Design robust test cases, review detailed accounting entries and reporting deliverables, and provide User Acceptance Testing (UAT) sign-off on behalf of finance users.
--Foster Global Alignment: Collaborate closely with international finance implementation communities across Europe, Asia, and the Americas to enforce consistent project standards and operational continuous improvement.
--Facilitate Stakeholder Engagement: Prepare, organize, and facilitate cross-functional project committees, workshops, and training sessions across international teams.
-
-**Profil recherché**
-
-Education & Experience:
-
--Master’s Degree from a Business School or Engineering University.
--Intermediate level profile with prior project management experience.
--Previous experience in banking, financial audit, accounting, management control, or consulting is strongly preferred.
-
-Technical Skills & Tools:
-
--Accounting & Regulatory Norms: Strong understanding of IFRS, regulatory principles, and core banking accounting mechanisms.
--Financial Information Systems: Knowledge of complex Financial Information Systems (FIS), General Ledger migration architectures, and multi-reporting systems (Financial Accounting, Management Accounting, Credit Risk, Liquidity).
--Business Intelligence & Analytics: Proficient in Business Objects (BO) for data extraction/analysis and Power BI for reporting and visualization.
--Productivity Suite: Expert command of Microsoft Office Pack (Advanced Excel, Access, PowerPoint, Word, Outlook).
--Quality Assurance: Expertise in UAT strategy design, test case creation, non-regression validation, and accounting entry verification.
-
-Soft Skills:
-
--Demonstrated capability to end-to-end manage projects and adapt operational processes.
--Strong analytical thinking, structured problem-solving, and attention to detail.
--Excellent communication and meeting facilitation skills (committees, workshops, seminars).
--Adaptable team player comfortable working within an international, cross-cultural environment.
-
-Language Requirements:
-
--English: Mastery / Full Professional Fluency (mandatory operational language).
--French: Professional Working Proficiency / Practice.
 
 </details>
 
