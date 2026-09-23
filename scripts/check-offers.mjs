@@ -879,9 +879,14 @@ async function main() {
   const geoPoints = await resolveOfferLocations(offers, geocache);
   writeJson(GEOCACHE_FILE, geocache);
 
+  // La note de compatibilité ne s'applique qu'aux offres qui apparaissent
+  // à partir de maintenant, pas à celles déjà actives avant l'introduction
+  // de cette fonctionnalité (pas de rattrapage rétroactif du passé).
   const compatCache = readJson(COMPAT_CACHE_FILE, {});
-  await resolveCompatScores(offers, compatCache);
-  writeJson(COMPAT_CACHE_FILE, compatCache);
+  if (!isFirstRun) {
+    await resolveCompatScores(newOffers, compatCache);
+    writeJson(COMPAT_CACHE_FILE, compatCache);
+  }
 
   fs.writeFileSync(README_FILE, buildReadme(offers, compatCache));
   fs.mkdirSync(path.dirname(PAGE_FILE), { recursive: true });
