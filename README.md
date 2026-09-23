@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/09/2026 12:47:19**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 13:05:00**, 81 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2748,90 +2748,6 @@ Key requirements:
 •	Customer-centric attitude and strong communication skills.
 •	Analytical skills and a critical view
 •	Flexible team player able to work under pressure and to respect tight deadlines.
-
-</details>
-
-<details>
-<summary><strong>Planning Process Adherence Expert and Project Coordinator (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
-
-- **Entreprise :** SANOFI WINTHROP INDUSTRIE
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 24 mois
-- **Publiée le :** 08/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245656](https://mon-vie-via.businessfrance.fr/offres/245656)
-
-**Description du poste**
-
-About the job
-
-As Planning Process Adherence Expert and Project Coordinator VIE within our Operational Excellence & Performance team, you will primarily support on the Process Adherence assessments, Supply Chain Learning Database maintenance, and key project deployment.
-
-Join a global network that powers how Sanofi delivers — seamlessly, purposefully, and at scale. In Manufacturing & Supply, you’ll help reimagine how life-changing treatments reach people everywhere, faster.
-
-Ready to get started?
-
-About Sanofi
-
-We’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. 
-
-Main responsibilities:
-
-- Participate in maturity assessment activities that will help sustain the newly deployed E2E (End to End) SC (Supply chain) planning processes across Sanofi’s markets (downstream market SC) & manufacturing plants (upstream SC).
-- Participate in monitoring the Planning CoE (Center of Excellence) backbone GOPs (Global Order Promising) update according to new changes in Core Model (Process or Tool).
-- Participate in SC training library maintenance activities i.e. ensuring SC Training.
-- Library Platforms (Sharepoint, iLearn) are up to date with the latest training documents.
-- Track Kinaxis Advanced Planning System utilization in PowerBI.
-- Produce support material and meeting minutes of various projects.
-- Assist in coordination and deployment of relevant SC priority projects and ensure that project risks are identified, formalized and communicated.
-- Support Projects related to Core Planning Processes inside Planning CoE perimeter. 
-
-Why choose us?
-
-- Be part of a pioneering biopharma company where patient insights shape drug development.
-- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes.
-- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams.
-- Work at the forefront of drug discovery, harnessing cutting-edge AI, data, and digital platforms to push the boundaries of science.
-- Help improve the lives of millions of people globally by making drug development quicker and more effective.
-- Join a workplace where diversity, equity, and inclusion are at the core, with Employee Resource Groups and leadership programs that celebrate every voice.
-
-iMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow.
-
-Sanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work.
-
-Pursue Progress. Discover Extraordinary.
-
-Progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together.
-
-At Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. 
-
-Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!
-
-**Profil recherché**
-
-About you
-
-Experience:
-
-- Previous experience in Supply Chain related areas (i.e. Production Planning, Supply Planning, Forecasting, Sales and Operations Planning, Analytics, SC Transformation, Digital Transformation, SC Excellence, or similar).
-
-Soft and technical skills:
-
-- Desire to always keep learning and/or improving.
-- Taking initiative and actively proposing ideas/solutions to make the project “move ahead.
-- Knowledge of Supply Chain Planning principles (Production Planning, Supply Planning, Forecast, Sales and Operations Planning, Product Launch).
-- Knowledge of Supply Chain Tools (SAP APO, Rapid Response/Kinaxis, PowerBI or similar) would be a strong advantage.
-
-Education:
-
-- Master’s Degree in Logistics, Business Administration, Engineering, Finance, IT or other related field.
-
-Languages:
-
-- Fluent English (written and verbal).
-- Spanish would be a plus.
- 
-To facilitate the examination of your application by our English-speaking managers, thank you for applying in English.
 
 </details>
 
