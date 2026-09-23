@@ -439,6 +439,40 @@ function buildOffersPageHtml(offers, geoPoints) {
     cursor: grab;
   }
   #globeViz:active { cursor: grabbing; }
+  .globe-marker {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+  }
+  .globe-marker-dot {
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    background: #ff5470;
+    border: 2px solid #ffffff;
+    box-shadow: 0 0 0 3px rgba(255, 84, 112, 0.35), 0 2px 6px rgba(0, 0, 0, 0.35);
+    transition: transform 0.15s ease, background 0.15s ease;
+  }
+  .globe-marker-badge {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    pointer-events: none;
+  }
+  .globe-marker:hover .globe-marker-dot,
+  .globe-marker.active .globe-marker-dot {
+    background: #2f6fed;
+    transform: scale(1.25);
+    box-shadow: 0 0 0 5px rgba(47, 111, 237, 0.4), 0 2px 8px rgba(0, 0, 0, 0.4);
+  }
   .map-hint {
     max-width: 780px;
     margin: 12px auto 0;
@@ -604,20 +638,31 @@ function buildOffersPageHtml(offers, geoPoints) {
     script.src = "${GLOBE_GL_URL}";
     script.onload = () => {
       const clusters = buildClusters();
+
+      function makeMarker(d) {
+        const el = document.createElement("div");
+        el.className = "globe-marker";
+        el.title = \`\${d.ids.length} offre(s) à cet endroit\`;
+        el.innerHTML = \`<span class="globe-marker-dot"></span><span class="globe-marker-badge">\${d.ids.length}</span>\`;
+        el.addEventListener("click", (e) => {
+          e.stopPropagation();
+          document.querySelectorAll(".globe-marker.active").forEach((m) => m.classList.remove("active"));
+          el.classList.add("active");
+          showOffersForCluster(d.ids);
+        });
+        return el;
+      }
+
       const globe = Globe()(container)
         .width(container.clientWidth)
         .height(container.clientHeight)
         .backgroundColor("rgba(0,0,0,0)")
         .globeImageUrl("${EARTH_TEXTURE_URL}")
-        .pointsData(clusters)
-        .pointLat("lat")
-        .pointLng("lon")
-        .pointColor(() => "#2f6fed")
-        .pointAltitude(0.012)
-        .pointRadius((d) => Math.min(0.35 + Math.sqrt(d.ids.length) * 0.22, 1.6))
-        .pointLabel((d) => \`\${d.ids.length} offre(s) à cet endroit\`)
-        .onPointClick((d) => showOffersForCluster(d.ids))
-        .pointsMerge(false);
+        .htmlElementsData(clusters)
+        .htmlLat("lat")
+        .htmlLng("lon")
+        .htmlElement(makeMarker)
+        .htmlAltitude(0.015);
 
       globe.controls().autoRotate = true;
       globe.controls().autoRotateSpeed = 0.6;
