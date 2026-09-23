@@ -31,7 +31,7 @@ const COMPAT_CACHE_FILE = path.join(DATA_DIR, "compat-scores.json");
 // Actions ; en leur absence, le score est simplement omis.
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const CANDIDATE_PROFILE = process.env.CANDIDATE_PROFILE;
-const GEMINI_MODEL = "gemini-2.0-flash";
+const GEMINI_MODEL = "gemini-3.6-flash";
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
 
 // Service gratuit de géocodage (OpenStreetMap), sans clé. On s'identifie
