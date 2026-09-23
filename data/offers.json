@@ -864,23 +864,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "90",
-      "259"
+      "[\"90\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "90",
-        "specializationParentId": "89",
-        "specializationLabel": "Immobilier",
-        "specializationLabelEn": "Real Estate"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Après la France (2010), l’Allemagne (2015), l’Italie (2016) et l’Espagne (2019), eRE souhaite désormais s’implanter sur le marché polonais depuis Varsovie pour accompagner le développement de nos clients investisseurs en Europe centrale, et recherche un(e) Real estate investment analyst. Au-delà du poste d'analyste, c'est une aventure entrepreneuriale, intense et formatrice, au cœur du secteur immobilier institutionnel. Vous contribuez, dès le premier jour et en lien direct avec les associés fondateurs, à bâtir notre présence, notre connaissance et notre expérience sur ce nouveau marché — comme nous l'avons fait avec succès en Allemagne, en Italie puis en Espagne depuis 2015.\n\nLes missions proposées :\n●\tSourcing d’opportunités d’investissement : animation du réseau de brokers nationaux et indépendants, identification d'opportunités, visites de sites, rencontres avec les locataires, enseignes ou exploitants, aux côtés des associés fondateurs et des équipes de chaque pays.\n●\tAnalyse des dossiers d'investissement : calcul de la rentabilité des projets, modélisation des hypothèses financières, recherche de données de marché, analyse de comparables, rédaction des memos d'investissement à l'aide de nos outils internes enrichis par l'IA, préparation des LOI.\n●\tAssistance au pilotage des due diligences : analyse des offres reçues des conseils (avocats, experts techniques et évaluateurs indépendants), suivi de leur exécution, préparation des rapports de suivi, aide à la négociation.\n\nLe poste, stimulant et très responsabilisant, intègre un volet relationnel important : vous serez intégré à l’équipe dirigeante, en interaction constante avec nos clients investisseurs institutionnels. \nVous bénéficierez d'une grande autonomie dans l'organisation de votre emploi du temps, des visites et des rencontres avec les différents partenaires. Ici, pas de poste d'exécution : vos analyses nourrissent des convictions qui pèsent dans les arbitrages de nos clients, vos initiatives construisent le développement de l’équipe et de l’entreprise.\nVous rejoignez une équipe à taille humaine, exigeante et bienveillante, valorisant la solidarité entre les équipes, la progression des talents et le goût du terrain. Une réelle opportunité de consolider votre expérience sur un secteur dynamique, dans un cadre de travail privilégié où votre rôle sera pleinement valorisé.",
     "creationDate": "2026-07-24T13:43:49Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1137,44 +1123,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "6",
-      "8",
-      "9",
-      "259"
+      "[\"5\",\"6\",\"8\",\"9\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Créé en 1974, le Groupe MOBILITAS est passé en quelques années d’une PME familiale française à une ETI d’envergure internationale. Constamment à l’avant-garde des changements qui affectent ses secteurs d’activité que sont le déménagement, la gestion de la mobilité internationale, le records management, ainsi que la préservation, restauration, numérisation et partage des patrimoines, MOBILITAS développe continuellement son réseau mondial pour être au plus près de ses clients, et leur offrir des services sur-mesure dans des marchés de plus en plus exigeants et concurrentiels.\r\nLe Groupe MOBILITAS continue à développer son réseau afin de fournir à ses clients tout le soutien et les connexions dont ils ont besoin pour prospérer. « Être précurseur » est la philosophie qui guide MOBILITAS dans sa politique d’expansion. Présent dans 103 pays MOBILITAS c’est :\r\n380 implantations dans le monde dont :\r\n•\t169 en Europe\r\n•\t139 en Afrique\r\n•\t38 en Asie\r\n•\t29 dans les Caraïbes et Dom Tom\r\n•\t5 au Moyen-Orient\r\n\r\nAu fils des ans, le Groupe MOBILITAS a intégré dans son portefeuille des marques séculaires, prestigieuses et leaders dans leurs pays, qu’il continue à développer et dont l’expertise et l’histoire viennent enrichir l’ADN multiculturel du groupe. Cette stratégie de croissance permet au groupe d’innover et de développer ses activités autour de nouveaux métiers.\r\nNous sommes aujourd’hui en recherche de V.I.E (Volontaire International en Entreprise) (H/F) pour la Grèce\r\n\r\nDESCRIPTIF DU POSTE : \r\n\r\nLe(la) candidat(e) travaillera en Le(la) candidat(e) travaillera en direct avec le Président du Conseil d’administration du Groupe et interviendra sur trois principaux volets :\r\n\r\n1. Assistance au Président\r\n     -  Assister le Président dans le suivi quotidien de ses dossiers ;\r\n     -  Participer à certaines réunions (français et anglais)  et assurer le suivi des actions confiées ;\r\n     -  Contribuer au suivi de projets stratégiques et transverses.\r\n\r\n2. Finance\r\n     -  Préparer et analyser des reportings financiers et des documents destinés au Conseil d’administration ;\r\n     -  Analyser les données financières et les principaux indicateurs de performance .\r\n     -  Élaborer et exploiter des tableaux de suivi chiffrés ;\r\n     -  Participer au suivi des projets de financement avec les banques ;\r\n     -  Exploiter des tableaux chiffrés et analyser les données financières.\r\n\r\n3. Développement commercial \r\n     -  Prospecter de nouveaux clients et partenaires, notamment sur le terrain ;\r\n     -  Identifier de nouvelles opportunités commerciales ;\r\n     -  Assurer la mise en relation entre les prospects/clients et le pôle Memorist ;\r\n     -  Développer et entretenir un réseau local en Grèce ;\r\n     -  Assurer le suivi des prospects et des opportunités identifiées.",
     "creationDate": "2026-09-18T14:39:24Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2404,16 +2355,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The resource will actively participate in the deployment of the business offering (residential and commercial real estate finance, corporate finance, lombard/securities based lending, HoldCo finance), supporting the local team in the day-by-day activities.\nMain tasks:\n· Analyze the financial situation of clients and / or prospects and assess which extraordinary financial strategy best fits their needs.\n· Prepare analyses, reports, marketing pitch-books, term sheets and related materials to be delivered to clients and prospects.\n· Prepare credit papers and financing transaction requests.\nInteract with other key divisions of the Bank along the credit process (Wealth Managers, Risk, Legal Team etc.)\n· Assist in the execution of deals.\n· Document projects and activities through a structured and regular reporting.\n· Document and maintain the knowledge of the financial situation and the needs of the Client, taking into account at the same time financial, professional and personal aspects.\n. Identify and manage all risks and compliance issues for the client and the bank, based on latest regulation given by competent national and international Authorities as well as the Group.\n\nThe resource will be exposed to a challenging and rapidly changing international environment, which requires multi-tasking skills, relating to several key people within the organization, and meeting tight deadlines. It's a good opportunity to discover the world of Wealth Management, in particular on the structured financing side, from the perspective of one of the most active international banks in this market.",
     "creationDate": "2026-09-15T08:52:59Z",
     "missionStartDate": "2027-01-01T00:00:00",
