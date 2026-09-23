@@ -6,11 +6,60 @@ catégorie **Finance Comptabilité Gestion Banque**, toutes les 20 minutes
 environ. Une notification est envoyée sur ton téléphone (via ntfy.sh) à
 chaque nouvelle offre détectée.
 
-Dernière vérification : **23/09/2026 09:47:23**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 10:05:19**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>CONTROLEUR DE GESTION (H/F)</strong> · FRIEDLANDER · GEORGETOWN, GUYANA · 3 164,30 €/mois</summary>
+
+- **Entreprise :** FRIEDLANDER
+- **Lieu :** GEORGETOWN, GUYANA
+- **Indemnité :** 3 164,30 €/mois
+- **Durée de la mission :** 12 mois
+- **Publiée le :** 23/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/237810](https://mon-vie-via.businessfrance.fr/offres/237810)
+
+**Description du poste**
+
+Rejoignez Friedlander Guyana, une agence du Groupe Ortec, reconnue pour son expertise en ingénierie, travaux
+neufs et maintenance industrielle.
+
+Engagées aux côtés des acteurs clés du territoire, nos équipes interviennent sur des projets d’envergure dans les
+secteurs Oil & Gas / industrie lourde.
+
+Intégrer Friedlander Guyana, c’est rejoindre une structure agile, équipée d’infrastructures modernes et de
+technologies innovantes, où sécurité, qualité et performance guident chaque mission.
+
+Rattaché(e) à Thomas, Directeur d’Agence, et en lien avec les services du Siège, vous assurez le support
+administratif et financier de l’agence, êtes le/la garant(e) de la fiabilité de l’information financière et contribuez à
+la structuration des outils et processus.
+
+Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la
+Comptabilité Internationale et Benoît, Responsable du Contrôle de Gestion International.
+
+A ce titre, vos principales missions sont les suivantes :
+- Préparation de la clôture mensuelle de gestion
+- Contribution à la clôture comptable trimestrielle
+- Révision et suivi de la comptabilité générale et analytique
+- Gestion opérationnelle de la trésorerie
+- Contrôle de l’application des procédures Groupe
+- Appui administratif et financier en coordination avec la Responsable Administrative
+
+**Profil recherché**
+
+Issu(e) d'une formation Bac +5 en Comptabilité/Finance, avec une très bonne base en Comptabilité / Contrôle de Gestion, vous souhaitez donner un élan international à votre carrière et intégrer un groupe avec de fortes valeurs.
+
+Vous êtes reconnu(e) pour votre sens du relationnel & êtes apte à interagir avec une multitude d’interlocuteurs
+(opérationnels, clients, DAF…).
+
+Vous maîtrisez les outils informatiques (plus particulièrement Microsoft Excel) & avez un très bon niveau d'anglais (écrit & oral) ?
+
+Vous souhaitez partir à l'international et êtes attiré(e) par l'Afrique et son potentiel ? Cette mission est faite pour vous, Rejoignez-nous !
+
+</details>
 
 <details>
 <summary><strong>Risk Officer (H/F)</strong> · CACEIS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
