@@ -645,6 +645,10 @@ function buildOffersPageHtml(offers, geoPoints) {
       function makeMarker(d) {
         const el = document.createElement("div");
         el.className = "globe-marker";
+        // globe.gl désactive les clics sur ses éléments HTML par défaut
+        // (pointer-events: none) pour laisser passer la rotation du globe :
+        // on le réactive explicitement pour que la bulle soit cliquable.
+        el.style.pointerEvents = "auto";
         el.title = \`\${d.ids.length} offre(s) à cet endroit\`;
         el.innerHTML = \`<span class="globe-marker-dot"></span><span class="globe-marker-badge">\${d.ids.length}</span>\`;
         el.addEventListener("click", (e) => {

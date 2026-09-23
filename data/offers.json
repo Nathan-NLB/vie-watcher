@@ -329,6 +329,132 @@
     "dateCandidature": null
   },
   {
+    "id": 245978,
+    "organizationName": "SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE",
+    "missionTitle": "Comptable international Multi-pays (H/F)",
+    "missionDuration": 12,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "0",
+    "effectifInd": "0",
+    "effectifConso": "0",
+    "organizationCountryCounter": "0",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "BARCELONE",
+    "cityNameEn": "BARCELONE",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"8\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "Dans le cadre de notre développement et la structuration de notre activité à l’international, nous souhaitons recruter un VIE Comptable International au sein d’un share service center pour le groupe basé à Barcelone et en charge de la tenue comptable de plusieurs filiales dans le cadre du passage à un nouvel outil comptable.\r\n\r\nMission à pourvoir asap.\r\nLocalisation : Barcelone\r\n\r\nVos missions : Réviser la saisie comptable pour plusieurs filiales du groupe dans le cadre de l’implémentation d’un nouveau logiciel et de la réinternalisation de la fonction comptable au sein d’un service partagé basé à Barcelone.\r\n\r\nLes missions principales dans ce cadre seront :\r\n- Révision de la saisie des écritures comptables pour les sociétés du groupe assignées, en respect des normes comptables applicables dans chaque pays.\r\n- Vérification des notes de frais,\r\n- Révision des rapprochements bancaires,\r\n- Préparation des fichiers de paiements fournisseur,\r\n- Révisions des comptes clients et fournisseurs, du lettrage et des autres comptes de bilan,\r\n- Clôtures comptables mensuelles : révision des comptes de bilan et compte de résultat et préparation des écritures de clôtures mensuelles (FNP, CCA, WIP ..)\r\n- Préparation des données nécessaires aux déclarations fiscales afin de les transmettre pour validation.\r\n- Préparation des fichiers de liasses sociales pour la consolidation groupe.\r\n\r\nListe non exhaustive, les missions peuvent évoluer au cours de la période.\r\n\r\n\r\nLes Avantages\r\n- Entreprise dynamique, petite structure très horizontale malgré plus de 600 employés pour la filiale espagnole. Et une dynamique de croissance et de coopération avec le groupe et les autres filiales.\r\n- Ambiance de travail très agréable où il est facile de s’intégrer et de rapidement apporter (entreprise élue « great place to work »).\r\n\r\n- Groupe français et présent à l’international sur 3 continents avec de nombreuses nationalités représentées.\r\n- Interactions multiples avec au moins 2 filiales différentes.",
+    "creationDate": "2026-09-15T11:53:29Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-09-23T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-10-23T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "- Formation : Business school, Master, DSCG.\n- Français courant (impératif écrit/oral), espagnol et anglais niveau professionel (B2).\n- Maîtrise des outils Excel, expérience avec l’utilisation d’un ERP.\n- Expérience en comptabilité requise.\n- Prise d’initiative, curiosité, travail en équipe, esprit critique.",
+    "countryId": "ES",
+    "countryName": "ESPAGNE",
+    "countryNameEn": "SPAIN",
+    "reference": "VIE245978",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Monsieur Juliane SAINT MARTIN",
+    "indemnite": 2692.7,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "juliane.saintmartin@siigroup-spain.com",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "",
+    "dateCandidature": null
+  },
+  {
+    "id": 245348,
+    "organizationName": "FORTIL GROUP",
+    "missionTitle": "INGÉNIEUR SUPPLY CHAIN (H/F)",
+    "missionDuration": 12,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "Fortil, groupe d'ingénierie et de conseil en technologie, Fortil est un modèle pensé par des ingénieurs entrepreneurs. Collaborer avec Fortil, c’est travailler avec une communauté ambitieuse et experte, animée par l'exactitude, le challenge et l'émulation.  Nous sommes aujourd'hui plus de 2 400 collaborateurs à œuvrer chaque jour pour faire de Fortil le plus grand acteur de l'ingénierie indépendant d'Europe.  Nous avons pour ambition de contribuer à la construction d’un monde plus responsable, plus collectif, plus inclusif pour nos collaborateurs et nos clients.",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "50",
+    "effectifInd": "20",
+    "effectifConso": "0",
+    "organizationCountryCounter": "15",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "LIEGE",
+    "cityNameEn": "LIEGE",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. \n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions : \nSupply chain & distribution \nRéalisation d'audit\nRéalisation de plans d'actions\n\nVos responsabilités métier \n\nDans l’exercice de vos fonctions, vous serez amené à : \nOptimiser les flux de production\nIdentifier et suivre les actions d’amélioration avec les équipes internes \nSuivre et pérenniser les plans d’actions via des audits\nPiloter la planification de la production en fonction de la demande client et des capacités industrielles\nOptimiser les flux de matières, d’informations et de produits finis\nGérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités\nAccompagner les équipes dans la mise en place des bonnes pratiques\nCoordonner les projets d’amélioration de la maturité Supply Chain\nAnalyser les indicateurs de performance (KPI) et proposer des actions correctives\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
+    "creationDate": "2026-08-21T14:42:01Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-09-23T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-10-23T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "Votre profil et votre personnalité\n\nDe formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie en industrie.\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.",
+    "countryId": "BE",
+    "countryName": "BELGIQUE",
+    "countryNameEn": "BELGIUM",
+    "reference": "VIE245348",
+    "contactFirstName": "Jehanne",
+    "contactLastName": "Ravel",
+    "contactCivility": "Madame",
+    "contactName": "Madame Jehanne RAVEL",
+    "indemnite": 2978.53,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "jehanne.ravel@fortil.group",
+    "cityAffectation": "LIEGE",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "",
+    "dateCandidature": null
+  },
+  {
     "id": 246277,
     "organizationName": "CACEIS",
     "missionTitle": "Risk Officer (H/F)",
@@ -1718,37 +1844,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "259",
-      "318",
-      "320"
+      "[\"180\",\"259\",\"318\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n\r\nWe invite you to join us as a VIE in our Custody Services Department.\r\n\r\nThe candidate will be in the position to: \r\n•\tProcess receipt of Income payments within agreed service standards.\r\n•\tFull adherence to the team’s control functions, including operations/events and end-of-the-day checklists.\r\n•\tAssist with the day-to-day administrative tasks of investigation/amendment and clearance of reconciling items in ensuring accurate processing.\r\n•\tEnsure that queries raised/assigned to individuals are answered within agreed service standards.\r\n•\tEnsure on-going productivity by providing back-up relief for staff who are absent or on leave.\r\n•\tContinually ensure complete awareness of Client, external custodians and inter-departmental Service Level Standards / Agreements and ensure compliance at all times.\r\n•\tEnsure prompt escalation of operational issues that may cause financial or reputational issues to CACEIS or its clients to Senior Officer/Assistant Manager/Manager of the team/department. \r\n•\tEstablish working relationships with people at all levels both inter departmental and across the wider firm.\r\n•\tProvide feedback on agent network and vendor performance on any deviations from their service level agreement with CACEIS.\r\n•\tAble to demonstrate capability to perform validation on common task.\r\n\r\nGood Reasons to Join Us \r\n1.\tJoin an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2.\tDevelop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3.\tExpand your professional horizons with numerous mobility opportunities within the group. \r\n4.\tThrive in a company that respects its employees and clients.  \r\n5.\tTake advantage of ongoing training to enhance your skills and boost your employability. \r\n6.\tOpportunity to work in a multicultural environment and engage with a diverse team.",
     "creationDate": "2026-09-17T09:25:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3237,93 +3335,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "180",
-      "200",
-      "202",
-      "259",
-      "318",
-      "320",
-      "321",
-      "322",
-      "324"
+      "[\"5\",\"8\",\"9\",\"180\",\"200\",\"202\",\"259\",\"318\",\"320\",\"321\",\"322\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "321",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance Verte et Responsable",
-        "specializationLabelEn": "Finance Verte et Responsable"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "1.\tDescription du groupe Amethis \nAmethis est un gestionnaire de fonds d’investissement (« AIFM ») dédié au continent africain, contribuant à favoriser au développement durable des entreprises africaines. \nCréé en 2012 en partenariat avec le groupe Edmond de Rothschild, nous disposons aujourd’hui de plus de €1 milliard d’actifs sous gestion et continuons de nous développer rapidement. Amethis a investi dans des sociétés présentes dans plus de 20 pays africains et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.\nAfin d’accompagner notre forte croissance, nous recherchons un(e) analyste en valorisation. Dans ce cadre, vous accompagnerez l’équipe financière de l’AIFM du groupe Amethis (Amethis Investment Fund Manager S.A.), réglementé par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg. Cette équipe est en charge du pilotage de la fonction financière et de la gestion des fonds d’investissements.\n\n2.\tContexte AIFM (Aspect règlementaire)\nAmethis Investment Fund Manger S.A. est une société du groupe Amethis. Amethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissements alternatifs (GFIA). Cette société créée en 2017 est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg. L’AIFM assure entre autres, pour les fonds d’investissement dont elle a la supervision, les fonctions réglementaires suivantes :\n•\tContrôle interne (gestion des risques / compliance / audit interne)\n•\tGestion de portefeuille\n•\tEvaluation des actifs\n•\tCommercialisation\n\n3.\tRôle et missions du poste\nLe poste sera rattaché au directeur en charge des risques, de la finance et de la gestion administrative des fonds et fournira une exposition régulière aux membres du comité exécutif de l’AIFM, au front office, aux investisseurs, aux commissaires aux comptes et aux prestataires délégués pour l’administration des fonds.\nLes tâches associées au poste sont les suivantes : \n•\tAssister le Valuation and Fund Administration Manager dans:\no\tLa revue des valorisations des investissements du portefeuille d’actifs (méthodologies, hypothèses d’évaluation, supports, etc.)\no\tLa préparation des mémos à destination des comités de valorisation\no\tLa coordination des audits des fonds d’investissement\n•\tLa production des rapports trimestriels à destination des investisseurs (incluant des revues analytiques des états comptables produits par différents prestataires de service)\n•\tLa préparation et support sur les opérations des fonds (appels de fonds, distributions, investissement, etc.)\n•\tLe support de l’équipe Finance sur d’autres fonctions transversales (modélisation de cash-flows prévisionnels, création d’outils interne de gestion/contrôle, Digitalisation etc.)\n•\tAide à la clôture annuelle des comptes.\n•\tAide au suivi de la collaboration et des échanges avec les différents prestataires de services (Banque dépositaire, Agent de transfert, Prestataire comptable / fiscal ; Auditeur interne / externe ; etc.)",
     "creationDate": "2026-09-08T07:54:23Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -6147,377 +6161,6 @@
     "idMotifDesactivationOffre": 0,
     "contactEmail": "pcourbe@extia.es",
     "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
-    "dateCandidature": null
-  },
-  {
-    "id": 245348,
-    "organizationName": "FORTIL GROUP",
-    "missionTitle": "INGÉNIEUR SUPPLY CHAIN (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "Fortil, groupe d'ingénierie et de conseil en technologie, Fortil est un modèle pensé par des ingénieurs entrepreneurs. Collaborer avec Fortil, c’est travailler avec une communauté ambitieuse et experte, animée par l'exactitude, le challenge et l'émulation.  Nous sommes aujourd'hui plus de 2 400 collaborateurs à œuvrer chaque jour pour faire de Fortil le plus grand acteur de l'ingénierie indépendant d'Europe.  Nous avons pour ambition de contribuer à la construction d’un monde plus responsable, plus collectif, plus inclusif pour nos collaborateurs et nos clients.",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "50",
-    "effectifInd": "20",
-    "effectifConso": "0",
-    "organizationCountryCounter": "15",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "LIEGE",
-    "cityNameEn": "LIEGE",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "2",
-      "29",
-      "60",
-      "62",
-      "63",
-      "64",
-      "65",
-      "66",
-      "68",
-      "69",
-      "70",
-      "71",
-      "72",
-      "73",
-      "76",
-      "109",
-      "114",
-      "134",
-      "138",
-      "149",
-      "150",
-      "155",
-      "158",
-      "159",
-      "160",
-      "168",
-      "169",
-      "197",
-      "205",
-      "206",
-      "207",
-      "208",
-      "209",
-      "224",
-      "225",
-      "244",
-      "248",
-      "251",
-      "262",
-      "264",
-      "330",
-      "331",
-      "358",
-      "361"
-    ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "29",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique industrielle",
-        "specializationLabelEn": "Industrial Computing"
-      },
-      {
-        "specializationId": "60",
-        "specializationParentId": "59",
-        "specializationLabel": "Aéronautique",
-        "specializationLabelEn": "Aeronautics"
-      },
-      {
-        "specializationId": "62",
-        "specializationParentId": "196",
-        "specializationLabel": "Bâtiment – Construction – Second Oeuvre",
-        "specializationLabelEn": "Building - Construction - Finishings"
-      },
-      {
-        "specializationId": "63",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie - Génie Chimique",
-        "specializationLabelEn": "Chemicals - Chemical Engineering"
-      },
-      {
-        "specializationId": "64",
-        "specializationParentId": "59",
-        "specializationLabel": "Dessin industriel",
-        "specializationLabelEn": "Industrial Design"
-      },
-      {
-        "specializationId": "65",
-        "specializationParentId": "59",
-        "specializationLabel": "Electromécanique",
-        "specializationLabelEn": "Electro-mechanics"
-      },
-      {
-        "specializationId": "66",
-        "specializationParentId": "59",
-        "specializationLabel": "Electronique",
-        "specializationLabelEn": "Electronics"
-      },
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "69",
-        "specializationParentId": "255",
-        "specializationLabel": "Environnement - Ecologie",
-        "specializationLabelEn": "Environment - Ecology"
-      },
-      {
-        "specializationId": "70",
-        "specializationParentId": "196",
-        "specializationLabel": "Génie Civil – Travaux publics",
-        "specializationLabelEn": "Civil Engineering - Public Works"
-      },
-      {
-        "specializationId": "71",
-        "specializationParentId": "59",
-        "specializationLabel": "Génie Electrique",
-        "specializationLabelEn": "Electrical Engineering"
-      },
-      {
-        "specializationId": "72",
-        "specializationParentId": "255",
-        "specializationLabel": "Hydraulique - Thermique",
-        "specializationLabelEn": "Hydraulics - Thermal Industry"
-      },
-      {
-        "specializationId": "73",
-        "specializationParentId": "59",
-        "specializationLabel": "Instrumentation - Automatisme - Robotique",
-        "specializationLabelEn": "Instrumentation - Automatism - Robotics"
-      },
-      {
-        "specializationId": "76",
-        "specializationParentId": "59",
-        "specializationLabel": "Métallurgie",
-        "specializationLabelEn": "Metallurgy"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "114",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie des matériaux",
-        "specializationLabelEn": "Materials sector"
-      },
-      {
-        "specializationId": "134",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie de l'eau",
-        "specializationLabelEn": "Water Engineering"
-      },
-      {
-        "specializationId": "138",
-        "specializationParentId": "212",
-        "specializationLabel": "Intelligence artificielle",
-        "specializationLabelEn": "Artificial Intelligence"
-      },
-      {
-        "specializationId": "149",
-        "specializationParentId": "58",
-        "specializationLabel": "Génie Industriel",
-        "specializationLabelEn": "Industrial Engineering"
-      },
-      {
-        "specializationId": "150",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de la production",
-        "specializationLabelEn": "Production Management"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "159",
-        "specializationParentId": "59",
-        "specializationLabel": "Soudage",
-        "specializationLabelEn": "Welding"
-      },
-      {
-        "specializationId": "160",
-        "specializationParentId": "59",
-        "specializationLabel": "Fonderie",
-        "specializationLabelEn": "Foundry"
-      },
-      {
-        "specializationId": "168",
-        "specializationParentId": "255",
-        "specializationLabel": "Nucléaire",
-        "specializationLabelEn": "Nuclear Industry"
-      },
-      {
-        "specializationId": "169",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie des procédés",
-        "specializationLabelEn": "Process Engineering"
-      },
-      {
-        "specializationId": "197",
-        "specializationParentId": "89",
-        "specializationLabel": "Conducteur",
-        "specializationLabelEn": "Driver"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "207",
-        "specializationParentId": "58",
-        "specializationLabel": "Méthodes - Process",
-        "specializationLabelEn": "Methods"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "209",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité systèmes",
-        "specializationLabelEn": "Quality systems"
-      },
-      {
-        "specializationId": "224",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécatronique",
-        "specializationLabelEn": "Mecatronics"
-      },
-      {
-        "specializationId": "225",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécanique des fluides",
-        "specializationLabelEn": "Mechanics of fluids"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "251",
-        "specializationParentId": "24",
-        "specializationLabel": "Ingénierie système",
-        "specializationLabelEn": "Systems engineering"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      },
-      {
-        "specializationId": "331",
-        "specializationParentId": "212",
-        "specializationLabel": "Réseaux et Sécurité Informatique",
-        "specializationLabelEn": "Réseaux et Sécurité Informatique"
-      },
-      {
-        "specializationId": "358",
-        "specializationParentId": "24",
-        "specializationLabel": "ERP management",
-        "specializationLabelEn": "ERP management"
-      },
-      {
-        "specializationId": "361",
-        "specializationParentId": "24",
-        "specializationLabel": "Systèmes embarqués",
-        "specializationLabelEn": "Systèmes embarqués"
-      }
-    ],
-    "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. \n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions : \nSupply chain & distribution \nRéalisation d'audit\nRéalisation de plans d'actions\n\nVos responsabilités métier \n\nDans l’exercice de vos fonctions, vous serez amené à : \nOptimiser les flux de production\nIdentifier et suivre les actions d’amélioration avec les équipes internes \nSuivre et pérenniser les plans d’actions via des audits\nPiloter la planification de la production en fonction de la demande client et des capacités industrielles\nOptimiser les flux de matières, d’informations et de produits finis\nGérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités\nAccompagner les équipes dans la mise en place des bonnes pratiques\nCoordonner les projets d’amélioration de la maturité Supply Chain\nAnalyser les indicateurs de performance (KPI) et proposer des actions correctives\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
-    "creationDate": "2026-08-21T14:42:01Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-08-24T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-09-23T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Votre profil et votre personnalité\n\nDe formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie en industrie.\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.",
-    "countryId": "BE",
-    "countryName": "BELGIQUE",
-    "countryNameEn": "BELGIUM",
-    "reference": "VIE245348",
-    "contactFirstName": "Jehanne",
-    "contactLastName": "Ravel",
-    "contactCivility": "Madame",
-    "contactName": "Madame Jehanne RAVEL",
-    "indemnite": 2978.53,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "jehanne.ravel@fortil.group",
-    "cityAffectation": "LIEGE",
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "",

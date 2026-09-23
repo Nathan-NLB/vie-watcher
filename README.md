@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/09/2026 13:37:59**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 16:30:52**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -224,6 +224,108 @@ suffering on quality and accuracy.
 • Possesses a collaborative mindset and is a team player, contributing to team results as needed. 
 • Problem solving skills – can identify, seek root cause for and explain financial issues and variances 
 and their impact on the business’ financial reporting/outcomes.
+
+</details>
+
+<details>
+<summary><strong>Comptable international Multi-pays (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
+
+- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 692,70 €/mois
+- **Durée de la mission :** 12 mois
+- **Publiée le :** 23/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245978](https://mon-vie-via.businessfrance.fr/offres/245978)
+
+**Description du poste**
+
+Dans le cadre de notre développement et la structuration de notre activité à l’international, nous souhaitons recruter un VIE Comptable International au sein d’un share service center pour le groupe basé à Barcelone et en charge de la tenue comptable de plusieurs filiales dans le cadre du passage à un nouvel outil comptable.
+
+Mission à pourvoir asap.
+Localisation : Barcelone
+
+Vos missions : Réviser la saisie comptable pour plusieurs filiales du groupe dans le cadre de l’implémentation d’un nouveau logiciel et de la réinternalisation de la fonction comptable au sein d’un service partagé basé à Barcelone.
+
+Les missions principales dans ce cadre seront :
+- Révision de la saisie des écritures comptables pour les sociétés du groupe assignées, en respect des normes comptables applicables dans chaque pays.
+- Vérification des notes de frais,
+- Révision des rapprochements bancaires,
+- Préparation des fichiers de paiements fournisseur,
+- Révisions des comptes clients et fournisseurs, du lettrage et des autres comptes de bilan,
+- Clôtures comptables mensuelles : révision des comptes de bilan et compte de résultat et préparation des écritures de clôtures mensuelles (FNP, CCA, WIP ..)
+- Préparation des données nécessaires aux déclarations fiscales afin de les transmettre pour validation.
+- Préparation des fichiers de liasses sociales pour la consolidation groupe.
+
+Liste non exhaustive, les missions peuvent évoluer au cours de la période.
+
+
+Les Avantages
+- Entreprise dynamique, petite structure très horizontale malgré plus de 600 employés pour la filiale espagnole. Et une dynamique de croissance et de coopération avec le groupe et les autres filiales.
+- Ambiance de travail très agréable où il est facile de s’intégrer et de rapidement apporter (entreprise élue « great place to work »).
+
+- Groupe français et présent à l’international sur 3 continents avec de nombreuses nationalités représentées.
+- Interactions multiples avec au moins 2 filiales différentes.
+
+**Profil recherché**
+
+- Formation : Business school, Master, DSCG.
+- Français courant (impératif écrit/oral), espagnol et anglais niveau professionel (B2).
+- Maîtrise des outils Excel, expérience avec l’utilisation d’un ERP.
+- Expérience en comptabilité requise.
+- Prise d’initiative, curiosité, travail en équipe, esprit critique.
+
+</details>
+
+<details>
+<summary><strong>INGÉNIEUR SUPPLY CHAIN (H/F)</strong> · FORTIL GROUP · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** FORTIL GROUP
+- **Lieu :** LIEGE, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois
+- **Publiée le :** 23/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245348](https://mon-vie-via.businessfrance.fr/offres/245348)
+
+**Description du poste**
+
+Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels 
+ 
+fortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires
+
+
+Votre environnement technique 
+
+Nos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.
+Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. 
+
+Nos interventions s’articulent autour de problématiques techniques liées aux dimensions : 
+Supply chain & distribution 
+Réalisation d'audit
+Réalisation de plans d'actions
+
+Vos responsabilités métier 
+
+Dans l’exercice de vos fonctions, vous serez amené à : 
+Optimiser les flux de production
+Identifier et suivre les actions d’amélioration avec les équipes internes 
+Suivre et pérenniser les plans d’actions via des audits
+Piloter la planification de la production en fonction de la demande client et des capacités industrielles
+Optimiser les flux de matières, d’informations et de produits finis
+Gérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités
+Accompagner les équipes dans la mise en place des bonnes pratiques
+Coordonner les projets d’amélioration de la maturité Supply Chain
+Analyser les indicateurs de performance (KPI) et proposer des actions correctives
+
+Vous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.
+
+**Profil recherché**
+
+Votre profil et votre personnalité
+
+De formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie en industrie.
+Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
+
+Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.
 
 </details>
 
@@ -4655,59 +4757,6 @@ Language Requirements:
 
 -English: Mastery / Full Professional Fluency (mandatory operational language).
 -French: Professional Working Proficiency / Practice.
-
-</details>
-
-<details>
-<summary><strong>INGÉNIEUR SUPPLY CHAIN (H/F)</strong> · FORTIL GROUP · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** FORTIL GROUP
-- **Lieu :** LIEGE, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois
-- **Publiée le :** 24/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245348](https://mon-vie-via.businessfrance.fr/offres/245348)
-
-**Description du poste**
-
-Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels 
- 
-fortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires
-
-
-Votre environnement technique 
-
-Nos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.
-Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. 
-
-Nos interventions s’articulent autour de problématiques techniques liées aux dimensions : 
-Supply chain & distribution 
-Réalisation d'audit
-Réalisation de plans d'actions
-
-Vos responsabilités métier 
-
-Dans l’exercice de vos fonctions, vous serez amené à : 
-Optimiser les flux de production
-Identifier et suivre les actions d’amélioration avec les équipes internes 
-Suivre et pérenniser les plans d’actions via des audits
-Piloter la planification de la production en fonction de la demande client et des capacités industrielles
-Optimiser les flux de matières, d’informations et de produits finis
-Gérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités
-Accompagner les équipes dans la mise en place des bonnes pratiques
-Coordonner les projets d’amélioration de la maturité Supply Chain
-Analyser les indicateurs de performance (KPI) et proposer des actions correctives
-
-Vous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.
-
-**Profil recherché**
-
-Votre profil et votre personnalité
-
-De formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie en industrie.
-Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
-
-Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.
 
 </details>
 
