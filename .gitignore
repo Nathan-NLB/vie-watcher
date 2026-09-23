@@ -1,0 +1,4 @@
+# Outils locaux (Claude Code / skills), pas du contenu du projet.
+.agents/
+.claude/
+skills-lock.json
