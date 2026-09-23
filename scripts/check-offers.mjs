@@ -76,14 +76,14 @@ async function notifyNewOffer(offer) {
   if (!NTFY_TOPIC) return;
 
   const lieu = [offer.cityName, offer.countryName].filter(Boolean).join(", ") || "Lieu non précisé";
-  const message = `${offer.organizationName || "Entreprise non précisée"} — ${lieu}\nIndemnité : ${formatIndemnite(offer)}`;
+  const message = `${offer.organizationName || "Entreprise non précisée"}, ${lieu}\nIndemnité : ${formatIndemnite(offer)}`;
 
   const res = await fetch("https://ntfy.sh", {
     method: "POST",
     headers: { "Content-Type": "application/json; charset=utf-8" },
     body: JSON.stringify({
       topic: NTFY_TOPIC,
-      title: `Nouvelle offre VIE — ${offer.missionTitle || "Finance/Compta/Gestion/Banque"}`,
+      title: `Nouvelle offre VIE : ${offer.missionTitle || "Finance/Compta/Gestion/Banque"}`,
       message,
       click: offerLink(offer),
       priority: 4,
@@ -104,7 +104,7 @@ function formatOfferMarkdown(offer) {
   const profil = (offer.missionProfile || "").trim() || "Non communiqué.";
 
   return `<details>
-<summary><strong>${offer.missionTitle || "Offre VIE"}</strong> — ${offer.organizationName || "?"} — ${lieu} — ${formatIndemnite(offer)}</summary>
+<summary><strong>${offer.missionTitle || "Offre VIE"}</strong> · ${offer.organizationName || "?"} · ${lieu} · ${formatIndemnite(offer)}</summary>
 
 - **Entreprise :** ${offer.organizationName || "Non précisée"}
 - **Lieu :** ${lieu}
@@ -131,7 +131,7 @@ function buildReadme(offers) {
   );
   const now = new Date().toLocaleString("fr-FR", { timeZone: "Europe/Paris" });
 
-  const header = `# Veille des offres VIE — Finance / Comptabilité / Gestion / Banque
+  const header = `# Veille des offres VIE : Finance / Comptabilité / Gestion / Banque
 
 Ce dépôt surveille automatiquement les offres de VIE publiées sur
 [mon-vie-via.businessfrance.fr](https://mon-vie-via.businessfrance.fr) dans la
@@ -139,7 +139,7 @@ catégorie **Finance Comptabilité Gestion Banque**, toutes les 20 minutes
 environ. Une notification est envoyée sur ton téléphone (via ntfy.sh) à
 chaque nouvelle offre détectée.
 
-Dernière vérification : **${now}** — ${offers.length} offre(s) actuellement en ligne.
+Dernière vérification : **${now}**, ${offers.length} offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 

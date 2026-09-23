@@ -1,4 +1,4 @@
-# Veille des offres VIE — Finance / Comptabilité / Gestion / Banque
+# Veille des offres VIE : Finance / Comptabilité / Gestion / Banque
 
 Ce dépôt surveille automatiquement les offres de VIE publiées sur
 [mon-vie-via.businessfrance.fr](https://mon-vie-via.businessfrance.fr) dans la
@@ -6,14 +6,14 @@ catégorie **Finance Comptabilité Gestion Banque**, toutes les 20 minutes
 environ. Une notification est envoyée sur ton téléphone (via ntfy.sh) à
 chaque nouvelle offre détectée.
 
-Dernière vérification : **23/09/2026 04:32:32** — 81 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 04:43:54**, 81 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
 
 <details>
-<summary><strong>Risk Officer (H/F)</strong> — CACEIS — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>Risk Officer (H/F)</strong> · CACEIS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** CACEIS
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -48,7 +48,7 @@ o   Compétences comportementales : Rigueur, organisation, curiosité, sens du t
 </details>
 
 <details>
-<summary><strong>Risk Expertise VIE (H/F)</strong> — AMUNDI ASSET MANAGEMENT — DUBLIN, IRLANDE — 3 514,63 €/mois</summary>
+<summary><strong>Risk Expertise VIE (H/F)</strong> · AMUNDI ASSET MANAGEMENT · DUBLIN, IRLANDE · 3 514,63 €/mois</summary>
 
 - **Entreprise :** AMUNDI ASSET MANAGEMENT
 - **Lieu :** DUBLIN, IRLANDE
@@ -82,7 +82,7 @@ The successful VIE candidate will support the team in the analysis and implement
 </details>
 
 <details>
-<summary><strong>Global Oncology Market Access Junior Project Specialist (H/F)</strong> — SANOFI WINTHROP INDUSTRIE — CAMBRIDGE       -MA-, ETATS-UNIS — 4 059,86 €/mois</summary>
+<summary><strong>Global Oncology Market Access Junior Project Specialist (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · CAMBRIDGE       -MA-, ETATS-UNIS · 4 059,86 €/mois</summary>
 
 - **Entreprise :** SANOFI WINTHROP INDUSTRIE
 - **Lieu :** CAMBRIDGE       -MA-, ETATS-UNIS
@@ -172,7 +172,7 @@ To facilitate the examination of your application by our English-speaking manage
 </details>
 
 <details>
-<summary><strong>Controleur de Gestion (H/F)</strong> — COLAS RAIL — SANTIAGO, CHILI — 2 465,52 €/mois</summary>
+<summary><strong>Controleur de Gestion (H/F)</strong> · COLAS RAIL · SANTIAGO, CHILI · 2 465,52 €/mois</summary>
 
 - **Entreprise :** COLAS RAIL
 - **Lieu :** SANTIAGO, CHILI
@@ -208,7 +208,7 @@ Dans le cadre du processus d'integration du candidat, la prise de poste commence
 </details>
 
 <details>
-<summary><strong>V.I.E. Settlement Officer (H/F)</strong> — ENGIE GLOBAL MARKETS — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>V.I.E. Settlement Officer (H/F)</strong> · ENGIE GLOBAL MARKETS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** ENGIE GLOBAL MARKETS
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -294,7 +294,7 @@ The ideal candidate has a master’s degree in Finance.
 </details>
 
 <details>
-<summary><strong>FINANCIAL PERFORMANCE ANALYST (H/F)</strong> — LEGRAND FRANCE — AUCKLAND, NOUVELLE-ZELANDE — 2 633,50 €/mois</summary>
+<summary><strong>FINANCIAL PERFORMANCE ANALYST (H/F)</strong> · LEGRAND FRANCE · AUCKLAND, NOUVELLE-ZELANDE · 2 633,50 €/mois</summary>
 
 - **Entreprise :** LEGRAND FRANCE
 - **Lieu :** AUCKLAND, NOUVELLE-ZELANDE
@@ -324,7 +324,7 @@ You have ERP proficiency and fluency in BPC.
 </details>
 
 <details>
-<summary><strong>FINANCIAL PERFORMANCE ANALYST (H/F)</strong> — LEGRAND FRANCE — SYDNEY, AUSTRALIE — 3 623,81 €/mois</summary>
+<summary><strong>FINANCIAL PERFORMANCE ANALYST (H/F)</strong> · LEGRAND FRANCE · SYDNEY, AUSTRALIE · 3 623,81 €/mois</summary>
 
 - **Entreprise :** LEGRAND FRANCE
 - **Lieu :** SYDNEY, AUSTRALIE
@@ -354,7 +354,7 @@ You have ERP proficiency and fluency in BPC.
 </details>
 
 <details>
-<summary><strong>VIE Credit Risk Controller (H/F)</strong> — ODDO BHF SCA — FRANCFORT, ALLEMAGNE — 3 030,57 €/mois</summary>
+<summary><strong>VIE Credit Risk Controller (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 030,57 €/mois</summary>
 
 - **Entreprise :** ODDO BHF SCA
 - **Lieu :** FRANCFORT, ALLEMAGNE
@@ -383,7 +383,7 @@ You have ERP proficiency and fluency in BPC.
 </details>
 
 <details>
-<summary><strong>DATA ANALYST - DATA SCIENTIST - DATA ENGINEER H/F (H/F)</strong> — CLEEVEN ND — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>DATA ANALYST - DATA SCIENTIST - DATA ENGINEER H/F (H/F)</strong> · CLEEVEN ND · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** CLEEVEN ND
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -445,7 +445,7 @@ A first experience in the financial sector is a +
 </details>
 
 <details>
-<summary><strong>BUSINESS CONTROLLER (H/F)</strong> — MORGAN PHILIPS — MEXICO, MEXIQUE — 3 200,91 €/mois</summary>
+<summary><strong>BUSINESS CONTROLLER (H/F)</strong> · MORGAN PHILIPS · MEXICO, MEXIQUE · 3 200,91 €/mois</summary>
 
 - **Entreprise :** MORGAN PHILIPS
 - **Lieu :** MEXICO, MEXIQUE
@@ -480,7 +480,7 @@ A first experience in the financial sector is a +
 </details>
 
 <details>
-<summary><strong>REAL ESTATE INVESTMENT ANALYST (H/F)</strong> — ERE — VARSOVIE, POLOGNE — 2 725,23 €/mois</summary>
+<summary><strong>REAL ESTATE INVESTMENT ANALYST (H/F)</strong> · ERE · VARSOVIE, POLOGNE · 2 725,23 €/mois</summary>
 
 - **Entreprise :** ERE
 - **Lieu :** VARSOVIE, POLOGNE
@@ -524,7 +524,7 @@ Diplôme : MASTER 1, MASTER 2, MBA
 </details>
 
 <details>
-<summary><strong>KYC ANALYST M/F (H/F)</strong> — CLEEVEN ND — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>KYC ANALYST M/F (H/F)</strong> · CLEEVEN ND · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** CLEEVEN ND
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -598,7 +598,7 @@ A first experience in compliance, internal audit, or financial crime prevention 
 </details>
 
 <details>
-<summary><strong>Consultant(e) Métier Bancaire (H/F)</strong> — BK CONSULTING FRANCE — LUXEMBOURG, LUXEMBOURG — 3 152,69 €/mois</summary>
+<summary><strong>Consultant(e) Métier Bancaire (H/F)</strong> · BK CONSULTING FRANCE · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
 
 - **Entreprise :** BK CONSULTING FRANCE
 - **Lieu :** LUXEMBOURG, LUXEMBOURG
@@ -626,7 +626,7 @@ Nous recherchons un/une candidat(e) pugnace et constant(e) dans son travail. Cet
 </details>
 
 <details>
-<summary><strong>ASSISTANT GENERALISTE DU PRESIDENT DU CONSEIL D’ADMINISTRATION (H/F)</strong> — COMPAGNIE MONDIALE DE TRANSPORT — ATHENES, GRECE — 2 276,83 €/mois</summary>
+<summary><strong>ASSISTANT GENERALISTE DU PRESIDENT DU CONSEIL D’ADMINISTRATION (H/F)</strong> · COMPAGNIE MONDIALE DE TRANSPORT · ATHENES, GRECE · 2 276,83 €/mois</summary>
 
 - **Entreprise :** COMPAGNIE MONDIALE DE TRANSPORT
 - **Lieu :** ATHENES, GRECE
@@ -684,7 +684,7 @@ Le(la) candidat(e) travaillera en Le(la) candidat(e) travaillera en direct avec 
 </details>
 
 <details>
-<summary><strong>Financial Controller (H/F)</strong> — MOON SURGICAL — SAN FRANCISCO -CA-, ETATS-UNIS — 5 087,01 €/mois</summary>
+<summary><strong>Financial Controller (H/F)</strong> · MOON SURGICAL · SAN FRANCISCO -CA-, ETATS-UNIS · 5 087,01 €/mois</summary>
 
 - **Entreprise :** MOON SURGICAL
 - **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
@@ -734,7 +734,7 @@ Maintain and strengthen internal control and compliance.
 </details>
 
 <details>
-<summary><strong>VIE Analyst M&A | Latin America (Portuguese speaking) (H/F)</strong> — EURO LATINA FINANCE — SAO PAULO, BRESIL — 2 689,62 €/mois</summary>
+<summary><strong>VIE Analyst M&A | Latin America (Portuguese speaking) (H/F)</strong> · EURO LATINA FINANCE · SAO PAULO, BRESIL · 2 689,62 €/mois</summary>
 
 - **Entreprise :** EURO LATINA FINANCE
 - **Lieu :** SAO PAULO, BRESIL
@@ -814,7 +814,7 @@ Personal Attributes
 </details>
 
 <details>
-<summary><strong>Consultant SAP Finance (H/F)</strong> — CONSEILS PLUS — MILAN, ITALIE — 2 998,98 €/mois</summary>
+<summary><strong>Consultant SAP Finance (H/F)</strong> · CONSEILS PLUS · MILAN, ITALIE · 2 998,98 €/mois</summary>
 
 - **Entreprise :** CONSEILS PLUS
 - **Lieu :** MILAN, ITALIE
@@ -855,7 +855,7 @@ Enfin, si innovation, service client et gestion de projet résonnent en vous, vo
 </details>
 
 <details>
-<summary><strong>VIE Junior Financial Controller (H/F)</strong> — CA CONSUMER FINANCE — STUTTGART, ALLEMAGNE — 3 030,57 €/mois</summary>
+<summary><strong>VIE Junior Financial Controller (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 030,57 €/mois</summary>
 
 - **Entreprise :** CA CONSUMER FINANCE
 - **Lieu :** STUTTGART, ALLEMAGNE
@@ -931,7 +931,7 @@ Plus:
 </details>
 
 <details>
-<summary><strong>Analyste Projets & Développement d'Infrastructures SAG (H/F)</strong> — MERIDIAM — LIBREVILLE, GABON — 2 769,07 €/mois</summary>
+<summary><strong>Analyste Projets & Développement d'Infrastructures SAG (H/F)</strong> · MERIDIAM · LIBREVILLE, GABON · 2 769,07 €/mois</summary>
 
 - **Entreprise :** MERIDIAM
 - **Lieu :** LIBREVILLE, GABON
@@ -1000,7 +1000,7 @@ Début de contrat souhaitée : 1er Février 2027
 </details>
 
 <details>
-<summary><strong>Contrôleur de Gestion Junior (H/F/X) (H/F)</strong> — CAISSE D'EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>Contrôleur de Gestion Junior (H/F/X) (H/F)</strong> · CAISSE D'EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** CAISSE D'EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -1069,7 +1069,7 @@ o	Proactivité et autonomie.
 </details>
 
 <details>
-<summary><strong>Division Controller (H/F)</strong> — MINEBEA ACCESSSOLUTIONS FRANCE — KOSICE, SLOVAQUIE — 2 363,04 €/mois</summary>
+<summary><strong>Division Controller (H/F)</strong> · MINEBEA ACCESSSOLUTIONS FRANCE · KOSICE, SLOVAQUIE · 2 363,04 €/mois</summary>
 
 - **Entreprise :** MINEBEA ACCESSSOLUTIONS FRANCE
 - **Lieu :** KOSICE, SLOVAQUIE
@@ -1091,7 +1091,7 @@ Technical Skills: Experience in SAP  and Microsoft Office (Excel, PowerPoint, Wo
 </details>
 
 <details>
-<summary><strong>Operations officer, Custody Services (H/F)</strong> — CACEIS — SELANGOR, MALAISIE — 2 082,26 €/mois</summary>
+<summary><strong>Operations officer, Custody Services (H/F)</strong> · CACEIS · SELANGOR, MALAISIE · 2 082,26 €/mois</summary>
 
 - **Entreprise :** CACEIS
 - **Lieu :** SELANGOR, MALAISIE
@@ -1158,7 +1158,7 @@ Please send your resume in English
 </details>
 
 <details>
-<summary><strong>Business Performance Analyst (H/F)</strong> — CRITEO TECHNOLOGY — BARCELONE, ESPAGNE — 2 692,70 €/mois</summary>
+<summary><strong>Business Performance Analyst (H/F)</strong> · CRITEO TECHNOLOGY · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
 
 - **Entreprise :** CRITEO TECHNOLOGY
 - **Lieu :** BARCELONE, ESPAGNE
@@ -1203,7 +1203,7 @@ A proactive and autonomous mindset, with the ability to manage multiple projects
 </details>
 
 <details>
-<summary><strong>Contrôleur(se) de Gestion (H/F)</strong> — PAPREC FRANCE — MILAN, ITALIE — 2 998,98 €/mois</summary>
+<summary><strong>Contrôleur(se) de Gestion (H/F)</strong> · PAPREC FRANCE · MILAN, ITALIE · 2 998,98 €/mois</summary>
 
 - **Entreprise :** PAPREC FRANCE
 - **Lieu :** MILAN, ITALIE
@@ -1244,7 +1244,7 @@ Italien courant impératif (échanges quotidiens avec les équipes locales), fra
 </details>
 
 <details>
-<summary><strong>ADJOINT A LA DIRECTION DES OPERATIONS (H/F)</strong> — GBH — SAINT DOMINGUE, REPUBLIQUE DOMINICAINE — 2 209,00 €/mois</summary>
+<summary><strong>ADJOINT A LA DIRECTION DES OPERATIONS (H/F)</strong> · GBH · SAINT DOMINGUE, REPUBLIQUE DOMINICAINE · 2 209,00 €/mois</summary>
 
 - **Entreprise :** GBH
 - **Lieu :** SAINT DOMINGUE, REPUBLIQUE DOMINICAINE
@@ -1297,7 +1297,7 @@ Pourquoi nous rejoindre ?
 </details>
 
 <details>
-<summary><strong>ANALYSTE FONCTIONNEL SI CONTROLLING (H/F)</strong> — VINCI CONSTRUCTION SI — BOTTROP, ALLEMAGNE — 3 030,57 €/mois</summary>
+<summary><strong>ANALYSTE FONCTIONNEL SI CONTROLLING (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 030,57 €/mois</summary>
 
 - **Entreprise :** VINCI CONSTRUCTION SI
 - **Lieu :** BOTTROP, ALLEMAGNE
@@ -1360,7 +1360,7 @@ QUALITÉS HUMAINES ET COMPÉTENCES :
 </details>
 
 <details>
-<summary><strong>Attaché économique au SE de Dhaka (Dacca) (H/F)</strong> — DIRECTION GENERALE DU TRESOR — DHAKA, BANGLADESH — 3 072,77 €/mois</summary>
+<summary><strong>Attaché économique au SE de Dhaka (Dacca) (H/F)</strong> · DIRECTION GENERALE DU TRESOR · DHAKA, BANGLADESH · 3 072,77 €/mois</summary>
 
 - **Entreprise :** DIRECTION GENERALE DU TRESOR
 - **Lieu :** DHAKA, BANGLADESH
@@ -1422,7 +1422,7 @@ MERCI D'ENVOYER VOTRE CV ET LM EN FRANCAIS UNIQUEMENT
 </details>
 
 <details>
-<summary><strong>Customer Operations & Supply Chain Specialist (H/F)</strong> — PRODUCT DEVELOPMENT EMPLOYENEURSHIP — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>Customer Operations & Supply Chain Specialist (H/F)</strong> · PRODUCT DEVELOPMENT EMPLOYENEURSHIP · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** PRODUCT DEVELOPMENT EMPLOYENEURSHIP
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -1452,7 +1452,7 @@ Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG e
 </details>
 
 <details>
-<summary><strong>Comptable international Multi-pays (H/F)</strong> — SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE — BARCELONE, ESPAGNE — 2 692,70 €/mois</summary>
+<summary><strong>Comptable international Multi-pays (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
 
 - **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
 - **Lieu :** BARCELONE, ESPAGNE
@@ -1501,7 +1501,7 @@ Les Avantages
 </details>
 
 <details>
-<summary><strong>VIE Junior Structured Credits & Real Estate Analyst (H/F)</strong> — CA INDOSUEZ — MILAN, ITALIE — 2 998,98 €/mois</summary>
+<summary><strong>VIE Junior Structured Credits & Real Estate Analyst (H/F)</strong> · CA INDOSUEZ · MILAN, ITALIE · 2 998,98 €/mois</summary>
 
 - **Entreprise :** CA INDOSUEZ
 - **Lieu :** MILAN, ITALIE
@@ -1538,7 +1538,7 @@ Knowledge of the Real Estate Finance business would be considered a plus
 </details>
 
 <details>
-<summary><strong>Responsable de la relation client (Responsable de la relation client) (H/F)</strong> — LEXIFI — NEW YORK  -NY-, ETATS-UNIS — 5 025,51 €/mois</summary>
+<summary><strong>Responsable de la relation client (Responsable de la relation client) (H/F)</strong> · LEXIFI · NEW YORK  -NY-, ETATS-UNIS · 5 025,51 €/mois</summary>
 
 - **Entreprise :** LEXIFI
 - **Lieu :** NEW YORK  -NY-, ETATS-UNIS
@@ -1648,7 +1648,7 @@ Une expertise technique approfondie n’est pas requise au démarrage, mais le/l
 </details>
 
 <details>
-<summary><strong>Finance controller (H/F)</strong> — ALSTOM TRANSPORT SA — COPENHAGUE, DANEMARK — 3 681,85 €/mois</summary>
+<summary><strong>Finance controller (H/F)</strong> · ALSTOM TRANSPORT SA · COPENHAGUE, DANEMARK · 3 681,85 €/mois</summary>
 
 - **Entreprise :** ALSTOM TRANSPORT SA
 - **Lieu :** COPENHAGUE, DANEMARK
@@ -1725,7 +1725,7 @@ As a global business, we’re an equal-opportunity employer that celebrates dive
 </details>
 
 <details>
-<summary><strong>Junior Financial Analyst (H/F)</strong> — PLANISWARE — SAN FRANCISCO -CA-, ETATS-UNIS — 5 087,01 €/mois</summary>
+<summary><strong>Junior Financial Analyst (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 087,01 €/mois</summary>
 
 - **Entreprise :** PLANISWARE
 - **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
@@ -1784,7 +1784,7 @@ Before applying, be sure to check the eligibility requirements for this destinat
 </details>
 
 <details>
-<summary><strong>Business Operations Analyst – San Francisco, CA (H/F)</strong> — PLANISWARE — SAN FRANCISCO -CA-, ETATS-UNIS — 5 087,01 €/mois</summary>
+<summary><strong>Business Operations Analyst – San Francisco, CA (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 087,01 €/mois</summary>
 
 - **Entreprise :** PLANISWARE
 - **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
@@ -1844,7 +1844,7 @@ Before applying, be sure to check the eligibility requirements for this destinat
 </details>
 
 <details>
-<summary><strong>Contrôleur de Gestion (H/F)</strong> — GROUPE IDEC INTERNATIONAL — PORTO, PORTUGAL — 2 677,43 €/mois</summary>
+<summary><strong>Contrôleur de Gestion (H/F)</strong> · GROUPE IDEC INTERNATIONAL · PORTO, PORTUGAL · 2 677,43 €/mois</summary>
 
 - **Entreprise :** GROUPE IDEC INTERNATIONAL
 - **Lieu :** PORTO, PORTUGAL
@@ -1934,7 +1934,7 @@ QUALITÉS ATTENDUES
 </details>
 
 <details>
-<summary><strong>Accountant and Advisory Senior (H/F)</strong> — ORBISS — BOSTON          -MA-, ETATS-UNIS — 4 059,86 €/mois</summary>
+<summary><strong>Accountant and Advisory Senior (H/F)</strong> · ORBISS · BOSTON          -MA-, ETATS-UNIS · 4 059,86 €/mois</summary>
 
 - **Entreprise :** ORBISS
 - **Lieu :** BOSTON          -MA-, ETATS-UNIS
@@ -2014,7 +2014,7 @@ Visit orbiss.com to learn more about Orbiss.
 </details>
 
 <details>
-<summary><strong>Commercial Controller (KONI Group) (H/F)</strong> — KONI FRANCE FAB AMORTISSEURS — ROTTERDAM, PAYS-BAS — 3 395,60 €/mois</summary>
+<summary><strong>Commercial Controller (KONI Group) (H/F)</strong> · KONI FRANCE FAB AMORTISSEURS · ROTTERDAM, PAYS-BAS · 3 395,60 €/mois</summary>
 
 - **Entreprise :** KONI FRANCE FAB AMORTISSEURS
 - **Lieu :** ROTTERDAM, PAYS-BAS
@@ -2119,7 +2119,7 @@ Stakeholder satisfaction (CFO, Finance, Sales)
 </details>
 
 <details>
-<summary><strong>Transversal Corporate Risk (H/F)</strong> — STELLANTIS BANK — POTSDAM, ALLEMAGNE — 3 030,57 €/mois</summary>
+<summary><strong>Transversal Corporate Risk (H/F)</strong> · STELLANTIS BANK · POTSDAM, ALLEMAGNE · 3 030,57 €/mois</summary>
 
 - **Entreprise :** STELLANTIS BANK
 - **Lieu :** POTSDAM, ALLEMAGNE
@@ -2162,7 +2162,7 @@ Knowledge of banking, lending, credit risk, or financial services is beneficial 
 </details>
 
 <details>
-<summary><strong>VIE - Business Analyste et Economiste (H/F) - Congo</strong> — TOTALENERGIES SE — POINTE NOIRE, CONGO — 3 045,94 €/mois</summary>
+<summary><strong>VIE - Business Analyste et Economiste (H/F) - Congo</strong> · TOTALENERGIES SE · POINTE NOIRE, CONGO · 3 045,94 €/mois</summary>
 
 - **Entreprise :** TOTALENERGIES SE
 - **Lieu :** POINTE NOIRE, CONGO
@@ -2219,7 +2219,7 @@ Atouts
 </details>
 
 <details>
-<summary><strong>ASSET MANAGEMENT ANALYST -  (H/F)</strong> — KLEPIERRE MANAGEMENT — COPENHAGUE, DANEMARK — 3 681,85 €/mois</summary>
+<summary><strong>ASSET MANAGEMENT ANALYST -  (H/F)</strong> · KLEPIERRE MANAGEMENT · COPENHAGUE, DANEMARK · 3 681,85 €/mois</summary>
 
 - **Entreprise :** KLEPIERRE MANAGEMENT
 - **Lieu :** COPENHAGUE, DANEMARK
@@ -2265,7 +2265,7 @@ Support sustainability and operational projects such as solar energy, EV chargin
 </details>
 
 <details>
-<summary><strong>Business analyst Commodity markets (H/F)</strong> — ACE ORGA LAB — GENEVE, SUISSE — 4 172,27 €/mois</summary>
+<summary><strong>Business analyst Commodity markets (H/F)</strong> · ACE ORGA LAB · GENEVE, SUISSE · 4 172,27 €/mois</summary>
 
 - **Entreprise :** ACE ORGA LAB
 - **Lieu :** GENEVE, SUISSE
@@ -2301,7 +2301,7 @@ What do You have?
 </details>
 
 <details>
-<summary><strong>PROJECT MANAGER DANS LE NOIR(H/F)</strong> — DEEP DATING — GENEVE, SUISSE — 4 172,27 €/mois</summary>
+<summary><strong>PROJECT MANAGER DANS LE NOIR(H/F)</strong> · DEEP DATING · GENEVE, SUISSE · 4 172,27 €/mois</summary>
 
 - **Entreprise :** DEEP DATING
 - **Lieu :** GENEVE, SUISSE
@@ -2405,7 +2405,7 @@ Facultatif mais apprécié : un lien vers une vidéo de 2 min max pour vous pré
 </details>
 
 <details>
-<summary><strong>VIE - Junior Finance Controller - Budapest (H/F)</strong> — SCHNEIDER ELECTRIC INDUSTRIES SAS — BUDAPEST, HONGRIE — 2 471,33 €/mois</summary>
+<summary><strong>VIE - Junior Finance Controller - Budapest (H/F)</strong> · SCHNEIDER ELECTRIC INDUSTRIES SAS · BUDAPEST, HONGRIE · 2 471,33 €/mois</summary>
 
 - **Entreprise :** SCHNEIDER ELECTRIC INDUSTRIES SAS
 - **Lieu :** BUDAPEST, HONGRIE
@@ -2482,7 +2482,7 @@ Ability to work effectively under pressure and meet deadlines.
 </details>
 
 <details>
-<summary><strong>ANALYSTE VALORISATION PRIVATE EQUITY (H/F)</strong> — AMETHIS ADVISORY — LUXEMBOURG, LUXEMBOURG — 3 152,69 €/mois</summary>
+<summary><strong>ANALYSTE VALORISATION PRIVATE EQUITY (H/F)</strong> · AMETHIS ADVISORY · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
 
 - **Entreprise :** AMETHIS ADVISORY
 - **Lieu :** LUXEMBOURG, LUXEMBOURG
@@ -2532,7 +2532,7 @@ o	La coordination des audits des fonds d’investissement
 </details>
 
 <details>
-<summary><strong>VIE - Quantitative Analyst (H/F)</strong> — ENGIE GLOBAL MARKETS — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>VIE - Quantitative Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** ENGIE GLOBAL MARKETS
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -2594,7 +2594,7 @@ Languages:
 </details>
 
 <details>
-<summary><strong>FINANCIAL SERVICES ANALYST – ACCOUNTS RECEIVABLES (H/F)</strong> — IVECO FRANCE — ZEDELGEM, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>FINANCIAL SERVICES ANALYST – ACCOUNTS RECEIVABLES (H/F)</strong> · IVECO FRANCE · ZEDELGEM, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** IVECO FRANCE
 - **Lieu :** ZEDELGEM, BELGIQUE
@@ -2643,7 +2643,7 @@ Key requirements:
 </details>
 
 <details>
-<summary><strong>Planning Process Adherence Expert and Project Coordinator (H/F)</strong> — SANOFI WINTHROP INDUSTRIE — BARCELONE, ESPAGNE — 2 692,70 €/mois</summary>
+<summary><strong>Planning Process Adherence Expert and Project Coordinator (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
 
 - **Entreprise :** SANOFI WINTHROP INDUSTRIE
 - **Lieu :** BARCELONE, ESPAGNE
@@ -2727,7 +2727,7 @@ To facilitate the examination of your application by our English-speaking manage
 </details>
 
 <details>
-<summary><strong>Treasury Operations Officer (H/F)</strong> — SANOFI WINTHROP INDUSTRIE — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>Treasury Operations Officer (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** SANOFI WINTHROP INDUSTRIE
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -2814,7 +2814,7 @@ To facilitate the examination of your application by our English-speaking manage
 </details>
 
 <details>
-<summary><strong>Installation financial analyst (H/F)</strong> — NEXANS FRANCE — OSLO, NORVEGE — 3 436,12 €/mois</summary>
+<summary><strong>Installation financial analyst (H/F)</strong> · NEXANS FRANCE · OSLO, NORVEGE · 3 436,12 €/mois</summary>
 
 - **Entreprise :** NEXANS FRANCE
 - **Lieu :** OSLO, NORVEGE
@@ -2852,7 +2852,7 @@ We are looking for someone autonomous, with strong communication and cooperation
 </details>
 
 <details>
-<summary><strong>V.I.E - MARKETING ÉVÉNEMENTIEL CORPORATE ACCESS - H/F (H/F)</strong> — ODDO BHF SCA — FRANCFORT, ALLEMAGNE — 3 030,57 €/mois</summary>
+<summary><strong>V.I.E - MARKETING ÉVÉNEMENTIEL CORPORATE ACCESS - H/F (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 030,57 €/mois</summary>
 
 - **Entreprise :** ODDO BHF SCA
 - **Lieu :** FRANCFORT, ALLEMAGNE
@@ -2886,7 +2886,7 @@ Cette double exposition vous permettra d’appréhender les différents métiers
 </details>
 
 <details>
-<summary><strong>Contrôleur de Gestion Financier (H/F)</strong> — ELIOR GROUP — BANGALORE, INDE — 2 608,14 €/mois</summary>
+<summary><strong>Contrôleur de Gestion Financier (H/F)</strong> · ELIOR GROUP · BANGALORE, INDE · 2 608,14 €/mois</summary>
 
 - **Entreprise :** ELIOR GROUP
 - **Lieu :** BANGALORE, INDE
@@ -2953,7 +2953,7 @@ Goût pour l’analyse et capacité à transformer les données financières en 
 </details>
 
 <details>
-<summary><strong>ANALYSTE M&A (H/F)</strong> — PRAMEX INTERNATIONAL — MADRID, ESPAGNE — 2 692,70 €/mois</summary>
+<summary><strong>ANALYSTE M&A (H/F)</strong> · PRAMEX INTERNATIONAL · MADRID, ESPAGNE · 2 692,70 €/mois</summary>
 
 - **Entreprise :** PRAMEX INTERNATIONAL
 - **Lieu :** MADRID, ESPAGNE
@@ -3004,7 +3004,7 @@ Le(la) candidat(e) devra être motivé(e) par la perspective de rejoindre une so
 </details>
 
 <details>
-<summary><strong>Comptable junior (H/F)</strong> — MEOTEC — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>Comptable junior (H/F)</strong> · MEOTEC · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** MEOTEC
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -3090,7 +3090,7 @@ Vous aimez les environnements où la précision est essentielle et où vous pouv
 </details>
 
 <details>
-<summary><strong>Technicien.ne Comptable (H/F)</strong> — NAOS — MONTREAL -QC, CANADA — 2 632,92 €/mois</summary>
+<summary><strong>Technicien.ne Comptable (H/F)</strong> · NAOS · MONTREAL -QC, CANADA · 2 632,92 €/mois</summary>
 
 - **Entreprise :** NAOS
 - **Lieu :** MONTREAL -QC, CANADA
@@ -3125,7 +3125,7 @@ La maîtrise de l'anglais est indispensable.
 </details>
 
 <details>
-<summary><strong>Client Operations Officer (VIE) (H/F)</strong> — CACEIS — SELANGOR, MALAISIE — 2 082,26 €/mois</summary>
+<summary><strong>Client Operations Officer (VIE) (H/F)</strong> · CACEIS · SELANGOR, MALAISIE · 2 082,26 €/mois</summary>
 
 - **Entreprise :** CACEIS
 - **Lieu :** SELANGOR, MALAISIE
@@ -3187,7 +3187,7 @@ Please send your resume in English.
 </details>
 
 <details>
-<summary><strong>HR Analyst (VIE) (H/F)</strong> — CACEIS — SELANGOR, MALAISIE — 2 082,26 €/mois</summary>
+<summary><strong>HR Analyst (VIE) (H/F)</strong> · CACEIS · SELANGOR, MALAISIE · 2 082,26 €/mois</summary>
 
 - **Entreprise :** CACEIS
 - **Lieu :** SELANGOR, MALAISIE
@@ -3251,7 +3251,7 @@ Please send your resume in English
 </details>
 
 <details>
-<summary><strong>Analyst - Financial Planning and Analysis (H/F)</strong> — SHIFT TECHNOLOGY — BOSTON          -MA-, ETATS-UNIS — 4 059,86 €/mois</summary>
+<summary><strong>Analyst - Financial Planning and Analysis (H/F)</strong> · SHIFT TECHNOLOGY · BOSTON          -MA-, ETATS-UNIS · 4 059,86 €/mois</summary>
 
 - **Entreprise :** SHIFT TECHNOLOGY
 - **Lieu :** BOSTON          -MA-, ETATS-UNIS
@@ -3288,7 +3288,7 @@ At Shift, we value ownership from day one. In this role, you will:
 </details>
 
 <details>
-<summary><strong>Compliance Officer, Responsable achats, Correspondant protection données personnelles (H/F)</strong> — NAVAL GROUP — KUALA LUMPUR, MALAISIE — 2 082,26 €/mois</summary>
+<summary><strong>Compliance Officer, Responsable achats, Correspondant protection données personnelles (H/F)</strong> · NAVAL GROUP · KUALA LUMPUR, MALAISIE · 2 082,26 €/mois</summary>
 
 - **Entreprise :** NAVAL GROUP
 - **Lieu :** KUALA LUMPUR, MALAISIE
@@ -3393,7 +3393,7 @@ Enfin, dès que nous aurons fait notre choix final, vous en serez informé(e) da
 </details>
 
 <details>
-<summary><strong>FP&A Analyst (H/F)</strong> — LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS — ILLERTISSEN, ALLEMAGNE — 3 030,57 €/mois</summary>
+<summary><strong>FP&A Analyst (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · ILLERTISSEN, ALLEMAGNE · 3 030,57 €/mois</summary>
 
 - **Entreprise :** LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS
 - **Lieu :** ILLERTISSEN, ALLEMAGNE
@@ -3449,7 +3449,7 @@ Note:
 </details>
 
 <details>
-<summary><strong>CORPORATE FINANCE HF (H/F)</strong> — ALBIOMA — SAO PAULO, BRESIL — 2 689,62 €/mois</summary>
+<summary><strong>CORPORATE FINANCE HF (H/F)</strong> · ALBIOMA · SAO PAULO, BRESIL · 2 689,62 €/mois</summary>
 
 - **Entreprise :** ALBIOMA
 - **Lieu :** SAO PAULO, BRESIL
@@ -3511,7 +3511,7 @@ Dans un contexte de fort développement de nos activités au Brésil, vos princi
 </details>
 
 <details>
-<summary><strong>Assistant Plant Controller (H/F)</strong> — FAURECIA INTERIORS HOLDING — DEXTER -MO-, ETATS-UNIS — 3 391,06 €/mois</summary>
+<summary><strong>Assistant Plant Controller (H/F)</strong> · FAURECIA INTERIORS HOLDING · DEXTER -MO-, ETATS-UNIS · 3 391,06 €/mois</summary>
 
 - **Entreprise :** FAURECIA INTERIORS HOLDING
 - **Lieu :** DEXTER -MO-, ETATS-UNIS
@@ -3570,7 +3570,7 @@ We are looking for curious, ambitious, and business-minded finance talents who a
 </details>
 
 <details>
-<summary><strong>Comptable Fournisseurs Senior – Environnement International (H/F)</strong> — SIBELCO FRANCE — BILBAO, ESPAGNE — 2 692,70 €/mois</summary>
+<summary><strong>Comptable Fournisseurs Senior – Environnement International (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 692,70 €/mois</summary>
 
 - **Entreprise :** SIBELCO FRANCE
 - **Lieu :** BILBAO, ESPAGNE
@@ -3654,7 +3654,7 @@ Adaptabilité interculturelle
 </details>
 
 <details>
-<summary><strong>Comptable - Marché belge (H/F)</strong> — ISALYS CONSULTING FRANCE — BARCELONE, ESPAGNE — 2 692,70 €/mois</summary>
+<summary><strong>Comptable - Marché belge (H/F)</strong> · ISALYS CONSULTING FRANCE · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
 
 - **Entreprise :** ISALYS CONSULTING FRANCE
 - **Lieu :** BARCELONE, ESPAGNE
@@ -3695,7 +3695,7 @@ Administration & gestion :
 </details>
 
 <details>
-<summary><strong>Sales Business Analyst - Eucerin (H/F)</strong> — BEIERSDORF S.A.S — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>Sales Business Analyst - Eucerin (H/F)</strong> · BEIERSDORF S.A.S · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** BEIERSDORF S.A.S
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -3746,7 +3746,7 @@ Multilingual preferred : English, Dutch, French
 </details>
 
 <details>
-<summary><strong>VIE - Finance Analyst - Budapest (H/F)</strong> — SCHNEIDER ELECTRIC INDUSTRIES SAS — BUDAPEST, HONGRIE — 2 471,33 €/mois</summary>
+<summary><strong>VIE - Finance Analyst - Budapest (H/F)</strong> · SCHNEIDER ELECTRIC INDUSTRIES SAS · BUDAPEST, HONGRIE · 2 471,33 €/mois</summary>
 
 - **Entreprise :** SCHNEIDER ELECTRIC INDUSTRIES SAS
 - **Lieu :** BUDAPEST, HONGRIE
@@ -3807,7 +3807,7 @@ Comfortable working across cultures and time zones.
 </details>
 
 <details>
-<summary><strong>Business Controller & Analyst (H/F)</strong> — ALTEN — BRUXELLES, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>Business Controller & Analyst (H/F)</strong> · ALTEN · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** ALTEN
 - **Lieu :** BRUXELLES, BELGIQUE
@@ -3849,7 +3849,7 @@ Your profile:
 </details>
 
 <details>
-<summary><strong>INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F)</strong> — FORTIL GROUP — LIEGE, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F)</strong> · FORTIL GROUP · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** FORTIL GROUP
 - **Lieu :** LIEGE, BELGIQUE
@@ -3921,7 +3921,7 @@ Ce poste est ouvert aux personnes en situation de handicap, des adaptations de p
 </details>
 
 <details>
-<summary><strong>V.I.E. - 12 mois - Analyste opérations et processus junior - Luxembourg (H/F)</strong> — NATIXIS INVESTMENT MANAGERS — LUXEMBOURG, LUXEMBOURG — 3 152,69 €/mois</summary>
+<summary><strong>V.I.E. - 12 mois - Analyste opérations et processus junior - Luxembourg (H/F)</strong> · NATIXIS INVESTMENT MANAGERS · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
 
 - **Entreprise :** NATIXIS INVESTMENT MANAGERS
 - **Lieu :** LUXEMBOURG, LUXEMBOURG
@@ -3989,7 +3989,7 @@ Ce poste est réservé aux candidats éligibles au programme V.I.E. de Business 
 </details>
 
 <details>
-<summary><strong>Financial Controller (H/F)</strong> — NORAC MISSIONS — IBIUNA, BRESIL — 2 260,64 €/mois</summary>
+<summary><strong>Financial Controller (H/F)</strong> · NORAC MISSIONS · IBIUNA, BRESIL · 2 260,64 €/mois</summary>
 
 - **Entreprise :** NORAC MISSIONS
 - **Lieu :** IBIUNA, BRESIL
@@ -4046,7 +4046,7 @@ Proactive and results-driven
 </details>
 
 <details>
-<summary><strong>Cost Data Analyst (H/F) – Congo</strong> — TOTALENERGIES SE — POINTE NOIRE, CONGO — 3 045,94 €/mois</summary>
+<summary><strong>Cost Data Analyst (H/F) – Congo</strong> · TOTALENERGIES SE · POINTE NOIRE, CONGO · 3 045,94 €/mois</summary>
 
 - **Entreprise :** TOTALENERGIES SE
 - **Lieu :** POINTE NOIRE, CONGO
@@ -4100,7 +4100,7 @@ La branche Exploration-Production (EP) de TotalEnergies couvre l’exploration e
 </details>
 
 <details>
-<summary><strong>Financial planning & analysis Analyst (FP&A) (H/F)</strong> — MAISON KYKA — MOKA, MAURICE — 1 884,02 €/mois</summary>
+<summary><strong>Financial planning & analysis Analyst (FP&A) (H/F)</strong> · MAISON KYKA · MOKA, MAURICE · 1 884,02 €/mois</summary>
 
 - **Entreprise :** MAISON KYKA
 - **Lieu :** MOKA, MAURICE
@@ -4179,7 +4179,7 @@ Soft skills
 </details>
 
 <details>
-<summary><strong>Contrôleur de gestion (H/F)</strong> — ORANO NUCLEAR PACKAGES AND SERVICES — TOKYO, JAPON — 2 758,89 €/mois</summary>
+<summary><strong>Contrôleur de gestion (H/F)</strong> · ORANO NUCLEAR PACKAGES AND SERVICES · TOKYO, JAPON · 2 758,89 €/mois</summary>
 
 - **Entreprise :** ORANO NUCLEAR PACKAGES AND SERVICES
 - **Lieu :** TOKYO, JAPON
@@ -4251,7 +4251,7 @@ Durée du contrat VIE : 24 mois
 </details>
 
 <details>
-<summary><strong>Junior Trader (H/F)</strong> — BLUE CUBE (FRANCE) — LONDRES, ROYAUME-UNI — 3 827,06 €/mois</summary>
+<summary><strong>Junior Trader (H/F)</strong> · BLUE CUBE (FRANCE) · LONDRES, ROYAUME-UNI · 3 827,06 €/mois</summary>
 
 - **Entreprise :** BLUE CUBE (FRANCE)
 - **Lieu :** LONDRES, ROYAUME-UNI
@@ -4297,7 +4297,7 @@ Candidates should have a genuine interest in financial markets and cryptocurrenc
 </details>
 
 <details>
-<summary><strong>COMPTABLE JUNIOR H/F (H/F)</strong> — GRIMALDI FRANCE — TEMA, GHANA — 3 475,69 €/mois</summary>
+<summary><strong>COMPTABLE JUNIOR H/F (H/F)</strong> · GRIMALDI FRANCE · TEMA, GHANA · 3 475,69 €/mois</summary>
 
 - **Entreprise :** GRIMALDI FRANCE
 - **Lieu :** TEMA, GHANA
@@ -4329,7 +4329,7 @@ Diplôme en économie, finance ou domaine similaire, expérience souhaitée, esp
 </details>
 
 <details>
-<summary><strong>COMPTABLE JUNIOR (H/F)</strong> — GRIMALDI FRANCE — COTONOU, BENIN — 2 321,28 €/mois</summary>
+<summary><strong>COMPTABLE JUNIOR (H/F)</strong> · GRIMALDI FRANCE · COTONOU, BENIN · 2 321,28 €/mois</summary>
 
 - **Entreprise :** GRIMALDI FRANCE
 - **Lieu :** COTONOU, BENIN
@@ -4362,7 +4362,7 @@ Diplôme en économie, finance ou domaine similaire, expérience souhaitée, esp
 </details>
 
 <details>
-<summary><strong>Contrôleur de Gestion Junior (H/F)</strong> — COMPAGNIE DE SAINT-GOBAIN — ESLÖV, SUEDE — 3 245,42 €/mois</summary>
+<summary><strong>Contrôleur de Gestion Junior (H/F)</strong> · COMPAGNIE DE SAINT-GOBAIN · ESLÖV, SUEDE · 3 245,42 €/mois</summary>
 
 - **Entreprise :** COMPAGNIE DE SAINT-GOBAIN
 - **Lieu :** ESLÖV, SUEDE
@@ -4426,7 +4426,7 @@ Mission VIE de 12 mois, renouvelable 12 mois supplémentaires.
 </details>
 
 <details>
-<summary><strong>Business Controlling & Analytics (H/F)</strong> — ALTEN — MADRID, ESPAGNE — 2 692,70 €/mois</summary>
+<summary><strong>Business Controlling & Analytics (H/F)</strong> · ALTEN · MADRID, ESPAGNE · 2 692,70 €/mois</summary>
 
 - **Entreprise :** ALTEN
 - **Lieu :** MADRID, ESPAGNE
@@ -4475,7 +4475,7 @@ What We Offer
 </details>
 
 <details>
-<summary><strong>V.I.E - INDEX STRUCTURER HF (H/F)</strong> — EURONEXT PARIS SA — LONDRES, ROYAUME-UNI — 3 827,06 €/mois</summary>
+<summary><strong>V.I.E - INDEX STRUCTURER HF (H/F)</strong> · EURONEXT PARIS SA · LONDRES, ROYAUME-UNI · 3 827,06 €/mois</summary>
 
 - **Entreprise :** EURONEXT PARIS SA
 - **Lieu :** LONDRES, ROYAUME-UNI
@@ -4581,7 +4581,7 @@ Strong team spirit with a commitment to delivering high-quality results
 </details>
 
 <details>
-<summary><strong>Project Manager Finance  (H/F)</strong> — EXTIA — LISBONNE, PORTUGAL — 2 677,43 €/mois</summary>
+<summary><strong>Project Manager Finance  (H/F)</strong> · EXTIA · LISBONNE, PORTUGAL · 2 677,43 €/mois</summary>
 
 - **Entreprise :** EXTIA
 - **Lieu :** LISBONNE, PORTUGAL
@@ -4634,7 +4634,7 @@ Language Requirements:
 </details>
 
 <details>
-<summary><strong>INGÉNIEUR SUPPLY CHAIN (H/F)</strong> — FORTIL GROUP — LIEGE, BELGIQUE — 2 978,53 €/mois</summary>
+<summary><strong>INGÉNIEUR SUPPLY CHAIN (H/F)</strong> · FORTIL GROUP · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** FORTIL GROUP
 - **Lieu :** LIEGE, BELGIQUE
@@ -4687,7 +4687,7 @@ Vous entreprenez, portez des projets, des engagements. Vous challenger vos méth
 </details>
 
 <details>
-<summary><strong>Comptable Général Senior – Finance Internationale (H/F)</strong> — SIBELCO FRANCE — BILBAO, ESPAGNE — 2 692,70 €/mois</summary>
+<summary><strong>Comptable Général Senior – Finance Internationale (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 692,70 €/mois</summary>
 
 - **Entreprise :** SIBELCO FRANCE
 - **Lieu :** BILBAO, ESPAGNE
