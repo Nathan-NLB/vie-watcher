@@ -717,79 +717,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "4",
-      "5",
-      "9",
-      "21",
-      "109",
-      "130",
-      "147",
-      "199",
-      "202",
-      "205"
+      "[\"4\",\"5\",\"9\",\"21\",\"109\",\"130\",\"147\",\"199\",\"202\",\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "4",
-        "specializationParentId": "89",
-        "specializationLabel": "Assurances",
-        "specializationLabelEn": "Insurance"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "130",
-        "specializationParentId": "193",
-        "specializationLabel": "Ingénieur Commercial ou d'Affaires, technico-commercial",
-        "specializationLabelEn": "Business Engineer, Sales Engineer"
-      },
-      {
-        "specializationId": "147",
-        "specializationParentId": "89",
-        "specializationLabel": "Services aux entreprises",
-        "specializationLabelEn": "Business Services"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "! Join a Dynamic and Exciting Team at Cleeven!\n\nAre you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? \nJoin us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!\n\nWHO WE ARE\n\nCleeven is an international engineering consulting firm built on two fundamental principles:\n\nOUR MISSION: \n\nTo enhance self-awareness and the awareness of those around us.\nOUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. As engineers, we work closely with our clients to ensure their global competitiveness.\n\nYOUR ROLE AS DATA ANALYST :\n\nAnalysis and synthesis of functional and technical requirements\nData asset analysis\nDefinition of statistical modeling to meet requirements\nSourcing and gathering all necessary structured and unstructured data sources for analysis\nStudy and comparison of statistical methods (PCA, logistic regression, random forest)\nImplementation and utilization of methods and models (R, SAS, Python, SPSS)\nOptimization of algorithm performance\nAnalysis and synthesis of information and results\nTechnological monitoring in Big Data, machine learning, and decisional statistics\nParticipation in solution qualification\n\nWHAT’S HAPPENING AT CLEEVEN?\n\nWe value the potential of our employees through various support programs:\nCleeven Coaching Program: A voluntary individual coaching program to contribute to your personal development.\nProject Follow-ups: Monthly reviews with your project manager to discuss project progress.\nBoost Your Skills: Bi-monthly events focusing on the expertise areas of Cleeven consultants.\nSocial Events: Regular gatherings throughout the year to strengthen team cohesion and sharing among Cleeven consultants.\n\"With Cleeven, become who you are!\"",
     "creationDate": "2026-08-28T07:15:47Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2607,30 +2537,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "201",
-      "259"
+      "[\"17\",\"201\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. \n\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\n\nThe role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.\n\nKey Responsibilities:\n\nFinancial Reporting & Analysis\n• Prepare and maintain financial reports and KPIs.\n• Assist with budgeting, forecasting, and variance analysis.\n• Analyze revenue, expenses, and key business metrics to identify trends and insights.\n• Support management reporting and ad hoc financial analyses.\n• Revenue Operations & Finance Support\n• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.\n• Assist in maintaining accurate data across CRM, payroll, and financial systems.\n• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.\n• Contribute to process improvement initiatives supporting commercial and finance operations.\n\nExpense Management & Financial Operations\n• Monitor employee travel and business expenses and support compliance with company policies.\n• Analyze spending trends and assist with cost control initiatives.\n• Support month-end, quarter-end, and year-end close activities.\n• Assist with operational reporting and other recurring finance processes.\n\nBusiness Systems & Process Improvement\n• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.\n• Help improve data quality, reporting consistency, and process efficiency.\n• Contribute to reporting automation and continuous improvement initiatives.",
     "creationDate": "2026-08-19T20:33:54Z",
     "missionStartDate": "2026-12-01T00:00:00",
