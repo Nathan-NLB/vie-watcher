@@ -5687,37 +5687,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9",
-      "201",
-      "259"
+      "[\"8\",\"9\",\"201\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "FILIALE FRANCAISE DE GRIMALDI GROUP, MULTINATIONALE DE LOGISTIQUE INTEGREE SPECIALISEE DANS LE TRANSPORT MARITIME DE VOITURES, MATERIEL ROULANT, CONTENEURS, PASSAGERS. DETENU A 100% PAR LA FAMILLE GRIMALDI,LE GROUPE EST PRESENT SUR LE CONTINENT AFRICAIN DEPUIS PLUS DE 40 ANS.\nCHIFFRES CLES : PLUS DE 90 BUREAUX DANS LE MONDE, 18000 SALARIES, 150 PORTS TOUCHES, 130 NAVIRES DANS LA FLOTTE.\n\nLe Poste :\nSupport de l’équipe financière en Afrique de l’Ouest,\nEnregistrement et suivi des opérations comptables,\nParticipation à l’élaboration des bilans et rapports financiers,\nCollaboration avec l’équipe locale pour assurer le respect des normes en vigueur.\n\nNous vous offrons :\nUne expérience professionnelle internationale dans un cadre dynamique,\nUn accompagnement logistique et administratif dans le cadre du détachement,\nDes opportunités de développement personnel et professionnel.",
     "creationDate": "2026-08-28T10:58:20Z",
     "missionStartDate": "2026-12-01T00:00:00",

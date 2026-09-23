@@ -23,6 +23,15 @@ const OFFERS_FILE = path.join(DATA_DIR, "offers.json");
 const SEEN_FILE = path.join(DATA_DIR, "seen-ids.json");
 const README_FILE = path.join(ROOT_DIR, "README.md");
 const PAGE_FILE = path.join(ROOT_DIR, "docs", "index.html");
+const GEOCACHE_FILE = path.join(DATA_DIR, "geocache.json");
+
+// Service gratuit de géocodage (OpenStreetMap), sans clé. On s'identifie
+// comme le demande sa politique d'usage, et on respecte la limite d'une
+// requête par seconde en espaçant nos appels.
+const NOMINATIM_URL = "https://nominatim.openstreetmap.org/search";
+const GEOCODE_USER_AGENT = "vie-watcher (https://github.com/Nathan-NLB/vie-watcher)";
+const GLOBE_GL_URL = "https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js";
+const EARTH_TEXTURE_URL = "https://cdn.jsdelivr.net/npm/three-globe/example/img/earth-blue-marble.jpg";
 
 async function fetchAllOffers() {
   const limit = 200;
@@ -71,6 +80,79 @@ function formatIndemnite(offer) {
 
 function offerLink(offer) {
   return `${OFFER_PAGE_URL}/${offer.id}`;
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+// Renvoie {lat, lon}, null si le service n'a rien trouvé (résultat qu'on
+// peut mettre en cache définitivement), ou undefined en cas d'échec
+// temporaire (à retenter au prochain passage, donc jamais mis en cache).
+async function geocodeQuery(query) {
+  const url = `${NOMINATIM_URL}?format=jsonv2&limit=1&q=${encodeURIComponent(query)}`;
+  try {
+    const res = await fetch(url, { headers: { "User-Agent": GEOCODE_USER_AGENT } });
+    if (!res.ok) {
+      console.error(`Géocodage échoué (${res.status}) pour "${query}"`);
+      return undefined;
+    }
+    const results = await res.json();
+    if (!Array.isArray(results) || results.length === 0) return null;
+    return { lat: parseFloat(results[0].lat), lon: parseFloat(results[0].lon) };
+  } catch (err) {
+    console.error(`Géocodage échoué pour "${query}" : ${err.message}`);
+    return undefined;
+  }
+}
+
+// Essaie de localiser précisément l'entreprise, sinon retombe sur la ville.
+// `cache` est mis à jour en place et sauvegardé par l'appelant.
+async function resolveOfferLocations(offers, cache) {
+  const points = [];
+
+  for (const offer of offers) {
+    const ville = offer.cityName || "";
+    const pays = offer.countryName || "";
+    if (!ville && !pays) continue;
+
+    let coords;
+    let precision;
+
+    if (offer.organizationName && ville) {
+      const entrepriseKey = `entreprise|${offer.organizationName.toLowerCase()}|${ville.toLowerCase()}|${pays.toLowerCase()}`;
+      coords = cache[entrepriseKey];
+      if (coords === undefined) {
+        coords = await geocodeQuery(`${offer.organizationName}, ${ville}, ${pays}`);
+        if (coords !== undefined) cache[entrepriseKey] = coords;
+        await sleep(1100);
+      }
+      if (coords) precision = "entreprise";
+    }
+
+    if (!coords) {
+      const villeKey = `ville|${ville.toLowerCase()}|${pays.toLowerCase()}`;
+      let villeCoords = cache[villeKey];
+      if (villeCoords === undefined) {
+        villeCoords = await geocodeQuery([ville, pays].filter(Boolean).join(", "));
+        if (villeCoords !== undefined) cache[villeKey] = villeCoords;
+        await sleep(1100);
+      }
+      coords = villeCoords;
+      precision = "ville";
+    }
+
+    if (coords) {
+      points.push({
+        id: offer.id,
+        lat: coords.lat,
+        lon: coords.lon,
+        precision,
+      });
+    }
+  }
+
+  return points;
 }
 
 async function notifyNewOffer(offer) {
@@ -162,6 +244,7 @@ function buildOffersPageData(offers) {
   return [...offers]
     .sort((a, b) => new Date(b.startBroadcastDate ?? 0) - new Date(a.startBroadcastDate ?? 0))
     .map((offer) => ({
+      id: offer.id,
       titre: offer.missionTitle || "Offre VIE",
       entreprise: offer.organizationName || "Non précisée",
       ville: offer.cityName || "",
@@ -177,10 +260,11 @@ function buildOffersPageData(offers) {
     }));
 }
 
-function buildOffersPageHtml(offers) {
+function buildOffersPageHtml(offers, geoPoints) {
   const now = new Date().toLocaleString("fr-FR", { timeZone: "Europe/Paris" });
   const data = buildOffersPageData(offers);
   const dataJson = JSON.stringify(data).replace(/</g, "\\u003c");
+  const geoJson = JSON.stringify(geoPoints).replace(/</g, "\\u003c");
 
   return `<!doctype html>
 <html lang="fr">
@@ -223,7 +307,7 @@ function buildOffersPageHtml(offers) {
   header {
     max-width: 780px;
     margin: 0 auto;
-    padding: 32px 16px 16px;
+    padding: 32px 16px 0;
   }
   h1 {
     font-size: 1.5rem;
@@ -236,9 +320,38 @@ function buildOffersPageHtml(offers) {
   .meta {
     color: var(--muted);
     font-size: 0.9rem;
-    margin: 0 0 16px;
+    margin: 0 0 8px;
   }
   .meta a { color: var(--accent); }
+  .tabs {
+    display: flex;
+    gap: 20px;
+    margin-top: 16px;
+    border-bottom: 1px solid var(--border);
+  }
+  .tab-btn {
+    background: none;
+    border: none;
+    padding: 10px 2px;
+    font: inherit;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+  }
+  .tab-btn.active {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+  }
+  .panel { display: none; }
+  .panel.active { display: block; }
+  .search-wrap {
+    max-width: 780px;
+    margin: 16px auto 0;
+    padding: 0 16px;
+  }
   input[type="search"] {
     width: 100%;
     padding: 12px 14px;
@@ -251,7 +364,7 @@ function buildOffersPageHtml(offers) {
   main {
     max-width: 780px;
     margin: 0 auto;
-    padding: 0 16px 48px;
+    padding: 16px 16px 48px;
     display: flex;
     flex-direction: column;
     gap: 12px;
@@ -318,6 +431,29 @@ function buildOffersPageHtml(offers) {
     text-align: center;
     padding: 32px 0;
   }
+  #globeViz {
+    width: 100%;
+    height: 60vh;
+    min-height: 380px;
+    max-height: 620px;
+    cursor: grab;
+  }
+  #globeViz:active { cursor: grabbing; }
+  .map-hint {
+    max-width: 780px;
+    margin: 12px auto 0;
+    padding: 0 16px;
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+  #carte-offres {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 16px 16px 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
 </style>
 </head>
 <body>
@@ -326,15 +462,58 @@ function buildOffersPageHtml(offers) {
   <p class="subtitle">Finance · Comptabilité · Gestion · Banque</p>
   <p class="meta">Dernière vérification : <strong>${now}</strong>, <span id="count"></span> offre(s) en ligne.</p>
   <p class="meta"><a href="https://github.com/Nathan-NLB/vie-watcher/blob/claude/vie-finance-notifications-j770x1/README.md">Voir la liste en texte brut (README)</a></p>
-  <input type="search" id="search" placeholder="Rechercher (ville, entreprise, poste...)">
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="liste" type="button">Liste</button>
+    <button class="tab-btn" data-tab="carte" type="button">Carte</button>
+  </div>
 </header>
-<main id="list"></main>
+
+<section id="panel-liste" class="panel active">
+  <div class="search-wrap">
+    <input type="search" id="search" placeholder="Rechercher (ville, entreprise, poste...)">
+  </div>
+  <main id="list"></main>
+</section>
+
+<section id="panel-carte" class="panel">
+  <div id="globeViz"></div>
+  <p class="map-hint">Touche ou clique un point pour voir les offres à cet endroit. Le point se place sur l'adresse de l'entreprise quand elle a pu être trouvée, sinon sur le centre de la ville.</p>
+  <div id="carte-offres"></div>
+</section>
+
 <script>
   const OFFRES = ${dataJson};
+  const GEO_POINTS = ${geoJson};
 
   const listEl = document.getElementById("list");
   const searchEl = document.getElementById("search");
   const countEl = document.getElementById("count");
+  const carteOffresEl = document.getElementById("carte-offres");
+
+  function renderOfferCard(o) {
+    const lieu = [o.ville, o.pays].filter(Boolean).join(", ") || "Lieu non précisé";
+    const details = document.createElement("details");
+    details.className = "offer";
+    details.innerHTML = \`
+      <summary>
+        <p class="offer-title">\${o.titre}</p>
+        <p class="offer-sub">\${o.entreprise} · \${lieu}</p>
+        <div class="tags">
+          <span class="tag">\${o.indemnite}</span>
+          <span class="tag">\${o.duree}</span>
+          <span class="tag">Publiée le \${o.publieLe}</span>
+        </div>
+      </summary>
+      <div class="offer-body">
+        <h3>Description du poste</h3>
+        <p>\${o.description}</p>
+        <h3>Profil recherché</h3>
+        <p>\${o.profil}</p>
+        <a class="offer-link" href="\${o.lien}" target="_blank" rel="noopener">Voir l'offre sur mon-vie-via.businessfrance.fr →</a>
+      </div>
+    \`;
+    return details;
+  }
 
   function render(offres) {
     countEl.textContent = offres.length;
@@ -346,28 +525,7 @@ function buildOffersPageHtml(offers) {
     }
 
     for (const o of offres) {
-      const lieu = [o.ville, o.pays].filter(Boolean).join(", ") || "Lieu non précisé";
-      const details = document.createElement("details");
-      details.className = "offer";
-      details.innerHTML = \`
-        <summary>
-          <p class="offer-title">\${o.titre}</p>
-          <p class="offer-sub">\${o.entreprise} · \${lieu}</p>
-          <div class="tags">
-            <span class="tag">\${o.indemnite}</span>
-            <span class="tag">\${o.duree}</span>
-            <span class="tag">Publiée le \${o.publieLe}</span>
-          </div>
-        </summary>
-        <div class="offer-body">
-          <h3>Description du poste</h3>
-          <p>\${o.description}</p>
-          <h3>Profil recherché</h3>
-          <p>\${o.profil}</p>
-          <a class="offer-link" href="\${o.lien}" target="_blank" rel="noopener">Voir l'offre sur mon-vie-via.businessfrance.fr →</a>
-        </div>
-      \`;
-      listEl.appendChild(details);
+      listEl.appendChild(renderOfferCard(o));
     }
   }
 
@@ -386,6 +544,95 @@ function buildOffersPageHtml(offers) {
 
   searchEl.addEventListener("input", applyFilter);
   render(OFFRES);
+
+  // Onglets
+  const tabBtns = document.querySelectorAll(".tab-btn");
+  const panels = { liste: document.getElementById("panel-liste"), carte: document.getElementById("panel-carte") };
+  let globeInitialized = false;
+
+  tabBtns.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      tabBtns.forEach((b) => b.classList.remove("active"));
+      btn.classList.add("active");
+      Object.values(panels).forEach((p) => p.classList.remove("active"));
+      panels[btn.dataset.tab].classList.add("active");
+      if (btn.dataset.tab === "carte" && !globeInitialized) {
+        globeInitialized = true;
+        initGlobe();
+      }
+    });
+  });
+
+  // Regroupe les offres géolocalisées par point (arrondi ~1 km) pour ne pas
+  // empiler des dizaines de marqueurs au même endroit.
+  function buildClusters() {
+    const byOffer = new Map(OFFRES.map((o) => [o.id, o]));
+    const clusters = new Map();
+
+    for (const p of GEO_POINTS) {
+      const offer = byOffer.get(p.id);
+      if (!offer) continue;
+      const key = p.lat.toFixed(2) + "," + p.lon.toFixed(2);
+      if (!clusters.has(key)) {
+        clusters.set(key, { lat: p.lat, lon: p.lon, ids: [] });
+      }
+      clusters.get(key).ids.push(p.id);
+    }
+
+    return [...clusters.values()];
+  }
+
+  function showOffersForCluster(ids) {
+    const byOffer = new Map(OFFRES.map((o) => [o.id, o]));
+    carteOffresEl.innerHTML = "";
+    for (const id of ids) {
+      const offer = byOffer.get(id);
+      if (offer) carteOffresEl.appendChild(renderOfferCard(offer));
+    }
+    carteOffresEl.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
+
+  function initGlobe() {
+    const container = document.getElementById("globeViz");
+
+    if (GEO_POINTS.length === 0) {
+      container.innerHTML = '<p class="empty">Aucun lieu n\\'a pu être localisé pour l\\'instant.</p>';
+      return;
+    }
+
+    const script = document.createElement("script");
+    script.src = "${GLOBE_GL_URL}";
+    script.onload = () => {
+      const clusters = buildClusters();
+      const globe = Globe()(container)
+        .width(container.clientWidth)
+        .height(container.clientHeight)
+        .backgroundColor("rgba(0,0,0,0)")
+        .globeImageUrl("${EARTH_TEXTURE_URL}")
+        .pointsData(clusters)
+        .pointLat("lat")
+        .pointLng("lon")
+        .pointColor(() => "#2f6fed")
+        .pointAltitude(0.012)
+        .pointRadius((d) => Math.min(0.35 + Math.sqrt(d.ids.length) * 0.22, 1.6))
+        .pointLabel((d) => \`\${d.ids.length} offre(s) à cet endroit\`)
+        .onPointClick((d) => showOffersForCluster(d.ids))
+        .pointsMerge(false);
+
+      globe.controls().autoRotate = true;
+      globe.controls().autoRotateSpeed = 0.6;
+      globe.controls().addEventListener("start", () => (globe.controls().autoRotate = false));
+
+      window.addEventListener("resize", () => {
+        globe.width(container.clientWidth);
+        globe.height(container.clientHeight);
+      });
+    };
+    script.onerror = () => {
+      container.innerHTML = '<p class="empty">Le globe n\\'a pas pu se charger (connexion internet nécessaire).</p>';
+    };
+    document.head.appendChild(script);
+  }
 </script>
 </body>
 </html>
@@ -410,12 +657,18 @@ async function main() {
   const updatedSeenIds = new Set([...seenIds, ...currentIds]);
   writeJson(SEEN_FILE, [...updatedSeenIds]);
   writeJson(OFFERS_FILE, offers);
+
+  const geocache = readJson(GEOCACHE_FILE, {});
+  const geoPoints = await resolveOfferLocations(offers, geocache);
+  writeJson(GEOCACHE_FILE, geocache);
+
   fs.writeFileSync(README_FILE, buildReadme(offers));
   fs.mkdirSync(path.dirname(PAGE_FILE), { recursive: true });
-  fs.writeFileSync(PAGE_FILE, buildOffersPageHtml(offers));
+  fs.writeFileSync(PAGE_FILE, buildOffersPageHtml(offers, geoPoints));
 
   console.log(
-    `Offres actives : ${offers.length}. Nouvelles notifiées : ${isFirstRun ? 0 : newOffers.length}` +
+    `Offres actives : ${offers.length}. Nouvelles notifiées : ${isFirstRun ? 0 : newOffers.length}. ` +
+      `Localisées : ${geoPoints.length}/${offers.length}` +
       (isFirstRun ? " (premier passage : initialisation sans notification)." : ".")
   );
 }

@@ -1,0 +1,288 @@
+{
+  "entreprise|solina group services|oak brook -il-|etats-unis": null,
+  "ville|oak brook -il-|etats-unis": {
+    "lat": 41.8327126,
+    "lon": -87.9484125
+  },
+  "entreprise|sibelco france|bilbao|espagne": null,
+  "ville|bilbao|espagne": {
+    "lat": 43.2630018,
+    "lon": -2.9350039
+  },
+  "entreprise|friedlander|georgetown|guyana": null,
+  "ville|georgetown|guyana": {
+    "lat": 6.8032561,
+    "lon": -58.1455403
+  },
+  "entreprise|arkema france|radnor       -pa-|etats-unis": null,
+  "ville|radnor       -pa-|etats-unis": {
+    "lat": 40.0448619,
+    "lon": -75.3594728
+  },
+  "entreprise|caceis|bruxelles|belgique": null,
+  "ville|bruxelles|belgique": {
+    "lat": 50.8467372,
+    "lon": 4.352493
+  },
+  "entreprise|amundi asset management|dublin|irlande": null,
+  "ville|dublin|irlande": {
+    "lat": 53.3493795,
+    "lon": -6.2605593
+  },
+  "entreprise|sanofi winthrop industrie|cambridge       -ma-|etats-unis": null,
+  "ville|cambridge       -ma-|etats-unis": {
+    "lat": 42.3656347,
+    "lon": -71.1040018
+  },
+  "entreprise|colas rail|santiago|chili": null,
+  "ville|santiago|chili": {
+    "lat": -33.4376995,
+    "lon": -70.6510671
+  },
+  "entreprise|engie global markets|bruxelles|belgique": null,
+  "entreprise|legrand france|auckland|nouvelle-zelande": null,
+  "ville|auckland|nouvelle-zelande": {
+    "lat": -36.852095,
+    "lon": 174.7631803
+  },
+  "entreprise|legrand france|sydney|australie": null,
+  "ville|sydney|australie": {
+    "lat": -33.8698439,
+    "lon": 151.2082848
+  },
+  "entreprise|oddo bhf sca|francfort|allemagne": null,
+  "ville|francfort|allemagne": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "entreprise|cleeven nd|bruxelles|belgique": null,
+  "entreprise|morgan philips|mexico|mexique": null,
+  "ville|mexico|mexique": {
+    "lat": 19.3207722,
+    "lon": -99.1514678
+  },
+  "entreprise|ere|varsovie|pologne": null,
+  "ville|varsovie|pologne": {
+    "lat": 52.2333742,
+    "lon": 21.0711489
+  },
+  "entreprise|bk consulting france|luxembourg|luxembourg": null,
+  "ville|luxembourg|luxembourg": {
+    "lat": 49.6112768,
+    "lon": 6.129799
+  },
+  "entreprise|compagnie mondiale de transport|athenes|grece": null,
+  "ville|athenes|grece": {
+    "lat": 37.9755648,
+    "lon": 23.7348324
+  },
+  "entreprise|moon surgical|san francisco -ca-|etats-unis": null,
+  "ville|san francisco -ca-|etats-unis": {
+    "lat": 37.7879363,
+    "lon": -122.4075201
+  },
+  "entreprise|euro latina finance|sao paulo|bresil": null,
+  "ville|sao paulo|bresil": {
+    "lat": -23.5506507,
+    "lon": -46.6333824
+  },
+  "entreprise|conseils plus|milan|italie": null,
+  "ville|milan|italie": {
+    "lat": 45.4641943,
+    "lon": 9.1896346
+  },
+  "entreprise|ca consumer finance|stuttgart|allemagne": null,
+  "ville|stuttgart|allemagne": {
+    "lat": 48.7784485,
+    "lon": 9.1800132
+  },
+  "entreprise|meridiam|libreville|gabon": null,
+  "ville|libreville|gabon": {
+    "lat": 0.4086518,
+    "lon": 9.4418849
+  },
+  "entreprise|caisse d'epargne et de prevoyance hauts de france|bruxelles|belgique": null,
+  "entreprise|minebea accesssolutions france|kosice|slovaquie": null,
+  "ville|kosice|slovaquie": {
+    "lat": 48.7172272,
+    "lon": 21.2496774
+  },
+  "entreprise|caceis|selangor|malaisie": null,
+  "ville|selangor|malaisie": {
+    "lat": 3.2083304,
+    "lon": 101.304146
+  },
+  "entreprise|criteo technology|barcelone|espagne": null,
+  "ville|barcelone|espagne": {
+    "lat": 41.3825802,
+    "lon": 2.177073
+  },
+  "entreprise|paprec france|milan|italie": null,
+  "entreprise|gbh|saint domingue|republique dominicaine": null,
+  "ville|saint domingue|republique dominicaine": {
+    "lat": 18.4713858,
+    "lon": -69.8918436
+  },
+  "entreprise|vinci construction si|bottrop|allemagne": null,
+  "ville|bottrop|allemagne": {
+    "lat": 51.521581,
+    "lon": 6.929204
+  },
+  "entreprise|product development employeneurship|bruxelles|belgique": null,
+  "entreprise|ca indosuez|milan|italie": null,
+  "entreprise|alstom transport sa|copenhague|danemark": null,
+  "ville|copenhague|danemark": {
+    "lat": 55.6867243,
+    "lon": 12.5700724
+  },
+  "entreprise|planisware|san francisco -ca-|etats-unis": null,
+  "entreprise|groupe idec international|porto|portugal": null,
+  "ville|porto|portugal": {
+    "lat": 41.1502195,
+    "lon": -8.6103497
+  },
+  "entreprise|orbiss|boston          -ma-|etats-unis": null,
+  "ville|boston          -ma-|etats-unis": {
+    "lat": 42.3588336,
+    "lon": -71.0578303
+  },
+  "entreprise|koni france fab amortisseurs|rotterdam|pays-bas": null,
+  "ville|rotterdam|pays-bas": {
+    "lat": 51.9244424,
+    "lon": 4.47775
+  },
+  "entreprise|stellantis bank|potsdam|allemagne": null,
+  "ville|potsdam|allemagne": {
+    "lat": 52.4009309,
+    "lon": 13.0591397
+  },
+  "entreprise|klepierre management|copenhague|danemark": null,
+  "entreprise|ace orga lab|geneve|suisse": null,
+  "ville|geneve|suisse": {
+    "lat": 46.2017559,
+    "lon": 6.1466014
+  },
+  "entreprise|deep dating|geneve|suisse": null,
+  "entreprise|schneider electric industries sas|budapest|hongrie": null,
+  "ville|budapest|hongrie": {
+    "lat": 47.4978789,
+    "lon": 19.0402383
+  },
+  "entreprise|amethis advisory|luxembourg|luxembourg": null,
+  "entreprise|iveco france|zedelgem|belgique": null,
+  "ville|zedelgem|belgique": {
+    "lat": 51.1389736,
+    "lon": 3.1395587
+  },
+  "entreprise|sanofi winthrop industrie|bruxelles|belgique": null,
+  "entreprise|nexans france|oslo|norvege": null,
+  "ville|oslo|norvege": {
+    "lat": 59.9133301,
+    "lon": 10.7389701
+  },
+  "entreprise|elior group|bangalore|inde": null,
+  "ville|bangalore|inde": {
+    "lat": 12.9767936,
+    "lon": 77.590082
+  },
+  "entreprise|pramex international|madrid|espagne": null,
+  "ville|madrid|espagne": {
+    "lat": 40.416782,
+    "lon": -3.703507
+  },
+  "entreprise|meotec|bruxelles|belgique": null,
+  "entreprise|naos|montreal -qc|canada": null,
+  "ville|montreal -qc|canada": {
+    "lat": 45.5112983,
+    "lon": -73.5657786
+  },
+  "entreprise|shift technology|boston          -ma-|etats-unis": null,
+  "entreprise|naval group|kuala lumpur|malaisie": null,
+  "ville|kuala lumpur|malaisie": {
+    "lat": 3.1516964,
+    "lon": 101.6942371
+  },
+  "entreprise|louis dreyfus company distribution france sas|illertissen|allemagne": null,
+  "ville|illertissen|allemagne": {
+    "lat": 48.222924,
+    "lon": 10.1053373
+  },
+  "entreprise|albioma|sao paulo|bresil": {
+    "lat": -22.9136225,
+    "lon": -48.9984901
+  },
+  "entreprise|faurecia interiors holding|dexter -mo-|etats-unis": null,
+  "ville|dexter -mo-|etats-unis": {
+    "lat": 36.7937232,
+    "lon": -89.9559808
+  },
+  "entreprise|isalys consulting france|barcelone|espagne": null,
+  "entreprise|beiersdorf s.a.s|bruxelles|belgique": null,
+  "entreprise|alten|bruxelles|belgique": {
+    "lat": 50.8415937,
+    "lon": 4.3577639
+  },
+  "entreprise|lexifi|new york  -ny-|etats-unis": null,
+  "ville|new york  -ny-|etats-unis": {
+    "lat": 44.9931567,
+    "lon": -74.0857662
+  },
+  "entreprise|fortil group|liege|belgique": null,
+  "ville|liege|belgique": {
+    "lat": 50.4708135,
+    "lon": 5.7735658
+  },
+  "entreprise|natixis investment managers|luxembourg|luxembourg": null,
+  "entreprise|norac missions|ibiuna|bresil": null,
+  "ville|ibiuna|bresil": {
+    "lat": -23.6544825,
+    "lon": -47.220856
+  },
+  "entreprise|totalenergies se|pointe noire|congo": null,
+  "ville|pointe noire|congo": {
+    "lat": -4.7975373,
+    "lon": 11.8503297
+  },
+  "entreprise|maison kyka|moka|maurice": null,
+  "ville|moka|maurice": {
+    "lat": -20.2521392,
+    "lon": 57.5872245
+  },
+  "entreprise|orano nuclear packages and services|tokyo|japon": null,
+  "ville|tokyo|japon": {
+    "lat": 35.6768601,
+    "lon": 139.7638947
+  },
+  "entreprise|blue cube (france)|londres|royaume-uni": null,
+  "ville|londres|royaume-uni": {
+    "lat": 51.5074456,
+    "lon": -0.1277653
+  },
+  "entreprise|grimaldi france|tema|ghana": null,
+  "ville|tema|ghana": {
+    "lat": 5.6596409,
+    "lon": -0.0096771
+  },
+  "entreprise|grimaldi france|cotonou|benin": null,
+  "ville|cotonou|benin": {
+    "lat": 6.3676953,
+    "lon": 2.4252507
+  },
+  "entreprise|compagnie de saint-gobain|eslöv|suede": null,
+  "ville|eslöv|suede": {
+    "lat": 55.8374959,
+    "lon": 13.3036265
+  },
+  "entreprise|alten|madrid|espagne": null,
+  "entreprise|euronext paris sa|londres|royaume-uni": null,
+  "entreprise|direction generale du tresor|dhaka|bangladesh": null,
+  "ville|dhaka|bangladesh": {
+    "lat": 23.7643863,
+    "lon": 90.3890144
+  },
+  "entreprise|extia|lisbonne|portugal": null,
+  "ville|lisbonne|portugal": {
+    "lat": 38.7077507,
+    "lon": -9.1365919
+  }
+}
