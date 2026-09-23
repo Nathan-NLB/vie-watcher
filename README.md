@@ -6,7 +6,7 @@ catégorie **Finance Comptabilité Gestion Banque**, toutes les 20 minutes
 environ. Une notification est envoyée sur ton téléphone (via ntfy.sh) à
 chaque nouvelle offre détectée.
 
-Dernière vérification : **23/09/2026 11:29:09**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **23/09/2026 11:47:18**, 81 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1610,55 +1610,6 @@ Fluency in English and French; Dutch proficiency is considered an advantage.
 Strong proficiency in Microsoft Excel and the Microsoft Office suite.
 Excellent analytical, organizational, problem-solving, and customer service skills.
 Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG environments is beneficial.
-
-</details>
-
-<details>
-<summary><strong>Comptable international Multi-pays (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
-
-- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 12 mois
-- **Publiée le :** 15/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245978](https://mon-vie-via.businessfrance.fr/offres/245978)
-
-**Description du poste**
-
-Dans le cadre de notre développement et la structuration de notre activité à l’international, nous souhaitons recruter un VIE Comptable International au sein d’un share service center pour le groupe basé à Barcelone et en charge de la tenue comptable de plusieurs filiales dans le cadre du passage à un nouvel outil comptable.
-
-Mission à pourvoir asap.
-Localisation : Barcelone
-
-Vos missions : Réviser la saisie comptable pour plusieurs filiales du groupe dans le cadre de l’implémentation d’un nouveau logiciel et de la réinternalisation de la fonction comptable au sein d’un service partagé basé à Barcelone.
-
-Les missions principales dans ce cadre seront :
-- Révision de la saisie des écritures comptables pour les sociétés du groupe assignées, en respect des normes comptables applicables dans chaque pays.
-- Vérification des notes de frais,
-- Révision des rapprochements bancaires,
-- Préparation des fichiers de paiements fournisseur,
-- Révisions des comptes clients et fournisseurs, du lettrage et des autres comptes de bilan,
-- Clôtures comptables mensuelles : révision des comptes de bilan et compte de résultat et préparation des écritures de clôtures mensuelles (FNP, CCA, WIP ..)
-- Préparation des données nécessaires aux déclarations fiscales afin de les transmettre pour validation.
-- Préparation des fichiers de liasses sociales pour la consolidation groupe.
-
-Liste non exhaustive, les missions peuvent évoluer au cours de la période.
-
-
-Les Avantages
-- Entreprise dynamique, petite structure très horizontale malgré plus de 600 employés pour la filiale espagnole. Et une dynamique de croissance et de coopération avec le groupe et les autres filiales.
-- Ambiance de travail très agréable où il est facile de s’intégrer et de rapidement apporter (entreprise élue « great place to work »).
-
-- Groupe français et présent à l’international sur 3 continents avec de nombreuses nationalités représentées.
-- Interactions multiples avec au moins 2 filiales différentes.
-
-**Profil recherché**
-
-- Formation : Business school, Master, DSCG.
-- Français courant (impératif écrit/oral), espagnol et anglais niveau professionel (B2).
-- Maîtrise des outils Excel, expérience avec l’utilisation d’un ERP.
-- Expérience en comptabilité requise.
-- Prise d’initiative, curiosité, travail en équipe, esprit critique.
 
 </details>
 
