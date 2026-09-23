@@ -356,6 +356,27 @@ Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
   return header + body;
 }
 
+const INDEMNITE_BUCKETS = [
+  { label: "< 2000 €", min: 0, max: 2000 },
+  { label: "2000-2499 €", min: 2000, max: 2500 },
+  { label: "2500-2999 €", min: 2500, max: 3000 },
+  { label: "3000-3499 €", min: 3000, max: 3500 },
+  { label: "3500-3999 €", min: 3500, max: 4000 },
+  { label: "4000 € et +", min: 4000, max: Infinity },
+];
+
+const COMPAT_BUCKETS = [
+  { label: "0-39 %", min: 0, max: 40, tier: "low" },
+  { label: "40-69 %", min: 40, max: 70, tier: "mid" },
+  { label: "70-100 %", min: 70, max: 101, tier: "high" },
+];
+
+function bucketLabelFor(value, buckets) {
+  if (typeof value !== "number") return null;
+  const b = buckets.find((b) => value >= b.min && value < b.max);
+  return b ? b.label : null;
+}
+
 function buildOffersPageData(offers, compatCache) {
   return [...offers]
     .sort((a, b) => new Date(b.startBroadcastDate ?? 0) - new Date(a.startBroadcastDate ?? 0))
@@ -368,16 +389,21 @@ function buildOffersPageData(offers, compatCache) {
         ville: offer.cityName || "",
         pays: offer.countryName || "",
         indemnite: formatIndemnite(offer),
+        indemniteBucket: bucketLabelFor(offer.indemnite, INDEMNITE_BUCKETS),
         duree: offer.missionDuration ? `${offer.missionDuration} mois` : "Non précisée",
         periode: formatMissionPeriod(offer),
         publieLe: offer.startBroadcastDate
           ? new Date(offer.startBroadcastDate).toLocaleDateString("fr-FR")
           : "Non précisée",
+        semaine: offer.startBroadcastDate
+          ? `Semaine du ${weekStartLabel(new Date(offer.startBroadcastDate))}`
+          : null,
         lien: offerLink(offer),
         description: (offer.missionDescription || "").trim() || "Non communiquée.",
         profil: (offer.missionProfile || "").trim() || "Non communiqué.",
         compatScore: compat ? compat.score : null,
         compatRaison: compat ? compat.raison : null,
+        compatBucket: compat ? bucketLabelFor(compat.score, COMPAT_BUCKETS) : null,
       };
     });
 }
@@ -422,14 +448,7 @@ function buildDashboardData(offers, compatCache, totalSeen) {
     ? indemnites.reduce((sum, v) => sum + v, 0) / indemnites.length
     : null;
 
-  const indemniteBuckets = [
-    { label: "< 2000 €", min: 0, max: 2000 },
-    { label: "2000-2499 €", min: 2000, max: 2500 },
-    { label: "2500-2999 €", min: 2500, max: 3000 },
-    { label: "3000-3499 €", min: 3000, max: 3500 },
-    { label: "3500-3999 €", min: 3500, max: 4000 },
-    { label: "4000 € et +", min: 4000, max: Infinity },
-  ].map((b) => ({
+  const indemniteBuckets = INDEMNITE_BUCKETS.map((b) => ({
     label: b.label,
     value: indemnites.filter((v) => v >= b.min && v < b.max).length,
   }));
@@ -457,11 +476,7 @@ function buildDashboardData(offers, compatCache, totalSeen) {
   const avgCompat = compatScores.length
     ? Math.round(compatScores.reduce((sum, v) => sum + v, 0) / compatScores.length)
     : null;
-  const compatBuckets = [
-    { label: "0-39 %", min: 0, max: 40, tier: "low" },
-    { label: "40-69 %", min: 40, max: 70, tier: "mid" },
-    { label: "70-100 %", min: 70, max: 101, tier: "high" },
-  ].map((b) => ({
+  const compatBuckets = COMPAT_BUCKETS.map((b) => ({
     label: b.label,
     tier: b.tier,
     value: compatScores.filter((v) => v >= b.min && v < b.max).length,
@@ -789,6 +804,15 @@ function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
     display: flex;
     align-items: center;
     gap: 10px;
+    border-radius: 6px;
+    padding: 3px 4px;
+    margin: -3px -4px;
+  }
+  .hbar-row.clickable {
+    cursor: pointer;
+  }
+  .hbar-row.clickable:hover {
+    background: var(--tag-bg);
   }
   .hbar-row-label {
     width: 128px;
@@ -889,6 +913,11 @@ function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
       <h2 class="chart-title">Répartition des scores de compatibilité</h2>
       <p class="chart-sub" id="chart-compat-sub"></p>
       <div class="hbar-chart" id="chart-compat"></div>
+    </div>
+
+    <div class="chart-block" id="dash-resultats-block" style="display:none">
+      <h2 class="chart-title" id="dash-resultats-title"></h2>
+      <div id="dash-resultats"></div>
     </div>
   </div>
 </section>
@@ -1037,7 +1066,24 @@ function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
       .join("");
   }
 
-  function renderHBarChart(containerId, rows, fillClassFn) {
+  const dashResultatsBlock = document.getElementById("dash-resultats-block");
+  const dashResultatsTitle = document.getElementById("dash-resultats-title");
+  const dashResultatsEl = document.getElementById("dash-resultats");
+
+  function showDashboardResults(label, matches) {
+    dashResultatsBlock.style.display = "block";
+    dashResultatsTitle.textContent = \`\${matches.length} offre(s) : \${label}\`;
+    dashResultatsEl.innerHTML = "";
+    for (const o of matches) {
+      const card = renderOfferCard(o);
+      card.open = true;
+      dashResultatsEl.appendChild(card);
+    }
+    dashResultatsBlock.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  function renderHBarChart(containerId, rows, opts = {}) {
+    const { fillClassFn, filterField } = opts;
     const container = document.getElementById(containerId);
     if (!rows || rows.length === 0 || rows.every((r) => r.value === 0)) {
       container.innerHTML = '<p class="dash-empty">Pas encore assez de données.</p>';
@@ -1045,11 +1091,12 @@ function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
     }
     const max = Math.max(...rows.map((r) => r.value), 1);
     container.innerHTML = rows
-      .map((r) => {
+      .map((r, i) => {
         const pct = Math.max((r.value / max) * 100, 2);
         const fillClass = fillClassFn ? fillClassFn(r) : "";
+        const clickable = filterField && r.value > 0;
         return \`
-          <div class="hbar-row">
+          <div class="hbar-row\${clickable ? " clickable" : ""}" data-index="\${i}">
             <span class="hbar-row-label" title="\${r.label}">\${r.label}</span>
             <span class="hbar-row-track"><span class="hbar-row-fill \${fillClass}" style="width:\${pct}%"></span></span>
             <span class="hbar-row-value">\${r.value}</span>
@@ -1057,20 +1104,33 @@ function buildOffersPageHtml(offers, geoPoints, compatCache, totalSeen) {
         \`;
       })
       .join("");
+
+    if (filterField) {
+      container.querySelectorAll(".hbar-row.clickable").forEach((el) => {
+        el.addEventListener("click", () => {
+          const row = rows[Number(el.dataset.index)];
+          const matches = OFFRES.filter((o) => o[filterField] === row.label);
+          showDashboardResults(row.label, matches);
+        });
+      });
+    }
   }
 
   function renderDashboard() {
     renderStatTiles();
-    renderHBarChart("chart-pays", DASHBOARD.pays);
-    renderHBarChart("chart-entreprises", DASHBOARD.entreprises);
-    renderHBarChart("chart-indemnites", DASHBOARD.indemniteBuckets);
-    renderHBarChart("chart-semaines", DASHBOARD.semaines);
+    renderHBarChart("chart-pays", DASHBOARD.pays, { filterField: "pays" });
+    renderHBarChart("chart-entreprises", DASHBOARD.entreprises, { filterField: "entreprise" });
+    renderHBarChart("chart-indemnites", DASHBOARD.indemniteBuckets, { filterField: "indemniteBucket" });
+    renderHBarChart("chart-semaines", DASHBOARD.semaines, { filterField: "semaine" });
 
     const compatBlock = document.getElementById("chart-compat-block");
     if (DASHBOARD.compatNotees > 0) {
       document.getElementById("chart-compat-sub").textContent =
         \`Sur les \${DASHBOARD.compatNotees} offre(s) notée(s) depuis la mise en place du score.\`;
-      renderHBarChart("chart-compat", DASHBOARD.compatBuckets, (r) => \`hbar-fill-\${r.tier}\`);
+      renderHBarChart("chart-compat", DASHBOARD.compatBuckets, {
+        fillClassFn: (r) => \`hbar-fill-\${r.tier}\`,
+        filterField: "compatBucket",
+      });
     } else {
       compatBlock.style.display = "none";
     }
