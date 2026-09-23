@@ -621,9 +621,12 @@ function buildOffersPageHtml(offers, geoPoints) {
     carteOffresEl.innerHTML = "";
     for (const id of ids) {
       const offer = byOffer.get(id);
-      if (offer) carteOffresEl.appendChild(renderOfferCard(offer));
+      if (!offer) continue;
+      const card = renderOfferCard(offer);
+      card.open = true;
+      carteOffresEl.appendChild(card);
     }
-    carteOffresEl.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    carteOffresEl.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   function initGlobe() {

@@ -226,7 +226,7 @@
 <header>
   <h1>Veille des offres VIE</h1>
   <p class="subtitle">Finance · Comptabilité · Gestion · Banque</p>
-  <p class="meta">Dernière vérification : <strong>23/09/2026 13:31:09</strong>, <span id="count"></span> offre(s) en ligne.</p>
+  <p class="meta">Dernière vérification : <strong>23/09/2026 13:37:59</strong>, <span id="count"></span> offre(s) en ligne.</p>
   <p class="meta"><a href="https://github.com/Nathan-NLB/vie-watcher/blob/claude/vie-finance-notifications-j770x1/README.md">Voir la liste en texte brut (README)</a></p>
   <div class="tabs">
     <button class="tab-btn active" data-tab="liste" type="button">Liste</button>
@@ -353,9 +353,12 @@
     carteOffresEl.innerHTML = "";
     for (const id of ids) {
       const offer = byOffer.get(id);
-      if (offer) carteOffresEl.appendChild(renderOfferCard(offer));
+      if (!offer) continue;
+      const card = renderOfferCard(offer);
+      card.open = true;
+      carteOffresEl.appendChild(card);
     }
-    carteOffresEl.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    carteOffresEl.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   function initGlobe() {
