@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/09/2026 11:05:35**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **24/09/2026 11:29:54**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -135,6 +135,52 @@ Languages:
 - Advanced English knowledge, Spanish is preferred.
 
 To facilitate the examination of your application by our English-speaking managers, thank you for applying in English.
+
+</details>
+
+<details>
+<summary><strong>VIE Private Market Analyst (H/F)</strong> · CA INDOSUEZ · GENEVE, SUISSE · 4 172,27 €/mois</summary>
+
+- **Entreprise :** CA INDOSUEZ
+- **Lieu :** GENEVE, SUISSE
+- **Indemnité :** 4 172,27 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 24/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246329](https://mon-vie-via.businessfrance.fr/offres/246329)
+
+**Description du poste**
+
+CA Indosuez (Switzerland) SA, as an affiliate of Indosuez Wealth Management (~EUR 233 billion of AUM as of 31/12/2025), is one of the leading banking institutions in Switzerland. In addition to its wealth management activities in Switzerland, Middle East and Asia, the Bank is also active in capital markets, trade and commodity finance, asset management and commercial banking. Based in Switzerland since 140 years, CA Indosuez (Switzerland) SA has c.1’000 employees spread across different verticals and expertise including commercial, products and services as well as support and control functions. Its teams and different expertise benefit from the unique network of the broader Indosuez Wealth Management network as well as CACIB, its investment bank, and more generally from Crédit Agricole Group.
+
+ 
+
+The Platform
+
+ 
+
+With c. €12 billion of assets under management, CA Indosuez is a major private markets’ investor through its Tiera Capital Funds investing mostly across Europe, North America and Asia. Its dedicated investment team makes 40 to 50 investments every year with a mix of (i) primary commitments, (ii) secondary transactions (lead or co-invests) and (iii) direct co-investments in companies. The Private Market platform of CA Indosuez covers a large scope of strategies including buyout, growth capital, credit, infrastructure, and secondary.
+
+ 
+
+Your role
+
+ 
+
+Participating in due-diligence processes for new private equity investments (primary, secondary and co-invests);
+Defending investment recommendations to the Investment Committee;
+Ensuring monitoring and reporting of the existing investments in portfolio;
+Participating to investment execution and structuring alongside internal and external counsels;
+Managing deal-flow and digital monitoring tools related to investments;
+ 
+
+The Private Equity Analyst will report to a senior professional of the investment team and work in collaboration with a dedicated team of investment managers and analysts mostly based in Geneva.
+
+**Profil recherché**
+
+You own a preliminary experience investing in private equity industry either direct or indirect with proven experience in the private equity landscape ;
+Having an experience of direct co-investments and/or secondary transaction is an asset ;
+You have proven capabilities of team-working, multi-tasking, organization skills, proactivity, flexibility and resistance to pressure ;
+You also have abilities to challenge opinions and summarize your views and conclusions.
 
 </details>
 
