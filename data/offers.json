@@ -381,16 +381,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans le cadre de notre développement et la structuration de notre activité à l’international, nous souhaitons recruter un VIE Comptable International au sein d’un share service center pour le groupe basé à Barcelone et en charge de la tenue comptable de plusieurs filiales dans le cadre du passage à un nouvel outil comptable.\r\n\r\nMission à pourvoir asap.\r\nLocalisation : Barcelone\r\n\r\nVos missions : Réviser la saisie comptable pour plusieurs filiales du groupe dans le cadre de l’implémentation d’un nouveau logiciel et de la réinternalisation de la fonction comptable au sein d’un service partagé basé à Barcelone.\r\n\r\nLes missions principales dans ce cadre seront :\r\n- Révision de la saisie des écritures comptables pour les sociétés du groupe assignées, en respect des normes comptables applicables dans chaque pays.\r\n- Vérification des notes de frais,\r\n- Révision des rapprochements bancaires,\r\n- Préparation des fichiers de paiements fournisseur,\r\n- Révisions des comptes clients et fournisseurs, du lettrage et des autres comptes de bilan,\r\n- Clôtures comptables mensuelles : révision des comptes de bilan et compte de résultat et préparation des écritures de clôtures mensuelles (FNP, CCA, WIP ..)\r\n- Préparation des données nécessaires aux déclarations fiscales afin de les transmettre pour validation.\r\n- Préparation des fichiers de liasses sociales pour la consolidation groupe.\r\n\r\nListe non exhaustive, les missions peuvent évoluer au cours de la période.\r\n\r\n\r\nLes Avantages\r\n- Entreprise dynamique, petite structure très horizontale malgré plus de 600 employés pour la filiale espagnole. Et une dynamique de croissance et de coopération avec le groupe et les autres filiales.\r\n- Ambiance de travail très agréable où il est facile de s’intégrer et de rapidement apporter (entreprise élue « great place to work »).\r\n\r\n- Groupe français et présent à l’international sur 3 continents avec de nombreuses nationalités représentées.\r\n- Interactions multiples avec au moins 2 filiales différentes.",
     "creationDate": "2026-09-15T11:53:29Z",
     "missionStartDate": "2026-12-01T00:00:00",
