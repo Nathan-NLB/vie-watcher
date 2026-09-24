@@ -1942,16 +1942,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le groupe BK CONSULTING est une ESN de 800 personnes active dans les secteurs de la finance et de l’industrie en France, en Belgique et au Grand-Duché du Luxembourg. Notre proposition de valeur réside dans notre double compétence informatique et financière qui nous positionne comme un partenaire privilégié chez nos clients. Dans le cadre du développement de nos activités en Belgique et au Grand-Duché du Luxembourg, nous recherchons un/des Business Consultant en VIE.\r\n\r\nMissions Proposées :\r\nParticiper à des analyse de processus métiers.\r\nSpécifier les attentes des utilisateurs à destination de l'informatique.\r\nGestion et suivi de processus back office et middle office (AML/KYC). Analyse de dossiers clients corporate et particuliers.\r\nIdentification des projets et des besoins de vos clients.\r\n\r\nNotre offre, un management et une équipe qui supportent votre dynamique. Un acteur bien implanté et reconnu sur ses marchés. Des outils de travail adaptés. Des perspectives d’évolution significatives au sein du groupe.",
     "creationDate": "2026-09-21T13:32:04Z",
     "missionStartDate": "2026-12-01T00:00:00",
