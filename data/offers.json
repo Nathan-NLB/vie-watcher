@@ -31,23 +31,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "109",
-      "324"
+      "[\"109\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The M&A & Integration Specialist – Transactions & Food Manufacturing role is designed for candidates with hands-on transaction experience (investment banking, transaction services, private equity, or corporate development) who are eager to apply their deal skills in a Corporate M&A environment incorporating all aspects of the transaction, Legal, Tax, finance, operation, quality etc….\nYou will be part of the M&A & Transformation team, reporting directly to the Head of M&A for the Americas, and working closely with North American leadership and Group functions including Operations, R&D, Finance, Procurement, and Commercial teams.\nWhile this role involves full participation in the M&A lifecycle, it is distinct from a traditional finance-only role. A significant portion of your impact will come from understanding manufacturing environments and supporting the integration and performance improvement of acquired food businesses, including time spent on-site.\n\nKey Responsibilities\nM&A Transactions \nYou will actively contribute to and execute M&A transactions across the food ingredients and food manufacturing space:\n•\tSupport end-to-end M&A processes, including:\no\tFinancial analysis and valuation\no\tBusiness plan and synergy assessment\no\tIdentification of key risks during due diligence\n•\tParticipate in and coordinate due diligence processes (financial, operational, commercial)\n•\tWork closely with external advisors (investment banks, transaction services, legal, tax)\n•\tPrepare investment memoranda and presentations for Executive Management and Investment Committees\n•\tSupport negotiation of key transaction documents\n\nPost-Merger Integration & Operational Value Creation\nFollowing acquisitions, you will play a key role in post-merger integration and value creation, working closely with operational teams:\n•\tContribute to the preparation of detailed integration plans\n•\tSupport execution of integration initiatives across:\no\tManufacturing performance and cost structures\no\tProcurement and sourcing synergies\no\tMargin, and profitability improvement\no\tR&D and product portfolio alignment\n•\tAnalyze operational and financial data to identify performance levers\n•\tTrack integration progress and report key issues to senior management\n•\tParticipate in short- to mid-term on-site assignments at acquired companies\n\nCross-Functional & Strategic Projects\nAs part of the M&A & Transformation team, you will also contribute to broader initiatives such as:\n•\tStrategic analysis \n•\tOperational performance improvement projects\n•\tCost optimization and procurement synergy initiatives\n•\tManufacturing footprint and capacity analysis\n•\tGroup-wide best practice implementation",
     "creationDate": "2026-04-10T11:36:07Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -214,6 +200,69 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "9s1zqoh2nq",
     "contactURL": "",
+    "dateCandidature": null
+  },
+  {
+    "id": 246329,
+    "organizationName": "CA INDOSUEZ",
+    "missionTitle": "VIE Private Market Analyst (H/F)",
+    "missionDuration": 12,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "La banque Indosuez Wealth Management, établissement financier de 400 collaborateurs, spécialisée dans la gestion de fortune et gérant plus de 30 milliards d’actifs.",
+    "organizationUrlImage": "https://france.ca-indosuez.com/var/indosuez/storage/images/_aliases/site_logo/7/8/2/0/287-65-fre-FR/f0e89985fd96-ca-indo_logo.png",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "0",
+    "effectifInd": "0",
+    "effectifConso": "500",
+    "organizationCountryCounter": "14",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "GENEVE",
+    "cityNameEn": "GENEVE",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"259\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "CA Indosuez (Switzerland) SA, as an affiliate of Indosuez Wealth Management (~EUR 233 billion of AUM as of 31/12/2025), is one of the leading banking institutions in Switzerland. In addition to its wealth management activities in Switzerland, Middle East and Asia, the Bank is also active in capital markets, trade and commodity finance, asset management and commercial banking. Based in Switzerland since 140 years, CA Indosuez (Switzerland) SA has c.1’000 employees spread across different verticals and expertise including commercial, products and services as well as support and control functions. Its teams and different expertise benefit from the unique network of the broader Indosuez Wealth Management network as well as CACIB, its investment bank, and more generally from Crédit Agricole Group.\n\n \n\nThe Platform\n\n \n\nWith c. €12 billion of assets under management, CA Indosuez is a major private markets’ investor through its Tiera Capital Funds investing mostly across Europe, North America and Asia. Its dedicated investment team makes 40 to 50 investments every year with a mix of (i) primary commitments, (ii) secondary transactions (lead or co-invests) and (iii) direct co-investments in companies. The Private Market platform of CA Indosuez covers a large scope of strategies including buyout, growth capital, credit, infrastructure, and secondary.\n\n \n\nYour role\n\n \n\nParticipating in due-diligence processes for new private equity investments (primary, secondary and co-invests);\nDefending investment recommendations to the Investment Committee;\nEnsuring monitoring and reporting of the existing investments in portfolio;\nParticipating to investment execution and structuring alongside internal and external counsels;\nManaging deal-flow and digital monitoring tools related to investments;\n \n\nThe Private Equity Analyst will report to a senior professional of the investment team and work in collaboration with a dedicated team of investment managers and analysts mostly based in Geneva.",
+    "creationDate": "2026-09-23T15:45:20Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-09-24T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-10-24T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "You own a preliminary experience investing in private equity industry either direct or indirect with proven experience in the private equity landscape ;\nHaving an experience of direct co-investments and/or secondary transaction is an asset ;\nYou have proven capabilities of team-working, multi-tasking, organization skills, proactivity, flexibility and resistance to pressure ;\nYou also have abilities to challenge opinions and summarize your views and conclusions.",
+    "countryId": "CH",
+    "countryName": "SUISSE",
+    "countryNameEn": "SWITZERLAND",
+    "reference": "VIE246329",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Monsieur Edouard ALEX",
+    "indemnite": 4172.27,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "edouard.alex@ca-indosuez.ch",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "https://www.groupecreditagricole.jobs/fr/nos-offres-emploi/2026-115570/?idOrigine=503",
     "dateCandidature": null
   },
   {
@@ -1396,51 +1445,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:35:16Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -2593,37 +2600,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "259",
-      "318",
-      "320"
+      "[\"180\",\"259\",\"318\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n\r\nWe invite you to join us as a VIE in our Custody Services Department.\r\n\r\nThe candidate will be in the position to: \r\n•\tProcess receipt of Income payments within agreed service standards.\r\n•\tFull adherence to the team’s control functions, including operations/events and end-of-the-day checklists.\r\n•\tAssist with the day-to-day administrative tasks of investigation/amendment and clearance of reconciling items in ensuring accurate processing.\r\n•\tEnsure that queries raised/assigned to individuals are answered within agreed service standards.\r\n•\tEnsure on-going productivity by providing back-up relief for staff who are absent or on leave.\r\n•\tContinually ensure complete awareness of Client, external custodians and inter-departmental Service Level Standards / Agreements and ensure compliance at all times.\r\n•\tEnsure prompt escalation of operational issues that may cause financial or reputational issues to CACEIS or its clients to Senior Officer/Assistant Manager/Manager of the team/department. \r\n•\tEstablish working relationships with people at all levels both inter departmental and across the wider firm.\r\n•\tProvide feedback on agent network and vendor performance on any deviations from their service level agreement with CACEIS.\r\n•\tAble to demonstrate capability to perform validation on common task.\r\n\r\nGood Reasons to Join Us \r\n1.\tJoin an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2.\tDevelop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3.\tExpand your professional horizons with numerous mobility opportunities within the group. \r\n4.\tThrive in a company that respects its employees and clients.  \r\n5.\tTake advantage of ongoing training to enhance your skills and boost your employability. \r\n6.\tOpportunity to work in a multicultural environment and engage with a diverse team.",
     "creationDate": "2026-09-17T09:25:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
