@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/09/2026 12:47:13**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **24/09/2026 13:05:13**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -181,6 +181,54 @@ You own a preliminary experience investing in private equity industry either dir
 Having an experience of direct co-investments and/or secondary transaction is an asset ;
 You have proven capabilities of team-working, multi-tasking, organization skills, proactivity, flexibility and resistance to pressure ;
 You also have abilities to challenge opinions and summarize your views and conclusions.
+
+</details>
+
+<details>
+<summary><strong>Financial Accountant (H/F)</strong> · AMARIS FRANCE SAS · LISBONNE, PORTUGAL · 2 677,43 €/mois</summary>
+
+- **Entreprise :** AMARIS FRANCE SAS
+- **Lieu :** LISBONNE, PORTUGAL
+- **Indemnité :** 2 677,43 €/mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
+- **Publiée le :** 24/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245675](https://mon-vie-via.businessfrance.fr/offres/245675)
+
+**Description du poste**
+
+Join our finance team and contribute to Mantu's financial integrity by overseeing key accounting processes and supporting the team’s operations while evolving professionally in a dynamic financial ecosystem.
+
+The opportunity:
+
+You will join a small, close-knit finance team where collaboration and constant exchange are at the heart of how we work, in a modern, agile, and family-like environment.
+
+You will not only contribute to Rise's accounting operations, but also help transform the profession through the use of artificial intelligence.
+
+This position is based in Lisbon, in our offices located in the city center.
+
+Your Missions : 
+
+As a Financial Accountant, you will participate in :
+
+•Handling the general accounting for a group of companies across multiple countries, ensuring accuracy and reliability of financial data.
+•Preparing annual financial statements and tax filings (VAT, corporate income tax, etc.) and contributing to the creation of a tax deadline schedule by country.
+•Assisting in the preparation of internal and external audits and providing support during year-end closing.
+•Administering the monthly, quarterly, and annual closings of the entities under your scope, while proactively overseeing risks.
+•Using and optimizing the Odoo ERP system to automate and streamline accounting processes.
+•Producing regular financial reports.
+•Monitoring regulatory developments to ensure compliance with accounting and tax standards in the various countries where the group operates.
+
+**Profil recherché**
+
+Your profile :
+
+•You hold a DCG diploma, ideally supplemented by a DSCG.
+•You have at least 2 years of experience in accounting (experience in a firm or company).
+•You are autonomous and capable of monitoring multiple files simultaneously, while respecting deadlines.
+•You are proficient in accounting overseeing software, with knowledge of Odoo being a strong asset.
+•You have solid technical skills in general and analytical accounting; experience in account analysis and review is a plus.
+•A good understanding of French corporate taxation.
+•You demonstrate great rigor, organization, and attention to detail. You have the ability to work in an evolving environment – start-up atmosphere.
 
 </details>
 
