@@ -4679,16 +4679,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We're looking for an FP&A Analyst to join the finance team of a growing SaaS scale-up. Reporting to the Head of Financial Planning and Analysis and working closely with the CFO, you'll get hands-on exposure to the financial operations of a company moving into its next stage of growth. You'll work alongside senior leadership on real finance projects, building the skills to see how financial planning, reporting, and analysis directly shape decision-making in a business that's scaling fast. This role is based in the Boston area, and is hybrid to work directly with the CEO and CFO, who are both based there.\nWhat Your Impact Looks Like\nAt Shift, we value ownership from day one. In this role, you will:\n•\tSupport the CFO and Head of FP&A on financial analysis, reporting, and ad hoc projects that directly inform business decisions.\n•\tMaintain and improve financial models, dashboards, and internal reports, keeping leadership's view of the business accurate and current.\n•\tOrganize, clean, and analyze large or imperfect datasets in Excel and Google Sheets, using formulas, pivot tables, and lookups to turn raw numbers into usable insight.\n•\tExplore how AI tools can complement traditional analysis, testing new approaches to sharpen and speed up financial reporting.\n•\tAssist with core FP&A and accounting tasks as needs arise across the finance function.\n•\tPrepare clear, executive-ready presentations and reports in Google Slides and Google Docs.\n•\tContribute to process improvements across finance, accounting, and operations, simplifying recurring workflows where you spot the opportunity.\n•\tConduct research and benchmarking to support strategic and operational decisions.",
     "creationDate": "2026-09-04T01:27:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
