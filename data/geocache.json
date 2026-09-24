@@ -298,5 +298,10 @@
   },
   "entreprise|ca indosuez|geneve|suisse": null,
   "entreprise|sanofi winthrop industrie|sao paulo|bresil": null,
-  "entreprise|amaris france sas|lisbonne|portugal": null
+  "entreprise|amaris france sas|lisbonne|portugal": null,
+  "entreprise|ponticelli freres|luanda|angola": null,
+  "ville|luanda|angola": {
+    "lat": -8.8272699,
+    "lon": 13.2439512
+  }
 }

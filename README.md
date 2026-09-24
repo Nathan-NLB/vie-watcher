@@ -8,11 +8,40 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/09/2026 17:30:17**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **24/09/2026 17:48:42**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>PROJECT ENGINEER - COST ESTIMATOR HF (H/F)</strong> · PONTICELLI FRERES · LUANDA, ANGOLA · 4 255,73 €/mois</summary>
+
+- **Entreprise :** PONTICELLI FRERES
+- **Lieu :** LUANDA, ANGOLA
+- **Indemnité :** 4 255,73 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 24/09/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, son expérience significative en finance d'entreprise et son excellent niveau d'anglais. Seul un léger décalage existe avec sa préférence géographique initiale pour l'Espagne, l'offre étant basée en Angola.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/223079](https://mon-vie-via.businessfrance.fr/offres/223079)
+
+**Description du poste**
+
+Présentation de la société :
+
+Ponticelli Frères, groupe industriel présent à l'international au service des entreprises du secteur de l'energie.
+ recherche dans le cadre d'un VIE, un contrôleur de gestion dont la mission est d’aider au pilotage des projets de la Filiale. Il analyse les performances économiques et financières. Il est en charge de faire des rapports à sa hiérarchie en lui préconisant des actions correctives à réaliser en vue d’optimiser la rentabilité. Il établit également les procédures de gestion.
+
+**Profil recherché**
+
+o	BAC +5 avec une spécialisation en contrôle de gestion, comptabilité/audit ;
+o	Expérience d’au moins une année dans une fonction de contrôle de gestion ;
+o	Capacité à communiquer en Anglais ;
+o	Maitrise du Pack office ;
+o	Personne autonome et réactive ;
+o	Personne rigoureuse, organisé et dynamique.
+
+</details>
 
 <details>
 <summary><strong>Supply Chain Specialist (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · SAO PAULO, BRESIL · 2 689,62 €/mois</summary>
