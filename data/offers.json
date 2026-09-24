@@ -1452,16 +1452,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tMaintain and further develop our credit risk measurement methodologies\n•\tProvide timely and quality-assured risk metrics and other management indicators for Credit Risk Management, the Management Board, and other bank committees\n•\tFurther develop methodologies within the ICAAP and stress testing framework in accordance with MaRisk requirements\n•\tSupport the development, implementation, and validation of models\n•\tContribute to cross-risk-type topics and projects",
     "creationDate": "2026-09-21T14:28:47Z",
     "missionStartDate": "2027-01-01T00:00:00",
