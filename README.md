@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/09/2026 10:05:34**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **24/09/2026 10:31:08**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -139,48 +139,74 @@ To facilitate the examination of your application by our English-speaking manage
 </details>
 
 <details>
-<summary><strong>VIE Private Market Analyst (H/F)</strong> · CA INDOSUEZ · GENEVE, SUISSE · 4 172,27 €/mois</summary>
+<summary><strong>INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F)</strong> · FORTIL GROUP · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
 
-- **Entreprise :** CA INDOSUEZ
-- **Lieu :** GENEVE, SUISSE
-- **Indemnité :** 4 172,27 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Entreprise :** FORTIL GROUP
+- **Lieu :** LIEGE, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 24/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246329](https://mon-vie-via.businessfrance.fr/offres/246329)
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245507](https://mon-vie-via.businessfrance.fr/offres/245507)
 
 **Description du poste**
 
-CA Indosuez (Switzerland) SA, as an affiliate of Indosuez Wealth Management (~EUR 233 billion of AUM as of 31/12/2025), is one of the leading banking institutions in Switzerland. In addition to its wealth management activities in Switzerland, Middle East and Asia, the Bank is also active in capital markets, trade and commodity finance, asset management and commercial banking. Based in Switzerland since 140 years, CA Indosuez (Switzerland) SA has c.1’000 employees spread across different verticals and expertise including commercial, products and services as well as support and control functions. Its teams and different expertise benefit from the unique network of the broader Indosuez Wealth Management network as well as CACIB, its investment bank, and more generally from Crédit Agricole Group.
-
+Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels 
  
+fortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires
 
-The Platform
 
- 
+Votre environnement technique
 
-With c. €12 billion of assets under management, CA Indosuez is a major private markets’ investor through its Tiera Capital Funds investing mostly across Europe, North America and Asia. Its dedicated investment team makes 40 to 50 investments every year with a mix of (i) primary commitments, (ii) secondary transactions (lead or co-invests) and (iii) direct co-investments in companies. The Private Market platform of CA Indosuez covers a large scope of strategies including buyout, growth capital, credit, infrastructure, and secondary.
+Nos ingénieur(e)s Systèmes Embarqués pilotent en partie les activités de « Digital Transformation ». Nous prenons actuellement en main des sujets d envergure dans les domaines de la défense, du maritime, des transports, de l'industrie, de l'énergétique, ou encore des maisons intelligentes.
 
- 
+Nos interventions s articulent autour de problématiques techniques liées aux dimensions :
+- Software Development
+- Embedded/Iot
+- Devops/integration
+- Infrastructure / infogerance
+- Data & Artificial intelligence
+- Digitalisation
 
-Your role
+Vos responsabilités métier
 
- 
+Pour accompagner l'équipe, vous êtes capable de prendre le lead sur tout ou partie dans un environnement embarqué des responsabilités métiers suivantes :
 
-Participating in due-diligence processes for new private equity investments (primary, secondary and co-invests);
-Defending investment recommendations to the Investment Committee;
-Ensuring monitoring and reporting of the existing investments in portfolio;
-Participating to investment execution and structuring alongside internal and external counsels;
-Managing deal-flow and digital monitoring tools related to investments;
- 
+Description
+· Définir le besoin et rédiger le cahier des charges avec le client
+· Définir les spécifications techniques
+· Etablir l architecture logicielle
+· Développer de nouvelles fonctionnalités en C/C++ sur microcontrôleur ou Linux embarqué
+· Reprendre du code existant et le mettre à jour
+· Réaliser l intégration des briques logicielles
+· Tester et valider la solution
+· Etre support technique, analyser et corriger les défauts
 
-The Private Equity Analyst will report to a senior professional of the investment team and work in collaboration with a dedicated team of investment managers and analysts mostly based in Geneva.
+Vous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.
+
+
+Vos atouts pour réussir
+
+· Vous avez de l expérience en développement (bas niveau ou applicatif) mais aussi en intégration
+· Vous maîtrisez les langages C/C++
+· Vous êtes sensibilisé(e) aux différents environnements suivants : Linux embarqué, Bare Metal, et OS temps réel
+· Vous avez déjà utilisé des microcontrôleurs pour l embarqué (PowerPC, ARM Cortex M4, M7, A9 )
+· Vous maîtrisez les outils de versioning Git/SVN
+· Idéalement, vous travaillez au quotidien avec la méthode Agile notamment avec Jira ou Azure DevOps
+· Vous êtes habitué(e) à utiliser des outils de suivi de bug
+· Vous savez vous servir d appareils de mesures tels que les oscilloscopes, les multimètres et les analyseurs de spectres
+· Vous êtes familier(ère) avec des protocoles de communication standards
+· Vous êtes capable de lire un schéma électronique
+· Vous maîtrisez l anglais technique
 
 **Profil recherché**
 
-You own a preliminary experience investing in private equity industry either direct or indirect with proven experience in the private equity landscape ;
-Having an experience of direct co-investments and/or secondary transaction is an asset ;
-You have proven capabilities of team-working, multi-tasking, organization skills, proactivity, flexibility and resistance to pressure ;
-You also have abilities to challenge opinions and summarize your views and conclusions.
+Vous êtes diplômé(e) d une formation Bac+5 en informatique ou électronique et justifiez d'une première expérience sur un poste similaire.
+
+Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
+
+Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.
+
+Ce poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.
 
 </details>
 
@@ -4123,78 +4149,6 @@ Your profile:
 •	You have a good human contact and a critical mindset, you are autonomous, rigorous, figures oriented, dynamic, with a very good synthesis spirit.
 •	You are looking for a challenging, demanding but rewarding position
 •	You have some financial knowledge (ie. P&L…).
-
-</details>
-
-<details>
-<summary><strong>INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F)</strong> · FORTIL GROUP · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** FORTIL GROUP
-- **Lieu :** LIEGE, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 31/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245507](https://mon-vie-via.businessfrance.fr/offres/245507)
-
-**Description du poste**
-
-Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels 
- 
-fortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires
-
-
-Votre environnement technique
-
-Nos ingénieur(e)s Systèmes Embarqués pilotent en partie les activités de « Digital Transformation ». Nous prenons actuellement en main des sujets d envergure dans les domaines de la défense, du maritime, des transports, de l'industrie, de l'énergétique, ou encore des maisons intelligentes.
-
-Nos interventions s articulent autour de problématiques techniques liées aux dimensions :
-- Software Development
-- Embedded/Iot
-- Devops/integration
-- Infrastructure / infogerance
-- Data & Artificial intelligence
-- Digitalisation
-
-Vos responsabilités métier
-
-Pour accompagner l'équipe, vous êtes capable de prendre le lead sur tout ou partie dans un environnement embarqué des responsabilités métiers suivantes :
-
-Description
-· Définir le besoin et rédiger le cahier des charges avec le client
-· Définir les spécifications techniques
-· Etablir l architecture logicielle
-· Développer de nouvelles fonctionnalités en C/C++ sur microcontrôleur ou Linux embarqué
-· Reprendre du code existant et le mettre à jour
-· Réaliser l intégration des briques logicielles
-· Tester et valider la solution
-· Etre support technique, analyser et corriger les défauts
-
-Vous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.
-
-
-Vos atouts pour réussir
-
-· Vous avez de l expérience en développement (bas niveau ou applicatif) mais aussi en intégration
-· Vous maîtrisez les langages C/C++
-· Vous êtes sensibilisé(e) aux différents environnements suivants : Linux embarqué, Bare Metal, et OS temps réel
-· Vous avez déjà utilisé des microcontrôleurs pour l embarqué (PowerPC, ARM Cortex M4, M7, A9 )
-· Vous maîtrisez les outils de versioning Git/SVN
-· Idéalement, vous travaillez au quotidien avec la méthode Agile notamment avec Jira ou Azure DevOps
-· Vous êtes habitué(e) à utiliser des outils de suivi de bug
-· Vous savez vous servir d appareils de mesures tels que les oscilloscopes, les multimètres et les analyseurs de spectres
-· Vous êtes familier(ère) avec des protocoles de communication standards
-· Vous êtes capable de lire un schéma électronique
-· Vous maîtrisez l anglais technique
-
-**Profil recherché**
-
-Vous êtes diplômé(e) d une formation Bac+5 en informatique ou électronique et justifiez d'une première expérience sur un poste similaire.
-
-Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
-
-Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.
-
-Ce poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.
 
 </details>
 

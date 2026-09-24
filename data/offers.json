@@ -266,16 +266,16 @@
     "dateCandidature": null
   },
   {
-    "id": 246329,
-    "organizationName": "CA INDOSUEZ",
-    "missionTitle": "VIE Private Market Analyst (H/F)",
+    "id": 245507,
+    "organizationName": "FORTIL GROUP",
+    "missionTitle": "INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F)",
     "missionDuration": 12,
     "viewCounter": 0,
     "candidateCounter": 0,
     "missionType": "VIE",
     "missionTypeEn": "VIE",
-    "organizationPresentation": "La banque Indosuez Wealth Management, établissement financier de 400 collaborateurs, spécialisée dans la gestion de fortune et gérant plus de 30 milliards d’actifs.",
-    "organizationUrlImage": "https://france.ca-indosuez.com/var/indosuez/storage/images/_aliases/site_logo/7/8/2/0/287-65-fre-FR/f0e89985fd96-ca-indo_logo.png",
+    "organizationPresentation": "Fortil, groupe d'ingénierie et de conseil en technologie, Fortil est un modèle pensé par des ingénieurs entrepreneurs. Collaborer avec Fortil, c’est travailler avec une communauté ambitieuse et experte, animée par l'exactitude, le challenge et l'émulation.  Nous sommes aujourd'hui plus de 2 400 collaborateurs à œuvrer chaque jour pour faire de Fortil le plus grand acteur de l'ingénierie indépendant d'Europe.  Nous avons pour ambition de contribuer à la construction d’un monde plus responsable, plus collectif, plus inclusif pour nos collaborateurs et nos clients.",
+    "organizationUrlImage": "",
     "organizationImage": null,
     "organizationPathImage": null,
     "pathImage": null,
@@ -286,46 +286,46 @@
     "activitySectorN1Id": 0,
     "ca": null,
     "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "0",
-    "effectifConso": "500",
-    "organizationCountryCounter": "14",
+    "effectifFiscal": "50",
+    "effectifInd": "20",
+    "effectifConso": "0",
+    "organizationCountryCounter": "15",
     "organizationExpertise": null,
     "cityAffectationId": 0,
-    "cityName": "GENEVE",
-    "cityNameEn": "GENEVE",
+    "cityName": "LIEGE",
+    "cityNameEn": "LIEGE",
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"259\"]"
+      "[\"2\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"71\",\"73\",\"110\",\"112\",\"114\",\"133\",\"143\",\"144\",\"145\",\"149\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"205\",\"206\",\"207\",\"208\",\"213\",\"244\",\"245\",\"246\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"345\",\"355\",\"358\"]"
     ],
     "specializations": null,
-    "missionDescription": "CA Indosuez (Switzerland) SA, as an affiliate of Indosuez Wealth Management (~EUR 233 billion of AUM as of 31/12/2025), is one of the leading banking institutions in Switzerland. In addition to its wealth management activities in Switzerland, Middle East and Asia, the Bank is also active in capital markets, trade and commodity finance, asset management and commercial banking. Based in Switzerland since 140 years, CA Indosuez (Switzerland) SA has c.1’000 employees spread across different verticals and expertise including commercial, products and services as well as support and control functions. Its teams and different expertise benefit from the unique network of the broader Indosuez Wealth Management network as well as CACIB, its investment bank, and more generally from Crédit Agricole Group.\n\n \n\nThe Platform\n\n \n\nWith c. €12 billion of assets under management, CA Indosuez is a major private markets’ investor through its Tiera Capital Funds investing mostly across Europe, North America and Asia. Its dedicated investment team makes 40 to 50 investments every year with a mix of (i) primary commitments, (ii) secondary transactions (lead or co-invests) and (iii) direct co-investments in companies. The Private Market platform of CA Indosuez covers a large scope of strategies including buyout, growth capital, credit, infrastructure, and secondary.\n\n \n\nYour role\n\n \n\nParticipating in due-diligence processes for new private equity investments (primary, secondary and co-invests);\nDefending investment recommendations to the Investment Committee;\nEnsuring monitoring and reporting of the existing investments in portfolio;\nParticipating to investment execution and structuring alongside internal and external counsels;\nManaging deal-flow and digital monitoring tools related to investments;\n \n\nThe Private Equity Analyst will report to a senior professional of the investment team and work in collaboration with a dedicated team of investment managers and analysts mostly based in Geneva.",
-    "creationDate": "2026-09-23T15:45:20Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
+    "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique\n\nNos ingénieur(e)s Systèmes Embarqués pilotent en partie les activités de « Digital Transformation ». Nous prenons actuellement en main des sujets d envergure dans les domaines de la défense, du maritime, des transports, de l'industrie, de l'énergétique, ou encore des maisons intelligentes.\n\nNos interventions s articulent autour de problématiques techniques liées aux dimensions :\n- Software Development\n- Embedded/Iot\n- Devops/integration\n- Infrastructure / infogerance\n- Data & Artificial intelligence\n- Digitalisation\n\nVos responsabilités métier\n\nPour accompagner l'équipe, vous êtes capable de prendre le lead sur tout ou partie dans un environnement embarqué des responsabilités métiers suivantes :\n\nDescription\n· Définir le besoin et rédiger le cahier des charges avec le client\n· Définir les spécifications techniques\n· Etablir l architecture logicielle\n· Développer de nouvelles fonctionnalités en C/C++ sur microcontrôleur ou Linux embarqué\n· Reprendre du code existant et le mettre à jour\n· Réaliser l intégration des briques logicielles\n· Tester et valider la solution\n· Etre support technique, analyser et corriger les défauts\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.\n\n\nVos atouts pour réussir\n\n· Vous avez de l expérience en développement (bas niveau ou applicatif) mais aussi en intégration\n· Vous maîtrisez les langages C/C++\n· Vous êtes sensibilisé(e) aux différents environnements suivants : Linux embarqué, Bare Metal, et OS temps réel\n· Vous avez déjà utilisé des microcontrôleurs pour l embarqué (PowerPC, ARM Cortex M4, M7, A9 )\n· Vous maîtrisez les outils de versioning Git/SVN\n· Idéalement, vous travaillez au quotidien avec la méthode Agile notamment avec Jira ou Azure DevOps\n· Vous êtes habitué(e) à utiliser des outils de suivi de bug\n· Vous savez vous servir d appareils de mesures tels que les oscilloscopes, les multimètres et les analyseurs de spectres\n· Vous êtes familier(ère) avec des protocoles de communication standards\n· Vous êtes capable de lire un schéma électronique\n· Vous maîtrisez l anglais technique",
+    "creationDate": "2026-08-31T08:20:36Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
     "startBroadcastDate": "2026-09-24T00:00:00",
     "durationBroadcast": 30,
     "endBroadcastDate": "2026-10-24T00:00:00",
     "organizationId": 0,
-    "missionProfile": "You own a preliminary experience investing in private equity industry either direct or indirect with proven experience in the private equity landscape ;\nHaving an experience of direct co-investments and/or secondary transaction is an asset ;\nYou have proven capabilities of team-working, multi-tasking, organization skills, proactivity, flexibility and resistance to pressure ;\nYou also have abilities to challenge opinions and summarize your views and conclusions.",
-    "countryId": "CH",
-    "countryName": "SUISSE",
-    "countryNameEn": "SWITZERLAND",
-    "reference": "VIE246329",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Monsieur Edouard ALEX",
-    "indemnite": 4172.27,
+    "missionProfile": "Vous êtes diplômé(e) d une formation Bac+5 en informatique ou électronique et justifiez d'une première expérience sur un poste similaire.\n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.\n\nCe poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.",
+    "countryId": "BE",
+    "countryName": "BELGIQUE",
+    "countryNameEn": "BELGIUM",
+    "reference": "VIE245507",
+    "contactFirstName": "Jehanne",
+    "contactLastName": "Ravel",
+    "contactCivility": "Madame",
+    "contactName": "Madame Jehanne RAVEL",
+    "indemnite": 2978.53,
     "teleworkingAvailable": false,
     "socialReach": false,
     "idMotifDesactivationOffre": 0,
-    "contactEmail": "edouard.alex@ca-indosuez.ch",
-    "cityAffectation": "",
+    "contactEmail": "jehanne.ravel@fortil.group",
+    "cityAffectation": "LIEGE",
     "idNomenclatureSecteur": null,
     "externalJobId": "",
-    "contactURL": "https://www.groupecreditagricole.jobs/fr/nos-offres-emploi/2026-115570/?idOrigine=503",
+    "contactURL": "",
     "dateCandidature": null
   },
   {
@@ -423,16 +423,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The V.I.E. will have the following responsibilities:\nThe Americas Financial Analyst routinely interacts with the Americas Regional Group President and \nBusiness Directors and Managers, Supply Chain Manager, Business Development, Supply Chain and \nCustomer Service functions, Operations Accounting, the regional reporting and consolidation group of \nArkema Inc., and the Finance Teams in other regions. This role also interacts regularly with the Molecular \nSieves and Surfactants US teams. The Americas region consists of four (4) entities and five (4) \nmanufacturing facilities (located in US, Mexico and Brazil), as well as 1 capacity reservation and significant \nimported products from Molecular Sieves and Surfactants Business. \nOverall, this position aligns with the BU and Americas Finance Manager to prepare and deliver detail files, \nfinancial reporting, analysis and support of all profit centers (4 in Functional Additives, 4 in Surfactants \nresale and 2 in Molecular Sieves resale). This role also helps coordinates to consolidate the BU’s Americas \nresults and prepare the monthly earnings package, as well as ensures the monthly operating results are \ncommunicated in a timely and accurate manner to business management. Additional responsibilities \ninclude working with the Americas Finance Manager on the annual budget process, business \nreview/planning, some financial modeling, ad-hoc reporting, special process improvement and SAP testing \nprojects, as well as preparation of financial information in support of business requests.\nMonthly Reporting and Analysis - Actual vs Forecast 30% - Work with Americas Finance Manager to \nconsolidate the BU’s Americas results and prepare the monthly earnings package, as well as collaboration \nin maintaining systems used to prepare the monthly “Flash” estimate of earnings on the 1st Work Day; \nMaintain the Analytical Income Statement (AIS) reporting files and update them with forecast and actual \ninformation, as well as prior year and budget information to allow for proper analysis of results; Utilize AIS \nexcel reporting file information to compile Income Statements for each business; Works with Americas \nFinance Manager to compile information from AIS and other Excel files to help prepare PowerPoint \nMonthly Reporting Packaging for review at the Monthly S&OP Business Review;Prepares monthly structural \ncost reporting\nMonthly Forecast and Management Business Review (MBR) Meeting Preparation 25% - Prepare the \nArkema Inc. 3 month forecast of operational results, working with business management, sales, marketing, \nlogistics, purchasing, accounting and manufacturing to identify significant trends; Consolidate the regional \nforecast with additional data from Canada, Mexico and Brazil; Work with Americas Finance Manager during \nthe annual business review process for FA Americas by helping to maintain the regional BU budget models \nto reflect the business global plan; May assist, as requested, the Americas Finance Manager in preparation \nof business model presentations for Management Business Review meetings.\nAnnual Budget and Planning 25% - Work with Americas Finance Manager to facilitate the annual budget \nprocess for Arkema Inc. Maintain the regional BU budget model; Review budget data and confirm data \nalignment with SAP/BW and analytics – provide confirmation or discrepancy information with comments \nto Americas Finance Manager for review; Assist with the preparation of the budget review presentation \nand ensuring the budget process is tracked, monitored and maintained year round; Work with Americas \nFinance Manager to prepare detail files specific to volume, sales and margin, and structural costs; Provide \ndetailed analysis that will be reviewed by Americas Finance Manager and provided to the Global Finance \nDirector.\nFinancial Analysis and Special Projects 20% - Ad hoc analysis/reporting as requested; SAP/BW testing of \nreports for process improvements, developing financial processes and reports to support business \nprocesses; Work on emerging issues and financial information for crisis response, including ad-hoc \nreporting, as necessary; Serves as backup to Americas Finance Manager for other budgeting, analysis and \nclosing activities as required; Assists Americas Finance Manager with review and update of transfer pricing \nas necessary; Assists Americas Finance Manager with review and update of transfer pricing as necessary.",
     "creationDate": "2026-09-22T15:16:10Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1263,16 +1256,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le contrôleur de gestion a pour mission le suivi et reporting des performances comptables et financières des projets en-cours, d'informer des déviations budgétaires et de préparer et améliorer les reportings et tableaux de bord.\r\n\r\nCost control & Reporting :\r\n- Suivi mensuel des coûts des projets, analyse des variations et animation de réunions mensuelles avec l'équipe projet pour présenter les résultats, discuter des déviations et mettre en place conjointement des actions correctives.\r\n- Controler et suivre le chiffre d'affaires et l'engagement des dépenses par projets\r\n- Mensuellement, répartir les dépenses communes par projets\r\n- Participer aux processus budgétaires, prévisions et analyse des écarts.\r\n\r\nComptabilité/Reporting :\r\n- Préparer le reporting financier mensuel et remonter les résultats dans les outils groupe selon le calendrier Colas Rail\r\n- ‎Verifier l'imputation des depenses\r\n\r\nDivers:\r\n- Support a la direction pays, métier et préparation d'analyses selon les besoins\r\n- Support aux autres fonctions support\r\n- Amélioration de l'outil de cost control en se basant sur les outils proposés par le groupe",
     "creationDate": "2026-09-22T13:23:03Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1403,51 +1389,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:43:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -4000,72 +3944,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "7",
-      "8",
-      "21",
-      "22",
-      "109",
-      "119",
-      "219",
-      "372"
+      "[\"6\",\"7\",\"8\",\"21\",\"22\",\"109\",\"119\",\"219\",\"372\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "22",
-        "specializationParentId": "216",
-        "specializationLabel": "Marketing",
-        "specializationLabelEn": "Marketing"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "119",
-        "specializationParentId": "89",
-        "specializationLabel": "Hôtellerie - Restauration",
-        "specializationLabelEn": "Hotel and Catering Sector"
-      },
-      {
-        "specializationId": "219",
-        "specializationParentId": "216",
-        "specializationLabel": "Marketing Digital",
-        "specializationLabelEn": "Digital Marketing"
-      },
-      {
-        "specializationId": "372",
-        "specializationParentId": "255",
-        "specializationLabel": "RSE",
-        "specializationLabelEn": "RSE"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "QUI SOMMES NOUS ?\r\n\r\nVous souhaitez intégrer une PME dynamique et travailler sur des projets socialement innovants ?\r\n\r\nLe groupe Ethik Investment a développé depuis près de 22 ans les restaurants et espaces sensoriels Dans le Noir ? 9 pays, 15 villes (Paris, Nantes, Bordeaux, Strasbourg, Toulouse, Tours, Marseille, Londres, Madrid, St Pétersbourg, Le Caire, Bruxelles, Luxembourg, Genève, Lisbonne) pour faire vivre des expériences sensorielles, sociales et humaines uniques dans le noir absolu.\r\nLe concept est plébiscité par la presse et le grand public ; les restaurants Dans le Noir ? sont devenus de véritables institutions avec près de 3 millions de visiteurs.\r\nEn savoir + : www.danslenoir.com\r\n\r\n\r\nPOSTE ET MISSIONS :\r\nSous la responsabilité de la Direction de la marque DANS LE NOIR ?, vous aurez pour mission :\r\n\r\nRELATION CLIENTS - FLOOR :\r\nCoordination des dîners du restaurant Dans le Noir ? Genève au sein du Ritz-Carlton Genève, les vendredis/ samedis / dimanches soir\r\n- Accueil des clients, organisation et coordination des services, débriefing clients\r\n- Suivi, Organisation et supervision des réservations et demandes clients\r\n- Suivi et optimisation de la vente de bons cadeaux en ligne\r\n\r\nCOORDINATION :\r\n- Optimisation du fonctionnement et de l’organisation du restaurant et des relations avec le partenaire (Suivi de la création des menus avec le Chef et participation aux tastings pour valider les menus, de la communication avec les équipes, du fonctionnement opérationnel du projet,…)\r\n- Suivi de l’équipe de guides-serveurs : planning, recrutement, management formation \r\n- Suivi administratif et reporting comptables mensuel\r\n\r\nCOMMUNICATION\r\n- Suivi de la communication interne et externe du restaurant et des RP (en relation avec le pôle communication DLN et du Ritz-Carlton)\r\n- Gestion des réseaux sociaux en lien avec les guidelines du siège (Facebook, Instagram)\r\n- Gestion de l’e-réputation du restaurant sur les plateformes en ligne (Tripadvisor, Google Business)\r\n- Rédaction d’articles de blog pour le référencement (SEO) en lien avec notre équipe com\r\n\r\nDEVELOPPEMENT / COMMERCIAL / EVENEMENTIEL\r\n- Organisation et suivi d’événements, de partenariats et d’animations\r\n- Prospection, relance, suivi commercial\r\n- Optimisation développement B2B\r\n- Organisation d’évènements « out of the box”\r\n\r\nVous serez en relation régulièrement avec :\r\n- Notre partenaire hôtelier pour piloter/développer le concept\r\n- Les équipes de Dans le Noir ? en France et à l’international (partage de bonnes pratiques et d’idées ; opérations de communication…). Réunions en ligne hebdomadaires + 2 séminaires / an.\r\n\r\nLe restaurant Dans le Noir ? Genève a ouvert ses portes en janvier 2023 au sein du Ritz-Carlton Genève,  Hotel de la Paix.\r\nVOS OBJECTIFS :\r\n- Poursuivre le développement de la notoriété du restaurant DLN Genève\r\n- Viser un taux de remplissage :constamment en croissance\r\n- Développer les privatisations B2B\r\n- Qualité : Maintien sur le podium (TOP 3) sur TripAdvisor\r\n- Fédérer l’équipe de guides serveurs à travers un accompagnement bienveillant\r\n- Poursuivre de développer une collaboration saine et efficace de partenariat avec l'hôtel Ritz-Carlton\r\n\r\nDEBUT DE  MISSION (1er décembre 2026 ou 1er janvier 2027)",
     "creationDate": "2026-09-08T08:52:42Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5827,16 +5708,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Lieu : New York, États-Unis\r\nSociété : LexiFi Inc.\r\nDurée : 18 mois\r\nDate de début : À confirmer\r\nRattachement hiérarchique : Responsable Développement Commercial États-Unis\r\nÀ propos de LexiFi\r\nLexiFi est une société de logiciels de technologie financière spécialisée dans les produits structurés et les dérivés. Notre plateforme est utilisée par des institutions financières pour gérer l’ensemble du cycle de vie des produits structurés, notamment la valorisation, la documentation, la saisie des transactions, la gestion du cycle de vie, l’intégration des données et les processus opérationnels.\r\nLexiFi Inc. a été créée aux États-Unis afin d’établir une présence locale, de mieux accompagner nos clients américains existants et de développer de nouvelles opportunités commerciales en Amérique du Nord. Dans le cadre de cette expansion, nous recherchons un(e) Customer Success Manager pour rejoindre notre équipe à New York.\r\nMissions\r\nLe/la Customer Success Manager contribuera à la fourniture de services de support et d’implémentation de haute qualité aux clients américains de LexiFi Inc., tout en participant au développement de la présence locale de l’entreprise.\r\nCe poste est idéal pour une personne souhaitant évoluer à l’intersection des marchés financiers, de la technologie, du support client et du développement commercial. Le/la candidat(e) retenu(e) travaillera en étroite collaboration avec le responsable du lancement des activités aux États-Unis, l’équipe technique locale et les équipes LexiFi basées en France.\r\nResponsabilités\r\nSupport client et gestion de la relation client\r\nVous participerez au support quotidien des clients américains existants, notamment des institutions financières utilisant les solutions LexiFi pour leurs activités liées aux produits structurés.\r\nVos responsabilités incluront :\r\n•\tRépondre aux questions et demandes de support des clients.\r\n•\tAnalyser les problématiques fonctionnelles et techniques.\r\n•\tCoordonner les échanges avec les développeurs et spécialistes produit lorsqu’une analyse approfondie est nécessaire.\r\n•\tAssurer le suivi des demandes afin de garantir leur résolution satisfaisante.\r\n•\tDocumenter les questions récurrentes, incidents et solutions apportées.\r\n•\tContribuer au maintien de relations clients solides grâce à une communication claire et professionnelle.\r\nImplémentation et onboarding\r\nVous contribuerez aux projets d’implémentation et d’intégration des clients, notamment à la configuration et au déploiement des solutions LexiFi dans leurs environnements.\r\nCela pourra inclure :\r\n•\tParticiper à la collecte et à la clarification des besoins clients.\r\n•\tAccompagner les activités de configuration et de tests.\r\n•\tIntervenir sur les sujets liés aux données, aux workflows et aux intégrations.\r\n•\tPréparer les supports de formation destinés aux utilisateurs.\r\n•\tParticiper aux sessions de formation des utilisateurs.\r\n•\tCoordonner le suivi des projets d’implémentation avec les équipes internes.\r\nExpertise produit et coordination interne\r\nVous développerez progressivement une connaissance approfondie des logiciels LexiFi, des processus liés aux produits structurés et des cas d’usage clients.\r\nVous collaborerez avec les équipes en France et aux États-Unis afin de :\r\n•\tRemonter les questions produit et les retours clients.\r\n•\tAider à la priorisation des sujets en fonction de leur impact pour les clients.\r\n•\tContribuer à la documentation interne.\r\n•\tPartager les retours du marché américain avec les équipes produit et support.\r\n•\tParticiper à l’amélioration continue des processus de support client.\r\nSupport avant-vente et développement commercial\r\nDans le cadre du développement de LexiFi Inc. sur le marché américain, vous contribuerez également aux activités commerciales pilotées par l’équipe de direction locale.\r\nCela pourra inclure :\r\n•\tParticiper aux démonstrations produit.\r\n•\tPréparer les supports pour les réunions clients.\r\n•\tAccompagner les phases de preuve de concept (PoC) et d’évaluation.\r\n•\tContribuer à l’analyse des besoins des prospects.\r\n•\tAssurer le suivi des réunions et démonstrations.\r\n•\tFaciliter la transition entre les phases d’avant-vente et les projets d’implémentation.\r\nProfil recherché\r\nNous recherchons un profil junior motivé, doté de solides capacités d’analyse, d’une grande curiosité intellectuelle et d’un intérêt marqué pour la finance et la technologie.\r\nLe/la candidat(e) idéal(e) possède :\r\n•\tUn diplôme de niveau Master ou une formation d’ingénieur / école de commerce.\r\n•\tUn fort intérêt pour les marchés financiers, les produits structurés, les dérivés ou la fintech.\r\n•\tUne bonne compréhension des systèmes logiciels et des flux de données.\r\n•\tD’excellentes capacités de communication en anglais.\r\n•\tUne aptitude à travailler avec des clients professionnels exigeants.\r\n•\tDe solides compétences en résolution de problèmes et un grand sens du détail.\r\n•\tDe l’autonomie, de la rigueur et une forte capacité d’apprentissage.\r\n•\tLa capacité à travailler avec des équipes réparties entre la France et les États-Unis, dans des fuseaux horaires différents.\r\nUne expérience préalable dans la banque, les services financiers ou la fintech serait un atout.\r\nCompétences techniques\r\nLes compétences suivantes seraient appréciées :\r\n•\tConnaissances de base des produits dérivés et des produits structurés.\r\n•\tFamiliarité avec Python, VBA, les API ou les formats de données.\r\n•\tCapacité à traduire les besoins clients en spécifications internes claires.\r\nUne expertise technique approfondie n’est pas requise au démarrage, mais le/la candidat(e) devra être prêt(e) à développer progressivement une compréhension solide du produit et de son environnement technique.\r\nCe que vous apprendrez\r\nCe poste vous offrira une exposition concrète aux éléments suivant :\r\n•\tLe marché américain des technologies financières.\r\n•\tLes produits structurés, les dérivés et leurs workflows opérationnels.\r\n•\tL’implémentation de logiciels d’entreprise.\r\n•\tLes métiers du Customer Success et du support auprès d’institutions financières.\r\n•\tLe lancement et le développement d’une filiale américaine.\r\n•\tLa collaboration internationale entre les équipes françaises et américaines.\r\nCe poste représente une opportunité unique de rejoindre l’équipe fondatrice des activités américaines d’une fintech spécialisée et de contribuer directement à son développement en Amérique du Nord.",
     "creationDate": "2026-09-08T15:25:09Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5860,377 +5734,6 @@
     "idMotifDesactivationOffre": 0,
     "contactEmail": "careers@lexifi.com",
     "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
-    "dateCandidature": null
-  },
-  {
-    "id": 245507,
-    "organizationName": "FORTIL GROUP",
-    "missionTitle": "INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "Fortil, groupe d'ingénierie et de conseil en technologie, Fortil est un modèle pensé par des ingénieurs entrepreneurs. Collaborer avec Fortil, c’est travailler avec une communauté ambitieuse et experte, animée par l'exactitude, le challenge et l'émulation.  Nous sommes aujourd'hui plus de 2 400 collaborateurs à œuvrer chaque jour pour faire de Fortil le plus grand acteur de l'ingénierie indépendant d'Europe.  Nous avons pour ambition de contribuer à la construction d’un monde plus responsable, plus collectif, plus inclusif pour nos collaborateurs et nos clients.",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "50",
-    "effectifInd": "20",
-    "effectifConso": "0",
-    "organizationCountryCounter": "15",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "LIEGE",
-    "cityNameEn": "LIEGE",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "2",
-      "60",
-      "62",
-      "63",
-      "64",
-      "65",
-      "66",
-      "71",
-      "73",
-      "110",
-      "112",
-      "114",
-      "133",
-      "143",
-      "144",
-      "145",
-      "149",
-      "155",
-      "158",
-      "159",
-      "160",
-      "161",
-      "168",
-      "169",
-      "205",
-      "206",
-      "207",
-      "208",
-      "213",
-      "244",
-      "245",
-      "246",
-      "247",
-      "248",
-      "249",
-      "251",
-      "327",
-      "328",
-      "329",
-      "330",
-      "331",
-      "345",
-      "355",
-      "358"
-    ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "60",
-        "specializationParentId": "59",
-        "specializationLabel": "Aéronautique",
-        "specializationLabelEn": "Aeronautics"
-      },
-      {
-        "specializationId": "62",
-        "specializationParentId": "196",
-        "specializationLabel": "Bâtiment – Construction – Second Oeuvre",
-        "specializationLabelEn": "Building - Construction - Finishings"
-      },
-      {
-        "specializationId": "63",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie - Génie Chimique",
-        "specializationLabelEn": "Chemicals - Chemical Engineering"
-      },
-      {
-        "specializationId": "64",
-        "specializationParentId": "59",
-        "specializationLabel": "Dessin industriel",
-        "specializationLabelEn": "Industrial Design"
-      },
-      {
-        "specializationId": "65",
-        "specializationParentId": "59",
-        "specializationLabel": "Electromécanique",
-        "specializationLabelEn": "Electro-mechanics"
-      },
-      {
-        "specializationId": "66",
-        "specializationParentId": "59",
-        "specializationLabel": "Electronique",
-        "specializationLabelEn": "Electronics"
-      },
-      {
-        "specializationId": "71",
-        "specializationParentId": "59",
-        "specializationLabel": "Génie Electrique",
-        "specializationLabelEn": "Electrical Engineering"
-      },
-      {
-        "specializationId": "73",
-        "specializationParentId": "59",
-        "specializationLabel": "Instrumentation - Automatisme - Robotique",
-        "specializationLabelEn": "Instrumentation - Automatism - Robotics"
-      },
-      {
-        "specializationId": "110",
-        "specializationParentId": "59",
-        "specializationLabel": "Automobile",
-        "specializationLabelEn": "Automobile"
-      },
-      {
-        "specializationId": "112",
-        "specializationParentId": "212",
-        "specializationLabel": "Modélisation et Méthodes Informatiques",
-        "specializationLabelEn": "Modelling and IT Methodology"
-      },
-      {
-        "specializationId": "114",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie des matériaux",
-        "specializationLabelEn": "Materials sector"
-      },
-      {
-        "specializationId": "133",
-        "specializationParentId": "227",
-        "specializationLabel": "Défense",
-        "specializationLabelEn": "Defence"
-      },
-      {
-        "specializationId": "143",
-        "specializationParentId": "59",
-        "specializationLabel": "Microélectronique",
-        "specializationLabelEn": "Microelectronics"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "145",
-        "specializationParentId": "196",
-        "specializationLabel": "Génie urbain",
-        "specializationLabelEn": "Urban Engineering"
-      },
-      {
-        "specializationId": "149",
-        "specializationParentId": "58",
-        "specializationLabel": "Génie Industriel",
-        "specializationLabelEn": "Industrial Engineering"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "159",
-        "specializationParentId": "59",
-        "specializationLabel": "Soudage",
-        "specializationLabelEn": "Welding"
-      },
-      {
-        "specializationId": "160",
-        "specializationParentId": "59",
-        "specializationLabel": "Fonderie",
-        "specializationLabelEn": "Foundry"
-      },
-      {
-        "specializationId": "161",
-        "specializationParentId": "59",
-        "specializationLabel": "Froid et Climatisation",
-        "specializationLabelEn": "Cold and Air Conditioning"
-      },
-      {
-        "specializationId": "168",
-        "specializationParentId": "255",
-        "specializationLabel": "Nucléaire",
-        "specializationLabelEn": "Nuclear Industry"
-      },
-      {
-        "specializationId": "169",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie des procédés",
-        "specializationLabelEn": "Process Engineering"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "207",
-        "specializationParentId": "58",
-        "specializationLabel": "Méthodes - Process",
-        "specializationLabelEn": "Methods"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "213",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique embarquée",
-        "specializationLabelEn": "Embedded systems"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "245",
-        "specializationParentId": "24",
-        "specializationLabel": "Architecture des systèmes d'information",
-        "specializationLabelEn": "IT architecture / Cloud and virtualisation"
-      },
-      {
-        "specializationId": "246",
-        "specializationParentId": "24",
-        "specializationLabel": "Cybersecurité - protection des données",
-        "specializationLabelEn": "IT security"
-      },
-      {
-        "specializationId": "247",
-        "specializationParentId": "24",
-        "specializationLabel": "Support informatique",
-        "specializationLabelEn": "Helpdesk"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "249",
-        "specializationParentId": "24",
-        "specializationLabel": "Gestion parc informatique",
-        "specializationLabelEn": "Computer park management"
-      },
-      {
-        "specializationId": "251",
-        "specializationParentId": "24",
-        "specializationLabel": "Ingénierie système",
-        "specializationLabelEn": "Systems engineering"
-      },
-      {
-        "specializationId": "327",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique et Sciences des Données",
-        "specializationLabelEn": "Informatique et Sciences des Données"
-      },
-      {
-        "specializationId": "328",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique de Gestion",
-        "specializationLabelEn": "Informatique de Gestion"
-      },
-      {
-        "specializationId": "329",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique Fondamentale",
-        "specializationLabelEn": "Informatique Fondamentale"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      },
-      {
-        "specializationId": "331",
-        "specializationParentId": "212",
-        "specializationLabel": "Réseaux et Sécurité Informatique",
-        "specializationLabelEn": "Réseaux et Sécurité Informatique"
-      },
-      {
-        "specializationId": "345",
-        "specializationParentId": "214",
-        "specializationLabel": "Propriété intellectuelle",
-        "specializationLabelEn": "Propriété intellectuelle"
-      },
-      {
-        "specializationId": "355",
-        "specializationParentId": "24",
-        "specializationLabel": "Intelligence artificielle / IA",
-        "specializationLabelEn": "Intelligence artificielle / IA"
-      },
-      {
-        "specializationId": "358",
-        "specializationParentId": "24",
-        "specializationLabel": "ERP management",
-        "specializationLabelEn": "ERP management"
-      }
-    ],
-    "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique\n\nNos ingénieur(e)s Systèmes Embarqués pilotent en partie les activités de « Digital Transformation ». Nous prenons actuellement en main des sujets d envergure dans les domaines de la défense, du maritime, des transports, de l'industrie, de l'énergétique, ou encore des maisons intelligentes.\n\nNos interventions s articulent autour de problématiques techniques liées aux dimensions :\n- Software Development\n- Embedded/Iot\n- Devops/integration\n- Infrastructure / infogerance\n- Data & Artificial intelligence\n- Digitalisation\n\nVos responsabilités métier\n\nPour accompagner l'équipe, vous êtes capable de prendre le lead sur tout ou partie dans un environnement embarqué des responsabilités métiers suivantes :\n\nDescription\n· Définir le besoin et rédiger le cahier des charges avec le client\n· Définir les spécifications techniques\n· Etablir l architecture logicielle\n· Développer de nouvelles fonctionnalités en C/C++ sur microcontrôleur ou Linux embarqué\n· Reprendre du code existant et le mettre à jour\n· Réaliser l intégration des briques logicielles\n· Tester et valider la solution\n· Etre support technique, analyser et corriger les défauts\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.\n\n\nVos atouts pour réussir\n\n· Vous avez de l expérience en développement (bas niveau ou applicatif) mais aussi en intégration\n· Vous maîtrisez les langages C/C++\n· Vous êtes sensibilisé(e) aux différents environnements suivants : Linux embarqué, Bare Metal, et OS temps réel\n· Vous avez déjà utilisé des microcontrôleurs pour l embarqué (PowerPC, ARM Cortex M4, M7, A9 )\n· Vous maîtrisez les outils de versioning Git/SVN\n· Idéalement, vous travaillez au quotidien avec la méthode Agile notamment avec Jira ou Azure DevOps\n· Vous êtes habitué(e) à utiliser des outils de suivi de bug\n· Vous savez vous servir d appareils de mesures tels que les oscilloscopes, les multimètres et les analyseurs de spectres\n· Vous êtes familier(ère) avec des protocoles de communication standards\n· Vous êtes capable de lire un schéma électronique\n· Vous maîtrisez l anglais technique",
-    "creationDate": "2026-08-31T08:20:36Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-08-31T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-09-30T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Vous êtes diplômé(e) d une formation Bac+5 en informatique ou électronique et justifiez d'une première expérience sur un poste similaire.\n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.\n\nCe poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.",
-    "countryId": "BE",
-    "countryName": "BELGIQUE",
-    "countryNameEn": "BELGIUM",
-    "reference": "VIE245507",
-    "contactFirstName": "Jehanne",
-    "contactLastName": "Ravel",
-    "contactCivility": "Madame",
-    "contactName": "Madame Jehanne RAVEL",
-    "indemnite": 2978.53,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "jehanne.ravel@fortil.group",
-    "cityAffectation": "LIEGE",
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "",
