@@ -248,16 +248,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Votre quotidien à nos côtés ?\n\nLa société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Responsable Administratif et Financier en VIE.\nRattaché à Thomas, Directeur d’Agence, votre objectif est d’accompagner l’agence dans sa gestion administrative et financière. Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international.\nVotre poste est basé à George Town, Guyana.\n\nVos missions clés consisteront notamment à : \n- Gestion admin et financière des filiales Friedlander et Friedlander Energie Guyana, en collaboration avec les services du Siège\n- Participer Révision de la comptabilité Générale et analytique \n- Préparer Clôture mensuelle de gestion et reporting\n- Participer à la Clôture Trimestrielle Comptable\n- S’assurer du Contrôle du respect des procédures Groupe\n- Contribuer au suivi de Gestion de la trésorerie\n- Accompagnement de la croissance & structuration interne\n- Soutien au support des relations avec les conseils fiscaux, comptables\n\nCes missions n’ont pas de secret pour vous ? Nous vous offrons les outils et les moyens à la hauteur de vos ambitions !\nUne intégration personnalisée avec Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international durant 2 semaines au sein du siège, à Aix-En-Provence. Tous deux vous formeront sur les process, les outils, le périmètre et ses spécificités et effectuerons un suivi de l’intégration en local.\nIl ne manque plus que vous - pour apporter votre contribution personnelle - à cette belle organisation.\n\nRegardons un peu plus loin, quel futur ?  \nChez Ortec, nous considérons que chaque collaborateur doit pouvoir déployer son talent et ses compétences, et donner du sens à son poste. Plus tard, cela se traduit aussi par des opportunités au sein de la Direction Administrative Financière ou dans l’équipe de Direction d’une agence d’exploitation.",
     "creationDate": "2026-09-23T09:11:37Z",
     "missionStartDate": "2027-02-01T00:00:00",
