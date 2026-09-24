@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/09/2026 14:06:25**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **24/09/2026 14:35:11**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -301,6 +301,85 @@ Vous avez une appétence forte pour les projets complexes et la résolution de p
 Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.
 
 Ce poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.
+
+</details>
+
+<details>
+<summary><strong>Financial planning & analysis Analyst (FP&A) (H/F)</strong> · MAISON KYKA · MOKA, MAURICE · 1 884,02 €/mois</summary>
+
+- **Entreprise :** MAISON KYKA
+- **Lieu :** MOKA, MAURICE
+- **Indemnité :** 1 884,02 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 24/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245029](https://mon-vie-via.businessfrance.fr/offres/245029)
+
+**Description du poste**
+
+Vous êtes le moteur analytique de la Direction Financière : construire, maintenir et challenger les modèles de prévision multi-entités du groupe sur un horizon 12-24 mois, et transformer les données financières en insights décisionnels pour la Direction Générale.
+
+Forecasting & Modélisation
+- Construire et piloter le modèle de forecast intégré groupe (P&L, cash-flow, bilan) sur horizon 12-24 mois
+- Structurer les schémas de projection par entité et par activité (Marchand de biens, travaux, architecture, conciergerie, etc.) avec granularité projet / agrégat
+- Modéliser les opérations de marchand de biens : plan de financement, courbe de décaissement, simulations de TRI et de marge nette
+- Produire des analyses de sensibilité et des scénarios (base / optimiste / stress) pour chaque horizon de décision
+- Mettre en place et faire évoluer le processus budgétaire annuel et les reforecasts trimestriels
+
+Reporting & Analyse
+- Concevoir le tableau de bord mensuel Groupe (KPIs opérationnels + financiers) à destination du COMEX
+- Assurer, en lien avec le contrôle de gestion, le suivi des écarts budget / réel avec analyse de causes racines et recommandations correctrices
+- Alimenter et challenger la vision cash-flow en lien avec le cash manager
+- Structurer les reportings ad hoc pour les banques, investisseurs ou partenaires stratégiques
+
+Systèmes & Data
+- Structurer et automatiser les flux de données entre les outils comptables, CRM et les modèles de pilotage
+- Prendre en main les outils FP&A du groupe
+- Documenter les méthodologies et construire une bibliothèque de modèles réutilisables
+
+Stratégie & Transverse
+- Contribuer aux analyses de profitabilité par activité, projet ou client pour éclairer les choix de développement
+- Participer aux présentations DG / COMEX avec production de supports synthétiques orientés décision
+- Challenger les hypothèses opérationnelles avec le Managing Director de chaque filiale
+
+**Profil recherché**
+
+Formation
+
+- Bac+5 : Grande école de commerce, Master Finance / Contrôle de gestion, ou école d’ingénieur avec spécialisation finance
+
+Expérience
+
+- minimum 3 ans d’expérience, idéalement dans un parcours FP&A, Audit / M&A ou Contrôle de gestion dans un environnement multi-entités
+
+- Expérience en modélisation financière complexe : modèles intégrés (P&L + BFR + cash), simulations, analyses de sensibilité
+
+- Exposition à l’immobilier, au private equity immobilier ou à un secteur projet (promotion, infrastructure, luxe) est un vrai plus
+
+
+Compétences techniques
+
+- Excel expert : modélisation dynamique, VBA ou Power Query, audit de formules
+
+- Maîtrise des 3 états financiers et de leurs interdépendances (P&L / Bilan / Cash-flow)
+
+- Capacité à construire des modèles projet avec TRI, VAN, analyse de sensibilité
+
+- Notion d’outils BI ou FP&A (Power BI, Tableau, Agicap, Pigment ou équivalent) appréciée
+
+- SQL ou Python pour l’automatisation des flux de données : un vrai plus
+
+
+Soft skills
+
+- Rigueur analytique et capacité à travailler sur des problématiques ambiguës avec des données imparfaites
+
+- Autonomie forte : vous structurez votre scope, vous ne l’attendez pas
+
+- Communication synthétique : transformer un modèle complexe en 3 lignes clés pour le CEO
+
+- Curiosité sectorielle : vous aimez comprendre les métiers pour mieux les modéliser
+
+- Goût du terrain : vous challengez les opérationnels, vous ne vous contentez pas des chiffres transmis
 
 </details>
 
@@ -4370,85 +4449,6 @@ POURQUOI NOUS REJOINDRE ?
 - Évoluez au sein d’une filiale majeure du Groupe. 
 
 La branche Exploration-Production (EP) de TotalEnergies couvre l’exploration et la production de pétrole et de gaz naturel, ainsi que les activités contribuant à la neutralité carbone. Présents dans une cinquantaine de pays, ses 9 000 collaboratrices et collaborateurs ont pour mission de produire de manière responsable les hydrocarbures dont le monde a besoin aujourd’hui tout en contribuant à la transition énergétique de la Compagnie. La branche EP agit pour réduire les émissions de gaz à effet de serre, en particulier le méthane, et améliorer la performance environnementale de ses opérations.
-
-</details>
-
-<details>
-<summary><strong>Financial planning & analysis Analyst (FP&A) (H/F)</strong> · MAISON KYKA · MOKA, MAURICE · 1 884,02 €/mois</summary>
-
-- **Entreprise :** MAISON KYKA
-- **Lieu :** MOKA, MAURICE
-- **Indemnité :** 1 884,02 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 31/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245029](https://mon-vie-via.businessfrance.fr/offres/245029)
-
-**Description du poste**
-
-Vous êtes le moteur analytique de la Direction Financière : construire, maintenir et challenger les modèles de prévision multi-entités du groupe sur un horizon 12-24 mois, et transformer les données financières en insights décisionnels pour la Direction Générale.
-
-Forecasting & Modélisation
-- Construire et piloter le modèle de forecast intégré groupe (P&L, cash-flow, bilan) sur horizon 12-24 mois
-- Structurer les schémas de projection par entité et par activité (Marchand de biens, travaux, architecture, conciergerie, etc.) avec granularité projet / agrégat
-- Modéliser les opérations de marchand de biens : plan de financement, courbe de décaissement, simulations de TRI et de marge nette
-- Produire des analyses de sensibilité et des scénarios (base / optimiste / stress) pour chaque horizon de décision
-- Mettre en place et faire évoluer le processus budgétaire annuel et les reforecasts trimestriels
-
-Reporting & Analyse
-- Concevoir le tableau de bord mensuel Groupe (KPIs opérationnels + financiers) à destination du COMEX
-- Assurer, en lien avec le contrôle de gestion, le suivi des écarts budget / réel avec analyse de causes racines et recommandations correctrices
-- Alimenter et challenger la vision cash-flow en lien avec le cash manager
-- Structurer les reportings ad hoc pour les banques, investisseurs ou partenaires stratégiques
-
-Systèmes & Data
-- Structurer et automatiser les flux de données entre les outils comptables, CRM et les modèles de pilotage
-- Prendre en main les outils FP&A du groupe
-- Documenter les méthodologies et construire une bibliothèque de modèles réutilisables
-
-Stratégie & Transverse
-- Contribuer aux analyses de profitabilité par activité, projet ou client pour éclairer les choix de développement
-- Participer aux présentations DG / COMEX avec production de supports synthétiques orientés décision
-- Challenger les hypothèses opérationnelles avec le Managing Director de chaque filiale
-
-**Profil recherché**
-
-Formation
-
-- Bac+5 : Grande école de commerce, Master Finance / Contrôle de gestion, ou école d’ingénieur avec spécialisation finance
-
-Expérience
-
-- minimum 3 ans d’expérience, idéalement dans un parcours FP&A, Audit / M&A ou Contrôle de gestion dans un environnement multi-entités
-
-- Expérience en modélisation financière complexe : modèles intégrés (P&L + BFR + cash), simulations, analyses de sensibilité
-
-- Exposition à l’immobilier, au private equity immobilier ou à un secteur projet (promotion, infrastructure, luxe) est un vrai plus
-
-
-Compétences techniques
-
-- Excel expert : modélisation dynamique, VBA ou Power Query, audit de formules
-
-- Maîtrise des 3 états financiers et de leurs interdépendances (P&L / Bilan / Cash-flow)
-
-- Capacité à construire des modèles projet avec TRI, VAN, analyse de sensibilité
-
-- Notion d’outils BI ou FP&A (Power BI, Tableau, Agicap, Pigment ou équivalent) appréciée
-
-- SQL ou Python pour l’automatisation des flux de données : un vrai plus
-
-
-Soft skills
-
-- Rigueur analytique et capacité à travailler sur des problématiques ambiguës avec des données imparfaites
-
-- Autonomie forte : vous structurez votre scope, vous ne l’attendez pas
-
-- Communication synthétique : transformer un modèle complexe en 3 lignes clés pour le CEO
-
-- Curiosité sectorielle : vous aimez comprendre les métiers pour mieux les modéliser
-
-- Goût du terrain : vous challengez les opérationnels, vous ne vous contentez pas des chiffres transmis
 
 </details>
 
