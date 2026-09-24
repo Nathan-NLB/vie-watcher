@@ -31,8 +31,12 @@ const COMPAT_CACHE_FILE = path.join(DATA_DIR, "compat-scores.json");
 // Actions ; en leur absence, le score est simplement omis.
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const CANDIDATE_PROFILE = process.env.CANDIDATE_PROFILE;
-const GEMINI_MODEL = "gemini-3.6-flash-lite";
-const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
+// Google renomme/retire ses modèles gratuits fréquemment (déjà arrivé deux
+// fois en 2 jours). On garde une liste de secours : si le premier modèle
+// n'existe plus (404), on bascule sur le suivant pour le reste du passage.
+const GEMINI_MODELS = ["gemini-3.5-flash-lite", "gemini-3.8-flash", "gemini-2.5-flash-lite"];
+let currentGeminiModelIndex = 0;
+const geminiUrlFor = (model) => `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
 
 // Service gratuit de géocodage (OpenStreetMap), sans clé. On s'identifie
 // comme le demande sa politique d'usage, et on respecte la limite d'une
@@ -208,11 +212,22 @@ Donne un score de compatibilité de 0 à 100 (100 = correspondance parfaite avec
   };
 
   try {
-    const res = await fetch(`${GEMINI_URL}?key=${GEMINI_API_KEY}`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(body),
-    });
+    let res;
+    while (true) {
+      const model = GEMINI_MODELS[currentGeminiModelIndex];
+      res = await fetch(`${geminiUrlFor(model)}?key=${GEMINI_API_KEY}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body),
+      });
+
+      if (res.status === 404 && currentGeminiModelIndex < GEMINI_MODELS.length - 1) {
+        console.error(`Modèle Gemini "${model}" indisponible (404), on bascule sur "${GEMINI_MODELS[currentGeminiModelIndex + 1]}".`);
+        currentGeminiModelIndex += 1;
+        continue;
+      }
+      break;
+    }
 
     if (res.status === 429) {
       throw new QuotaExceededError(await res.text());
