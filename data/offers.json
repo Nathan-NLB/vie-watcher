@@ -4546,16 +4546,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n \r\nWe invite you to join us as a VIE, in our Master Data Services Department\r\n\r\nThe key responsibilities are: \r\n\r\nThe VIE program is designed to provide the incumbent with comprehensive, hands-on experience across day-to-day deliverables such as delivery of portfolio securities valuation for fund administered as a Client Operations Officer.\r\n\r\nThe candidate will be in the position to: \r\n- Responsible for the day-to-day deliverables: Delivery of portfolio securities valuation for fund administered including: \r\n   - Security Pricing, FX & Interest Rates, Stale Price Analysis, Customer Support/Alert, EUCs Update \r\n   -  Control and validate market data coming from data providers (Bloomberg, Reuters, etc.)\r\n   - Analyze and execute the corporate action event (dividend, spin off, shares split, etc.)\r\n- Responsible for Securities setup and data maintenance \r\n- Involved in in-house projects and development \r\n- Accountable for Global Servicing from operating location (includes shifts and work on bank / legal holidays and weekend when required)\r\n- Maintain statistics up to date (including daily team checklist update)\r\n- Ensure effective resolution of enquiries\r\n\r\nGood Reasons to Join Us \r\n1.\tJoin an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2.\tDevelop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3.\tExpand your professional horizons with numerous mobility opportunities within the group. \r\n4.\tThrive in a company that respects its employees and clients.  \r\n5.\tTake advantage of ongoing training to enhance your skills and boost your employability. \r\n6.\tOpportunity to work in a multicultural environment and engage with a diverse team.",
     "creationDate": "2026-09-04T08:45:52Z",
     "missionStartDate": "2027-01-01T00:00:00",
