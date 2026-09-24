@@ -8,11 +8,135 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/09/2026 09:47:22**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **24/09/2026 10:05:34**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Supply Chain Specialist (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · SAO PAULO, BRESIL · 2 689,62 €/mois</summary>
+
+- **Entreprise :** SANOFI WINTHROP INDUSTRIE
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 689,62 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 24/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246330](https://mon-vie-via.businessfrance.fr/offres/246330)
+
+**Description du poste**
+
+About the job
+
+As Supply Chain Specialist VIE within our Manufacturing & Supply team, you’ll act as the primary Supply Chain focal point for all products manufactured by CMOs, ensuring seamless integration between internal stakeholders and external manufacturing partners.
+
+Join a global network that powers how Sanofi delivers — seamlessly, purposefully, and at scale. In Manufacturing & Supply, you’ll help reimagine how life-changing treatments reach people everywhere, faster.  
+
+Ready to get started?
+
+About Sanofi
+
+We’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. 
+
+Main responsibilities:
+
+Strategic Supply Chain Management
+- Design and implement supply strategies that balance service levels, inventory optimization, and cost efficiency in alignment with corporate policies.
+- Lead the development of mid to long-term supply plans, anticipating market trends, demand fluctuations, and capacity constraints.
+- Drive strategic initiatives to enhance supply chain resilience and mitigate risks across the CMO network.
+ 
+Inventory & Service Level Optimization
+- Monitor and ensure optimal stock levels in accordance with current inventory policies, preventing stockouts and excess inventory situations.
+- Establish and maintain target service levels, working proactively to achieve KPIs and minimize business disruption.
+- Develop advanced analytics and forecasting models to improve demand planning accuracy and inventory turnover.
+- Lead cross-functional teams in developing action plans to reduce product destruction and manage materials with short shelf life.
+ 
+Procurement & Supplier Management
+- Manage the placement and tracking of purchase orders with CMOs, ensuring alignment with supply chain planning tools and business requirements.
+- Monitor delivery fulfillment through systematic supplier performance tracking, ensuring on-time and in-full (OTIF) delivery compliance.
+- Assess and manage risks of contractual penalties related to OTIF performance, implementing corrective actions as needed.
+- Ensure CMO compliance with all contractual clauses, quality standards, and regulatory requirements.
+- Support periodic reviews of Service Level Agreements (SLAs), analyzing demand patterns and optimizing parameters such as MOQ, lead times, and minimum shelf life requirements.
+ 
+New Product Introduction & Lifecycle Management
+- Oversee supply chain activities for New Product Launches (NPL), ensuring timely market availability and successful commercialization.
+- Collaborate with R&D, Quality, Regulatory, and Commercial teams to develop robust supply plans for product introductions.
+- Follow artwork changes and updates between CMOs and internal teams, ensuring regulatory compliance and technical accuracy.
+- Support product lifecycle management initiatives, including phase-ins, phase-outs, and portfolio optimization.
+ 
+Performance Management & Continuous Improvement
+Develop, track, and report key performance indicators (KPIs) for CMO performance, including OTIF, lead time compliance, and quality metrics.
+Conduct monthly performance reviews with CMOs, identifying gaps, opportunities for improvement, and implementing corrective actions.
+Ensure implementation/participation in Supply Chain Projects as a KU for a period.
+Create plans for improvement with multifunctional team, when the process is putting the business in risk.
+ 
+Functional Leadership & Stakeholder Management (New/Enhanced)
+- Lead functional meetings with Quality Assurance, Quality Control, Logistics, Warehousing, Commercial, and COMEX teams to ensure end-to-end supply chain visibility.
+- Serve as the escalation point for supply chain issues, coordinating rapid response and resolution across internal and external stakeholders.
+- Mentor and provide guidance to junior supply chain analysts, fostering skill development and knowledge sharing.
+- Represent Supply Chain in strategic business reviews, presenting insights, risks, and recommendations to senior leadership.
+- Build and maintain strong relationships with CMO leadership to drive collaboration and strategic alignment.
+
+Risk Management & Business Continuity 
+- Proactively identify and assess supply chain risks (capacity constraints, quality issues, geopolitical factors) and develop mitigation strategies.
+- Manage crisis situations and supply disruptions, coordinating with global teams to minimize business impact.
+- Ensure timely communication of quality-related supply issues to global Quality teams for escalation and resolution.
+- Develop contingency plans and alternative sourcing strategies to ensure business continuity.
+ 
+Compliance, Ethics & Corporate Responsibility
+- Maintain comprehensive knowledge of and ensure compliance with Sanofi's Ethics and Integrity principles, policies, and codes of conduct.
+- Comply with and promote Health, Safety, and Environment (HSE) policies to prevent accidents, mitigate health risks, and reduce environmental impact.
+- Support and champion Sanofi's Diversity and Inclusion initiatives, ensuring respectful treatment and equal opportunities for all employees and partners.
+- Ensure all supply chain activities comply with pharmaceutical industry regulations and quality standards.
+
+Why choose us?
+
+- Be part of a pioneering biopharma company where patient insights shape drug development.
+- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes.
+- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams.
+- Work at the forefront of drug discovery, harnessing cutting-edge AI, data, and digital platforms to push the boundaries of science.
+- Help improve the lives of millions of people globally by making drug development quicker and more effective.
+- Join a workplace where diversity, equity, and inclusion are at the core, with Employee Resource Groups and leadership programs that celebrate every voice.
+
+iMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow.
+
+Sanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work.
+
+Pursue Progress. Discover Extraordinary.
+
+Progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together.
+
+At Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. 
+
+Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!
+
+**Profil recherché**
+
+About you
+
+Experience:
+
+- Previous experience in areas related to Supply Chain and Industrial.
+ 
+Soft and technical skills:
+
+- Proactive, autonomous person.
+- Focused on results, advanced analytical skills (Excel), advanced interpersonal skills, team player.
+- Ability to manage and support complex and simultaneous projects.
+- Knowledge of forecasting activities, contact with suppliers, process of planning, scheduling and production control, besides GMP (Good Manufacturing Practices) and its application in the distribution chain of pharmaceutical products.
+- Knowledge of the flow of information from the analysis of the demand to the availability of the final production the Distribution Center is preferred.
+
+Education:
+
+- Master’s Degree in Business Administration, Economics, Accounting, Mathematics, Logistics, Engineering or similar field.
+
+Languages:
+
+- Advanced English knowledge, Spanish is preferred.
+
+To facilitate the examination of your application by our English-speaking managers, thank you for applying in English.
+
+</details>
 
 <details>
 <summary><strong>VIE Private Market Analyst (H/F)</strong> · CA INDOSUEZ · GENEVE, SUISSE · 4 172,27 €/mois</summary>
