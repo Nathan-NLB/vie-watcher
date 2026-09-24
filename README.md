@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/09/2026 00:05:16**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **25/09/2026 00:28:08**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4725,55 +4725,6 @@ Mission VIE de 12 mois, renouvelable 12 mois supplémentaires.
 •	Aisance relationnelle et capacité à interagir avec différents interlocuteurs
 •	Esprit d’équipe dans un contexte international
 •	Adaptabilité et curiosité
-
-</details>
-
-<details>
-<summary><strong>Business Controlling & Analytics (H/F)</strong> · ALTEN · MADRID, ESPAGNE · 2 692,70 €/mois</summary>
-
-- **Entreprise :** ALTEN
-- **Lieu :** MADRID, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
-- **Publiée le :** 25/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245386](https://mon-vie-via.businessfrance.fr/offres/245386)
-
-**Description du poste**
-
-ALTEN is a leading engineering and technology consulting company, present in more than 30 countries with over 57,000 professionals worldwide. 
-
-In Spain, we work alongside companies and public organizations to develop innovative solutions that drive digital transformation and operational efficiency.
-
-We are looking for a highly analytical and detail-oriented individual to join our Business Controlling & Analytics team in Madrid.
-
-Please note that this position is not part of the Finance department. Instead, it focuses on business analysis, operational monitoring, and supporting the growth of the company's different business units.
-This role is ideal for candidates who want to continue developing their skills in data analysis, reporting, and business performance monitoring within a multinational environment, primarily using advanced Excel.
-As a Business Controlling Analyst, you will support the team in reporting activities, KPI monitoring, and operational analysis, working closely with senior team members who will provide ongoing guidance and mentorship.
-Key Responsibilities
-Reporting and Operational Monitoring
-•	Prepare weekly and monthly Excel reports to track consultants' productivity and business activity.
-Data Collection and Validation
-•	Gather information from cross-functional teams (Finance, Payroll Administration, HR, etc.) and business units, ensuring data quality, accuracy, and consistency.
-Database Management
-•	Work with multiple data sources to extract, organize, and maintain the databases used for business analysis.
-Data Analysis
-•	Clean and validate data, identify inconsistencies, and perform basic analyses to support decision-making.
-KPI Monitoring
-•	Support the analysis of key business indicators such as headcount, utilization, and productivity, under the supervision of the team.
-Process Improvement
-•	Collaborate in optimizing reporting tools and monitoring processes to improve efficiency and data reliability.
-
-**Profil recherché**
-
-Key Competencies
-•	Strong attention to detail and organizational skills.
-•	Eagerness to learn and develop technical capabilities.
-•	Excellent communication and interpersonal skills.
-•	Proactive mindset, curiosity, and ability to work collaboratively in a team environment.
-What We Offer
-•	Hybrid working model.
-•	A dynamic, collaborative, and growth-oriented environment with excellent professional development opportunities.
-.
 
 </details>
 
