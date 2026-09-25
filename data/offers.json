@@ -6590,16 +6590,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "202"
+      "[\"202\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Description de l’entreprise\n\nClassée parmi les principaux gestionnaires d'actifs au monde avec plus de 1 300 milliards d’euros d'actifs sous gestion, Natixis Investment Managers (Natixis IM) propose une gamme de solutions diversifiées couvrant différents types de classes d'actifs, de styles de gestion et de véhicules, y compris des stratégies et des produits innovants répondant aux critères environnementaux, sociaux et de gouvernance (ESG) dédiés au développement de la finance durable.\n\nLes équipes de Natixis IM travaillent en partenariat avec leurs clients - investisseurs institutionnels, fonds d’investissement, entreprises et particuliers - afin de comprendre leurs besoins spécifiques et de leur fournir des informations et des solutions d'investissement adaptées à leurs objectifs à long terme.\n\nGrâce à l’approche multi-boutique de Natixis IM, les clients peuvent ainsi bénéficier de la réflexion et de l’expertise d’une vingtaine de sociétés de gestion active.\n\nNatixis Investment Managers International (Natixis IMI) est la principale société de gestion de Natixis IM en Europe. Elle réunit 2 activités :\n\n·       Les activités de distribution en Europe et dans d'autres zones géographiques comme l'APAC, le Moyen Orient, et l'Amérique latine, de l’offre en gestion d’actifs de Natixis IM ;\n\n·       Une plateforme de centres d’expertises (fonctions support) au service des activités de distribution et des affiliés.\n\nNatixis IMI poursuit son développement et renforce sa présence en France et à l’international, en s’appuyant sur l’expertise de ses équipes et sur le modèle multi-affiliés de Natixis IM.\n\n\n\nPoste et missions\n\nVous rejoignez notre équipe, qui recherche un Analyste opérations et processus junior, pour un V.I.E. de 12 mois à partir de janvier 2027.\n\n \n\nPour les activités de la branche luxembourgeoise de NIMI, vous aiderez un des represents permanents avec la gestion journalière du bureau (office management) ainsi que dans sa fonction au sein du groupe Finance / Business Operations.\n\nVos missions pricipales seront :\n\nLancement des nouveaux fonds ;\nFusion de fonds ;\nLiquidations de fonds ;\nLancement / changement / suppression de parts de fonds ;\nImplémentation de nouveaux produits.\n \n\nCe poste est de nature administrative/back-office dans le domaine de la gestion d’actifs.",
     "creationDate": "2026-08-31T07:52:28Z",
     "missionStartDate": "2027-01-01T00:00:00",
