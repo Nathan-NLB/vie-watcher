@@ -303,5 +303,10 @@
   "ville|luanda|angola": {
     "lat": -8.8272699,
     "lon": 13.2439512
+  },
+  "entreprise|tikehau investment management|singapour|singapour": null,
+  "ville|singapour|singapour": {
+    "lat": 1.2899175,
+    "lon": 103.8519072
   }
 }

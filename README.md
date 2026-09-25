@@ -8,11 +8,58 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/09/2026 08:35:19**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **25/09/2026 08:52:16**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Private Equity Analyst (H/F)</strong> · TIKEHAU INVESTMENT MANAGEMENT · SINGAPOUR, SINGAPOUR · 4 086,09 €/mois</summary>
+
+- **Entreprise :** TIKEHAU INVESTMENT MANAGEMENT
+- **Lieu :** SINGAPOUR, SINGAPOUR
+- **Indemnité :** 4 086,09 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 25/09/2026
+- **Compatibilité avec ton profil :** 45 % — Le candidat possède de solides compétences financières et un profil international pertinent avec un excellent niveau d'anglais. Cependant, l'offre cible un poste de Private Equity Analyst exigeant une expérience en M&A ou capital-investissement, alors que le parcours du candidat est orienté vers le contrôle de gestion.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246372](https://mon-vie-via.businessfrance.fr/offres/246372)
+
+**Description du poste**
+
+About Tikehau Capital
+
+Tikehau Capital is a global alternative asset management group with a strong entrepreneurial culture and a focus on innovation. The Group invests across multiple asset classes - including private debt, real estate, private equity, and liquid strategies - primarily through its asset management subsidiaries, on behalf of institutional and private investors. Controlled by its management, alongside leading institutional partners, Tikehau Capital employs 720 staff across its offices in Paris, London, Brussels, Madrid, Frankfurt, Milan, New York, Seoul, Abu Dhabi, Singapore, Tel Aviv, Luxembourg, Amsterdam, Zurich, Tokyo, Montreal and Hong Kong.
+
+Our Private Equity team in Singapore is looking for its new talent to join this dynamic and fast-learning environment.
+
+Missions:
+
+- Support the team in sourcing, screening, and evaluating new investment opportunities.
+- Conduct financial modeling, valuation analyses, and market research.
+- Assist in due diligence processes, including coordinating with advisors and third parties.
+- Prepare investment memoranda and presentations for internal committees.
+- Participate in the monitoring and management of portfolio companies, including performance tracking and strategic initiatives.
+- Collaborate closely with senior team members and cross-functional stakeholders.
+
+To apply, please follow directly the link 
+Applications outside this canal will not be taken into account
+
+**Profil recherché**
+
+Profile:
+
+- Bachelor’s or Master’s degree in Finance, Business, Economics, or a related field.
+- 1–2 years of relevant experience in Private Equity, or Investment Banking (strong technical expertise; strong preference for PE or IBD backgrounds vs. consulting or accounting).
+- Strong analytical and quantitative skills, with proficiency in financial modeling and valuation.
+- Excellent written and verbal communication skills in English.
+- High attention to detail and ability to manage multiple tasks in a fast-paced environment.
+- Team player with a proactive attitude and strong work ethic.
+
+To apply, please follow directly the link following: https://tikehau-capital-career.talentview.io/jobs/za20re 
+Applications outside this canal will not be taken into account
+
+</details>
 
 <details>
 <summary><strong>PROJECT ENGINEER - COST ESTIMATOR HF (H/F)</strong> · PONTICELLI FRERES · LUANDA, ANGOLA · 4 255,73 €/mois</summary>
