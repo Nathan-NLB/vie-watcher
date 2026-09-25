@@ -2383,44 +2383,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tSupervisión de la contabilidad y fiscalidad para garantizar que todas las actividades contables cumplan la reglementación,\n•\tControl de los gastos de la empresa y de la buena aplicación de las políticas,\n•\tElaboración de los reportes financieros mensuales de la compañía para el Grupo: Cash, Forecast, Flash, Intercompany, Headcount,\n•\tReportes financieros internos mensuales: Budget, Forecast, P&L por persona, por marca y global, Cashflow,\n•\tAnálisis financieras puntuales sobre nómina, cobranza, EBNI, etc.\n•\tCreación de modelos de previsión.\n•\tParticipación en la definición de las políticas de sueldos y bonos en conjunto con Dirección y Recursos Humanos,\n•\tParticipación en la estrategia global de la empresa sobre el desarrollo de cada marca y recomendaciones sobre las inversiones\n•\tEvaluación de riesgo de las inversiones para dar recomendaciones a Dirección sobre la estrategia de inversión y financiamiento global de la compañía para lograr los objetivos de la empresa.",
     "creationDate": "2026-08-25T23:45:33Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5372,16 +5337,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n \r\nWe invite you to join us as a VIE, in our Human Resources Department \r\nThe key responsibilities are: \r\n\r\nAs a HR Specialist, you will support workforce strategy, planning and governance by maintaining accurate and reliable headcount and workforce data, coordinating workforce movements and staffing requirements and ensuring alignment with HR policies and financial budgets. You will also drive data quality, standardization and process improvements and ensure consistency between HR and Finance reporting. \r\n\r\nThe candidate will be in the position to: \r\n- Workforce Strategy & Governance : Support the evolution of Workforce through clear and robust processes (request, validation, committee, track files) and accurate, exhaustive and easily accessible data to communicate to all stakeholders a complete vision of the composition and evolution of the Workforce.\r\n- Workforce Alignment & Support : Access reliable, harmonized workforce data to support Business managers and ensure alignment with HR policies and financial budget.\r\n- Team Workforce Planning & Execution : Have a consolidated and up-to-date view of team's workforce (headcount, joiners, leavers, internal moves, vacancies, projection) to anticipate capacity issues, plan staffing actions, steer financial budget and support team development in line with business priorities.\r\n- HR Cost & Headcount Framework : Establish a robust HR cost and headcount controlling framework (standard definitions, processes, calendars and KPIs) to ensure data reliability, support strategic workforce and cost decisions, and provide timely, consistent insights to HR, Finance and top management.\r\n- Cost & Headcount Reconciliation & Reporting : Access accurate and reconciled HR cost and headcount data (by entity, BU, cost center, category, contract type) to prepare reliable reports, support budgeting and forecasting processes, and explain HR cost variances to HR and Finance stakeholders.\r\n- Financial Performance & Consolidation : Have a clear view of HR-related costs and FTEs (actuals, budget, forecast, variances) aligned with Finance reporting standards to consolidate financial performance, challenge cost drivers, and ensure consistency between HR and Finance figures at Group level.\r\n\r\nGood Reasons to Join Us \r\n1.\tJoin an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2.\tDevelop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3.\tExpand your professional horizons with numerous mobility opportunities within the group. \r\n4.\tThrive in a company that respects its employees and clients.  \r\n5.\tTake advantage of ongoing training to enhance your skills and boost your employability. \r\n6.\tOpportunity to work in a multicultural environment and engage with a diverse team.",
     "creationDate": "2026-09-04T08:29:06Z",
     "missionStartDate": "2027-01-01T00:00:00",
