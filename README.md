@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/09/2026 15:07:06**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **25/09/2026 15:30:31**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2808,111 +2808,6 @@ QUALITÉS ATTENDUES
 •	Curiosité et goût pour les chiffres.
 •	Force de proposition et volonté d'amélioration continue.
 •	Autonomie et capacité à évoluer dans un environnement international.
-
-</details>
-
-<details>
-<summary><strong>Commercial Controller (KONI Group) (H/F)</strong> · KONI FRANCE FAB AMORTISSEURS · ROTTERDAM, PAYS-BAS · 3 395,60 €/mois</summary>
-
-- **Entreprise :** KONI FRANCE FAB AMORTISSEURS
-- **Lieu :** ROTTERDAM, PAYS-BAS
-- **Indemnité :** 3 395,60 €/mois
-- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
-- **Publiée le :** 14/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244024](https://mon-vie-via.businessfrance.fr/offres/244024)
-
-**Description du poste**
-
-As a Commercial Controller, you will establish, structure and develop Sales Back Office and selected Controlling processes across KONI Group. You will act as a key business partner to the CFO by building reliable Order Intake, Sales and Backlog reporting, while developing processes supporting pricing, defense business and financial control capabilities.
-
-In this role, you will play a critical part in improving transparency, enabling data-driven decision-making, and strengthening commercial and financial control across the organization. You will operate at the intersection of Finance and Sales, contributing directly to business performance, pricing strategy, and future controlling capabilities.
-
-Your impact in this role
-Establish end-to-end processes for Order Intake, Sales and Backlog analysis (definition, ownership, governance)
-Build and standardize Railway and Defense matrices as core management tools
-Develop and implement Sales Price Management processes (tracking, governance, reporting)
-Set up and maintain Inflation Balance tracking across products and customers
-Build structured Defense market analysis and opportunity tracking processes
-Contribute to strengthening Plant Controlling and FP&A processes (especially for KOB)
-Support development of future controlling capabilities and talent pipeline
-
-Key Responsibilities
-Define, design and document new Sales Back Office processes and ensure implementation across KONI Group
-Monitor and analyze Order Intake, Sales and Backlog, ensuring data integrity and transparency
-Own and continuously improve Railway and Defense matrices (coverage, pipeline visibility, data quality)
-Support Defense business development through market analysis, opportunity tracking and quotation support
-Develop and maintain Sales Price Management framework (price increases, tracking vs plan, reporting)
-Track inflation impact versus price realization (Inflation Balance) and provide actionable insights
-Provide ad-hoc financial and commercial analysis for CFO and management
-Support budgeting and forecasting processes related to sales, backlog and pricing
-Reinforce Controlling capabilities, including cooperation with Plant Controllers and FP&A
-Participate in developing future Controller profile (tools, processes, analytics capabilities)
-Ensure consistency and quality of data across SAP, CRM and reporting systems
-Drive continuous improvement, automation and simplification of reporting tools
-
-What will make you successful?
-Bachelor or Master degree in Finance, Economics, Business Administration or similar
-1–3 years of experience in Finance, Controlling, Sales Analysis or Sales Back Office
-Experience in manufacturing or industrial environment is a strong advantage
-Experience in building or improving processes is a strong plus
-Strong analytical and problem-solving mindset
-
-Skills& Capabilities
-Advanced Excel Power BI or similar tools strongly preferred
-Good understanding of financial and commercial KPIs (Order Intake, Sales, Backlog, Margin, Pricing)
-Ability to structure ambiguous problems and create processes from scratch
-Strong communication skills and ability to interact with senior stakeholders (CFO, Sales, Controlling)
-English (minimum B2), additional languages are a plus
-How you create value
-
-Success in this role will be measured by:
-Successful implementation of defined processes (scope, timeline, adoption)
-Accuracy and timeliness of Order Intake / Sales / Backlog reporting
-Quality and usability of Railway / Defense matrices
-Improved visibility and control over Sales Price Increase and Inflation Balance
-Improvement of Controlling support (Plant Controlling / FP&A)
-Stakeholder satisfaction (CFO, Finance, Sales)
-
-Why join KONI?
-This role offers a unique opportunity to:
-
-Work closely with the CFO and senior leadership
-Shape and build processes across an international organization
-Operate at the crossroads of Finance, Sales and Strategy
-Contribute to a growing and evolving Defense and Railway business
-Play an active role in KONI’s Finance transformation journey
-
-Scope of Responsibility
-Ownership of Sales Back Office processes across KONI Group
-Access to commercial and financial data across regions
-Responsibility for accuracy, integrity and transparency of reporting
-Active contribution to Finance transformation and capability building
-Compliance with internal policies and procedures
-
-**Profil recherché**
-
-What will make you successful?
-Bachelor or Master degree in Finance, Economics, Business Administration or similar
-1–3 years of experience in Finance, Controlling, Sales Analysis or Sales Back Office
-Experience in manufacturing or industrial environment is a strong advantage
-Experience in building or improving processes is a strong plus
-Strong analytical and problem-solving mindset
-
-Skills& Capabilities
-Advanced Excel Power BI or similar tools strongly preferred
-Good understanding of financial and commercial KPIs (Order Intake, Sales, Backlog, Margin, Pricing)
-Ability to structure ambiguous problems and create processes from scratch
-Strong communication skills and ability to interact with senior stakeholders (CFO, Sales, Controlling)
-English (minimum B2), additional languages are a plus
-How you create value
-
-Success in this role will be measured by:
-Successful implementation of defined processes (scope, timeline, adoption)
-Accuracy and timeliness of Order Intake / Sales / Backlog reporting
-Quality and usability of Railway / Defense matrices
-Improved visibility and control over Sales Price Increase and Inflation Balance
-Improvement of Controlling support (Plant Controlling / FP&A)
-Stakeholder satisfaction (CFO, Finance, Sales)
 
 </details>
 
