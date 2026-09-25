@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/09/2026 11:47:24**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **25/09/2026 12:05:07**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -113,6 +113,60 @@ Profile:
 
 To apply, please follow directly the link following: https://tikehau-capital-career.talentview.io/jobs/za20re 
 Applications outside this canal will not be taken into account
+
+</details>
+
+<details>
+<summary><strong>Cost Data Analyst (H/F) – Congo</strong> · TOTALENERGIES SE · POINTE NOIRE, CONGO · 3 045,94 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES SE
+- **Lieu :** POINTE NOIRE, CONGO
+- **Indemnité :** 3 045,94 €/mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
+- **Publiée le :** 25/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245135](https://mon-vie-via.businessfrance.fr/offres/245135)
+
+**Description du poste**
+
+Directement intégré à l’équipe Contrôle de Gestion de TotalEnergies Exploration-Production en République du Congo, vous contribuez à la production d’analyses financières fiables, au pilotage des coûts et au suivi des partenaires des Joint Ventures.  
+
+Merci de candidater en anglais. 
+
+Logement en colocation fourni par la filiale.  
+
+Vos principales missions : 
+- Collecter les données mensuelles des différentes Joint Ventures.  
+- Consolider les réalisations financières des actifs suivis.  
+- Produire les rapports de synthèse et de reporting.  
+- Analyser les données financières et les écarts de performance.  
+- Contribuer à la préparation des analyses du contrôle de gestion.  
+- Assurer la facturation des partenaires.  
+- Suivre les comptes partenaires et les opérations associées.  
+- Contrôler la qualité et la cohérence des données financières.
+
+**Profil recherché**
+
+Diplômé d’un Bac+5 minimum (Ecole de commerce, d’ingénieurs ou formation universitaire) en comptabilité, contrôle de gestion ou finance.  
+
+Vous bénéficiez d’une première expérience en contrôle de gestion. 
+
+Vous disposez de bases solides en comptabilité (OPEX, CAPEX et frais de fonctionnement).  
+
+Vous connaissez les outils suivants : 
+- Excel : niveau avancé  
+- SAP FI/CO : niveau intermédiaire.  
+
+La connaissance de Power BI constitue un atout tout comme celle de Web Intelligence (Webi). 
+
+Un niveau de français niveau C1 minimum est requis. Un niveau d'anglais niveau B2 minimum est également demandé.  
+
+POURQUOI NOUS REJOINDRE ? 
+- Développez une expertise reconnue en contrôle de gestion international. 
+- Contribuez à des enjeux financiers stratégiques. 
+- Travaillez dans un environnement multiculturel. 
+- Évoluez au sein d’une filiale majeure du Groupe. 
+
+La branche Exploration-Production (EP) de TotalEnergies couvre l’exploration et la production de pétrole et de gaz naturel, ainsi que les activités contribuant à la neutralité carbone. Présents dans une cinquantaine de pays, ses 9 000 collaboratrices et collaborateurs ont pour mission de produire de manière responsable les hydrocarbures dont le monde a besoin aujourd’hui tout en contribuant à la transition énergétique de la Compagnie. La branche EP agit pour réduire les émissions de gaz à effet de serre, en particulier le méthane, et améliorer la performance environnementale de ses opérations.
 
 </details>
 
