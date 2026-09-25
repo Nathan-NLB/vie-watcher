@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/09/2026 14:06:46**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **25/09/2026 14:34:56**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -68,61 +68,6 @@ Que proposons-nous ?
 · Une expérience combinant finance, data et contrôle de gestion industrielle.
 · Un environnement international dynamique au sein du Groupe Legrand.
 · La possibilité de contribuer à des projets stratégiques dans une zone en croissance.
-
-</details>
-
-<details>
-<summary><strong>ASSET MANAGEMENT ANALYST -  (H/F)</strong> · KLEPIERRE MANAGEMENT · UTRECHT, PAYS-BAS · 3 395,60 €/mois</summary>
-
-- **Entreprise :** KLEPIERRE MANAGEMENT
-- **Lieu :** UTRECHT, PAYS-BAS
-- **Indemnité :** 3 395,60 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 25/09/2026
-- **Compatibilité avec ton profil :** 65 % — Le profil financier et analytique de Nathan correspond bien aux attentes en matière de gestion et de KPIs, et son niveau d'anglais est suffisant. Cependant, l'offre relève de l'Asset Management immobilier et de la stratégie d'actifs (Klepierre à Utrecht), un secteur et des missions assez éloignés de son expérience principale en contrôle de gestion industriel.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246390](https://mon-vie-via.businessfrance.fr/offres/246390)
-
-**Description du poste**
-
-Your perimeter of responsibilities will include:
-
-Portfolio Strategy: 
-- With the Head of Asset Management, define and execute the 5Y business plan strategy for each shopping centre
-- Close cooperation with Leasing/Commercial department including assessment of leasing scenarios and preparation of recommendations to maximize asset value 
-- Source new opportunities to create value (rotation of the tenant mix, merger / split of units, specialty leasing, parking, EV chargers…)
-- Monitor and analyze the performance KPIs
-- Monitor and analyze the evolution of the catchment area and the competition
-
-Budget and Business Plan follow-up:
-- Verify and challenge the consistency of all budgeted leasing operations with the long term BP strategy
-- Prepare and present the reports / dashboards to follow-up the approved operations under execution
-
-Acquisition and Appraisal process
-- Collect and communicate the relevant data to the appraisers
-- Analyze the appraisal reports and challenge the assumptions taken to guarantee alignment between the appraisal and internally prepared valuations
-- Participate in the identification process of potential acquisitions
-- Participate in the due diligence process in the frame of asset disposal
-
-Project management
-- Coordinate cross-functions project teams and set the pace of execution (property management, finance, leasing/commercial)
-- Facilitate the share of information and relevant data within the project teams
-
-**Profil recherché**
-
-Education and experience:
-- Degree in preferably finance, business, or real estate
-- Interest in asset management: first experience (including internship) in real estate, audit or investment banking
-
-Skills and competencies:
-- Proactive and resourceful: ability to solve problems, anticipate needs and address issues before they arise.
-- Attention to detail and quality of your work.
-- Strong analytical and synthesis capacity.
-- Proactive and resourceful: ability to solve problems, anticipate needs and address issues before they arise.
-- Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint).
-
-Language:
-- Excellent verbal and written communication skills in English.
-- German and Dutch would be a plus but is not mandatory.
 
 </details>
 
