@@ -319,5 +319,10 @@
     "lat": 51.5725501,
     "lon": 8.1061259
   },
-  "entreprise|helexia corporate|milan|italie": null
+  "entreprise|helexia corporate|milan|italie": null,
+  "entreprise|societe pour l'informatique industrielle|bucarest|roumanie": null,
+  "ville|bucarest|roumanie": {
+    "lat": 44.4361414,
+    "lon": 26.102684
+  }
 }

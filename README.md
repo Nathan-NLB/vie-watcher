@@ -8,11 +8,99 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/09/2026 15:48:32**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **25/09/2026 16:06:29**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Contrôleur Financier International & Finance Transformation Analyst (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BUCAREST, ROUMANIE · 2 334,27 €/mois</summary>
+
+- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
+- **Lieu :** BUCAREST, ROUMANIE
+- **Indemnité :** 2 334,27 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 25/09/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes du poste grâce à sa formation en contrôle de gestion, son solide bagage technique sur Excel et ses deux années d'expérience en gestion financière. L'écart principal réside dans la localisation (Roumanie au lieu de l'Espagne souhaitée) et l'absence mentionnée d'expérience directe sur un ERP comme IFS, bien que ses compétences analytiques compensent largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246395](https://mon-vie-via.businessfrance.fr/offres/246395)
+
+**Description du poste**
+
+Envie de lancer votre carrière dans un environnement international et stimulant ?
+Rejoignez SII en VIE et vivez une expérience humaine et technologique unique !
+
+YOU MISSIONS :
+Rattaché(e) à la Responsable du Contrôle financier International, le/la Contrôleur Financier International contribue à la fiabilité du reporting financier des filiales internationales et au déploiement des projets de transformation de la fonction Finance. 
+Il/elle intervient principalement sur les activités de contrôle, d'analyse, de reporting et de maintien de la qualité des données financières. 
+
+ Votre rôle sera organisé en deux volets principaux :
+1.	CONTRÔLE DE GESTION ET REPORTING INTERNATIONAL
+Revue des reportings mensuels 
+•	Participer au processus de remontée des reporting mensuels 
+•	Contrôler la cohérence et l'exhaustivité des informations transmises par les filiales. 
+•	Réaliser des contrôles de cohérence entre les différents outils financiers. 
+•	Identifier les anomalies et assurer leur résolution avec les équipes locales. 
+Suivi des indicateurs de performance 
+•	Contrôler l'évolution des principaux KPIs  
+•	Analyser les ecarts, trouver les causes racines, presenter aux equipes dans le cadre des chantiers d'amelioration continue 
+
+2.	SUPPORT AU DEPLOIEMENT DE L’ERP GROUPE A TRAVERS LES FILIALES 
+Accompagnement des projets de migration 
+•	Participer aux phases de préparation des déploiements IFS comptabilité en lien avec l’équipe IT. 
+•	Réaliser les contrôles liés aux migrations de données. 
+•	Contribuer aux campagnes de tests utilisateurs. 
+•	Suivre les incidents et anomalies fonctionnelles. 
+Support utilisateurs 
+•	Assister les équipes Finance dans l'utilisation des nouveaux processus. 
+•	Participer à la rédaction de procédures et guides utilisateurs. 
+•	Contribuer aux actions de formation. 
+Contrôle des données de référence 
+•	Vérifier la qualité des données clients, fournisseurs, projets et collaborateurs. 
+•	Participer aux opérations de fiabilisation des bases de données.
+
+**Profil recherché**
+
+VOTRE PROFIL :
+Formation 
+•	Une formation Bac+5 (école de commerce ou master CCA ou DSCG)
+  
+Expérience 
+Au moins deux années d’expérience en comptabilité (cabinet ou entreprise) 
+Une première expérience dans le déploiement d’un outil constitue un véritable atout.  
+
+Compétences techniques 
+•	Excellente maîtrise d'Excel. 
+•	Base comptable solide  
+•	Connaissance d'un ERP (IFS, SAP, Oracle, Dynamics...).  
+
+Langues 
+Bon niveau de français et d’anglais  
+L’allemand est un plus  
+
+Qualités personnelles 
+•	Rigueur et sens du détail. 
+•	Esprit critique. 
+•	Autonomie. 
+•	Organisation et respect des délais. 
+
+POURQUOI NOUS REJOINDRE : 
+•	Une expérience internationale unique au cœur d’un environnement multiculturel
+•	Un tremplin pour évoluer rapidement
+•	L’intégration dans une équipe dynamique, bienveillante et certifiée Great Place To Work
+Prêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !
+
+LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !
+Si votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !
+
+QUI SOMMES-NOUS ?
+SII Group Roumanie est une filiale du groupe SII, composée d’une équipe dynamique et multiculturelle.
+Entreprise engagée et inclusive, SII est signataire de la Charte de la Diversité et de la Charte d’engagement LGBT+ avec l’association L’Autre Cercle.
+Nous sommes également Handi-accueillants et plaçons l’humain au cœur de nos projets.
+
+Alors si ces valeurs vous parlent, rejoignez-nous !
+
+</details>
 
 <details>
 <summary><strong>Business Controller / Finance Transformation (H/F)</strong> · LEGRAND FRANCE · SOEST, ALLEMAGNE · 3 030,57 €/mois</summary>
@@ -68,6 +156,61 @@ Que proposons-nous ?
 · Une expérience combinant finance, data et contrôle de gestion industrielle.
 · Un environnement international dynamique au sein du Groupe Legrand.
 · La possibilité de contribuer à des projets stratégiques dans une zone en croissance.
+
+</details>
+
+<details>
+<summary><strong>ASSET MANAGEMENT ANALYST -  (H/F)</strong> · KLEPIERRE MANAGEMENT · UTRECHT, PAYS-BAS · 3 395,60 €/mois</summary>
+
+- **Entreprise :** KLEPIERRE MANAGEMENT
+- **Lieu :** UTRECHT, PAYS-BAS
+- **Indemnité :** 3 395,60 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 25/09/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil financier et analytique de Nathan correspond bien aux attentes en matière de gestion et de KPIs, et son niveau d'anglais est suffisant. Cependant, l'offre relève de l'Asset Management immobilier et de la stratégie d'actifs (Klepierre à Utrecht), un secteur et des missions assez éloignés de son expérience principale en contrôle de gestion industriel.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246390](https://mon-vie-via.businessfrance.fr/offres/246390)
+
+**Description du poste**
+
+Your perimeter of responsibilities will include:
+
+Portfolio Strategy: 
+- With the Head of Asset Management, define and execute the 5Y business plan strategy for each shopping centre
+- Close cooperation with Leasing/Commercial department including assessment of leasing scenarios and preparation of recommendations to maximize asset value 
+- Source new opportunities to create value (rotation of the tenant mix, merger / split of units, specialty leasing, parking, EV chargers…)
+- Monitor and analyze the performance KPIs
+- Monitor and analyze the evolution of the catchment area and the competition
+
+Budget and Business Plan follow-up:
+- Verify and challenge the consistency of all budgeted leasing operations with the long term BP strategy
+- Prepare and present the reports / dashboards to follow-up the approved operations under execution
+
+Acquisition and Appraisal process
+- Collect and communicate the relevant data to the appraisers
+- Analyze the appraisal reports and challenge the assumptions taken to guarantee alignment between the appraisal and internally prepared valuations
+- Participate in the identification process of potential acquisitions
+- Participate in the due diligence process in the frame of asset disposal
+
+Project management
+- Coordinate cross-functions project teams and set the pace of execution (property management, finance, leasing/commercial)
+- Facilitate the share of information and relevant data within the project teams
+
+**Profil recherché**
+
+Education and experience:
+- Degree in preferably finance, business, or real estate
+- Interest in asset management: first experience (including internship) in real estate, audit or investment banking
+
+Skills and competencies:
+- Proactive and resourceful: ability to solve problems, anticipate needs and address issues before they arise.
+- Attention to detail and quality of your work.
+- Strong analytical and synthesis capacity.
+- Proactive and resourceful: ability to solve problems, anticipate needs and address issues before they arise.
+- Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint).
+
+Language:
+- Excellent verbal and written communication skills in English.
+- German and Dutch would be a plus but is not mandatory.
 
 </details>
 
