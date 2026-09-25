@@ -8,11 +8,66 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/09/2026 11:30:10**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **25/09/2026 11:47:24**, 81 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>ASSET MANAGEMENT ANALYST -  (H/F)</strong> · KLEPIERRE MANAGEMENT · UTRECHT, PAYS-BAS · 3 395,60 €/mois</summary>
+
+- **Entreprise :** KLEPIERRE MANAGEMENT
+- **Lieu :** UTRECHT, PAYS-BAS
+- **Indemnité :** 3 395,60 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 25/09/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil financier et analytique de Nathan correspond bien aux attentes en matière de gestion et de KPIs, et son niveau d'anglais est suffisant. Cependant, l'offre relève de l'Asset Management immobilier et de la stratégie d'actifs (Klepierre à Utrecht), un secteur et des missions assez éloignés de son expérience principale en contrôle de gestion industriel.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246390](https://mon-vie-via.businessfrance.fr/offres/246390)
+
+**Description du poste**
+
+Your perimeter of responsibilities will include:
+
+Portfolio Strategy: 
+- With the Head of Asset Management, define and execute the 5Y business plan strategy for each shopping centre
+- Close cooperation with Leasing/Commercial department including assessment of leasing scenarios and preparation of recommendations to maximize asset value 
+- Source new opportunities to create value (rotation of the tenant mix, merger / split of units, specialty leasing, parking, EV chargers…)
+- Monitor and analyze the performance KPIs
+- Monitor and analyze the evolution of the catchment area and the competition
+
+Budget and Business Plan follow-up:
+- Verify and challenge the consistency of all budgeted leasing operations with the long term BP strategy
+- Prepare and present the reports / dashboards to follow-up the approved operations under execution
+
+Acquisition and Appraisal process
+- Collect and communicate the relevant data to the appraisers
+- Analyze the appraisal reports and challenge the assumptions taken to guarantee alignment between the appraisal and internally prepared valuations
+- Participate in the identification process of potential acquisitions
+- Participate in the due diligence process in the frame of asset disposal
+
+Project management
+- Coordinate cross-functions project teams and set the pace of execution (property management, finance, leasing/commercial)
+- Facilitate the share of information and relevant data within the project teams
+
+**Profil recherché**
+
+Education and experience:
+- Degree in preferably finance, business, or real estate
+- Interest in asset management: first experience (including internship) in real estate, audit or investment banking
+
+Skills and competencies:
+- Proactive and resourceful: ability to solve problems, anticipate needs and address issues before they arise.
+- Attention to detail and quality of your work.
+- Strong analytical and synthesis capacity.
+- Proactive and resourceful: ability to solve problems, anticipate needs and address issues before they arise.
+- Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint).
+
+Language:
+- Excellent verbal and written communication skills in English.
+- German and Dutch would be a plus but is not mandatory.
+
+</details>
 
 <details>
 <summary><strong>Private Equity Analyst (H/F)</strong> · TIKEHAU INVESTMENT MANAGEMENT · SINGAPOUR, SINGAPOUR · 4 086,09 €/mois</summary>
@@ -4346,74 +4401,6 @@ Your profile:
 •	You have a good human contact and a critical mindset, you are autonomous, rigorous, figures oriented, dynamic, with a very good synthesis spirit.
 •	You are looking for a challenging, demanding but rewarding position
 •	You have some financial knowledge (ie. P&L…).
-
-</details>
-
-<details>
-<summary><strong>V.I.E. - 12 mois - Analyste opérations et processus junior - Luxembourg (H/F)</strong> · NATIXIS INVESTMENT MANAGERS · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
-
-- **Entreprise :** NATIXIS INVESTMENT MANAGERS
-- **Lieu :** LUXEMBOURG, LUXEMBOURG
-- **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 31/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245504](https://mon-vie-via.businessfrance.fr/offres/245504)
-
-**Description du poste**
-
-Description de l’entreprise
-
-Classée parmi les principaux gestionnaires d'actifs au monde avec plus de 1 300 milliards d’euros d'actifs sous gestion, Natixis Investment Managers (Natixis IM) propose une gamme de solutions diversifiées couvrant différents types de classes d'actifs, de styles de gestion et de véhicules, y compris des stratégies et des produits innovants répondant aux critères environnementaux, sociaux et de gouvernance (ESG) dédiés au développement de la finance durable.
-
-Les équipes de Natixis IM travaillent en partenariat avec leurs clients - investisseurs institutionnels, fonds d’investissement, entreprises et particuliers - afin de comprendre leurs besoins spécifiques et de leur fournir des informations et des solutions d'investissement adaptées à leurs objectifs à long terme.
-
-Grâce à l’approche multi-boutique de Natixis IM, les clients peuvent ainsi bénéficier de la réflexion et de l’expertise d’une vingtaine de sociétés de gestion active.
-
-Natixis Investment Managers International (Natixis IMI) est la principale société de gestion de Natixis IM en Europe. Elle réunit 2 activités :
-
-·       Les activités de distribution en Europe et dans d'autres zones géographiques comme l'APAC, le Moyen Orient, et l'Amérique latine, de l’offre en gestion d’actifs de Natixis IM ;
-
-·       Une plateforme de centres d’expertises (fonctions support) au service des activités de distribution et des affiliés.
-
-Natixis IMI poursuit son développement et renforce sa présence en France et à l’international, en s’appuyant sur l’expertise de ses équipes et sur le modèle multi-affiliés de Natixis IM.
-
-
-
-Poste et missions
-
-Vous rejoignez notre équipe, qui recherche un Analyste opérations et processus junior, pour un V.I.E. de 12 mois à partir de janvier 2027.
-
- 
-
-Pour les activités de la branche luxembourgeoise de NIMI, vous aiderez un des represents permanents avec la gestion journalière du bureau (office management) ainsi que dans sa fonction au sein du groupe Finance / Business Operations.
-
-Vos missions pricipales seront :
-
-Lancement des nouveaux fonds ;
-Fusion de fonds ;
-Liquidations de fonds ;
-Lancement / changement / suppression de parts de fonds ;
-Implémentation de nouveaux produits.
- 
-
-Ce poste est de nature administrative/back-office dans le domaine de la gestion d’actifs.
-
-**Profil recherché**
-
-Vous avez un diplôme Bac+2/3 d'école de commerce ou Université en Finance.
-Vous maîtrisez parfaitement le Pack Office.
-Vous êtes rigoureux.
-Vous avez l'esprit de synthèse, d'autonomie et l'esprit d'initiative, qui sont des qualités indispensables pour cette mission.
-Vous êtes également reconnu pour vos capacités relationnelles et rédactionnelles.
-And last but not least, you are perfectly fluent in English.
-Vous serez contacté par l’un de nos recruteurs avant de rencontrer nos experts métier.
-Un moment d’échange idéal pour mettre en avant votre personnalité ainsi que votre projet.
-
-Ce poste est réservé aux candidats éligibles au programme V.I.E. de Business France :
-- Citoyens français ou européens ;
-- Avoir entre 18 et 28 ans ;
-- Être originaire d'un pays autre que le pays d’accueil ;
-- Être diplômé.
 
 </details>
 

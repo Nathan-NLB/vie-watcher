@@ -308,5 +308,10 @@
   "ville|singapour|singapour": {
     "lat": 1.2899175,
     "lon": 103.8519072
+  },
+  "entreprise|klepierre management|utrecht|pays-bas": null,
+  "ville|utrecht|pays-bas": {
+    "lat": 52.0907006,
+    "lon": 5.1215634
   }
 }
