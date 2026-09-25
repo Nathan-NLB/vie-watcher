@@ -313,5 +313,11 @@
   "ville|utrecht|pays-bas": {
     "lat": 52.0907006,
     "lon": 5.1215634
-  }
+  },
+  "entreprise|legrand france|soest|allemagne": null,
+  "ville|soest|allemagne": {
+    "lat": 51.5725501,
+    "lon": 8.1061259
+  },
+  "entreprise|helexia corporate|milan|italie": null
 }

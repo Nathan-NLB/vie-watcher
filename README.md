@@ -8,11 +8,68 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/09/2026 13:47:28**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **25/09/2026 14:06:46**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Business Controller / Finance Transformation (H/F)</strong> · LEGRAND FRANCE · SOEST, ALLEMAGNE · 3 030,57 €/mois</summary>
+
+- **Entreprise :** LEGRAND FRANCE
+- **Lieu :** SOEST, ALLEMAGNE
+- **Indemnité :** 3 030,57 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 25/09/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond très bien aux attentes techniques en contrôle de gestion, reporting et maîtrise d'Excel, avec un excellent niveau d'anglais. Le principal écart réside dans le pays de mission (Allemagne) par rapport à sa préférence pour l'Espagne, ainsi que dans l'absence mentionnée d'expérience préalable sur SAP.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246393](https://mon-vie-via.businessfrance.fr/offres/246393)
+
+**Description du poste**
+
+Dans un contexte de transformation et de digitalisation de la fonction Finance, vous contribuerez activement à l'amélioration des outils de pilotage, des processus financiers et du contrôle de gestion au sein de la zone Allemagne / Autriche.
+Rattaché(e) au Directeur Administratif et Financier, vous accompagnerez les équipes Finance et Opérations dans l'exploitation des nouveaux outils issus du déploiement de SAP et participerez à l'harmonisation des processus de reporting et de contrôle de gestion.
+Une attention particulière sera portée au développement de nouveaux dashboards de pilotage, à l'amélioration de la qualité des données et au renforcement du contrôle de gestion industriel, notamment dans le cadre de la mise en place du module SAP PS (Project System) sur le site de production de Modulan.
+Cette mission s'inscrit dans la continuité des activités de reporting, de business controlling et d'amélioration du contrôle interne.
+PRINCIPALES ACTIVITES : 
+1. Digitalisation Finance & Business Intelligence
+· Accompagner la transformation digitale du département Finance.
+· Concevoir et déployer de nouveaux dashboards et outils de pilotage à partir des données SAP.
+· Participer à l'évolution et à l'optimisation des reportings financiers et opérationnels.
+· Contribuer à l'amélioration de la qualité, de la disponibilité et de la fiabilité des données.
+· Accompagner les utilisateurs dans l'adoption des nouveaux outils et indicateurs de performance.
+2. Contrôle de gestion & Performance
+· Participer aux clôtures mensuelles et à l'analyse de la performance économique.
+· Accompagner les équipes dans le pilotage économique des activités.
+· Contribuer à l'harmonisation des méthodes de calcul et des processus de contrôle de gestion entre les différentes entités de la zone.
+· Développer des analyses permettant d'améliorer le pilotage de la rentabilité et des activités opérationnelles.
+· Identifier des opportunités d'amélioration de la performance et être force de proposition.
+3. Audit interne – Contrôle interne
+· Contribution à l’amélioration des dispositifs de Contrôle Interne
+· Participation au processus annuel d’auto-évaluation
+· Assurer le suivi des plans d'actions associés.
+
+**Profil recherché**
+
+De formation supérieure (école de commerce ou universitaire) avec une première expérience significative en Finance, idéalement dans un environnement international,
+· Connaissances approfondies en comptabilité et dans l’établissement d’analyses et rapports économiques,
+· Aptitude et gout à travailler avec les applications informatiques telles que MS-office (dont a minima Excel- niveau avancé), système ERP et Office 365
+· Anglais professionnel obligatoire, l'allemand est un vrai plus
+Qualités attendues :
+· Esprit analytique et orientation résultats.
+· Curiosité pour les systèmes d'information et la data.
+· Autonomie, initiative et proactivité.
+· Capacité à travailler dans un environnement international et transversal.
+· Sens de l'organisation et de la communication.
+· Goût pour le changement et l'amélioration continue.
+Que proposons-nous ?
+· Une mission au cœur de la transformation Finance et de la digitalisation des processus.
+· Une forte exposition aux projets SAP et aux outils associés.
+· Une expérience combinant finance, data et contrôle de gestion industrielle.
+· Un environnement international dynamique au sein du Groupe Legrand.
+· La possibilité de contribuer à des projets stratégiques dans une zone en croissance.
+
+</details>
 
 <details>
 <summary><strong>ASSET MANAGEMENT ANALYST -  (H/F)</strong> · KLEPIERRE MANAGEMENT · UTRECHT, PAYS-BAS · 3 395,60 €/mois</summary>
@@ -113,6 +170,51 @@ Profile:
 
 To apply, please follow directly the link following: https://tikehau-capital-career.talentview.io/jobs/za20re 
 Applications outside this canal will not be taken into account
+
+</details>
+
+<details>
+<summary><strong>Junior Financial Controller (F/H) (H/F)</strong> · HELEXIA CORPORATE · MILAN, ITALIE · 2 998,98 €/mois</summary>
+
+- **Entreprise :** HELEXIA CORPORATE
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 2 998,98 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 25/09/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux exigences techniques du poste (contrôle de gestion, clôtures, reporting, Excel avancé) et à son appétence pour l'international avec un excellent niveau d'anglais. Le seul léger écart réside dans la maîtrise de l'italien demandée par l'entreprise, bien qu'il soit ouvert à l'international et hispanophone.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246257](https://mon-vie-via.businessfrance.fr/offres/246257)
+
+**Description du poste**
+
+Présentation de la société :
+
+Fondée en 2010, Helexia est une force motrice dans le secteur de la transition énergétique. Sa mission est de construire des modèles énergétiques gagnants pour ses clients et pour la planète. Avec près de 400 collaborateurs, Helexia a réalisé plus de 350 projets photovoltaïques, pour une puissance installée de 198MWc. Helexia se développe dans 7 pays : France, Italie, Portugal, Espagne, Hongrie, Roumanie, et Pologne. Helexia accompagne ses clients avec des solutions innovantes, performantes et intégrées à 360° pour l'optimisation énergétique de leurs bâtiments tertiaires, industriels et commerciaux, leur permettant de réaliser leurs ambitions de réduction de l'empreinte carbone de leur entreprise grâce à une trajectoire sur mesure. Les services d'Helexia sont développés autour de quatre piliers : l'efficacité énergétique, la production d'énergie verte autoconsommée, la gestion de l'énergie et la mobilité électrique.
+
+Poste et missions :
+
+Nous recherchons un(e) Contrôleur Financier Junior F/H hautement motivé(e) et techniquement compétent pour rejoindre notre équipe financière Italienne à Milan !
+
+Vous serez responsable de préparer les clôtures mensuelles ainsi que les analyses de performance associées. En prenant appui sur les analyses financières, vous collaborerez avec la Direction Financière Italienne ainsi qu’avec l'équipe FP&A groupe dans l’objectif d’élaborer et de développer des études de cas d’investissements et les méthodes de contrôle et de reporting.
+
+Vos principales responsabilités seront les suivantes :
+
+• Préparation des clôtures mensuelles et des reporting dans les délais exigés,
+• Edition des rapports mensuels et analyse des écarts vs le budget et les prévisions,
+• Analyse des performances et des tendances,
+• Élaboration d’études de cas afin d’accompagner nos choix d'investissement,
+• Participation active au développement de nouveaux projets et initiatives financiers,
+• Préparation d'analyses et de rapports financiers,
+• Soutien au processus budgétaire et de planification financière,
+• Maintien et développement des modèles financiers et des bases de données,
+
+**Profil recherché**
+
+Diplômé(e) d’un Bachelor ou d’un Master en en économie, finance, école de commerce ou d’ingénieur, vous disposez d’une première expérience (2 à 3 ans) en planification financière ou en contrôle de gestion au sein d’une entreprise multinationale.
+
+Vous disposez de solides compétences analytiques et êtes reconnu(e) pour votre capacité à tenir les délais et à avancer sur différents sujets en parallèle. Vous êtes rigoureux(se), précis(e) et avez souci du détail.
+De nature positive, vous appréciez le travail en équipe et savez vous montrer proactif(ve) dans le développement de solutions. Vous êtes doté(e) de très bonnes compétences interpersonnelles. Vous êtes curieux(se), désireux(se) de développer vos connaissances.
+
+Excellente maîtrise de la suite office, particulièrement PowerPoint et Excel. Vous parlez couramment Italien et Anglais (le français est un plus).
 
 </details>
 

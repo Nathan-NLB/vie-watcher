@@ -19,6 +19,10 @@
     "score": 85,
     "raison": "Le profil de Nathan correspond très bien aux missions de Financial Performance Analyst grâce à son Master en contrôle de gestion, son expérience en analyse financière et sa maîtrise de Power BI et de l'anglais (TOEIC 925). Le principal point de vigilance réside dans le besoin de maîtriser un ERP et l'outil BPC, non mentionnés dans son CV."
   },
+  "246257": {
+    "score": 85,
+    "raison": "Le profil de Nathan correspond parfaitement aux exigences techniques du poste (contrôle de gestion, clôtures, reporting, Excel avancé) et à son appétence pour l'international avec un excellent niveau d'anglais. Le seul léger écart réside dans la maîtrise de l'italien demandée par l'entreprise, bien qu'il soit ouvert à l'international et hispanophone."
+  },
   "246372": {
     "score": 45,
     "raison": "Le candidat possède de solides compétences financières et un profil international pertinent avec un excellent niveau d'anglais. Cependant, l'offre cible un poste de Private Equity Analyst exigeant une expérience en M&A ou capital-investissement, alors que le parcours du candidat est orienté vers le contrôle de gestion."
@@ -26,5 +30,9 @@
   "246390": {
     "score": 65,
     "raison": "Le profil financier et analytique de Nathan correspond bien aux attentes en matière de gestion et de KPIs, et son niveau d'anglais est suffisant. Cependant, l'offre relève de l'Asset Management immobilier et de la stratégie d'actifs (Klepierre à Utrecht), un secteur et des missions assez éloignés de son expérience principale en contrôle de gestion industriel."
+  },
+  "246393": {
+    "score": 75,
+    "raison": "Le profil de Nathan correspond très bien aux attentes techniques en contrôle de gestion, reporting et maîtrise d'Excel, avec un excellent niveau d'anglais. Le principal écart réside dans le pays de mission (Allemagne) par rapport à sa préférence pour l'Espagne, ainsi que dans l'absence mentionnée d'expérience préalable sur SAP."
   }
 }
