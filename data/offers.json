@@ -4035,30 +4035,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "201",
-      "259"
+      "[\"17\",\"201\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. \n\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\n\nThe role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.\n\nKey Responsibilities:\n\nFinancial Reporting & Analysis\n• Prepare and maintain financial reports and KPIs.\n• Assist with budgeting, forecasting, and variance analysis.\n• Analyze revenue, expenses, and key business metrics to identify trends and insights.\n• Support management reporting and ad hoc financial analyses.\n• Revenue Operations & Finance Support\n• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.\n• Assist in maintaining accurate data across CRM, payroll, and financial systems.\n• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.\n• Contribute to process improvement initiatives supporting commercial and finance operations.\n\nExpense Management & Financial Operations\n• Monitor employee travel and business expenses and support compliance with company policies.\n• Analyze spending trends and assist with cost control initiatives.\n• Support month-end, quarter-end, and year-end close activities.\n• Assist with operational reporting and other recurring finance processes.\n\nBusiness Systems & Process Improvement\n• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.\n• Help improve data quality, reporting consistency, and process efficiency.\n• Contribute to reporting automation and continuous improvement initiatives.",
     "creationDate": "2026-08-19T20:33:54Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5701,16 +5680,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We're looking for an FP&A Analyst to join the finance team of a growing SaaS scale-up. Reporting to the Head of Financial Planning and Analysis and working closely with the CFO, you'll get hands-on exposure to the financial operations of a company moving into its next stage of growth. You'll work alongside senior leadership on real finance projects, building the skills to see how financial planning, reporting, and analysis directly shape decision-making in a business that's scaling fast. This role is based in the Boston area, and is hybrid to work directly with the CEO and CFO, who are both based there.\nWhat Your Impact Looks Like\nAt Shift, we value ownership from day one. In this role, you will:\n•\tSupport the CFO and Head of FP&A on financial analysis, reporting, and ad hoc projects that directly inform business decisions.\n•\tMaintain and improve financial models, dashboards, and internal reports, keeping leadership's view of the business accurate and current.\n•\tOrganize, clean, and analyze large or imperfect datasets in Excel and Google Sheets, using formulas, pivot tables, and lookups to turn raw numbers into usable insight.\n•\tExplore how AI tools can complement traditional analysis, testing new approaches to sharpen and speed up financial reporting.\n•\tAssist with core FP&A and accounting tasks as needs arise across the finance function.\n•\tPrepare clear, executive-ready presentations and reports in Google Slides and Google Docs.\n•\tContribute to process improvements across finance, accounting, and operations, simplifying recurring workflows where you spot the opportunity.\n•\tConduct research and benchmarking to support strategic and operational decisions.",
     "creationDate": "2026-09-04T01:27:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
