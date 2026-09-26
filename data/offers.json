@@ -4119,16 +4119,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The resource will actively participate in the deployment of the business offering (residential and commercial real estate finance, corporate finance, lombard/securities based lending, HoldCo finance), supporting the local team in the day-by-day activities.\nMain tasks:\n· Analyze the financial situation of clients and / or prospects and assess which extraordinary financial strategy best fits their needs.\n· Prepare analyses, reports, marketing pitch-books, term sheets and related materials to be delivered to clients and prospects.\n· Prepare credit papers and financing transaction requests.\nInteract with other key divisions of the Bank along the credit process (Wealth Managers, Risk, Legal Team etc.)\n· Assist in the execution of deals.\n· Document projects and activities through a structured and regular reporting.\n· Document and maintain the knowledge of the financial situation and the needs of the Client, taking into account at the same time financial, professional and personal aspects.\n. Identify and manage all risks and compliance issues for the client and the bank, based on latest regulation given by competent national and international Authorities as well as the Group.\n\nThe resource will be exposed to a challenging and rapidly changing international environment, which requires multi-tasking skills, relating to several key people within the organization, and meeting tight deadlines. It's a good opportunity to discover the world of Wealth Management, in particular on the structured financing side, from the perspective of one of the most active international banks in this market.",
     "creationDate": "2026-09-15T08:52:59Z",
     "missionStartDate": "2027-01-01T00:00:00",
