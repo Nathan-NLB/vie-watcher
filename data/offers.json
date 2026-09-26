@@ -5862,16 +5862,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "326"
+      "[\"326\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Ce poste, au sein de Naval Group Malaysia, débute en janvier 2027. Rattaché(e) au Directeur Général, vous serez en charge des missions suivantes:\n\nCOMPLIANCE :\n1. À travers le déploiement du plan d'actions Compliance, assurer la diffusion du Code de Conduite Compliance et les Politiques, Instructions et outils associés\n2. Développer et mettre à jour la cartographie des risques de compliance \n3. Veiller à ce que tous les employés suivent une formation en ligne tous les deux ans\n4. Sensibiliser et communiquer chaque mois sur des sujets portant sur la Compliance \n5. Veiller à ce que tout le personnel de l'entité se conforme au Programme de Compliance\n6. Enquêter sur les plaintes et les incidents de compliance portés à votre attention par les employés de votre entité et alerter la Direction de la Compliance sur les risques identifiés et le non-respect du code de conduite anti-corruption\n7. Procéder à une évaluation des risques de tiers, un contrôle préalable, sur les fournisseurs et l’ensemble des nouvelles adhésions et nouveaux parrainages conclus au nom de l'entité\n8. À la demande de la Direction Compliance groupe, participer aux enquêtes menées au sein de votre entité\n9. Tenir à jour le Registre de Compliance et le registre des conflits d'intérêts\n10. Examiner et, si elle est satisfaite, approuver les cadeaux (reçus/offerts) et les avantages conformément à la politique de l'entité \n11. Préparer la partie du rapport annuel relative à la mise en œuvre des obligations de compliance au sein de votre entité.\n\nCONFIDENTIALITÉ DES DONNÉES :\n1. Informer et conseiller le Directeur général de NGMY et ses employés\n2. Veiller au respect des réglementations locales, adapter et mettre en œuvre localement les procédures de confidentialité du Groupe \n4. Contrôler, signaler et suivre les risques \n5. Sensibiliser les collaborateurs (formation, communication…)\n6. Tenir à jour le registre du traitement des données à caractère personnel.\n\nACHATS :\n1. Approvisionnement au quotidien : Traiter les demandes d'achat internes concernant fournitures de bureau, matériel informatique, licences logicielles, mobilier et services liés au bureau.\n2. Gestion des fournisseurs et négociation : Identifier des fournisseurs locaux fiables, demander des devis et négocier prix, conditions de paiement et contrats de niveau de service\n3. Traitement des commandes et des factures :  Émettre des Demandes d’Approvisionnement, suivre les livraisons, vérifier la conformité des biens/services reçus par rapport aux factures, assurer la coordination avec le service financier pour le traitement des paiements.\n\nDÉVELOPPEMENT COMMERCIAL :1. Soutenir les activités de développement commercial et assurer le suivi auprès des clients potentiels et existant2. Aider à préparer la documentation, les présentations et les rapports sur le développement commercial\n\n3.Soutenir communication et visibilité de l'entreprise sur le marché malaisien (activités promotion/sensibilisation)",
     "creationDate": "2026-09-03T16:00:38Z",
     "missionStartDate": "2027-01-01T00:00:00",
