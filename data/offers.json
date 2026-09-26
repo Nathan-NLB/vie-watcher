@@ -2292,16 +2292,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le contrôleur de gestion a pour mission le suivi et reporting des performances comptables et financières des projets en-cours, d'informer des déviations budgétaires et de préparer et améliorer les reportings et tableaux de bord.\r\n\r\nCost control & Reporting :\r\n- Suivi mensuel des coûts des projets, analyse des variations et animation de réunions mensuelles avec l'équipe projet pour présenter les résultats, discuter des déviations et mettre en place conjointement des actions correctives.\r\n- Controler et suivre le chiffre d'affaires et l'engagement des dépenses par projets\r\n- Mensuellement, répartir les dépenses communes par projets\r\n- Participer aux processus budgétaires, prévisions et analyse des écarts.\r\n\r\nComptabilité/Reporting :\r\n- Préparer le reporting financier mensuel et remonter les résultats dans les outils groupe selon le calendrier Colas Rail\r\n- ‎Verifier l'imputation des depenses\r\n\r\nDivers:\r\n- Support a la direction pays, métier et préparation d'analyses selon les besoins\r\n- Support aux autres fonctions support\r\n- Amélioration de l'outil de cost control en se basant sur les outils proposés par le groupe",
     "creationDate": "2026-09-22T13:23:03Z",
     "missionStartDate": "2026-12-01T00:00:00",
