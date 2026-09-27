@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **28/09/2026 00:04:56**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **28/09/2026 00:28:36**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4669,52 +4669,6 @@ Informations pratiques
 
 Lieu : Tokyo, Japon
 Durée du contrat VIE : 24 mois
-
-</details>
-
-<details>
-<summary><strong>Junior Trader (H/F)</strong> · BLUE CUBE (FRANCE) · LONDRES, ROYAUME-UNI · 3 827,06 €/mois</summary>
-
-- **Entreprise :** BLUE CUBE (FRANCE)
-- **Lieu :** LONDRES, ROYAUME-UNI
-- **Indemnité :** 3 827,06 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 28/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245487](https://mon-vie-via.businessfrance.fr/offres/245487)
-
-**Description du poste**
-
-We are seeking a highly motivated Junior Trading Analyst to join our dynamic team, supporting a 24-7 EMEA, Singapore and US over-the-counter (OTC) cryptocurrency spot flow operation. This role provides an exceptional opportunity to make a significant impact within our fast-growing and innovative organization with the ability to move into a full time trader role.
-Responsibilities:
-Monitor and analyze market trends, news, and economic data to identify trading opportunities and content for research reports
-Assist traders in the execution, booking and reporting of trades across various internal systems
-Conduct quantitative and qualitative analysis of trading and hedging strategies and market conditions
-Prepare and maintain daily, weekly, and monthly trading reports
-Collaborate with other team members to improve trading, booking and settlement processes and systems
-Assist in the management of trading risk and compliance with regulatory requirements.
-Stay updated with industry developments and emerging market trends
-Qualifications:
-Bachelor’s degree in Finance, Economics, Mathematics, Computer Science, or a related field
-Strong analytical and quantitative skills with the ability to interpret complex data sets.
-Proficiency in Excel and familiarity with programming languages such as Python, R, or SQL
-Excellent communication and teamwork skills
-Ability to work in a fast-paced, high-pressure environment
-Keen interest in financial markets and trading
-Excellent interpersonal and communication skills, with a client-focused approach to trading
-Demonstrated ability to perform under pressure, make quick decisions and handle high volumes of transactions
-A keen interest in staying updated with trends and news in the fast-paced world of cryptocurrencies. Prior personal experience is a plus
-Must be comfortable working flexible hours in coordination with our Singapore and UK teams
-The ideal candidate will be a hungry, hard-working individual accustomed to earning a significant portion of income through commission. If you are ready to seize this challenging opportunity and make a substantial contribution to our operation, we invite you to apply
-
-**Profil recherché**
-
-We are looking for a highly motivated and ambitious Junior Trading Analyst to join our global trading team and support our 24/7 OTC cryptocurrency spot trading operation across EMEA, Singapore, and the US. This is an excellent opportunity for someone early in their career who is passionate about financial markets and crypto and wants to develop into a full-time Trader role.
-
-The ideal candidate is highly analytical, commercially minded, hard-working, and comfortable in a fast-paced, high-pressure environment. They will work closely with experienced traders, supporting trade execution, booking and reporting, monitoring market trends and news, and identifying potential trading opportunities. They will also assist with the analysis of trading and hedging strategies, risk management, and improvements to trading and settlement processes.
-
-We are looking for candidates with a degree in Finance, Economics, Mathematics, Computer Science, or another quantitative field, with strong analytical and numerical skills. Strong Excel proficiency is important, while familiarity with Python, R, or SQL is a plus.
-
-Candidates should have a genuine interest in financial markets and cryptocurrencies, strong communication skills, attention to detail, and the ability to make quick decisions and perform under pressure. Above all, we are looking for someone hungry, entrepreneurial, resilient, and performance-driven, who is eager to build a career in trading and comfortable working flexible hours with global teams.
 
 </details>
 

@@ -5708,16 +5708,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n \r\nWe invite you to join us as a VIE, in our Master Data Services Department\r\n\r\nThe key responsibilities are: \r\n\r\nThe VIE program is designed to provide the incumbent with comprehensive, hands-on experience across day-to-day deliverables such as delivery of portfolio securities valuation for fund administered as a Client Operations Officer.\r\n\r\nThe candidate will be in the position to: \r\n- Responsible for the day-to-day deliverables: Delivery of portfolio securities valuation for fund administered including: \r\n   - Security Pricing, FX & Interest Rates, Stale Price Analysis, Customer Support/Alert, EUCs Update \r\n   -  Control and validate market data coming from data providers (Bloomberg, Reuters, etc.)\r\n   - Analyze and execute the corporate action event (dividend, spin off, shares split, etc.)\r\n- Responsible for Securities setup and data maintenance \r\n- Involved in in-house projects and development \r\n- Accountable for Global Servicing from operating location (includes shifts and work on bank / legal holidays and weekend when required)\r\n- Maintain statistics up to date (including daily team checklist update)\r\n- Ensure effective resolution of enquiries\r\n\r\nGood Reasons to Join Us \r\n1.\tJoin an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2.\tDevelop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3.\tExpand your professional horizons with numerous mobility opportunities within the group. \r\n4.\tThrive in a company that respects its employees and clients.  \r\n5.\tTake advantage of ongoing training to enhance your skills and boost your employability. \r\n6.\tOpportunity to work in a multicultural environment and engage with a diverse team.",
     "creationDate": "2026-09-04T08:45:52Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -6668,76 +6661,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "https://jobs.orano.group/fr_FR/jobs/JobDetail/Contr-leur-de-gestion-H-F/15207?source=External%2BCareers%2BMarketplace",
-    "dateCandidature": null
-  },
-  {
-    "id": 245487,
-    "organizationName": "BLUE CUBE (FRANCE)",
-    "missionTitle": "Junior Trader (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "Blockchain.com is the world's leading software platform for digital assets. Offering the largest production blockchain platform in the world, we share the passion to code, create, and ultimately build an open, accessible and fair financial future, one piece of software at a time.",
-    "organizationUrlImage": "http://null.jpeg",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "4",
-    "effectifInd": "4",
-    "effectifConso": "4",
-    "organizationCountryCounter": "8",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "LONDRES",
-    "cityNameEn": "LONDRES",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "180"
-    ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
-    "missionDescription": "We are seeking a highly motivated Junior Trading Analyst to join our dynamic team, supporting a 24-7 EMEA, Singapore and US over-the-counter (OTC) cryptocurrency spot flow operation. This role provides an exceptional opportunity to make a significant impact within our fast-growing and innovative organization with the ability to move into a full time trader role.\nResponsibilities:\nMonitor and analyze market trends, news, and economic data to identify trading opportunities and content for research reports\nAssist traders in the execution, booking and reporting of trades across various internal systems\nConduct quantitative and qualitative analysis of trading and hedging strategies and market conditions\nPrepare and maintain daily, weekly, and monthly trading reports\nCollaborate with other team members to improve trading, booking and settlement processes and systems\nAssist in the management of trading risk and compliance with regulatory requirements.\nStay updated with industry developments and emerging market trends\nQualifications:\nBachelor’s degree in Finance, Economics, Mathematics, Computer Science, or a related field\nStrong analytical and quantitative skills with the ability to interpret complex data sets.\nProficiency in Excel and familiarity with programming languages such as Python, R, or SQL\nExcellent communication and teamwork skills\nAbility to work in a fast-paced, high-pressure environment\nKeen interest in financial markets and trading\nExcellent interpersonal and communication skills, with a client-focused approach to trading\nDemonstrated ability to perform under pressure, make quick decisions and handle high volumes of transactions\nA keen interest in staying updated with trends and news in the fast-paced world of cryptocurrencies. Prior personal experience is a plus\nMust be comfortable working flexible hours in coordination with our Singapore and UK teams\nThe ideal candidate will be a hungry, hard-working individual accustomed to earning a significant portion of income through commission. If you are ready to seize this challenging opportunity and make a substantial contribution to our operation, we invite you to apply",
-    "creationDate": "2026-08-28T13:31:37Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2027-11-01T00:00:00",
-    "startBroadcastDate": "2026-08-28T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-09-27T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "We are looking for a highly motivated and ambitious Junior Trading Analyst to join our global trading team and support our 24/7 OTC cryptocurrency spot trading operation across EMEA, Singapore, and the US. This is an excellent opportunity for someone early in their career who is passionate about financial markets and crypto and wants to develop into a full-time Trader role.\n\nThe ideal candidate is highly analytical, commercially minded, hard-working, and comfortable in a fast-paced, high-pressure environment. They will work closely with experienced traders, supporting trade execution, booking and reporting, monitoring market trends and news, and identifying potential trading opportunities. They will also assist with the analysis of trading and hedging strategies, risk management, and improvements to trading and settlement processes.\n\nWe are looking for candidates with a degree in Finance, Economics, Mathematics, Computer Science, or another quantitative field, with strong analytical and numerical skills. Strong Excel proficiency is important, while familiarity with Python, R, or SQL is a plus.\n\nCandidates should have a genuine interest in financial markets and cryptocurrencies, strong communication skills, attention to detail, and the ability to make quick decisions and perform under pressure. Above all, we are looking for someone hungry, entrepreneurial, resilient, and performance-driven, who is eager to build a career in trading and comfortable working flexible hours with global teams.",
-    "countryId": "GB",
-    "countryName": "ROYAUME-UNI",
-    "countryNameEn": "UNITED KINGDOM",
-    "reference": "VIE245487",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Lola RODRIGUEZ",
-    "indemnite": 3827.06,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "lrodriguez@blockchain.com",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
     "dateCandidature": null
   },
   {
