@@ -94,16 +94,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nPonticelli Frères, groupe industriel présent à l'international au service des entreprises du secteur de l'energie.\n recherche dans le cadre d'un VIE, un contrôleur de gestion dont la mission est d’aider au pilotage des projets de la Filiale. Il analyse les performances économiques et financières. Il est en charge de faire des rapports à sa hiérarchie en lui préconisant des actions correctives à réaliser en vue d’optimiser la rentabilité. Il établit également les procédures de gestion.",
     "creationDate": "2025-02-05T16:45:25Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1473,16 +1466,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The V.I.E. will have the following responsibilities:\nThe Americas Financial Analyst routinely interacts with the Americas Regional Group President and \nBusiness Directors and Managers, Supply Chain Manager, Business Development, Supply Chain and \nCustomer Service functions, Operations Accounting, the regional reporting and consolidation group of \nArkema Inc., and the Finance Teams in other regions. This role also interacts regularly with the Molecular \nSieves and Surfactants US teams. The Americas region consists of four (4) entities and five (4) \nmanufacturing facilities (located in US, Mexico and Brazil), as well as 1 capacity reservation and significant \nimported products from Molecular Sieves and Surfactants Business. \nOverall, this position aligns with the BU and Americas Finance Manager to prepare and deliver detail files, \nfinancial reporting, analysis and support of all profit centers (4 in Functional Additives, 4 in Surfactants \nresale and 2 in Molecular Sieves resale). This role also helps coordinates to consolidate the BU’s Americas \nresults and prepare the monthly earnings package, as well as ensures the monthly operating results are \ncommunicated in a timely and accurate manner to business management. Additional responsibilities \ninclude working with the Americas Finance Manager on the annual budget process, business \nreview/planning, some financial modeling, ad-hoc reporting, special process improvement and SAP testing \nprojects, as well as preparation of financial information in support of business requests.\nMonthly Reporting and Analysis - Actual vs Forecast 30% - Work with Americas Finance Manager to \nconsolidate the BU’s Americas results and prepare the monthly earnings package, as well as collaboration \nin maintaining systems used to prepare the monthly “Flash” estimate of earnings on the 1st Work Day; \nMaintain the Analytical Income Statement (AIS) reporting files and update them with forecast and actual \ninformation, as well as prior year and budget information to allow for proper analysis of results; Utilize AIS \nexcel reporting file information to compile Income Statements for each business; Works with Americas \nFinance Manager to compile information from AIS and other Excel files to help prepare PowerPoint \nMonthly Reporting Packaging for review at the Monthly S&OP Business Review;Prepares monthly structural \ncost reporting\nMonthly Forecast and Management Business Review (MBR) Meeting Preparation 25% - Prepare the \nArkema Inc. 3 month forecast of operational results, working with business management, sales, marketing, \nlogistics, purchasing, accounting and manufacturing to identify significant trends; Consolidate the regional \nforecast with additional data from Canada, Mexico and Brazil; Work with Americas Finance Manager during \nthe annual business review process for FA Americas by helping to maintain the regional BU budget models \nto reflect the business global plan; May assist, as requested, the Americas Finance Manager in preparation \nof business model presentations for Management Business Review meetings.\nAnnual Budget and Planning 25% - Work with Americas Finance Manager to facilitate the annual budget \nprocess for Arkema Inc. Maintain the regional BU budget model; Review budget data and confirm data \nalignment with SAP/BW and analytics – provide confirmation or discrepancy information with comments \nto Americas Finance Manager for review; Assist with the preparation of the budget review presentation \nand ensuring the budget process is tracked, monitored and maintained year round; Work with Americas \nFinance Manager to prepare detail files specific to volume, sales and margin, and structural costs; Provide \ndetailed analysis that will be reviewed by Americas Finance Manager and provided to the Global Finance \nDirector.\nFinancial Analysis and Special Projects 20% - Ad hoc analysis/reporting as requested; SAP/BW testing of \nreports for process improvements, developing financial processes and reports to support business \nprocesses; Work on emerging issues and financial information for crisis response, including ad-hoc \nreporting, as necessary; Serves as backup to Americas Finance Manager for other budgeting, analysis and \nclosing activities as required; Assists Americas Finance Manager with review and update of transfer pricing \nas necessary; Assists Americas Finance Manager with review and update of transfer pricing as necessary.",
     "creationDate": "2026-09-22T15:16:10Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2586,16 +2572,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tMaintain and further develop our credit risk measurement methodologies\n•\tProvide timely and quality-assured risk metrics and other management indicators for Credit Risk Management, the Management Board, and other bank committees\n•\tFurther develop methodologies within the ICAAP and stress testing framework in accordance with MaRisk requirements\n•\tSupport the development, implementation, and validation of models\n•\tContribute to cross-risk-type topics and projects",
     "creationDate": "2026-09-21T14:28:47Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3062,16 +3041,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le groupe BK CONSULTING est une ESN de 800 personnes active dans les secteurs de la finance et de l’industrie en France, en Belgique et au Grand-Duché du Luxembourg. Notre proposition de valeur réside dans notre double compétence informatique et financière qui nous positionne comme un partenaire privilégié chez nos clients. Dans le cadre du développement de nos activités en Belgique et au Grand-Duché du Luxembourg, nous recherchons un/des Business Consultant en VIE.\r\n\r\nMissions Proposées :\r\nParticiper à des analyse de processus métiers.\r\nSpécifier les attentes des utilisateurs à destination de l'informatique.\r\nGestion et suivi de processus back office et middle office (AML/KYC). Analyse de dossiers clients corporate et particuliers.\r\nIdentification des projets et des besoins de vos clients.\r\n\r\nNotre offre, un management et une équipe qui supportent votre dynamique. Un acteur bien implanté et reconnu sur ses marchés. Des outils de travail adaptés. Des perspectives d’évolution significatives au sein du groupe.",
     "creationDate": "2026-09-21T13:32:04Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -6975,37 +6947,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9",
-      "201",
-      "259"
+      "[\"8\",\"9\",\"201\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "FILIALE FRANCAISE DE GRIMALDI GROUP, MULTINATIONALE DE LOGISTIQUE INTEGREE SPECIALISEE DANS LE TRANSPORT MARITIME DE VOITURES, MATERIEL ROULANT, CONTENEURS, PASSAGERS. DETENU A 100% PAR LA FAMILLE GRIMALDI,LE GROUPE EST PRESENT SUR LE CONTINENT AFRICAIN DEPUIS PLUS DE 40 ANS.\nCHIFFRES CLES : PLUS DE 90 BUREAUX DANS LE MONDE, 18000 SALARIES, 150 PORTS TOUCHES, 130 NAVIRES DANS LA FLOTTE.\n\nLe Poste :\nSupport de l’équipe financière en Afrique de l’Ouest,\nEnregistrement et suivi des opérations comptables,\nParticipation à l’élaboration des bilans et rapports financiers,\nCollaboration avec l’équipe locale pour assurer le respect des normes en vigueur.\n\nNous vous offrons :\nUne expérience professionnelle internationale dans un cadre dynamique,\nUn accompagnement logistique et administratif dans le cadre du détachement,\nDes opportunités de développement personnel et professionnel.",
     "creationDate": "2026-08-28T10:58:20Z",
     "missionStartDate": "2026-12-01T00:00:00",
