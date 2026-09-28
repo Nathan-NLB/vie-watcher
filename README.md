@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **28/09/2026 15:51:37**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **28/09/2026 16:08:09**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2661,116 +2661,6 @@ Proactivity, accuracy, desire to learn, sense of responsibility
 Excellent command of  Office tools, in particular Power Point and Excel; Excellent analytical, synthesis and writing skills
 Fluency in English
 Knowledge of the Real Estate Finance business would be considered a plus
-
-</details>
-
-<details>
-<summary><strong>Responsable de la relation client (Responsable de la relation client) (H/F)</strong> · LEXIFI · NEW YORK  -NY-, ETATS-UNIS · 5 025,51 €/mois</summary>
-
-- **Entreprise :** LEXIFI
-- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
-- **Indemnité :** 5 025,51 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 15/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245718](https://mon-vie-via.businessfrance.fr/offres/245718)
-
-**Description du poste**
-
-Lieu : New York, États-Unis
-Société : LexiFi Inc.
-Durée : 18 mois
-Date de début : À confirmer
-Rattachement hiérarchique : Responsable Développement Commercial États-Unis
-À propos de LexiFi
-LexiFi est une société de logiciels de technologie financière spécialisée dans les produits structurés et les dérivés. Notre plateforme est utilisée par des institutions financières pour gérer l’ensemble du cycle de vie des produits structurés, notamment la valorisation, la documentation, la saisie des transactions, la gestion du cycle de vie, l’intégration des données et les processus opérationnels.
-LexiFi Inc. a été créée aux États-Unis afin d’établir une présence locale, de mieux accompagner nos clients américains existants et de développer de nouvelles opportunités commerciales en Amérique du Nord. Dans le cadre de cette expansion, nous recherchons un(e) Customer Success Manager pour rejoindre notre équipe à New York.
-Missions
-Le/la Customer Success Manager contribuera à la fourniture de services de support et d’implémentation de haute qualité aux clients américains de LexiFi Inc., tout en participant au développement de la présence locale de l’entreprise.
-Ce poste est idéal pour une personne souhaitant évoluer à l’intersection des marchés financiers, de la technologie, du support client et du développement commercial. Le/la candidat(e) retenu(e) travaillera en étroite collaboration avec le responsable du lancement des activités aux États-Unis, l’équipe technique locale et les équipes LexiFi basées en France.
-Responsabilités
-Support client et gestion de la relation client
-Vous participerez au support quotidien des clients américains existants, notamment des institutions financières utilisant les solutions LexiFi pour leurs activités liées aux produits structurés.
-Vos responsabilités incluront :
-•	Répondre aux questions et demandes de support des clients.
-•	Analyser les problématiques fonctionnelles et techniques.
-•	Coordonner les échanges avec les développeurs et spécialistes produit lorsqu’une analyse approfondie est nécessaire.
-•	Assurer le suivi des demandes afin de garantir leur résolution satisfaisante.
-•	Documenter les questions récurrentes, incidents et solutions apportées.
-•	Contribuer au maintien de relations clients solides grâce à une communication claire et professionnelle.
-Implémentation et onboarding
-Vous contribuerez aux projets d’implémentation et d’intégration des clients, notamment à la configuration et au déploiement des solutions LexiFi dans leurs environnements.
-Cela pourra inclure :
-•	Participer à la collecte et à la clarification des besoins clients.
-•	Accompagner les activités de configuration et de tests.
-•	Intervenir sur les sujets liés aux données, aux workflows et aux intégrations.
-•	Préparer les supports de formation destinés aux utilisateurs.
-•	Participer aux sessions de formation des utilisateurs.
-•	Coordonner le suivi des projets d’implémentation avec les équipes internes.
-Expertise produit et coordination interne
-Vous développerez progressivement une connaissance approfondie des logiciels LexiFi, des processus liés aux produits structurés et des cas d’usage clients.
-Vous collaborerez avec les équipes en France et aux États-Unis afin de :
-•	Remonter les questions produit et les retours clients.
-•	Aider à la priorisation des sujets en fonction de leur impact pour les clients.
-•	Contribuer à la documentation interne.
-•	Partager les retours du marché américain avec les équipes produit et support.
-•	Participer à l’amélioration continue des processus de support client.
-Support avant-vente et développement commercial
-Dans le cadre du développement de LexiFi Inc. sur le marché américain, vous contribuerez également aux activités commerciales pilotées par l’équipe de direction locale.
-Cela pourra inclure :
-•	Participer aux démonstrations produit.
-•	Préparer les supports pour les réunions clients.
-•	Accompagner les phases de preuve de concept (PoC) et d’évaluation.
-•	Contribuer à l’analyse des besoins des prospects.
-•	Assurer le suivi des réunions et démonstrations.
-•	Faciliter la transition entre les phases d’avant-vente et les projets d’implémentation.
-Profil recherché
-Nous recherchons un profil junior motivé, doté de solides capacités d’analyse, d’une grande curiosité intellectuelle et d’un intérêt marqué pour la finance et la technologie.
-Le/la candidat(e) idéal(e) possède :
-•	Un diplôme de niveau Master ou une formation d’ingénieur / école de commerce.
-•	Un fort intérêt pour les marchés financiers, les produits structurés, les dérivés ou la fintech.
-•	Une bonne compréhension des systèmes logiciels et des flux de données.
-•	D’excellentes capacités de communication en anglais.
-•	Une aptitude à travailler avec des clients professionnels exigeants.
-•	De solides compétences en résolution de problèmes et un grand sens du détail.
-•	De l’autonomie, de la rigueur et une forte capacité d’apprentissage.
-•	La capacité à travailler avec des équipes réparties entre la France et les États-Unis, dans des fuseaux horaires différents.
-Une expérience préalable dans la banque, les services financiers ou la fintech serait un atout.
-Compétences techniques
-Les compétences suivantes seraient appréciées :
-•	Connaissances de base des produits dérivés et des produits structurés.
-•	Familiarité avec Python, VBA, les API ou les formats de données.
-•	Capacité à traduire les besoins clients en spécifications internes claires.
-Une expertise technique approfondie n’est pas requise au démarrage, mais le/la candidat(e) devra être prêt(e) à développer progressivement une compréhension solide du produit et de son environnement technique.
-Ce que vous apprendrez
-Ce poste vous offrira une exposition concrète aux éléments suivant :
-•	Le marché américain des technologies financières.
-•	Les produits structurés, les dérivés et leurs workflows opérationnels.
-•	L’implémentation de logiciels d’entreprise.
-•	Les métiers du Customer Success et du support auprès d’institutions financières.
-•	Le lancement et le développement d’une filiale américaine.
-•	La collaboration internationale entre les équipes françaises et américaines.
-Ce poste représente une opportunité unique de rejoindre l’équipe fondatrice des activités américaines d’une fintech spécialisée et de contribuer directement à son développement en Amérique du Nord.
-
-**Profil recherché**
-
-Profil recherché
-Nous recherchons un profil junior motivé, doté de solides capacités d’analyse, d’une grande curiosité intellectuelle et d’un intérêt marqué pour la finance et la technologie.
-Le/la candidat(e) idéal(e) possède :
-•	Un diplôme de niveau Master ou une formation d’ingénieur / école de commerce.
-•	Un fort intérêt pour les marchés financiers, les produits structurés, les dérivés ou la fintech.
-•	Une bonne compréhension des systèmes logiciels et des flux de données.
-•	D’excellentes capacités de communication en anglais.
-•	Une aptitude à travailler avec des clients professionnels exigeants.
-•	De solides compétences en résolution de problèmes et un grand sens du détail.
-•	De l’autonomie, de la rigueur et une forte capacité d’apprentissage.
-•	La capacité à travailler avec des équipes réparties entre la France et les États-Unis, dans des fuseaux horaires différents.
-Une expérience préalable dans la banque, les services financiers ou la fintech serait un atout.
-Compétences techniques
-Les compétences suivantes seraient appréciées :
-•	Connaissances de base des produits dérivés et des produits structurés.
-•	Familiarité avec Python, VBA, les API ou les formats de données.
-•	Capacité à traduire les besoins clients en spécifications internes claires.
-Une expertise technique approfondie n’est pas requise au démarrage, mais le/la candidat(e) devra être prêt(e) à développer progressivement une compréhension solide du produit et de son environnement technique.
 
 </details>
 
