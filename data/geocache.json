@@ -326,5 +326,10 @@
     "lon": 26.102684
   },
   "entreprise|direction generale du tresor|tokyo|japon": null,
-  "entreprise|dashbook|barcelone|espagne": null
+  "entreprise|dashbook|barcelone|espagne": null,
+  "entreprise|lim france|wellington   -fl-|etats-unis": null,
+  "ville|wellington   -fl-|etats-unis": {
+    "lat": 26.6549551,
+    "lon": -80.2375279
+  }
 }

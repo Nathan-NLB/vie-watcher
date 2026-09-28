@@ -157,16 +157,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nPonticelli Frères, groupe industriel présent à l'international au service des entreprises du secteur de l'energie.\n recherche dans le cadre d'un VIE, un contrôleur de gestion dont la mission est d’aider au pilotage des projets de la Filiale. Il analyse les performances économiques et financières. Il est en charge de faire des rapports à sa hiérarchie en lui préconisant des actions correctives à réaliser en vue d’optimiser la rentabilité. Il établit également les procédures de gestion.",
     "creationDate": "2025-02-05T16:45:25Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -262,6 +255,69 @@
     "cityAffectation": "",
     "idNomenclatureSecteur": null,
     "externalJobId": "p6f8rbinicc",
+    "contactURL": "",
+    "dateCandidature": null
+  },
+  {
+    "id": 246402,
+    "organizationName": "LIM FRANCE",
+    "missionTitle": "Business Operations (H/F)",
+    "missionDuration": 18,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "168",
+    "effectifInd": "164",
+    "effectifConso": "193",
+    "organizationCountryCounter": "0",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "WELLINGTON   -FL-",
+    "cityNameEn": "WELLINGTON   -FL-",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"259\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "-Support the development and structuring of the company’s U.S. operations through improved financial, administrative, and operational processes.\n-Contribute to cost optimization initiatives related to procurement, travel, transportation, and logistics activities.\n-Strengthen administrative compliance and coordination with external partners, including banks, insurance providers, accountants, and logistics service providers.\n-Participate in the standardization and digitalization of internal processes to improve efficiency and scalability.\n-Develop and enhance reporting tools, dashboards, and KPIs to support business monitoring and decision-making.\n-Assist in implementing process improvement projects that support the company’s growth and operational performance in the U.S. market.",
+    "creationDate": "2026-09-25T21:07:56Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2028-06-01T00:00:00",
+    "startBroadcastDate": "2026-09-28T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-10-28T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "•Strong analytical, organizational, and problem-solving skills. \n• Excellent communication and interpersonal abilities. \n• Advanced proficiency in Microsoft Excel and business reporting tools. \n• Experience with ERP systems, BI tools, and business process automation initiatives is highly desirable. \n• Ability to manage multiple priorities in a fast-paced and entrepreneurial  environment.\n\n- Bachelor's degree in Business Administration, Finance, Accounting, Supply \nChain, Operations Management, or a related field. \n-Experience in business operations, finance, administration, controlling, or supply \nchain management is a plus",
+    "countryId": "US",
+    "countryName": "ETATS-UNIS",
+    "countryNameEn": "UNITED STATES",
+    "reference": "VIE246402",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Madame Marie DANIEL",
+    "indemnite": 4217.57,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "awedderburn@lim-group.cpm",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
     "contactURL": "",
     "dateCandidature": null
   },
@@ -3340,7 +3396,7 @@
     "effectif": 0,
     "effectifFiscal": "78",
     "effectifInd": "50",
-    "effectifConso": "113",
+    "effectifConso": "126",
     "organizationCountryCounter": "0",
     "organizationExpertise": null,
     "cityAffectationId": 0,
@@ -3349,37 +3405,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "259",
-      "318",
-      "320"
+      "[\"180\",\"259\",\"318\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n\r\nWe invite you to join us as a VIE in our Custody Services Department.\r\n\r\nThe candidate will be in the position to: \r\n•\tProcess receipt of Income payments within agreed service standards.\r\n•\tFull adherence to the team’s control functions, including operations/events and end-of-the-day checklists.\r\n•\tAssist with the day-to-day administrative tasks of investigation/amendment and clearance of reconciling items in ensuring accurate processing.\r\n•\tEnsure that queries raised/assigned to individuals are answered within agreed service standards.\r\n•\tEnsure on-going productivity by providing back-up relief for staff who are absent or on leave.\r\n•\tContinually ensure complete awareness of Client, external custodians and inter-departmental Service Level Standards / Agreements and ensure compliance at all times.\r\n•\tEnsure prompt escalation of operational issues that may cause financial or reputational issues to CACEIS or its clients to Senior Officer/Assistant Manager/Manager of the team/department. \r\n•\tEstablish working relationships with people at all levels both inter departmental and across the wider firm.\r\n•\tProvide feedback on agent network and vendor performance on any deviations from their service level agreement with CACEIS.\r\n•\tAble to demonstrate capability to perform validation on common task.\r\n\r\nGood Reasons to Join Us \r\n1.\tJoin an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2.\tDevelop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3.\tExpand your professional horizons with numerous mobility opportunities within the group. \r\n4.\tThrive in a company that respects its employees and clients.  \r\n5.\tTake advantage of ongoing training to enhance your skills and boost your employability. \r\n6.\tOpportunity to work in a multicultural environment and engage with a diverse team.",
     "creationDate": "2026-09-17T09:25:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5391,7 +5419,7 @@
     "effectif": 0,
     "effectifFiscal": "78",
     "effectifInd": "50",
-    "effectifConso": "113",
+    "effectifConso": "126",
     "organizationCountryCounter": "0",
     "organizationExpertise": null,
     "cityAffectationId": 0,
@@ -5400,16 +5428,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n \r\nWe invite you to join us as a VIE, in our Master Data Services Department\r\n\r\nThe key responsibilities are: \r\n\r\nThe VIE program is designed to provide the incumbent with comprehensive, hands-on experience across day-to-day deliverables such as delivery of portfolio securities valuation for fund administered as a Client Operations Officer.\r\n\r\nThe candidate will be in the position to: \r\n- Responsible for the day-to-day deliverables: Delivery of portfolio securities valuation for fund administered including: \r\n   - Security Pricing, FX & Interest Rates, Stale Price Analysis, Customer Support/Alert, EUCs Update \r\n   -  Control and validate market data coming from data providers (Bloomberg, Reuters, etc.)\r\n   - Analyze and execute the corporate action event (dividend, spin off, shares split, etc.)\r\n- Responsible for Securities setup and data maintenance \r\n- Involved in in-house projects and development \r\n- Accountable for Global Servicing from operating location (includes shifts and work on bank / legal holidays and weekend when required)\r\n- Maintain statistics up to date (including daily team checklist update)\r\n- Ensure effective resolution of enquiries\r\n\r\nGood Reasons to Join Us \r\n1.\tJoin an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2.\tDevelop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3.\tExpand your professional horizons with numerous mobility opportunities within the group. \r\n4.\tThrive in a company that respects its employees and clients.  \r\n5.\tTake advantage of ongoing training to enhance your skills and boost your employability. \r\n6.\tOpportunity to work in a multicultural environment and engage with a diverse team.",
     "creationDate": "2026-09-04T08:45:52Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5540,16 +5561,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We're looking for an FP&A Analyst to join the finance team of a growing SaaS scale-up. Reporting to the Head of Financial Planning and Analysis and working closely with the CFO, you'll get hands-on exposure to the financial operations of a company moving into its next stage of growth. You'll work alongside senior leadership on real finance projects, building the skills to see how financial planning, reporting, and analysis directly shape decision-making in a business that's scaling fast. This role is based in the Boston area, and is hybrid to work directly with the CEO and CFO, who are both based there.\nWhat Your Impact Looks Like\nAt Shift, we value ownership from day one. In this role, you will:\n•\tSupport the CFO and Head of FP&A on financial analysis, reporting, and ad hoc projects that directly inform business decisions.\n•\tMaintain and improve financial models, dashboards, and internal reports, keeping leadership's view of the business accurate and current.\n•\tOrganize, clean, and analyze large or imperfect datasets in Excel and Google Sheets, using formulas, pivot tables, and lookups to turn raw numbers into usable insight.\n•\tExplore how AI tools can complement traditional analysis, testing new approaches to sharpen and speed up financial reporting.\n•\tAssist with core FP&A and accounting tasks as needs arise across the finance function.\n•\tPrepare clear, executive-ready presentations and reports in Google Slides and Google Docs.\n•\tContribute to process improvements across finance, accounting, and operations, simplifying recurring workflows where you spot the opportunity.\n•\tConduct research and benchmarking to support strategic and operational decisions.",
     "creationDate": "2026-09-04T01:27:46Z",
     "missionStartDate": "2026-12-01T00:00:00",

@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **28/09/2026 17:08:33**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **28/09/2026 17:33:24**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -33,6 +33,40 @@ Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 **Profil recherché**
 
 Profil recherché :<br />- Formation : Diplômé(e) de Grande Ecole.<br />- Compétences : Forte capacité d'analyse, aptitude à la gestion de projet, et compétences en gestion des opérations. Rigueur et capacité à travailler de manière autonome et à mener des initiatives stratégiques.<br />- Qualités personnelles : Esprit entrepreneurial, adaptabilité, rigueur, et excellentes compétences en communication écrite et orale. Goût pour l'innovation et l'univers des créateurs de contenu.<br />- Langues : Maîtrise du Français et de l'Anglais, et idéalement de l’Espagnol.<br />- Expérience : toute expérience similaire bienvenue.<br />Ce que nous offrons :-<br /> -Un environnement de travail à Barcelone, dynamique dans une entreprise innovante en pleine expansion.<br />- La possibilité de travailler directement avec la direction et de contribuer de manière significative à la stratégie de développement.<br />- Un cadre de travail flexible et une culture d'entreprise qui valorise l'innovation, la collaboration, et l'initiative.<br />- Des perspectives d'évolution dans la société (Direction Pays).
+
+</details>
+
+<details>
+<summary><strong>Business Operations (H/F)</strong> · LIM FRANCE · WELLINGTON   -FL-, ETATS-UNIS · 4 217,57 €/mois</summary>
+
+- **Entreprise :** LIM FRANCE
+- **Lieu :** WELLINGTON   -FL-, ETATS-UNIS
+- **Indemnité :** 4 217,57 €/mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
+- **Publiée le :** 28/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246402](https://mon-vie-via.businessfrance.fr/offres/246402)
+
+**Description du poste**
+
+-Support the development and structuring of the company’s U.S. operations through improved financial, administrative, and operational processes.
+-Contribute to cost optimization initiatives related to procurement, travel, transportation, and logistics activities.
+-Strengthen administrative compliance and coordination with external partners, including banks, insurance providers, accountants, and logistics service providers.
+-Participate in the standardization and digitalization of internal processes to improve efficiency and scalability.
+-Develop and enhance reporting tools, dashboards, and KPIs to support business monitoring and decision-making.
+-Assist in implementing process improvement projects that support the company’s growth and operational performance in the U.S. market.
+
+**Profil recherché**
+
+•Strong analytical, organizational, and problem-solving skills. 
+• Excellent communication and interpersonal abilities. 
+• Advanced proficiency in Microsoft Excel and business reporting tools. 
+• Experience with ERP systems, BI tools, and business process automation initiatives is highly desirable. 
+• Ability to manage multiple priorities in a fast-paced and entrepreneurial  environment.
+
+- Bachelor's degree in Business Administration, Finance, Accounting, Supply 
+Chain, Operations Management, or a related field. 
+-Experience in business operations, finance, administration, controlling, or supply 
+chain management is a plus
 
 </details>
 
