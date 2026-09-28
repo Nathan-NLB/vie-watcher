@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **28/09/2026 04:05:18**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **28/09/2026 04:30:08**, 81 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4669,71 +4669,6 @@ Informations pratiques
 
 Lieu : Tokyo, Japon
 Durée du contrat VIE : 24 mois
-
-</details>
-
-<details>
-<summary><strong>COMPTABLE JUNIOR H/F (H/F)</strong> · GRIMALDI FRANCE · TEMA, GHANA · 3 475,69 €/mois</summary>
-
-- **Entreprise :** GRIMALDI FRANCE
-- **Lieu :** TEMA, GHANA
-- **Indemnité :** 3 475,69 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 28/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245482](https://mon-vie-via.businessfrance.fr/offres/245482)
-
-**Description du poste**
-
-FILIALE FRANCAISE DE GRIMALDI GROUP, MULTINATIONALE DE LOGISTIQUE INTEGREE SPECIALISEE DANS LE TRANSPORT MARITIME DE VOITURES, MATERIEL ROULANT, CONTENEURS, PASSAGERS. DETENU A 100% PAR LA FAMILLE GRIMALDI,LE GROUPE EST PRESENT SUR LE CONTINENT AFRICAIN DEPUIS PLUS DE 40 ANS.
-CHIFFRES CLES : PLUS DE 90 BUREAUX DANS LE MONDE, 18000 SALARIES, 150 PORTS TOUCHES, 130 NAVIRES DANS LA FLOTTE.
-
-Le Poste :
-Support de l’équipe financière en Afrique de l’Ouest,
-Enregistrement et suivi des opérations comptables,
-Participation à l’élaboration des bilans et rapports financiers,
-Collaboration avec l’équipe locale pour assurer le respect des normes en vigueur.
-
-Nous vous offrons :
-Une expérience professionnelle internationale dans un cadre dynamique,
-Un accompagnement logistique et administratif dans le cadre du détachement,
-Des opportunités de développement personnel et professionnel.
-
-**Profil recherché**
-
-Diplôme en économie, finance ou domaine similaire, expérience souhaitée, esprit d’équipe, maîtrise du français et de l’Anglais, dynamique et autonome, capacité d’adaptation dans un environnement multiculturel.
-
-</details>
-
-<details>
-<summary><strong>COMPTABLE JUNIOR (H/F)</strong> · GRIMALDI FRANCE · COTONOU, BENIN · 2 321,28 €/mois</summary>
-
-- **Entreprise :** GRIMALDI FRANCE
-- **Lieu :** COTONOU, BENIN
-- **Indemnité :** 2 321,28 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 28/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245481](https://mon-vie-via.businessfrance.fr/offres/245481)
-
-**Description du poste**
-
-Présentation de la société :
-FILIALE FRANCAISE DE GRIMALDI GROUP, MULTINATIONALE DE LOGISTIQUE INTEGREE SPECIALISEE DANS LE TRANSPORT MARITIME DE VOITURES, MATERIEL ROULANT, CONTENEURS, PASSAGERS. DETENU A 100% PAR LA FAMILLE GRIMALDI,LE GROUPE EST PRESENT SUR LE CONTINENT AFRICAIN DEPUIS PLUS DE 40 ANS. 
-CHIFFRES CLES : PLUS DE 90 BUREAUX DANS LE MONDE, 18000 SALARIES, 150 PORTS TOUCHES, 130 NAVIRES DANS LA FLOTTE.
-
-Le Poste :
-Support de l’équipe financière en Afrique de l’Ouest,
-Enregistrement et suivi des opérations comptables,
-Participation à l’élaboration des bilans et rapports financiers,
-Collaboration avec l’équipe locale pour assurer le respect des normes en vigueur.
-
-Nous vous offrons :
-Une expérience professionnelle internationale dans un cadre dynamique,
-Un accompagnement logistique et administratif dans le cadre du détachement,
-Des opportunités de développement personnel et professionnel.
-
-**Profil recherché**
-
-Diplôme en économie, finance ou domaine similaire, expérience souhaitée, esprit d’équipe, maîtrise du français et de l’Anglais, dynamique et autonome, capacité d’adaptation dans un environnement multiculturel.
 
 </details>
 
