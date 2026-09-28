@@ -1655,16 +1655,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Alpineo Consulting est un groupe de conseil IT indépendant d’environ 150 collaborateurs, présent en France (Lyon, Paris), en Suisse (Genève), en Belgique, au Luxembourg, au Portugal et bientôt en Espagne. Nos consultants accompagnent nos clients sur leurs projets IT les plus stratégiques. En pleine croissance, le groupe structure ses fonctions support et crée ce poste clé au sein de l’équipe RH & Finance groupe, basée à Genève. \r\n\r\nVous en êtes le garant des cycles financiers pour l’ensemble du groupe. Facturation, encaissements, clôtures, reporting, forecast : vous tenez les chiffres qui permettent à la direction de décider et vous êtes son interlocuteur direct au quotidien. \r\nC’est un poste de construction avec une vraie autonomie : vous structurez les processus financiers du groupe, vous déployez des automatisations concrètes, y compris avec l’IA.  Possibilité d'évolution à un rôle de responsable financier\r\n\r\nMission 1 : Facturation & encaissement (30 %) \r\nPiloter l’intégralité du cycle de facturation, de la validation des temps prestés à l’encaissement \r\nConstruire et faire respecter un calendrier mensuel de facturation par client, entité et pays \r\nContrôler temps saisis, bons de commande, tarifs et conditions contractuelles avant émission \r\nÉmettre, déposer et suivre les factures sur les portails clients ; débloquer rapidement les factures rejetées ou contestées \r\nOrganiser les relances clients et suivre les plans d’action jusqu’à l’encaissement \r\nAnalyser balance âgée, DSO et prestations non facturées ; alerter la direction et les Business Managers en cas de risque \r\n\r\nMission 2 : Contrôle de gestion & FP&A (25 %) \r\nProduire le reporting financier mensuel du groupe et de ses entités \r\nConstruire et analyser les P&L par entité, Business Manager, client et mission \r\nAnalyser et suivre les indicateurs propres au métier du conseil : TJM, taux d’activité, intercontrat, marge par consultant, revenu par ETP, backlog, DSO \r\nPréparer budgets, forecasts et analyses de scénarios ; formuler des recommandations concrètes à la direction \r\nConstruire avec le pôle RH des indicateurs communs : effectifs, masse salariale, coûts chargés, rentabilité par ETP \r\n\r\nMission 3 : Comptabilité, clôtures & trésorerie (20 %) \r\nConstruire et maintenir un prévisionnel de trésorerie glissant pour l’ensemble des entités \r\nContrôler les factures fournisseurs et préparer les campagnes de paiement \r\nAnalyser les rapprochements, provisions, factures à établir et opérations intercompagnies \r\nCoordonner les clôtures mensuelles et annuelles selon un calendrier groupe \r\nEchanger avec les cabinets comptables externes de chaque pays : objectifs, délais, qualité \r\nProduire les fichiers de virement pour la paie des différents pays et faire les virements mensuels en respectant les deadlines. \r\n\r\nMission 4 : Coordination (15 %)\t \r\nFaire respecter les calendriers de clôture et de facturation auprès des Business Managers et des équipes support \r\nCommuniquer de manière claire, fiable et proactive avec la direction \r\nAxe transverse : Transformation, automatisation & IA (10 %) \r\nCartographier les processus financiers, identifier les tâches manuelles et les risques d’erreur \r\nDéployer des automatisations : contrôles d’anomalies, préparation des relances, rapprochements, reporting \r\nIdentifier et mettre en œuvre des cas d’usage pertinents de l’IA pour la fonction finance \r\nDocumenter procédures, responsabilités et règles de validation \r\n\r\nVos 6 premiers mois \r\nDes objectifs clairs, sur lesquels nous nous engageons ensemble : \r\nUn calendrier groupe de facturation et de clôture sécurisé et respecté \r\nUn volume de prestations non facturées et de factures rejetées en nette baisse \r\nUn P&L mensuel exploitable par Business Manager \r\nUn forecast de trésorerie et de performance structuré \r\nAu moins deux automatisations mesurables déployées",
     "creationDate": "2026-09-14T17:38:32Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1716,7 +1709,7 @@
     "effectif": 0,
     "effectifFiscal": "50",
     "effectifInd": "20",
-    "effectifConso": "0",
+    "effectifConso": "46",
     "organizationCountryCounter": "15",
     "organizationExpertise": null,
     "cityAffectationId": 0,
@@ -1725,317 +1718,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "2",
-      "29",
-      "60",
-      "62",
-      "63",
-      "64",
-      "65",
-      "66",
-      "68",
-      "69",
-      "70",
-      "71",
-      "72",
-      "73",
-      "76",
-      "109",
-      "114",
-      "134",
-      "138",
-      "149",
-      "150",
-      "155",
-      "158",
-      "159",
-      "160",
-      "168",
-      "169",
-      "197",
-      "205",
-      "206",
-      "207",
-      "208",
-      "209",
-      "224",
-      "225",
-      "244",
-      "248",
-      "251",
-      "262",
-      "264",
-      "330",
-      "331",
-      "358",
-      "361"
+      "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "29",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique industrielle",
-        "specializationLabelEn": "Industrial Computing"
-      },
-      {
-        "specializationId": "60",
-        "specializationParentId": "59",
-        "specializationLabel": "Aéronautique",
-        "specializationLabelEn": "Aeronautics"
-      },
-      {
-        "specializationId": "62",
-        "specializationParentId": "196",
-        "specializationLabel": "Bâtiment – Construction – Second Oeuvre",
-        "specializationLabelEn": "Building - Construction - Finishings"
-      },
-      {
-        "specializationId": "63",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie - Génie Chimique",
-        "specializationLabelEn": "Chemicals - Chemical Engineering"
-      },
-      {
-        "specializationId": "64",
-        "specializationParentId": "59",
-        "specializationLabel": "Dessin industriel",
-        "specializationLabelEn": "Industrial Design"
-      },
-      {
-        "specializationId": "65",
-        "specializationParentId": "59",
-        "specializationLabel": "Electromécanique",
-        "specializationLabelEn": "Electro-mechanics"
-      },
-      {
-        "specializationId": "66",
-        "specializationParentId": "59",
-        "specializationLabel": "Electronique",
-        "specializationLabelEn": "Electronics"
-      },
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "69",
-        "specializationParentId": "255",
-        "specializationLabel": "Environnement - Ecologie",
-        "specializationLabelEn": "Environment - Ecology"
-      },
-      {
-        "specializationId": "70",
-        "specializationParentId": "196",
-        "specializationLabel": "Génie Civil – Travaux publics",
-        "specializationLabelEn": "Civil Engineering - Public Works"
-      },
-      {
-        "specializationId": "71",
-        "specializationParentId": "59",
-        "specializationLabel": "Génie Electrique",
-        "specializationLabelEn": "Electrical Engineering"
-      },
-      {
-        "specializationId": "72",
-        "specializationParentId": "255",
-        "specializationLabel": "Hydraulique - Thermique",
-        "specializationLabelEn": "Hydraulics - Thermal Industry"
-      },
-      {
-        "specializationId": "73",
-        "specializationParentId": "59",
-        "specializationLabel": "Instrumentation - Automatisme - Robotique",
-        "specializationLabelEn": "Instrumentation - Automatism - Robotics"
-      },
-      {
-        "specializationId": "76",
-        "specializationParentId": "59",
-        "specializationLabel": "Métallurgie",
-        "specializationLabelEn": "Metallurgy"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "114",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie des matériaux",
-        "specializationLabelEn": "Materials sector"
-      },
-      {
-        "specializationId": "134",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie de l'eau",
-        "specializationLabelEn": "Water Engineering"
-      },
-      {
-        "specializationId": "138",
-        "specializationParentId": "212",
-        "specializationLabel": "Intelligence artificielle",
-        "specializationLabelEn": "Artificial Intelligence"
-      },
-      {
-        "specializationId": "149",
-        "specializationParentId": "58",
-        "specializationLabel": "Génie Industriel",
-        "specializationLabelEn": "Industrial Engineering"
-      },
-      {
-        "specializationId": "150",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de la production",
-        "specializationLabelEn": "Production Management"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "159",
-        "specializationParentId": "59",
-        "specializationLabel": "Soudage",
-        "specializationLabelEn": "Welding"
-      },
-      {
-        "specializationId": "160",
-        "specializationParentId": "59",
-        "specializationLabel": "Fonderie",
-        "specializationLabelEn": "Foundry"
-      },
-      {
-        "specializationId": "168",
-        "specializationParentId": "255",
-        "specializationLabel": "Nucléaire",
-        "specializationLabelEn": "Nuclear Industry"
-      },
-      {
-        "specializationId": "169",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie des procédés",
-        "specializationLabelEn": "Process Engineering"
-      },
-      {
-        "specializationId": "197",
-        "specializationParentId": "89",
-        "specializationLabel": "Conducteur",
-        "specializationLabelEn": "Driver"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "207",
-        "specializationParentId": "58",
-        "specializationLabel": "Méthodes - Process",
-        "specializationLabelEn": "Methods"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "209",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité systèmes",
-        "specializationLabelEn": "Quality systems"
-      },
-      {
-        "specializationId": "224",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécatronique",
-        "specializationLabelEn": "Mecatronics"
-      },
-      {
-        "specializationId": "225",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécanique des fluides",
-        "specializationLabelEn": "Mechanics of fluids"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "251",
-        "specializationParentId": "24",
-        "specializationLabel": "Ingénierie système",
-        "specializationLabelEn": "Systems engineering"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      },
-      {
-        "specializationId": "331",
-        "specializationParentId": "212",
-        "specializationLabel": "Réseaux et Sécurité Informatique",
-        "specializationLabelEn": "Réseaux et Sécurité Informatique"
-      },
-      {
-        "specializationId": "358",
-        "specializationParentId": "24",
-        "specializationLabel": "ERP management",
-        "specializationLabelEn": "ERP management"
-      },
-      {
-        "specializationId": "361",
-        "specializationParentId": "24",
-        "specializationLabel": "Systèmes embarqués",
-        "specializationLabelEn": "Systèmes embarqués"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. \n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions : \nSupply chain & distribution \nRéalisation d'audit\nRéalisation de plans d'actions\n\nVos responsabilités métier \n\nDans l’exercice de vos fonctions, vous serez amené à : \nOptimiser les flux de production\nIdentifier et suivre les actions d’amélioration avec les équipes internes \nSuivre et pérenniser les plans d’actions via des audits\nPiloter la planification de la production en fonction de la demande client et des capacités industrielles\nOptimiser les flux de matières, d’informations et de produits finis\nGérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités\nAccompagner les équipes dans la mise en place des bonnes pratiques\nCoordonner les projets d’amélioration de la maturité Supply Chain\nAnalyser les indicateurs de performance (KPI) et proposer des actions correctives\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
     "creationDate": "2026-08-21T14:42:01Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2352,7 +2037,7 @@
     "ca": null,
     "effectif": 0,
     "effectifFiscal": "0",
-    "effectifInd": "0",
+    "effectifInd": "437",
     "effectifConso": "50",
     "organizationCountryCounter": "0",
     "organizationExpertise": null,
@@ -2362,16 +2047,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le contrôleur de gestion a pour mission le suivi et reporting des performances comptables et financières des projets en-cours, d'informer des déviations budgétaires et de préparer et améliorer les reportings et tableaux de bord.\r\n\r\nCost control & Reporting :\r\n- Suivi mensuel des coûts des projets, analyse des variations et animation de réunions mensuelles avec l'équipe projet pour présenter les résultats, discuter des déviations et mettre en place conjointement des actions correctives.\r\n- Controler et suivre le chiffre d'affaires et l'engagement des dépenses par projets\r\n- Mensuellement, répartir les dépenses communes par projets\r\n- Participer aux processus budgétaires, prévisions et analyse des écarts.\r\n\r\nComptabilité/Reporting :\r\n- Préparer le reporting financier mensuel et remonter les résultats dans les outils groupe selon le calendrier Colas Rail\r\n- ‎Verifier l'imputation des depenses\r\n\r\nDivers:\r\n- Support a la direction pays, métier et préparation d'analyses selon les besoins\r\n- Support aux autres fonctions support\r\n- Amélioration de l'outil de cost control en se basant sur les outils proposés par le groupe",
     "creationDate": "2026-09-22T13:23:03Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2691,79 +2369,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "4",
-      "5",
-      "9",
-      "21",
-      "109",
-      "130",
-      "147",
-      "199",
-      "202",
-      "205"
+      "[\"4\",\"5\",\"9\",\"21\",\"109\",\"130\",\"147\",\"199\",\"202\",\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "4",
-        "specializationParentId": "89",
-        "specializationLabel": "Assurances",
-        "specializationLabelEn": "Insurance"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "130",
-        "specializationParentId": "193",
-        "specializationLabel": "Ingénieur Commercial ou d'Affaires, technico-commercial",
-        "specializationLabelEn": "Business Engineer, Sales Engineer"
-      },
-      {
-        "specializationId": "147",
-        "specializationParentId": "89",
-        "specializationLabel": "Services aux entreprises",
-        "specializationLabelEn": "Business Services"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "! Join a Dynamic and Exciting Team at Cleeven!\n\nAre you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? \nJoin us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!\n\nWHO WE ARE\n\nCleeven is an international engineering consulting firm built on two fundamental principles:\n\nOUR MISSION: \n\nTo enhance self-awareness and the awareness of those around us.\nOUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. As engineers, we work closely with our clients to ensure their global competitiveness.\n\nYOUR ROLE AS DATA ANALYST :\n\nAnalysis and synthesis of functional and technical requirements\nData asset analysis\nDefinition of statistical modeling to meet requirements\nSourcing and gathering all necessary structured and unstructured data sources for analysis\nStudy and comparison of statistical methods (PCA, logistic regression, random forest)\nImplementation and utilization of methods and models (R, SAS, Python, SPSS)\nOptimization of algorithm performance\nAnalysis and synthesis of information and results\nTechnological monitoring in Big Data, machine learning, and decisional statistics\nParticipation in solution qualification\n\nWHAT’S HAPPENING AT CLEEVEN?\n\nWe value the potential of our employees through various support programs:\nCleeven Coaching Program: A voluntary individual coaching program to contribute to your personal development.\nProject Follow-ups: Monthly reviews with your project manager to discuss project progress.\nBoost Your Skills: Bi-monthly events focusing on the expertise areas of Cleeven consultants.\nSocial Events: Regular gatherings throughout the year to strengthen team cohesion and sharing among Cleeven consultants.\n\"With Cleeven, become who you are!\"",
     "creationDate": "2026-08-28T07:15:47Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -4497,30 +4105,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "201",
-      "259"
+      "[\"17\",\"201\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. \n\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\n\nThe role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.\n\nKey Responsibilities:\n\nFinancial Reporting & Analysis\n• Prepare and maintain financial reports and KPIs.\n• Assist with budgeting, forecasting, and variance analysis.\n• Analyze revenue, expenses, and key business metrics to identify trends and insights.\n• Support management reporting and ad hoc financial analyses.\n• Revenue Operations & Finance Support\n• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.\n• Assist in maintaining accurate data across CRM, payroll, and financial systems.\n• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.\n• Contribute to process improvement initiatives supporting commercial and finance operations.\n\nExpense Management & Financial Operations\n• Monitor employee travel and business expenses and support compliance with company policies.\n• Analyze spending trends and assist with cost control initiatives.\n• Support month-end, quarter-end, and year-end close activities.\n• Assist with operational reporting and other recurring finance processes.\n\nBusiness Systems & Process Improvement\n• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.\n• Help improve data quality, reporting consistency, and process efficiency.\n• Contribute to reporting automation and continuous improvement initiatives.",
     "creationDate": "2026-08-19T20:33:54Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5411,7 +4998,7 @@
     "ca": null,
     "effectif": 0,
     "effectifFiscal": "0",
-    "effectifInd": "1511",
+    "effectifInd": "534",
     "effectifConso": "1522",
     "organizationCountryCounter": "0",
     "organizationExpertise": null,
@@ -5421,16 +5008,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As part of the development of its offshore and onshore installation activities, Nexans is recruiting a VIE Financial Analyst to join the Installation Finance team based in Oslo, Norway. The position is set in a context of ongoing process improvement, split 50% replacement and 50% new position, and involves close collaboration with Installation Operations Managers as well as the Controlling Manager and Financial Director.\n\nThe main objective of the mission is to analyze function and operations costs, and to provide financial support to the teams during month-end closing.\n\nThe volunteer will be in charge of:\n\nPreparing month-end reporting, forecasts and the annual budget\nAnalyzing variations between budget, forecast and actuals to anticipate potential risks and opportunities\nFollowing up capex and function costs\nContributing and participating in process improvement initiatives\nProviding financial support and advice to operations teams\n\nThe position involves key interfaces with Installation operations, the Installation Controlling Manager and Financial Director, the Finance community, as well as Nexans intercompany units based in France and Belgium. The volunteer will report to the IMR and the Installation Finance Director.\n\nExpected results include a consolidated view of Installation function costs (offshore and onshore activities across Norway, France and Belgium), cost control of function costs and vessels, a consolidated cost view and follow-up of Installation operations by project, and support to the pacing process for Installation operations.\n\nFor context on scope: the current Installation offshore budget outlook is approximately €1.4Bn (projects starting H2/2026 and FY 2027), FY 2026 H2 sales for Norway and France represent approximately €300M, and Installation headcount is approximately 450.",
     "creationDate": "2026-09-07T12:36:56Z",
     "missionStartDate": "2026-12-01T00:00:00",
