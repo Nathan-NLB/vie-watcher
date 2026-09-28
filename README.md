@@ -8,11 +8,95 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **28/09/2026 09:32:10**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **28/09/2026 09:49:50**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>DGT - SER Tokyo - Attaché(e) Macroéconomie et Marchés financiers (H/F)</strong> · DIRECTION GENERALE DU TRESOR · TOKYO, JAPON · 3 296,18 €/mois</summary>
+
+- **Entreprise :** DIRECTION GENERALE DU TRESOR
+- **Lieu :** TOKYO, JAPON
+- **Indemnité :** 3 296,18 €/mois
+- **Durée de la mission :** 24 mois (Du 4 janv. 2027 au 4 janv. 2029)
+- **Publiée le :** 28/09/2026
+- **Compatibilité avec ton profil :** 45 % — Bien que le candidat possède de solides compétences financières, son profil est axé sur le contrôle de gestion en entreprise et non sur la macroéconomie, la diplomatie ou les politiques publiques requises par ce poste au sein du Trésor. De plus, le poste demande des capacités rédactionnelles institutionnelles poussées et un intérêt pour l'économie japonaise, s'éloignant des préférences géographiques et professionnelles initiales du candidat.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246458](https://mon-vie-via.businessfrance.fr/offres/246458)
+
+**Description du poste**
+
+Le Pôle Économie & Finance du Service économique régional (SER) de Tokyo est composé de trois personnes (et d’un stagiaire la moitié de l’année), placées sous l’autorité directe du conseiller financier, adjoint au chef du SER et représentant de la Banque de France au Japon. Ce pôle assure le suivi des politiques économiques et financières japonaises, ainsi que de questions multilatérales (financières et commerciales).
+
+Missions :
+Sous l’autorité de l’adjoint au chef du Service économique régional et responsable du pôle Économie & Finance :
+a) Veille et travaux d’analyse sur le Japon
+-	Rédaction de notes d’analyse sur la politique économique japonaise : politique budgétaire, politique monétaire, marchés financiers, réformes structurelles et sociales, politique commerciale. 
+-	Rédaction de notes d’actualité à l’issue des réunions de politique monétaire de la Banque du Japon et lors d’événements économiques ou financiers majeurs, dans des délais serrés.
+-	Réponse aux commandes des administrations centrales (Direction générale du Trésor, Banque de France, etc.) et de l’Ambassadrice de France au Japon : analyse du commerce extérieur et bilatéral, des investissements directs étrangers, du projet de loi de finances japonais, exercices de surveillance multilatérale (notes d’analyse et de réaction à destination du FMI et de l’OCDE), préparation d’éléments de langage et de contexte en vue d’entretiens bilatéraux de haut niveau. 
+-	Rédaction d’une note de conjoncture mensuelle sur le Japon présentée aux conseillers du Commerce extérieur de la France (CCEF) ; à cette fin, collecte et mise à jour régulières des indicateurs économiques pertinents, dans une perspective comparative régionale et internationale (note, support de présentation, etc.).
+-	Rédaction de brèves macroéconomiques et financières pour la publication de la veille hebdomadaire. 
+
+b) Accueil de délégations et promotion des intérêts français au Japon
+-	Contribuer à l’organisation de visites officielles en provenance de France : préparation des dossiers (programme, fiches-séquences), ainsi qu’à l’organisation et à la préparation des entretiens, accompagnement des délégations, rédactions de comptes rendus, etc.
+-	Contribuer à l’organisation de réunions multilatérales et de différents évènements, séminaires et webinaires (ex : Forum Paris-Europlace, Séminaire annuel sur la finance verte, etc.).
+c) Travaux régionaux
+-	Travaux conjoints avec le Service économique de Séoul dans le cadre de la rédaction de notes régionales macroéconomiques et financières (exemples récents : déséquilibres macroéconomiques, potentiels de croissance à long terme, etc.), et appui lors des exercices de surveillance multilatérale en Corée du Sud (FMI et OCDE).
+d) Coordination des travaux et Communication
+-	Coordonner la production éditoriale et la communication du SER de Tokyo (en collaboration avec les autres VIA du SER) : coordination de la Veille économique et financière régionales rédigées chaque fin de semaine avec le Service économique de Séoul, actualisation du site internet du SER, collaboration avec les services de Communication du Trésor et de l’Ambassade de France pour des publications, etc. 
+Afin d’accomplir sa mission, l’attaché(e) sera amené à :
+-	Réaliser une veille exhaustive et rédiger des notes d’analyse macroéconomique et financière ;
+-	Contribuer à l’organisation d’évènements à plusieurs échelles (rendez-vous, visites officielles, séminaires, etc.) pour lesquels il devra se montrer proactif et autonome ;
+-	Assister à des conférences, séminaires, webinaires et autres évènements ;
+-	Développer des relations avec de multiples interlocuteurs japonais et français principalement (autorités publiques, entreprises, banquiers, économistes, instituts de recherche, etc.), ainsi qu’avec la Délégation de l’Union européenne à Tokyo (conseillers financiers, conseillers commerciaux des États-membres présents à Tokyo) ;
+-	Coordonner le travail avec les différents pôles du SER sur des sujets transversaux ;
+-	Préparer des présentations effectuées par le chef du SER, le conseiller financier, ou l’attaché(e) ;
+-	Proposer de manière pro-active des axes de travail et de coopération ;
+-	Travailler en équipe au sein du SER ainsi qu’avec l’ensemble des services de l’Ambassade de France, de la Direction générale du Trésor et de la Banque de France.
+
+
+Profil recherché : 
+- Formation supérieure niveau BAC+5 Grandes écoles, master en économie, finance, politiques publiques. Expérience préalable en administration appréciée
+
+
+Compétences requises : 
+-	Bonne connaissance des politiques monétaire et budgétaire et des mécanismes des marchés financiers, et intérêt pour l’économie japonaise ;
+-	Très bonnes capacités rédactionnelles, esprit de synthèse ;
+-	Polyvalence, capacité à investir de nouveaux sujets ;
+-	Capacité à identifier rapidement les sources d’informations pertinentes et à suivre l’actualité économique ;
+-	Rapidité et aisance dans le maniement de données chiffrées, maîtrise de l’approche quantitative, sens de l’analyse ;
+-	Rigueur organisationnelle, esprit d’anticipation, capacité à prendre en compte les aspects logistiques (notamment dans l’appui à la préparation des visites officielles) ;
+-	Excellente maîtrise de l’anglais (écrit et parlé), japonais (optionnel) ;
+-	Aisance avec les outils bureautiques Excel (indispensable), Powerpoint et Word ;
+-	Sens du contact et du travail en équipe, capacité à coordonner des dossiers ;
+-	Prise d’initiative, autonomie organisationnelle, très grande réactivité dans la gestion fréquente de dossiers en urgence (possibles journées avec large amplitude horaire)
+
+Cadre de vie et de travail : 
+-	L’attaché(e) devra trouver lui/elle-même son logement – Coût d’un logement d’environ 30-35 m² à proximité de l’Ambassade (entre 5 et 25 min à pied) : environ 1 000 EUR par mois ;
+-	Coût d’un déjeuner complet dans un restaurant à proximité de l’Ambassade : 8 à 10 euros ;
+-	Qualité de vie, bonnes conditions sanitaires, facilité des transports et sécurité [se reporter toutefois à la fiche « conseils aux voyageurs » du ministère des Affaires étrangères en particulier sur le risque sismique] ;
+-	Communauté dynamique de VIA et de stagiaires au sein de l’ambassade ;
+-	Proximité de Tokyo avec la mer et la montagne (entre 1h et 1h30 de trajet, pour un tarif moyen compris entre 5 et 10 euros).
+
+**Profil recherché**
+
+Profil recherché : 
+Formation supérieure niveau BAC+5 Grandes écoles, master en économie, finance, politiques publiques. Expérience préalable en administration appréciée.
+
+Compétences requises : 
+-	Bonne connaissance des politiques monétaire et budgétaire et des mécanismes des marchés financiers, et intérêt pour l’économie japonaise ;
+-	Très bonnes capacités rédactionnelles, esprit de synthèse ;
+-	Polyvalence, capacité à investir de nouveaux sujets ;
+-	Capacité à identifier rapidement les sources d’informations pertinentes et à suivre l’actualité économique ;
+-	Rapidité et aisance dans le maniement de données chiffrées, maîtrise de l’approche quantitative, sens de l’analyse ;
+-	Rigueur organisationnelle, esprit d’anticipation, capacité à prendre en compte les aspects logistiques (notamment dans l’appui à la préparation des visites officielles) ;
+-	Excellente maîtrise de l’anglais (écrit et parlé), japonais (optionnel) ;
+-	Aisance avec les outils bureautiques Excel (indispensable), Powerpoint et Word ;
+-	Sens du contact et du travail en équipe, capacité à coordonner des dossiers ;
+-	Prise d’initiative, autonomie organisationnelle, très grande réactivité dans la gestion fréquente de dossiers en urgence (possibles journées avec large amplitude horaire)
+
+</details>
 
 <details>
 <summary><strong>Contrôleur Financier International & Finance Transformation Analyst (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BUCAREST, ROUMANIE · 2 334,27 €/mois</summary>
