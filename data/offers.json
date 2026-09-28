@@ -6590,16 +6590,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Through our Finance Rotational Program (VIE), we are investing in the development of our future Finance Business Partner leaders. Over two years, you will gain hands-on experience in two key finance functions at the heart of our manufacturing business: one year in Plant Controlling and one year in Program or R&D Controlling for our Faurecia Clean Mobility activity. Supported by a dedicated sponsor throughout your journey, you will build strong business acumen, expand your network, and develop the skills needed to become a trusted business partner and future finance leader.\n\nThe first year will be located in Dexter, MO. The second year can be anywhere Clean Mobility is located.\n\nWhat is your role and surroundings? \n\nOur Faurecia FCM Business Group is looking for you as an Assistant Plant Controller VIE for our site in Dexter, USA.\n\nWhat will be your main missions? \n\nThe VIE Finance Assistant Plant Controller is involved in the controlling of a plant in order to guarantee and optimise the plant's financial performance and competitiveness.\n\nThe main missions of the role are to:\n\nEnsure compliance to all financial procedures\nDevelop, execute and control internal finance procedures including spending authorization in accordance with company procedures and policies\nEnsure site activities are compliant with Faurecia finance related procedures (product flow, inventory, routings, …)and internal control basics\nProvide reliable financial / controlling informations\nParticipate in financial forecasting processes, providing data for budget, periodic forecast, …\nCollect and manage data consolidation and reporting, ensuring reliability, consistency, transparency and delay compliance,\nUpdate informations into the ERP System,\nEnsure reliability of standard costing,\nContribute to controlling analysis including variance analysis/standard costs, margin/programs, plant budgetary control …,\nCollaborate with Shared Service Center obtaining/providing proper finance information,\nContribute to the control and management of the plant’s operating cashflow (capex, inventories,overdues).\nSupporting finance & Plant team with a range of administrative and financial tasks.\n\nThe mission will last 12 months, renewed for another 12 months.",
     "creationDate": "2026-07-21T08:04:11Z",
     "missionStartDate": "2026-12-01T00:00:00",
