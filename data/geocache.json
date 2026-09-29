@@ -332,5 +332,10 @@
     "lat": 26.6549551,
     "lon": -80.2375279
   },
-  "entreprise|veolia water solutions & technologies support|milan|italie": null
+  "entreprise|veolia water solutions & technologies support|milan|italie": null,
+  "entreprise|avertim france|amsterdam|pays-bas": null,
+  "ville|amsterdam|pays-bas": {
+    "lat": 52.3730796,
+    "lon": 4.8924534
+  }
 }
