@@ -374,16 +374,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "-Support the development and structuring of the company’s U.S. operations through improved financial, administrative, and operational processes.\n-Contribute to cost optimization initiatives related to procurement, travel, transportation, and logistics activities.\n-Strengthen administrative compliance and coordination with external partners, including banks, insurance providers, accountants, and logistics service providers.\n-Participate in the standardization and digitalization of internal processes to improve efficiency and scalability.\n-Develop and enhance reporting tools, dashboards, and KPIs to support business monitoring and decision-making.\n-Assist in implementing process improvement projects that support the company’s growth and operational performance in the U.S. market.",
     "creationDate": "2026-09-25T21:07:56Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -6058,23 +6051,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9",
-      "320"
+      "[\"9\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans le cadre de son développement en Inde, notre filiale de Bangalore recherche un(e) VIE – Contrôleur de Gestion Financier.\n\nRattaché(e) à la Direction Financière de la filiale et en lien étroit avec le management local ainsi qu’avec les équipes Finance du Groupe, vous contribuez au pilotage de la performance financière de la filiale.\n\nLe poste est résolument orienté finance, reporting et pilotage de la performance au niveau de la filiale. \n\nVos principales missions\n\nReporting & clôtures financières\n\nParticiper aux clôtures mensuelles et à la production du reporting financier de la filiale.\nAnalyser les résultats par rapport au budget, au forecast et aux périodes précédentes.\nPréparer les analyses de P&L, chiffre d’affaires, marge, coûts et résultat opérationnel.\nIdentifier les principaux écarts et en expliquer les causes.\nContribuer à la préparation des reportings à destination du management local et du Groupe.\n\nBudget & Forecast\n\nParticiper à la construction du budget annuel et des forecasts de la filiale.\nChallenger les hypothèses financières avec les différentes fonctions de l’organisation.\nSuivre l’atterrissage financier et identifier les risques et opportunités.\nContribuer aux exercices de planification financière et aux analyses de scénarios.\n\nAnalyse de la performance de la filiale\n\nMettre en place et suivre les principaux KPI financiers.\nAnalyser la rentabilité et les leviers de performance de la filiale.\nRéaliser des analyses ad hoc pour accompagner les décisions du management.\nIdentifier les tendances, risques et opportunités financières et formuler des recommandations.\n\nCash & Working Capital\n\nParticiper au suivi de la trésorerie et du besoin en fonds de roulement.\nAnalyser les principaux indicateurs de Working Capital : créances clients, dettes fournisseurs, stocks, etc.\nContribuer aux plans d’amélioration du cash de la filiale.\n\nCoordination avec le Groupe\n\nAssurer la fiabilité et la cohérence des données financières remontées au Groupe.\nParticiper aux échanges avec les équipes Finance Corporate / Régionales.\nContribuer à l’amélioration des processus, outils et reportings financiers.",
     "creationDate": "2026-09-06T16:29:06Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -7010,30 +6989,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "188",
-      "259"
+      "[\"17\",\"188\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "188",
-        "specializationParentId": "227",
-        "specializationLabel": "Politiques publiques et sectorielles",
-        "specializationLabelEn": "Public and sectoral policies"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Pôle Économie & Finance du Service économique régional (SER) de Tokyo est composé de trois personnes (et d’un stagiaire la moitié de l’année), placées sous l’autorité directe du conseiller financier, adjoint au chef du SER et représentant de la Banque de France au Japon. Ce pôle assure le suivi des politiques économiques et financières japonaises, ainsi que de questions multilatérales (financières et commerciales).\n\nMissions :\nSous l’autorité de l’adjoint au chef du Service économique régional et responsable du pôle Économie & Finance :\na) Veille et travaux d’analyse sur le Japon\n-\tRédaction de notes d’analyse sur la politique économique japonaise : politique budgétaire, politique monétaire, marchés financiers, réformes structurelles et sociales, politique commerciale. \n-\tRédaction de notes d’actualité à l’issue des réunions de politique monétaire de la Banque du Japon et lors d’événements économiques ou financiers majeurs, dans des délais serrés.\n-\tRéponse aux commandes des administrations centrales (Direction générale du Trésor, Banque de France, etc.) et de l’Ambassadrice de France au Japon : analyse du commerce extérieur et bilatéral, des investissements directs étrangers, du projet de loi de finances japonais, exercices de surveillance multilatérale (notes d’analyse et de réaction à destination du FMI et de l’OCDE), préparation d’éléments de langage et de contexte en vue d’entretiens bilatéraux de haut niveau. \n-\tRédaction d’une note de conjoncture mensuelle sur le Japon présentée aux conseillers du Commerce extérieur de la France (CCEF) ; à cette fin, collecte et mise à jour régulières des indicateurs économiques pertinents, dans une perspective comparative régionale et internationale (note, support de présentation, etc.).\n-\tRédaction de brèves macroéconomiques et financières pour la publication de la veille hebdomadaire. \n\nb) Accueil de délégations et promotion des intérêts français au Japon\n-\tContribuer à l’organisation de visites officielles en provenance de France : préparation des dossiers (programme, fiches-séquences), ainsi qu’à l’organisation et à la préparation des entretiens, accompagnement des délégations, rédactions de comptes rendus, etc.\n-\tContribuer à l’organisation de réunions multilatérales et de différents évènements, séminaires et webinaires (ex : Forum Paris-Europlace, Séminaire annuel sur la finance verte, etc.).\nc) Travaux régionaux\n-\tTravaux conjoints avec le Service économique de Séoul dans le cadre de la rédaction de notes régionales macroéconomiques et financières (exemples récents : déséquilibres macroéconomiques, potentiels de croissance à long terme, etc.), et appui lors des exercices de surveillance multilatérale en Corée du Sud (FMI et OCDE).\nd) Coordination des travaux et Communication\n-\tCoordonner la production éditoriale et la communication du SER de Tokyo (en collaboration avec les autres VIA du SER) : coordination de la Veille économique et financière régionales rédigées chaque fin de semaine avec le Service économique de Séoul, actualisation du site internet du SER, collaboration avec les services de Communication du Trésor et de l’Ambassade de France pour des publications, etc. \nAfin d’accomplir sa mission, l’attaché(e) sera amené à :\n-\tRéaliser une veille exhaustive et rédiger des notes d’analyse macroéconomique et financière ;\n-\tContribuer à l’organisation d’évènements à plusieurs échelles (rendez-vous, visites officielles, séminaires, etc.) pour lesquels il devra se montrer proactif et autonome ;\n-\tAssister à des conférences, séminaires, webinaires et autres évènements ;\n-\tDévelopper des relations avec de multiples interlocuteurs japonais et français principalement (autorités publiques, entreprises, banquiers, économistes, instituts de recherche, etc.), ainsi qu’avec la Délégation de l’Union européenne à Tokyo (conseillers financiers, conseillers commerciaux des États-membres présents à Tokyo) ;\n-\tCoordonner le travail avec les différents pôles du SER sur des sujets transversaux ;\n-\tPréparer des présentations effectuées par le chef du SER, le conseiller financier, ou l’attaché(e) ;\n-\tProposer de manière pro-active des axes de travail et de coopération ;\n-\tTravailler en équipe au sein du SER ainsi qu’avec l’ensemble des services de l’Ambassade de France, de la Direction générale du Trésor et de la Banque de France.\n\n\nProfil recherché : \n- Formation supérieure niveau BAC+5 Grandes écoles, master en économie, finance, politiques publiques. Expérience préalable en administration appréciée\n\n\nCompétences requises : \n-\tBonne connaissance des politiques monétaire et budgétaire et des mécanismes des marchés financiers, et intérêt pour l’économie japonaise ;\n-\tTrès bonnes capacités rédactionnelles, esprit de synthèse ;\n-\tPolyvalence, capacité à investir de nouveaux sujets ;\n-\tCapacité à identifier rapidement les sources d’informations pertinentes et à suivre l’actualité économique ;\n-\tRapidité et aisance dans le maniement de données chiffrées, maîtrise de l’approche quantitative, sens de l’analyse ;\n-\tRigueur organisationnelle, esprit d’anticipation, capacité à prendre en compte les aspects logistiques (notamment dans l’appui à la préparation des visites officielles) ;\n-\tExcellente maîtrise de l’anglais (écrit et parlé), japonais (optionnel) ;\n-\tAisance avec les outils bureautiques Excel (indispensable), Powerpoint et Word ;\n-\tSens du contact et du travail en équipe, capacité à coordonner des dossiers ;\n-\tPrise d’initiative, autonomie organisationnelle, très grande réactivité dans la gestion fréquente de dossiers en urgence (possibles journées avec large amplitude horaire)\n\nCadre de vie et de travail : \n-\tL’attaché(e) devra trouver lui/elle-même son logement – Coût d’un logement d’environ 30-35 m² à proximité de l’Ambassade (entre 5 et 25 min à pied) : environ 1 000 EUR par mois ;\n-\tCoût d’un déjeuner complet dans un restaurant à proximité de l’Ambassade : 8 à 10 euros ;\n-\tQualité de vie, bonnes conditions sanitaires, facilité des transports et sécurité [se reporter toutefois à la fiche « conseils aux voyageurs » du ministère des Affaires étrangères en particulier sur le risque sismique] ;\n-\tCommunauté dynamique de VIA et de stagiaires au sein de l’ambassade ;\n-\tProximité de Tokyo avec la mer et la montagne (entre 1h et 1h30 de trajet, pour un tarif moyen compris entre 5 et 10 euros).",
     "creationDate": "2026-09-28T07:41:24Z",
     "missionStartDate": "2027-01-04T00:00:00",
