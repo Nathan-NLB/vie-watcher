@@ -171,16 +171,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nPonticelli Frères, groupe industriel présent à l'international au service des entreprises du secteur de l'energie.\n recherche dans le cadre d'un VIE, un contrôleur de gestion dont la mission est d’aider au pilotage des projets de la Filiale. Il analyse les performances économiques et financières. Il est en charge de faire des rapports à sa hiérarchie en lui préconisant des actions correctives à réaliser en vue d’optimiser la rentabilité. Il établit également les procédures de gestion.",
     "creationDate": "2025-02-05T16:45:25Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2215,16 +2208,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le contrôleur de gestion a pour mission le suivi et reporting des performances comptables et financières des projets en-cours, d'informer des déviations budgétaires et de préparer et améliorer les reportings et tableaux de bord.\r\n\r\nCost control & Reporting :\r\n- Suivi mensuel des coûts des projets, analyse des variations et animation de réunions mensuelles avec l'équipe projet pour présenter les résultats, discuter des déviations et mettre en place conjointement des actions correctives.\r\n- Controler et suivre le chiffre d'affaires et l'engagement des dépenses par projets\r\n- Mensuellement, répartir les dépenses communes par projets\r\n- Participer aux processus budgétaires, prévisions et analyse des écarts.\r\n\r\nComptabilité/Reporting :\r\n- Préparer le reporting financier mensuel et remonter les résultats dans les outils groupe selon le calendrier Colas Rail\r\n- ‎Verifier l'imputation des depenses\r\n\r\nDivers:\r\n- Support a la direction pays, métier et préparation d'analyses selon les besoins\r\n- Support aux autres fonctions support\r\n- Amélioration de l'outil de cost control en se basant sur les outils proposés par le groupe",
     "creationDate": "2026-09-22T13:23:03Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2355,51 +2341,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:43:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -2460,51 +2404,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:35:16Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3237,16 +3139,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Moon Surgical is a French-American medical device company that is revolutionizing laparoscopic surgery through robotics and data-driven artificial intelligence.\r\nAt Moon Surgical, we are driven by an intrinsic desire to advance global healthcare for patients, to innovate and inspire the art of surgery, and to make a difference through creativity, perseverance, and teamwork.\r\n\r\nWe are looking for a highly motivated, organized, and analytical Financial Controller to join our San Carlos team through the French V.I.E. program. \r\n\r\nReporting to our Senior Financial Controller in France, you will be the finance point of contact on the ground for our US operations.\r\nAs financial controller, you play a crucial role in an organization that is scaling fast. You act as a business partner to the US team, and you own the purchasing, travel, and MRP systems (Open-\r\nProd) that produce the numbers you analyze. Day to day, you work with the finance team in Paris, with operations and supply chain in San Carlos, and with our external accounting provider.\r\n\r\nYour Day-to-day Activities\r\nSystems & Tools Management\r\nMRP Operations (Open-Prod): Own and drive the implementation of our MRP system, an industrial ERP built on the Odoo platform, with a strong focus on procurement. You will take end-to-end ownership of the finance side of the project for the US site, overseeing procurement flows, ensuring the system meets operational needs. With the support of the Senior Controller, you will lead the MRP go-live planned for January 2027, including project kick-off, user training and post-launch support. You will be the key on-site point of contact, driving adoption, resolving issues and ensuring a successful transition to the new system.\r\nProcure-to-Pay (Payflows): Manage the end-to-end procurement process within Payflows, ensuring purchase requests, approvals, and workflows operate smoothly and efficiently across the P2P cycle. Own the interface between Payflows and the MRP, ensuring seamless data and process flows from purchase requests to purchase orders, while driving process standardization and continuous improvement.\r\nNavan Administrator: Acting as the primary point of contact for Navan (our travel and expense management platform), you will track tool usage, troubleshoot and resolve user issues, and conduct training sessions for new and existing team members.\r\n\r\nOperational Finance\r\nOwn monthly inventory reporting and reconciliation for the US site, including inventory control and inventory analysis.\r\nSupervise our externalized accounting provider: review their deliverables, control quality, and prepare payments.\r\nMonitor industrial costs (fixed and variable) and lead the analysis of deviations against standard costs.\r\nSupport monthly reporting through budget-versus-actual variance analysis, identifying the root causes of any deviation.\r\nMaintain and strengthen internal control and compliance.",
     "creationDate": "2026-09-09T13:51:25Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3307,23 +3202,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259",
-      "318"
+      "[\"259\",\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "VIE Analyst M&A | Latin America (Portuguese speaking)\r\n\r\n\r\n\r\nRole Overview:\r\n \r\n\r\nEuro Latina Finance is seeking an M&A Analyst to join its execution team in São Paulo. This role offers the opportunity to work on high-profile transactions in Latin America, primarily Brazil and Colombia in a wide array of sectors. He/shell will work with our senior teams across different countries and will play a pivotal role in supporting deal execution, managing intern(s), and contributing to business development efforts.\r\n\r\nThis position is suited for an execution driven M&A professional who thrives in a fast paced, entrepreneurial environment and is keen to grow in a truly multicultural team.\r\n\r\nKey Responsibilities:\r\n\r\n1. Financial Analysis & Modeling\r\n•\tAnalyze companies’ financial statements\r\n•\tBuild and maintain detailed financial models \r\n\r\n2. Transaction Execution\r\n•\tSupport execution across different phases of M&A transactions\r\n•\tPrepare core transaction materials, including Teasers, CIMs, Management Presentations, Pitch Books, and investor/buyer lists.\r\n•\tConduct financial, strategic, and market analyses to support positioning and valuation\r\n•\tCoordinate due diligence processes, manage data rooms, and track Q&A with internal and external stakeholders.\r\n\r\n3. Client & Business Development Support\r\n•\tAssist in the preparation of proposals, pitch materials, and presentations for existing clients and prospects.\r\n•\tContribute to sector research, market updates, and strategic analyses to support origination efforts.\r\n\r\nManagement of Interns\r\n•\tSupervise and review intern(s)’ work, providing guidance and quality control\r\n\r\nWhy Join Euro Latina Finance?\r\n\r\n\r\n•\tGlobal and multicultural team based in three different locations across Latin America and Europe and led by its founder & CEO\r\n•\tGrowing company with a solid pipeline and deal flow perspective\r\n•\tVast array of sectors and mandates \r\n•\tOpportunity to work within a collegial culture that puts people first\r\n•\tPossibility to move to different offices within the firm in the future\r\n\r\nCompany description\r\nEstablished in 2010, Euro Latina Finance is an independent financial advisory firm specialized in cross-border transactions between Europe and Latin America.\r\nHeadquartered in Paris, with offices in São Paulo and Bogotá, Euro Latina Finance provides tailor-made M&A and strategic advice to a portfolio of blue-chip clients. The firm specializes in cross-border M&A transactions across a wide array of sectors between Europe/US and Latin America with values ranging from US$100mm – US$1bn+. \r\nSince its inception, Euro Latina Finance has advised c.30 successful transactions out of a total of c. 80 M&A projects.\r\nMore information: https://www.eurolatinafinance.com/ and https://www.eurolatinafinance.com/career",
     "creationDate": "2026-08-24T11:55:10Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5183,93 +5064,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "180",
-      "200",
-      "202",
-      "259",
-      "318",
-      "320",
-      "321",
-      "322",
-      "324"
+      "[\"5\",\"8\",\"9\",\"180\",\"200\",\"202\",\"259\",\"318\",\"320\",\"321\",\"322\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "321",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance Verte et Responsable",
-        "specializationLabelEn": "Finance Verte et Responsable"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "1.\tDescription du groupe Amethis \nAmethis est un gestionnaire de fonds d’investissement (« AIFM ») dédié au continent africain, contribuant à favoriser au développement durable des entreprises africaines. \nCréé en 2012 en partenariat avec le groupe Edmond de Rothschild, nous disposons aujourd’hui de plus de €1 milliard d’actifs sous gestion et continuons de nous développer rapidement. Amethis a investi dans des sociétés présentes dans plus de 20 pays africains et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.\nAfin d’accompagner notre forte croissance, nous recherchons un(e) analyste en valorisation. Dans ce cadre, vous accompagnerez l’équipe financière de l’AIFM du groupe Amethis (Amethis Investment Fund Manager S.A.), réglementé par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg. Cette équipe est en charge du pilotage de la fonction financière et de la gestion des fonds d’investissements.\n\n2.\tContexte AIFM (Aspect règlementaire)\nAmethis Investment Fund Manger S.A. est une société du groupe Amethis. Amethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissements alternatifs (GFIA). Cette société créée en 2017 est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg. L’AIFM assure entre autres, pour les fonds d’investissement dont elle a la supervision, les fonctions réglementaires suivantes :\n•\tContrôle interne (gestion des risques / compliance / audit interne)\n•\tGestion de portefeuille\n•\tEvaluation des actifs\n•\tCommercialisation\n\n3.\tRôle et missions du poste\nLe poste sera rattaché au directeur en charge des risques, de la finance et de la gestion administrative des fonds et fournira une exposition régulière aux membres du comité exécutif de l’AIFM, au front office, aux investisseurs, aux commissaires aux comptes et aux prestataires délégués pour l’administration des fonds.\nLes tâches associées au poste sont les suivantes : \n•\tAssister le Valuation and Fund Administration Manager dans:\no\tLa revue des valorisations des investissements du portefeuille d’actifs (méthodologies, hypothèses d’évaluation, supports, etc.)\no\tLa préparation des mémos à destination des comités de valorisation\no\tLa coordination des audits des fonds d’investissement\n•\tLa production des rapports trimestriels à destination des investisseurs (incluant des revues analytiques des états comptables produits par différents prestataires de service)\n•\tLa préparation et support sur les opérations des fonds (appels de fonds, distributions, investissement, etc.)\n•\tLe support de l’équipe Finance sur d’autres fonctions transversales (modélisation de cash-flows prévisionnels, création d’outils interne de gestion/contrôle, Digitalisation etc.)\n•\tAide à la clôture annuelle des comptes.\n•\tAide au suivi de la collaboration et des échanges avec les différents prestataires de services (Banque dépositaire, Agent de transfert, Prestataire comptable / fiscal ; Auditeur interne / externe ; etc.)",
     "creationDate": "2026-09-08T07:54:23Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -5575,16 +5372,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As part of the development of its offshore and onshore installation activities, Nexans is recruiting a VIE Financial Analyst to join the Installation Finance team based in Oslo, Norway. The position is set in a context of ongoing process improvement, split 50% replacement and 50% new position, and involves close collaboration with Installation Operations Managers as well as the Controlling Manager and Financial Director.\n\nThe main objective of the mission is to analyze function and operations costs, and to provide financial support to the teams during month-end closing.\n\nThe volunteer will be in charge of:\n\nPreparing month-end reporting, forecasts and the annual budget\nAnalyzing variations between budget, forecast and actuals to anticipate potential risks and opportunities\nFollowing up capex and function costs\nContributing and participating in process improvement initiatives\nProviding financial support and advice to operations teams\n\nThe position involves key interfaces with Installation operations, the Installation Controlling Manager and Financial Director, the Finance community, as well as Nexans intercompany units based in France and Belgium. The volunteer will report to the IMR and the Installation Finance Director.\n\nExpected results include a consolidated view of Installation function costs (offshore and onshore activities across Norway, France and Belgium), cost control of function costs and vessels, a consolidated cost view and follow-up of Installation operations by project, and support to the pacing process for Installation operations.\n\nFor context on scope: the current Installation offshore budget outlook is approximately €1.4Bn (projects starting H2/2026 and FY 2027), FY 2026 H2 sales for Norway and France represent approximately €300M, and Installation headcount is approximately 450.",
     "creationDate": "2026-09-07T12:36:56Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5785,16 +5575,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nDisposant de 17 bureaux dans 13 pays, Pramex International, filiale du Groupe BPCE, deuxième groupe bancaire français, est une société de conseil spécialisée en développement international et en Corporate Finance.\n\nLe département Corporate Finance conseille les PME/ETI dans leurs opérations de croissance externe, de cession, ou dans tout autre type d’opérations de haut de bilan, en France et à l’étranger.\n\nComposée d’une dizaine de professionnels à travers le monde, l’équipe Corporate Finance intervient sur des opérations mid-caps pour le compte de groupes industriels, de fonds d’investissement et d’entreprises familiales.\n\nL'équipe Pramex International Espagne est composée d’une vingtaine de professionnels accompagnant les société françaises dans leur développement en Espagne. Le candidat sélectionné travaillera sous la supervision directe du Managing Director Espagne et de l’équipe M&A basée à Paris.\n\n\nPoste et missions :\n\nEn tant que membre à part en entière de l’équipe M&A de Pramex International, le VIE contribuera aux phases d’origination et d’exécution des transactions françaises et internationales. Ses tâches s’orienteront autour de :\n\n-la préparation et la rédaction de documents de présentation (pitch, teaser, information memorandum...)\n-l’identification d’investisseurs/acquéreurs potentiels dans le cadre de mandat de vente\n-la réalisation d’études sectorielles et la recherche de cibles dans le cadre de mandats d’acquisition\n-l’analyse financière, l’évaluation d’entreprise\n-la rédaction de livrables à destination des clients de Pramex International (en français, en espagnol et en anglais)\n-l’encadrement des stagiaires, notamment sur les aspects méthodologiques, analytiques et de présentation des livrable",
     "creationDate": "2026-09-04T16:14:42Z",
     "missionStartDate": "2027-01-01T00:00:00",
