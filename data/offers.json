@@ -2054,16 +2054,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "About ENGIE and Supply & Energy Management:\n\nENGIE, a global leader in low-carbon energy and services, relies on its Global Business Unit Supply & Energy Management (GBU S&EM) to provide reliable, sustainable, and affordable energy to all its customers. This strategic unit optimizes the Group’s and clients’ production assets and designs tailored energy solutions for our 200,000 professional clients and 15 million consumers.\n\nThe Global Business Unit Supply & Energy Management leverages ENGIE’s assets to deliver secure and sustainable energy to its B2B and B2C customers. It uses its expertise in energy management to provide decarbonized electricity 24/7.\n\nJoining Supply & Energy Management means becoming part of a team of over 10,000 passionate experts spread across 20 countries, all united by a shared mission: shaping a greener and more efficient energy future. Together, we push the boundaries of innovation to deliver decarbonized energy 24/7. Join us and be part of those shaping the energy of tomorrow!\n\n \n\nThe Renewable Operations team is responsible for: \n- ensuring the smooth running of renewable operations \n- providing the relevant tools to actively manage portfolio contracts \n\n- maintain central database data quality at highest level for renewable assets management \n\n- facilitating the production of reports and analysis on data \n\n \n\nChallenge: \n\nYou will join an operational team, managing an important Renewable portfolio in collaboration with many other GEM teams (Business Developers, Structurers, Traders, Support functions). \n\nYou’ll need to quickly develop a good knowledge of the processes and tools needed to run the activity. \n\nYou’ll work in close relationship with the IT team in order to set up new features and improve existing ones. \n\nYou’ll need scripting capabilities to perform data management automation and detect area of improvements. \n\n \n\nMission/Main Activities: \n\nAccurate Contract Representation and Modelling: \n\nEnsure precise representation and modelling of renewable contracts, sometimes very structured and exotic, in deal capture and invoicing systems, including Power and Guarantee of Origins. \n\nTechnical Issue Resolution: \n\nLiaise with IS to follow up on technical issues ensuring timely  and accurate resolution for invoicing. \n\nInternal Stakeholder Communication: \n\nMaintain effective communication with internal stakeholders (Originators, Traders, Finance) to ensure smooth workflow from contractualization to invoicing. \n\nData Management and Client Relationship \n\nApply best practices in data management and act as the guardian of client relationships, ensuring data integrity and client satisfaction. \n\nContinuous Improvement and Automation: \n\nLead initiatives for continuous improvement of operations and contribute to their automation, enhancing efficiency and effectiveness.",
     "creationDate": "2026-09-22T11:27:28Z",
     "missionStartDate": "2026-12-01T00:00:00",
