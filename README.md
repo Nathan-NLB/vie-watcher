@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **29/09/2026 16:07:46**, 86 offre(s) actuellement en ligne.
+Dernière vérification : **29/09/2026 16:32:59**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2824,36 +2824,6 @@ QUALITÉS HUMAINES ET COMPÉTENCES :
 •	Une formation axée sur le Contrôle de gestion et/ou BTP et/ou Systèmes d’Information est un plus 
 •	Une 1ère expérience en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus
 •	Dans le cadre de vos missions, vous serez amené à faire des déplacements ponctuels
-
-</details>
-
-<details>
-<summary><strong>Customer Operations & Supply Chain Specialist (H/F)</strong> · PRODUCT DEVELOPMENT EMPLOYENEURSHIP · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** PRODUCT DEVELOPMENT EMPLOYENEURSHIP
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
-- **Publiée le :** 15/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245989](https://mon-vie-via.businessfrance.fr/offres/245989)
-
-**Description du poste**
-
-This role focuses on managing the complete Order-to-Cash process, ensuring customer orders are accurately processed from receipt through delivery and invoicing. It serves as the primary point of contact for customers regarding order status, deliveries, invoicing, returns, and claims. The position requires close collaboration with supply chain, logistics, sales, finance, marketing, and planning teams to ensure smooth operations and high service levels. It involves resolving delivery challenges, stock shortages, and customer issues while maintaining strong customer relationships. The role also contributes to continuous improvement initiatives aimed at enhancing customer service performance and operational efficiency.
-
-Manage customer orders throughout the entire Order-to-Cash cycle, from order entry to invoicing.
-Monitor and communicate order, delivery, and invoice status to customers and internal stakeholders.
-Resolve delivery issues, stock shortages, returns, refusals, and customer claims in a timely manner.
-Coordinate with logistics providers and internal teams to validate and release blocked orders.
-Support customer service excellence and participate in process improvement and operational optimization projects.
-
-**Profil recherché**
-
-Master's degree in Business Administration, Logistics, Supply Chain Management, or a related field.
-Fluency in English and French; Dutch proficiency is considered an advantage.
-Strong proficiency in Microsoft Excel and the Microsoft Office suite.
-Excellent analytical, organizational, problem-solving, and customer service skills.
-Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG environments is beneficial.
 
 </details>
 
