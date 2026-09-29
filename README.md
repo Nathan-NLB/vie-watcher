@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/09/2026 01:05:05**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **30/09/2026 01:27:22**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -53,71 +53,6 @@ Une première expérience dans cette fonction ou dans une fonction similaire ser
 Vous êtes reconnu(e) pour votre rigueur, votre esprit d’équipe, vos capacités d’analyse, de synthèse et de rédaction.
 Votre sens de la communication et votre relationnel développé vous assureront une bonne intégration et une collaboration harmonieuse avec vos interlocuteurs.
 Maitrise de l'italien obligatoire.
-
-</details>
-
-<details>
-<summary><strong>VIE/PANGEO -JUNIOR FINANCIAL ANALYST (M/W) (H/F)</strong> · VEOLIA WATER SOLUTIONS & TECHNOLOGIES SUPPORT · MILAN, ITALIE · 2 998,98 €/mois</summary>
-
-- **Entreprise :** VEOLIA WATER SOLUTIONS & TECHNOLOGIES SUPPORT
-- **Lieu :** MILAN, ITALIE
-- **Indemnité :** 2 998,98 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 29/09/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil correspond parfaitement aux attentes avec un Master en contrôle de gestion, un excellent niveau d'anglais et une maîtrise d'Excel et de Power BI. L'expérience concrète de Nathan en reporting et analyse budgétaire compense largement le manque d'expérience sur SAP, l'offre étant située à Milan au lieu de l'Espagne souhaitée initialement.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246478](https://mon-vie-via.businessfrance.fr/offres/246478)
-
-**Description du poste**
-
-About Veolia
-As a global leader in environmental services, Veolia operates across all 5 continents with nearly 218,000 employees. An expert in water, energy, and waste management, the Group designs and implements innovative solutions for decarbonization, depollution and resource regeneration to support communities and industries in their ecological transformation.
-
-Ambitious graduates and young professionals: Ready to challenge yourself and accelerate your career growth?🚀🌍
-Launch your international journey with a world leader in ecological transformation!
-The VIE/PANGEO program offers you:
-• Highly sought-after international expertise
-• Innovative and sustainable projects
-• Multicultural teamwork
-• Worldwide networking
-Your passport to a thrilling career awaits. Join us and make a global impact!
-
-Veolia WTS Italy is looking for a passionate Junior Financial Analyst for a 24-month assignment in Milan!
-
-Your Mission:
-You will join our Finance team of 5 people and participate in varied and enriching missions:
-📊 Analyze budget variances and prepare weekly and monthly financial reports
-📈 Optimize reporting tools, dashboards and Excel databases
-💼 Support the month-end closing and budgeting/forecasting processes for European regions
-🎯 Drive business performance through ad hoc financial analysis
-🤝 Collaborate with Sales, Procurement, Supply Chain and other departments
-
-Why This Opportunity is Unique:
-Cross-functional experience: work with different departments (Finance, Sales, Procurement, Supply Chain)
-Holistic understanding: master the complete regional P&L
-Accelerated development: gain expertise in forecasting and financial closing
-Stimulating environment: contribute to improving regional profitability
-
-Your Profile:
-🎓 Master's or Bachelor's degree in Economics/Business Administration (ACCA, CIMA, CPA certifications are a plus)
-💻 Advanced proficiency in Excel and Google Sheets
-🧠 Excellent analytical and organizational skills
-🌍 Fluent English (another European language is a plus)
-➕ Bonus: ERP experience (SAP), BI tools (Power BI, Tableau, BigQuery)
-
-What We Offer:
-VIE contract for 24 months (starting December 2026)
-Prime location: office in the heart of Milan
-Professional development opportunity within an international group
-
-Are you a European national ready for this adventure?
-
-**Profil recherché**
-
-Master's or Bachelor's degree in Economics/Business Administration (ACCA, CIMA, CPA certifications are a plus)
-Advanced proficiency in Excel and Google Sheets
-Excellent analytical and organizational skills
-Fluent English (another European language is a plus)
-Bonus: ERP experience (SAP), BI tools (Power BI, Tableau, BigQuery)
 
 </details>
 
