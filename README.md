@@ -8,11 +8,103 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/09/2026 13:29:35**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **30/09/2026 13:49:43**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Comptable (H/F)</strong> · COLLABORATION BETTERS THE WORLD · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** COLLABORATION BETTERS THE WORLD
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
+- **Publiée le :** 30/09/2026
+- **Compatibilité avec ton profil :** 50 % — Le profil de Nathan est orienté vers le contrôle de gestion, le FP&A et l'analyse financière stratégique, alors que l'offre recherche un profil comptable général axé sur la tenue des comptes, la facturation et la comptabilité fournisseurs. Toutefois, son expérience financière en entreprise et sa maîtrise de l'anglais offrent un bon socle pour s'adapter à un environnement international.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246546](https://mon-vie-via.businessfrance.fr/offres/246546)
+
+**Description du poste**
+
+Cher/Chère Comptable,
+
+
+
+Bienvenue chez CBTW, où nous exploitons le pouvoir de la collaboration pour créer et fournir des solutions technologiques et business innovantes.
+
+
+
+Nous sommes une équipe innovante de plus de 3 000 employés dans 21 pays, experts en stratégie, ingénierie logicielle, data, IA, et plus encore.
+
+
+
+Au Luxembourg, nous sommes à la recherche d'un(e) Comptable pour rejoindre notre équipe !
+
+
+
+How you'll Make an Impact
+
+Comptabilité fournisseurs
+
+Encodage des factures fournisseurs dans le système comptable
+Vérification et suivi des validations internes des factures
+Encodage et préparation des paiements fournisseurs
+Suivi des échéances et gestion des relances éventuelles
+
+
+Comptabilité générale & clôtures
+
+Rapprochement des relevés bancaires
+Préparation et validation des comptes mensuels, trimestriels et annuels
+Participation aux opérations de clôture comptable
+Consolidation des positions intercompagnie
+Contrôle de la cohérence et de la fiabilité des données financières
+
+
+Trésorerie & reporting
+
+Analyse des écarts de trésorerie
+Tenue à jour du système d’affacturage
+Liaison avec le service de trésorerie pour le suivi des opérations financières
+
+
+ERP & administration financière
+
+Tenir à jour le système ERP et assurer la qualité des données comptables
+Préparation des informations de paie pour transmission à la fiduciaire
+Interlocuteur unique auprès de la fiduciaire et des auditeurs externes
+Classement et archivage des documents comptables et administratifs
+
+
+Projets Tiers possibles
+
+Gestion et suivi de la fleet
+Facturation client et suivi des paiements
+
+**Profil recherché**
+
+What You Bring
+
+Minimum de 2 à 5 ans d'expérience professionnelle en comptabilité, idéalement en cabinet fiduciaire ou en entreprise au Luxembourg
+Diplôme de niveau Bac+3 à Bac+5 en comptabilité, finance ou gestion
+Bonne connaissance des normes comptables luxembourgeoises (Lux GAAP) et des obligations fiscales locales
+Rigueur, sens de l'organisation et capacité à travailler dans un environnement international
+Français courant obligatoire ; anglais professionnel apprécié
+
+
+What Awaits You
+
+Intégration : Dès le premier jour, vous serez mis en réseau à l'interne : Journée de bienvenue, Hello Drink, Programme de mentorat
+Développement : Personnellement adapté : retours d'expérience réguliers, parcours professionnels, comités de carrière, catalogue de formations en ligne, travail à l'international avec des cultures diverses
+Équilibre entre vie professionnelle et vie privée : espace pour la planification personnelle : travail à distance depuis l'étranger, modèles de travail très flexibles, programmes de congé parental
+Durabilité : Nous privilégions l'impact positif sur l'environnement et l'humanité en rendant nos solutions et notre collaboration plus durables chaque jour
+Événements : Professionnels et amusants : afterworks locaux, événements sportifs, team building, fêtes de Noël
+
+
+Mais assez parlé de nous, c'est votre tour maintenant ! Nous avons hâte de faire votre connaissance !
+
+</details>
 
 <details>
 <summary><strong>Junior FP&A Analyst (H/F)</strong> · BULGARI FRANCE SAS · NEW YORK  -NY-, ETATS-UNIS · 5 025,51 €/mois</summary>
@@ -61,6 +153,70 @@ Skills & Capabilities
 -	Be proactive, and capable of functioning effectively under stress and meeting deadlines
 -	Fluent English (Spanish or Italian a plus)
 -	Duration: 18 months
+
+</details>
+
+<details>
+<summary><strong>RESPONSABLE FINANCIER ET ADMINISTRATIF (H/F)</strong> · VILLANOVO · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
+
+- **Entreprise :** VILLANOVO
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 692,70 €/mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
+- **Publiée le :** 30/09/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à ses 2 ans d'expérience en contrôle de gestion, sa maîtrise d'Excel, son niveau d'espagnol et son attrait pour l'international à Barcelone. Seul un léger écart réside dans les missions comptables plus opérationnelles, mais sa rigueur financière compense largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246510](https://mon-vie-via.businessfrance.fr/offres/246510)
+
+**Description du poste**
+
+1- Mission comptable
+
+Participation à la supervision de la comptabilité pour une société française et une société espagnole sur Pennylane.
+
+Interlocuteur de l’expert comptable français et espagnol et aide à  l’établissement du bilan en lien avec les cabinets d’expert comptable
+
+
+2- Mission de contrôle de gestion
+
+Participation l'établissement d’un P&L mensuel  avec analyse des évolutions et du budget annuel avec suivi des écarts durant l’année.
+
+Mise en place d’un suivi consolidé de la trésorerie
+
+Préparation de la facturation interne entre les différentes entités du groupe
+
+
+3- Mission opérationnelle et administrative
+
+Revue et validation des factures fournisseurs 
+
+Suivi de l’encaissement des clients via les plateformes de paiements du site 
+
+Suivi des avoirs, paiements divers, relances clients débiteurs avec le département des ventes
+
+Aide à la personne en charge des paiement des fournisseurs et propriétaires
+
+Coordination des flux financiers dans les autres entités du groupes sous la responsabilité du CEO
+
+Aide à la gestion de nouveaux projets pour l’automatisation et l’amélioration du CRM et mise en place de process IA dans le département Finance
+
+Aide à la gestion de certaines tâches administratives et liées aux ressources humaines.
+
+**Profil recherché**
+
+Vous souhaitez intégrer une entreprise en croissance et comprendre les enjeux d'une plateforme numérique d'intermédiation.
+
+Vous êtes entreprenant et autonome, organisé, sérieux et doté d’excellentes qualités relationnelles.
+Une appétence pour l'IA et les outils d'automatisation (agents, workflows) sera un vrai plus.
+
+Vos qualités personnelles de rigueur et de réactivité vous permettent d’être immédiatement opérationnel.
+
+De formation Bac + 4 , école de commerce ou similaire
+
+Première expérience réussie de 2 à 3 ans dans des fonctions similaires.
+
+Bon niveau en Espagnol et en Anglais requis
+Connaissance approfondie en comptabilité, Notions en droit des sociétés appréciées
+Très bonne maîtrise d’Excel
 
 </details>
 
