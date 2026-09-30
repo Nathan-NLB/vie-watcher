@@ -157,23 +157,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "109",
-      "324"
+      "[\"109\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The M&A & Integration Specialist – Transactions & Food Manufacturing role is designed for candidates with hands-on transaction experience (investment banking, transaction services, private equity, or corporate development) who are eager to apply their deal skills in a Corporate M&A environment incorporating all aspects of the transaction, Legal, Tax, finance, operation, quality etc….\nYou will be part of the M&A & Transformation team, reporting directly to the Head of M&A for the Americas, and working closely with North American leadership and Group functions including Operations, R&D, Finance, Procurement, and Commercial teams.\nWhile this role involves full participation in the M&A lifecycle, it is distinct from a traditional finance-only role. A significant portion of your impact will come from understanding manufacturing environments and supporting the integration and performance improvement of acquired food businesses, including time spent on-site.\n\nKey Responsibilities\nM&A Transactions \nYou will actively contribute to and execute M&A transactions across the food ingredients and food manufacturing space:\n•\tSupport end-to-end M&A processes, including:\no\tFinancial analysis and valuation\no\tBusiness plan and synergy assessment\no\tIdentification of key risks during due diligence\n•\tParticipate in and coordinate due diligence processes (financial, operational, commercial)\n•\tWork closely with external advisors (investment banks, transaction services, legal, tax)\n•\tPrepare investment memoranda and presentations for Executive Management and Investment Committees\n•\tSupport negotiation of key transaction documents\n\nPost-Merger Integration & Operational Value Creation\nFollowing acquisitions, you will play a key role in post-merger integration and value creation, working closely with operational teams:\n•\tContribute to the preparation of detailed integration plans\n•\tSupport execution of integration initiatives across:\no\tManufacturing performance and cost structures\no\tProcurement and sourcing synergies\no\tMargin, and profitability improvement\no\tR&D and product portfolio alignment\n•\tAnalyze operational and financial data to identify performance levers\n•\tTrack integration progress and report key issues to senior management\n•\tParticipate in short- to mid-term on-site assignments at acquired companies\n\nCross-Functional & Strategic Projects\nAs part of the M&A & Transformation team, you will also contribute to broader initiatives such as:\n•\tStrategic analysis \n•\tOperational performance improvement projects\n•\tCost optimization and procurement synergy initiatives\n•\tManufacturing footprint and capacity analysis\n•\tGroup-wide best practice implementation",
     "creationDate": "2026-04-10T11:36:07Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -4980,30 +4966,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "195",
-      "322",
-      "330"
+      "[\"195\",\"322\",\"330\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "195",
-        "specializationParentId": "193",
-        "specializationLabel": "Developpement commercial, prospection",
-        "specializationLabelEn": "Business Development"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development.\r\n\r\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\r\n\r\nThe Role:\r\nAs a Business Operations Analyst (VIE), you will support Planisware North America in key initiatives at the intersection of strategy, operations, and business transformation. This role is ideal for a candidate who is curious, analytical, and hands-on, with a strong interest in understanding how a business operates end-to-end. You will help identify opportunities to make operations more efficient and scalable. \r\n\r\nIn this role you will:\r\n• Support strategic initiatives by analyzing business performance and identifying areas for improvement \r\n• Contribute to transformation projects aimed at improving processes, tools, and operational efficiency \r\n• Help define and track key business metrics (KPIs) to support decision-making  \r\n• Build and maintain dashboards, reports, and models to monitor business performance \r\n• Perform financial and operational analyses (e.g., forecasting, variance analysis, pipeline tracking) \r\n• Translate data into actionable insights and clear recommendations for stakeholders \r\n• Assist in structuring and optimizing internal processes across teams \r\n• Work on cross-functional projects with teams such as Sales, Finance, Product, and Customer Success \r\n• Help coordinate initiatives, track progress, and ensure alignment across stakeholders \r\n• Break down complex problems into manageable steps and prioritize effectively \r\n• Support leadership with presentations, reporting, and decision-making materials\r\n\r\nThis is a unique opportunity to not only gain an inside and front-row view of Planisware's business operations, but also to use your own creative insights and problem-solving skills to enhance those processes. Add both depth and breadth to your career skills portfolio in a highly autonomous role for a company that recognizes and rewards top performers.\r\n\r\nThis is a hybrid role, requiring in office work 4x a week, Monday-Thursday, and remote work allowed on Friday.",
     "creationDate": "2026-07-08T18:54:31Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -7087,30 +7052,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "188",
-      "259"
+      "[\"17\",\"188\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "188",
-        "specializationParentId": "227",
-        "specializationLabel": "Politiques publiques et sectorielles",
-        "specializationLabelEn": "Public and sectoral policies"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Pôle Économie & Finance du Service économique régional (SER) de Tokyo est composé de trois personnes (et d’un stagiaire la moitié de l’année), placées sous l’autorité directe du conseiller financier, adjoint au chef du SER et représentant de la Banque de France au Japon. Ce pôle assure le suivi des politiques économiques et financières japonaises, ainsi que de questions multilatérales (financières et commerciales).\n\nMissions :\nSous l’autorité de l’adjoint au chef du Service économique régional et responsable du pôle Économie & Finance :\na) Veille et travaux d’analyse sur le Japon\n-\tRédaction de notes d’analyse sur la politique économique japonaise : politique budgétaire, politique monétaire, marchés financiers, réformes structurelles et sociales, politique commerciale. \n-\tRédaction de notes d’actualité à l’issue des réunions de politique monétaire de la Banque du Japon et lors d’événements économiques ou financiers majeurs, dans des délais serrés.\n-\tRéponse aux commandes des administrations centrales (Direction générale du Trésor, Banque de France, etc.) et de l’Ambassadrice de France au Japon : analyse du commerce extérieur et bilatéral, des investissements directs étrangers, du projet de loi de finances japonais, exercices de surveillance multilatérale (notes d’analyse et de réaction à destination du FMI et de l’OCDE), préparation d’éléments de langage et de contexte en vue d’entretiens bilatéraux de haut niveau. \n-\tRédaction d’une note de conjoncture mensuelle sur le Japon présentée aux conseillers du Commerce extérieur de la France (CCEF) ; à cette fin, collecte et mise à jour régulières des indicateurs économiques pertinents, dans une perspective comparative régionale et internationale (note, support de présentation, etc.).\n-\tRédaction de brèves macroéconomiques et financières pour la publication de la veille hebdomadaire. \n\nb) Accueil de délégations et promotion des intérêts français au Japon\n-\tContribuer à l’organisation de visites officielles en provenance de France : préparation des dossiers (programme, fiches-séquences), ainsi qu’à l’organisation et à la préparation des entretiens, accompagnement des délégations, rédactions de comptes rendus, etc.\n-\tContribuer à l’organisation de réunions multilatérales et de différents évènements, séminaires et webinaires (ex : Forum Paris-Europlace, Séminaire annuel sur la finance verte, etc.).\nc) Travaux régionaux\n-\tTravaux conjoints avec le Service économique de Séoul dans le cadre de la rédaction de notes régionales macroéconomiques et financières (exemples récents : déséquilibres macroéconomiques, potentiels de croissance à long terme, etc.), et appui lors des exercices de surveillance multilatérale en Corée du Sud (FMI et OCDE).\nd) Coordination des travaux et Communication\n-\tCoordonner la production éditoriale et la communication du SER de Tokyo (en collaboration avec les autres VIA du SER) : coordination de la Veille économique et financière régionales rédigées chaque fin de semaine avec le Service économique de Séoul, actualisation du site internet du SER, collaboration avec les services de Communication du Trésor et de l’Ambassade de France pour des publications, etc. \nAfin d’accomplir sa mission, l’attaché(e) sera amené à :\n-\tRéaliser une veille exhaustive et rédiger des notes d’analyse macroéconomique et financière ;\n-\tContribuer à l’organisation d’évènements à plusieurs échelles (rendez-vous, visites officielles, séminaires, etc.) pour lesquels il devra se montrer proactif et autonome ;\n-\tAssister à des conférences, séminaires, webinaires et autres évènements ;\n-\tDévelopper des relations avec de multiples interlocuteurs japonais et français principalement (autorités publiques, entreprises, banquiers, économistes, instituts de recherche, etc.), ainsi qu’avec la Délégation de l’Union européenne à Tokyo (conseillers financiers, conseillers commerciaux des États-membres présents à Tokyo) ;\n-\tCoordonner le travail avec les différents pôles du SER sur des sujets transversaux ;\n-\tPréparer des présentations effectuées par le chef du SER, le conseiller financier, ou l’attaché(e) ;\n-\tProposer de manière pro-active des axes de travail et de coopération ;\n-\tTravailler en équipe au sein du SER ainsi qu’avec l’ensemble des services de l’Ambassade de France, de la Direction générale du Trésor et de la Banque de France.\n\n\nProfil recherché : \n- Formation supérieure niveau BAC+5 Grandes écoles, master en économie, finance, politiques publiques. Expérience préalable en administration appréciée\n\n\nCompétences requises : \n-\tBonne connaissance des politiques monétaire et budgétaire et des mécanismes des marchés financiers, et intérêt pour l’économie japonaise ;\n-\tTrès bonnes capacités rédactionnelles, esprit de synthèse ;\n-\tPolyvalence, capacité à investir de nouveaux sujets ;\n-\tCapacité à identifier rapidement les sources d’informations pertinentes et à suivre l’actualité économique ;\n-\tRapidité et aisance dans le maniement de données chiffrées, maîtrise de l’approche quantitative, sens de l’analyse ;\n-\tRigueur organisationnelle, esprit d’anticipation, capacité à prendre en compte les aspects logistiques (notamment dans l’appui à la préparation des visites officielles) ;\n-\tExcellente maîtrise de l’anglais (écrit et parlé), japonais (optionnel) ;\n-\tAisance avec les outils bureautiques Excel (indispensable), Powerpoint et Word ;\n-\tSens du contact et du travail en équipe, capacité à coordonner des dossiers ;\n-\tPrise d’initiative, autonomie organisationnelle, très grande réactivité dans la gestion fréquente de dossiers en urgence (possibles journées avec large amplitude horaire)\n\nCadre de vie et de travail : \n-\tL’attaché(e) devra trouver lui/elle-même son logement – Coût d’un logement d’environ 30-35 m² à proximité de l’Ambassade (entre 5 et 25 min à pied) : environ 1 000 EUR par mois ;\n-\tCoût d’un déjeuner complet dans un restaurant à proximité de l’Ambassade : 8 à 10 euros ;\n-\tQualité de vie, bonnes conditions sanitaires, facilité des transports et sécurité [se reporter toutefois à la fiche « conseils aux voyageurs » du ministère des Affaires étrangères en particulier sur le risque sismique] ;\n-\tCommunauté dynamique de VIA et de stagiaires au sein de l’ambassade ;\n-\tProximité de Tokyo avec la mer et la montagne (entre 1h et 1h30 de trajet, pour un tarif moyen compris entre 5 et 10 euros).",
     "creationDate": "2026-09-28T07:41:24Z",
     "missionStartDate": "2027-01-04T00:00:00",
