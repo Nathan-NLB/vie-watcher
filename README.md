@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/09/2026 12:50:27**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **30/09/2026 13:07:15**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -91,6 +91,51 @@ Fluency in English and French; Dutch proficiency is considered an advantage.
 Strong proficiency in Microsoft Excel and the Microsoft Office suite.
 Excellent analytical, organizational, problem-solving, and customer service skills.
 Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG environments is beneficial.
+
+</details>
+
+<details>
+<summary><strong>Consultant Financement de Projet (H/F)</strong> · INFRA STRUCTURATION · MADRID, ESPAGNE · 2 692,70 €/mois</summary>
+
+- **Entreprise :** INFRA STRUCTURATION
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 692,70 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 30/09/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil correspond pour le niveau d'études, la maîtrise de l'espagnol et l'attrait pour l'international. Cependant, l'offre requiert une expertise spécifique en financement de projet et modélisation financière, ainsi qu'un niveau d'espagnol C1, alors que le candidat a un profil orienté contrôle de gestion plus classique avec un niveau d'espagnol B1.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246543](https://mon-vie-via.businessfrance.fr/offres/246543)
+
+**Description du poste**
+
+Contexte  
+Infra Gestion (IG) est un cabinet de conseil spécialisé en financement de projet, pour la structuration financière de projets d’infrastructure sous la modalité de PPP (Partenariats Publics Privés). L’activité d’IG couvre la préparation des projets (études), la structuration financière (modélisation financière/levée de fonds), l’audit financier, l’investissement en fonds propres et la gestion de SPV. 
+IG est déployée en France et à l’international (Afrique, Amérique latine) auprès d’acteurs publics (gouvernement, entreprises publiques, collectivités) comme privés (sponsors, développeurs). 
+IG a ouvert en juillet 2026 un bureau à Madrid pour porter le déploiement des activités de l’entreprise sur les marchés lusophones et hispanophones, en particulier en Amérique latine. IG souhaite recruter un VIE pour accompagner l’ouverture de ce nouveau bureau. 
+
+Missions confiées au Volontaire International  
+• Prospection  
+o Appui à l’identification des clients et partenaires espagnols pour des missions en Espagne, Afrique, Amérique latine 
+o Participation au travail de réponse aux appels d’offres internationaux (Afrique + Amérique latine) 
+o Appui à la mise en œuvre de partenariats (Joint-Ventures, Accords-Cadres, Contrats de services, activités de parrainage) 
+o Soutien au cas par cas au travail de marketing général de l’entreprise  
+• Exécution 
+o Exécution de missions de conseil avec priorité donnée aux projets en région hispanophone, selon le carnet de commande 
+▪ Conseil public : Réalisation d’études de faisabilité, études de soutenabilité budgétaire, assistance à la transaction 
+▪ Conseil privé : Audit financier, production des modèles d’offres, levée de financement, structuration de pools bancaires, suivi des SPV 
+o Préparation et animation de formations (modélisation financière, PPP, etc) 
+• Appui transversal  
+o Animation de travaux de fond / fil rouge permettant d’approfondir des opportunités d’intervention en environnement hispanophone. 
+o Focus spécifique sur secteurs à fort développement pour l’entreprise et pour lesquels l’écosystème espagnol est d’intérêt particulier (énergies renouvelables, ferroviaire)
+
+**Profil recherché**
+
+• Eligibilité pour la mise en place d’un VIE à Madrid 
+• Niveau master requis, diplôme type Grandes Ecoles (commerce, ingénierie, finances, sciences politiques, économie, droit) 
+• Expérience préalable requise dans le secteur du développement, de la finance, du développement d’infrastructures 
+• Expérience préalable requise en financement de projet (modélisation financière, structuration financière) 
+• Une expérience de travail en Afrique ou en Amérique latine est un atout 
+• La maitrise de l’espagnol et de l’anglais est indispensable (niveau C1) 
+• La maitrise du portugais est un atout
 
 </details>
 
