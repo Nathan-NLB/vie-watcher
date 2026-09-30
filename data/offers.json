@@ -360,16 +360,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "202"
+      "[\"202\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Au sein de CA Indosuez Wealth (Europe) et pour le compte de ses succursales, le client data assure la gestion administrative, informatique et physique des dossiers clients dans le respect de la politique de gouvernance de la banque et des règlementations en vigueur.\n\nVous participerez au développement du Hub Client Data. Vous serez positionné au cœur de l’activité entrée en relation et mise à jour de la documentation Client (KYC).\n\nVous aurez des contacts réguliers avec des interlocuteurs de différents niveaux hiérarchiques et services : Front office, Compliance…\n\nVous aurez notamment pour mission la validation des nouveaux dossiers d’entrée en relation (contrôle et tâches administratives), les maintenances liées à la vie du compte, les chantiers liés aux nouvelles règlementations, la revue périodique des dossiers client.\n\n \n\nA ce titre vous vous effectuerez notamment les missions ci-dessous, pour le périmètre Italien :\n\n \n\nVous vous assurez de la bonne constitution des dossiers clients au moment de l’entrée en relation et vous effectuez un suivi des documents requis en fonction des différents événements impactant le compte du client\nVous veillez au respect des procédures AML-CFT/KYC en vigueur\nVous êtes le garant de la qualité et la complétude de la documentation du dossier client\nVous assurez les tâches administratives liés à ces documents : encodage, vérifications, …",
     "creationDate": "2026-09-29T09:40:34Z",
     "missionStartDate": "2026-12-01T00:00:00",
