@@ -584,16 +584,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "-Support the development and structuring of the company’s U.S. operations through improved financial, administrative, and operational processes.\n-Contribute to cost optimization initiatives related to procurement, travel, transportation, and logistics activities.\n-Strengthen administrative compliance and coordination with external partners, including banks, insurance providers, accountants, and logistics service providers.\n-Participate in the standardization and digitalization of internal processes to improve efficiency and scalability.\n-Develop and enhance reporting tools, dashboards, and KPIs to support business monitoring and decision-making.\n-Assist in implementing process improvement projects that support the company’s growth and operational performance in the U.S. market.",
     "creationDate": "2026-09-25T21:07:56Z",
     "missionStartDate": "2026-12-01T00:00:00",
