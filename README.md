@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/09/2026 15:33:27**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **30/09/2026 15:50:29**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1436,7 +1436,7 @@ Skills & Mindset
 </details>
 
 <details>
-<summary><strong>Responsable Administratif et Financier (H/F)</strong> · FRIEDLANDER · GEORGETOWN, GUYANA · 3 164,30 €/mois</summary>
+<summary><strong>Chargé Administratif et Financier (H/F)</strong> · FRIEDLANDER · GEORGETOWN, GUYANA · 3 164,30 €/mois</summary>
 
 - **Entreprise :** FRIEDLANDER
 - **Lieu :** GEORGETOWN, GUYANA
@@ -1449,7 +1449,7 @@ Skills & Mindset
 
 Votre quotidien à nos côtés ?
 
-La société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Responsable Administratif et Financier en VIE.
+La société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Chargé Administratif et Financier en VIE.
 Rattaché à Thomas, Directeur d’Agence, votre objectif est d’accompagner l’agence dans sa gestion administrative et financière. Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international.
 Votre poste est basé à George Town, Guyana.
 
