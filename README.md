@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/09/2026 17:34:55**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **30/09/2026 17:51:50**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4957,48 +4957,6 @@ Curious and eager to learn in an international environment.
 Autonomous and proactive.
 Team-oriented with strong interpersonal skills.
 Comfortable working across cultures and time zones.
-
-</details>
-
-<details>
-<summary><strong>Business Controller & Analyst (H/F)</strong> · ALTEN · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** ALTEN
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 01/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245544](https://mon-vie-via.businessfrance.fr/offres/245544)
-
-**Description du poste**
-
-ALTEN group’s mission is to create customer satisfaction by developing tailor-made and innovative solutions for IT and Technology.
-Present in 30 countries, we propose IT Solutions and Engineering Consulting to the world’s largest companies. For more than 30 years, a passion for engineering has driven us: ALTEN today is a European leader in engineering consulting and advanced technologies.
-To follow our growth and development on the International perimeter (30 000 employees, turnover superior to 2 billion €), the ALTEN Group is looking for a:
-
-Business Controller & Analyst 
-Based in ALTEN BELGIUM, Brussels 
-
-You will report directly to the Head of the International Development Department.  Your assignment consists in consolidating and analysing the operational data from ALTEN in Benelux. 
-Your main tasks will be the following ones: 
-•	Producing weekly, monthly & quarterly operational reports for the Group as well as ad hoc analysis upon request
-•	Analysing with a critical eye the weekly operational indicators (KPIs)
-•	Providing the best quality reports and analysis for key deadlines such as:
-•	the monthly business review (MBR) with the Top Management & the COO 
-•	the Committee Career (CC) (biannual assessment of the commercial/management team based on operational data)
-•	Implementation of the Bonus System for the management team 
-•	Maintaining & creating various dashboards for the COO to drive the activity
-•	Improving the information flow from subsidiaries to headquarter
-•	Helping in the deployment of the ALTEN tools in the new subsidiaries
-
-**Profil recherché**
-
-Your profile: 
-•	Graduated from an engineering or business school, 
-•	You are an expert in the advanced commands of Microsoft Excel (vlookup, TCD, macros) 
-•	You have a good human contact and a critical mindset, you are autonomous, rigorous, figures oriented, dynamic, with a very good synthesis spirit.
-•	You are looking for a challenging, demanding but rewarding position
-•	You have some financial knowledge (ie. P&L…).
 
 </details>
 
