@@ -342,5 +342,17 @@
   "entreprise|bulgari france sas|new york  -ny-|etats-unis": null,
   "entreprise|infra structuration|madrid|espagne": null,
   "entreprise|collaboration betters the world|luxembourg|luxembourg": null,
-  "entreprise|villanovo|barcelone|espagne": null
+  "entreprise|villanovo|barcelone|espagne": null,
+  "entreprise|arkea procapital services|bruxelles|belgique": null,
+  "entreprise|louis dreyfus company distribution france sas|geneve|suisse": null,
+  "entreprise|baxter s.a.s|marsa|malte": null,
+  "ville|marsa|malte": {
+    "lat": 35.882892,
+    "lon": 14.4944898
+  },
+  "entreprise|louis dreyfus company distribution france sas|kampala|ouganda": null,
+  "ville|kampala|ouganda": {
+    "lat": 0.3177137,
+    "lon": 32.5813539
+  }
 }

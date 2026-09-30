@@ -8,11 +8,74 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/09/2026 16:09:18**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **30/09/2026 16:36:28**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Chargé(e) Back Office - Réconciliation (H/F)</strong> · ARKEA PROCAPITAL SERVICES · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** ARKEA PROCAPITAL SERVICES
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 30/09/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est orienté vers le contrôle de gestion stratégique et opérationnel (FP&A, budgétisation), tandis que l'offre concerne le back-office titres et la réconciliation bancaire en finance de marché. Bien que ses compétences analytiques, son niveau d'anglais et son attrait pour l'international correspondent, le cœur de métier de l'offre s'éloigne significativement de son expérience et de ses aspirations principales.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246564](https://mon-vie-via.businessfrance.fr/offres/246564)
+
+**Description du poste**
+
+ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers. Dans le cadre de son développement, ProCapital recherche : 
+
+Un(e) Gestionnaire Back Office « Réconciliation »
+
+Rattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :
+- Le contrôle des opérations titres et cash dans leur ensemble (corporate actions, trades sur actions, trades sur options, dépôt cash etc.)
+- Le contrôle des positions titres (détenues chez différents dépositaires)
+- La production de plusieurs rapports à destination des équipes du Back-office et du Management
+- La détection et le suivi des opérations à risque
+- La rédaction et mise à jour de procédures opérationnelles et processus internes
+- L’identification des incidents et éventuels dysfonctionnements, ainsi que la remontée des alertes
+- Le traitement des demandes d’information des clients et du service interne relation clientèle
+- L’évolution des processus et l’amélioration des systèmes;
+
+**Profil recherché**
+
+De formation Bac +4/5, type Ecole de Commerce, de Gestion ou équivalent universitaire Master 1 ou 2 avec option finance de marché, vous disposez : 
+-	D’une excellente capacité analytique et organisationnelle ;
+-	D’un sens des priorités 
+-	D’une maîtrise des logiciels Microsoft Office
+-	D’une maîtrise rédactionnelle en anglais et en français 
+-	D’une appétence pour les marchés financiers  
+Votre rigueur, votre réactivité, votre capacité d’analyse, votre autonomie ainsi que votre sens relationnel vous permettront d’évoluer dans un environnement réactif et exigeant.
+
+</details>
+
+<details>
+<summary><strong>EMEA Treasury (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · GENEVE, SUISSE · 4 172,27 €/mois</summary>
+
+- **Entreprise :** LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS
+- **Lieu :** GENEVE, SUISSE
+- **Indemnité :** 4 172,27 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/09/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246562](https://mon-vie-via.businessfrance.fr/offres/246562)
+
+**Description du poste**
+
+Au sein de l’équipe Trésorerie EMEA basée à Genève, le/la VIE accompagnera le Responsable Trésorerie dans la gestion des activités de financement et des relations bancaires pour la région EMEA. Il/elle participera à l’analyse des besoins de financement des différentes entités, au suivi des lignes de crédit, à la préparation des dossiers destinés aux banques ainsi qu’au suivi des covenants financiers et des indicateurs de performance.
+Le/la VIE contribuera également à la production d’analyses financières et de reportings destinés à la direction et aux partenaires bancaires. Dans ce cadre, il/elle préparera des présentations financières, participera aux exercices de reporting mensuels et trimestriels et répondra aux demandes d’informations émanant des parties prenantes internes et externes.
+Enfin, le/la VIE sera impliqué(e) dans des projets stratégiques visant à améliorer les processus de trésorerie au niveau régional et mondial. Il/elle participera notamment à des initiatives d’automatisation et d’optimisation des activités grâce à l’intelligence artificielle, ainsi qu’à des projets d’intégration liés aux acquisitions et à la standardisation des pratiques de trésorerie au sein du groupe.
+
+**Profil recherché**
+
+Titulaire d’un Master en Finance, Trésorerie, Banque, Audit ou domaine équivalent, le/la candidat(e) dispose idéalement d’une première expérience acquise lors d’un stage ou d’une alternance en finance d’entreprise, banque, audit ou analyse financière. Il/elle possède de solides bases en finance et est capable d’analyser des données financières, de comprendre les états financiers et de contribuer à des sujets de financement et de gestion de trésorerie.
+Curieux(se), proactif(ve) et motivé(e) par l’apprentissage, il/elle apprécie travailler dans un environnement international et multiculturel. Doté(e) d’un bon relationnel et de solides compétences en communication, il/elle est capable d’interagir avec des interlocuteurs variés, aussi bien en interne qu’avec des partenaires bancaires externes. Une excellente maîtrise de l’anglais est indispensable, tandis que le français constitue un atout supplémentaire.
+Rigoureux(se), fiable et doté(e) d’un fort sens de la confidentialité, le/la candidat(e) sait gérer plusieurs priorités simultanément et faire preuve d’autonomie tout en conservant un véritable esprit d’équipe. Cette opportunité conviendra particulièrement à une personne souhaitant développer une carrière en trésorerie, finance d’entreprise ou banque au sein d’un groupe international de premier plan.
+
+</details>
 
 <details>
 <summary><strong>Comptable (H/F)</strong> · COLLABORATION BETTERS THE WORLD · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
@@ -103,6 +166,47 @@ Durabilité : Nous privilégions l'impact positif sur l'environnement et l'human
 
 
 Mais assez parlé de nous, c'est votre tour maintenant ! Nous avons hâte de faire votre connaissance !
+
+</details>
+
+<details>
+<summary><strong>Analyst Medical Affairs (H/F)</strong> · BAXTER S.A.S · MARSA, MALTE · 2 232,36 €/mois</summary>
+
+- **Entreprise :** BAXTER S.A.S
+- **Lieu :** MARSA, MALTE
+- **Indemnité :** 2 232,36 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 30/09/2026
+- **Compatibilité avec ton profil :** 10 % — Le profil du candidat est purement financier (contrôleur de gestion, FP&A), tandis que l'offre recherche un profil scientifique et médical (Medical Affairs, conformité EU MDR, revue clinique). Il y a un décalage total entre les compétences du candidat et les exigences techniques du poste.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246536](https://mon-vie-via.businessfrance.fr/offres/246536)
+
+**Description du poste**
+
+Details of the mission: 
+The Medical Affairs Analyst is responsible for leading and coordinating Medical Affairs activities that support the safety, performance, and regulatory compliance of medical devices throughout their lifecycle. This role serves as both a scientific contributor and project leader, driving cross-functional initiatives related to EU MDR compliance, Clinical Evaluation, Post-Market Surveillance, and product lifecycle management.
+The position requires effective project management of MDR-related deliverables, coordination of global stakeholders, and leadership of programs aimed at maintaining regulatory compliance and continuous improvement of Medical Affairs processes. 
+
+Role and responsibilities:
+•	Provide medical and scientific support for assigned medical device portfolios throughout the product lifecycle.
+•	Conduct literature reviews, clinical data assessments, and state-of-the-art evaluations.
+•	Develop and maintain CEPs, CERs, and related clinical evidence documentation.
+•	Coordinate EU MDR clinical, PMS, PMCF, and PSUR deliverables across product families.
+•	Evaluate complaints, vigilance data, literature, and emerging safety signals to support risk and benefit-risk assessments.
+•	Support regulatory submissions, product lifecycle activities, audits, and interactions with Notified Bodies and Competent Authorities.
+•	Collaborate with Regulatory, Quality, R&D, Clinical, Risk Management, Toxicology, Biocompatibility, and Vigilance teams.
+•	Manage project plans, timelines, dependencies, risks, metrics, and stakeholder updates.
+•	Monitor regulatory and standards developments and contribute to process improvement and team knowledge-sharing.
+
+Benefits to join your team:
+•	Gain hands-on experience in global Medical Affairs and EU MDR activities across the medical device lifecycle.
+•	Work on meaningful projects that support patient safety, product performance, and regulatory compliance.
+•	Collaborate with experienced, cross-functional, and international teams.
+•	Build expertise in clinical evidence, post-market surveillance, risk management, and regulatory strategy.
+•	Develop project management, stakeholder engagement, and professional communication skills in a supportive team environment.
+
+**Profil recherché**
+
+Required skills: scientific and clinical literature review; critical appraisal and interpretation of clinical and post-market data; understanding of EU MDR, clinical evaluation, PMS, PMCF, PSUR, vigilance, and risk management; strong analytical and technical writing skills; project management and organizational skills; effective communication and stakeholder management; ability to collaborate in international, cross-functional teams; attention to detail and ability to manage multiple priorities; proficiency in Microsoft Office; fluent written and spoken English.
 
 </details>
 
@@ -247,6 +351,64 @@ Fluency in English and French; Dutch proficiency is considered an advantage.
 Strong proficiency in Microsoft Excel and the Microsoft Office suite.
 Excellent analytical, organizational, problem-solving, and customer service skills.
 Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG environments is beneficial.
+
+</details>
+
+<details>
+<summary><strong>FP&A EMEA COFFEE (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · KAMPALA, OUGANDA · 3 073,30 €/mois</summary>
+
+- **Entreprise :** LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS
+- **Lieu :** KAMPALA, OUGANDA
+- **Indemnité :** 3 073,30 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/09/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux exigences techniques du poste en FP&A, avec une excellente maîtrise d'Excel, un très bon niveau d'anglais et une solide expérience en contrôle de gestion. Le seul écart réside dans la localisation (Ouganda au lieu de l'Espagne souhaitée) et le secteur des matières premières, mais son autonomie prouvée compense largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244826](https://mon-vie-via.businessfrance.fr/offres/244826)
+
+**Description du poste**
+
+Louis Dreyfus Company (LDC) has been a key player in the global coffee industry for more than 30 years. We specialize in all major Arabica and Robusta coffee qualities, serving a diverse customer base worldwide, ranging from specialty roasters to multinational food and beverage companies.
+
+We are looking for a highly motivated and analytical individual to join our Coffee Financial Planning & Analysis (FP&A) team, reporting to the FP&A Manager for the Coffee Platform in EMEA.
+
+In this role, you will support the FP&A Manager in delivering recurring monthly performance analysis, coordinating budgeting and forecasting activities, and contributing to a range of ad hoc, cross-functional projects. You will work closely with multiple teams across the EMEA region, gaining exposure to the commercial, operational, and financial aspects of the coffee business.
+
+This position offers a unique opportunity to develop your FP&A skills within a dynamic and international environment. Based in Kampala, Uganda, LDC's largest coffee origination platform in EMEA, you will gain unique exposure to the coffee supply chain, from origin to destination markets. This role offers the opportunity to work closely with commercial, operational, and finance teams while developing a solid foundation in business partnering, financial analysis, and commodity markets. For motivated individuals, it represents an excellent entry point into LDC and a strong platform from which to pursue future career opportunities across Finance, Commercial, Operations, or other functions within the Group.
+Financial performance & reporting 
+
+•	Deliver comprehensive monthly performance analysis, comparing reported numbers to the budget, while clearly identifying and explaining key variances and underlying business drivers.
+•	Contribute to the preparation of the Monthly Performance Review (MPR), including analytical files and presentation materials, ensuring accuracy, consistency, and clear financial messaging.
+•	Support the FP&A Manager in delivering ad hoc financial analyses for management and business stakeholders, including profitability reviews, OPEX deep-dives, trend analysis, and scenario modeling.
+Business Partnering & Decision Support
+
+•	Contribute to budget, forecast, and landing exercises by challenging assumptions and assessing associated risks and opportunities.
+•	Participate in discussions with commercial and finance teams to understand the financial performance of the Coffee Platform and the drivers of profitability.
+•	Develop financial models and scenario analyses to evaluate business performance, operational initiatives, and market developments.
+
+Process Improvement & Digitalization
+•	Identify opportunities to improve reporting processes, data quality, and analytical tools through automation and simplification initiatives. 
+•	Act as a key liaison between Finance, IT, and business teams to enhance reporting systems and strengthen data integrity.
+The scope is the LDC EMEA Coffee Platform.
+
+**Profil recherché**
+
+Education :
+•	Top-class business or engineering school graduate
+•	Master's degree in Finance
+Experience :
+•	Corporate finance (audit, transaction services, financial department of a big Corporate)
+Knowledge/Technical & Functional skills :
+•	Strong appetite for financial analysis and corporate finance topics
+•	Proficiency with excel modeling and powerpoint (knowledge of PBI and AI applications for finance is a plus)
+•	Understanding of commodities valuation and mechanism 
+•	Ability to quickly master Finance IT tools (OneStream, SAP…) 
+Soft skills:
+•	We would like someone willing to learn and grow in a passionate and varied environment
+•	We want someone autonomous, able to take initiatives. Even though you will be managed and helped anytime, high pressure and constant need to prioritize tasks will require those skills
+•	We would like you to manage complex multiple information and to adapt to multiple stakeholders
+•	We imagine you: proactive, energetic, highly motivated, hard-worker, adventurous and rigorous
+•	Flexibility in work and multi-tasking abilities
+•	Fluent written and verbal English skills
 
 </details>
 

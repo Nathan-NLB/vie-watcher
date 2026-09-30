@@ -15,6 +15,10 @@
     "score": 55,
     "raison": "Le lieu (Bilbao), le statut VIE et la maîtrise des langues (anglais et espagnol) correspondent très bien aux recherches du candidat. Toutefois, il existe un écart important de métier : l'offre exige une expertise poussée en comptabilité générale française (PCG, écritures d'inventaire, TVA, ERP), alors que Nathan a un profil orienté contrôle de gestion et FP&A."
   },
+  "244826": {
+    "score": 85,
+    "raison": "Le profil de Nathan correspond parfaitement aux exigences techniques du poste en FP&A, avec une excellente maîtrise d'Excel, un très bon niveau d'anglais et une solide expérience en contrôle de gestion. Le seul écart réside dans la localisation (Ouganda au lieu de l'Espagne souhaitée) et le secteur des matières premières, mais son autonomie prouvée compense largement."
+  },
   "245348": {
     "score": 20,
     "raison": "Le profil du candidat est orienté vers le contrôle de gestion et la finance d'entreprise, alors que ce poste exige une formation d'ingénieur et une expertise technique en supply chain industrielle (optimisation des flux de production, ERP type SAP). Bien qu'il existe quelques compétences transversales secondaires comme la gestion des KPI, l'écart de domaine fonctionnel et de formation minimale requise est très important."
@@ -67,6 +71,10 @@
     "score": 90,
     "raison": "Le profil correspond parfaitement aux attentes avec un Master en finance, un niveau d'anglais excellent (TOEIC 925) et une solide expérience de 2 ans en contrôle de gestion et FP&A. Le seul léger écart réside dans le secteur d'activité, le candidat venant de l'industrie tandis que l'offre concerne le secteur du luxe."
   },
+  "246536": {
+    "score": 10,
+    "raison": "Le profil du candidat est purement financier (contrôleur de gestion, FP&A), tandis que l'offre recherche un profil scientifique et médical (Medical Affairs, conformité EU MDR, revue clinique). Il y a un décalage total entre les compétences du candidat et les exigences techniques du poste."
+  },
   "246543": {
     "score": 65,
     "raison": "Le profil correspond pour le niveau d'études, la maîtrise de l'espagnol et l'attrait pour l'international. Cependant, l'offre requiert une expertise spécifique en financement de projet et modélisation financière, ainsi qu'un niveau d'espagnol C1, alors que le candidat a un profil orienté contrôle de gestion plus classique avec un niveau d'espagnol B1."
@@ -74,5 +82,9 @@
   "246546": {
     "score": 50,
     "raison": "Le profil de Nathan est orienté vers le contrôle de gestion, le FP&A et l'analyse financière stratégique, alors que l'offre recherche un profil comptable général axé sur la tenue des comptes, la facturation et la comptabilité fournisseurs. Toutefois, son expérience financière en entreprise et sa maîtrise de l'anglais offrent un bon socle pour s'adapter à un environnement international."
+  },
+  "246564": {
+    "score": 45,
+    "raison": "Le profil de Nathan est orienté vers le contrôle de gestion stratégique et opérationnel (FP&A, budgétisation), tandis que l'offre concerne le back-office titres et la réconciliation bancaire en finance de marché. Bien que ses compétences analytiques, son niveau d'anglais et son attrait pour l'international correspondent, le cœur de métier de l'offre s'éloigne significativement de son expérience et de ses aspirations principales."
   }
 }
