@@ -354,5 +354,10 @@
   "ville|kampala|ouganda": {
     "lat": 0.3177137,
     "lon": 32.5813539
+  },
+  "entreprise|lesaffre international|milwaukee    -wi-|etats-unis": null,
+  "ville|milwaukee    -wi-|etats-unis": {
+    "lat": 43.0379939,
+    "lon": -87.9064399
   }
 }

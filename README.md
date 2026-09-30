@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/09/2026 16:53:38**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **30/09/2026 17:10:29**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -325,6 +325,52 @@ Très bonne maîtrise d’Excel
 </details>
 
 <details>
+<summary><strong>Financial Planning & Analysis (H/F)</strong> · LESAFFRE INTERNATIONAL · MILWAUKEE    -WI-, ETATS-UNIS · 3 391,06 €/mois</summary>
+
+- **Entreprise :** LESAFFRE INTERNATIONAL
+- **Lieu :** MILWAUKEE    -WI-, ETATS-UNIS
+- **Indemnité :** 3 391,06 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 30/09/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, ses compétences avancées en Excel et en FP&A, ainsi qu'à son excellent niveau d'anglais (TOEIC 925). Seul un léger écart géographique est à noter, le candidat ciblant initialement l'Espagne bien que l'offre soit basée aux États-Unis.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246313](https://mon-vie-via.businessfrance.fr/offres/246313)
+
+**Description du poste**
+
+•	Demonstrate an unwavering commitment to Lesaffre's safety-first culture by strictly following all safety protocols and participating in required safety programs
+•	Assist in the development of quarterly rolling forecasts, including financial and business analysis
+•	Support evaluation of financial performance by comparing and analyzing actual results with prior year and rolling forecast
+•	Help in development of new analyses (i.e contribution margin analysis and open order trends/ projections – including partnering with other functions like supply chain and sales & marketing 
+•	Assist in developing and maintaining financial models through benchmarking and process analysis for decision support (e.g., Pricing, Manufacturing Capacity, and Profitability)
+•	Support the oversight of operating metrics (KPIs) that ensure optimal financial performance
+•	Analyzing and interpreting data that will be used for proposed recommendations to various areas of the company
+•	Development of using public data performance trends of competitors and customer to be shared with Exco 
+•	Analyze past results and perform variance analysis and identify trends
+•	Work closely with the accounting team to ensure accurate financial reporting
+•	Assist with cost analysis process 
+•	Gain exposure and work on cross functional projects with GL accounting, cost accounting, tax, or treasury teams
+
+**Profil recherché**
+
+•	Bachelor's degree (or equivalent) in Finance, Accounting, Economics, Business Administration, or related field
+•	Academic coursework or internship experience in finance, accounting, or business analysis preferred
+
+Hard skills: 
+•	Basic understanding of financial concepts and accounting principles
+•	Proficiency with MS Office, especially Excel and PowerPoint
+•	Basic to intermediate Excel skills (spreadsheets, formulas, data analysis)
+•	Ability to learn new software and financial systems quickly
+•	English proficiency required (written and verbal)
+
+Soft skills: 
+•	Open-minded: shows curiosity and openness and acts as an innovation, change agent
+•	Accountable: shows proactivity and concentrates on priorities
+•	Achiever: strives for results and performance and shows professionalism and perseverance
+•	Team player: promotes cooperation, collaboration and team spirit
+
+</details>
+
+<details>
 <summary><strong>Customer Operations & Supply Chain Specialist (H/F)</strong> · PRODUCT DEVELOPMENT EMPLOYENEURSHIP · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** PRODUCT DEVELOPMENT EMPLOYENEURSHIP
@@ -607,40 +653,6 @@ The Quality Engineer collaborates closely with cross-functional teams (e.g., Ope
 **Profil recherché**
 
 Profil recherché :<br />- Formation : Diplômé(e) de Grande Ecole.<br />- Compétences : Forte capacité d'analyse, aptitude à la gestion de projet, et compétences en gestion des opérations. Rigueur et capacité à travailler de manière autonome et à mener des initiatives stratégiques.<br />- Qualités personnelles : Esprit entrepreneurial, adaptabilité, rigueur, et excellentes compétences en communication écrite et orale. Goût pour l'innovation et l'univers des créateurs de contenu.<br />- Langues : Maîtrise du Français et de l'Anglais, et idéalement de l’Espagnol.<br />- Expérience : toute expérience similaire bienvenue.<br />Ce que nous offrons :-<br /> -Un environnement de travail à Barcelone, dynamique dans une entreprise innovante en pleine expansion.<br />- La possibilité de travailler directement avec la direction et de contribuer de manière significative à la stratégie de développement.<br />- Un cadre de travail flexible et une culture d'entreprise qui valorise l'innovation, la collaboration, et l'initiative.<br />- Des perspectives d'évolution dans la société (Direction Pays).
-
-</details>
-
-<details>
-<summary><strong>Business Operations (H/F)</strong> · LIM FRANCE · WELLINGTON   -FL-, ETATS-UNIS · 4 217,57 €/mois</summary>
-
-- **Entreprise :** LIM FRANCE
-- **Lieu :** WELLINGTON   -FL-, ETATS-UNIS
-- **Indemnité :** 4 217,57 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 28/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246402](https://mon-vie-via.businessfrance.fr/offres/246402)
-
-**Description du poste**
-
--Support the development and structuring of the company’s U.S. operations through improved financial, administrative, and operational processes.
--Contribute to cost optimization initiatives related to procurement, travel, transportation, and logistics activities.
--Strengthen administrative compliance and coordination with external partners, including banks, insurance providers, accountants, and logistics service providers.
--Participate in the standardization and digitalization of internal processes to improve efficiency and scalability.
--Develop and enhance reporting tools, dashboards, and KPIs to support business monitoring and decision-making.
--Assist in implementing process improvement projects that support the company’s growth and operational performance in the U.S. market.
-
-**Profil recherché**
-
-•Strong analytical, organizational, and problem-solving skills. 
-• Excellent communication and interpersonal abilities. 
-• Advanced proficiency in Microsoft Excel and business reporting tools. 
-• Experience with ERP systems, BI tools, and business process automation initiatives is highly desirable. 
-• Ability to manage multiple priorities in a fast-paced and entrepreneurial  environment.
-
-- Bachelor's degree in Business Administration, Finance, Accounting, Supply 
-Chain, Operations Management, or a related field. 
--Experience in business operations, finance, administration, controlling, or supply 
-chain management is a plus
 
 </details>
 
