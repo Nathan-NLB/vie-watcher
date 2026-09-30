@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/09/2026 09:07:59**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **30/09/2026 09:33:23**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2759,43 +2759,6 @@ QUALITÉS HUMAINES ET COMPÉTENCES :
 •	Une formation axée sur le Contrôle de gestion et/ou BTP et/ou Systèmes d’Information est un plus 
 •	Une 1ère expérience en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus
 •	Dans le cadre de vos missions, vous serez amené à faire des déplacements ponctuels
-
-</details>
-
-<details>
-<summary><strong>VIE Junior Structured Credits & Real Estate Analyst (H/F)</strong> · CA INDOSUEZ · MILAN, ITALIE · 2 998,98 €/mois</summary>
-
-- **Entreprise :** CA INDOSUEZ
-- **Lieu :** MILAN, ITALIE
-- **Indemnité :** 2 998,98 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 15/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245972](https://mon-vie-via.businessfrance.fr/offres/245972)
-
-**Description du poste**
-
-The resource will actively participate in the deployment of the business offering (residential and commercial real estate finance, corporate finance, lombard/securities based lending, HoldCo finance), supporting the local team in the day-by-day activities.
-Main tasks:
-· Analyze the financial situation of clients and / or prospects and assess which extraordinary financial strategy best fits their needs.
-· Prepare analyses, reports, marketing pitch-books, term sheets and related materials to be delivered to clients and prospects.
-· Prepare credit papers and financing transaction requests.
-Interact with other key divisions of the Bank along the credit process (Wealth Managers, Risk, Legal Team etc.)
-· Assist in the execution of deals.
-· Document projects and activities through a structured and regular reporting.
-· Document and maintain the knowledge of the financial situation and the needs of the Client, taking into account at the same time financial, professional and personal aspects.
-. Identify and manage all risks and compliance issues for the client and the bank, based on latest regulation given by competent national and international Authorities as well as the Group.
-
-The resource will be exposed to a challenging and rapidly changing international environment, which requires multi-tasking skills, relating to several key people within the organization, and meeting tight deadlines. It's a good opportunity to discover the world of Wealth Management, in particular on the structured financing side, from the perspective of one of the most active international banks in this market.
-
-**Profil recherché**
-
-Expertise in financial statement analysis and creditworthiness assessment
-Ability to work in synergy with the Team
-Ability to match deadlines and to be accountable for individual projects to be developed with a good and increasing degree of independecy
-Proactivity, accuracy, desire to learn, sense of responsibility
-Excellent command of  Office tools, in particular Power Point and Excel; Excellent analytical, synthesis and writing skills
-Fluency in English
-Knowledge of the Real Estate Finance business would be considered a plus
 
 </details>
 
