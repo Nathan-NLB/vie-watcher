@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/09/2026 12:06:57**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **30/09/2026 12:32:33**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1560,96 +1560,6 @@ The successful VIE candidate will support the team in the analysis and implement
 •	Support the coordination and follow-up of system change requests with relevant stakeholders;
 •	Support testing, monitoring and issue resolution activities linked to rule changes and system updates;
 •	Build effective working relationships with internal teams and external partners;
-
-</details>
-
-<details>
-<summary><strong>Global Oncology Market Access Junior Project Specialist (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · CAMBRIDGE       -MA-, ETATS-UNIS · 4 059,86 €/mois</summary>
-
-- **Entreprise :** SANOFI WINTHROP INDUSTRIE
-- **Lieu :** CAMBRIDGE       -MA-, ETATS-UNIS
-- **Indemnité :** 4 059,86 €/mois
-- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
-- **Publiée le :** 22/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246271](https://mon-vie-via.businessfrance.fr/offres/246271)
-
-**Description du poste**
-
-About the job
-
-As Global Oncology Market Access Junior Project Specialist VIE within our Global Market Access & Pricing team, you’ll support the Global Oncology Market Access and Pricing Leads on a broad range of strategic projects and operational activities for various oncologic assets, and other team members for specific projects.
-
-The scope will include pre-launch planning/preparation & project management for either a) Sanofi's early oncology pipeline and oncology access policy workstreams, or b) Sarclisa lifecycle management; in addition to operational responsibilities and other department assignments.
-
-Join the team transforming care for people with immune challenges, rare diseases, cancers, and neurological conditions. In Specialty Care, you’ll help deliver breakthrough treatments that bring hope to patients with some of the highest unmet needs.
-
-Ready to get started?
-
-About Sanofi
-
-We’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. 
-
-Main responsibilities:
-
-- Inform and shape strategies of prelaunch or inline products in scope with respect to market access and pricing relevant aspects.
-- Support the Global Market Access and Pricing Team Lead in development of relevant strategic deliverables for pipeline and prelaunch products, such as:
-Treatment and payer landscape assessment.
-Value proposition and value communication tools, negotiation guide, country training programs, etc.
-Market access strategy development.
-Pricing analysis.
-- Support local access, pricing and reimbursement activities as per global strategy including organizing and steering governance for internal approval of country price and access strategies in close collaboration with Sanofi Catalyst Team.
-- Liaise with countries and other matrix partners - Health Economics and Value Assessment (HEVA, Clinical Development, NPP, Regulatory, Market Access and Pricing, Commercial, Regulatory for requests, queries, analyses and consolidated input.
-- Foster information sharing including best practices.
-- Coordination and management of monthly country calls, Global Managed Access Program (GMAP)/HEVA reccurring meetings, country communications, planning and facilitation of summits, training and workshops.
-
-Why choose us?
-
-- Be part of a pioneering biopharma company where patient insights shape drug development.
-- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes.
-- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams.
-- Drive meaningful impact at global scale: our medicines reach more than 100 million people each year.
-- Thrive in inclusive, flexible workplaces that support your personal and professional well-being.
-- Launch your career with a company that invests in you — and empowers you to reimagine what’s possible.
-- Build your future with access to the latest tools, digital innovation, and continuous learning that keep you ahead of the curve.
-
-iMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow. 
-
-Sanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work. 
-
-Pursue Progress. Discover Extraordinary. 
-
-Progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together. 
-
-At Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.  
- 
-Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!
-
-**Profil recherché**
-
-About you
-
-Experience:
-
-- Minimum 1 year full time relevant professional experience including Market Access, Health Economics, Medical or Marketing.
-
-Soft and technical skills:
-
-- Demonstrated analytical skills, intellectual curiosity and rigor.
-- Proactive, self-starting mindset and team player.
-- Strong organizational and project management skills.
-- Ability to interact with a variety of topics, scientific, medical and business.
-- Comfortable with managing uncertainty.
-- Business acumen including financial skills, customer focus, with balance of strategic thinking and implementation orientation.
-
-Education:
-
-- Master’s Degree in Pharmacy, Biology, Business, Health Economics, Policy or similar.
-
-Languages:
-
-- Fluent English (written & verbal).
-
-To facilitate the examination of your application by our English-speaking managers, thank you for applying in English.
 
 </details>
 
