@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **01/10/2026 14:39:11**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **01/10/2026 14:57:52**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -217,6 +217,73 @@ Your profile:
 •	You have a good human contact and a critical mindset, you are autonomous, rigorous, figures oriented, dynamic, with a very good synthesis spirit.
 •	You are looking for a challenging, demanding but rewarding position
 •	You have some financial knowledge (ie. P&L…).
+
+</details>
+
+<details>
+<summary><strong>Business Controller Junior (H/F)</strong> · SOCIETE AIR FRANCE · AMSTELVEEN, PAYS-BAS · 3 395,60 €/mois</summary>
+
+- **Entreprise :** SOCIETE AIR FRANCE
+- **Lieu :** AMSTELVEEN, PAYS-BAS
+- **Indemnité :** 3 395,60 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 01/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil correspond parfaitement aux attentes avec un Master en contrôle de gestion, une solide expérience en entreprise incluant reporting et analyse financière, ainsi qu'un excellent niveau d'anglais (TOEIC 925). Le seul léger écart concerne la localisation (le candidat visait plutôt l'Espagne mais reste ouvert à l'international).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246591](https://mon-vie-via.businessfrance.fr/offres/246591)
+
+**Description du poste**
+
+Présentation du contexte :
+
+Le poste VIE est basé à Amsterdam, au sein du département Contrôle de Gestion du Digital Air France-KLM. 
+
+Le département Digital AFKL est responsable des ventes en ligne de billets (approximativement 7,5 milliards d'euros de ventes annuelles) et de produits auxiliaires via le site web et les applications Air France et KLM.
+
+Le département Digital se concentre sur le développement des services en ligne afin d'offrir à nos clients le meilleur service. Au travers de l'utilisation des dernières technologies dans le secteur du marketing digital, réseaux sociaux et mobile, le département Digital joue un rôle important dans l'expérience client. De plus, le Digital lance un certain nombre de programmes transverses clés comme le management des données clients, la digitalisation des opérations aériennes ou encore les projets axés sur la satisfaction et la fidélisation des clients.
+
+
+Description de la mission :
+
+- Support continu dans le cycle financier, notamment dans l’élaboration du Budget, des prévisions mensuelles du Digital et des clôtures comptables
+
+- Production et fiabilisation des reportings financiers à destination du management
+
+- Participation à des projets ponctuels et Business Plans
+
+- Le département du Digital est en évolution perpétuelle avec des opportunités dans de nombreux domaines d'expertise. Vous serez à même de participer à des projets divers et d'apporter un support analytique afin d'améliorer les résultats (financiers) des projets.
+Les sujets peuvent par exemple concerner le développement Mobile, du Marketing Digital, de l'alignement des procédures AF et KL.
+
+
+Quelques déplacements au Siège Air France à Roissy seront à prévoir.
+
+ 
+Toutes nos offres sont ouvertes aux candidats en situation de handicap, un aménagement peut être mis en place si nécessaire.
+Pour toute question se rapprocher du service handicap : mail.handicap@airfrance.fr 
+
+ 
+La production de documents falsifiés ou de fausses informations entraînera le rejet de la candidature.
+
+**Profil recherché**
+
+Diplômé d'une formation Bac +5 en Finance, Contrôle de Gestion, Audit, École de Commerce ou Université.
+
+Première expérience professionnelle souhaitée (stage, alternance ou premier emploi).
+
+ Anglais niveau C1 à l'oral et à l'écrit.
+
+
+Compétences :
+
+- Autonomie, curiosité
+- Rigueur 
+- Sens analytique
+- Proactivité
+- Esprit d'équipe
+- Formation spécialisée en Controlling-Finance d'entreprise
+- Connaissance des outils informatiques (maitrise de Excel, Powerpoint)
+- Intérêt/appétence pour les SI
+
+- Une connaissance de SAP et Business Intelligence serait un plus
 
 </details>
 

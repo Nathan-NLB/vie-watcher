@@ -370,5 +370,10 @@
   "ville|abidjan|cote d'ivoire": {
     "lat": 5.320357,
     "lon": -4.016107
+  },
+  "entreprise|societe air france|amstelveen|pays-bas": null,
+  "ville|amstelveen|pays-bas": {
+    "lat": 52.3028209,
+    "lon": 4.8596844
   }
 }
