@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **01/10/2026 03:48:36**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **01/10/2026 04:06:19**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4957,135 +4957,6 @@ Curious and eager to learn in an international environment.
 Autonomous and proactive.
 Team-oriented with strong interpersonal skills.
 Comfortable working across cultures and time zones.
-
-</details>
-
-<details>
-<summary><strong>Financial Controller (H/F)</strong> · NORAC MISSIONS · IBIUNA, BRESIL · 2 260,64 €/mois</summary>
-
-- **Entreprise :** NORAC MISSIONS
-- **Lieu :** IBIUNA, BRESIL
-- **Indemnité :** 2 260,64 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 31/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245150](https://mon-vie-via.businessfrance.fr/offres/245150)
-
-**Description du poste**
-
-Who we are
-
-Norac Foods Brasil is the Brazilian subsidiary of Norac Foods. Founded in 2011, we’re the pioneer of the Brazilian snacking market: we make and sell sandwiches, salads and fresh juices under our Ateliê brand. We also produce bread, madeleines and crêpes under our Paderrí brand using authentic French recipes.
-We’re growing fast, and we’re expanding our finance team. 
-
-Your mission
-
-Reporting to the CFO, you’ll be a genuine business partner to our operations. You’ll help steer the company’s economic performance, keep our management data reliable and consistent, and give local and group management the insights they need to make the right decisions.
-
-What you’ll be doing
-
-> Reporting & performance steering
-•	Help build and analyse the monthly reporting (P&L, dashboards, KPIs)
-•	Dig into variances between actuals, budget and forecast — and explain what’s driving them
-•	Contribute to the budget process, re-forecasts and mid-term plans
-> Industrial controlling
-•	Track and analyse production costs, cost prices and margins by product / line
-•	Follow industrial KPIs (yields, losses, productivity, raw-material consumption) in close collaboration with the plant teams
-•	Take part in inventories and stock monitoring
-> Analysis & decision support
-•	Run profitability studies and ad hoc analyses for management
-•	Help improve our tools and processes, clean up our data and automate reporting
-•	Be the key point of contact for the group’s teams on controlling topics
-
-**Profil recherché**
-
-Master’s degree (business school, IAE or university) with a major in finance, controlling or audit
-A first solid experience in controlling (long internship, apprenticeship or first job), ideally in an industrial or food environment.
-Strong command of Excel; comfortable with an ERP, BI tools (Power BI…) an/or IA is a plus
-Solid foundations in cost accounting and financial analysis
-
-Languages
-
-Fluent professional English
-Some Portuguese is a must — bilingual Portuguese is a plus
-
-The mindset we value
-
-Rigorous, analytical and at ease with numbers
-A people person who likes being close to the field
-Independent, curious and ready to thrive in an international environment
-Proactive and results-driven
-
-</details>
-
-<details>
-<summary><strong>Contrôleur de gestion (H/F)</strong> · ORANO NUCLEAR PACKAGES AND SERVICES · TOKYO, JAPON · 2 758,89 €/mois</summary>
-
-- **Entreprise :** ORANO NUCLEAR PACKAGES AND SERVICES
-- **Lieu :** TOKYO, JAPON
-- **Indemnité :** 2 758,89 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 31/08/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244934](https://mon-vie-via.businessfrance.fr/offres/244934)
-
-**Description du poste**
-
-À propos de Transnuclear, Ltd. (TNT)
-
-Transnuclear, Ltd. (TNT) est une joint-venture entre Orano et Kobe Steel, Ltd., basée à Tokyo. L'entreprise est spécialisée dans la conception d'équipements et la fourniture de services pour l'industrie nucléaire au Japon. 
-
-Les comptes de TNT sont consolidés dans ceux de la Business Unit NPS (Nuclear Packages and Services) du groupe Orano. Par conséquent, TNT doit respecter tous les processus financiers d'Orano. Pour y parvenir, il est nécessaire de mettre en place, maintenir et renforcer des routines et des outils appropriés. 
-
-Au-delà des aspects financiers, l'entreprise a également besoin d'un support en comptabilité analytique, marketing et communication.
-
-Missions principales :
-
-Reporting financier
-
-Mettre en place les outils et routines nécessaires au reporting financier de TNT, conformément aux règles du groupe Orano
-Travailler en étroite collaboration avec l'équipe financière française (Paris) et l'équipe locale japonaise de TNT
-Préparer et compléter tous les rapports financiers dans les délais impartis :
-Reporting mensuel
-Révision trimestrielle du budget
-Construction du budget annuel
-Prévision mensuelle de trésorerie
-Planification stratégique
-
-Construire, réviser et suivre le plan d'action stratégique annuel de TNT
-Suivi des performances
-
-Suivre l'avancement de tous les indicateurs financiers de TNT pour Orano
-Assurer le suivi des projets : renforcer et améliorer la méthodologie de suivi des coûts et des marges
-Contrôle interne et conformité
-
-Coordonner la campagne annuelle d'auto-évaluation du contrôle interne et de la conformité
-Assurer le suivi des plans d'action issus de cette campagne ou des audits
-Missions complémentaires :
-
-Réaliser des enquêtes marketing sur certains aspects du marché nucléaire au Japon
-Refondre les documents de présentation et de communication de l'entreprise (PowerPoint, leaflets, site web)
-
-**Profil recherché**
-
-Profil recherché
-
-Formation et expérience
-
-Diplôme en finance ou en comptabilité
-Première expérience professionnelle en reporting financier et processus financiers
-Connaissance des normes IFRS
-Compétences techniques
-
-Maîtrise des outils Microsoft Office
-Capacité à élaborer des rapports synthétiques
-Aptitude à surveiller et analyser les indicateurs de performance
-Compétences linguistiques
-
-Anglais : niveau B2 (intermédiaire avancé)
-Japonais : niveau B2 / JLPT N2 (intermédiaire avancé)
-Informations pratiques
-
-Lieu : Tokyo, Japon
-Durée du contrat VIE : 24 mois
 
 </details>
 
