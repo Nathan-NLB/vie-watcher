@@ -8,11 +8,129 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **01/10/2026 04:49:35**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **01/10/2026 05:06:33**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE GERMANY - PRIVATE DEBT DACH (H/F)</strong> · ATALANTE · MUNICH, ALLEMAGNE · 3 384,97 €/mois</summary>
+
+- **Entreprise :** ATALANTE
+- **Lieu :** MUNICH, ALLEMAGNE
+- **Indemnité :** 3 384,97 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 01/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan présente d'excellentes compétences en analyse financière et modélisation, qui correspondent aux besoins de reporting et d'analyse. Cependant, l'offre cible plutôt des profils issus de la dette privée ou du leveraged finance, et exige une maîtrise de l'allemand qui n'est pas mentionnée dans son profil.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246473](https://mon-vie-via.businessfrance.fr/offres/246473)
+
+**Description du poste**
+
+About CAPZA
+
+CAPZA(1) is an established European private investment platform focused on small and mid-cap companies, which is part of BNP Paribas Asset Management Alts, a leading European alternative investment platform with over €300bn in assets under management (2).
+
+With €10.5 billion of assets(3), CAPZA puts its experience and passion for investing at the service of investors in Europe and worldwide with its platform of 6 complementary areas of expertise: Growth Tech, Flex Equity, Flex Equity Mid-Market, Transition(4), Private Debt et Artemid(5).
+
+CAPZA offers financing solutions to small and mid-cap companies at every stage of their development. Its unique platform allows CAPZA to support companies over the long term by providing them with custom made financing solutions (majority equity, minority equity, subordinated debt, senior debt, etc.). CAPZA is a generalist but has built up strong expertise in supporting companies in the health, technology and services sectors.
+
+CAPZA Group has more than 120 employees based in Paris, Munich, Madrid, Milan and Amsterdam, and is part of AXA IM Alts, one of the world's leading alternative investment firms with €190 billion in assets under management5.
+
+More information: www.capza.co
+
+ CAPZA in figures
+
+- 266 SMEs and mid-sized companies supported since 2004
+- Over 120 employees based in Paris (our headquarters), Munich, Madrid, Milan, and Amsterdam
+- €10.5 billion in assets under management
+
+Would you like to join a mid-sized company where you can truly make an impact on its development? We are looking for talented and motivated candidates to support the growth of our platform. Team spirit is deeply rooted in CAPZA’s entrepreneurial culture. Our employees are curious, pragmatic, and humble. They are passionate about their work and place excellence at the heart of everything they do.
+
+📌 CAPZA is committed to equal opportunity and positive action in employment. We are dedicated to recruiting talented and diverse individuals and to fostering an inclusive and collaborative culture, as we believe that multiple perspectives lead to better-informed decisions. We welcome candidates with diverse life experiences who are eager to bring fresh ideas and recognized expertise in their field.
+
+
+(1)CAPZA is the commercial name of Atalante SAS, portfolio management company approved on 11/29/2014 by the « Autorité des Marchés Financiers » under GP-04000065.(2)Source: BNP Paribas AM Alts as of 30/09/2025.(3)Including assets advised by Artemid SAS. Based on valuations as of 30/09/2025 and including funds raised until December 2026.(4) The funds of the CAPZA Transition range are managed by the asset management company CAPZA, and advised by CAPZA Transition SAS which has financial investment advisor status (CIF in France), is registered under the Orias under the number 18001601 since the 03/23/2018.(5) The funds of the Artemid range are managed by the asset management company CAPZA and advised by Artemid SAS, which is a subsidiary of CAPZA and has financial investment advisor status (CIF in France). Artemid SAS is registered by the Orias under the number 14003497 since the 05/28/2014.
+
+About CAPZA Private Debt
+
+CAPZA is a leading private debt investor with over 20 years of experience, actively investing across five core regions: France, Germany, Benelux, Spain, and Italy. With more than €5 billion in commitments and over 340 investments since 2004, CAPZA has built an exceptional long-term track record and is currently raising its seventh private debt fund. Through our regional offices, we maintain strong local relationships and networks to identify the most attractive investments opportunities, ranging from Unitranches and junior debt to equity-linked instruments. CAPZA is seeking a VIE in Munich for its Private Debt strategy to support the analysis and execution of investments across the DACH region.
+
+Key Responsibilities
+
+Our VIEs become fully integrated members of the investment team to take the following responsibilities:
+-  Supporting the analysis and execution of potential private debt investments in mid-cap companies across the DACH region.
+-  Screening investment opportunities by conducting detailed financial and commercial analysis for credit assessments which form the basis for decisions on new investments.
+-  Preparing and reviewing LBO models to determine adequate debt capacities and structures.
+-  Contributing to drafting investment memoranda on new opportunities for the Investment Committee.
+-  Supporting the monitoring and reporting of existing investments in the portfolio.
+-  Creating high-quality presentations and pitch materials for internal and external stakeholders.
+-  Contributing to internal projects and related tasks to drive growth, efficiencies, and collaboration.
+
+**Profil recherché**
+
+Relevant internship experience in private debt, leveraged finance, or debt advisory.
+Initial understanding of credit analysis and risk assessment.
+Strong analytical, financial, and writing skills, with a rigorous and detail-oriented approach.
+Efficient process management skills, based on a highly organised and structured way of working.
+Ambitious, humble, and team-oriented mindset with a hands-on attitude and the ability to work independently and collaboratively in a fast-paced, entrepreneurial environment.
+Strong academic background in finance, economics, business administration, or a related field.
+Fluent in English (both written and spoken).
+
+</details>
+
+<details>
+<summary><strong>INVESTMENT ANALYST / ANALYSTE EN INVESTISSEMENT (H/F)</strong> · HELEXIA CORPORATE · MADRID, ESPAGNE · 2 692,70 €/mois</summary>
+
+- **Entreprise :** HELEXIA CORPORATE
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 692,70 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 01/10/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond très bien aux missions de pilotage financier, de modélisation et de reporting, renforcé par son attrait pour l'Espagne et son solide bagage en contrôle de gestion. Toutefois, l'offre demande un niveau d'espagnol supérieur (B2/C1 contre B1 pour le candidat) et une orientation plus marquée vers le M&A et la finance d'investissement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246260](https://mon-vie-via.businessfrance.fr/offres/246260)
+
+**Description du poste**
+
+Fondé en 2010 avec la volonté d’allier économies & écologie, Helexia est un acteur indépendant majeur du marché de la transition énergétique.
+L’entreprise, qui compte aujourd’hui plus de 350 collaborateurs présents dans 7 pays, offre à ses clients la possibilité de décarboner leur activité à travers la production d’énergie renouvelable sur site ainsi que des projets d’efficacité énergétique.
+S’inscrivant dans la stratégie d’expansion géographique du groupe, Helexia España a été créée en 2019 avec pour objectif de devenir un acteur incontournable du marché de la transition énergétique en Espagne. La filiale de 16 personnes compte déjà sur plus de 75 projets photovoltaïques en opération pour un total de 40 MW.
+
+Poste et missions :
+
+1/ Analyse de l’ensemble des éléments financiers et stratégiques des opportunités d’investissement sur des centrales solaires en toitures, ombrières ou au sol et sur des projets d’efficacité énergétique:
+o Réalisation du Business Plan en collaboration avec les équipes de la BU Espagne
+o Analyse du risque de contrepartie
+o Réalisation de sensibilités financières et extra-financières sur le Business Plan en fonction de l’opportunité et des risques identifiés
+o Préparation de la présentation interne pour le Comité d’investissement
+
+2/ Participation au pilotage financier de la filiale :
+o Reporting financier et commercial mensuel/trimestriel et analyse des écarts par rapport au budget ou aux prévisions
+o Implication dans le processus budgétaire et la planification financière
+o Analyse de la performance financière et suivi des opportunités post-investissement (Asset Management financier)
+
+3/ Réalisation d’études de marché
+o Veille concurrentielle
+o Analyse de tendances
+o Suivi de l’innovation et des nouvelles solutions
+
+4/ Participation aux opérations de financement des actifs espagnols en collaboration avec l’ensemble des parties prenantes (services juridique, technique et financier).
+
+5/ Implication aux différents niveaux du cycle des transactions M&A, en collaboration avec l’équipe d’investissement Groupe :
+o Screening de marché et analyse d’opportunités
+o Modélisation financière
+o Participation aux travaux d’audits
+o Soumission du projet aux forums de décision pertinents
+
+**Profil recherché**
+
+Issu(e) d'une Ecole de Commerce ou d’Ingénieur, Bac +5
+Une 1ère expérience en finance d’entreprise et/ou dans le secteur des Renouvelables ou de l’Infrastructure est souhaitée.
+Attrait particulier pour la transition énergétique et les énergies renouvelables
+Langues : Espagnol avancé (niveau B2/C1) & Anglais courant (niveau C1).
+Capacités requises : autonomie, analyse de données, appétence pour le travail en équipe, adaptabilité aux situations et aux interlocuteurs et capacités organisationnelles.
+
+</details>
 
 <details>
 <summary><strong>Chargé(e) Back Office - Réconciliation (H/F)</strong> · ARKEA PROCAPITAL SERVICES · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>

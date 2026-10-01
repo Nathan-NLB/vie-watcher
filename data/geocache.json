@@ -359,5 +359,11 @@
   "ville|milwaukee    -wi-|etats-unis": {
     "lat": 43.0379939,
     "lon": -87.9064399
-  }
+  },
+  "entreprise|atalante|munich|allemagne": null,
+  "ville|munich|allemagne": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "entreprise|helexia corporate|madrid|espagne": null
 }
