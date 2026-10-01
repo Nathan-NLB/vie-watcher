@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **01/10/2026 17:07:04**, 95 offre(s) actuellement en ligne.
+Dernière vérification : **01/10/2026 17:33:24**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -131,6 +131,40 @@ Efficient process management skills, based on a highly organised and structured 
 Ambitious, humble, and team-oriented mindset with a hands-on attitude and the ability to work independently and collaboratively in a fast-paced, entrepreneurial environment.
 Strong academic background in finance, economics, business administration, or a related field.
 Fluent in English (both written and spoken).
+
+</details>
+
+<details>
+<summary><strong>Business Operations (H/F)</strong> · LIM FRANCE · WELLINGTON   -FL-, ETATS-UNIS · 4 217,57 €/mois</summary>
+
+- **Entreprise :** LIM FRANCE
+- **Lieu :** WELLINGTON   -FL-, ETATS-UNIS
+- **Indemnité :** 4 217,57 €/mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
+- **Publiée le :** 01/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246402](https://mon-vie-via.businessfrance.fr/offres/246402)
+
+**Description du poste**
+
+-Support the development and structuring of the company’s U.S. operations through improved financial, administrative, and operational processes.
+-Contribute to cost optimization initiatives related to procurement, travel, transportation, and logistics activities.
+-Strengthen administrative compliance and coordination with external partners, including banks, insurance providers, accountants, and logistics service providers.
+-Participate in the standardization and digitalization of internal processes to improve efficiency and scalability.
+-Develop and enhance reporting tools, dashboards, and KPIs to support business monitoring and decision-making.
+-Assist in implementing process improvement projects that support the company’s growth and operational performance in the U.S. market.
+
+**Profil recherché**
+
+•Strong analytical, organizational, and problem-solving skills. 
+• Excellent communication and interpersonal abilities. 
+• Advanced proficiency in Microsoft Excel and business reporting tools. 
+• Experience with ERP systems, BI tools, and business process automation initiatives is highly desirable. 
+• Ability to manage multiple priorities in a fast-paced and entrepreneurial  environment.
+
+- Bachelor's degree in Business Administration, Finance, Accounting, Supply 
+Chain, Operations Management, or a related field. 
+-Experience in business operations, finance, administration, controlling, or supply 
+chain management is a plus
 
 </details>
 
