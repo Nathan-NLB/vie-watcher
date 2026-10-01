@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **01/10/2026 19:31:43**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **01/10/2026 19:50:10**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4650,41 +4650,6 @@ Les qualités indispensables
 Rigueur – Organisation – Esprit analytique – Réactivité – Autonomie – Esprit d'équipe
 
 Vous aimez les environnements où la précision est essentielle et où vous pouvez rapidement prendre en charge un périmètre opérationnel ? Ce poste est fait pour vous.
-
-</details>
-
-<details>
-<summary><strong>Technicien.ne Comptable (H/F)</strong> · NAOS · MONTREAL -QC, CANADA · 2 632,92 €/mois</summary>
-
-- **Entreprise :** NAOS
-- **Lieu :** MONTREAL -QC, CANADA
-- **Indemnité :** 2 632,92 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 04/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245622](https://mon-vie-via.businessfrance.fr/offres/245622)
-
-**Description du poste**
-
-Comptabilité Clients, Recouvrement, Trésorerie et Relation Client :
-- Comptabiliser les opérations clients (encaissements, avoirs, ajustements).
-- Assurer le lettrage, la justification et la réconciliation des comptes.
-- Réaliser les rapprochements bancaires, suivre les encaissements, contribuer au reporting Cash In, aux prévisions de trésorerie et à l'analyse des écarts.
-- Assurer la réconciliation régulière des comptes clients avec les différents systèmes, justifier les soldes, suivre les balances âgées, le recouvrement, les litiges, les limites de crédit, le support à la facturation et la relation clients.
-- Relances et Recouvrement : Communiquer avec les clients pour le recouvrement des créances en retard de paiement. Cela peut impliquer l'envoi de relances, de lettres de rappel ou même la coordination avec le service juridique en cas de litiges.
-- Support du comptable fournisseur sur certains process et back-up lors des absences.
-
-Fiscalité US :
-- Assurer le suivi des Sales Tax, la gestion des portails dédiés, la préparation du reporting et des déclarations fiscales.
-
-Audit :
-- Être l'interlocuteur des auditeurs internes et externes, préparer les justificatifs, coordonner les demandes d'audit.
-
-**Profil recherché**
-
-Formation finance/comptabilité et expérience en comptabilité.
-Une connaissance de SAP est un atout.
-Aptitude à travailler en équipe et à collaborer avec différents départements.
-La maîtrise de l'anglais est indispensable.
 
 </details>
 
