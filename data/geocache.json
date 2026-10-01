@@ -375,5 +375,10 @@
   "ville|amstelveen|pays-bas": {
     "lat": 52.3028209,
     "lon": 4.8596844
+  },
+  "entreprise|flexitech europe|san luis potosi|mexique": null,
+  "ville|san luis potosi|mexique": {
+    "lat": 22.5000001,
+    "lon": -100.4949145
   }
 }
