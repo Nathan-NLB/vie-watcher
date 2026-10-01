@@ -462,6 +462,69 @@
     "dateCandidature": null
   },
   {
+    "id": 245544,
+    "organizationName": "ALTEN",
+    "missionTitle": "Business Controller & Analyst (H/F)",
+    "missionDuration": 12,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "0",
+    "effectifInd": "0",
+    "effectifConso": "5000",
+    "organizationCountryCounter": "0",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "BRUXELLES",
+    "cityNameEn": "BRUXELLES",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"9\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "ALTEN group’s mission is to create customer satisfaction by developing tailor-made and innovative solutions for IT and Technology.\nPresent in 30 countries, we propose IT Solutions and Engineering Consulting to the world’s largest companies. For more than 30 years, a passion for engineering has driven us: ALTEN today is a European leader in engineering consulting and advanced technologies.\nTo follow our growth and development on the International perimeter (30 000 employees, turnover superior to 2 billion €), the ALTEN Group is looking for a:\n\nBusiness Controller & Analyst \nBased in ALTEN BELGIUM, Brussels \n\nYou will report directly to the Head of the International Development Department.  Your assignment consists in consolidating and analysing the operational data from ALTEN in Benelux. \nYour main tasks will be the following ones: \n•\tProducing weekly, monthly & quarterly operational reports for the Group as well as ad hoc analysis upon request\n•\tAnalysing with a critical eye the weekly operational indicators (KPIs)\n•\tProviding the best quality reports and analysis for key deadlines such as:\n•\tthe monthly business review (MBR) with the Top Management & the COO \n•\tthe Committee Career (CC) (biannual assessment of the commercial/management team based on operational data)\n•\tImplementation of the Bonus System for the management team \n•\tMaintaining & creating various dashboards for the COO to drive the activity\n•\tImproving the information flow from subsidiaries to headquarter\n•\tHelping in the deployment of the ALTEN tools in the new subsidiaries",
+    "creationDate": "2026-09-01T10:21:54Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-01T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-10-31T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "Your profile: \n•\tGraduated from an engineering or business school, \n•\tYou are an expert in the advanced commands of Microsoft Excel (vlookup, TCD, macros) \n•\tYou have a good human contact and a critical mindset, you are autonomous, rigorous, figures oriented, dynamic, with a very good synthesis spirit.\n•\tYou are looking for a challenging, demanding but rewarding position\n•\tYou have some financial knowledge (ie. P&L…).",
+    "countryId": "BE",
+    "countryName": "BELGIQUE",
+    "countryNameEn": "BELGIUM",
+    "reference": "VIE245544",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Madame Anais HENRY",
+    "indemnite": 2978.53,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "anais.henry@alten.be",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "",
+    "dateCandidature": null
+  },
+  {
     "id": 246564,
     "organizationName": "ARKEA PROCAPITAL SERVICES",
     "missionTitle": "Chargé(e) Back Office - Réconciliation (H/F)",
@@ -493,16 +556,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "202"
+      "[\"202\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers. Dans le cadre de son développement, ProCapital recherche : \n\nUn(e) Gestionnaire Back Office « Réconciliation »\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Le contrôle des opérations titres et cash dans leur ensemble (corporate actions, trades sur actions, trades sur options, dépôt cash etc.)\n- Le contrôle des positions titres (détenues chez différents dépositaires)\n- La production de plusieurs rapports à destination des équipes du Back-office et du Management\n- La détection et le suivi des opérations à risque\n- La rédaction et mise à jour de procédures opérationnelles et processus internes\n- L’identification des incidents et éventuels dysfonctionnements, ainsi que la remontée des alertes\n- Le traitement des demandes d’information des clients et du service interne relation clientèle\n- L’évolution des processus et l’amélioration des systèmes;",
     "creationDate": "2026-09-30T13:58:43Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3454,16 +3510,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "About ENGIE and Supply & Energy Management:\n\nENGIE, a global leader in low-carbon energy and services, relies on its Global Business Unit Supply & Energy Management (GBU S&EM) to provide reliable, sustainable, and affordable energy to all its customers. This strategic unit optimizes the Group’s and clients’ production assets and designs tailored energy solutions for our 200,000 professional clients and 15 million consumers.\n\nThe Global Business Unit Supply & Energy Management leverages ENGIE’s assets to deliver secure and sustainable energy to its B2B and B2C customers. It uses its expertise in energy management to provide decarbonized electricity 24/7.\n\nJoining Supply & Energy Management means becoming part of a team of over 10,000 passionate experts spread across 20 countries, all united by a shared mission: shaping a greener and more efficient energy future. Together, we push the boundaries of innovation to deliver decarbonized energy 24/7. Join us and be part of those shaping the energy of tomorrow!\n\n \n\nThe Renewable Operations team is responsible for: \n- ensuring the smooth running of renewable operations \n- providing the relevant tools to actively manage portfolio contracts \n\n- maintain central database data quality at highest level for renewable assets management \n\n- facilitating the production of reports and analysis on data \n\n \n\nChallenge: \n\nYou will join an operational team, managing an important Renewable portfolio in collaboration with many other GEM teams (Business Developers, Structurers, Traders, Support functions). \n\nYou’ll need to quickly develop a good knowledge of the processes and tools needed to run the activity. \n\nYou’ll work in close relationship with the IT team in order to set up new features and improve existing ones. \n\nYou’ll need scripting capabilities to perform data management automation and detect area of improvements. \n\n \n\nMission/Main Activities: \n\nAccurate Contract Representation and Modelling: \n\nEnsure precise representation and modelling of renewable contracts, sometimes very structured and exotic, in deal capture and invoicing systems, including Power and Guarantee of Origins. \n\nTechnical Issue Resolution: \n\nLiaise with IS to follow up on technical issues ensuring timely  and accurate resolution for invoicing. \n\nInternal Stakeholder Communication: \n\nMaintain effective communication with internal stakeholders (Originators, Traders, Finance) to ensure smooth workflow from contractualization to invoicing. \n\nData Management and Client Relationship \n\nApply best practices in data management and act as the guardian of client relationships, ensuring data integrity and client satisfaction. \n\nContinuous Improvement and Automation: \n\nLead initiatives for continuous improvement of operations and contribute to their automation, enhancing efficiency and effectiveness.",
     "creationDate": "2026-09-22T11:27:28Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3524,51 +3573,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:43:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -3734,16 +3741,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tMaintain and further develop our credit risk measurement methodologies\n•\tProvide timely and quality-assured risk metrics and other management indicators for Credit Risk Management, the Management Board, and other bank committees\n•\tFurther develop methodologies within the ICAAP and stress testing framework in accordance with MaRisk requirements\n•\tSupport the development, implementation, and validation of models\n•\tContribute to cross-risk-type topics and projects",
     "creationDate": "2026-09-21T14:28:47Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -7689,30 +7689,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "188",
-      "259"
+      "[\"17\",\"188\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "188",
-        "specializationParentId": "227",
-        "specializationLabel": "Politiques publiques et sectorielles",
-        "specializationLabelEn": "Public and sectoral policies"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Pôle Économie & Finance du Service économique régional (SER) de Tokyo est composé de trois personnes (et d’un stagiaire la moitié de l’année), placées sous l’autorité directe du conseiller financier, adjoint au chef du SER et représentant de la Banque de France au Japon. Ce pôle assure le suivi des politiques économiques et financières japonaises, ainsi que de questions multilatérales (financières et commerciales).\n\nMissions :\nSous l’autorité de l’adjoint au chef du Service économique régional et responsable du pôle Économie & Finance :\na) Veille et travaux d’analyse sur le Japon\n-\tRédaction de notes d’analyse sur la politique économique japonaise : politique budgétaire, politique monétaire, marchés financiers, réformes structurelles et sociales, politique commerciale. \n-\tRédaction de notes d’actualité à l’issue des réunions de politique monétaire de la Banque du Japon et lors d’événements économiques ou financiers majeurs, dans des délais serrés.\n-\tRéponse aux commandes des administrations centrales (Direction générale du Trésor, Banque de France, etc.) et de l’Ambassadrice de France au Japon : analyse du commerce extérieur et bilatéral, des investissements directs étrangers, du projet de loi de finances japonais, exercices de surveillance multilatérale (notes d’analyse et de réaction à destination du FMI et de l’OCDE), préparation d’éléments de langage et de contexte en vue d’entretiens bilatéraux de haut niveau. \n-\tRédaction d’une note de conjoncture mensuelle sur le Japon présentée aux conseillers du Commerce extérieur de la France (CCEF) ; à cette fin, collecte et mise à jour régulières des indicateurs économiques pertinents, dans une perspective comparative régionale et internationale (note, support de présentation, etc.).\n-\tRédaction de brèves macroéconomiques et financières pour la publication de la veille hebdomadaire. \n\nb) Accueil de délégations et promotion des intérêts français au Japon\n-\tContribuer à l’organisation de visites officielles en provenance de France : préparation des dossiers (programme, fiches-séquences), ainsi qu’à l’organisation et à la préparation des entretiens, accompagnement des délégations, rédactions de comptes rendus, etc.\n-\tContribuer à l’organisation de réunions multilatérales et de différents évènements, séminaires et webinaires (ex : Forum Paris-Europlace, Séminaire annuel sur la finance verte, etc.).\nc) Travaux régionaux\n-\tTravaux conjoints avec le Service économique de Séoul dans le cadre de la rédaction de notes régionales macroéconomiques et financières (exemples récents : déséquilibres macroéconomiques, potentiels de croissance à long terme, etc.), et appui lors des exercices de surveillance multilatérale en Corée du Sud (FMI et OCDE).\nd) Coordination des travaux et Communication\n-\tCoordonner la production éditoriale et la communication du SER de Tokyo (en collaboration avec les autres VIA du SER) : coordination de la Veille économique et financière régionales rédigées chaque fin de semaine avec le Service économique de Séoul, actualisation du site internet du SER, collaboration avec les services de Communication du Trésor et de l’Ambassade de France pour des publications, etc. \nAfin d’accomplir sa mission, l’attaché(e) sera amené à :\n-\tRéaliser une veille exhaustive et rédiger des notes d’analyse macroéconomique et financière ;\n-\tContribuer à l’organisation d’évènements à plusieurs échelles (rendez-vous, visites officielles, séminaires, etc.) pour lesquels il devra se montrer proactif et autonome ;\n-\tAssister à des conférences, séminaires, webinaires et autres évènements ;\n-\tDévelopper des relations avec de multiples interlocuteurs japonais et français principalement (autorités publiques, entreprises, banquiers, économistes, instituts de recherche, etc.), ainsi qu’avec la Délégation de l’Union européenne à Tokyo (conseillers financiers, conseillers commerciaux des États-membres présents à Tokyo) ;\n-\tCoordonner le travail avec les différents pôles du SER sur des sujets transversaux ;\n-\tPréparer des présentations effectuées par le chef du SER, le conseiller financier, ou l’attaché(e) ;\n-\tProposer de manière pro-active des axes de travail et de coopération ;\n-\tTravailler en équipe au sein du SER ainsi qu’avec l’ensemble des services de l’Ambassade de France, de la Direction générale du Trésor et de la Banque de France.\n\n\nProfil recherché : \n- Formation supérieure niveau BAC+5 Grandes écoles, master en économie, finance, politiques publiques. Expérience préalable en administration appréciée\n\n\nCompétences requises : \n-\tBonne connaissance des politiques monétaire et budgétaire et des mécanismes des marchés financiers, et intérêt pour l’économie japonaise ;\n-\tTrès bonnes capacités rédactionnelles, esprit de synthèse ;\n-\tPolyvalence, capacité à investir de nouveaux sujets ;\n-\tCapacité à identifier rapidement les sources d’informations pertinentes et à suivre l’actualité économique ;\n-\tRapidité et aisance dans le maniement de données chiffrées, maîtrise de l’approche quantitative, sens de l’analyse ;\n-\tRigueur organisationnelle, esprit d’anticipation, capacité à prendre en compte les aspects logistiques (notamment dans l’appui à la préparation des visites officielles) ;\n-\tExcellente maîtrise de l’anglais (écrit et parlé), japonais (optionnel) ;\n-\tAisance avec les outils bureautiques Excel (indispensable), Powerpoint et Word ;\n-\tSens du contact et du travail en équipe, capacité à coordonner des dossiers ;\n-\tPrise d’initiative, autonomie organisationnelle, très grande réactivité dans la gestion fréquente de dossiers en urgence (possibles journées avec large amplitude horaire)\n\nCadre de vie et de travail : \n-\tL’attaché(e) devra trouver lui/elle-même son logement – Coût d’un logement d’environ 30-35 m² à proximité de l’Ambassade (entre 5 et 25 min à pied) : environ 1 000 EUR par mois ;\n-\tCoût d’un déjeuner complet dans un restaurant à proximité de l’Ambassade : 8 à 10 euros ;\n-\tQualité de vie, bonnes conditions sanitaires, facilité des transports et sécurité [se reporter toutefois à la fiche « conseils aux voyageurs » du ministère des Affaires étrangères en particulier sur le risque sismique] ;\n-\tCommunauté dynamique de VIA et de stagiaires au sein de l’ambassade ;\n-\tProximité de Tokyo avec la mer et la montagne (entre 1h et 1h30 de trajet, pour un tarif moyen compris entre 5 et 10 euros).",
     "creationDate": "2026-09-28T07:41:24Z",
     "missionStartDate": "2027-01-04T00:00:00",
