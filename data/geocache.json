@@ -380,5 +380,10 @@
   "ville|san luis potosi|mexique": {
     "lat": 22.5000001,
     "lon": -100.4949145
+  },
+  "entreprise|hutchinson|auburn hills -mi-|etats-unis": null,
+  "ville|auburn hills -mi-|etats-unis": {
+    "lat": 42.6875323,
+    "lon": -83.2341028
   }
 }
