@@ -365,5 +365,10 @@
     "lat": 48.1371079,
     "lon": 11.5753822
   },
-  "entreprise|helexia corporate|madrid|espagne": null
+  "entreprise|helexia corporate|madrid|espagne": null,
+  "entreprise|foraco|abidjan|cote d'ivoire": null,
+  "ville|abidjan|cote d'ivoire": {
+    "lat": 5.320357,
+    "lon": -4.016107
+  }
 }

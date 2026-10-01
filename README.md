@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **01/10/2026 09:34:04**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **01/10/2026 09:50:11**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -129,6 +129,52 @@ Une 1ère expérience en finance d’entreprise et/ou dans le secteur des Renouv
 Attrait particulier pour la transition énergétique et les énergies renouvelables
 Langues : Espagnol avancé (niveau B2/C1) & Anglais courant (niveau C1).
 Capacités requises : autonomie, analyse de données, appétence pour le travail en équipe, adaptabilité aux situations et aux interlocuteurs et capacités organisationnelles.
+
+</details>
+
+<details>
+<summary><strong>Contrôleur Financier Afrique de l’Ouest (H/F)</strong> · FORACO · ABIDJAN, COTE D'IVOIRE · 2 563,23 €/mois</summary>
+
+- **Entreprise :** FORACO
+- **Lieu :** ABIDJAN, COTE D'IVOIRE
+- **Indemnité :** 2 563,23 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 01/10/2026
+- **Compatibilité avec ton profil :** 75 % — Nathan possède une solide expérience en contrôle de gestion, un excellent niveau d'anglais et un profil international adapté. Cependant, l'offre exige des compétences approfondies en comptabilité, normes IFRS et fiscalité ainsi qu'une maîtrise de SAP, qui constituent des écarts par rapport à son parcours principalement orienté FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245840](https://mon-vie-via.businessfrance.fr/offres/245840)
+
+**Description du poste**
+
+Nous sommes actuellement à la recherche d’un(e) candidat(e) pour le poste de Contrôleur Financier pour l’Afrique de l’Ouest (Côte d’Ivoire, Sénégal, …), basé à Abidjan, en Côte d’Ivoire, sous l’autorité VP Afrique et sous la supervision du Contrôleur Financier Groupe
+
+Responsabilités et principales missions
+
+ Ce poste nécessitera des déplacements sur le territoire de la Côte d’Ivoire mais également dans les pays d’Afrique de l’Ouest dans lesquels nous sommes actuellement implantés et dans lesquels nous opérons. Le candidat retenu jouera un rôle essentiel dans la performance de l’entreprise en participant à la gestion prudente de toutes les activités financières et de contrôle pour la région. Cela comprend également la participation à la supervision et à la gestion de tous les aspects de la comptabilité d’entreprise, du contrôle interne et des rapports financiers pour la région.
+
+Les principales missions de ce poste sont les suivantes : 
+
+•	Participer à la coordination de l’équipe financière et comptable (environ 5 personnes sur 3 pays),
+•	Garantir la fiabilité de l’information financière, des processus de clôture et la qualité des comptes
+•	Aider au respect des obligations fiscales et réglementaires (dépôt des comptes, déclarations fiscales, TVA, gestion des contrôles fiscaux),
+•	Analyse, mesure et interprétation de toutes les données financières,
+•	Utiliser l’expertise financière, budgétaire et comptable pour évaluer la rentabilité des projets et s’assurer qu’ils respectent les limites budgétisées,
+•	Fournir des conseils adéquats et des recommandations pour la prise de décisions (prévisions, budget, capex, etc.),
+•	Assister le VP Afrique dans la préparation des reportings et analyses mensuelles,
+•	Participer à la mise en œuvre des procédures adéquates et assister le contrôleur financier Groupe pour assurer  la conformité du processus de contrôle interne conformément aux politiques de la Société. Contrôler l’application correcte de la matrice de délégation des pouvoirs,
+•	Participer à la publication trimestrielle du package de reporting IFRS à des fins de consolidation,
+•	Relations régulières avec les banques, les commissaires aux comptes et tous partenaires externes,
+•	Assurer un suivi dynamique et contrôle des inventaires,
+•	Participer à l'élaboration des prévisions de trésorerie de la zone et à la préparation des reportings hebdomadaires destinés au Siège.
+
+Profil recherché
+
+Le/La candidat(e) idéal(e) est titulaire d’un diplôme en comptabilité ou en école de commerce, avec une expérience significative en Audit ou une expérience similaire dans une entreprise orientée projet. Le poste exige une solide connaissance des normes et principe comptables (IFRS), des processus de clôture et justification des comptes et des règles et règlements fiscaux. Le/La candidat(e) doit être capable de communiquer et de gérer efficacement à plusieurs niveaux d’une organisation, la capacité d’analyser et de hiérarchiser efficacement son travail.
+
+**Profil recherché**
+
+Le/La candidat(e) idéal(e) est titulaire d’un diplôme en comptabilité ou en école de commerce, avec une expérience significative en Audit ou une expérience similaire dans une entreprise orientée projet. Le poste exige une solide connaissance des normes et principe comptables (IFRS), des processus de clôture et justification des comptes et des règles et règlements fiscaux. Le/La candidat(e) doit être capable de communiquer et de gérer efficacement à plusieurs niveaux d’une organisation, la capacité d’analyser et de hiérarchiser efficacement son travail. 
+Le/La candidat(e) doit également avoir la capacité de prendre des décisions judicieuses et indépendantes, de respecter les délais et de démontrer un haut niveau d’intégrité avec les systèmes comptables.
+La maîtrise du Français est obligatoire. L’Anglais ainsi que la connaissance de SAP est un atout.
 
 </details>
 
