@@ -395,5 +395,10 @@
   "ville|mascate|oman": {
     "lat": 23.6123628,
     "lon": 58.5938134
+  },
+  "entreprise|bessac|lome|togo": null,
+  "ville|lome|togo": {
+    "lat": 6.130419,
+    "lon": 1.215829
   }
 }
