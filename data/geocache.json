@@ -390,5 +390,10 @@
   "ville|boucherville -qc|canada": {
     "lat": 45.5749886,
     "lon": -73.4522117
+  },
+  "entreprise|direction generale du tresor|mascate|oman": null,
+  "ville|mascate|oman": {
+    "lat": 23.6123628,
+    "lon": 58.5938134
   }
 }

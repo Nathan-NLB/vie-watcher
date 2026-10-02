@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 10:33:38**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 10:49:18**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -171,6 +171,72 @@ Les qualités indispensables
 Rigueur – Organisation – Esprit analytique – Réactivité – Autonomie – Esprit d'équipe
 
 Vous aimez les environnements où la précision est essentielle et où vous pouvez rapidement prendre en charge un périmètre opérationnel ? Ce poste est fait pour vous.
+
+</details>
+
+<details>
+<summary><strong>Chargé(e) d'études économiques et sectorielles à Mascate (H/F)</strong> · DIRECTION GENERALE DU TRESOR · MASCATE, OMAN · 2 356,49 €/mois</summary>
+
+- **Entreprise :** DIRECTION GENERALE DU TRESOR
+- **Lieu :** MASCATE, OMAN
+- **Indemnité :** 2 356,49 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 02/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement axé sur le contrôle de gestion et la finance d'entreprise, ce qui correspond peu à cette offre de chargé d'études économiques et sectorielles à orientation macroéconomique et institutionnelle. S'il possède de bonnes compétences analytiques et un bon niveau d'anglais, son profil manque de la formation en économie appliquée ou sciences politiques requise pour ce poste au sein du Trésor.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246627](https://mon-vie-via.businessfrance.fr/offres/246627)
+
+**Description du poste**
+
+Le Service économique de Mascate, en lien avec le Service Economique Régional d’Abu Dhabi auquel il est rattaché, a pour mission de suivre et d’analyser pour le compte de l’administration française le contexte macroéconomique et financier du Sultanat d’Oman, les politiques économiques et industrielles qui y sont développées et les opportunités sectorielles qui peuvent y apparaître en informant en tant que de besoin les entreprises françaises. 
+
+Il propose un soutien aux entreprises françaises dans l’approche du marché omanais et anime la relation économique bilatérale avec ses partenaires, en particulier les Conseillers du Commerce Extérieur de la France, le bureau régional Business France de Dubaï, le bureau de Bpifrance à Dubaï, ainsi que l’OFA (Oman France Amitié), association jouant localement le rôle d’une Chambre de Commerce bilatérale. Il a vocation à préparer et coordonner l’organisation des visites officielles à caractère économique en France et en Oman. 
+
+Le Service économique de Mascate comprend 2 agents dont le Chef de Service économique et le/la VIA, qui assure de fait la fonction d’adjoint(e).
+
+MISSION ET ATTRIBUTIONS DU/DE LA VIA :
+
+En lien étroit avec le Chef du Service économique, l’intéressé(e) travaillera sur 3 axes principaux : 
+
+•	réalisation de travaux sous forme de notes relatives à l’environnement macroéconomique et financier du Sultanat d’Oman et aux principaux secteurs d’activité (énergies renouvelables, « utilities », hydrocarbures, digital, data centers, IA transports, aérien), en lien avec les grands projets suivis par les entreprises françaises ; 
+•	rédaction de la lettre quadrimestrielle du Service économique (« Objectif Oman ») destinée aux entreprises françaises et offrant une analyse de l’actualité économique et sectorielle du pays ;
+•	participation active aux commandes de l’Ambassade, à la préparation d’entretiens de haut niveau et à l’organisation et l’accueil de missions officielles et des partenaires à l’export.
+
+Le/la VIA contribuera également aux travaux récurrents du poste, qu’il s’agisse de la rédaction de la contribution du SE d’Oman pour les brèves économiques hebdomadaires « péninsule arabique » (pilotées par le SER d’Abu Dhabi), des réponses aux commandes de la Direction et du SER d’Abu Dhabi et de l’alimentation en contenu du site internet du SE de Mascate.
+
+PROFIL : 
+
+Formation économique (Master 2 analyse économique, relations économiques internationales ; école de commerce, université, majeure macro / microéconomie) dans l’idéal complétée d’une formation généraliste (type institut d’études politiques). Une première expérience au sein de l’administration française et/ou en entreprise, si possible à l’étranger, constituerait un avantage, de même que des notions de langue arabe littérale.
+
+COMPETENCES REQUISES :
+
+•	fortes capacités analytiques et rédactionnelles
+•	connaissance des sujets économiques et financiers
+•	capacités de recherche 
+•	capacités relationnelles 
+•	réactivité et respect des délais
+•	ouverture et capacité à travailler en collaboration avec des interlocuteurs variés
+•	autonomie 
+•	très bon niveau d’anglais (C1)
+
+DIVERS : 
+
+Climat marqué par des températures extrêmes (40°C et plus avec des ressentis au-delà de 50°C) et une très forte humidité (50 à 70%) pendant cinq mois de l’année (mai à septembre).
+
+Lenteur des démarches administratives (visa, carte d’identité, permis de conduire) : anticiper le plus possible avant la prise de fonctions
+
+Restrictions alimentaires : pas de charcuterie, alcool cher ; interdiction de boire, manger, fumer en public pendant le mois de ramadan.
+
+Permis de conduire vivement conseillé (prévoir location / achat d’un véhicule pour se déplacer)
+
+Excellentes conditions sécuritaires (pas de vols, agressions, cambriolages), mais prudence néanmoins sur les routes et lors d’orages, très peu fréquents, mais souvent violents.
+
+**Profil recherché**
+
+Formation économique (Master 2 analyse économique, relations économiques internationales ; école de commerce, université, majeure macro / microéconomie) dans l’idéal complétée d’une formation généraliste (type institut d’études politiques). Une première expérience au sein de l’administration française et/ou en entreprise, si possible à l’étranger, constituerait un avantage, de même que des notions de langue arabe littérale.
+
+Niveau C1 en anglais
+
+Merci d'envoyer vos CV UNIQUEMENT EN FRANCAIS
 
 </details>
 
@@ -4182,56 +4248,6 @@ Ability to work effectively under pressure and meet deadlines.
 </details>
 
 <details>
-<summary><strong>ANALYSTE VALORISATION PRIVATE EQUITY (H/F)</strong> · AMETHIS ADVISORY · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
-
-- **Entreprise :** AMETHIS ADVISORY
-- **Lieu :** LUXEMBOURG, LUXEMBOURG
-- **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 08/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245665](https://mon-vie-via.businessfrance.fr/offres/245665)
-
-**Description du poste**
-
-1.	Description du groupe Amethis 
-Amethis est un gestionnaire de fonds d’investissement (« AIFM ») dédié au continent africain, contribuant à favoriser au développement durable des entreprises africaines. 
-Créé en 2012 en partenariat avec le groupe Edmond de Rothschild, nous disposons aujourd’hui de plus de €1 milliard d’actifs sous gestion et continuons de nous développer rapidement. Amethis a investi dans des sociétés présentes dans plus de 20 pays africains et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.
-Afin d’accompagner notre forte croissance, nous recherchons un(e) analyste en valorisation. Dans ce cadre, vous accompagnerez l’équipe financière de l’AIFM du groupe Amethis (Amethis Investment Fund Manager S.A.), réglementé par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg. Cette équipe est en charge du pilotage de la fonction financière et de la gestion des fonds d’investissements.
-
-2.	Contexte AIFM (Aspect règlementaire)
-Amethis Investment Fund Manger S.A. est une société du groupe Amethis. Amethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissements alternatifs (GFIA). Cette société créée en 2017 est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg. L’AIFM assure entre autres, pour les fonds d’investissement dont elle a la supervision, les fonctions réglementaires suivantes :
-•	Contrôle interne (gestion des risques / compliance / audit interne)
-•	Gestion de portefeuille
-•	Evaluation des actifs
-•	Commercialisation
-
-3.	Rôle et missions du poste
-Le poste sera rattaché au directeur en charge des risques, de la finance et de la gestion administrative des fonds et fournira une exposition régulière aux membres du comité exécutif de l’AIFM, au front office, aux investisseurs, aux commissaires aux comptes et aux prestataires délégués pour l’administration des fonds.
-Les tâches associées au poste sont les suivantes : 
-•	Assister le Valuation and Fund Administration Manager dans:
-o	La revue des valorisations des investissements du portefeuille d’actifs (méthodologies, hypothèses d’évaluation, supports, etc.)
-o	La préparation des mémos à destination des comités de valorisation
-o	La coordination des audits des fonds d’investissement
-•	La production des rapports trimestriels à destination des investisseurs (incluant des revues analytiques des états comptables produits par différents prestataires de service)
-•	La préparation et support sur les opérations des fonds (appels de fonds, distributions, investissement, etc.)
-•	Le support de l’équipe Finance sur d’autres fonctions transversales (modélisation de cash-flows prévisionnels, création d’outils interne de gestion/contrôle, Digitalisation etc.)
-•	Aide à la clôture annuelle des comptes.
-•	Aide au suivi de la collaboration et des échanges avec les différents prestataires de services (Banque dépositaire, Agent de transfert, Prestataire comptable / fiscal ; Auditeur interne / externe ; etc.)
-
-**Profil recherché**
-
-•	Excellente maitrise d’Excel
-•	Connaissance a minima théorique des méthodes de valorisation (DCF, multiples, etc.)
-•	Connaissance des états financiers et principes de comptabilité (bilan, compte de résultats, flux de trésorerie)
-•	Autonome, précis(e), organisé(e), vous faites preuve d'initiative et vous êtes digne de confiance
-•	Capacité à travailler dans un environnement évolutif
-•	Grande rigueur et appétence pour travailler sur des travaux nécessitants d’aller dans le détail
-•	La maîtrise du Français et de l’Anglais est indispensable mais toute autre langue est un atout
-•	Connaissance de S&P Capital IQ et VBA serait un plus
-
-</details>
-
-<details>
 <summary><strong>VIE - Quantitative Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** ENGIE GLOBAL MARKETS
@@ -4940,68 +4956,6 @@ Note:
 ●	Starting date: ASAP.
 ●	Potential long-term career opportunities within LDC (Germany, France, Switzerland).
 ●	High exposure to local and global management.
-
-</details>
-
-<details>
-<summary><strong>CORPORATE FINANCE HF (H/F)</strong> · ALBIOMA · SAO PAULO, BRESIL · 2 689,62 €/mois</summary>
-
-- **Entreprise :** ALBIOMA
-- **Lieu :** SAO PAULO, BRESIL
-- **Indemnité :** 2 689,62 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 04/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245612](https://mon-vie-via.businessfrance.fr/offres/245612)
-
-**Description du poste**
-
-Présentation de la société :
-
-Albioma est engagé dans la transition énergétique grâce aux énergies renouvelables (biomasse, solaire et géothermie).
-
-Le Groupe est implanté en Outre-mer français, dans l'Hexagone, à Île Maurice, au Brésil, au Canada, en Australie et en Turquie. Il a développé depuis 30 ans un partenariat unique avec le monde sucrier pour produire de l'énergie renouvelable à partir de la bagasse, résidu fibreux de la canne à sucre.
-
-Albioma est aussi le premier producteur d'énergie photovoltaïque en Outre-mer où il construit et exploite des projets innovants avec stockage, ainsi que dans l'Hexagone.
-
-Depuis 2021, le Groupe se développe dans la géothermie, avec l'acquisition de deux centrales en Turquie.
-
-Poste et missions :
-
-Dans un contexte de fort développement de nos activités au Brésil, vos principales missions au sein de la Direction Financière à São Paulo seront les suivantes :
-
-- Assistance sur les projets de financement (élaboration des modèles avec les équipes projets, présentations aux banques, négociation des documentations de crédit) ;
-
-- Analyse stratégique et financière des projets de M&A ;
-
-- Exercices de modélisation financière et d’évaluation ;
-
-- Elaboration des dossiers d’investissement en contrôle financier ;
-
-- Modélisation et suivi des business plans à moyen terme ;
-
-- Elaboration du reporting mensuel d’activité et analyse des résultats ;
-
-- Suivi des investissements sur ses aspects financiers ;
-
-- Suivi de trésorerie et élaboration de prévisionnels ;
-
-- Analyses financières ponctuelles.
-
-**Profil recherché**
-
-- Vous êtes diplômé.e d’une école de commerce ou d’ingénieur avec une spécialité : Finance / Comptabilité / Contrôle de gestion ;
-
-- Vous avez idéalement une première expérience au sein d'une direction financière ;
-
-- Vous maitrisez la notion de compte de résultats ;
-
-- Vous êtes familier avec la modélisation d’un Business Plan ;
-
-- Vous parlez anglais couramment (oral, écrit) ; 
-
-- Vous avez un bon relationnel et aimez travailler en équipe ; 
-
-- Vous être rigoureux.se et très organisé.e.
 
 </details>
 
