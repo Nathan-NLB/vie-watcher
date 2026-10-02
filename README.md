@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **03/10/2026 00:04:48**, 97 offre(s) actuellement en ligne.
+Dernière vérification : **03/10/2026 00:30:06**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -642,11 +642,11 @@ chain management is a plus
 </details>
 
 <details>
-<summary><strong>INVESTMENT ANALYST / ANALYSTE EN INVESTISSEMENT (H/F)</strong> · HELEXIA CORPORATE · MADRID, ESPAGNE · 2 692,70 €/mois</summary>
+<summary><strong>INVESTMENT ANALYST / ANALYSTE EN INVESTISSEMENT (H/F)</strong> · HELEXIA CORPORATE · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** HELEXIA CORPORATE
 - **Lieu :** MADRID, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
+- **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
 - **Publiée le :** 01/10/2026
 - **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond très bien aux missions de pilotage financier, de modélisation et de reporting, renforcé par son attrait pour l'Espagne et son solide bagage en contrôle de gestion. Toutefois, l'offre demande un niveau d'espagnol supérieur (B2/C1 contre B1 pour le candidat) et une orientation plus marquée vers le M&A et la finance d'investissement.
@@ -1070,11 +1070,11 @@ Required skills: scientific and clinical literature review; critical appraisal a
 </details>
 
 <details>
-<summary><strong>Junior FP&A Analyst (H/F)</strong> · BULGARI FRANCE SAS · NEW YORK  -NY-, ETATS-UNIS · 5 025,51 €/mois</summary>
+<summary><strong>Junior FP&A Analyst (H/F)</strong> · BULGARI FRANCE SAS · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
 
 - **Entreprise :** BULGARI FRANCE SAS
 - **Lieu :** NEW YORK  -NY-, ETATS-UNIS
-- **Indemnité :** 5 025,51 €/mois
+- **Indemnité :** 5 088,87 €/mois
 - **Durée de la mission :** 18 mois (Du 1 mars 2027 au 1 sept. 2028)
 - **Publiée le :** 30/09/2026
 - **Compatibilité avec ton profil :** 90 % — Le profil correspond parfaitement aux attentes avec un Master en finance, un niveau d'anglais excellent (TOEIC 925) et une solide expérience de 2 ans en contrôle de gestion et FP&A. Le seul léger écart réside dans le secteur d'activité, le candidat venant de l'industrie tandis que l'offre concerne le secteur du luxe.
@@ -1318,11 +1318,11 @@ Soft skills:
 </details>
 
 <details>
-<summary><strong>Consultant Financement de Projet (H/F)</strong> · INFRA STRUCTURATION · MADRID, ESPAGNE · 2 692,70 €/mois</summary>
+<summary><strong>Consultant Financement de Projet (H/F)</strong> · INFRA STRUCTURATION · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** INFRA STRUCTURATION
 - **Lieu :** MADRID, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
+- **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 30/09/2026
 - **Compatibilité avec ton profil :** 65 % — Le profil correspond pour le niveau d'études, la maîtrise de l'espagnol et l'attrait pour l'international. Cependant, l'offre requiert une expertise spécifique en financement de projet et modélisation financière, ainsi qu'un niveau d'espagnol C1, alors que le candidat a un profil orienté contrôle de gestion plus classique avec un niveau d'espagnol B1.
@@ -5346,47 +5346,6 @@ Autonomie et proactivité
 Capacité d’analyse
 Bon relationnel et esprit d’équipe
 Adaptabilité interculturelle
-
-</details>
-
-<details>
-<summary><strong>Comptable - Marché belge (H/F)</strong> · ISALYS CONSULTING FRANCE · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
-
-- **Entreprise :** ISALYS CONSULTING FRANCE
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
-- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
-- **Publiée le :** 02/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245568](https://mon-vie-via.businessfrance.fr/offres/245568)
-
-**Description du poste**
-
-Dans le cadre de la croissance de notre Plateforme Administrative et Financière basée à Barcelone, Isalys España recherche un(e) Comptable expérimenté.e pour prendre en charge la comptabilité de notre entité belge. 
-
-Rattaché(e) au DAF Groupe, basé à Barcelone, vous travaillerez en lien étroit avec les dirigeants du groupe basés à Bruxelles. 
-
-Comptabilité :
-- Saisie des factures d'achat et gestion des provisions pour la comptabilité belge 
-- Saisie des écritures de paie 
-- Suivi et mise à jour de la comptabilité courante, réalisation des clôtures mensuelles 
-- Coordination avec les comptables externes pour les déclarations fiscales et questions comptables 
-
-Administration & gestion :
-- Suivi de la facturation clients, incluant les FAE (factures à émettre) 
-- Validation des factures fournisseurs et gestion des FNP (factures non parvenues) 
-- Mise à jour de l'outil de gestion de projets BOOND 
-- Suivi des notes de frais mensuelles des employés 
-- Suivi de la refacturation entre les entités du groupe 
-- Gestion des boîtes mail des différentes sociétés du groupe
-
-**Profil recherché**
-
-- Master en comptabilité ou gestion 
-- 3 ans d'expérience minimum en comptabilité belge obligatoire 
-- Français courant impératif (oral et écrit) ; l'espagnol et/ou l'anglais sont un vrai plus 
-- A l'aise avec les outils informatiques (Excel indispensable ; la connaissance d’un ERP/CRM est un atout 
-- Rigueur, autonomie et sens de l'organisation 
-- Bon relationnel, esprit d'équipe et capacité à travailler dans un contexte multi-entités et multiculturel
 
 </details>
 
