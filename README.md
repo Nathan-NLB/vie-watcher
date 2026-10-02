@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **03/10/2026 01:04:18**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **03/10/2026 01:27:21**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -197,11 +197,11 @@ Vous aimez les environnements où la précision est essentielle et où vous pouv
 </details>
 
 <details>
-<summary><strong>Junior Outsourcing Manager (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 030,57 €/mois</summary>
+<summary><strong>Junior Outsourcing Manager (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** CA CONSUMER FINANCE
 - **Lieu :** STUTTGART, ALLEMAGNE
-- **Indemnité :** 3 030,57 €/mois
+- **Indemnité :** 3 027,63 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 02/10/2026
 - **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier (budgets, reporting, rentabilité), alors que l'offre est spécialisée dans la gestion des activités d'externalisation, des risques réglementaires et de la gouvernance. Néanmoins, sa formation en finance et son niveau d'anglais constituent des points de correspondance avec les prérequis de l'offre.
@@ -245,11 +245,11 @@ SOFT SKILLS	•	Strong analytical and structured thinking
 </details>
 
 <details>
-<summary><strong>Junior IT-Risk/IAM-Manager (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 030,57 €/mois</summary>
+<summary><strong>Junior IT-Risk/IAM-Manager (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** CA CONSUMER FINANCE
 - **Lieu :** STUTTGART, ALLEMAGNE
-- **Indemnité :** 3 030,57 €/mois
+- **Indemnité :** 3 027,63 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 02/10/2026
 - **Compatibilité avec ton profil :** 15 % — Le profil de Nathan est spécialisé en contrôle de gestion financier (FP&A) avec une expérience en PME, alors que l'offre concerne la gestion des risques IT et des accès (IAM) dans une banque en Allemagne. Il y a un décalage total entre les compétences financières du candidat et les exigences techniques et réglementaires en IT-Risk de ce poste.
@@ -543,11 +543,11 @@ Qualités Personnelles
 </details>
 
 <details>
-<summary><strong>VIE GERMANY - PRIVATE DEBT DACH (H/F)</strong> · ATALANTE · MUNICH, ALLEMAGNE · 3 384,97 €/mois</summary>
+<summary><strong>VIE GERMANY - PRIVATE DEBT DACH (H/F)</strong> · ATALANTE · MUNICH, ALLEMAGNE · 3 381,57 €/mois</summary>
 
 - **Entreprise :** ATALANTE
 - **Lieu :** MUNICH, ALLEMAGNE
-- **Indemnité :** 3 384,97 €/mois
+- **Indemnité :** 3 381,57 €/mois
 - **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
 - **Publiée le :** 01/10/2026
 - **Compatibilité avec ton profil :** 65 % — Le profil de Nathan présente d'excellentes compétences en analyse financière et modélisation, qui correspondent aux besoins de reporting et d'analyse. Cependant, l'offre cible plutôt des profils issus de la dette privée ou du leveraged finance, et exige une maîtrise de l'allemand qui n'est pas mentionnée dans son profil.
@@ -2836,11 +2836,11 @@ The ideal candidate has a master’s degree in Finance.
 </details>
 
 <details>
-<summary><strong>FINANCIAL PERFORMANCE ANALYST (H/F)</strong> · LEGRAND FRANCE · AUCKLAND, NOUVELLE-ZELANDE · 2 633,50 €/mois</summary>
+<summary><strong>FINANCIAL PERFORMANCE ANALYST (H/F)</strong> · LEGRAND FRANCE · AUCKLAND, NOUVELLE-ZELANDE · 2 614,52 €/mois</summary>
 
 - **Entreprise :** LEGRAND FRANCE
 - **Lieu :** AUCKLAND, NOUVELLE-ZELANDE
-- **Indemnité :** 2 633,50 €/mois
+- **Indemnité :** 2 614,52 €/mois
 - **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
 - **Publiée le :** 22/09/2026
 - **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux missions de Financial Performance Analyst grâce à son Master en contrôle de gestion, son expérience en analyse financière et sa maîtrise de Power BI et de l'anglais (TOEIC 925). Le principal point de vigilance réside dans le besoin de maîtriser un ERP et l'outil BPC, non mentionnés dans son CV.
