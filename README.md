@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 23:05:44**, 97 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 23:30:42**, 97 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -63,11 +63,11 @@ VOTRE PROFIL
 </details>
 
 <details>
-<summary><strong>VIE CONTRÔLEUR DE GESTION TOGO F/H (H/F)</strong> · BESSAC · LOME, TOGO · 2 360,64 €/mois</summary>
+<summary><strong>VIE CONTRÔLEUR DE GESTION TOGO F/H (H/F)</strong> · BESSAC · LOME, TOGO · 2 349,20 €/mois</summary>
 
 - **Entreprise :** BESSAC
 - **Lieu :** LOME, TOGO
-- **Indemnité :** 2 360,64 €/mois
+- **Indemnité :** 2 349,20 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 02/10/2026
 - **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes techniques grâce à ses 2 ans d'expérience en contrôle budgétaire et sa maîtrise d'Excel, ce qui lui permettra de gérer efficacement le suivi des coûts du projet au Togo. Ses compétences en anglais et son ouverture à l'international sont de réels atouts, bien que le secteur du BTP et l'expérience sur ERP constituent de légers écarts par rapport aux préférences de l'offre.
@@ -291,11 +291,11 @@ SOFT SKILLS :
 </details>
 
 <details>
-<summary><strong>CORPORATE FINANCE HF (H/F)</strong> · ALBIOMA · SAO PAULO, BRESIL · 2 689,62 €/mois</summary>
+<summary><strong>CORPORATE FINANCE HF (H/F)</strong> · ALBIOMA · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
 
 - **Entreprise :** ALBIOMA
 - **Lieu :** SAO PAULO, BRESIL
-- **Indemnité :** 2 689,62 €/mois
+- **Indemnité :** 2 743,28 €/mois
 - **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 02/10/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245612](https://mon-vie-via.businessfrance.fr/offres/245612)
@@ -353,11 +353,11 @@ Dans un contexte de fort développement de nos activités au Brésil, vos princi
 </details>
 
 <details>
-<summary><strong>Chargé(e) d'études économiques et sectorielles à Mascate (H/F)</strong> · DIRECTION GENERALE DU TRESOR · MASCATE, OMAN · 2 356,49 €/mois</summary>
+<summary><strong>Chargé(e) d'études économiques et sectorielles à Mascate (H/F)</strong> · DIRECTION GENERALE DU TRESOR · MASCATE, OMAN · 2 365,19 €/mois</summary>
 
 - **Entreprise :** DIRECTION GENERALE DU TRESOR
 - **Lieu :** MASCATE, OMAN
-- **Indemnité :** 2 356,49 €/mois
+- **Indemnité :** 2 365,19 €/mois
 - **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 02/10/2026
 - **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement axé sur le contrôle de gestion et la finance d'entreprise, ce qui correspond peu à cette offre de chargé d'études économiques et sectorielles à orientation macroéconomique et institutionnelle. S'il possède de bonnes compétences analytiques et un bon niveau d'anglais, son profil manque de la formation en économie appliquée ou sciences politiques requise pour ce poste au sein du Trésor.
@@ -419,11 +419,11 @@ Merci d'envoyer vos CV UNIQUEMENT EN FRANCAIS
 </details>
 
 <details>
-<summary><strong>Chargé(e) d'études économiques au SER de Madrid (H/F)</strong> · DIRECTION GENERALE DU TRESOR · MADRID, ESPAGNE · 3 004,66 €/mois</summary>
+<summary><strong>Chargé(e) d'études économiques au SER de Madrid (H/F)</strong> · DIRECTION GENERALE DU TRESOR · MADRID, ESPAGNE · 3 000,19 €/mois</summary>
 
 - **Entreprise :** DIRECTION GENERALE DU TRESOR
 - **Lieu :** MADRID, ESPAGNE
-- **Indemnité :** 3 004,66 €/mois
+- **Indemnité :** 3 000,19 €/mois
 - **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 02/10/2026
 - **Compatibilité avec ton profil :** 60 % — Le candidat dispose du niveau d'études requis, d'une appétence pour l'Espagne et de solides compétences analytiques, mais son profil est orienté vers le contrôle de gestion en entreprise (FP&A) plutôt que vers les études macroéconomiques et les politiques publiques attendues par la Direction Générale du Trésor.
@@ -695,11 +695,11 @@ Capacités requises : autonomie, analyse de données, appétence pour le travail
 </details>
 
 <details>
-<summary><strong>Contrôleur Financier Afrique de l’Ouest (H/F)</strong> · FORACO · ABIDJAN, COTE D'IVOIRE · 2 563,23 €/mois</summary>
+<summary><strong>Contrôleur Financier Afrique de l’Ouest (H/F)</strong> · FORACO · ABIDJAN, COTE D'IVOIRE · 2 541,92 €/mois</summary>
 
 - **Entreprise :** FORACO
 - **Lieu :** ABIDJAN, COTE D'IVOIRE
-- **Indemnité :** 2 563,23 €/mois
+- **Indemnité :** 2 541,92 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 01/10/2026
 - **Compatibilité avec ton profil :** 75 % — Nathan possède une solide expérience en contrôle de gestion, un excellent niveau d'anglais et un profil international adapté. Cependant, l'offre exige des compétences approfondies en comptabilité, normes IFRS et fiscalité ainsi qu'une maîtrise de SAP, qui constituent des écarts par rapport à son parcours principalement orienté FP&A.
@@ -1029,11 +1029,11 @@ Mais assez parlé de nous, c'est votre tour maintenant ! Nous avons hâte de fai
 </details>
 
 <details>
-<summary><strong>Analyst Medical Affairs (H/F)</strong> · BAXTER S.A.S · MARSA, MALTE · 2 232,36 €/mois</summary>
+<summary><strong>Analyst Medical Affairs (H/F)</strong> · BAXTER S.A.S · MARSA, MALTE · 2 225,20 €/mois</summary>
 
 - **Entreprise :** BAXTER S.A.S
 - **Lieu :** MARSA, MALTE
-- **Indemnité :** 2 232,36 €/mois
+- **Indemnité :** 2 225,20 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 30/09/2026
 - **Compatibilité avec ton profil :** 10 % — Le profil du candidat est purement financier (contrôleur de gestion, FP&A), tandis que l'offre recherche un profil scientifique et médical (Medical Affairs, conformité EU MDR, revue clinique). Il y a un décalage total entre les compétences du candidat et les exigences techniques du poste.
@@ -1494,11 +1494,11 @@ The Quality Engineer collaborates closely with cross-functional teams (e.g., Ope
 </details>
 
 <details>
-<summary><strong>BRAS DROIT DU CEO H/F (H/F)</strong> · DASHBOOK · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
+<summary><strong>BRAS DROIT DU CEO H/F (H/F)</strong> · DASHBOOK · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** DASHBOOK
 - **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
+- **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 28/09/2026
 - **Compatibilité avec ton profil :** 65 % — Le poste à Barcelone en Espagne correspond parfaitement aux aspirations géographiques et linguistiques de Nathan et intègre des missions d'analyse et de reporting. Toutefois, l'offre relève davantage d'un rôle généraliste de bras droit CEO / gestion de projet que d'un pur poste de contrôle de gestion ou FP&A.
@@ -3169,11 +3169,11 @@ Nous recherchons un/une candidat(e) pugnace et constant(e) dans son travail. Cet
 </details>
 
 <details>
-<summary><strong>ASSISTANT GENERALISTE DU PRESIDENT DU CONSEIL D’ADMINISTRATION (H/F)</strong> · COMPAGNIE MONDIALE DE TRANSPORT · ATHENES, GRECE · 2 276,83 €/mois</summary>
+<summary><strong>ASSISTANT GENERALISTE DU PRESIDENT DU CONSEIL D’ADMINISTRATION (H/F)</strong> · COMPAGNIE MONDIALE DE TRANSPORT · ATHENES, GRECE · 2 282,54 €/mois</summary>
 
 - **Entreprise :** COMPAGNIE MONDIALE DE TRANSPORT
 - **Lieu :** ATHENES, GRECE
-- **Indemnité :** 2 276,83 €/mois
+- **Indemnité :** 2 282,54 €/mois
 - **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 21/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246136](https://mon-vie-via.businessfrance.fr/offres/246136)
