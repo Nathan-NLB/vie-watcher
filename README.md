@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 09:32:56**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 09:50:38**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -85,6 +85,92 @@ coûts réels;
 WIP / TEC.
 
 Nous accordons une grande importance au potentiel d’apprentissage. Une personne démontrant de solides capacités d’analyse et une forte volonté d’apprendre pourra rapidement développer les connaissances sectorielles requises.
+
+</details>
+
+<details>
+<summary><strong>Comptable junior (H/F)</strong> · MEOTEC · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** MEOTEC
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 02/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245218](https://mon-vie-via.businessfrance.fr/offres/245218)
+
+**Description du poste**
+
+Comptable Junior – Comptabilité Opérationnelle
+
+📍 Localisation : Belgique
+💼 Type de contrat : VIE
+📅 Début : À définir
+
+À propos du poste
+
+Dans le cadre du renforcement de notre équipe Finance, nous recherchons un Comptable Junior pour rejoindre une équipe opérationnelle.
+
+Vous serez principalement en charge du traitement quotidien des factures et des opérations comptables, tout en assurant la qualité et la fiabilité des données financières.
+
+Nous recherchons avant tout une personne rigoureuse, organisée, structurée et opérationnelle, capable de travailler efficacement dans un environnement dynamique.
+
+Vos responsabilités
+Traiter et encoder les factures fournisseurs.
+Vérifier la conformité des factures avec les commandes et les informations disponibles.
+Assurer le suivi des factures et des éventuelles anomalies.
+Effectuer les rapprochements entre factures, commandes et réceptions.
+Participer au suivi des comptes fournisseurs.
+Effectuer les contrôles et corrections nécessaires dans le système comptable.
+Participer aux clôtures comptables mensuelles.
+Préparer et analyser différents reportings financiers.
+Utiliser Excel pour analyser et consolider les données comptables.
+Collaborer quotidiennement avec les équipes Finance, Achats et les différents interlocuteurs internes.
+Identifier les écarts ou anomalies et assurer leur résolution.
+Contribuer à l'amélioration continue des processus comptables.
+Profil recherché
+
+Nous recherchons une personne :
+
+Très rigoureuse et attentive aux détails.
+Organisée et structurée dans son travail.
+À l'aise avec les tâches opérationnelles et répétitives nécessitant de la précision.
+Capable de respecter des délais et des procédures.
+Proactive et capable d'identifier rapidement les anomalies.
+À l'aise dans la communication avec différents interlocuteurs.
+Dotée d'un bon esprit analytique.
+Capable de travailler de manière autonome tout en appréciant le travail en équipe.
+Compétences techniques
+SAP
+
+Une bonne maîtrise de SAP est indispensable, notamment pour les activités liées au traitement des factures et aux opérations comptables.
+
+Excel
+
+Vous maîtrisez Excel et êtes capable de travailler avec des volumes importants de données.
+
+La maîtrise des fonctionnalités suivantes est attendue :
+
+Tableaux croisés dynamiques (TCD).
+Recherche et extraction de données.
+Filtres et tris avancés.
+Formules Excel courantes.
+Analyse et consolidation de données.
+
+La connaissance d'autres outils de reporting ou ERP constitue un plus.
+
+**Profil recherché**
+
+Formation & expérience
+Diplôme en comptabilité, finance, gestion ou domaine similaire.
+Première expérience en comptabilité opérationnelle appréciée.
+Une expérience en Accounts Payable / Accounts Receivable ou dans le traitement de factures constitue un réel avantage.
+Une première expérience avec SAP est indispensable.
+Une bonne maîtrise d'Excel est attendue.
+Les qualités indispensables
+
+Rigueur – Organisation – Esprit analytique – Réactivité – Autonomie – Esprit d'équipe
+
+Vous aimez les environnements où la précision est essentielle et où vous pouvez rapidement prendre en charge un périmètre opérationnel ? Ce poste est fait pour vous.
 
 </details>
 
@@ -4554,92 +4640,6 @@ Pour ce poste, qui exige une grande autonomie, le(la) candidat(e) disposera :
 Outre rigueur et curiosité, le(la) candidat(e) fera preuve de qualités relationnelles et rédactionnelles ainsi que d’esprit de synthèse. 
 
 Le(la) candidat(e) devra être motivé(e) par la perspective de rejoindre une société dynamique dotée d’un fort esprit entrepreneurial.
-
-</details>
-
-<details>
-<summary><strong>Comptable junior (H/F)</strong> · MEOTEC · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** MEOTEC
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 07/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245218](https://mon-vie-via.businessfrance.fr/offres/245218)
-
-**Description du poste**
-
-Comptable Junior – Comptabilité Opérationnelle
-
-📍 Localisation : Belgique
-💼 Type de contrat : VIE
-📅 Début : À définir
-
-À propos du poste
-
-Dans le cadre du renforcement de notre équipe Finance, nous recherchons un Comptable Junior pour rejoindre une équipe opérationnelle.
-
-Vous serez principalement en charge du traitement quotidien des factures et des opérations comptables, tout en assurant la qualité et la fiabilité des données financières.
-
-Nous recherchons avant tout une personne rigoureuse, organisée, structurée et opérationnelle, capable de travailler efficacement dans un environnement dynamique.
-
-Vos responsabilités
-Traiter et encoder les factures fournisseurs.
-Vérifier la conformité des factures avec les commandes et les informations disponibles.
-Assurer le suivi des factures et des éventuelles anomalies.
-Effectuer les rapprochements entre factures, commandes et réceptions.
-Participer au suivi des comptes fournisseurs.
-Effectuer les contrôles et corrections nécessaires dans le système comptable.
-Participer aux clôtures comptables mensuelles.
-Préparer et analyser différents reportings financiers.
-Utiliser Excel pour analyser et consolider les données comptables.
-Collaborer quotidiennement avec les équipes Finance, Achats et les différents interlocuteurs internes.
-Identifier les écarts ou anomalies et assurer leur résolution.
-Contribuer à l'amélioration continue des processus comptables.
-Profil recherché
-
-Nous recherchons une personne :
-
-Très rigoureuse et attentive aux détails.
-Organisée et structurée dans son travail.
-À l'aise avec les tâches opérationnelles et répétitives nécessitant de la précision.
-Capable de respecter des délais et des procédures.
-Proactive et capable d'identifier rapidement les anomalies.
-À l'aise dans la communication avec différents interlocuteurs.
-Dotée d'un bon esprit analytique.
-Capable de travailler de manière autonome tout en appréciant le travail en équipe.
-Compétences techniques
-SAP
-
-Une bonne maîtrise de SAP est indispensable, notamment pour les activités liées au traitement des factures et aux opérations comptables.
-
-Excel
-
-Vous maîtrisez Excel et êtes capable de travailler avec des volumes importants de données.
-
-La maîtrise des fonctionnalités suivantes est attendue :
-
-Tableaux croisés dynamiques (TCD).
-Recherche et extraction de données.
-Filtres et tris avancés.
-Formules Excel courantes.
-Analyse et consolidation de données.
-
-La connaissance d'autres outils de reporting ou ERP constitue un plus.
-
-**Profil recherché**
-
-Formation & expérience
-Diplôme en comptabilité, finance, gestion ou domaine similaire.
-Première expérience en comptabilité opérationnelle appréciée.
-Une expérience en Accounts Payable / Accounts Receivable ou dans le traitement de factures constitue un réel avantage.
-Une première expérience avec SAP est indispensable.
-Une bonne maîtrise d'Excel est attendue.
-Les qualités indispensables
-
-Rigueur – Organisation – Esprit analytique – Réactivité – Autonomie – Esprit d'équipe
-
-Vous aimez les environnements où la précision est essentielle et où vous pouvez rapidement prendre en charge un périmètre opérationnel ? Ce poste est fait pour vous.
 
 </details>
 
