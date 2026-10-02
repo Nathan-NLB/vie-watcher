@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 10:07:01**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 10:33:38**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -620,30 +620,6 @@ De formation Bac +4/5, type Ecole de Commerce, de Gestion ou équivalent univers
 -	D’une maîtrise rédactionnelle en anglais et en français 
 -	D’une appétence pour les marchés financiers  
 Votre rigueur, votre réactivité, votre capacité d’analyse, votre autonomie ainsi que votre sens relationnel vous permettront d’évoluer dans un environnement réactif et exigeant.
-
-</details>
-
-<details>
-<summary><strong>EMEA Treasury (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · GENEVE, SUISSE · 4 172,27 €/mois</summary>
-
-- **Entreprise :** LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS
-- **Lieu :** GENEVE, SUISSE
-- **Indemnité :** 4 172,27 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 30/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246562](https://mon-vie-via.businessfrance.fr/offres/246562)
-
-**Description du poste**
-
-Au sein de l’équipe Trésorerie EMEA basée à Genève, le/la VIE accompagnera le Responsable Trésorerie dans la gestion des activités de financement et des relations bancaires pour la région EMEA. Il/elle participera à l’analyse des besoins de financement des différentes entités, au suivi des lignes de crédit, à la préparation des dossiers destinés aux banques ainsi qu’au suivi des covenants financiers et des indicateurs de performance.
-Le/la VIE contribuera également à la production d’analyses financières et de reportings destinés à la direction et aux partenaires bancaires. Dans ce cadre, il/elle préparera des présentations financières, participera aux exercices de reporting mensuels et trimestriels et répondra aux demandes d’informations émanant des parties prenantes internes et externes.
-Enfin, le/la VIE sera impliqué(e) dans des projets stratégiques visant à améliorer les processus de trésorerie au niveau régional et mondial. Il/elle participera notamment à des initiatives d’automatisation et d’optimisation des activités grâce à l’intelligence artificielle, ainsi qu’à des projets d’intégration liés aux acquisitions et à la standardisation des pratiques de trésorerie au sein du groupe.
-
-**Profil recherché**
-
-Titulaire d’un Master en Finance, Trésorerie, Banque, Audit ou domaine équivalent, le/la candidat(e) dispose idéalement d’une première expérience acquise lors d’un stage ou d’une alternance en finance d’entreprise, banque, audit ou analyse financière. Il/elle possède de solides bases en finance et est capable d’analyser des données financières, de comprendre les états financiers et de contribuer à des sujets de financement et de gestion de trésorerie.
-Curieux(se), proactif(ve) et motivé(e) par l’apprentissage, il/elle apprécie travailler dans un environnement international et multiculturel. Doté(e) d’un bon relationnel et de solides compétences en communication, il/elle est capable d’interagir avec des interlocuteurs variés, aussi bien en interne qu’avec des partenaires bancaires externes. Une excellente maîtrise de l’anglais est indispensable, tandis que le français constitue un atout supplémentaire.
-Rigoureux(se), fiable et doté(e) d’un fort sens de la confidentialité, le/la candidat(e) sait gérer plusieurs priorités simultanément et faire preuve d’autonomie tout en conservant un véritable esprit d’équipe. Cette opportunité conviendra particulièrement à une personne souhaitant développer une carrière en trésorerie, finance d’entreprise ou banque au sein d’un groupe international de premier plan.
 
 </details>
 
