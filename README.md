@@ -8,11 +8,85 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 09:08:14**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 09:32:56**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Analyste financier (H/F)</strong> · SOGECLAIR AEROSPACE SAS · BOUCHERVILLE -QC, CANADA · 2 632,92 €/mois</summary>
+
+- **Entreprise :** SOGECLAIR AEROSPACE SAS
+- **Lieu :** BOUCHERVILLE -QC, CANADA
+- **Indemnité :** 2 632,92 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 02/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à ses compétences avancées en Excel, son expérience solide en contrôle de gestion, analyse de rentabilité et élaboration budgétaire. Ses acquis en gestion des stocks et de la production (WIP/TEC) chez KOAD Industries complètent très bien les exigences du poste d'analyste financier au Canada.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246622](https://mon-vie-via.businessfrance.fr/offres/246622)
+
+**Description du poste**
+
+L’analyste financier sera responsable d’effectuer l’évaluation financière pour l’ensemble des divisions de Sogeclair au Canada et USA. Vous serez amené à préparer des rapports et apporter des recommandations quant aux analyses effectuées.
+
+Principales responsabilités :
+ 
+•	Analyser et fiabiliser la valorisation de l’inventaire et des WIP (work in progress) ; 
+•	Gérer et analyser la rentabilité des projets et familles de produits ;
+•	Construire les budgets en collaboration avec les responsables de chaque département ;
+•	Développer des analyses et rapports mensuels ;
+•	Créer et maintenir des indicateurs de performance financière ;
+•	Calcul des TEC (travaux en cours) pour les clôtures mensuelles ;
+•	Calcul du stock et de l’obsolescence pour les clôtures mensuelles ;
+•	Émettre des recommandations à la direction ; 
+•	Établir des fichiers de facturation impartition ; 
+•	Évaluer les risques financiers et des scénarios de financement ;
+•	Analyser les projets d'investissement et appels d’offres ;
+•	Évaluer le rendement de la trésorerie ;
+•	Aider au contrôle des clôtures comptables ; 
+•	Mettre en place ou optimiser le système d'information et fiabiliser les donner ;
+•	Élaborer des procédures et outils de gestion ;
+•	Participer à l’amélioration des performances de l'entreprise ; 
+•	Analyser et réaliser un suivi de la trésorerie ; 
+•	Effectuer des analyses ad hoc et diriger des projets spéciaux ; 
+•	Comprendre les exigences des normes AS 9100 relatives aux responsabilités prévues à ce poste ;
+•	Respecter les procédures du SMQ de l’entreprise et y  appliquer les outils lors de la réalisation des tâches ;
+
+**Profil recherché**
+
+	Excel Compétences techniques essentielles
+Excellente maîtrise d’Excel.
+Expérience significative dans :
+le traitement et l’analyse de grandes bases de données;
+les tableaux croisés dynamiques;
+les fonctions de recherche avancées (RECHERCHEV, INDEX/EQUIV, XLOOKUP, etc.);
+l’analyse et l’interprétation de données.
+Solides capacités analytiques et aisance avec les chiffres.
+Un test Excel sera administré dans le cadre du processus de sélection.
+
+La connaissance du développement de macros n’est pas requise.
+
+Communication et collaboration
+Excellente maîtrise du français, tant à l’écrit qu’à l’oral.
+Capacité à communiquer efficacement avec l’ensemble des fonctions de l’entreprise.
+Fort esprit de collaboration et orientation client interne.
+Approche proactive dans la recherche de solutions.
+Souci constant de la qualité et de la fiabilisation des données.
+Atouts
+
+Les éléments suivants constituent un avantage, sans être indispensables :
+
+Connaissance de Sage X3.
+Compréhension des processus de gestion des stocks.
+Expérience en analyse et fiabilisation des stocks.
+Connaissance des notions de :
+coûts standards;
+coûts réels;
+WIP / TEC.
+
+Nous accordons une grande importance au potentiel d’apprentissage. Une personne démontrant de solides capacités d’analyse et une forte volonté d’apprendre pourra rapidement développer les connaissances sectorielles requises.
+
+</details>
 
 <details>
 <summary><strong>Contrôleur de gestion junior (H/F)</strong> · FLEXITECH EUROPE · SAN LUIS POTOSI, MEXIQUE · 3 200,91 €/mois</summary>

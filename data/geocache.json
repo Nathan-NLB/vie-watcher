@@ -385,5 +385,10 @@
   "ville|auburn hills -mi-|etats-unis": {
     "lat": 42.6875323,
     "lon": -83.2341028
+  },
+  "entreprise|sogeclair aerospace sas|boucherville -qc|canada": null,
+  "ville|boucherville -qc|canada": {
+    "lat": 45.5749886,
+    "lon": -73.4522117
   }
 }

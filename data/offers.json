@@ -434,6 +434,69 @@
     "dateCandidature": null
   },
   {
+    "id": 246622,
+    "organizationName": "SOGECLAIR AEROSPACE SAS",
+    "missionTitle": "Analyste financier (H/F)",
+    "missionDuration": 24,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "Nous sommes un leader international en intégration de solutions à haute valeur ajoutée. Nous offrons une expertise reconnue dans la conception et le développement de produits industriels ainsi que dans les solutions de simulation et de training.  Nous exerçons notre expertise dans les domaines de l'aéronautique, de l'espace, des transports civils et militaires.  Notre présence mondiale offre à nos clients la proximité qu'ils méritent.",
+    "organizationUrlImage": "https://image-uviadeo.journaldunet.com/image/140/2116898352/1660138.jpg",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "0",
+    "effectifInd": "250",
+    "effectifConso": "250",
+    "organizationCountryCounter": "10",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "BOUCHERVILLE -QC",
+    "cityNameEn": "BOUCHERVILLE -QC",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"259\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "L’analyste financier sera responsable d’effectuer l’évaluation financière pour l’ensemble des divisions de Sogeclair au Canada et USA. Vous serez amené à préparer des rapports et apporter des recommandations quant aux analyses effectuées.\n\nPrincipales responsabilités :\n \n•\tAnalyser et fiabiliser la valorisation de l’inventaire et des WIP (work in progress) ; \n•\tGérer et analyser la rentabilité des projets et familles de produits ;\n•\tConstruire les budgets en collaboration avec les responsables de chaque département ;\n•\tDévelopper des analyses et rapports mensuels ;\n•\tCréer et maintenir des indicateurs de performance financière ;\n•\tCalcul des TEC (travaux en cours) pour les clôtures mensuelles ;\n•\tCalcul du stock et de l’obsolescence pour les clôtures mensuelles ;\n•\tÉmettre des recommandations à la direction ; \n•\tÉtablir des fichiers de facturation impartition ; \n•\tÉvaluer les risques financiers et des scénarios de financement ;\n•\tAnalyser les projets d'investissement et appels d’offres ;\n•\tÉvaluer le rendement de la trésorerie ;\n•\tAider au contrôle des clôtures comptables ; \n•\tMettre en place ou optimiser le système d'information et fiabiliser les donner ;\n•\tÉlaborer des procédures et outils de gestion ;\n•\tParticiper à l’amélioration des performances de l'entreprise ; \n•\tAnalyser et réaliser un suivi de la trésorerie ; \n•\tEffectuer des analyses ad hoc et diriger des projets spéciaux ; \n•\tComprendre les exigences des normes AS 9100 relatives aux responsabilités prévues à ce poste ;\n•\tRespecter les procédures du SMQ de l’entreprise et y  appliquer les outils lors de la réalisation des tâches ;",
+    "creationDate": "2026-10-02T07:13:03Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-02T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-11-01T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "\tExcel Compétences techniques essentielles\nExcellente maîtrise d’Excel.\nExpérience significative dans :\nle traitement et l’analyse de grandes bases de données;\nles tableaux croisés dynamiques;\nles fonctions de recherche avancées (RECHERCHEV, INDEX/EQUIV, XLOOKUP, etc.);\nl’analyse et l’interprétation de données.\nSolides capacités analytiques et aisance avec les chiffres.\nUn test Excel sera administré dans le cadre du processus de sélection.\n\nLa connaissance du développement de macros n’est pas requise.\n\nCommunication et collaboration\nExcellente maîtrise du français, tant à l’écrit qu’à l’oral.\nCapacité à communiquer efficacement avec l’ensemble des fonctions de l’entreprise.\nFort esprit de collaboration et orientation client interne.\nApproche proactive dans la recherche de solutions.\nSouci constant de la qualité et de la fiabilisation des données.\nAtouts\n\nLes éléments suivants constituent un avantage, sans être indispensables :\n\nConnaissance de Sage X3.\nCompréhension des processus de gestion des stocks.\nExpérience en analyse et fiabilisation des stocks.\nConnaissance des notions de :\ncoûts standards;\ncoûts réels;\nWIP / TEC.\n\nNous accordons une grande importance au potentiel d’apprentissage. Une personne démontrant de solides capacités d’analyse et une forte volonté d’apprendre pourra rapidement développer les connaissances sectorielles requises.",
+    "countryId": "CA",
+    "countryName": "CANADA",
+    "countryNameEn": "CANADA",
+    "reference": "VIE246622",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Madame Stéphanie MARTEL",
+    "indemnite": 2632.92,
+    "teleworkingAvailable": true,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "stephanie.martel@sogeclair.com",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "www.sogeclair.com",
+    "dateCandidature": null
+  },
+  {
     "id": 246473,
     "organizationName": "ATALANTE",
     "missionTitle": "VIE GERMANY - PRIVATE DEBT DACH (H/F)",
@@ -598,16 +661,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Fondé en 2010 avec la volonté d’allier économies & écologie, Helexia est un acteur indépendant majeur du marché de la transition énergétique.\nL’entreprise, qui compte aujourd’hui plus de 350 collaborateurs présents dans 7 pays, offre à ses clients la possibilité de décarboner leur activité à travers la production d’énergie renouvelable sur site ainsi que des projets d’efficacité énergétique.\nS’inscrivant dans la stratégie d’expansion géographique du groupe, Helexia España a été créée en 2019 avec pour objectif de devenir un acteur incontournable du marché de la transition énergétique en Espagne. La filiale de 16 personnes compte déjà sur plus de 75 projets photovoltaïques en opération pour un total de 40 MW.\n\nPoste et missions :\n\n1/ Analyse de l’ensemble des éléments financiers et stratégiques des opportunités d’investissement sur des centrales solaires en toitures, ombrières ou au sol et sur des projets d’efficacité énergétique:\no Réalisation du Business Plan en collaboration avec les équipes de la BU Espagne\no Analyse du risque de contrepartie\no Réalisation de sensibilités financières et extra-financières sur le Business Plan en fonction de l’opportunité et des risques identifiés\no Préparation de la présentation interne pour le Comité d’investissement\n\n2/ Participation au pilotage financier de la filiale :\no Reporting financier et commercial mensuel/trimestriel et analyse des écarts par rapport au budget ou aux prévisions\no Implication dans le processus budgétaire et la planification financière\no Analyse de la performance financière et suivi des opportunités post-investissement (Asset Management financier)\n\n3/ Réalisation d’études de marché\no Veille concurrentielle\no Analyse de tendances\no Suivi de l’innovation et des nouvelles solutions\n\n4/ Participation aux opérations de financement des actifs espagnols en collaboration avec l’ensemble des parties prenantes (services juridique, technique et financier).\n\n5/ Implication aux différents niveaux du cycle des transactions M&A, en collaboration avec l’équipe d’investissement Groupe :\no Screening de marché et analyse d’opportunités\no Modélisation financière\no Participation aux travaux d’audits\no Soumission du projet aux forums de décision pertinents",
     "creationDate": "2026-09-22T11:31:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -668,23 +724,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9"
+      "[\"8\",\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Nous sommes actuellement à la recherche d’un(e) candidat(e) pour le poste de Contrôleur Financier pour l’Afrique de l’Ouest (Côte d’Ivoire, Sénégal, …), basé à Abidjan, en Côte d’Ivoire, sous l’autorité VP Afrique et sous la supervision du Contrôleur Financier Groupe\r\n\r\nResponsabilités et principales missions\r\n\r\n Ce poste nécessitera des déplacements sur le territoire de la Côte d’Ivoire mais également dans les pays d’Afrique de l’Ouest dans lesquels nous sommes actuellement implantés et dans lesquels nous opérons. Le candidat retenu jouera un rôle essentiel dans la performance de l’entreprise en participant à la gestion prudente de toutes les activités financières et de contrôle pour la région. Cela comprend également la participation à la supervision et à la gestion de tous les aspects de la comptabilité d’entreprise, du contrôle interne et des rapports financiers pour la région.\r\n\r\nLes principales missions de ce poste sont les suivantes : \r\n\r\n•\tParticiper à la coordination de l’équipe financière et comptable (environ 5 personnes sur 3 pays),\r\n•\tGarantir la fiabilité de l’information financière, des processus de clôture et la qualité des comptes\r\n•\tAider au respect des obligations fiscales et réglementaires (dépôt des comptes, déclarations fiscales, TVA, gestion des contrôles fiscaux),\r\n•\tAnalyse, mesure et interprétation de toutes les données financières,\r\n•\tUtiliser l’expertise financière, budgétaire et comptable pour évaluer la rentabilité des projets et s’assurer qu’ils respectent les limites budgétisées,\r\n•\tFournir des conseils adéquats et des recommandations pour la prise de décisions (prévisions, budget, capex, etc.),\r\n•\tAssister le VP Afrique dans la préparation des reportings et analyses mensuelles,\r\n•\tParticiper à la mise en œuvre des procédures adéquates et assister le contrôleur financier Groupe pour assurer  la conformité du processus de contrôle interne conformément aux politiques de la Société. Contrôler l’application correcte de la matrice de délégation des pouvoirs,\r\n•\tParticiper à la publication trimestrielle du package de reporting IFRS à des fins de consolidation,\r\n•\tRelations régulières avec les banques, les commissaires aux comptes et tous partenaires externes,\r\n•\tAssurer un suivi dynamique et contrôle des inventaires,\r\n•\tParticiper à l'élaboration des prévisions de trésorerie de la zone et à la préparation des reportings hebdomadaires destinés au Siège.\r\n\r\nProfil recherché\r\n\r\nLe/La candidat(e) idéal(e) est titulaire d’un diplôme en comptabilité ou en école de commerce, avec une expérience significative en Audit ou une expérience similaire dans une entreprise orientée projet. Le poste exige une solide connaissance des normes et principe comptables (IFRS), des processus de clôture et justification des comptes et des règles et règlements fiscaux. Le/La candidat(e) doit être capable de communiquer et de gérer efficacement à plusieurs niveaux d’une organisation, la capacité d’analyser et de hiérarchiser efficacement son travail.",
     "creationDate": "2026-09-11T08:02:08Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -745,16 +787,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "ALTEN group’s mission is to create customer satisfaction by developing tailor-made and innovative solutions for IT and Technology.\nPresent in 30 countries, we propose IT Solutions and Engineering Consulting to the world’s largest companies. For more than 30 years, a passion for engineering has driven us: ALTEN today is a European leader in engineering consulting and advanced technologies.\nTo follow our growth and development on the International perimeter (30 000 employees, turnover superior to 2 billion €), the ALTEN Group is looking for a:\n\nBusiness Controller & Analyst \nBased in ALTEN BELGIUM, Brussels \n\nYou will report directly to the Head of the International Development Department.  Your assignment consists in consolidating and analysing the operational data from ALTEN in Benelux. \nYour main tasks will be the following ones: \n•\tProducing weekly, monthly & quarterly operational reports for the Group as well as ad hoc analysis upon request\n•\tAnalysing with a critical eye the weekly operational indicators (KPIs)\n•\tProviding the best quality reports and analysis for key deadlines such as:\n•\tthe monthly business review (MBR) with the Top Management & the COO \n•\tthe Committee Career (CC) (biannual assessment of the commercial/management team based on operational data)\n•\tImplementation of the Bonus System for the management team \n•\tMaintaining & creating various dashboards for the COO to drive the activity\n•\tImproving the information flow from subsidiaries to headquarter\n•\tHelping in the deployment of the ALTEN tools in the new subsidiaries",
     "creationDate": "2026-09-01T10:21:54Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -892,16 +927,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "202"
+      "[\"202\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers. Dans le cadre de son développement, ProCapital recherche : \n\nUn(e) Gestionnaire Back Office « Réconciliation »\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Le contrôle des opérations titres et cash dans leur ensemble (corporate actions, trades sur actions, trades sur options, dépôt cash etc.)\n- Le contrôle des positions titres (détenues chez différents dépositaires)\n- La production de plusieurs rapports à destination des équipes du Back-office et du Management\n- La détection et le suivi des opérations à risque\n- La rédaction et mise à jour de procédures opérationnelles et processus internes\n- L’identification des incidents et éventuels dysfonctionnements, ainsi que la remontée des alertes\n- Le traitement des demandes d’information des clients et du service interne relation clientèle\n- L’évolution des processus et l’amélioration des systèmes;",
     "creationDate": "2026-09-30T13:58:43Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3048,317 +3076,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "2",
-      "29",
-      "60",
-      "62",
-      "63",
-      "64",
-      "65",
-      "66",
-      "68",
-      "69",
-      "70",
-      "71",
-      "72",
-      "73",
-      "76",
-      "109",
-      "114",
-      "134",
-      "138",
-      "149",
-      "150",
-      "155",
-      "158",
-      "159",
-      "160",
-      "168",
-      "169",
-      "197",
-      "205",
-      "206",
-      "207",
-      "208",
-      "209",
-      "224",
-      "225",
-      "244",
-      "248",
-      "251",
-      "262",
-      "264",
-      "330",
-      "331",
-      "358",
-      "361"
+      "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "29",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique industrielle",
-        "specializationLabelEn": "Industrial Computing"
-      },
-      {
-        "specializationId": "60",
-        "specializationParentId": "59",
-        "specializationLabel": "Aéronautique",
-        "specializationLabelEn": "Aeronautics"
-      },
-      {
-        "specializationId": "62",
-        "specializationParentId": "196",
-        "specializationLabel": "Bâtiment – Construction – Second Oeuvre",
-        "specializationLabelEn": "Building - Construction - Finishings"
-      },
-      {
-        "specializationId": "63",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie - Génie Chimique",
-        "specializationLabelEn": "Chemicals - Chemical Engineering"
-      },
-      {
-        "specializationId": "64",
-        "specializationParentId": "59",
-        "specializationLabel": "Dessin industriel",
-        "specializationLabelEn": "Industrial Design"
-      },
-      {
-        "specializationId": "65",
-        "specializationParentId": "59",
-        "specializationLabel": "Electromécanique",
-        "specializationLabelEn": "Electro-mechanics"
-      },
-      {
-        "specializationId": "66",
-        "specializationParentId": "59",
-        "specializationLabel": "Electronique",
-        "specializationLabelEn": "Electronics"
-      },
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "69",
-        "specializationParentId": "255",
-        "specializationLabel": "Environnement - Ecologie",
-        "specializationLabelEn": "Environment - Ecology"
-      },
-      {
-        "specializationId": "70",
-        "specializationParentId": "196",
-        "specializationLabel": "Génie Civil – Travaux publics",
-        "specializationLabelEn": "Civil Engineering - Public Works"
-      },
-      {
-        "specializationId": "71",
-        "specializationParentId": "59",
-        "specializationLabel": "Génie Electrique",
-        "specializationLabelEn": "Electrical Engineering"
-      },
-      {
-        "specializationId": "72",
-        "specializationParentId": "255",
-        "specializationLabel": "Hydraulique - Thermique",
-        "specializationLabelEn": "Hydraulics - Thermal Industry"
-      },
-      {
-        "specializationId": "73",
-        "specializationParentId": "59",
-        "specializationLabel": "Instrumentation - Automatisme - Robotique",
-        "specializationLabelEn": "Instrumentation - Automatism - Robotics"
-      },
-      {
-        "specializationId": "76",
-        "specializationParentId": "59",
-        "specializationLabel": "Métallurgie",
-        "specializationLabelEn": "Metallurgy"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "114",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie des matériaux",
-        "specializationLabelEn": "Materials sector"
-      },
-      {
-        "specializationId": "134",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie de l'eau",
-        "specializationLabelEn": "Water Engineering"
-      },
-      {
-        "specializationId": "138",
-        "specializationParentId": "212",
-        "specializationLabel": "Intelligence artificielle",
-        "specializationLabelEn": "Artificial Intelligence"
-      },
-      {
-        "specializationId": "149",
-        "specializationParentId": "58",
-        "specializationLabel": "Génie Industriel",
-        "specializationLabelEn": "Industrial Engineering"
-      },
-      {
-        "specializationId": "150",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de la production",
-        "specializationLabelEn": "Production Management"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "159",
-        "specializationParentId": "59",
-        "specializationLabel": "Soudage",
-        "specializationLabelEn": "Welding"
-      },
-      {
-        "specializationId": "160",
-        "specializationParentId": "59",
-        "specializationLabel": "Fonderie",
-        "specializationLabelEn": "Foundry"
-      },
-      {
-        "specializationId": "168",
-        "specializationParentId": "255",
-        "specializationLabel": "Nucléaire",
-        "specializationLabelEn": "Nuclear Industry"
-      },
-      {
-        "specializationId": "169",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie des procédés",
-        "specializationLabelEn": "Process Engineering"
-      },
-      {
-        "specializationId": "197",
-        "specializationParentId": "89",
-        "specializationLabel": "Conducteur",
-        "specializationLabelEn": "Driver"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "207",
-        "specializationParentId": "58",
-        "specializationLabel": "Méthodes - Process",
-        "specializationLabelEn": "Methods"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "209",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité systèmes",
-        "specializationLabelEn": "Quality systems"
-      },
-      {
-        "specializationId": "224",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécatronique",
-        "specializationLabelEn": "Mecatronics"
-      },
-      {
-        "specializationId": "225",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécanique des fluides",
-        "specializationLabelEn": "Mechanics of fluids"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "251",
-        "specializationParentId": "24",
-        "specializationLabel": "Ingénierie système",
-        "specializationLabelEn": "Systems engineering"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      },
-      {
-        "specializationId": "331",
-        "specializationParentId": "212",
-        "specializationLabel": "Réseaux et Sécurité Informatique",
-        "specializationLabelEn": "Réseaux et Sécurité Informatique"
-      },
-      {
-        "specializationId": "358",
-        "specializationParentId": "24",
-        "specializationLabel": "ERP management",
-        "specializationLabelEn": "ERP management"
-      },
-      {
-        "specializationId": "361",
-        "specializationParentId": "24",
-        "specializationLabel": "Systèmes embarqués",
-        "specializationLabelEn": "Systèmes embarqués"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. \n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions : \nSupply chain & distribution \nRéalisation d'audit\nRéalisation de plans d'actions\n\nVos responsabilités métier \n\nDans l’exercice de vos fonctions, vous serez amené à : \nOptimiser les flux de production\nIdentifier et suivre les actions d’amélioration avec les équipes internes \nSuivre et pérenniser les plans d’actions via des audits\nPiloter la planification de la production en fonction de la demande client et des capacités industrielles\nOptimiser les flux de matières, d’informations et de produits finis\nGérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités\nAccompagner les équipes dans la mise en place des bonnes pratiques\nCoordonner les projets d’amélioration de la maturité Supply Chain\nAnalyser les indicateurs de performance (KPI) et proposer des actions correctives\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
     "creationDate": "2026-08-21T14:42:01Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3650,16 +3370,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "About ENGIE and Supply & Energy Management:\n\nENGIE, a global leader in low-carbon energy and services, relies on its Global Business Unit Supply & Energy Management (GBU S&EM) to provide reliable, sustainable, and affordable energy to all its customers. This strategic unit optimizes the Group’s and clients’ production assets and designs tailored energy solutions for our 200,000 professional clients and 15 million consumers.\n\nThe Global Business Unit Supply & Energy Management leverages ENGIE’s assets to deliver secure and sustainable energy to its B2B and B2C customers. It uses its expertise in energy management to provide decarbonized electricity 24/7.\n\nJoining Supply & Energy Management means becoming part of a team of over 10,000 passionate experts spread across 20 countries, all united by a shared mission: shaping a greener and more efficient energy future. Together, we push the boundaries of innovation to deliver decarbonized energy 24/7. Join us and be part of those shaping the energy of tomorrow!\n\n \n\nThe Renewable Operations team is responsible for: \n- ensuring the smooth running of renewable operations \n- providing the relevant tools to actively manage portfolio contracts \n\n- maintain central database data quality at highest level for renewable assets management \n\n- facilitating the production of reports and analysis on data \n\n \n\nChallenge: \n\nYou will join an operational team, managing an important Renewable portfolio in collaboration with many other GEM teams (Business Developers, Structurers, Traders, Support functions). \n\nYou’ll need to quickly develop a good knowledge of the processes and tools needed to run the activity. \n\nYou’ll work in close relationship with the IT team in order to set up new features and improve existing ones. \n\nYou’ll need scripting capabilities to perform data management automation and detect area of improvements. \n\n \n\nMission/Main Activities: \n\nAccurate Contract Representation and Modelling: \n\nEnsure precise representation and modelling of renewable contracts, sometimes very structured and exotic, in deal capture and invoicing systems, including Power and Guarantee of Origins. \n\nTechnical Issue Resolution: \n\nLiaise with IS to follow up on technical issues ensuring timely  and accurate resolution for invoicing. \n\nInternal Stakeholder Communication: \n\nMaintain effective communication with internal stakeholders (Originators, Traders, Finance) to ensure smooth workflow from contractualization to invoicing. \n\nData Management and Client Relationship \n\nApply best practices in data management and act as the guardian of client relationships, ensuring data integrity and client satisfaction. \n\nContinuous Improvement and Automation: \n\nLead initiatives for continuous improvement of operations and contribute to their automation, enhancing efficiency and effectiveness.",
     "creationDate": "2026-09-22T11:27:28Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3825,51 +3538,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:35:16Z",
     "missionStartDate": "2027-01-01T00:00:00",
