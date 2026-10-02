@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 12:49:33**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 13:05:33**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -171,6 +171,68 @@ Les qualités indispensables
 Rigueur – Organisation – Esprit analytique – Réactivité – Autonomie – Esprit d'équipe
 
 Vous aimez les environnements où la précision est essentielle et où vous pouvez rapidement prendre en charge un périmètre opérationnel ? Ce poste est fait pour vous.
+
+</details>
+
+<details>
+<summary><strong>CORPORATE FINANCE HF (H/F)</strong> · ALBIOMA · SAO PAULO, BRESIL · 2 689,62 €/mois</summary>
+
+- **Entreprise :** ALBIOMA
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 689,62 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 02/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245612](https://mon-vie-via.businessfrance.fr/offres/245612)
+
+**Description du poste**
+
+Présentation de la société :
+
+Albioma est engagé dans la transition énergétique grâce aux énergies renouvelables (biomasse, solaire et géothermie).
+
+Le Groupe est implanté en Outre-mer français, dans l'Hexagone, à Île Maurice, au Brésil, au Canada, en Australie et en Turquie. Il a développé depuis 30 ans un partenariat unique avec le monde sucrier pour produire de l'énergie renouvelable à partir de la bagasse, résidu fibreux de la canne à sucre.
+
+Albioma est aussi le premier producteur d'énergie photovoltaïque en Outre-mer où il construit et exploite des projets innovants avec stockage, ainsi que dans l'Hexagone.
+
+Depuis 2021, le Groupe se développe dans la géothermie, avec l'acquisition de deux centrales en Turquie.
+
+Poste et missions :
+
+Dans un contexte de fort développement de nos activités au Brésil, vos principales missions au sein de la Direction Financière à São Paulo seront les suivantes :
+
+- Assistance sur les projets de financement (élaboration des modèles avec les équipes projets, présentations aux banques, négociation des documentations de crédit) ;
+
+- Analyse stratégique et financière des projets de M&A ;
+
+- Exercices de modélisation financière et d’évaluation ;
+
+- Elaboration des dossiers d’investissement en contrôle financier ;
+
+- Modélisation et suivi des business plans à moyen terme ;
+
+- Elaboration du reporting mensuel d’activité et analyse des résultats ;
+
+- Suivi des investissements sur ses aspects financiers ;
+
+- Suivi de trésorerie et élaboration de prévisionnels ;
+
+- Analyses financières ponctuelles.
+
+**Profil recherché**
+
+- Vous êtes diplômé.e d’une école de commerce ou d’ingénieur avec une spécialité : Finance / Comptabilité / Contrôle de gestion ;
+
+- Vous avez idéalement une première expérience au sein d'une direction financière ;
+
+- Vous maitrisez la notion de compte de résultats ;
+
+- Vous êtes familier avec la modélisation d’un Business Plan ;
+
+- Vous parlez anglais couramment (oral, écrit) ; 
+
+- Vous avez un bon relationnel et aimez travailler en équipe ; 
+
+- Vous être rigoureux.se et très organisé.e.
 
 </details>
 
