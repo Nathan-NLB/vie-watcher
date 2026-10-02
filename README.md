@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 04:06:31**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 04:29:37**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5187,67 +5187,6 @@ High-level skills in Microsoft Office, Excel and Business Analytics
 Problem solving and hands-on mentality
 Team player with good communication skills
 Multilingual preferred : English, Dutch, French
-
-</details>
-
-<details>
-<summary><strong>VIE - Finance Analyst - Budapest (H/F)</strong> · SCHNEIDER ELECTRIC INDUSTRIES SAS · BUDAPEST, HONGRIE · 2 471,33 €/mois</summary>
-
-- **Entreprise :** SCHNEIDER ELECTRIC INDUSTRIES SAS
-- **Lieu :** BUDAPEST, HONGRIE
-- **Indemnité :** 2 471,33 €/mois
-- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
-- **Publiée le :** 01/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245548](https://mon-vie-via.businessfrance.fr/offres/245548)
-
-**Description du poste**
-
-About the Role
-Join Schneider Electric's Global Supply Chain (GSC) Finance team and contribute to the financial performance management of a worldwide organization. Based in Budapest, you will support the consolidation, analysis, reporting, and forecasting of key Supply Chain financial indicators, while participating in the deployment of new performance management tools and processes.
-
-This international position offers strong exposure to global finance operations and regular interactions with regional and global stakeholders across multiple continents.
-
-Your Mission
-As a Global Supply Chain FP&A Analyst, you will support the monthly reporting and quarterly forecasting cycles while contributing to the continuous improvement of financial performance measurement and reporting tools across the Supply Chain organization.
-
- 
-
-Key Responsibilities
-Financial Reporting & Analysis
-Collect, consolidate, and retrieve financial reporting data from Schneider Electric's enterprise performance management systems.
-Analyze financial performance and key Supply Chain indicators
-Verify, challenge, and ensure the quality and reliability of reported financial data.
-Investigate variances and support performance analysis activities.
-Reporting & Forecasting
-Prepare and update standard monthly reporting packages for Global Supply Chain leadership.
-Support quarterly forecasting exercises and related financial analyses.
-Partner with regional and central FP&A teams to ensure accurate financial reporting and performance tracking.
-Contribute to executive-level reporting and presentations.
-Performance Management & Digital Transformation
-Support the deployment and adoption of new Supply Chain performance management tools.
-Participate in the Horizon Project and related transformation initiatives.
-Contribute to testing, user acceptance, training, and continuous improvement activities.
-Represent the Global Supply Chain Finance team in cross-functional performance measurement initiatives.
-
-**Profil recherché**
-
-Education
-Master's degree in Finance, Accounting, Business Administration.
-Skills & Experience
-Over 2 years of professional experience in finance, controlling, audit in industrial field preferably
-Strong analytical and numerical skills.
-Good understanding of financial reporting and controlling concepts.
-Advanced Excel skills; experience with reporting or data visualization tools is a plus.
-Ability to work with large datasets and identify inconsistencies.
-Strong attention to detail and problem-solving mindset.
-Excellent communication and stakeholder management skills.
-Languages
-Fluent English is mandatory.
-Personal Attributes
-Curious and eager to learn in an international environment.
-Autonomous and proactive.
-Team-oriented with strong interpersonal skills.
-Comfortable working across cultures and time zones.
 
 </details>
 
