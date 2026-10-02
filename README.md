@@ -8,11 +8,59 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 15:08:12**, 95 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 15:34:45**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>TECHNOLOGIE DE L’ÉDUCATION (H/F)</strong> · JOHNSON & JOHNSON MEDICAL SAS · DIEGEM, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** JOHNSON & JOHNSON MEDICAL SAS
+- **Lieu :** DIEGEM, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 02/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion pur et la finance (FP&A), tandis que l'offre chez Johnson & Johnson est centrée sur la gestion de projets et le support opérationnel pour des programmes de formation en technologie médicale. Bien que les compétences en suivi budgétaire et reporting du candidat soient utiles, le cœur du poste s'éloigne significativement de son projet professionnel principal.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245002](https://mon-vie-via.businessfrance.fr/offres/245002)
+
+**Description du poste**
+
+À PROPOS DU RÔLE
+Johnson & Johnson MedTech Belgique & Luxembourg recherche un V.I.E. Technologie de l’Éducation afin de soutenir l’organisation Education Solutions. Ce rôle vise à contribuer à la création d’un environnement d’apprentissage et de développement de pointe, à garantir l’excellence dans l’exécution des activités opérationnelles et à soutenir les programmes éducatifs internes et externes qui différencient Johnson & Johnson sur le marché.
+VOTRE MISSION
+•	Soutenir les activités opérationnelles au sein du département Education Solutions.
+•	Contribuer à l’exécution des programmes de formation professionnelle et commerciale destinés aux professionnels de santé et aux organisations gouvernementales.
+•	Collaborer étroitement avec les équipes Sales, Marketing, Market Access, HCC, Regulatory, Legal, Finance et Medical Education.
+•	Veiller à ce que les activités éducatives soient exécutées avec un haut niveau de qualité, de conformité, de discipline budgétaire et de suivi opérationnel.
+•	Contribuer au développement d’une forte culture d’apprentissage interne et d’une proposition de valeur éducative externe solide pour Johnson & Johnson MedTech BeLux.
+Excellence opérationnelle & exécution des formations
+•	Soutenir la planification, l’administration, la logistique, le suivi budgétaire et la mesure de la qualité des activités éducatives.
+•	Veiller à ce que toutes les activités éducatives soient suivies, documentées et gérées dans le cadre du processus d’archivage et de conservation.
+•	Contribuer à la maintenance des tableaux de bord éducatifs et au suivi des indicateurs clés de performance afin d’évaluer la qualité et la prestation de services.
+•	Assurer la gestion des stocks et le soutien logistique pour les événements éducatifs.
+•	Contribuer à renforcer la discipline d’exécution et l’amélioration continue des opérations éducatives.
+Partenariat avec les parties prenantes & collaboration
+•	Établir des partenariats solides avec les parties prenantes internes des équipes Sales, Marketing, Market Access, HCC, Regulatory, Legal, Finance et Medical Education.
+•	Communiquer clairement avec les partenaires business concernant l’exécution et la planification des événements.
+Conformité, gouvernance & gestion des risques
+•	Respecter toutes les procédures opérationnelles standard HCC et les politiques internes.
+•	Soutenir la gestion des contrats de consultance et les processus de rémunération de services.
+
+**Profil recherché**
+
+VOTRE PROFIL
+•	Affinité avec le secteur des technologies médicales ou fort intérêt pour celui-ci.
+•	Curiosité pour l’innovation dans l’éducation, notamment l’apprentissage virtuel, la simulation, la robotique et les nouveaux modèles de formation.
+•	Solides compétences opérationnelles et sens du détail.
+•	Esprit collaboratif et orientation parties prenantes.
+•	Solides compétences en planification, exécution et suivi.
+•	Respectueux des règles de conformité et guidé par l’intégrité.
+•	À l’aise dans la communication, la facilitation et la formation en anglais.
+•	À l’aise dans un environnement de travail à la fois opérationnel et tactique.
+
+</details>
 
 <details>
 <summary><strong>VIE CONTRÔLEUR DE GESTION TOGO F/H (H/F)</strong> · BESSAC · LOME, TOGO · 2 360,64 €/mois</summary>

@@ -400,5 +400,10 @@
   "ville|lome|togo": {
     "lat": 6.130419,
     "lon": 1.215829
+  },
+  "entreprise|johnson & johnson medical sas|diegem|belgique": null,
+  "ville|diegem|belgique": {
+    "lat": 50.8945555,
+    "lon": 4.4365042
   }
 }
