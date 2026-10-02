@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 16:07:34**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 16:34:23**, 97 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -415,6 +415,75 @@ Formation économique (Master 2 analyse économique, relations économiques inte
 Niveau C1 en anglais
 
 Merci d'envoyer vos CV UNIQUEMENT EN FRANCAIS
+
+</details>
+
+<details>
+<summary><strong>Chargé(e) d'études économiques au SER de Madrid (H/F)</strong> · DIRECTION GENERALE DU TRESOR · MADRID, ESPAGNE · 3 004,66 €/mois</summary>
+
+- **Entreprise :** DIRECTION GENERALE DU TRESOR
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 3 004,66 €/mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
+- **Publiée le :** 02/10/2026
+- **Compatibilité avec ton profil :** 60 % — Le candidat dispose du niveau d'études requis, d'une appétence pour l'Espagne et de solides compétences analytiques, mais son profil est orienté vers le contrôle de gestion en entreprise (FP&A) plutôt que vers les études macroéconomiques et les politiques publiques attendues par la Direction Générale du Trésor.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246656](https://mon-vie-via.businessfrance.fr/offres/246656)
+
+**Description du poste**
+
+Le Service économique régional (SER) de Madrid est un service extérieur du ministère de l’Economie, des Finances et de l’Industrie (Direction générale du Trésor) auprès de l’ambassade de France en Espagne. Il agit pour le compte des autorités françaises. Il a pour missions :
+
+- d’analyser la conjoncture et les politiques publiques en Espagne en matière économique et financière ; 
+- d’informer les pouvoirs publics français sur l’environnement économique et financier espagnol, les enjeux et politiques sectoriels (politique économique, budget, transport, énergie, industrie, agriculture, etc.) de manière à assurer un suivi des relations bilatérales franco-espagnoles dans ces différents domaines et intervenir à leur demande ;
+- de représenter la France et défendre ses positions auprès des autorités espagnoles, développer la coopération économique entre les deux pays, préparer les rencontres franco-espagnoles au niveau administratif et politique.
+
+MISSION ET ATTRIBUTIONS DU/DE LA VIA :
+
+En fonction de son profil et de ses compétences, le ou la titulaire du poste pourra prendre en charge tout ou partie des sujets suivants :
+
+- financement de l’économie (financement des ménages et des entreprises, secteurs bancaire et des assurances, marchés financiers, régulation, stabilité financière, fintech) ;
+- suivi de la principauté d’Andorre (situation économique et financière, accord d’association avec l’UE) ;
+- égalité femmes-hommes dans l’économie (état des lieux et politiques publiques) ;
+- économie territoriale (situation économique et financière des communautés autonomes, inégalités territoriales) ;
+- secteur de la construction, de l’immobilier et marché du logement (politiques publiques du logement, suivi des marchés immobiliers, évaluations des biens immobiliers des organismes publics français en Espagne : valeur locative et de marché)
+
+Sur tous ces thèmes il/elle aura la charge de : 
+
+•	réaliser une veille permanente ;
+•	produire des analyses à court, moyen ou long terme ;
+•	répondre aux commandes et interrogations de l’administration centrale en France et d’autres interlocuteurs publics ;
+•	contribuer à la qualité du dialogue entre les administrations ;
+•	appuyer les actions et évènements du SER et de l’ambassade auprès de l’écosystème local (communauté d’affaires, analystes, administration).
+
+PROFIL :
+
+Diplôme de niveau master 2 (bac+5) avec une bonne connaissance de la micro et de la macroéconomie.
+
+COMPETENCES REQUISES :
+
+- capacités d’analyse et de synthèse ;
+- qualités rédactionnelles ;
+- compétences en analyse quantitative ;
+- fortes qualités relationnelles, de réactivité et d’adaptation ;
+- sens du travail en équipe ;
+- espagnol courant ; anglais professionnel	
+
+DIVERS :
+
+Madrid n’est pas considérée comme une ville dangereuse. Le principal risque auquel il est possible d’être confronté est le vol.
+
+Logement :  les sites Internet de référence sont Fotocasa et Idealista.  Il est également possible de passer par des agences immobilières (les frais d’agence équivalent en général à 1 mois de loyer). Les contrats de location sont globalement comparables aux contrats français. L’assurance 
+d’habitation/locative n’est pas obligatoire en Espagne mais est recommandée
+
+Santé : penser à venir avec la carte européenne d’assurance maladie.
+
+**Profil recherché**
+
+Diplôme de niveau master 2 (bac+5) avec une bonne connaissance de la micro et de la macroéconomie
+
+Espagnol courant, anglais professionnel
+
+Merci d'envoyer vos CV UNIUQUEMENT EN FRANCAIS
 
 </details>
 
