@@ -8,14 +8,14 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 18:05:48**, 97 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 18:32:35**, 97 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
 
 <details>
-<summary><strong>TECHNOLOGIE DE L’ÉDUCATION (H/F)</strong> · JOHNSON & JOHNSON MEDICAL SAS · DIEGEM, BELGIQUE · 2 978,53 €/mois</summary>
+<summary><strong>COORDINATEUR EDUCATION & PROGRAMMES (H/F)</strong> · JOHNSON & JOHNSON MEDICAL SAS · DIEGEM, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** JOHNSON & JOHNSON MEDICAL SAS
 - **Lieu :** DIEGEM, BELGIQUE
