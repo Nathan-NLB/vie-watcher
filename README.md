@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/10/2026 14:07:08**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **02/10/2026 14:38:02**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -219,6 +219,100 @@ Les qualités indispensables
 Rigueur – Organisation – Esprit analytique – Réactivité – Autonomie – Esprit d'équipe
 
 Vous aimez les environnements où la précision est essentielle et où vous pouvez rapidement prendre en charge un périmètre opérationnel ? Ce poste est fait pour vous.
+
+</details>
+
+<details>
+<summary><strong>Junior Outsourcing Manager (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 030,57 €/mois</summary>
+
+- **Entreprise :** CA CONSUMER FINANCE
+- **Lieu :** STUTTGART, ALLEMAGNE
+- **Indemnité :** 3 030,57 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 02/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier (budgets, reporting, rentabilité), alors que l'offre est spécialisée dans la gestion des activités d'externalisation, des risques réglementaires et de la gouvernance. Néanmoins, sa formation en finance et son niveau d'anglais constituent des points de correspondance avec les prérequis de l'offre.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244111](https://mon-vie-via.businessfrance.fr/offres/244111)
+
+**Description du poste**
+
+With over 60 years of experience, Creditplus is a well-established player in the German consumer credit market. It offers flexible financing solutions distributed through its 20 branches, its digital platform, and a large network of commercial partners. The company is particularly renowned for its expertise in automotive and two-wheeler financing, a segment in which it is the market leader in Germany.
+
+JOB PURPOSE : 
+The VIE will support the management of outsourcing activities within the entity, ensuring compliance with Group policies and regulatory requirements.
+
+RESPONSIBILITIES :
+•	Support that Outsourcing governance are applied throughout the entity
+•	Support the management of outsourcing arrangements across the Outsourcing full lifecycle (from risk assessment and contracting to monitoring and exit of Outsourcing arrangements)
+•	Contribute to the identification and monitoring of outsourcing risks, including critical services
+•	Maintain and improve data quality and completeness in the outsourcing register and DORA information register
+•	Support preparation of governance committees, reporting and audit documentation
+•	Assist on reports on first level controls and follow-up actions
+•	Coordinate with internal stakeholders (business lines, risk, compliance, procurement)
+•	Monitor remediation activities
+•	Contribute to regulatory topics such as outsourcing reporting and IMAS notifications
+
+**Profil recherché**
+
+EXPECTED PROFILE 
+EDUCATIONAL BACKGROUND	
+•	Master’s degree in business administration, Finance, Risk, Data Management or related field
+
+KNOW-HOW (EXPERIENCE AND TEHNICAL SKILLS, LANGUAGES)	•	First professional experience in banking, consulting, risk or outsourcing-related roles 
+•	Good understanding of data structures and data handling 
+•	Strong interest in regulatory and governance topics 
+•	Fluent English (mandatory) 
+•	Basic German is sufficient (no fluency required)
+SOFT SKILLS	•	Strong analytical and structured thinking 
+•	High attention to detail and reliability (audit relevance) 
+•	Ability to work across teams and functions 
+•	Proactive mindset and ownership 
+•	Clear and professional communication skills
+
+</details>
+
+<details>
+<summary><strong>Junior IT-Risk/IAM-Manager (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 030,57 €/mois</summary>
+
+- **Entreprise :** CA CONSUMER FINANCE
+- **Lieu :** STUTTGART, ALLEMAGNE
+- **Indemnité :** 3 030,57 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 02/10/2026
+- **Compatibilité avec ton profil :** 15 % — Le profil de Nathan est spécialisé en contrôle de gestion financier (FP&A) avec une expérience en PME, alors que l'offre concerne la gestion des risques IT et des accès (IAM) dans une banque en Allemagne. Il y a un décalage total entre les compétences financières du candidat et les exigences techniques et réglementaires en IT-Risk de ce poste.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/243001](https://mon-vie-via.businessfrance.fr/offres/243001)
+
+**Description du poste**
+
+The VIE supports the Senior IT Risk / IAM Manager in the operational implementation and monitoring of all defined topics and ensures that all regulatory and internal requirements relating to IT risk management, segregation of duties, and access management are fulfilled in an audit proof manner. The role includes steering IAM processes and providing advisory support to the business units.
+
+RESPONSIBILITIES  : 
+
+•	Analysis and support in defining requirements for Segregation of Duties (SoD).
+•	Identification, assessment, reporting, and monitoring of IT risks as well as risk‑mitigating measures in coordination with the relevant business units (2nd Line of Defence) and the Senior IT Risk / IAM Manager.
+•	Operational monitoring of early warning indicators, including documentation and preparation of input for escalations (in particular GPS514). Process-related integration into the alert processes of upstream functions.
+•	Support in the preparation of regular reports, including the compilation of control and risk evidence for the relevant bodies and committees of the bank and the group (e.g., SSC, ICC).
+•	Active and hands-on advisory support to the business units and quality assurance of 1.1 and 2.1 controls within the Internal Control System (ICS).
+•	Execution of control activities in accordance with the ICS (2.2 controls).
+•	Support in the monitoring and review of outsourcing requirements from an IT risk perspective.
+•	Support in the creation and maintenance of the Segregation of Duties matrix and monitoring of its implementation.
+•	Execution of recertification campaigns under the functional guidance of the Senior IT Risk / IAM Manager.
+•	Support in the development and maintenance of authorization models and execution of role modeling campaigns.
+
+**Profil recherché**
+
+•	Graduate from a Business/Enginering School with a major in Risk Management/IT
+•	First professional experience in a comparable position or in a consulting environment
+•	Basic knowledge of the regulatory/legal requirements for IAM/SOD
+•	Good knowledge of MS-Office products
+•	Confluence and JIRA knowledge
+•	Basic knowledge/experience in the field of Artificial Intelligence (AI) and associated applications
+•	Very good command of spoken and written English
+
+SOFT SKILLS :
+•	Good communication skills and confident appearance
+•	Organizational talent and multitasking ability
+•	High level of communication and teamwork
+•	High degree of independence, initiative and teamwork
 
 </details>
 
