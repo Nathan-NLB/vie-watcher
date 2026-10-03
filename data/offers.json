@@ -332,86 +332,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "7",
-      "9",
-      "17",
-      "21",
-      "91",
-      "93",
-      "98",
-      "101",
-      "109",
-      "126"
+      "[\"6\",\"7\",\"9\",\"17\",\"21\",\"91\",\"93\",\"98\",\"101\",\"109\",\"126\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "91",
-        "specializationParentId": "89",
-        "specializationLabel": "Secrétariat - Bureautique",
-        "specializationLabelEn": "Secretariat - Desktop Applications"
-      },
-      {
-        "specializationId": "93",
-        "specializationParentId": "89",
-        "specializationLabel": "Traduction - Interprétariat",
-        "specializationLabelEn": "Translation - Interpretation"
-      },
-      {
-        "specializationId": "98",
-        "specializationParentId": "36",
-        "specializationLabel": "Enseignement",
-        "specializationLabelEn": "Teaching"
-      },
-      {
-        "specializationId": "101",
-        "specializationParentId": "36",
-        "specializationLabel": "Langues et Civilisations Etrangères (LCE)",
-        "specializationLabelEn": "Foreign Languages and Civilizations"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "126",
-        "specializationParentId": "239",
-        "specializationLabel": "Sciences humaines et sociales",
-        "specializationLabelEn": "Cognitive Sciences - Neurosciences"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À PROPOS DU RÔLE\nJohnson & Johnson MedTech Belgique & Luxembourg recherche un V.I.E. Technologie de l’Éducation afin de soutenir l’organisation Education Solutions. Ce rôle vise à contribuer à la création d’un environnement d’apprentissage et de développement de pointe, à garantir l’excellence dans l’exécution des activités opérationnelles et à soutenir les programmes éducatifs internes et externes qui différencient Johnson & Johnson sur le marché.\nVOTRE MISSION\n•\tSoutenir les activités opérationnelles au sein du département Education Solutions.\n•\tContribuer à l’exécution des programmes de formation professionnelle et commerciale destinés aux professionnels de santé et aux organisations gouvernementales.\n•\tCollaborer étroitement avec les équipes Sales, Marketing, Market Access, HCC, Regulatory, Legal, Finance et Medical Education.\n•\tVeiller à ce que les activités éducatives soient exécutées avec un haut niveau de qualité, de conformité, de discipline budgétaire et de suivi opérationnel.\n•\tContribuer au développement d’une forte culture d’apprentissage interne et d’une proposition de valeur éducative externe solide pour Johnson & Johnson MedTech BeLux.\nExcellence opérationnelle & exécution des formations\n•\tSoutenir la planification, l’administration, la logistique, le suivi budgétaire et la mesure de la qualité des activités éducatives.\n•\tVeiller à ce que toutes les activités éducatives soient suivies, documentées et gérées dans le cadre du processus d’archivage et de conservation.\n•\tContribuer à la maintenance des tableaux de bord éducatifs et au suivi des indicateurs clés de performance afin d’évaluer la qualité et la prestation de services.\n•\tAssurer la gestion des stocks et le soutien logistique pour les événements éducatifs.\n•\tContribuer à renforcer la discipline d’exécution et l’amélioration continue des opérations éducatives.\nPartenariat avec les parties prenantes & collaboration\n•\tÉtablir des partenariats solides avec les parties prenantes internes des équipes Sales, Marketing, Market Access, HCC, Regulatory, Legal, Finance et Medical Education.\n•\tCommuniquer clairement avec les partenaires business concernant l’exécution et la planification des événements.\nConformité, gouvernance & gestion des risques\n•\tRespecter toutes les procédures opérationnelles standard HCC et les politiques internes.\n•\tSoutenir la gestion des contrats de consultance et les processus de rémunération de services.",
     "creationDate": "2026-07-30T06:51:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -731,16 +654,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "With over 60 years of experience, Creditplus is a well-established player in the German consumer credit market. It offers flexible financing solutions distributed through its 20 branches, its digital platform, and a large network of commercial partners. The company is particularly renowned for its expertise in automotive and two-wheeler financing, a segment in which it is the market leader in Germany.\n\nJOB PURPOSE : \nThe VIE will support the management of outsourcing activities within the entity, ensuring compliance with Group policies and regulatory requirements.\n\nRESPONSIBILITIES :\n•\tSupport that Outsourcing governance are applied throughout the entity\n•\tSupport the management of outsourcing arrangements across the Outsourcing full lifecycle (from risk assessment and contracting to monitoring and exit of Outsourcing arrangements)\n•\tContribute to the identification and monitoring of outsourcing risks, including critical services\n•\tMaintain and improve data quality and completeness in the outsourcing register and DORA information register\n•\tSupport preparation of governance committees, reporting and audit documentation\n•\tAssist on reports on first level controls and follow-up actions\n•\tCoordinate with internal stakeholders (business lines, risk, compliance, procurement)\n•\tMonitor remediation activities\n•\tContribute to regulatory topics such as outsourcing reporting and IMAS notifications",
     "creationDate": "2026-06-25T08:56:10Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -801,16 +717,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "325"
+      "[\"325\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "325",
-        "specializationParentId": "19",
-        "specializationLabel": "Risk Management",
-        "specializationLabelEn": "Risk Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The VIE supports the Senior IT Risk / IAM Manager in the operational implementation and monitoring of all defined topics and ensures that all regulatory and internal requirements relating to IT risk management, segregation of duties, and access management are fulfilled in an audit proof manner. The role includes steering IAM processes and providing advisory support to the business units.\n\nRESPONSIBILITIES  : \n\n•\tAnalysis and support in defining requirements for Segregation of Duties (SoD).\n•\tIdentification, assessment, reporting, and monitoring of IT risks as well as risk‑mitigating measures in coordination with the relevant business units (2nd Line of Defence) and the Senior IT Risk / IAM Manager.\n•\tOperational monitoring of early warning indicators, including documentation and preparation of input for escalations (in particular GPS514). Process-related integration into the alert processes of upstream functions.\n•\tSupport in the preparation of regular reports, including the compilation of control and risk evidence for the relevant bodies and committees of the bank and the group (e.g., SSC, ICC).\n•\tActive and hands-on advisory support to the business units and quality assurance of 1.1 and 2.1 controls within the Internal Control System (ICS).\n•\tExecution of control activities in accordance with the ICS (2.2 controls).\n•\tSupport in the monitoring and review of outsourcing requirements from an IT risk perspective.\n•\tSupport in the creation and maintenance of the Segregation of Duties matrix and monitoring of its implementation.\n•\tExecution of recertification campaigns under the functional guidance of the Senior IT Risk / IAM Manager.\n•\tSupport in the development and maintenance of authorization models and execution of role modeling campaigns.",
     "creationDate": "2026-05-12T14:27:31Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1620,16 +1529,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "1- Mission comptable\r\n\r\nParticipation à la supervision de la comptabilité pour une société française et une société espagnole sur Pennylane.\r\n\r\nInterlocuteur de l’expert comptable français et espagnol et aide à  l’établissement du bilan en lien avec les cabinets d’expert comptable\r\n\r\n\r\n2- Mission de contrôle de gestion\r\n\r\nParticipation l'établissement d’un P&L mensuel  avec analyse des évolutions et du budget annuel avec suivi des écarts durant l’année.\r\n\r\nMise en place d’un suivi consolidé de la trésorerie\r\n\r\nPréparation de la facturation interne entre les différentes entités du groupe\r\n\r\n\r\n3- Mission opérationnelle et administrative\r\n\r\nRevue et validation des factures fournisseurs \r\n\r\nSuivi de l’encaissement des clients via les plateformes de paiements du site \r\n\r\nSuivi des avoirs, paiements divers, relances clients débiteurs avec le département des ventes\r\n\r\nAide à la personne en charge des paiement des fournisseurs et propriétaires\r\n\r\nCoordination des flux financiers dans les autres entités du groupes sous la responsabilité du CEO\r\n\r\nAide à la gestion de nouveaux projets pour l’automatisation et l’amélioration du CRM et mise en place de process IA dans le département Finance\r\n\r\nAide à la gestion de certaines tâches administratives et liées aux ressources humaines.",
     "creationDate": "2026-09-29T11:10:05Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -4252,51 +4154,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:43:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -4357,51 +4217,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:35:16Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -6597,72 +6415,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "7",
-      "8",
-      "21",
-      "22",
-      "109",
-      "119",
-      "219",
-      "372"
+      "[\"6\",\"7\",\"8\",\"21\",\"22\",\"109\",\"119\",\"219\",\"372\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "22",
-        "specializationParentId": "216",
-        "specializationLabel": "Marketing",
-        "specializationLabelEn": "Marketing"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "119",
-        "specializationParentId": "89",
-        "specializationLabel": "Hôtellerie - Restauration",
-        "specializationLabelEn": "Hotel and Catering Sector"
-      },
-      {
-        "specializationId": "219",
-        "specializationParentId": "216",
-        "specializationLabel": "Marketing Digital",
-        "specializationLabelEn": "Digital Marketing"
-      },
-      {
-        "specializationId": "372",
-        "specializationParentId": "255",
-        "specializationLabel": "RSE",
-        "specializationLabelEn": "RSE"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "QUI SOMMES NOUS ?\r\n\r\nVous souhaitez intégrer une PME dynamique et travailler sur des projets socialement innovants ?\r\n\r\nLe groupe Ethik Investment a développé depuis près de 22 ans les restaurants et espaces sensoriels Dans le Noir ? 9 pays, 15 villes (Paris, Nantes, Bordeaux, Strasbourg, Toulouse, Tours, Marseille, Londres, Madrid, St Pétersbourg, Le Caire, Bruxelles, Luxembourg, Genève, Lisbonne) pour faire vivre des expériences sensorielles, sociales et humaines uniques dans le noir absolu.\r\nLe concept est plébiscité par la presse et le grand public ; les restaurants Dans le Noir ? sont devenus de véritables institutions avec près de 3 millions de visiteurs.\r\nEn savoir + : www.danslenoir.com\r\n\r\n\r\nPOSTE ET MISSIONS :\r\nSous la responsabilité de la Direction de la marque DANS LE NOIR ?, vous aurez pour mission :\r\n\r\nRELATION CLIENTS - FLOOR :\r\nCoordination des dîners du restaurant Dans le Noir ? Genève au sein du Ritz-Carlton Genève, les vendredis/ samedis / dimanches soir\r\n- Accueil des clients, organisation et coordination des services, débriefing clients\r\n- Suivi, Organisation et supervision des réservations et demandes clients\r\n- Suivi et optimisation de la vente de bons cadeaux en ligne\r\n\r\nCOORDINATION :\r\n- Optimisation du fonctionnement et de l’organisation du restaurant et des relations avec le partenaire (Suivi de la création des menus avec le Chef et participation aux tastings pour valider les menus, de la communication avec les équipes, du fonctionnement opérationnel du projet,…)\r\n- Suivi de l’équipe de guides-serveurs : planning, recrutement, management formation \r\n- Suivi administratif et reporting comptables mensuel\r\n\r\nCOMMUNICATION\r\n- Suivi de la communication interne et externe du restaurant et des RP (en relation avec le pôle communication DLN et du Ritz-Carlton)\r\n- Gestion des réseaux sociaux en lien avec les guidelines du siège (Facebook, Instagram)\r\n- Gestion de l’e-réputation du restaurant sur les plateformes en ligne (Tripadvisor, Google Business)\r\n- Rédaction d’articles de blog pour le référencement (SEO) en lien avec notre équipe com\r\n\r\nDEVELOPPEMENT / COMMERCIAL / EVENEMENTIEL\r\n- Organisation et suivi d’événements, de partenariats et d’animations\r\n- Prospection, relance, suivi commercial\r\n- Optimisation développement B2B\r\n- Organisation d’évènements « out of the box”\r\n\r\nVous serez en relation régulièrement avec :\r\n- Notre partenaire hôtelier pour piloter/développer le concept\r\n- Les équipes de Dans le Noir ? en France et à l’international (partage de bonnes pratiques et d’idées ; opérations de communication…). Réunions en ligne hebdomadaires + 2 séminaires / an.\r\n\r\nLe restaurant Dans le Noir ? Genève a ouvert ses portes en janvier 2023 au sein du Ritz-Carlton Genève,  Hotel de la Paix.\r\nVOS OBJECTIFS :\r\n- Poursuivre le développement de la notoriété du restaurant DLN Genève\r\n- Viser un taux de remplissage :constamment en croissance\r\n- Développer les privatisations B2B\r\n- Qualité : Maintien sur le podium (TOP 3) sur TripAdvisor\r\n- Fédérer l’équipe de guides serveurs à travers un accompagnement bienveillant\r\n- Poursuivre de développer une collaboration saine et efficace de partenariat avec l'hôtel Ritz-Carlton\r\n\r\nDEBUT DE  MISSION (1er décembre 2026 ou 1er janvier 2027)",
     "creationDate": "2026-09-08T08:52:42Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -7388,16 +7143,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nDisposant de 17 bureaux dans 13 pays, Pramex International, filiale du Groupe BPCE, deuxième groupe bancaire français, est une société de conseil spécialisée en développement international et en Corporate Finance.\n\nLe département Corporate Finance conseille les PME/ETI dans leurs opérations de croissance externe, de cession, ou dans tout autre type d’opérations de haut de bilan, en France et à l’étranger.\n\nComposée d’une dizaine de professionnels à travers le monde, l’équipe Corporate Finance intervient sur des opérations mid-caps pour le compte de groupes industriels, de fonds d’investissement et d’entreprises familiales.\n\nL'équipe Pramex International Espagne est composée d’une vingtaine de professionnels accompagnant les société françaises dans leur développement en Espagne. Le candidat sélectionné travaillera sous la supervision directe du Managing Director Espagne et de l’équipe M&A basée à Paris.\n\n\nPoste et missions :\n\nEn tant que membre à part en entière de l’équipe M&A de Pramex International, le VIE contribuera aux phases d’origination et d’exécution des transactions françaises et internationales. Ses tâches s’orienteront autour de :\n\n-la préparation et la rédaction de documents de présentation (pitch, teaser, information memorandum...)\n-l’identification d’investisseurs/acquéreurs potentiels dans le cadre de mandat de vente\n-la réalisation d’études sectorielles et la recherche de cibles dans le cadre de mandats d’acquisition\n-l’analyse financière, l’évaluation d’entreprise\n-la rédaction de livrables à destination des clients de Pramex International (en français, en espagnol et en anglais)\n-l’encadrement des stagiaires, notamment sur les aspects méthodologiques, analytiques et de présentation des livrable",
     "creationDate": "2026-09-04T16:14:42Z",
     "missionStartDate": "2027-01-01T00:00:00",
