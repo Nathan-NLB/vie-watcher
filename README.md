@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **03/10/2026 04:04:42**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **03/10/2026 04:36:28**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5346,57 +5346,6 @@ Autonomie et proactivité
 Capacité d’analyse
 Bon relationnel et esprit d’équipe
 Adaptabilité interculturelle
-
-</details>
-
-<details>
-<summary><strong>Sales Business Analyst - Eucerin (H/F)</strong> · BEIERSDORF S.A.S · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** BEIERSDORF S.A.S
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 02/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245562](https://mon-vie-via.businessfrance.fr/offres/245562)
-
-**Description du poste**
-
-Your role
-
-Acting as business partner for all Sales functions and driving data driven decision making for strategic topics. Responsible for the monitoring and KPI analysis of e.g. Sell-In & Sell-Out Data Dashboards, Promo activities, Category Management and the activities of the field sales team as well as working on strategic projects.
-
-Main responsibilities
-
-Enable data driven Shopper & Customer Marketing
-
-Uses data & insights to support the S&CM team in making best in class in-store shopper activations & maximizing offtake on Eucerin across all available shopper contact points
-Monitors progress of promotional activities and handles Pre & Post analyses of promos to generate insights to be used to strengthen existing plans and maximize future activation plans - Supports on overall coordination of launches and helps deliver sales, market share & category growth for Eucerin
-Continuous analysis of the market and competitors, e.g. to be inspired by new trends
-Optimize & maximize Sales activities in the (e-)POS and category management via use of data
-
-Analyses monthly sell out/ sell in data and prepares data in custom built Power BI tool
-Uses data & insights to support on optimizing assortment ranking & distribution and shares gap analyses
-Runs ad-hoc analyses as part of business partnering for the whole sales team
-Enable high team performance by increasing effectiveness & efficiency
-
-Supports team capacity planning and sector allocation in the field team by using data to find the most efficient set up
-Tracks all relevant Sales KPIs as well as the Sales targets as defined by Sales Manager and shares updates with team
-Handles weekly, monthly and quarterly Sales tracking and bonus incentive follow-up
-Drive the future of the business via Sales Projects
-
-Participates in / lead (strategic) sales projects to set the path for future success via e.g. improving the way of working, increasing efficiency & effectiveness etc.
-Cooperates with the regional & global teams as well as teams from other countries to find synergies and share + make use of best practices
-
-**Profil recherché**
-
-Available for 12 months (starting date 1 January 2027)
-University degree (Sales, Business Administration, Marketing)
-First experience as Business Analyst / Category Manager / RGM Manager or Business Controller
-Analytical mindset & ability to handle multiple projects with medium to high complexity
-High-level skills in Microsoft Office, Excel and Business Analytics
-Problem solving and hands-on mentality
-Team player with good communication skills
-Multilingual preferred : English, Dutch, French
 
 </details>
 
