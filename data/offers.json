@@ -1067,16 +1067,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Fondé en 2010 avec la volonté d’allier économies & écologie, Helexia est un acteur indépendant majeur du marché de la transition énergétique.\nL’entreprise, qui compte aujourd’hui plus de 350 collaborateurs présents dans 7 pays, offre à ses clients la possibilité de décarboner leur activité à travers la production d’énergie renouvelable sur site ainsi que des projets d’efficacité énergétique.\nS’inscrivant dans la stratégie d’expansion géographique du groupe, Helexia España a été créée en 2019 avec pour objectif de devenir un acteur incontournable du marché de la transition énergétique en Espagne. La filiale de 16 personnes compte déjà sur plus de 75 projets photovoltaïques en opération pour un total de 40 MW.\n\nPoste et missions :\n\n1/ Analyse de l’ensemble des éléments financiers et stratégiques des opportunités d’investissement sur des centrales solaires en toitures, ombrières ou au sol et sur des projets d’efficacité énergétique:\no Réalisation du Business Plan en collaboration avec les équipes de la BU Espagne\no Analyse du risque de contrepartie\no Réalisation de sensibilités financières et extra-financières sur le Business Plan en fonction de l’opportunité et des risques identifiés\no Préparation de la présentation interne pour le Comité d’investissement\n\n2/ Participation au pilotage financier de la filiale :\no Reporting financier et commercial mensuel/trimestriel et analyse des écarts par rapport au budget ou aux prévisions\no Implication dans le processus budgétaire et la planification financière\no Analyse de la performance financière et suivi des opportunités post-investissement (Asset Management financier)\n\n3/ Réalisation d’études de marché\no Veille concurrentielle\no Analyse de tendances\no Suivi de l’innovation et des nouvelles solutions\n\n4/ Participation aux opérations de financement des actifs espagnols en collaboration avec l’ensemble des parties prenantes (services juridique, technique et financier).\n\n5/ Implication aux différents niveaux du cycle des transactions M&A, en collaboration avec l’équipe d’investissement Groupe :\no Screening de marché et analyse d’opportunités\no Modélisation financière\no Participation aux travaux d’audits\no Soumission du projet aux forums de décision pertinents",
     "creationDate": "2026-09-22T11:31:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
