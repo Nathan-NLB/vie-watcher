@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **03/10/2026 01:45:57**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **03/10/2026 02:07:14**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -488,11 +488,11 @@ Merci d'envoyer vos CV UNIUQUEMENT EN FRANCAIS
 </details>
 
 <details>
-<summary><strong>Contrôleur de gestion junior (H/F)</strong> · FLEXITECH EUROPE · SAN LUIS POTOSI, MEXIQUE · 3 200,91 €/mois</summary>
+<summary><strong>Contrôleur de gestion junior (H/F)</strong> · FLEXITECH EUROPE · SAN LUIS POTOSI, MEXIQUE · 3 221,54 €/mois</summary>
 
 - **Entreprise :** FLEXITECH EUROPE
 - **Lieu :** SAN LUIS POTOSI, MEXIQUE
-- **Indemnité :** 3 200,91 €/mois
+- **Indemnité :** 3 221,54 €/mois
 - **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 01/10/2026
 - **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux attentes techniques et au niveau d'études requis pour ce VIE en contrôle de gestion industriel. Le principal point d'écart réside dans sa maîtrise de l'espagnol (niveau B1) alors que l'offre exige une langue opérationnelle, mais son niveau d'anglais courant et son expérience solide compensent largement.
@@ -608,11 +608,11 @@ Fluent in English (both written and spoken).
 </details>
 
 <details>
-<summary><strong>Business Operations (H/F)</strong> · LIM FRANCE · WELLINGTON   -FL-, ETATS-UNIS · 4 217,57 €/mois</summary>
+<summary><strong>Business Operations (H/F)</strong> · LIM FRANCE · WELLINGTON   -FL-, ETATS-UNIS · 4 268,89 €/mois</summary>
 
 - **Entreprise :** LIM FRANCE
 - **Lieu :** WELLINGTON   -FL-, ETATS-UNIS
-- **Indemnité :** 4 217,57 €/mois
+- **Indemnité :** 4 268,89 €/mois
 - **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 01/10/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246402](https://mon-vie-via.businessfrance.fr/offres/246402)
@@ -783,11 +783,11 @@ Your profile:
 </details>
 
 <details>
-<summary><strong>Global IT Procurement Specialist (H/F)</strong> · HUTCHINSON · AUBURN HILLS -MI-, ETATS-UNIS · 3 769,14 €/mois</summary>
+<summary><strong>Global IT Procurement Specialist (H/F)</strong> · HUTCHINSON · AUBURN HILLS -MI-, ETATS-UNIS · 3 813,78 €/mois</summary>
 
 - **Entreprise :** HUTCHINSON
 - **Lieu :** AUBURN HILLS -MI-, ETATS-UNIS
-- **Indemnité :** 3 769,14 €/mois
+- **Indemnité :** 3 813,78 €/mois
 - **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 01/10/2026
 - **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion et le FP&A, tandis que cette offre concerne les achats IT et la négociation fournisseurs. Bien que la formation en gestion et l'appétence pour l'international correspondent, le cœur de métier de la mission s'éloigne de son expertise financière principale.
@@ -1120,11 +1120,11 @@ Skills & Capabilities
 </details>
 
 <details>
-<summary><strong>RESPONSABLE FINANCIER ET ADMINISTRATIF (H/F)</strong> · VILLANOVO · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
+<summary><strong>RESPONSABLE FINANCIER ET ADMINISTRATIF (H/F)</strong> · VILLANOVO · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** VILLANOVO
 - **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
+- **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 30/09/2026
 - **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à ses 2 ans d'expérience en contrôle de gestion, sa maîtrise d'Excel, son niveau d'espagnol et son attrait pour l'international à Barcelone. Seul un léger écart réside dans les missions comptables plus opérationnelles, mais sa rigueur financière compense largement.
@@ -1184,11 +1184,11 @@ Très bonne maîtrise d’Excel
 </details>
 
 <details>
-<summary><strong>Financial Planning & Analysis (H/F)</strong> · LESAFFRE INTERNATIONAL · MILWAUKEE    -WI-, ETATS-UNIS · 3 391,06 €/mois</summary>
+<summary><strong>Financial Planning & Analysis (H/F)</strong> · LESAFFRE INTERNATIONAL · MILWAUKEE    -WI-, ETATS-UNIS · 3 430,07 €/mois</summary>
 
 - **Entreprise :** LESAFFRE INTERNATIONAL
 - **Lieu :** MILWAUKEE    -WI-, ETATS-UNIS
-- **Indemnité :** 3 391,06 €/mois
+- **Indemnité :** 3 430,07 €/mois
 - **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
 - **Publiée le :** 30/09/2026
 - **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, ses compétences avancées en Excel et en FP&A, ainsi qu'à son excellent niveau d'anglais (TOEIC 925). Seul un léger écart géographique est à noter, le candidat ciblant initialement l'Espagne bien que l'offre soit basée aux États-Unis.
@@ -1260,11 +1260,11 @@ Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG e
 </details>
 
 <details>
-<summary><strong>FP&A EMEA COFFEE (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · KAMPALA, OUGANDA · 3 073,30 €/mois</summary>
+<summary><strong>FP&A EMEA COFFEE (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · KAMPALA, OUGANDA · 3 062,48 €/mois</summary>
 
 - **Entreprise :** LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS
 - **Lieu :** KAMPALA, OUGANDA
-- **Indemnité :** 3 073,30 €/mois
+- **Indemnité :** 3 062,48 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 30/09/2026
 - **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux exigences techniques du poste en FP&A, avec une excellente maîtrise d'Excel, un très bon niveau d'anglais et une solide expérience en contrôle de gestion. Le seul écart réside dans la localisation (Ouganda au lieu de l'Espagne souhaitée) et le secteur des matières premières, mais son autonomie prouvée compense largement.
@@ -1516,11 +1516,11 @@ Profil recherché :<br />- Formation : Diplômé(e) de Grande Ecole.<br />- Comp
 </details>
 
 <details>
-<summary><strong>Comptable international Multi-pays (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
+<summary><strong>Comptable international Multi-pays (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
 - **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
+- **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 28/09/2026
 - **Compatibilité avec ton profil :** 68 % — Nathan possède le niveau d'études requis (Master), d'excellentes compétences sur Excel et correspond très bien aux critères géographiques (Barcelone) et linguistiques. Néanmoins, l'offre est fortement axée sur de la comptabilité générale et technique (saisie, lettrage, déclarations), ce qui diverge du parcours et des aspirations du candidat centrés sur le contrôle de gestion et le FP&A.
@@ -1566,11 +1566,11 @@ Les Avantages
 </details>
 
 <details>
-<summary><strong>Contrôleur Financier International & Finance Transformation Analyst (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BUCAREST, ROUMANIE · 2 334,27 €/mois</summary>
+<summary><strong>Contrôleur Financier International & Finance Transformation Analyst (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BUCAREST, ROUMANIE · 2 320,52 €/mois</summary>
 
 - **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
 - **Lieu :** BUCAREST, ROUMANIE
-- **Indemnité :** 2 334,27 €/mois
+- **Indemnité :** 2 320,52 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 25/09/2026
 - **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes du poste grâce à sa formation en contrôle de gestion, son solide bagage technique sur Excel et ses deux années d'expérience en gestion financière. L'écart principal réside dans la localisation (Roumanie au lieu de l'Espagne souhaitée) et l'absence mentionnée d'expérience directe sur un ERP comme IFS, bien que ses compétences analytiques compensent largement.
@@ -1654,11 +1654,11 @@ Alors si ces valeurs vous parlent, rejoignez-nous !
 </details>
 
 <details>
-<summary><strong>Business Controller / Finance Transformation (H/F)</strong> · LEGRAND FRANCE · SOEST, ALLEMAGNE · 3 030,57 €/mois</summary>
+<summary><strong>Business Controller / Finance Transformation (H/F)</strong> · LEGRAND FRANCE · SOEST, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** LEGRAND FRANCE
 - **Lieu :** SOEST, ALLEMAGNE
-- **Indemnité :** 3 030,57 €/mois
+- **Indemnité :** 3 027,63 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 25/09/2026
 - **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond très bien aux attentes techniques en contrôle de gestion, reporting et maîtrise d'Excel, avec un excellent niveau d'anglais. Le principal écart réside dans le pays de mission (Allemagne) par rapport à sa préférence pour l'Espagne, ainsi que dans l'absence mentionnée d'expérience préalable sur SAP.
@@ -1766,11 +1766,11 @@ Language:
 </details>
 
 <details>
-<summary><strong>Private Equity Analyst (H/F)</strong> · TIKEHAU INVESTMENT MANAGEMENT · SINGAPOUR, SINGAPOUR · 4 086,09 €/mois</summary>
+<summary><strong>Private Equity Analyst (H/F)</strong> · TIKEHAU INVESTMENT MANAGEMENT · SINGAPOUR, SINGAPOUR · 4 063,89 €/mois</summary>
 
 - **Entreprise :** TIKEHAU INVESTMENT MANAGEMENT
 - **Lieu :** SINGAPOUR, SINGAPOUR
-- **Indemnité :** 4 086,09 €/mois
+- **Indemnité :** 4 063,89 €/mois
 - **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
 - **Publiée le :** 25/09/2026
 - **Compatibilité avec ton profil :** 45 % — Le candidat possède de solides compétences financières et un profil international pertinent avec un excellent niveau d'anglais. Cependant, l'offre cible un poste de Private Equity Analyst exigeant une expérience en M&A ou capital-investissement, alors que le parcours du candidat est orienté vers le contrôle de gestion.
@@ -1813,11 +1813,11 @@ Applications outside this canal will not be taken into account
 </details>
 
 <details>
-<summary><strong>Junior Financial Controller (F/H) (H/F)</strong> · HELEXIA CORPORATE · MILAN, ITALIE · 2 998,98 €/mois</summary>
+<summary><strong>Junior Financial Controller (F/H) (H/F)</strong> · HELEXIA CORPORATE · MILAN, ITALIE · 3 003,87 €/mois</summary>
 
 - **Entreprise :** HELEXIA CORPORATE
 - **Lieu :** MILAN, ITALIE
-- **Indemnité :** 2 998,98 €/mois
+- **Indemnité :** 3 003,87 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 25/09/2026
 - **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux exigences techniques du poste (contrôle de gestion, clôtures, reporting, Excel avancé) et à son appétence pour l'international avec un excellent niveau d'anglais. Le seul léger écart réside dans la maîtrise de l'italien demandée par l'entreprise, bien qu'il soit ouvert à l'international et hispanophone.
@@ -1858,11 +1858,11 @@ Excellente maîtrise de la suite office, particulièrement PowerPoint et Excel. 
 </details>
 
 <details>
-<summary><strong>Cost Data Analyst (H/F) – Congo</strong> · TOTALENERGIES SE · POINTE NOIRE, CONGO · 3 045,94 €/mois</summary>
+<summary><strong>Cost Data Analyst (H/F) – Congo</strong> · TOTALENERGIES SE · POINTE NOIRE, CONGO · 3 036,62 €/mois</summary>
 
 - **Entreprise :** TOTALENERGIES SE
 - **Lieu :** POINTE NOIRE, CONGO
-- **Indemnité :** 3 045,94 €/mois
+- **Indemnité :** 3 036,62 €/mois
 - **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 25/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245135](https://mon-vie-via.businessfrance.fr/offres/245135)
@@ -1912,11 +1912,11 @@ La branche Exploration-Production (EP) de TotalEnergies couvre l’exploration e
 </details>
 
 <details>
-<summary><strong>PROJECT ENGINEER - COST ESTIMATOR HF (H/F)</strong> · PONTICELLI FRERES · LUANDA, ANGOLA · 4 255,73 €/mois</summary>
+<summary><strong>PROJECT ENGINEER - COST ESTIMATOR HF (H/F)</strong> · PONTICELLI FRERES · LUANDA, ANGOLA · 4 337,57 €/mois</summary>
 
 - **Entreprise :** PONTICELLI FRERES
 - **Lieu :** LUANDA, ANGOLA
-- **Indemnité :** 4 255,73 €/mois
+- **Indemnité :** 4 337,57 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 24/09/2026
 - **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, son expérience significative en finance d'entreprise et son excellent niveau d'anglais. Seul un léger décalage existe avec sa préférence géographique initiale pour l'Espagne, l'offre étant basée en Angola.
@@ -1941,11 +1941,11 @@ o	Personne rigoureuse, organisé et dynamique.
 </details>
 
 <details>
-<summary><strong>Supply Chain Specialist (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · SAO PAULO, BRESIL · 2 689,62 €/mois</summary>
+<summary><strong>Supply Chain Specialist (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
 
 - **Entreprise :** SANOFI WINTHROP INDUSTRIE
 - **Lieu :** SAO PAULO, BRESIL
-- **Indemnité :** 2 689,62 €/mois
+- **Indemnité :** 2 743,28 €/mois
 - **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
 - **Publiée le :** 24/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246330](https://mon-vie-via.businessfrance.fr/offres/246330)
@@ -2065,11 +2065,11 @@ To facilitate the examination of your application by our English-speaking manage
 </details>
 
 <details>
-<summary><strong>VIE Private Market Analyst (H/F)</strong> · CA INDOSUEZ · GENEVE, SUISSE · 4 172,27 €/mois</summary>
+<summary><strong>VIE Private Market Analyst (H/F)</strong> · CA INDOSUEZ · GENEVE, SUISSE · 4 157,65 €/mois</summary>
 
 - **Entreprise :** CA INDOSUEZ
 - **Lieu :** GENEVE, SUISSE
-- **Indemnité :** 4 172,27 €/mois
+- **Indemnité :** 4 157,65 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 24/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246329](https://mon-vie-via.businessfrance.fr/offres/246329)
@@ -2231,11 +2231,11 @@ Ce poste est ouvert aux personnes en situation de handicap, des adaptations de p
 </details>
 
 <details>
-<summary><strong>Financial planning & analysis Analyst (FP&A) (H/F)</strong> · MAISON KYKA · MOKA, MAURICE · 1 884,02 €/mois</summary>
+<summary><strong>Financial planning & analysis Analyst (FP&A) (H/F)</strong> · MAISON KYKA · MOKA, MAURICE · 1 879,79 €/mois</summary>
 
 - **Entreprise :** MAISON KYKA
 - **Lieu :** MOKA, MAURICE
-- **Indemnité :** 1 884,02 €/mois
+- **Indemnité :** 1 879,79 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 24/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245029](https://mon-vie-via.businessfrance.fr/offres/245029)
@@ -2310,11 +2310,11 @@ Soft skills
 </details>
 
 <details>
-<summary><strong>M&A & Integration Specialist -  Transactions & Food Manufacturing (H/F)</strong> · SOLINA GROUP SERVICES · OAK BROOK -IL-, ETATS-UNIS · 3 769,14 €/mois</summary>
+<summary><strong>M&A & Integration Specialist -  Transactions & Food Manufacturing (H/F)</strong> · SOLINA GROUP SERVICES · OAK BROOK -IL-, ETATS-UNIS · 3 813,78 €/mois</summary>
 
 - **Entreprise :** SOLINA GROUP SERVICES
 - **Lieu :** OAK BROOK -IL-, ETATS-UNIS
-- **Indemnité :** 3 769,14 €/mois
+- **Indemnité :** 3 813,78 €/mois
 - **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/242163](https://mon-vie-via.businessfrance.fr/offres/242163)
@@ -2385,11 +2385,11 @@ Skills & Mindset
 </details>
 
 <details>
-<summary><strong>Chargé Administratif et Financier (H/F)</strong> · FRIEDLANDER · GEORGETOWN, GUYANA · 3 164,30 €/mois</summary>
+<summary><strong>Chargé Administratif et Financier (H/F)</strong> · FRIEDLANDER · GEORGETOWN, GUYANA · 3 183,43 €/mois</summary>
 
 - **Entreprise :** FRIEDLANDER
 - **Lieu :** GEORGETOWN, GUYANA
-- **Indemnité :** 3 164,30 €/mois
+- **Indemnité :** 3 183,43 €/mois
 - **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246319](https://mon-vie-via.businessfrance.fr/offres/246319)
@@ -2436,11 +2436,11 @@ Si nous poursuivons l’aventure ensemble, vous me rencontrerez au sein de notre
 </details>
 
 <details>
-<summary><strong>Financial Analyst (H/F)</strong> · ARKEMA FRANCE · RADNOR       -PA-, ETATS-UNIS · 3 671,13 €/mois</summary>
+<summary><strong>Financial Analyst (H/F)</strong> · ARKEMA FRANCE · RADNOR       -PA-, ETATS-UNIS · 3 714,31 €/mois</summary>
 
 - **Entreprise :** ARKEMA FRANCE
 - **Lieu :** RADNOR       -PA-, ETATS-UNIS
-- **Indemnité :** 3 671,13 €/mois
+- **Indemnité :** 3 714,31 €/mois
 - **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246287](https://mon-vie-via.businessfrance.fr/offres/246287)
@@ -2523,11 +2523,11 @@ and their impact on the business’ financial reporting/outcomes.
 </details>
 
 <details>
-<summary><strong>Gestionnaire Financier Groupe (H/F)</strong> · ALPINEO CONSULTING LYON · VERNIER, SUISSE · 4 150,28 €/mois</summary>
+<summary><strong>Gestionnaire Financier Groupe (H/F)</strong> · ALPINEO CONSULTING LYON · VERNIER, SUISSE · 4 135,75 €/mois</summary>
 
 - **Entreprise :** ALPINEO CONSULTING LYON
 - **Lieu :** VERNIER, SUISSE
-- **Indemnité :** 4 150,28 €/mois
+- **Indemnité :** 4 135,75 €/mois
 - **Durée de la mission :** 6 mois (Du 1 déc. 2026 au 1 juin 2027)
 - **Publiée le :** 23/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245944](https://mon-vie-via.businessfrance.fr/offres/245944)
@@ -2680,11 +2680,11 @@ o   Compétences comportementales : Rigueur, organisation, curiosité, sens du t
 </details>
 
 <details>
-<summary><strong>Risk Expertise VIE (H/F)</strong> · AMUNDI ASSET MANAGEMENT · DUBLIN, IRLANDE · 3 514,63 €/mois</summary>
+<summary><strong>Risk Expertise VIE (H/F)</strong> · AMUNDI ASSET MANAGEMENT · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
 
 - **Entreprise :** AMUNDI ASSET MANAGEMENT
 - **Lieu :** DUBLIN, IRLANDE
-- **Indemnité :** 3 514,63 €/mois
+- **Indemnité :** 3 520,38 €/mois
 - **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246274](https://mon-vie-via.businessfrance.fr/offres/246274)
@@ -2714,11 +2714,11 @@ The successful VIE candidate will support the team in the analysis and implement
 </details>
 
 <details>
-<summary><strong>Controleur de Gestion (H/F)</strong> · COLAS RAIL · SANTIAGO, CHILI · 2 465,52 €/mois</summary>
+<summary><strong>Controleur de Gestion (H/F)</strong> · COLAS RAIL · SANTIAGO, CHILI · 2 458,58 €/mois</summary>
 
 - **Entreprise :** COLAS RAIL
 - **Lieu :** SANTIAGO, CHILI
-- **Indemnité :** 2 465,52 €/mois
+- **Indemnité :** 2 458,58 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246270](https://mon-vie-via.businessfrance.fr/offres/246270)
@@ -2867,11 +2867,11 @@ You have ERP proficiency and fluency in BPC.
 </details>
 
 <details>
-<summary><strong>FINANCIAL PERFORMANCE ANALYST (H/F)</strong> · LEGRAND FRANCE · SYDNEY, AUSTRALIE · 3 623,81 €/mois</summary>
+<summary><strong>FINANCIAL PERFORMANCE ANALYST (H/F)</strong> · LEGRAND FRANCE · SYDNEY, AUSTRALIE · 3 684,82 €/mois</summary>
 
 - **Entreprise :** LEGRAND FRANCE
 - **Lieu :** SYDNEY, AUSTRALIE
-- **Indemnité :** 3 623,81 €/mois
+- **Indemnité :** 3 684,82 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246228](https://mon-vie-via.businessfrance.fr/offres/246228)
@@ -2897,11 +2897,11 @@ You have ERP proficiency and fluency in BPC.
 </details>
 
 <details>
-<summary><strong>VIE Credit Risk Controller (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 030,57 €/mois</summary>
+<summary><strong>VIE Credit Risk Controller (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** ODDO BHF SCA
 - **Lieu :** FRANCFORT, ALLEMAGNE
-- **Indemnité :** 3 030,57 €/mois
+- **Indemnité :** 3 027,63 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246219](https://mon-vie-via.businessfrance.fr/offres/246219)
@@ -2988,11 +2988,11 @@ A first experience in the financial sector is a +
 </details>
 
 <details>
-<summary><strong>BUSINESS CONTROLLER (H/F)</strong> · MORGAN PHILIPS · MEXICO, MEXIQUE · 3 200,91 €/mois</summary>
+<summary><strong>BUSINESS CONTROLLER (H/F)</strong> · MORGAN PHILIPS · MEXICO, MEXIQUE · 3 221,54 €/mois</summary>
 
 - **Entreprise :** MORGAN PHILIPS
 - **Lieu :** MEXICO, MEXIQUE
-- **Indemnité :** 3 200,91 €/mois
+- **Indemnité :** 3 221,54 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245420](https://mon-vie-via.businessfrance.fr/offres/245420)
@@ -3023,11 +3023,11 @@ A first experience in the financial sector is a +
 </details>
 
 <details>
-<summary><strong>REAL ESTATE INVESTMENT ANALYST (H/F)</strong> · ERE · VARSOVIE, POLOGNE · 2 725,23 €/mois</summary>
+<summary><strong>REAL ESTATE INVESTMENT ANALYST (H/F)</strong> · ERE · VARSOVIE, POLOGNE · 2 721,91 €/mois</summary>
 
 - **Entreprise :** ERE
 - **Lieu :** VARSOVIE, POLOGNE
-- **Indemnité :** 2 725,23 €/mois
+- **Indemnité :** 2 721,91 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 22/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244882](https://mon-vie-via.businessfrance.fr/offres/244882)
@@ -3227,11 +3227,11 @@ Le(la) candidat(e) travaillera en Le(la) candidat(e) travaillera en direct avec 
 </details>
 
 <details>
-<summary><strong>Financial Controller (H/F)</strong> · MOON SURGICAL · SAN FRANCISCO -CA-, ETATS-UNIS · 5 087,01 €/mois</summary>
+<summary><strong>Financial Controller (H/F)</strong> · MOON SURGICAL · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
 
 - **Entreprise :** MOON SURGICAL
 - **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
-- **Indemnité :** 5 087,01 €/mois
+- **Indemnité :** 5 151,29 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 21/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245748](https://mon-vie-via.businessfrance.fr/offres/245748)
@@ -3277,11 +3277,11 @@ Maintain and strengthen internal control and compliance.
 </details>
 
 <details>
-<summary><strong>VIE Analyst M&A | Latin America (Portuguese speaking) (H/F)</strong> · EURO LATINA FINANCE · SAO PAULO, BRESIL · 2 689,62 €/mois</summary>
+<summary><strong>VIE Analyst M&A | Latin America (Portuguese speaking) (H/F)</strong> · EURO LATINA FINANCE · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
 
 - **Entreprise :** EURO LATINA FINANCE
 - **Lieu :** SAO PAULO, BRESIL
-- **Indemnité :** 2 689,62 €/mois
+- **Indemnité :** 2 743,28 €/mois
 - **Durée de la mission :** 9 mois (Du 1 janv. 2027 au 1 oct. 2027)
 - **Publiée le :** 21/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245372](https://mon-vie-via.businessfrance.fr/offres/245372)
@@ -3357,11 +3357,11 @@ Personal Attributes
 </details>
 
 <details>
-<summary><strong>Consultant SAP Finance (H/F)</strong> · CONSEILS PLUS · MILAN, ITALIE · 2 998,98 €/mois</summary>
+<summary><strong>Consultant SAP Finance (H/F)</strong> · CONSEILS PLUS · MILAN, ITALIE · 3 003,87 €/mois</summary>
 
 - **Entreprise :** CONSEILS PLUS
 - **Lieu :** MILAN, ITALIE
-- **Indemnité :** 2 998,98 €/mois
+- **Indemnité :** 3 003,87 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 18/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246089](https://mon-vie-via.businessfrance.fr/offres/246089)
@@ -3398,11 +3398,11 @@ Enfin, si innovation, service client et gestion de projet résonnent en vous, vo
 </details>
 
 <details>
-<summary><strong>VIE Junior Financial Controller (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 030,57 €/mois</summary>
+<summary><strong>VIE Junior Financial Controller (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** CA CONSUMER FINANCE
 - **Lieu :** STUTTGART, ALLEMAGNE
-- **Indemnité :** 3 030,57 €/mois
+- **Indemnité :** 3 027,63 €/mois
 - **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 18/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246087](https://mon-vie-via.businessfrance.fr/offres/246087)
@@ -3474,11 +3474,11 @@ Plus:
 </details>
 
 <details>
-<summary><strong>Analyste Projets & Développement d'Infrastructures SAG (H/F)</strong> · MERIDIAM · LIBREVILLE, GABON · 2 769,07 €/mois</summary>
+<summary><strong>Analyste Projets & Développement d'Infrastructures SAG (H/F)</strong> · MERIDIAM · LIBREVILLE, GABON · 2 753,49 €/mois</summary>
 
 - **Entreprise :** MERIDIAM
 - **Lieu :** LIBREVILLE, GABON
-- **Indemnité :** 2 769,07 €/mois
+- **Indemnité :** 2 753,49 €/mois
 - **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
 - **Publiée le :** 18/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246082](https://mon-vie-via.businessfrance.fr/offres/246082)
@@ -3634,11 +3634,11 @@ Technical Skills: Experience in SAP  and Microsoft Office (Excel, PowerPoint, Wo
 </details>
 
 <details>
-<summary><strong>Operations officer, Custody Services (H/F)</strong> · CACEIS · SELANGOR, MALAISIE · 2 082,26 €/mois</summary>
+<summary><strong>Operations officer, Custody Services (H/F)</strong> · CACEIS · SELANGOR, MALAISIE · 2 079,64 €/mois</summary>
 
 - **Entreprise :** CACEIS
 - **Lieu :** SELANGOR, MALAISIE
-- **Indemnité :** 2 082,26 €/mois
+- **Indemnité :** 2 079,64 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 17/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246067](https://mon-vie-via.businessfrance.fr/offres/246067)
@@ -3701,11 +3701,11 @@ Please send your resume in English
 </details>
 
 <details>
-<summary><strong>Business Performance Analyst (H/F)</strong> · CRITEO TECHNOLOGY · BARCELONE, ESPAGNE · 2 692,70 €/mois</summary>
+<summary><strong>Business Performance Analyst (H/F)</strong> · CRITEO TECHNOLOGY · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** CRITEO TECHNOLOGY
 - **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
+- **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 16/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246022](https://mon-vie-via.businessfrance.fr/offres/246022)
@@ -3746,11 +3746,11 @@ A proactive and autonomous mindset, with the ability to manage multiple projects
 </details>
 
 <details>
-<summary><strong>Contrôleur(se) de Gestion (H/F)</strong> · PAPREC FRANCE · MILAN, ITALIE · 2 998,98 €/mois</summary>
+<summary><strong>Contrôleur(se) de Gestion (H/F)</strong> · PAPREC FRANCE · MILAN, ITALIE · 3 003,87 €/mois</summary>
 
 - **Entreprise :** PAPREC FRANCE
 - **Lieu :** MILAN, ITALIE
-- **Indemnité :** 2 998,98 €/mois
+- **Indemnité :** 3 003,87 €/mois
 - **Durée de la mission :** 6 mois (Du 1 nov. 2026 au 1 mai 2027)
 - **Publiée le :** 16/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245982](https://mon-vie-via.businessfrance.fr/offres/245982)
@@ -3787,11 +3787,11 @@ Italien courant impératif (échanges quotidiens avec les équipes locales), fra
 </details>
 
 <details>
-<summary><strong>ADJOINT A LA DIRECTION DES OPERATIONS (H/F)</strong> · GBH · SAINT DOMINGUE, REPUBLIQUE DOMINICAINE · 2 209,00 €/mois</summary>
+<summary><strong>ADJOINT A LA DIRECTION DES OPERATIONS (H/F)</strong> · GBH · SAINT DOMINGUE, REPUBLIQUE DOMINICAINE · 2 253,37 €/mois</summary>
 
 - **Entreprise :** GBH
 - **Lieu :** SAINT DOMINGUE, REPUBLIQUE DOMINICAINE
-- **Indemnité :** 2 209,00 €/mois
+- **Indemnité :** 2 253,37 €/mois
 - **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 16/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245818](https://mon-vie-via.businessfrance.fr/offres/245818)
@@ -3840,11 +3840,11 @@ Pourquoi nous rejoindre ?
 </details>
 
 <details>
-<summary><strong>ANALYSTE FONCTIONNEL SI CONTROLLING (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 030,57 €/mois</summary>
+<summary><strong>ANALYSTE FONCTIONNEL SI CONTROLLING (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** VINCI CONSTRUCTION SI
 - **Lieu :** BOTTROP, ALLEMAGNE
-- **Indemnité :** 3 030,57 €/mois
+- **Indemnité :** 3 027,63 €/mois
 - **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 16/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245657](https://mon-vie-via.businessfrance.fr/offres/245657)
@@ -3903,11 +3903,11 @@ QUALITÉS HUMAINES ET COMPÉTENCES :
 </details>
 
 <details>
-<summary><strong>Finance controller (H/F)</strong> · ALSTOM TRANSPORT SA · COPENHAGUE, DANEMARK · 3 681,85 €/mois</summary>
+<summary><strong>Finance controller (H/F)</strong> · ALSTOM TRANSPORT SA · COPENHAGUE, DANEMARK · 3 662,65 €/mois</summary>
 
 - **Entreprise :** ALSTOM TRANSPORT SA
 - **Lieu :** COPENHAGUE, DANEMARK
-- **Indemnité :** 3 681,85 €/mois
+- **Indemnité :** 3 662,65 €/mois
 - **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 14/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245914](https://mon-vie-via.businessfrance.fr/offres/245914)
@@ -3980,11 +3980,11 @@ As a global business, we’re an equal-opportunity employer that celebrates dive
 </details>
 
 <details>
-<summary><strong>Junior Financial Analyst (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 087,01 €/mois</summary>
+<summary><strong>Junior Financial Analyst (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
 
 - **Entreprise :** PLANISWARE
 - **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
-- **Indemnité :** 5 087,01 €/mois
+- **Indemnité :** 5 151,29 €/mois
 - **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 14/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245319](https://mon-vie-via.businessfrance.fr/offres/245319)
@@ -4039,11 +4039,11 @@ Before applying, be sure to check the eligibility requirements for this destinat
 </details>
 
 <details>
-<summary><strong>Business Operations Analyst – San Francisco, CA (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 087,01 €/mois</summary>
+<summary><strong>Business Operations Analyst – San Francisco, CA (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
 
 - **Entreprise :** PLANISWARE
 - **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
-- **Indemnité :** 5 087,01 €/mois
+- **Indemnité :** 5 151,29 €/mois
 - **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 14/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244495](https://mon-vie-via.businessfrance.fr/offres/244495)
@@ -4189,11 +4189,11 @@ QUALITÉS ATTENDUES
 </details>
 
 <details>
-<summary><strong>Transversal Corporate Risk (H/F)</strong> · STELLANTIS BANK · POTSDAM, ALLEMAGNE · 3 030,57 €/mois</summary>
+<summary><strong>Transversal Corporate Risk (H/F)</strong> · STELLANTIS BANK · POTSDAM, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** STELLANTIS BANK
 - **Lieu :** POTSDAM, ALLEMAGNE
-- **Indemnité :** 3 030,57 €/mois
+- **Indemnité :** 3 027,63 €/mois
 - **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 11/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245849](https://mon-vie-via.businessfrance.fr/offres/245849)
@@ -4232,11 +4232,11 @@ Knowledge of banking, lending, credit risk, or financial services is beneficial 
 </details>
 
 <details>
-<summary><strong>ASSET MANAGEMENT ANALYST -  (H/F)</strong> · KLEPIERRE MANAGEMENT · COPENHAGUE, DANEMARK · 3 681,85 €/mois</summary>
+<summary><strong>ASSET MANAGEMENT ANALYST -  (H/F)</strong> · KLEPIERRE MANAGEMENT · COPENHAGUE, DANEMARK · 3 662,65 €/mois</summary>
 
 - **Entreprise :** KLEPIERRE MANAGEMENT
 - **Lieu :** COPENHAGUE, DANEMARK
-- **Indemnité :** 3 681,85 €/mois
+- **Indemnité :** 3 662,65 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 11/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245857](https://mon-vie-via.businessfrance.fr/offres/245857)
@@ -4278,11 +4278,11 @@ Support sustainability and operational projects such as solar energy, EV chargin
 </details>
 
 <details>
-<summary><strong>Business analyst Commodity markets (H/F)</strong> · ACE ORGA LAB · GENEVE, SUISSE · 4 172,27 €/mois</summary>
+<summary><strong>Business analyst Commodity markets (H/F)</strong> · ACE ORGA LAB · GENEVE, SUISSE · 4 157,65 €/mois</summary>
 
 - **Entreprise :** ACE ORGA LAB
 - **Lieu :** GENEVE, SUISSE
-- **Indemnité :** 4 172,27 €/mois
+- **Indemnité :** 4 157,65 €/mois
 - **Durée de la mission :** 18 mois (Du 1 nov. 2026 au 1 mai 2028)
 - **Publiée le :** 10/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244645](https://mon-vie-via.businessfrance.fr/offres/244645)
@@ -4314,11 +4314,11 @@ What do You have?
 </details>
 
 <details>
-<summary><strong>PROJECT MANAGER DANS LE NOIR(H/F)</strong> · DEEP DATING · GENEVE, SUISSE · 4 172,27 €/mois</summary>
+<summary><strong>PROJECT MANAGER DANS LE NOIR(H/F)</strong> · DEEP DATING · GENEVE, SUISSE · 4 157,65 €/mois</summary>
 
 - **Entreprise :** DEEP DATING
 - **Lieu :** GENEVE, SUISSE
-- **Indemnité :** 4 172,27 €/mois
+- **Indemnité :** 4 157,65 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 09/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245672](https://mon-vie-via.businessfrance.fr/offres/245672)
@@ -4418,11 +4418,11 @@ Facultatif mais apprécié : un lien vers une vidéo de 2 min max pour vous pré
 </details>
 
 <details>
-<summary><strong>VIE - Junior Finance Controller - Budapest (H/F)</strong> · SCHNEIDER ELECTRIC INDUSTRIES SAS · BUDAPEST, HONGRIE · 2 471,33 €/mois</summary>
+<summary><strong>VIE - Junior Finance Controller - Budapest (H/F)</strong> · SCHNEIDER ELECTRIC INDUSTRIES SAS · BUDAPEST, HONGRIE · 2 552,51 €/mois</summary>
 
 - **Entreprise :** SCHNEIDER ELECTRIC INDUSTRIES SAS
 - **Lieu :** BUDAPEST, HONGRIE
-- **Indemnité :** 2 471,33 €/mois
+- **Indemnité :** 2 552,51 €/mois
 - **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
 - **Publiée le :** 08/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245696](https://mon-vie-via.businessfrance.fr/offres/245696)
@@ -4693,11 +4693,11 @@ To facilitate the examination of your application by our English-speaking manage
 </details>
 
 <details>
-<summary><strong>Installation financial analyst (H/F)</strong> · NEXANS FRANCE · OSLO, NORVEGE · 3 436,12 €/mois</summary>
+<summary><strong>Installation financial analyst (H/F)</strong> · NEXANS FRANCE · OSLO, NORVEGE · 3 493,11 €/mois</summary>
 
 - **Entreprise :** NEXANS FRANCE
 - **Lieu :** OSLO, NORVEGE
-- **Indemnité :** 3 436,12 €/mois
+- **Indemnité :** 3 493,11 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 07/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245646](https://mon-vie-via.businessfrance.fr/offres/245646)
@@ -4731,11 +4731,11 @@ We are looking for someone autonomous, with strong communication and cooperation
 </details>
 
 <details>
-<summary><strong>V.I.E - MARKETING ÉVÉNEMENTIEL CORPORATE ACCESS - H/F (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 030,57 €/mois</summary>
+<summary><strong>V.I.E - MARKETING ÉVÉNEMENTIEL CORPORATE ACCESS - H/F (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** ODDO BHF SCA
 - **Lieu :** FRANCFORT, ALLEMAGNE
-- **Indemnité :** 3 030,57 €/mois
+- **Indemnité :** 3 027,63 €/mois
 - **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 07/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245635](https://mon-vie-via.businessfrance.fr/offres/245635)
@@ -4765,11 +4765,11 @@ Cette double exposition vous permettra d’appréhender les différents métiers
 </details>
 
 <details>
-<summary><strong>Contrôleur de Gestion Financier (H/F)</strong> · ELIOR GROUP · BANGALORE, INDE · 2 608,14 €/mois</summary>
+<summary><strong>Contrôleur de Gestion Financier (H/F)</strong> · ELIOR GROUP · BANGALORE, INDE · 2 592,72 €/mois</summary>
 
 - **Entreprise :** ELIOR GROUP
 - **Lieu :** BANGALORE, INDE
-- **Indemnité :** 2 608,14 €/mois
+- **Indemnité :** 2 592,72 €/mois
 - **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
 - **Publiée le :** 07/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245633](https://mon-vie-via.businessfrance.fr/offres/245633)
@@ -4832,11 +4832,11 @@ Goût pour l’analyse et capacité à transformer les données financières en 
 </details>
 
 <details>
-<summary><strong>ANALYSTE M&A (H/F)</strong> · PRAMEX INTERNATIONAL · MADRID, ESPAGNE · 2 692,70 €/mois</summary>
+<summary><strong>ANALYSTE M&A (H/F)</strong> · PRAMEX INTERNATIONAL · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** PRAMEX INTERNATIONAL
 - **Lieu :** MADRID, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
+- **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 07/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245630](https://mon-vie-via.businessfrance.fr/offres/245630)
@@ -4883,11 +4883,11 @@ Le(la) candidat(e) devra être motivé(e) par la perspective de rejoindre une so
 </details>
 
 <details>
-<summary><strong>Client Operations Officer (VIE) (H/F)</strong> · CACEIS · SELANGOR, MALAISIE · 2 082,26 €/mois</summary>
+<summary><strong>Client Operations Officer (VIE) (H/F)</strong> · CACEIS · SELANGOR, MALAISIE · 2 079,64 €/mois</summary>
 
 - **Entreprise :** CACEIS
 - **Lieu :** SELANGOR, MALAISIE
-- **Indemnité :** 2 082,26 €/mois
+- **Indemnité :** 2 079,64 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245616](https://mon-vie-via.businessfrance.fr/offres/245616)
@@ -4945,11 +4945,11 @@ Please send your resume in English.
 </details>
 
 <details>
-<summary><strong>HR Analyst (VIE) (H/F)</strong> · CACEIS · SELANGOR, MALAISIE · 2 082,26 €/mois</summary>
+<summary><strong>HR Analyst (VIE) (H/F)</strong> · CACEIS · SELANGOR, MALAISIE · 2 079,64 €/mois</summary>
 
 - **Entreprise :** CACEIS
 - **Lieu :** SELANGOR, MALAISIE
-- **Indemnité :** 2 082,26 €/mois
+- **Indemnité :** 2 079,64 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245614](https://mon-vie-via.businessfrance.fr/offres/245614)
@@ -5009,11 +5009,11 @@ Please send your resume in English
 </details>
 
 <details>
-<summary><strong>Analyst - Financial Planning and Analysis (H/F)</strong> · SHIFT TECHNOLOGY · BOSTON          -MA-, ETATS-UNIS · 4 059,86 €/mois</summary>
+<summary><strong>Analyst - Financial Planning and Analysis (H/F)</strong> · SHIFT TECHNOLOGY · BOSTON          -MA-, ETATS-UNIS · 4 108,83 €/mois</summary>
 
 - **Entreprise :** SHIFT TECHNOLOGY
 - **Lieu :** BOSTON          -MA-, ETATS-UNIS
-- **Indemnité :** 4 059,86 €/mois
+- **Indemnité :** 4 108,83 €/mois
 - **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245608](https://mon-vie-via.businessfrance.fr/offres/245608)
@@ -5046,11 +5046,11 @@ At Shift, we value ownership from day one. In this role, you will:
 </details>
 
 <details>
-<summary><strong>Compliance Officer, Responsable achats, Correspondant protection données personnelles (H/F)</strong> · NAVAL GROUP · KUALA LUMPUR, MALAISIE · 2 082,26 €/mois</summary>
+<summary><strong>Compliance Officer, Responsable achats, Correspondant protection données personnelles (H/F)</strong> · NAVAL GROUP · KUALA LUMPUR, MALAISIE · 2 079,64 €/mois</summary>
 
 - **Entreprise :** NAVAL GROUP
 - **Lieu :** KUALA LUMPUR, MALAISIE
-- **Indemnité :** 2 082,26 €/mois
+- **Indemnité :** 2 079,64 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245600](https://mon-vie-via.businessfrance.fr/offres/245600)
@@ -5151,11 +5151,11 @@ Enfin, dès que nous aurons fait notre choix final, vous en serez informé(e) da
 </details>
 
 <details>
-<summary><strong>FP&A Analyst (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · ILLERTISSEN, ALLEMAGNE · 3 030,57 €/mois</summary>
+<summary><strong>FP&A Analyst (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · ILLERTISSEN, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS
 - **Lieu :** ILLERTISSEN, ALLEMAGNE
-- **Indemnité :** 3 030,57 €/mois
+- **Indemnité :** 3 027,63 €/mois
 - **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 04/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/243858](https://mon-vie-via.businessfrance.fr/offres/243858)
@@ -5207,11 +5207,11 @@ Note:
 </details>
 
 <details>
-<summary><strong>Assistant Plant Controller (H/F)</strong> · FAURECIA INTERIORS HOLDING · DEXTER -MO-, ETATS-UNIS · 3 391,06 €/mois</summary>
+<summary><strong>Assistant Plant Controller (H/F)</strong> · FAURECIA INTERIORS HOLDING · DEXTER -MO-, ETATS-UNIS · 3 430,07 €/mois</summary>
 
 - **Entreprise :** FAURECIA INTERIORS HOLDING
 - **Lieu :** DEXTER -MO-, ETATS-UNIS
-- **Indemnité :** 3 391,06 €/mois
+- **Indemnité :** 3 430,07 €/mois
 - **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
 - **Publiée le :** 03/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244750](https://mon-vie-via.businessfrance.fr/offres/244750)
@@ -5266,11 +5266,11 @@ We are looking for curious, ambitious, and business-minded finance talents who a
 </details>
 
 <details>
-<summary><strong>Comptable Fournisseurs Senior – Environnement International (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 692,70 €/mois</summary>
+<summary><strong>Comptable Fournisseurs Senior – Environnement International (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** SIBELCO FRANCE
 - **Lieu :** BILBAO, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
+- **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
 - **Publiée le :** 02/09/2026
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244190](https://mon-vie-via.businessfrance.fr/offres/244190)
@@ -5401,11 +5401,11 @@ Multilingual preferred : English, Dutch, French
 </details>
 
 <details>
-<summary><strong>Comptable Général Senior – Finance Internationale (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 692,70 €/mois</summary>
+<summary><strong>Comptable Général Senior – Finance Internationale (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** SIBELCO FRANCE
 - **Lieu :** BILBAO, ESPAGNE
-- **Indemnité :** 2 692,70 €/mois
+- **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 12 mois (Du 1 oct. 2026 au 1 oct. 2027)
 - **Publiée le :** 28/07/2026
 - **Compatibilité avec ton profil :** 55 % — Le lieu (Bilbao), le statut VIE et la maîtrise des langues (anglais et espagnol) correspondent très bien aux recherches du candidat. Toutefois, il existe un écart important de métier : l'offre exige une expertise poussée en comptabilité générale française (PCG, écritures d'inventaire, TVA, ERP), alors que Nathan a un profil orienté contrôle de gestion et FP&A.
