@@ -871,37 +871,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9",
-      "200",
-      "259"
+      "[\"8\",\"9\",\"200\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nAlbioma est engagé dans la transition énergétique grâce aux énergies renouvelables (biomasse, solaire et géothermie).\n\nLe Groupe est implanté en Outre-mer français, dans l'Hexagone, à Île Maurice, au Brésil, au Canada, en Australie et en Turquie. Il a développé depuis 30 ans un partenariat unique avec le monde sucrier pour produire de l'énergie renouvelable à partir de la bagasse, résidu fibreux de la canne à sucre.\n\nAlbioma est aussi le premier producteur d'énergie photovoltaïque en Outre-mer où il construit et exploite des projets innovants avec stockage, ainsi que dans l'Hexagone.\n\nDepuis 2021, le Groupe se développe dans la géothermie, avec l'acquisition de deux centrales en Turquie.\n\nPoste et missions :\n\nDans un contexte de fort développement de nos activités au Brésil, vos principales missions au sein de la Direction Financière à São Paulo seront les suivantes :\n\n- Assistance sur les projets de financement (élaboration des modèles avec les équipes projets, présentations aux banques, négociation des documentations de crédit) ;\n\n- Analyse stratégique et financière des projets de M&A ;\n\n- Exercices de modélisation financière et d’évaluation ;\n\n- Elaboration des dossiers d’investissement en contrôle financier ;\n\n- Modélisation et suivi des business plans à moyen terme ;\n\n- Elaboration du reporting mensuel d’activité et analyse des résultats ;\n\n- Suivi des investissements sur ses aspects financiers ;\n\n- Suivi de trésorerie et élaboration de prévisionnels ;\n\n- Analyses financières ponctuelles.",
     "creationDate": "2026-09-04T07:43:53Z",
     "missionStartDate": "2027-01-01T00:00:00",
