@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/10/2026 00:05:52**, 95 offre(s) actuellement en ligne.
+Dernière vérification : **05/10/2026 00:30:04**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5009,43 +5009,6 @@ Please send your resume in English
 </details>
 
 <details>
-<summary><strong>Analyst - Financial Planning and Analysis (H/F)</strong> · SHIFT TECHNOLOGY · BOSTON          -MA-, ETATS-UNIS · 4 108,83 €/mois</summary>
-
-- **Entreprise :** SHIFT TECHNOLOGY
-- **Lieu :** BOSTON          -MA-, ETATS-UNIS
-- **Indemnité :** 4 108,83 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 04/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245608](https://mon-vie-via.businessfrance.fr/offres/245608)
-
-**Description du poste**
-
-We're looking for an FP&A Analyst to join the finance team of a growing SaaS scale-up. Reporting to the Head of Financial Planning and Analysis and working closely with the CFO, you'll get hands-on exposure to the financial operations of a company moving into its next stage of growth. You'll work alongside senior leadership on real finance projects, building the skills to see how financial planning, reporting, and analysis directly shape decision-making in a business that's scaling fast. This role is based in the Boston area, and is hybrid to work directly with the CEO and CFO, who are both based there.
-What Your Impact Looks Like
-At Shift, we value ownership from day one. In this role, you will:
-•	Support the CFO and Head of FP&A on financial analysis, reporting, and ad hoc projects that directly inform business decisions.
-•	Maintain and improve financial models, dashboards, and internal reports, keeping leadership's view of the business accurate and current.
-•	Organize, clean, and analyze large or imperfect datasets in Excel and Google Sheets, using formulas, pivot tables, and lookups to turn raw numbers into usable insight.
-•	Explore how AI tools can complement traditional analysis, testing new approaches to sharpen and speed up financial reporting.
-•	Assist with core FP&A and accounting tasks as needs arise across the finance function.
-•	Prepare clear, executive-ready presentations and reports in Google Slides and Google Docs.
-•	Contribute to process improvements across finance, accounting, and operations, simplifying recurring workflows where you spot the opportunity.
-•	Conduct research and benchmarking to support strategic and operational decisions.
-
-**Profil recherché**
-
-•	Holds an undergraduate degree in Finance, Accounting, Business Analytics, Economics, or Business.
-•	Brings 2–3 years of experience in a similar role within a SaaS or subscription-based technology company.
-•	Highly proficient in Microsoft Excel and Google Sheets, comfortable with formulas, pivot tables, and lookups to organize large datasets, and curious about how AI can complement traditional analysis tools.
-•	Detail-oriented and analytical, committed to accuracy in financial reporting and metrics while keeping sensitive data private and secure.
-•	Growth-minded and a self-starter: curious, resourceful, and willing to take ownership without waiting to be asked.
-•	Collaborative, eager to contribute to the team, ask thoughtful questions, and share knowledge with colleagues across the globe.
-•	Adaptable and impact-driven, comfortable diving into large or imperfect datasets to uncover actionable insight without waiting for perfect direction.
-•	Based in or near Boston and excited to be part of our in-person workplace community, with a genuine interest in SaaS, technology, startups, scale-ups, or subscription business models.
-
-</details>
-
-<details>
 <summary><strong>Compliance Officer, Responsable achats, Correspondant protection données personnelles (H/F)</strong> · NAVAL GROUP · KUALA LUMPUR, MALAISIE · 2 079,64 €/mois</summary>
 
 - **Entreprise :** NAVAL GROUP
@@ -5147,62 +5110,6 @@ Après réception de votre CV, si votre profil retient notre attention, l'un de 
 À l'issue de ce premier échange, vous pourrez être contacté(e) pour passer un entretien (physique ou visioconférence) avec le manager du service concerné et/ou notre HR Business Partner.
 
 Enfin, dès que nous aurons fait notre choix final, vous en serez informé(e) dans les plus brefs délais.
-
-</details>
-
-<details>
-<summary><strong>FP&A Analyst (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · ILLERTISSEN, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS
-- **Lieu :** ILLERTISSEN, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 04/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/243858](https://mon-vie-via.businessfrance.fr/offres/243858)
-
-**Description du poste**
-
-Louis Dreyfus Company is a leading merchant and processor of agricultural goods. Our activities span the entire value chain from farm to fork, across a broad range of business lines, we leverage our global reach and extensive asset network to serve our customers and consumers around the world. Structured as a matrix organization of six geographical regions and ten platforms, Louis Dreyfus Company is active in over 100 countries and employs approximately 19,000 people globally.
-The Illertissen facility will continue its legacy of innovation in food and health ingredients, drive new advancements and deliver high-quality products to meet evolving consumer demand and contribute to LDC's sector growth strategies.
-
-We are seeking a highly motivated individual to join our Finance taskforce in Illertissen, reporting to our Global FP&A Food & Feed Solutions manager. This role will be key in bridging Group requirements to local capabilities, with the aim of enhancing our Food and Health Ingredient financial organization by assessing, analyzing, understanding, explaining, and forecasting business performance. As a pivot between Global and local, this role will also serve projects, answer local Management questions, at the boundaries of Finance, Strategy & Planning.
-
-The role involves supporting the local Finance team in various transversal topics, the local Management and operations in adhoc analysis and coordination with various teams in Germany and in regional headquarters
-
-This position offers the opportunity to learn and grow in a dynamic and motivating environment. The individual will interact daily with various teams at different levels of seniority.
-
-This role is unique as it sits at the intersection of global and local finance as well as local Management, offering direct exposure to senior stakeholders across regions and functions. The successful candidate will contribute to further developing understanding of this newly integrated business.
-
-**Profil recherché**
-
-Education : • Top-class business or engineering school graduate
-• Master's degree in Finance
-• Strong appetite for financial analysis and corporate finance topics
-• Proficiency with excel modeling, power query and power BI, and powerpoint
-Experience : 
-• Internships in corporate finance (audit, transaction services, financial department of a big Corporate)
-• Previous experience in an international and dynamic environment is a plus.
-• Demonstrated ability to work independently and manage projects from end to end.
-
-Knowledge /Technical & Functional skills
-●	Strong appetite for financial analysis and corporate finance topics
-●	Proficiency with excel modeling, PowerPoint, Power Bi. Knowledge of Python is a plus. 
-●	Ability to quickly master Finance IT tools (Onestream, SAP…)
-●	Valid driving licence 
-Soft skills : 
-●	We would like someone willing to learn and grow in a passionate and varied environment
-●	We want someone autonomous, able to take initiatives. Even though you will be managed and helped anytime, high pressure and constant need to prioritize tasks will require those skills.
-●	We would like you to manage complex multiple information and to adapt to multiple stakeholders
-●	We imagine you: proactive, energetic, highly motivated, hard-worker and rigorous
-●	Flexibility in work and multi-tasking abilities
-●	Ability to work autonomously and take ownership in a fast-paced and evolving environment.
-●	Strong sense of initiative and proactive problem-solving mindset.
-●	Ability to prioritize multiple tasks and stakeholders with limited supervision.
-●	Fluent written and verbal English & German skills
-Note: 
-●	Starting date: ASAP.
-●	Potential long-term career opportunities within LDC (Germany, France, Switzerland).
-●	High exposure to local and global management.
 
 </details>
 
