@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/10/2026 09:52:53**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **05/10/2026 10:08:53**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -157,6 +157,42 @@ Soft skills :
 Note: 
 ●	Starting date: ASAP.
 ●	High exposure to local and global management.
+
+</details>
+
+<details>
+<summary><strong>Technicien.ne Comptable (H/F)</strong> · NAOS · MONTREAL -QC, CANADA · 2 649,28 €/mois</summary>
+
+- **Entreprise :** NAOS
+- **Lieu :** MONTREAL -QC, CANADA
+- **Indemnité :** 2 649,28 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 05/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est orienté vers le contrôle de gestion stratégique, l'analyse financière et le pilotage (FP&A), alors que l'offre proposée est un poste technique et opérationnel de comptabilité générale, recouvrement et fiscalité. Bien que l'environnement international et l'anglais correspondent à ses attentes, le contenu du poste est trop éloigné de ses compétences clés en contrôle de gestion.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246659](https://mon-vie-via.businessfrance.fr/offres/246659)
+
+**Description du poste**
+
+Comptabilité Clients, Recouvrement, Trésorerie et Relation Client :
+- Comptabiliser les opérations clients (encaissements, avoirs, ajustements).
+- Assurer le lettrage, la justification et la réconciliation des comptes.
+- Réaliser les rapprochements bancaires, suivre les encaissements, contribuer au reporting Cash In, aux prévisions de trésorerie et à l'analyse des écarts.
+- Assurer la réconciliation régulière des comptes clients avec les différents systèmes, justifier les soldes, suivre les balances âgées, le recouvrement, les litiges, les limites de crédit, le support à la facturation et la relation clients.
+- Relances et Recouvrement : Communiquer avec les clients pour le recouvrement des créances en retard de paiement. Cela peut impliquer l'envoi de relances, de lettres de rappel ou même la coordination avec le service juridique en cas de litiges.
+- Support du comptable fournisseur sur certains process et back-up lors des absences.
+
+Fiscalité US :
+- Assurer le suivi des Sales Tax, la gestion des portails dédiés, la préparation du reporting et des déclarations fiscales.
+
+Audit :
+- Être l'interlocuteur des auditeurs internes et externes, préparer les justificatifs, coordonner les demandes d'audit.
+
+**Profil recherché**
+
+Formation finance/comptabilité et expérience en comptabilité.
+Une connaissance de SAP est un atout.
+Aptitude à travailler en équipe et à collaborer avec différents départements.
+La maîtrise de l'anglais est indispensable.
 
 </details>
 
@@ -2665,74 +2701,6 @@ suffering on quality and accuracy.
 • Possesses a collaborative mindset and is a team player, contributing to team results as needed. 
 • Problem solving skills – can identify, seek root cause for and explain financial issues and variances 
 and their impact on the business’ financial reporting/outcomes.
-
-</details>
-
-<details>
-<summary><strong>Gestionnaire Financier Groupe (H/F)</strong> · ALPINEO CONSULTING LYON · VERNIER, SUISSE · 4 135,75 €/mois</summary>
-
-- **Entreprise :** ALPINEO CONSULTING LYON
-- **Lieu :** VERNIER, SUISSE
-- **Indemnité :** 4 135,75 €/mois
-- **Durée de la mission :** 6 mois (Du 1 déc. 2026 au 1 juin 2027)
-- **Publiée le :** 23/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245944](https://mon-vie-via.businessfrance.fr/offres/245944)
-
-**Description du poste**
-
-Alpineo Consulting est un groupe de conseil IT indépendant d’environ 150 collaborateurs, présent en France (Lyon, Paris), en Suisse (Genève), en Belgique, au Luxembourg, au Portugal et bientôt en Espagne. Nos consultants accompagnent nos clients sur leurs projets IT les plus stratégiques. En pleine croissance, le groupe structure ses fonctions support et crée ce poste clé au sein de l’équipe RH & Finance groupe, basée à Genève. 
-
-Vous en êtes le garant des cycles financiers pour l’ensemble du groupe. Facturation, encaissements, clôtures, reporting, forecast : vous tenez les chiffres qui permettent à la direction de décider et vous êtes son interlocuteur direct au quotidien. 
-C’est un poste de construction avec une vraie autonomie : vous structurez les processus financiers du groupe, vous déployez des automatisations concrètes, y compris avec l’IA.  Possibilité d'évolution à un rôle de responsable financier
-
-Mission 1 : Facturation & encaissement (30 %) 
-Piloter l’intégralité du cycle de facturation, de la validation des temps prestés à l’encaissement 
-Construire et faire respecter un calendrier mensuel de facturation par client, entité et pays 
-Contrôler temps saisis, bons de commande, tarifs et conditions contractuelles avant émission 
-Émettre, déposer et suivre les factures sur les portails clients ; débloquer rapidement les factures rejetées ou contestées 
-Organiser les relances clients et suivre les plans d’action jusqu’à l’encaissement 
-Analyser balance âgée, DSO et prestations non facturées ; alerter la direction et les Business Managers en cas de risque 
-
-Mission 2 : Contrôle de gestion & FP&A (25 %) 
-Produire le reporting financier mensuel du groupe et de ses entités 
-Construire et analyser les P&L par entité, Business Manager, client et mission 
-Analyser et suivre les indicateurs propres au métier du conseil : TJM, taux d’activité, intercontrat, marge par consultant, revenu par ETP, backlog, DSO 
-Préparer budgets, forecasts et analyses de scénarios ; formuler des recommandations concrètes à la direction 
-Construire avec le pôle RH des indicateurs communs : effectifs, masse salariale, coûts chargés, rentabilité par ETP 
-
-Mission 3 : Comptabilité, clôtures & trésorerie (20 %) 
-Construire et maintenir un prévisionnel de trésorerie glissant pour l’ensemble des entités 
-Contrôler les factures fournisseurs et préparer les campagnes de paiement 
-Analyser les rapprochements, provisions, factures à établir et opérations intercompagnies 
-Coordonner les clôtures mensuelles et annuelles selon un calendrier groupe 
-Echanger avec les cabinets comptables externes de chaque pays : objectifs, délais, qualité 
-Produire les fichiers de virement pour la paie des différents pays et faire les virements mensuels en respectant les deadlines. 
-
-Mission 4 : Coordination (15 %)	 
-Faire respecter les calendriers de clôture et de facturation auprès des Business Managers et des équipes support 
-Communiquer de manière claire, fiable et proactive avec la direction 
-Axe transverse : Transformation, automatisation & IA (10 %) 
-Cartographier les processus financiers, identifier les tâches manuelles et les risques d’erreur 
-Déployer des automatisations : contrôles d’anomalies, préparation des relances, rapprochements, reporting 
-Identifier et mettre en œuvre des cas d’usage pertinents de l’IA pour la fonction finance 
-Documenter procédures, responsabilités et règles de validation 
-
-Vos 6 premiers mois 
-Des objectifs clairs, sur lesquels nous nous engageons ensemble : 
-Un calendrier groupe de facturation et de clôture sécurisé et respecté 
-Un volume de prestations non facturées et de factures rejetées en nette baisse 
-Un P&L mensuel exploitable par Business Manager 
-Un forecast de trésorerie et de performance structuré 
-Au moins deux automatisations mesurables déployées
-
-**Profil recherché**
-
-Bac +5 en finance, audit ou contrôle de gestion : Master CCA, DSCG, école de commerce avec spécialisation finance 
-4 à 6 ans d’expérience au total, dont 2 à 3 ans post-diplôme très opérationnels en contrôle de gestion, FP&A ou finance opérationnelle, ou un parcours audit suivi d’une fonction interne 
-Une expérience en ESN, cabinet de conseil, audit ou société de services B2B est un atout majeur : vous comprenez le cycle temps prestés, facturation, encaissement 
-Première expérience réussie d’encadrement (alternant, stagiaire, junior) ou de pilotage de prestataires 
-Excel avancé (Power Query), Power BI ou équivalent, pratique d’un ERP et d’un outil de facturation ou CRM/PSA 
-Anglais professionnel courant (C1) : réunions, relances et reporting ; le français est indispensable
 
 </details>
 
