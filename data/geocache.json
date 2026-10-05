@@ -406,5 +406,10 @@
     "lat": 50.8945555,
     "lon": 4.4365042
   },
-  "entreprise|direction generale du tresor|madrid|espagne": null
+  "entreprise|direction generale du tresor|madrid|espagne": null,
+  "entreprise|totalenergies se|dubai|emirats arabes unis": null,
+  "ville|dubai|emirats arabes unis": {
+    "lat": 25.0742823,
+    "lon": 55.1885624
+  }
 }
