@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/10/2026 09:11:46**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **05/10/2026 09:36:13**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -66,6 +66,97 @@ Un niveau d'anglais C1 minimum est requis. Un niveau de français B2 minimum est
 
 POURQUOI NOUS REJOINDRE 
 La branche Gas, Renewables & Power (GRP) de TotalEnergies regroupe la production d’électricité, son stockage, son négoce ainsi que sa distribution. Elle couvre aussi l’ensemble de la chaîne du gaz et du gaz naturel liquéfié (GNL), et développe les activités biogaz et hydrogène. Avec environ 10 000 collaborateurs dans plus de 50 pays, la branche GRP est un pilier majeur de la transition énergétique de la Compagnie. Son objectif : construire un modèle intégré de l’électricité, notamment renouvelable, tout en garantissant l’approvisionnement en gaz dont le monde a besoin aujourd’hui.
+
+</details>
+
+<details>
+<summary><strong>Junior FP&A ANALYST (H/F)</strong> · UPSA SAS · MILAN, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** UPSA SAS
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 05/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à ses compétences avancées sur Excel, son niveau d'anglais courant et son expérience solide en FP&A et contrôle budgétaire. Le principal écart réside dans l'absence mentionnée de maîtrise de SAP et l'anglais/italien pour l'Italie, bien que son profil international et son adaptabilité compensent largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246625](https://mon-vie-via.businessfrance.fr/offres/246625)
+
+**Description du poste**
+
+In this role, you will be the "right hand" to the Head of Finance and FP&A Manager of SEU & Emerging Markets, specifically focusing on:
+• Reporting & Analysis: Assist in the preparation of monthly, quarterly, and annual management reports, providing insights into financial trends.
+• Planning Cycles: Support the budgeting and forecasting processes across various departments (SC, Marketing, HR, Sales..).
+• Tool Development: Maintain and potentially develop advanced Excel tools to streamline financial reporting and forecasting.
+• Operational Tracking: Monitor KPIs and operational metrics, including specific analysis of Sell-in/Sell-out and Stock levels and Opex and PO monitoring
+• Month-End Support: Support and contribute to month-end closing activities, including the management of accruals across 2 different Zones (SEU & Emerging Markets).
+• Presentation Prep: Assist in drafting "decks" (presentations) for Global Finance and General Management for budget and forecast discussions.
+
+**Profil recherché**
+
+Since this is a VIE position, we are looking for a highly motivated junior professional:
+• Experience: Ideally a recent graduate or someone with initial internship experience in Auditing or Management Control (Controllo di Gestione).
+• Technical Skills:
+o Excel: Advanced proficiency is mandatory, as you will be the primary user and developer of Excel-based tools.
+o SAP: Previous exposure or a "decent" level of familiarity with SAP is highly preferred.
+o Accounting: A solid foundational knowledge of accounting principles.
+• Languages: Excellent command of English is mandatory/essential for communicating with Global Finance and managing international entities. Italian “nice to have”
+• Soft Skills: A proactive mindset, attention to detail, and the ability to work in a fast-paced international environment
+• Resilience: You must possess high resilience and a strong work ethic. The role involves repetitive, high-detail tasks and strict deadlines across multiple countries; we need someone who remains steady and focused under pressure.
+
+</details>
+
+<details>
+<summary><strong>FP&A Analyst (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · ILLERTISSEN, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS
+- **Lieu :** ILLERTISSEN, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 05/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/243858](https://mon-vie-via.businessfrance.fr/offres/243858)
+
+**Description du poste**
+
+Potential long-term career opportunities within LDC (Germany, France, Switzerland).
+Louis Dreyfus Company is a leading merchant and processor of agricultural goods. Our activities span the entire value chain from farm to fork, across a broad range of business lines, we leverage our global reach and extensive asset network to serve our customers and consumers around the world. Structured as a matrix organization of six geographical regions and ten platforms, Louis Dreyfus Company is active in over 100 countries and employs approximately 19,000 people globally.
+The Illertissen facility will continue its legacy of innovation in food and health ingredients, drive new advancements and deliver high-quality products to meet evolving consumer demand and contribute to LDC's sector growth strategies.
+
+We are seeking a highly motivated individual to join our Finance taskforce in Illertissen, reporting to our Global FP&A Food & Feed Solutions manager. This role will be key in bridging Group requirements to local capabilities, with the aim of enhancing our Food and Health Ingredient financial organization by assessing, analyzing, understanding, explaining, and forecasting business performance. As a pivot between Global and local, this role will also serve projects, answer local Management questions, at the boundaries of Finance, Strategy & Planning.
+
+The role involves supporting the local Finance team in various transversal topics, the local Management and operations in adhoc analysis and coordination with various teams in Germany and in regional headquarters
+
+This position offers the opportunity to learn and grow in a dynamic and motivating environment. The individual will interact daily with various teams at different levels of seniority.
+
+This role is unique as it sits at the intersection of global and local finance as well as local Management, offering direct exposure to senior stakeholders across regions and functions. The successful candidate will contribute to further developing understanding of this newly integrated business.
+
+**Profil recherché**
+
+Education : • Top-class business or engineering school graduate
+• Master's degree in Finance
+• Strong appetite for financial analysis and corporate finance topics
+• Proficiency with excel modeling, power query and power BI, and powerpoint
+Experience : 
+• Internships in corporate finance (audit, transaction services, financial department of a big Corporate)
+• Previous experience in an international and dynamic environment is a plus.
+• Demonstrated ability to work independently and manage projects from end to end.
+
+Knowledge /Technical & Functional skills
+●	Strong appetite for financial analysis and corporate finance topics
+●	Proficiency with excel modeling, PowerPoint, Power Bi. Knowledge of Python is a plus. 
+●	Ability to quickly master Finance IT tools (Onestream, SAP…)
+
+Soft skills : 
+●	We would like someone willing to learn and grow in a passionate and varied environment
+●	We want someone autonomous, able to take initiatives. Even though you will be managed and helped anytime, high pressure and constant need to prioritize tasks will require those skills.
+●	We would like you to manage complex multiple information and to adapt to multiple stakeholders
+●	We imagine you: proactive, energetic, highly motivated, hard-worker and rigorous
+●	Flexibility in work and multi-tasking abilities
+●	Ability to work autonomously and take ownership in a fast-paced and evolving environment.
+●	Strong sense of initiative and proactive problem-solving mindset.
+●	Ability to prioritize multiple tasks and stakeholders with limited supervision.
+●	Fluent written and verbal English & German skills
+Note: 
+●	Starting date: ASAP.
+●	High exposure to local and global management.
 
 </details>
 
