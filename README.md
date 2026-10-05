@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/10/2026 11:08:26**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **05/10/2026 11:36:21**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4886,44 +4886,6 @@ Languages:
 - French will be an asset but not mandatory.
 
 To facilitate the examination of your application by our English-speaking managers, thank you for applying in English.
-
-</details>
-
-<details>
-<summary><strong>Installation financial analyst (H/F)</strong> · NEXANS FRANCE · OSLO, NORVEGE · 3 493,11 €/mois</summary>
-
-- **Entreprise :** NEXANS FRANCE
-- **Lieu :** OSLO, NORVEGE
-- **Indemnité :** 3 493,11 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 07/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245646](https://mon-vie-via.businessfrance.fr/offres/245646)
-
-**Description du poste**
-
-As part of the development of its offshore and onshore installation activities, Nexans is recruiting a VIE Financial Analyst to join the Installation Finance team based in Oslo, Norway. The position is set in a context of ongoing process improvement, split 50% replacement and 50% new position, and involves close collaboration with Installation Operations Managers as well as the Controlling Manager and Financial Director.
-
-The main objective of the mission is to analyze function and operations costs, and to provide financial support to the teams during month-end closing.
-
-The volunteer will be in charge of:
-
-Preparing month-end reporting, forecasts and the annual budget
-Analyzing variations between budget, forecast and actuals to anticipate potential risks and opportunities
-Following up capex and function costs
-Contributing and participating in process improvement initiatives
-Providing financial support and advice to operations teams
-
-The position involves key interfaces with Installation operations, the Installation Controlling Manager and Financial Director, the Finance community, as well as Nexans intercompany units based in France and Belgium. The volunteer will report to the IMR and the Installation Finance Director.
-
-Expected results include a consolidated view of Installation function costs (offshore and onshore activities across Norway, France and Belgium), cost control of function costs and vessels, a consolidated cost view and follow-up of Installation operations by project, and support to the pacing process for Installation operations.
-
-For context on scope: the current Installation offshore budget outlook is approximately €1.4Bn (projects starting H2/2026 and FY 2027), FY 2026 H2 sales for Norway and France represent approximately €300M, and Installation headcount is approximately 450.
-
-**Profil recherché**
-
-We are looking for a candidate holding a Bachelor's or Master's degree in finance, administration or a management-related field, with prior experience in financial reporting or financial analysis. The candidate should be eager to work in an international, evolving environment, be proficient in Excel, and familiarity with SAP would be a plus.
-
-We are looking for someone autonomous, with strong communication and cooperation skills, and fully fluent in English, both spoken and written. The candidate's personal values should align with those of Nexans: Pioneer, Dedicated, United.
 
 </details>
 
