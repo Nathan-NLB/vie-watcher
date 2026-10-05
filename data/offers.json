@@ -7598,30 +7598,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "320",
-      "322"
+      "[\"17\",\"320\",\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Service économique régional (SER) de Madrid est un service extérieur du ministère de l’Economie, des Finances et de l’Industrie (Direction générale du Trésor) auprès de l’ambassade de France en Espagne. Il agit pour le compte des autorités françaises. Il a pour missions :\n\n- d’analyser la conjoncture et les politiques publiques en Espagne en matière économique et financière ; \n- d’informer les pouvoirs publics français sur l’environnement économique et financier espagnol, les enjeux et politiques sectoriels (politique économique, budget, transport, énergie, industrie, agriculture, etc.) de manière à assurer un suivi des relations bilatérales franco-espagnoles dans ces différents domaines et intervenir à leur demande ;\n- de représenter la France et défendre ses positions auprès des autorités espagnoles, développer la coopération économique entre les deux pays, préparer les rencontres franco-espagnoles au niveau administratif et politique.\n\nMISSION ET ATTRIBUTIONS DU/DE LA VIA :\n\nEn fonction de son profil et de ses compétences, le ou la titulaire du poste pourra prendre en charge tout ou partie des sujets suivants :\n\n- financement de l’économie (financement des ménages et des entreprises, secteurs bancaire et des assurances, marchés financiers, régulation, stabilité financière, fintech) ;\n- suivi de la principauté d’Andorre (situation économique et financière, accord d’association avec l’UE) ;\n- égalité femmes-hommes dans l’économie (état des lieux et politiques publiques) ;\n- économie territoriale (situation économique et financière des communautés autonomes, inégalités territoriales) ;\n- secteur de la construction, de l’immobilier et marché du logement (politiques publiques du logement, suivi des marchés immobiliers, évaluations des biens immobiliers des organismes publics français en Espagne : valeur locative et de marché)\n\nSur tous ces thèmes il/elle aura la charge de : \n\n•\tréaliser une veille permanente ;\n•\tproduire des analyses à court, moyen ou long terme ;\n•\trépondre aux commandes et interrogations de l’administration centrale en France et d’autres interlocuteurs publics ;\n•\tcontribuer à la qualité du dialogue entre les administrations ;\n•\tappuyer les actions et évènements du SER et de l’ambassade auprès de l’écosystème local (communauté d’affaires, analystes, administration).\n\nPROFIL :\n\nDiplôme de niveau master 2 (bac+5) avec une bonne connaissance de la micro et de la macroéconomie.\n\nCOMPETENCES REQUISES :\n\n- capacités d’analyse et de synthèse ;\n- qualités rédactionnelles ;\n- compétences en analyse quantitative ;\n- fortes qualités relationnelles, de réactivité et d’adaptation ;\n- sens du travail en équipe ;\n- espagnol courant ; anglais professionnel\t\n\nDIVERS :\n\nMadrid n’est pas considérée comme une ville dangereuse. Le principal risque auquel il est possible d’être confronté est le vol.\n\nLogement :  les sites Internet de référence sont Fotocasa et Idealista.  Il est également possible de passer par des agences immobilières (les frais d’agence équivalent en général à 1 mois de loyer). Les contrats de location sont globalement comparables aux contrats français. L’assurance \nd’habitation/locative n’est pas obligatoire en Espagne mais est recommandée\n\nSanté : penser à venir avec la carte européenne d’assurance maladie.",
     "creationDate": "2026-10-02T14:06:02Z",
     "missionStartDate": "2026-12-01T00:00:00",
