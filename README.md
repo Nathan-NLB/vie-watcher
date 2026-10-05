@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/10/2026 10:36:02**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **05/10/2026 10:53:12**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -101,6 +101,89 @@ o Accounting: A solid foundational knowledge of accounting principles.
 • Languages: Excellent command of English is mandatory/essential for communicating with Global Finance and managing international entities. Italian “nice to have”
 • Soft Skills: A proactive mindset, attention to detail, and the ability to work in a fast-paced international environment
 • Resilience: You must possess high resilience and a strong work ethic. The role involves repetitive, high-detail tasks and strict deadlines across multiple countries; we need someone who remains steady and focused under pressure.
+
+</details>
+
+<details>
+<summary><strong>VIE - Chargé(e) de projets RH – (F/H) (H/F)</strong> · CREDIT INDUSTRIEL ET COMMERCIAL · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** CREDIT INDUSTRIEL ET COMMERCIAL
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/10/2026
+- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion et le FP&A financier, alors que l'offre propose un poste de chargé de projets RH. Bien que le niveau d'études (Master en gestion) et les compétences analytiques correspondent, l'absence d'expérience préalable en ressources humaines constitue un écart majeur.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245354](https://mon-vie-via.businessfrance.fr/offres/245354)
+
+**Description du poste**
+
+Présente au Luxembourg depuis plus de 100 ans, la Banque de Luxembourg est un acteur financier incontournable de la place au service de clients privés, d’entreprises luxembourgeoises et de clients professionnels issus des métiers de la gestion d’actifs. 
+Votre mission :
+Dans le cadre de votre mission V.I.E, vous intégrerez une équipe RH dynamique et travaillerez en étroite collaboration avec les HR Business Partners ainsi qu’avec les différents centres d’expertise RH (Talent Acquisition, Data, Learning & Development) afin de participer activement à la mise en œuvre de projets RH transverses.
+
+Vos missions :
+
+•	Participer et contribuer à la coordination et au suivi de la mise en œuvre de projets RH, en concourant à différents chantiers (analyses, communication, suivi des plans d’actions).  
+•	Jouer un rôle actif dans le cadre de la coordination des processus RH transverses impliquant plusieurs équipes et parties prenantes, et ce en étroite collaboration avec le.la Key Process Coordinator.
+•	Participer activement à l’organisation d’événements internes RH (ex. : : Mobility Day, Journée de la Diversité, …)
+•	Être force de proposition quant au développement de la marque employeur en coordonnant et déployant des initiatives ciblées en étroite collaboration avec les équipes Talent Acquisition et Communication. 
+•	Apporter son soutien dans la préparation et le suivi de la gestion prévisionnelle des effectifs. 
+Nous apprécierons chez vous : 
+
+•	Votre diplôme niveau Master en Management, Gestion, Economie/Finance et/ou Droit
+•	Une première expérience dans le domaine de la gestion de projets RH en entreprise, idéalement dans le secteur financier ou en cabinet de conseil.
+•	Votre intérêt pour le monde bancaire 
+•	Votre excellent sens de l’organisation et votre capacité d’adaptation
+•	Vos capacités d’analyse et de synthèse, associées à une réelle proactivité 
+•	Votre aisance relationnelle et capacité à travailler avec des interlocuteurs variés
+•	Votre sens de la discrétion
+•	Votre maitrise d’Excel et Powerpoint
+•	Votre parfaite maîtrise du français et de l’anglais.
+
+Et après votre mission VIE ? 
+
+Au cours de votre contrat VIE : 
+•	Vous développerez vos connaissances des métiers RH dans le milieu bancaire.
+•	Cette expérience vous permettra de gagner en autonomie, de gérer plusieurs missions en parallèle et d’affiner vos capacités d’organisation et de priorisation.
+•	Vous intégrerez une Maison Attentionnée membre d’un groupe international fort, offrant des perspectives de carrière. 
+•	A l’issue de votre VIE, vous serez autonome dans la coordination de projets RH. 
+
+
+
+Durée et disponibilité : 
+
+Le poste est à pourvoir à partir de janvier 2027 pour une période de 12 mois.
+Avant de postuler, vérifiez les conditions d'éligibilité pour une mission VIE au Luxembourg sur mon-vie-via.businessfrance.fr/en/destinations/Luxembourg et déposez votre candidature (CV et lettre de motivation) via le lien disponible sur notre espace carrière.
+
+Ce que vous allez vivre chez Banque de Luxembourg :
+
+La Banque de Luxembourg est une filiale du Crédit Mutuel Alliance Fédérale au travers du Crédit Industriel et Commercial (CIC), qui détient 100 % du capital de la Banque.
+Certifiée B Corp depuis 2023, la Banque de Luxembourg s’engage à renforcer l’impact social, sociétal et environnemental de ses activités. Convaincu·es que notre diversité fait notre force, nous sommes signataires de la Charte de la Diversité, Lëtzebuerg. Attentifs à l'égalité des chances, nous nous engageons à travers des actions concrètes, notamment en faveur des jeunes talents, des femmes, des collaborateurs seniors…
+
+**Profil recherché**
+
+Nous apprécierons chez vous : 
+Votre diplôme niveau Master en Management, Gestion, Economie/Finance et/ou Droit
+Une première expérience dans le domaine de la gestion de projets RH, idéalement dans le secteur financier ou en cabinet de conseil.
+Votre intérêt pour le monde bancaire 
+Votre excellent sens de l’organisation et de la discretion
+Vos capacités d’analyse et de synthèse, associées à une réelle proactivité 
+Votre aisance relationnelle et capacité à travailler avec des interlocuteurs variés
+Votre maitrise d’Excel et Powerpoint
+Votre parfaite maîtrise du français et de l’anglais.
+
+Au cours de votre mission VIE ? 
+Vous développerez vos connaissances des métiers RH dans le milieu bancaire.
+Cette expérience vous permettra de gagner en autonomie, de gérer plusieurs missions en parallèle et d’affiner vos capacités d’organisation et de priorisation.
+Vous intégrerez une Maison Attentionnée membre d’un groupe international fort, offrant des perspectives de carrière. 
+A l’issue de votre VIE, vous serez autonome dans la coordination de projets RH. 
+
+Durée et disponibilité : 
+Le poste est à pourvoir à partir de janvier 2027 pour une période de 12 mois.
+Avant de postuler, vérifiez les conditions d'éligibilité pour une mission VIE au Luxembourg sur mon-vie-via.businessfrance.fr/en/destinations/Luxembourg et déposez votre candidature (CV et lettre de motivation) via le lien disponible sur notre espace carrière.
+
+Ce que vous allez vivre chez Banque de Luxembourg :
+Certifiée B Corp depuis 2023, la Banque de Luxembourg est une filiale du Crédit Mutuel Alliance Fédérale au travers du Crédit Industriel et Commercial (CIC), qui détient 100 % du capital de la Banque.
 
 </details>
 
@@ -5052,90 +5135,6 @@ Fluent in English
 Who are we looking for?
 
 We are looking for curious, ambitious, and business-minded finance talents who are eager to learn, challenge themselves, and make an impact.  If you are passionate about finance, operations, and partnering with the business to drive performance, this program offers an exceptional opportunity to launch your career and become one of our future finance leaders.
-
-</details>
-
-<details>
-<summary><strong>Comptable Fournisseurs Senior – Environnement International (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** SIBELCO FRANCE
-- **Lieu :** BILBAO, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 02/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244190](https://mon-vie-via.businessfrance.fr/offres/244190)
-
-**Description du poste**
-
-Rattaché(e) à la direction financière locale et en lien étroit avec les équipes basées en France, vous serez en charge de piloter et sécuriser le cycle de comptabilité fournisseurs.
-Vos objectifs seront de :
-•	Garantir la fiabilité et la conformité des opérations fournisseurs
-•	Appliquer les normes comptables françaises (PCG) dans un environnement international
-•	Contribuer à la qualité et à la fluidité des clôtures comptables
-•	Participer activement aux projets de transformation et digitalisation
-•	Améliorer les processus existants et les performances opérationnelles
-•	Assurer un rôle de référent technique auprès des équipes locales
- Missions principales
-  Gestion de la comptabilité fournisseurs
-•	Réception, contrôle et comptabilisation des factures fournisseurs (flux nationaux et internationaux)
-•	Vérification de la conformité légale et fiscale des factures (TVA, mentions obligatoires, etc.)
-•	Gestion des litiges en coordination avec les équipes achats et opérationnelles
-•	Suivi des comptes fournisseurs et gestion des relances
-•	Préparation et suivi des paiements
-•	Traitement des avoirs, acomptes et régularisations
-•	Analyse et justification des soldes fournisseurs
-Expertise en comptabilité française
-•	Application du Plan Comptable Général (PCG)
-•	Gestion de la TVA française (déductible, collectée, intracommunautaire)
-•	Suivi des obligations fiscales et déclaratives
-•	Support aux audits internes et externes sur les entités françaises
-•	Élaboration de la documentation comptable et justificatifs
-Participation aux clôtures comptables
-•	Contribution aux clôtures mensuelles, trimestrielles et annuelles
-•	Préparation des écritures d’inventaire (FNP, CCA, etc.)
-•	Réconciliation des comptes fournisseurs
-•	Production des dossiers de révision
-•	Analyse des écarts et participation aux reportings financiers
-Amélioration continue & digitalisation
-Dans une logique d’optimisation des processus, vous participerez à :
-•	L’analyse des processus existants
-•	La mise en place d’outils de dématérialisation (e-invoicing)
-•	L’automatisation des tâches comptables
-•	L’amélioration des délais de traitement et de paiement
-•	La standardisation des pratiques entre pays
-Collaboration internationale
-•	Coordination avec les équipes en France et dans d’autres pays
-•	Communication quotidienne en français et en anglais
-•	Participation à des projets transversaux
-•	Interface avec des fournisseurs internationaux
-Reporting & analyse
-•	Suivi des indicateurs clés (délais de paiement, encours fournisseurs, volume de factures)
-•	Production de tableaux de bord
-•	Analyse des risques et recommandations d’optimisation
-•	Participation à l’amélioration de la performance financière
-
-**Profil recherché**
-
-Diplôme Bac+3 à Bac+5 en comptabilité, finance ou gestion
-(DCG, DSCG, Master CCA, école de commerce…)
-2 à 5 ans d’expérience en comptabilité fournisseurs
-Maîtrise indispensable de la comptabilité française
-Expérience en environnement international appréciée
-Une expérience en cabinet comptable est un plus
-Excellente connaissance du Plan Comptable Général
-Bonne maîtrise de la fiscalité française (TVA notamment)
-Maîtrise d’Excel (TCD, fonctions avancées)
-Expérience sur ERP (SAP, Oracle, Sage ou équivalent)
-Connaissance des outils de dématérialisation des factures
-Français : courant indispensable
-Anglais : niveau professionnel obligatoire
-Espagnol : apprécié
-Rigueur et sens du détail
-Organisation et respect des délais
-Autonomie et proactivité
-Capacité d’analyse
-Bon relationnel et esprit d’équipe
-Adaptabilité interculturelle
 
 </details>
 
