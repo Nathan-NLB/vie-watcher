@@ -490,6 +490,69 @@
     "dateCandidature": null
   },
   {
+    "id": 246598,
+    "organizationName": "CAPTIVEA",
+    "missionTitle": "Coordinateur(trice) administratif et comptable (H/F)",
+    "missionDuration": 24,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "Depuis plus de 20 ans, CAPTIVEA accompagne les entreprises dans leur transformation digitale en plaçant l'humain, la performance et l'innovation au cœur de chaque projet. Grâce à nos expertises en Business Consulting, ERP, Web, Business Intelligence et Intelligence Artificielle, nous aidons nos clients à relever leurs défis opérationnels, à exploiter pleinement leurs données et à accélérer leur croissance. Notre engagement est simple : construire une relation de confiance durable et agir comme un partenaire de proximité, investi dans la réussite de chaque organisation. Portés par l'excellence, l'engagement et le partenariat, nous transformons les défis d'aujourd'hui en opportunités pour demain.",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "18",
+    "effectifInd": "20",
+    "effectifConso": "17",
+    "organizationCountryCounter": "0",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "ANTANANARIVO",
+    "cityNameEn": "ANTANANARIVO",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"8\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "Dans le cadre de son développement international, CAPTIVEA recherche un(e) V.I.E pour accompagner le pilotage administratif, comptable et financier de ses filiales.\r\n\r\nRattaché(e) à la Direction, le/la volontaire interviendra sur les missions suivantes :\r\n\r\n• Superviser et accompagner les responsables administratifs et comptables des différentes filiales du groupe ;\r\n • Contribuer à la qualité et à la fiabilité des opérations comptables ainsi qu'au respect des procédures internes ;\r\n • Participer au suivi budgétaire et à la gestion de la trésorerie des filiales ;\r\n • Contribuer à la production et à l'analyse des reportings financiers ;\r\n • Participer à l'amélioration continue des processus administratifs et comptables ;\r\n • Accompagner les projets d'optimisation des outils de gestion, notamment l'ERP et les solutions d'automatisation ;\r\n • Collaborer avec les équipes internationales dans un environnement multiculturel.\r\n\r\nCette mission offre une forte exposition internationale et l'opportunité de contribuer activement à la structuration et au développement d'un groupe en croissance.",
+    "creationDate": "2026-10-01T12:15:19Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2029-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-06T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-11-05T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "Diplômé(e) d'une formation supérieure en comptabilité, finance, contrôle de gestion ou équivalent, le/la candidat(e) justifie d'une première expérience réussie en environnement administratif, comptable ou financier.\nRigoureux(se), autonome et doté(e) d'un bon esprit d'analyse, il/elle est capable d'évoluer dans un environnement international et multiculturel.\nUne excellente maîtrise du français et un bon niveau d'anglais sont indispensables. La connaissance d'un ERP, idéalement Odoo, constitue un atout.",
+    "countryId": "MG",
+    "countryName": "MADAGASCAR",
+    "countryNameEn": "MADAGASCAR",
+    "reference": "VIE246598",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Madame Félicia RANDRIAMAMPANDRY",
+    "indemnite": 2604.95,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "recruitment@captivea.com",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "https://www.captivea.com/fr_FR/jobs/responsable-de-l-equipe-administrative-et-comptable-714",
+    "dateCandidature": null
+  },
+  {
     "id": 246663,
     "organizationName": "TOTALENERGIES SE",
     "missionTitle": "Analyste en économie et modélisation financière (H/F) – Émirats Arabes Unis, Dubaï",
@@ -815,65 +878,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "201",
-      "204",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"201\",\"204\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "204",
-        "specializationParentId": "19",
-        "specializationLabel": "Commissariat aux comptes",
-        "specializationLabelEn": "Statutory audit"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Forte de ses 50 ans d’existence, BESSAC réalise des travaux de tunnels et microtunnels destinés aux métros, aux ouvrages pour l’eau et l’assainissement ainsi qu’aux galeries techniques (gaz, câbles, chauffage urbain…) et conçoit et fabrique ses propres tunneliers.\nBESSAC est une filiale de SOLETANCHE BACHY et fait partie du Groupe VINCI.\nAvec un chiffre d’affaires de près de 160 millions d'euros, 2/3 de son activité est réalisée à l'international avec des projets en cours notamment en au Canada, en Australie, à Singapour, en Côte d’Ivoire, au Sénégal, en Colombie, au Panama, …\nPlus de 300 collaborateurs directs contribuent aujourd’hui au développement de l’entreprise.\nL’expertise technique est reconnue de tous et fait de BESSAC un cadre idéal pour intégrer le monde des travaux souterrains. Un véritable esprit de famille règne chez BESSAC, porté par des équipes expérimentées, une forte ancienneté et des collaborateurs habitués à travailler ensemble, offrant ainsi un environnement où chacun peut se projeter et évoluer.\n\n\nNous recherchons un(e) contrôleur de gestion pour accompagner l’équipe travaux basée à Lomé au Togo.\nVous serez rattaché(e) hiérarchiquement au chef de projet et le RAF de la zone Afrique basé en Côte d’Ivoire vous accompagnera dans la réussite de vos missions. Vous rejoignez une petite équipe passionnée composée d’ingénieurs travaux et une équipe de production.\n•\tSuivi budgétaire :\n-\tÉlaborer et suivre les budgets prévisionnels du projet\n-\tAnalyser les écarts entre prévisionnel et réalisé.\n-\tMettre en place des tableaux de bord de suivi.\n•\tContrôle des coûts :\n-\tContrôler les dépenses engagées sur le chantier.\n-\tValider les factures fournisseurs et sous-traitants.\n-\tIdentifier les dérives et proposer des actions correctives.\n•\tOptimisation :\n-\tRechercher des leviers d’optimisation des coûts.\n-\tParticiper à l’amélioration des processus de gestion.\n•\tSupport opérationnel :\n-\tCollaborer avec les chefs de chantier, conducteurs de travaux et services achats.\n-\tAssurer le lien entre l’équipe projet et la direction financière de Bessac Afrique\nC’est un programme challengeant qui vous attend mais vous ne serez pas seul. L’équipe en place, le RAF de la zone Afrique ainsi que le service RH France vous accompagneront au besoin pour mener à bien vos différentes missions. C’est l’opportunité idéale pour allier responsabilités et accompagnement !",
     "creationDate": "2026-10-02T10:50:26Z",
     "missionStartDate": "2027-01-01T00:00:00",

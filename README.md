@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **06/10/2026 09:50:46**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **06/10/2026 10:07:54**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -61,6 +61,41 @@ Excellentes compétences en communication et relationnelles.
 Très bonne capacité d'organisation.
 Personne proactive, fiable et capable de gérer plusieurs priorités dans un environnement exigeant.
 Maîtrise courante de l'anglais ; la connaissance de l'allemand constitue un avantage.
+
+</details>
+
+<details>
+<summary><strong>Coordinateur(trice) administratif et comptable (H/F)</strong> · CAPTIVEA · ANTANANARIVO, MADAGASCAR · 2 604,95 €/mois</summary>
+
+- **Entreprise :** CAPTIVEA
+- **Lieu :** ANTANANARIVO, MADAGASCAR
+- **Indemnité :** 2 604,95 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 06/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa formation en contrôle de gestion, son expérience significative en pilotage financier et son niveau d'anglais solide. L'écart principal réside dans la localisation de la mission (Madagascar) alors qu'il visait prioritairement l'Espagne, et l'absence mentionnée de l'ERP Odoo.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246598](https://mon-vie-via.businessfrance.fr/offres/246598)
+
+**Description du poste**
+
+Dans le cadre de son développement international, CAPTIVEA recherche un(e) V.I.E pour accompagner le pilotage administratif, comptable et financier de ses filiales.
+
+Rattaché(e) à la Direction, le/la volontaire interviendra sur les missions suivantes :
+
+• Superviser et accompagner les responsables administratifs et comptables des différentes filiales du groupe ;
+ • Contribuer à la qualité et à la fiabilité des opérations comptables ainsi qu'au respect des procédures internes ;
+ • Participer au suivi budgétaire et à la gestion de la trésorerie des filiales ;
+ • Contribuer à la production et à l'analyse des reportings financiers ;
+ • Participer à l'amélioration continue des processus administratifs et comptables ;
+ • Accompagner les projets d'optimisation des outils de gestion, notamment l'ERP et les solutions d'automatisation ;
+ • Collaborer avec les équipes internationales dans un environnement multiculturel.
+
+Cette mission offre une forte exposition internationale et l'opportunité de contribuer activement à la structuration et au développement d'un groupe en croissance.
+
+**Profil recherché**
+
+Diplômé(e) d'une formation supérieure en comptabilité, finance, contrôle de gestion ou équivalent, le/la candidat(e) justifie d'une première expérience réussie en environnement administratif, comptable ou financier.
+Rigoureux(se), autonome et doté(e) d'un bon esprit d'analyse, il/elle est capable d'évoluer dans un environnement international et multiculturel.
+Une excellente maîtrise du français et un bon niveau d'anglais sont indispensables. La connaissance d'un ERP, idéalement Odoo, constitue un atout.
 
 </details>
 
