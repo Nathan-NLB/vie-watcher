@@ -8,61 +8,11 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **06/10/2026 10:33:58**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **06/10/2026 10:51:52**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
-
-<details>
-<summary><strong>VIE - Risk & Compliance Officer (H/F)</strong> · SOGECAP · HAMBOURG, ALLEMAGNE · 3 027,96 €/mois</summary>
-
-- **Entreprise :** SOGECAP
-- **Lieu :** HAMBOURG, ALLEMAGNE
-- **Indemnité :** 3 027,96 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 06/10/2026
-- **Compatibilité avec ton profil :** 55 % — Le candidat possède une formation en gestion et une bonne expérience en contrôle budgétaire, mais le poste proposé est orienté vers le risque, la conformité et le contrôle interne en Allemagne, un domaine assez éloigné de sa spécialité en FP&A et de son souhait pour l'Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246720](https://mon-vie-via.businessfrance.fr/offres/246720)
-
-**Description du poste**
-
-Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.
-
-En étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.
-
-Le/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.
-
-Vous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :
-Coordonner l'amélioration continue du dispositif de contrôle interne.
-Participer au processus d'identification et d'évaluation des risques.
-Maintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.
-Coordonner les campagnes de contrôle trimestrielles.
-Accompagner les collaborateurs dans la réalisation des contrôles.
-Assurer le suivi des plans d'action et des mesures correctrices.
-Être l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.
-Contribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.
-
-Vous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :
-
-La sécurité financière et le traitement des alertes relatives aux sanctions internationales.
-Les procédures d'évaluation des partenaires (Know Your Partner - KYP).
-La gouvernance des produits (Product Governance).
-
-**Profil recherché**
-
-Nous recherchons un(e) candidat(e) présentant le profil suivant :
-
-Diplôme en administration des affaires, économie, finance, gestion des risques, droit ou dans un domaine connexe.
-Une première expérience dans les services financiers, le contrôle interne et/ou la gestion des risques, acquise dans le cadre d'un premier emploi ou de stages, constitue un atout.
-Esprit d'analyse et approche méthodique du travail.
-Grande rigueur et sens du détail.
-Excellentes compétences en communication et relationnelles.
-Très bonne capacité d'organisation.
-Personne proactive, fiable et capable de gérer plusieurs priorités dans un environnement exigeant.
-Maîtrise courante de l'anglais ; la connaissance de l'allemand constitue un avantage.
-
-</details>
 
 <details>
 <summary><strong>Coordinateur(trice) administratif et comptable (H/F)</strong> · CAPTIVEA · ANTANANARIVO, MADAGASCAR · 2 604,95 €/mois</summary>
