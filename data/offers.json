@@ -799,7 +799,7 @@
     "effectif": 0,
     "effectifFiscal": "0",
     "effectifInd": "86",
-    "effectifConso": "174",
+    "effectifConso": "200",
     "organizationCountryCounter": "0",
     "organizationExpertise": null,
     "cityAffectationId": 0,
@@ -808,16 +808,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Potential long-term career opportunities within LDC (Germany, France, Switzerland).\r\nLouis Dreyfus Company is a leading merchant and processor of agricultural goods. Our activities span the entire value chain from farm to fork, across a broad range of business lines, we leverage our global reach and extensive asset network to serve our customers and consumers around the world. Structured as a matrix organization of six geographical regions and ten platforms, Louis Dreyfus Company is active in over 100 countries and employs approximately 19,000 people globally.\r\nThe Illertissen facility will continue its legacy of innovation in food and health ingredients, drive new advancements and deliver high-quality products to meet evolving consumer demand and contribute to LDC's sector growth strategies.\r\n\r\nWe are seeking a highly motivated individual to join our Finance taskforce in Illertissen, reporting to our Global FP&A Food & Feed Solutions manager. This role will be key in bridging Group requirements to local capabilities, with the aim of enhancing our Food and Health Ingredient financial organization by assessing, analyzing, understanding, explaining, and forecasting business performance. As a pivot between Global and local, this role will also serve projects, answer local Management questions, at the boundaries of Finance, Strategy & Planning.\r\n\r\nThe role involves supporting the local Finance team in various transversal topics, the local Management and operations in adhoc analysis and coordination with various teams in Germany and in regional headquarters\r\n\r\nThis position offers the opportunity to learn and grow in a dynamic and motivating environment. The individual will interact daily with various teams at different levels of seniority.\r\n\r\nThis role is unique as it sits at the intersection of global and local finance as well as local Management, offering direct exposure to senior stakeholders across regions and functions. The successful candidate will contribute to further developing understanding of this newly integrated business.",
     "creationDate": "2026-06-16T10:04:59Z",
     "missionStartDate": "2026-12-01T00:00:00",
