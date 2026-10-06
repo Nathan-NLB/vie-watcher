@@ -31,72 +31,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "26",
-      "27",
-      "138",
-      "139",
-      "186",
-      "195",
-      "206",
-      "244"
+      "[\"8\",\"26\",\"27\",\"138\",\"139\",\"186\",\"195\",\"206\",\"244\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "26",
-        "specializationParentId": "216",
-        "specializationLabel": "Communication",
-        "specializationLabelEn": "Communication"
-      },
-      {
-        "specializationId": "27",
-        "specializationParentId": "210",
-        "specializationLabel": "Graphisme - Imprimerie",
-        "specializationLabelEn": "Graphic design- Printing Industries"
-      },
-      {
-        "specializationId": "138",
-        "specializationParentId": "212",
-        "specializationLabel": "Intelligence artificielle",
-        "specializationLabelEn": "Artificial Intelligence"
-      },
-      {
-        "specializationId": "139",
-        "specializationParentId": "210",
-        "specializationLabel": "Multimédia / Digital / Numérique",
-        "specializationLabelEn": "Multimedia / Digital"
-      },
-      {
-        "specializationId": "186",
-        "specializationParentId": "36",
-        "specializationLabel": "Métiers du Livre et de l'Edition",
-        "specializationLabelEn": "Book and Publishing Sector"
-      },
-      {
-        "specializationId": "195",
-        "specializationParentId": "193",
-        "specializationLabel": "Developpement commercial, prospection",
-        "specializationLabelEn": "Business Development"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À propos de Dashbook :<br />Dashbook est LA Maison d'Edition des Créateurs de Contenu. Notre Start-Up révolutionne le secteur de l'édition en offrant aux auteurs, blogueurs, podcasters, et autres créateurs une plateforme moderne et accessible pour créer, publier, promouvoir, et monétiser leurs livres. Grâce à Internet et aux Nouvelles Technologies, nous aidons nos créateurs à atteindre une audience plus large et à vivre de leur passion. La société en pleine expansion développe ses équipes sales & marketing et IT. <br /><br /><br /><br />Description du poste :<br />Dans le cadre de notre croissance rapide, nous recherchons un Bras Droit du CEO talentueux et proactif pour rejoindre notre équipe. Ce rôle stratégique consiste à travailler en étroite collaboration avec la Direction sur une variété de projets touchant à la fois à la stratégie d'entreprise, au développement des affaires, et aux opérations. Vos missions principales seront :\n- Support stratégique : Collaborer avec le CEO pour définir, planifier, et mettre en œuvre la stratégie globale de l'entreprise, en particulier dans le cadre de notre expansion et de l'innovation dans le secteur de l'édition.<br />- Gestion de projets passionnants : Prendre en charge des projets de A à Z, tels que l'ouverture d'une librairie physique ou digitale, ou l'organisation d'un salon littéraire, en garantissant leur réussite du début à la fin. Participer aux recrutements de nouvelles équipes, <br />- Analyse et reporting : Élaborer des analyses de marché, des rapports de performance, et des tableaux de bord pour éclairer les décisions stratégiques.<br />- Coordination et communication : Assurer une communication fluide entre les équipes internes et avec les partenaires externes (créateurs de contenu, partenaires stratégiques, investisseurs).<br />- Optimisation des processus : Identifier des opportunités d'amélioration des processus internes pour maximiser l'efficacité opérationnelle.<br />- Veille concurrentielle et innovation : Surveiller les tendances du secteur et les innovations concurrentielles pour proposer des idées nouvelles et audacieuses.<br /><br /><br />",
     "creationDate": "2024-09-05T08:46:31Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -427,6 +364,69 @@
     "dateCandidature": null
   },
   {
+    "id": 246720,
+    "organizationName": "SOGECAP",
+    "missionTitle": "V.I.E - Chargé(e) de conformité (H/F)",
+    "missionDuration": 12,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "0",
+    "effectifInd": "2000",
+    "effectifConso": "2000",
+    "organizationCountryCounter": "0",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "HAMBOURG",
+    "cityNameEn": "HAMBOURG",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"326\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.\r\n\r\nEn étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.\r\n\r\nLe/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.\r\n\r\nVous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :\r\nCoordonner l'amélioration continue du dispositif de contrôle interne.\r\nParticiper au processus d'identification et d'évaluation des risques.\r\nMaintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.\r\nCoordonner les campagnes de contrôle trimestrielles.\r\nAccompagner les collaborateurs dans la réalisation des contrôles.\r\nAssurer le suivi des plans d'action et des mesures correctrices.\r\nÊtre l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.\r\nContribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.\r\n\r\nVous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :\r\n\r\nLa sécurité financière et le traitement des alertes relatives aux sanctions internationales.\r\nLes procédures d'évaluation des partenaires (Know Your Partner - KYP).\r\nLa gouvernance des produits (Product Governance).",
+    "creationDate": "2026-10-05T15:26:02Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-06T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-11-05T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "Nous recherchons un(e) candidat(e) présentant le profil suivant :\r\n\r\nDiplôme en administration des affaires, économie, finance, gestion des risques, droit ou dans un domaine connexe.\r\nUne première expérience dans les services financiers, le contrôle interne et/ou la gestion des risques, acquise dans le cadre d'un premier emploi ou de stages, constitue un atout.\r\nEsprit d'analyse et approche méthodique du travail.\r\nGrande rigueur et sens du détail.\r\nExcellentes compétences en communication et relationnelles.\r\nTrès bonne capacité d'organisation.\r\nPersonne proactive, fiable et capable de gérer plusieurs priorités dans un environnement exigeant.\r\nMaîtrise courante de l'anglais ; la connaissance de l'allemand constitue un avantage.",
+    "countryId": "DE",
+    "countryName": "ALLEMAGNE",
+    "countryNameEn": "GERMANY",
+    "reference": "VIE246720",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Madame TASSILI MESBAH",
+    "indemnite": 3027.96,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "tassili.mesbah@socgen.com",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "",
+    "dateCandidature": null
+  },
+  {
     "id": 246598,
     "organizationName": "CAPTIVEA",
     "missionTitle": "Coordinateur(trice) administratif et comptable (H/F)",
@@ -487,6 +487,69 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "https://www.captivea.com/fr_FR/jobs/responsable-de-l-equipe-administrative-et-comptable-714",
+    "dateCandidature": null
+  },
+  {
+    "id": 246564,
+    "organizationName": "ARKEA PROCAPITAL SERVICES",
+    "missionTitle": "Chargé(e) Back Office - Réconciliation (H/F)",
+    "missionDuration": 12,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "150",
+    "effectifInd": "39",
+    "effectifConso": "0",
+    "organizationCountryCounter": "0",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "BRUXELLES",
+    "cityNameEn": "BRUXELLES",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"202\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers. Dans le cadre de son développement, ProCapital recherche : \n\nUn(e) Gestionnaire Back Office « Réconciliation »\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Le contrôle des opérations titres et cash dans leur ensemble (corporate actions, trades sur actions, trades sur options, dépôt cash etc.)\n- Le contrôle des positions titres (détenues chez différents dépositaires)\n- La production de plusieurs rapports à destination des équipes du Back-office et du Management\n- La détection et le suivi des opérations à risque\n- La rédaction et mise à jour de procédures opérationnelles et processus internes\n- L’identification des incidents et éventuels dysfonctionnements, ainsi que la remontée des alertes\n- Le traitement des demandes d’information des clients et du service interne relation clientèle\n- L’évolution des processus et l’amélioration des systèmes;",
+    "creationDate": "2026-09-30T13:58:43Z",
+    "missionStartDate": "2026-12-01T00:00:00",
+    "missionEndDate": "2027-12-01T00:00:00",
+    "startBroadcastDate": "2026-10-06T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-11-05T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "De formation Bac +4/5, type Ecole de Commerce, de Gestion ou équivalent universitaire Master 1 ou 2 avec option finance de marché, vous disposez : \n-\tD’une excellente capacité analytique et organisationnelle ;\n-\tD’un sens des priorités \n-\tD’une maîtrise des logiciels Microsoft Office\n-\tD’une maîtrise rédactionnelle en anglais et en français \n-\tD’une appétence pour les marchés financiers  \nVotre rigueur, votre réactivité, votre capacité d’analyse, votre autonomie ainsi que votre sens relationnel vous permettront d’évoluer dans un environnement réactif et exigeant.",
+    "countryId": "BE",
+    "countryName": "BELGIQUE",
+    "countryNameEn": "BELGIUM",
+    "reference": "VIE246564",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Madame Laura GARNIER",
+    "indemnite": 2978.53,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "candidat@procapital.fr",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "ywx713wgtc",
+    "contactURL": "",
     "dateCandidature": null
   },
   {
@@ -1004,16 +1067,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "325"
+      "[\"325\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "325",
-        "specializationParentId": "19",
-        "specializationLabel": "Risk Management",
-        "specializationLabelEn": "Risk Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The VIE supports the Senior IT Risk / IAM Manager in the operational implementation and monitoring of all defined topics and ensures that all regulatory and internal requirements relating to IT risk management, segregation of duties, and access management are fulfilled in an audit proof manner. The role includes steering IAM processes and providing advisory support to the business units.\n\nRESPONSIBILITIES  : \n\n•\tAnalysis and support in defining requirements for Segregation of Duties (SoD).\n•\tIdentification, assessment, reporting, and monitoring of IT risks as well as risk‑mitigating measures in coordination with the relevant business units (2nd Line of Defence) and the Senior IT Risk / IAM Manager.\n•\tOperational monitoring of early warning indicators, including documentation and preparation of input for escalations (in particular GPS514). Process-related integration into the alert processes of upstream functions.\n•\tSupport in the preparation of regular reports, including the compilation of control and risk evidence for the relevant bodies and committees of the bank and the group (e.g., SSC, ICC).\n•\tActive and hands-on advisory support to the business units and quality assurance of 1.1 and 2.1 controls within the Internal Control System (ICS).\n•\tExecution of control activities in accordance with the ICS (2.2 controls).\n•\tSupport in the monitoring and review of outsourcing requirements from an IT risk perspective.\n•\tSupport in the creation and maintenance of the Segregation of Duties matrix and monitoring of its implementation.\n•\tExecution of recertification campaigns under the functional guidance of the Senior IT Risk / IAM Manager.\n•\tSupport in the development and maintenance of authorization models and execution of role modeling campaigns.",
     "creationDate": "2026-05-12T14:27:31Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1074,16 +1130,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Comptabilité Clients, Recouvrement, Trésorerie et Relation Client :\n- Comptabiliser les opérations clients (encaissements, avoirs, ajustements).\n- Assurer le lettrage, la justification et la réconciliation des comptes.\n- Réaliser les rapprochements bancaires, suivre les encaissements, contribuer au reporting Cash In, aux prévisions de trésorerie et à l'analyse des écarts.\n- Assurer la réconciliation régulière des comptes clients avec les différents systèmes, justifier les soldes, suivre les balances âgées, le recouvrement, les litiges, les limites de crédit, le support à la facturation et la relation clients.\n- Relances et Recouvrement : Communiquer avec les clients pour le recouvrement des créances en retard de paiement. Cela peut impliquer l'envoi de relances, de lettres de rappel ou même la coordination avec le service juridique en cas de litiges.\n- Support du comptable fournisseur sur certains process et back-up lors des absences.\n\nFiscalité US :\n- Assurer le suivi des Sales Tax, la gestion des portails dédiés, la préparation du reporting et des déclarations fiscales.\n\nAudit :\n- Être l'interlocuteur des auditeurs internes et externes, préparer les justificatifs, coordonner les demandes d'audit.",
     "creationDate": "2026-10-02T18:02:28Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1207,16 +1256,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "About CAPZA\r\n\r\nCAPZA(1) is an established European private investment platform focused on small and mid-cap companies, which is part of BNP Paribas Asset Management Alts, a leading European alternative investment platform with over €300bn in assets under management (2).\r\n\r\nWith €10.5 billion of assets(3), CAPZA puts its experience and passion for investing at the service of investors in Europe and worldwide with its platform of 6 complementary areas of expertise: Growth Tech, Flex Equity, Flex Equity Mid-Market, Transition(4), Private Debt et Artemid(5).\r\n\r\nCAPZA offers financing solutions to small and mid-cap companies at every stage of their development. Its unique platform allows CAPZA to support companies over the long term by providing them with custom made financing solutions (majority equity, minority equity, subordinated debt, senior debt, etc.). CAPZA is a generalist but has built up strong expertise in supporting companies in the health, technology and services sectors.\r\n\r\nCAPZA Group has more than 120 employees based in Paris, Munich, Madrid, Milan and Amsterdam, and is part of AXA IM Alts, one of the world's leading alternative investment firms with €190 billion in assets under management5.\r\n\r\nMore information: www.capza.co\r\n\r\n CAPZA in figures\r\n\r\n- 266 SMEs and mid-sized companies supported since 2004\r\n- Over 120 employees based in Paris (our headquarters), Munich, Madrid, Milan, and Amsterdam\r\n- €10.5 billion in assets under management\r\n\r\nWould you like to join a mid-sized company where you can truly make an impact on its development? We are looking for talented and motivated candidates to support the growth of our platform. Team spirit is deeply rooted in CAPZA’s entrepreneurial culture. Our employees are curious, pragmatic, and humble. They are passionate about their work and place excellence at the heart of everything they do.\r\n\r\n📌 CAPZA is committed to equal opportunity and positive action in employment. We are dedicated to recruiting talented and diverse individuals and to fostering an inclusive and collaborative culture, as we believe that multiple perspectives lead to better-informed decisions. We welcome candidates with diverse life experiences who are eager to bring fresh ideas and recognized expertise in their field.\r\n\r\n\r\n(1)CAPZA is the commercial name of Atalante SAS, portfolio management company approved on 11/29/2014 by the « Autorité des Marchés Financiers » under GP-04000065.(2)Source: BNP Paribas AM Alts as of 30/09/2025.(3)Including assets advised by Artemid SAS. Based on valuations as of 30/09/2025 and including funds raised until December 2026.(4) The funds of the CAPZA Transition range are managed by the asset management company CAPZA, and advised by CAPZA Transition SAS which has financial investment advisor status (CIF in France), is registered under the Orias under the number 18001601 since the 03/23/2018.(5) The funds of the Artemid range are managed by the asset management company CAPZA and advised by Artemid SAS, which is a subsidiary of CAPZA and has financial investment advisor status (CIF in France). Artemid SAS is registered by the Orias under the number 14003497 since the 05/28/2014.\r\n\r\nAbout CAPZA Private Debt\r\n\r\nCAPZA is a leading private debt investor with over 20 years of experience, actively investing across five core regions: France, Germany, Benelux, Spain, and Italy. With more than €5 billion in commitments and over 340 investments since 2004, CAPZA has built an exceptional long-term track record and is currently raising its seventh private debt fund. Through our regional offices, we maintain strong local relationships and networks to identify the most attractive investments opportunities, ranging from Unitranches and junior debt to equity-linked instruments. CAPZA is seeking a VIE in Munich for its Private Debt strategy to support the analysis and execution of investments across the DACH region.\r\n\r\nKey Responsibilities\r\n\r\nOur VIEs become fully integrated members of the investment team to take the following responsibilities:\r\n-  Supporting the analysis and execution of potential private debt investments in mid-cap companies across the DACH region.\r\n-  Screening investment opportunities by conducting detailed financial and commercial analysis for credit assessments which form the basis for decisions on new investments.\r\n-  Preparing and reviewing LBO models to determine adequate debt capacities and structures.\r\n-  Contributing to drafting investment memoranda on new opportunities for the Investment Committee.\r\n-  Supporting the monitoring and reporting of existing investments in the portfolio.\r\n-  Creating high-quality presentations and pitch materials for internal and external stakeholders.\r\n-  Contributing to internal projects and related tasks to drive growth, efficiencies, and collaboration.",
     "creationDate": "2026-09-28T14:45:27Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -1753,16 +1795,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "1- Mission comptable\r\n\r\nParticipation à la supervision de la comptabilité pour une société française et une société espagnole sur Pennylane.\r\n\r\nInterlocuteur de l’expert comptable français et espagnol et aide à  l’établissement du bilan en lien avec les cabinets d’expert comptable\r\n\r\n\r\n2- Mission de contrôle de gestion\r\n\r\nParticipation l'établissement d’un P&L mensuel  avec analyse des évolutions et du budget annuel avec suivi des écarts durant l’année.\r\n\r\nMise en place d’un suivi consolidé de la trésorerie\r\n\r\nPréparation de la facturation interne entre les différentes entités du groupe\r\n\r\n\r\n3- Mission opérationnelle et administrative\r\n\r\nRevue et validation des factures fournisseurs \r\n\r\nSuivi de l’encaissement des clients via les plateformes de paiements du site \r\n\r\nSuivi des avoirs, paiements divers, relances clients débiteurs avec le département des ventes\r\n\r\nAide à la personne en charge des paiement des fournisseurs et propriétaires\r\n\r\nCoordination des flux financiers dans les autres entités du groupes sous la responsabilité du CEO\r\n\r\nAide à la gestion de nouveaux projets pour l’automatisation et l’amélioration du CRM et mise en place de process IA dans le département Finance\r\n\r\nAide à la gestion de certaines tâches administratives et liées aux ressources humaines.",
     "creationDate": "2026-09-29T11:10:05Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2026,107 +2061,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "21",
-      "49",
-      "86",
-      "125",
-      "144",
-      "150",
-      "155",
-      "208",
-      "209",
-      "244",
-      "256",
-      "262",
-      "264"
+      "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "49",
-        "specializationParentId": "239",
-        "specializationLabel": "Sciences",
-        "specializationLabelEn": "Sciences"
-      },
-      {
-        "specializationId": "86",
-        "specializationParentId": "81",
-        "specializationLabel": "Pharmacie",
-        "specializationLabelEn": "Pharmaceutics"
-      },
-      {
-        "specializationId": "125",
-        "specializationParentId": "81",
-        "specializationLabel": "Génie Biomédical",
-        "specializationLabelEn": "Biomedical Engineering"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "150",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de la production",
-        "specializationLabelEn": "Production Management"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "209",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité systèmes",
-        "specializationLabelEn": "Quality systems"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "256",
-        "specializationParentId": "255",
-        "specializationLabel": "Biochimie",
-        "specializationLabelEn": "Biochemestry"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Avertim Netherlands is currently looking for Quality Engineers able to assist in the continuous expansion of Avertim’s consulting activities in Life Sciences. Located in Amsterdam-Zuid, Avertim Netherlands is a trusted partner by the largest players in the Life Sciences sector.\n\n\n\nAs a Quality Engineer, you will play a key role in ensuring GMP compliance by managing and resolving Non-Conformities (NCs) and driving continuous improvement in quality processes. You will collaborate closely with cross-functional teams to investigate deviations, implement corrective and preventive actions (CAPAs), and uphold regulatory standards.\n\n\n\nKey responsibilities:\n\nLead the investigation, documentation, and resolution of NCs, ensuring timely and effective CAPA implementation, and manage change controls.\nPerform root cause analyses and risk assessments to prevent recurrence of deviations.\nEnsure compliance with GMP, FDA, EMA, and other regulatory requirements in all quality-related activities.\nCollaborate with production, quality control, and regulatory teams to drive improvements in GMP processes.\nConduct internal audits and support external regulatory inspections.\nMaintain and improve SOPs, batch records, and other GMP documentation.\nProvide GMP training and guidance to operational teams to enhance compliance awareness.\n\n\nYour background:\n\nA Master’s Degree in Engineering, Pharmacy, Life Sciences or related field\n2 years of experience in Pharmaceuticals, Biotech or Medical Devices.\nHands-on experience with NC management, CAPA implementation, change controls, and deviation investigations.\nExperience in cell & gene therapy is a plus.\nPlanning & organization – Planning & organization plans and organizes own work(load) in an effective way by setting priorities and meeting deadlines;\nCommunicating & influencing – Communicates with clarity, speaks and writes clearly and to the point; active listener;\nProficiency in Lean and Six Sigma methodologies or Project Management\nFluent in English\n\n\nAs an Avertimer, you will get the opportunity to:\n\nImmerse yourself into a young, vibrant, fast-growing team at our modern office, located in the Amsterdam business district, de Zuidas\nEnjoy our events, like team activities and afterworks.\nDevelop yourself in a place where individuals and ideas matter, in line with our company values:\n\n\nBe yourself\n\nTrust, ownership and respect\n\nListen and act\n\n\n\nWith offices in Brussels, Paris, Frankfurt and Amsterdam you will benefit from our international community. On top of that, we also support the opportunity to perform projects at multiple locations.\nAccess various learning and development opportunities and an interesting career track.\n\n\nAbout Avertim:\n\nAvertim is a uniquely positioned Management Consulting Group that bridges the gap between Strategy and Operations. Our mission is to translate the strategy of our clients into actionable projects and enable the alignment between Business, Technology and Management. Founded in 2007, and headquartered on Brussels’ famous Louise Avenue, Avertim has grown into a European consultancy group with more than 300 consultants and offices in Belgium, France, Germany, and the Netherlands.\n\n\n\n\n\nLooking for a challenging and exciting new step in your career at a recognised international consultancy firm that works with the top players in the Life Sciences sector?\n\nApply now!\n\n\n\n\n\nAt Avertim, we value talent and mindset. No difference will be made during the recruitment process and applicants will receive consideration for employment whatever their gender, marital status, religion, age, color, sexual orientation, nationality or disability, …",
     "creationDate": "2026-05-12T14:43:27Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -4315,51 +4252,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:43:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -4420,51 +4315,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A a member of the financial team, you will participe in the following main focus areas (not in order of priority):\n· Supporting & training different team of newly joined business to scale up analytical skills,\n· Sales analysis zooming in on Price, vol mix,\n· Material Price analysis, control, productivity follow up,\n· Gross Margin analysis,\n· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,\n· Cost management and Control, SGA analysis,\n· Develop Power BI tools and build digital dashboards,\n· Drive Process improvements.",
     "creationDate": "2026-09-21T20:35:16Z",
     "missionStartDate": "2027-01-01T00:00:00",
