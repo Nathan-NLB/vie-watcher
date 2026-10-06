@@ -2033,23 +2033,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259",
-      "318"
+      "[\"259\",\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Bulgari is one of the most prestigious brands and global players in the luxury market.\nWe design, produce, distribute, and sell high-end jewels, watches, perfumes, and accessories through a network of over 250 owned stores in the most exclusive shopping areas in the world, selected distributors, and more than 10.000 exclusive perfumeries.\n\nQuality and excellence are the basis of our culture and we reflect the same commitment within the working environment to achieve an organization aimed at the full satisfaction of the customer and our employees.\nExcellence for Bulgari means the perfect balance between top quality products and impeccable services worldwide.\n\nBecause of the strong growth across our North America business, Bulgari is looking for a junior FP&A Analyst to support the FP&A Senior Manager.\n\nMission: \n-\tAssist with the preparation of annual budgets and forecasts for North America’s operations, including affiliated companies in the US and Canada. This includes:\no\tPreparation of financial models and forecasts in Excel to drive conversation and guide the company in achieving its strategic goals. \no\tDevelop detailed analyses of monthly, quarterly and yearly Profit & Loss in areas such as Net Sales, Operating expenses, Marketing Expenses, and T&E expenses.\n\n-\tActively engage and drive Monthly Close Review Process:\no\tIdentify and analyze major variances in Selling, Marketing, and G&A expenses categories by Department against budget and prior year, provide correcting entries to accounting as necessary\no\tProvide analysis and reporting to be shared to commercial teams and support functions\no\tReview Capital Expenditures by department and business channel and track ongoing spending against annual budget and forecasts\n\n-\tSupport FP&A Senior Manager and CFO in ad-hoc reporting and analysis, for commercial purposes (e.g. daily sales, margin analysis, traffic, conversion, discounts analysis, etc.)\n-\tParticipate and contribute on FP&A projects and initiatives",
     "creationDate": "2026-09-29T20:52:47Z",
     "missionStartDate": "2027-03-01T00:00:00",
