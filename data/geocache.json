@@ -413,5 +413,10 @@
     "lon": 55.1885624
   },
   "entreprise|upsa sas|milan|italie": null,
-  "entreprise|credit industriel et commercial|luxembourg|luxembourg": null
+  "entreprise|credit industriel et commercial|luxembourg|luxembourg": null,
+  "entreprise|sogecap|hambourg|allemagne": null,
+  "ville|hambourg|allemagne": {
+    "lat": 53.5501721,
+    "lon": 10.0013165
+  }
 }
