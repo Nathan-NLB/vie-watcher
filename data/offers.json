@@ -1452,23 +1452,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9"
+      "[\"8\",\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Nous sommes actuellement à la recherche d’un(e) candidat(e) pour le poste de Contrôleur Financier pour l’Afrique de l’Ouest (Côte d’Ivoire, Sénégal, …), basé à Abidjan, en Côte d’Ivoire, sous l’autorité VP Afrique et sous la supervision du Contrôleur Financier Groupe\r\n\r\nResponsabilités et principales missions\r\n\r\n Ce poste nécessitera des déplacements sur le territoire de la Côte d’Ivoire mais également dans les pays d’Afrique de l’Ouest dans lesquels nous sommes actuellement implantés et dans lesquels nous opérons. Le candidat retenu jouera un rôle essentiel dans la performance de l’entreprise en participant à la gestion prudente de toutes les activités financières et de contrôle pour la région. Cela comprend également la participation à la supervision et à la gestion de tous les aspects de la comptabilité d’entreprise, du contrôle interne et des rapports financiers pour la région.\r\n\r\nLes principales missions de ce poste sont les suivantes : \r\n\r\n•\tParticiper à la coordination de l’équipe financière et comptable (environ 5 personnes sur 3 pays),\r\n•\tGarantir la fiabilité de l’information financière, des processus de clôture et la qualité des comptes\r\n•\tAider au respect des obligations fiscales et réglementaires (dépôt des comptes, déclarations fiscales, TVA, gestion des contrôles fiscaux),\r\n•\tAnalyse, mesure et interprétation de toutes les données financières,\r\n•\tUtiliser l’expertise financière, budgétaire et comptable pour évaluer la rentabilité des projets et s’assurer qu’ils respectent les limites budgétisées,\r\n•\tFournir des conseils adéquats et des recommandations pour la prise de décisions (prévisions, budget, capex, etc.),\r\n•\tAssister le VP Afrique dans la préparation des reportings et analyses mensuelles,\r\n•\tParticiper à la mise en œuvre des procédures adéquates et assister le contrôleur financier Groupe pour assurer  la conformité du processus de contrôle interne conformément aux politiques de la Société. Contrôler l’application correcte de la matrice de délégation des pouvoirs,\r\n•\tParticiper à la publication trimestrielle du package de reporting IFRS à des fins de consolidation,\r\n•\tRelations régulières avec les banques, les commissaires aux comptes et tous partenaires externes,\r\n•\tAssurer un suivi dynamique et contrôle des inventaires,\r\n•\tParticiper à l'élaboration des prévisions de trésorerie de la zone et à la préparation des reportings hebdomadaires destinés au Siège.\r\n\r\nProfil recherché\r\n\r\nLe/La candidat(e) idéal(e) est titulaire d’un diplôme en comptabilité ou en école de commerce, avec une expérience significative en Audit ou une expérience similaire dans une entreprise orientée projet. Le poste exige une solide connaissance des normes et principe comptables (IFRS), des processus de clôture et justification des comptes et des règles et règlements fiscaux. Le/La candidat(e) doit être capable de communiquer et de gérer efficacement à plusieurs niveaux d’une organisation, la capacité d’analyser et de hiérarchiser efficacement son travail.",
     "creationDate": "2026-09-11T08:02:08Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -4448,79 +4434,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "4",
-      "5",
-      "9",
-      "21",
-      "109",
-      "130",
-      "147",
-      "199",
-      "202",
-      "205"
+      "[\"4\",\"5\",\"9\",\"21\",\"109\",\"130\",\"147\",\"199\",\"202\",\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "4",
-        "specializationParentId": "89",
-        "specializationLabel": "Assurances",
-        "specializationLabelEn": "Insurance"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "130",
-        "specializationParentId": "193",
-        "specializationLabel": "Ingénieur Commercial ou d'Affaires, technico-commercial",
-        "specializationLabelEn": "Business Engineer, Sales Engineer"
-      },
-      {
-        "specializationId": "147",
-        "specializationParentId": "89",
-        "specializationLabel": "Services aux entreprises",
-        "specializationLabelEn": "Business Services"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "! Join a Dynamic and Exciting Team at Cleeven!\n\nAre you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? \nJoin us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!\n\nWHO WE ARE\n\nCleeven is an international engineering consulting firm built on two fundamental principles:\n\nOUR MISSION: \n\nTo enhance self-awareness and the awareness of those around us.\nOUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. As engineers, we work closely with our clients to ensure their global competitiveness.\n\nYOUR ROLE AS DATA ANALYST :\n\nAnalysis and synthesis of functional and technical requirements\nData asset analysis\nDefinition of statistical modeling to meet requirements\nSourcing and gathering all necessary structured and unstructured data sources for analysis\nStudy and comparison of statistical methods (PCA, logistic regression, random forest)\nImplementation and utilization of methods and models (R, SAS, Python, SPSS)\nOptimization of algorithm performance\nAnalysis and synthesis of information and results\nTechnological monitoring in Big Data, machine learning, and decisional statistics\nParticipation in solution qualification\n\nWHAT’S HAPPENING AT CLEEVEN?\n\nWe value the potential of our employees through various support programs:\nCleeven Coaching Program: A voluntary individual coaching program to contribute to your personal development.\nProject Follow-ups: Monthly reviews with your project manager to discuss project progress.\nBoost Your Skills: Bi-monthly events focusing on the expertise areas of Cleeven consultants.\nSocial Events: Regular gatherings throughout the year to strengthen team cohesion and sharing among Cleeven consultants.\n\"With Cleeven, become who you are!\"",
     "creationDate": "2026-08-28T07:15:47Z",
     "missionStartDate": "2026-12-01T00:00:00",
