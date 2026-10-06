@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **06/10/2026 11:07:13**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **06/10/2026 11:34:04**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1079,45 +1079,6 @@ Your profile:
 •	You have a good human contact and a critical mindset, you are autonomous, rigorous, figures oriented, dynamic, with a very good synthesis spirit.
 •	You are looking for a challenging, demanding but rewarding position
 •	You have some financial knowledge (ie. P&L…).
-
-</details>
-
-<details>
-<summary><strong>Chargé(e) Back Office - Réconciliation (H/F)</strong> · ARKEA PROCAPITAL SERVICES · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** ARKEA PROCAPITAL SERVICES
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 30/09/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est orienté vers le contrôle de gestion stratégique et opérationnel (FP&A, budgétisation), tandis que l'offre concerne le back-office titres et la réconciliation bancaire en finance de marché. Bien que ses compétences analytiques, son niveau d'anglais et son attrait pour l'international correspondent, le cœur de métier de l'offre s'éloigne significativement de son expérience et de ses aspirations principales.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246564](https://mon-vie-via.businessfrance.fr/offres/246564)
-
-**Description du poste**
-
-ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers. Dans le cadre de son développement, ProCapital recherche : 
-
-Un(e) Gestionnaire Back Office « Réconciliation »
-
-Rattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :
-- Le contrôle des opérations titres et cash dans leur ensemble (corporate actions, trades sur actions, trades sur options, dépôt cash etc.)
-- Le contrôle des positions titres (détenues chez différents dépositaires)
-- La production de plusieurs rapports à destination des équipes du Back-office et du Management
-- La détection et le suivi des opérations à risque
-- La rédaction et mise à jour de procédures opérationnelles et processus internes
-- L’identification des incidents et éventuels dysfonctionnements, ainsi que la remontée des alertes
-- Le traitement des demandes d’information des clients et du service interne relation clientèle
-- L’évolution des processus et l’amélioration des systèmes;
-
-**Profil recherché**
-
-De formation Bac +4/5, type Ecole de Commerce, de Gestion ou équivalent universitaire Master 1 ou 2 avec option finance de marché, vous disposez : 
--	D’une excellente capacité analytique et organisationnelle ;
--	D’un sens des priorités 
--	D’une maîtrise des logiciels Microsoft Office
--	D’une maîtrise rédactionnelle en anglais et en français 
--	D’une appétence pour les marchés financiers  
-Votre rigueur, votre réactivité, votre capacité d’analyse, votre autonomie ainsi que votre sens relationnel vous permettront d’évoluer dans un environnement réactif et exigeant.
 
 </details>
 
