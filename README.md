@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **06/10/2026 08:57:42**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **06/10/2026 09:12:26**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1094,54 +1094,6 @@ Your profile:
 •	You have a good human contact and a critical mindset, you are autonomous, rigorous, figures oriented, dynamic, with a very good synthesis spirit.
 •	You are looking for a challenging, demanding but rewarding position
 •	You have some financial knowledge (ie. P&L…).
-
-</details>
-
-<details>
-<summary><strong>Global IT Procurement Specialist (H/F)</strong> · HUTCHINSON · AUBURN HILLS -MI-, ETATS-UNIS · 3 813,78 €/mois</summary>
-
-- **Entreprise :** HUTCHINSON
-- **Lieu :** AUBURN HILLS -MI-, ETATS-UNIS
-- **Indemnité :** 3 813,78 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 01/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion et le FP&A, tandis que cette offre concerne les achats IT et la négociation fournisseurs. Bien que la formation en gestion et l'appétence pour l'international correspondent, le cœur de métier de la mission s'éloigne de son expertise financière principale.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245069](https://mon-vie-via.businessfrance.fr/offres/245069)
-
-**Description du poste**
-
-Mission :
-Au sein de la Direction Achats IT Groupe, vous contribuerez au pilotage des achats liés aux logiciels, infrastructures, télécommunications, services IT et solutions digitales.
-En collaboration avec les équipes IT, achats et métiers à travers le monde, vous participerez à la mise en œuvre de la stratégie achats du Groupe.
-
-Vos principales responsabilités
-- Participer à la préparation et à la gestion des appels d'offres (RFI, RFP, RFQ).
-- Analyser les besoins des clients internes et contribuer à la définition des stratégies de consultation.
-- Évaluer les offres fournisseurs sur les aspects techniques, financiers et contractuels.
-- Participer aux négociations commerciales.
-- Assurer le suivi d'un portefeuille de fournisseurs IT.
-- Accompagner les renouvellements de contrats et le déploiement des accords-cadres Groupe.
-- Réaliser des analyses de dépenses et des études de marché.
-- Produire des indicateurs et reportings achats.
-- Participer à des projets internationaux de transformation digitale et d'optimisation des coûts.
-
-**Profil recherché**
-
-Votre profil
-
-Diplômé(e) d'un Bac+5 (École de Commerce, École d'Ingénieur ou Master spécialisé Achats, Supply Chain, Finance ou Management).
-Première expérience en achats, gestion de projet, conseil ou environnement IT appréciée.
-Sensibilité aux technologies et à l'innovation digitale.
-Excellentes capacités d'analyse et de synthèse.
-Très bonne maîtrise d'Excel, PowerPoint et des outils collaboratifs.
-Goût prononcé pour le travail dans un environnement international et multiculturel.
-Compétences recherchées
-
-Curiosité et esprit d'initiative.
-Rigueur et sens de l'organisation.
-Capacité à gérer plusieurs sujets en parallèle.
-Aisance relationnelle et communication efficace.
-Esprit d'équipe et orientation résultats.
 
 </details>
 
