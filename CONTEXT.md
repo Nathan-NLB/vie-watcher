@@ -11,9 +11,8 @@ Je reprends le projet vie-watcher (dépôt GitHub Nathan-NLB/vie-watcher,
 branche claude/vie-finance-notifications-j770x1). Lis d'abord le fichier
 CONTEXT.md à la racine du dépôt (déjà cloné dans /home/user/vie-watcher)
 pour avoir tout le contexte : objectif du projet, architecture, secrets
-utilisés, fonctionnalités déjà en place, et point ouvert en cours
-(score de compatibilité cassé - modèle Gemini à corriger). Confirme-moi
-que tu as bien tout lu avant qu'on continue.
+utilisés, fonctionnalités déjà en place. Confirme-moi que tu as bien tout
+lu avant qu'on continue.
 ```
 
 ## Objectif du projet
@@ -83,19 +82,20 @@ GitHub Actions (`.github/workflows/watch-vie-offers.yml`) toutes les 20 minutes
 - Secrets GitHub : `GEMINI_API_KEY` et `CANDIDATE_PROFILE` (résumé texte du CV
   de Nathan, écrit par Claude, jamais stocké comme fichier dans le dépôt)
 - Clé créée par Nathan sur aistudio.google.com
-- **⚠️ PROBLÈME EN COURS** : le nom de modèle utilisé change de version très
-  vite chez Google et casse régulièrement :
+- **Historique d'instabilité (résolu)** : le nom de modèle utilisé change de
+  version très vite chez Google et a cassé trois fois en quelques jours :
   - `gemini-2.0-flash` → retiré (erreur 404, suggérait `gemini-3.6-flash`)
   - `gemini-3.6-flash` → quota gratuit trop faible (20 requêtes/jour seulement)
-  - `gemini-3.6-flash-lite` → utilisé ensuite, mais depuis le 24/09 renvoie
-    aussi une erreur 404 ("not found for API version v1beta")
-  - **À corriger** : trouver un nom de modèle Gemini actuel avec un quota
-    gratuit suffisant (viser une variante "flash-lite" ou équivalent léger).
-    Vérifier le nom exact avant de coder, les noms de modèles Gemini changent
-    vite (cf. skill "claude-api" ou recherche web pour la doc Gemini à jour)
-  - Tant que ce n'est pas corrigé, le site continue de fonctionner normalement,
-    juste sans badge de compatibilité sur les nouvelles offres
-- La constante à modifier est `GEMINI_MODEL` dans `scripts/check-offers.mjs`
+  - `gemini-3.6-flash-lite` → utilisé ensuite, mais a fini par renvoyer aussi
+    une erreur 404 ("not found for API version v1beta")
+  - **Correction appliquée** : le script n'utilise plus un seul nom de modèle
+    codé en dur, mais une liste de secours `GEMINI_MODELS` (variable
+    `scripts/check-offers.mjs`) essayée dans l'ordre ; si un modèle renvoie
+    une 404 (retiré par Google), le script avance automatiquement au
+    suivant dans la liste sans intervention manuelle. Si Google recasse
+    encore les noms de modèles à l'avenir, il suffira d'ajouter le nouveau
+    nom en tête de cette liste.
+- La liste à modifier est `GEMINI_MODELS` dans `scripts/check-offers.mjs`
 - **Le score ne s'applique qu'aux offres apparues après la mise en place de
   cette fonctionnalité** (23/09/2026), pas de rattrapage rétroactif des
   anciennes offres (décision explicite de Nathan, pour ne pas gaspiller le
@@ -178,6 +178,20 @@ détectées depuis le début) ; toutes les autres notifications, envoyées par l
 vrai robot GitHub Actions, ont été confirmées par les logs comme correctement
 envoyées.
 
+## Incident du 5 octobre 2026 : 7 runs "cancelled" d'affilée (déjà résolu seul)
+
+Nathan a reçu un mail "run-failed". Diagnostic : entre 18h57 et 21h05, les
+runs #814 à #821 ont tous échoué avec le statut `cancelled`, une durée quasi
+identique (~15 min) et aucune étape exécutée (pas de logs, HTTP 404). Le
+commit de base de ces runs était une mise à jour automatique normale (rien de
+cassé dans le code). Conclusion : incident ponctuel côté infrastructure
+GitHub Actions (file d'attente de runners bloquée), pas un bug du script. Le
+robot s'est remis à fonctionner normalement seul à partir du run #822, sans
+intervention. Aucune offre n'a été manquée : le script compare l'intégralité
+des offres actives à `seen-ids.json` à chaque run, donc une offre publiée
+pendant la panne aurait simplement été détectée (et notifiée) en retard au
+run suivant qui a fonctionné, pas perdue.
+
 ## Préférences de Nathan à respecter
 
 - Ne sait pas coder du tout : tout expliquer simplement, étape par étape,
@@ -195,12 +209,7 @@ envoyées.
 
 ## Ce qui reste à faire / pistes possibles
 
-1. **Corriger le modèle Gemini** (voir section dédiée ci-dessus) — priorité
-   immédiate, le score de compatibilité est actuellement cassé pour toute
-   nouvelle offre
-2. Surveiller si Google recasse encore le nom du modèle à l'avenir (ça s'est
-   déjà produit deux fois en 2 jours) — envisager peut-être un mécanisme de
-   repli automatique sur plusieurs noms de modèles candidats
-3. Rien d'autre n'est en attente ; toutes les demandes explicites de Nathan à
-   ce jour (24/09) ont été traitées : dates de mission, score de compatibilité,
-   carte, dashboard, filtres combinables, vérification des notifications
+Rien n'est en attente actuellement. Toutes les demandes explicites de Nathan
+ont été traitées : dates de mission, score de compatibilité (avec liste de
+secours de modèles Gemini), carte, dashboard, filtres combinables,
+vérification des notifications, diagnostic de l'incident du 5 octobre.
