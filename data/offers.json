@@ -962,16 +962,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Comptable Junior – Comptabilité Opérationnelle\n\n📍 Localisation : Belgique\n💼 Type de contrat : VIE\n📅 Début : À définir\n\nÀ propos du poste\n\nDans le cadre du renforcement de notre équipe Finance, nous recherchons un Comptable Junior pour rejoindre une équipe opérationnelle.\n\nVous serez principalement en charge du traitement quotidien des factures et des opérations comptables, tout en assurant la qualité et la fiabilité des données financières.\n\nNous recherchons avant tout une personne rigoureuse, organisée, structurée et opérationnelle, capable de travailler efficacement dans un environnement dynamique.\n\nVos responsabilités\nTraiter et encoder les factures fournisseurs.\nVérifier la conformité des factures avec les commandes et les informations disponibles.\nAssurer le suivi des factures et des éventuelles anomalies.\nEffectuer les rapprochements entre factures, commandes et réceptions.\nParticiper au suivi des comptes fournisseurs.\nEffectuer les contrôles et corrections nécessaires dans le système comptable.\nParticiper aux clôtures comptables mensuelles.\nPréparer et analyser différents reportings financiers.\nUtiliser Excel pour analyser et consolider les données comptables.\nCollaborer quotidiennement avec les équipes Finance, Achats et les différents interlocuteurs internes.\nIdentifier les écarts ou anomalies et assurer leur résolution.\nContribuer à l'amélioration continue des processus comptables.\nProfil recherché\n\nNous recherchons une personne :\n\nTrès rigoureuse et attentive aux détails.\nOrganisée et structurée dans son travail.\nÀ l'aise avec les tâches opérationnelles et répétitives nécessitant de la précision.\nCapable de respecter des délais et des procédures.\nProactive et capable d'identifier rapidement les anomalies.\nÀ l'aise dans la communication avec différents interlocuteurs.\nDotée d'un bon esprit analytique.\nCapable de travailler de manière autonome tout en appréciant le travail en équipe.\nCompétences techniques\nSAP\n\nUne bonne maîtrise de SAP est indispensable, notamment pour les activités liées au traitement des factures et aux opérations comptables.\n\nExcel\n\nVous maîtrisez Excel et êtes capable de travailler avec des volumes importants de données.\n\nLa maîtrise des fonctionnalités suivantes est attendue :\n\nTableaux croisés dynamiques (TCD).\nRecherche et extraction de données.\nFiltres et tris avancés.\nFormules Excel courantes.\nAnalyse et consolidation de données.\n\nLa connaissance d'autres outils de reporting ou ERP constitue un plus.",
     "creationDate": "2026-08-11T12:58:04Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5190,44 +5183,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tSupervisión de la contabilidad y fiscalidad para garantizar que todas las actividades contables cumplan la reglementación,\n•\tControl de los gastos de la empresa y de la buena aplicación de las políticas,\n•\tElaboración de los reportes financieros mensuales de la compañía para el Grupo: Cash, Forecast, Flash, Intercompany, Headcount,\n•\tReportes financieros internos mensuales: Budget, Forecast, P&L por persona, por marca y global, Cashflow,\n•\tAnálisis financieras puntuales sobre nómina, cobranza, EBNI, etc.\n•\tCreación de modelos de previsión.\n•\tParticipación en la definición de las políticas de sueldos y bonos en conjunto con Dirección y Recursos Humanos,\n•\tParticipación en la estrategia global de la empresa sobre el desarrollo de cada marca y recomendaciones sobre las inversiones\n•\tEvaluación de riesgo de las inversiones para dar recomendaciones a Dirección sobre la estrategia de inversión y financiamiento global de la compañía para lograr los objetivos de la empresa.",
     "creationDate": "2026-08-25T23:45:33Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -7388,23 +7346,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "320"
+      "[\"17\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Service économique de Mascate, en lien avec le Service Economique Régional d’Abu Dhabi auquel il est rattaché, a pour mission de suivre et d’analyser pour le compte de l’administration française le contexte macroéconomique et financier du Sultanat d’Oman, les politiques économiques et industrielles qui y sont développées et les opportunités sectorielles qui peuvent y apparaître en informant en tant que de besoin les entreprises françaises. \n\nIl propose un soutien aux entreprises françaises dans l’approche du marché omanais et anime la relation économique bilatérale avec ses partenaires, en particulier les Conseillers du Commerce Extérieur de la France, le bureau régional Business France de Dubaï, le bureau de Bpifrance à Dubaï, ainsi que l’OFA (Oman France Amitié), association jouant localement le rôle d’une Chambre de Commerce bilatérale. Il a vocation à préparer et coordonner l’organisation des visites officielles à caractère économique en France et en Oman. \n\nLe Service économique de Mascate comprend 2 agents dont le Chef de Service économique et le/la VIA, qui assure de fait la fonction d’adjoint(e).\n\nMISSION ET ATTRIBUTIONS DU/DE LA VIA :\n\nEn lien étroit avec le Chef du Service économique, l’intéressé(e) travaillera sur 3 axes principaux : \n\n•\tréalisation de travaux sous forme de notes relatives à l’environnement macroéconomique et financier du Sultanat d’Oman et aux principaux secteurs d’activité (énergies renouvelables, « utilities », hydrocarbures, digital, data centers, IA transports, aérien), en lien avec les grands projets suivis par les entreprises françaises ; \n•\trédaction de la lettre quadrimestrielle du Service économique (« Objectif Oman ») destinée aux entreprises françaises et offrant une analyse de l’actualité économique et sectorielle du pays ;\n•\tparticipation active aux commandes de l’Ambassade, à la préparation d’entretiens de haut niveau et à l’organisation et l’accueil de missions officielles et des partenaires à l’export.\n\nLe/la VIA contribuera également aux travaux récurrents du poste, qu’il s’agisse de la rédaction de la contribution du SE d’Oman pour les brèves économiques hebdomadaires « péninsule arabique » (pilotées par le SER d’Abu Dhabi), des réponses aux commandes de la Direction et du SER d’Abu Dhabi et de l’alimentation en contenu du site internet du SE de Mascate.\n\nPROFIL : \n\nFormation économique (Master 2 analyse économique, relations économiques internationales ; école de commerce, université, majeure macro / microéconomie) dans l’idéal complétée d’une formation généraliste (type institut d’études politiques). Une première expérience au sein de l’administration française et/ou en entreprise, si possible à l’étranger, constituerait un avantage, de même que des notions de langue arabe littérale.\n\nCOMPETENCES REQUISES :\n\n•\tfortes capacités analytiques et rédactionnelles\n•\tconnaissance des sujets économiques et financiers\n•\tcapacités de recherche \n•\tcapacités relationnelles \n•\tréactivité et respect des délais\n•\touverture et capacité à travailler en collaboration avec des interlocuteurs variés\n•\tautonomie \n•\ttrès bon niveau d’anglais (C1)\n\nDIVERS : \n\nClimat marqué par des températures extrêmes (40°C et plus avec des ressentis au-delà de 50°C) et une très forte humidité (50 à 70%) pendant cinq mois de l’année (mai à septembre).\n\nLenteur des démarches administratives (visa, carte d’identité, permis de conduire) : anticiper le plus possible avant la prise de fonctions\n\nRestrictions alimentaires : pas de charcuterie, alcool cher ; interdiction de boire, manger, fumer en public pendant le mois de ramadan.\n\nPermis de conduire vivement conseillé (prévoir location / achat d’un véhicule pour se déplacer)\n\nExcellentes conditions sécuritaires (pas de vols, agressions, cambriolages), mais prudence néanmoins sur les routes et lors d’orages, très peu fréquents, mais souvent violents.",
     "creationDate": "2026-10-02T08:36:06Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -7780,30 +7724,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "320",
-      "322"
+      "[\"17\",\"320\",\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Service économique régional (SER) de Madrid est un service extérieur du ministère de l’Economie, des Finances et de l’Industrie (Direction générale du Trésor) auprès de l’ambassade de France en Espagne. Il agit pour le compte des autorités françaises. Il a pour missions :\n\n- d’analyser la conjoncture et les politiques publiques en Espagne en matière économique et financière ; \n- d’informer les pouvoirs publics français sur l’environnement économique et financier espagnol, les enjeux et politiques sectoriels (politique économique, budget, transport, énergie, industrie, agriculture, etc.) de manière à assurer un suivi des relations bilatérales franco-espagnoles dans ces différents domaines et intervenir à leur demande ;\n- de représenter la France et défendre ses positions auprès des autorités espagnoles, développer la coopération économique entre les deux pays, préparer les rencontres franco-espagnoles au niveau administratif et politique.\n\nMISSION ET ATTRIBUTIONS DU/DE LA VIA :\n\nEn fonction de son profil et de ses compétences, le ou la titulaire du poste pourra prendre en charge tout ou partie des sujets suivants :\n\n- financement de l’économie (financement des ménages et des entreprises, secteurs bancaire et des assurances, marchés financiers, régulation, stabilité financière, fintech) ;\n- suivi de la principauté d’Andorre (situation économique et financière, accord d’association avec l’UE) ;\n- égalité femmes-hommes dans l’économie (état des lieux et politiques publiques) ;\n- économie territoriale (situation économique et financière des communautés autonomes, inégalités territoriales) ;\n- secteur de la construction, de l’immobilier et marché du logement (politiques publiques du logement, suivi des marchés immobiliers, évaluations des biens immobiliers des organismes publics français en Espagne : valeur locative et de marché)\n\nSur tous ces thèmes il/elle aura la charge de : \n\n•\tréaliser une veille permanente ;\n•\tproduire des analyses à court, moyen ou long terme ;\n•\trépondre aux commandes et interrogations de l’administration centrale en France et d’autres interlocuteurs publics ;\n•\tcontribuer à la qualité du dialogue entre les administrations ;\n•\tappuyer les actions et évènements du SER et de l’ambassade auprès de l’écosystème local (communauté d’affaires, analystes, administration).\n\nPROFIL :\n\nDiplôme de niveau master 2 (bac+5) avec une bonne connaissance de la micro et de la macroéconomie.\n\nCOMPETENCES REQUISES :\n\n- capacités d’analyse et de synthèse ;\n- qualités rédactionnelles ;\n- compétences en analyse quantitative ;\n- fortes qualités relationnelles, de réactivité et d’adaptation ;\n- sens du travail en équipe ;\n- espagnol courant ; anglais professionnel\t\n\nDIVERS :\n\nMadrid n’est pas considérée comme une ville dangereuse. Le principal risque auquel il est possible d’être confronté est le vol.\n\nLogement :  les sites Internet de référence sont Fotocasa et Idealista.  Il est également possible de passer par des agences immobilières (les frais d’agence équivalent en général à 1 mois de loyer). Les contrats de location sont globalement comparables aux contrats français. L’assurance \nd’habitation/locative n’est pas obligatoire en Espagne mais est recommandée\n\nSanté : penser à venir avec la carte européenne d’assurance maladie.",
     "creationDate": "2026-10-02T14:06:02Z",
     "missionStartDate": "2026-12-01T00:00:00",
