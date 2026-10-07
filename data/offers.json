@@ -1312,16 +1312,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Comptabilité Clients, Recouvrement, Trésorerie et Relation Client :\n- Comptabiliser les opérations clients (encaissements, avoirs, ajustements).\n- Assurer le lettrage, la justification et la réconciliation des comptes.\n- Réaliser les rapprochements bancaires, suivre les encaissements, contribuer au reporting Cash In, aux prévisions de trésorerie et à l'analyse des écarts.\n- Assurer la réconciliation régulière des comptes clients avec les différents systèmes, justifier les soldes, suivre les balances âgées, le recouvrement, les litiges, les limites de crédit, le support à la facturation et la relation clients.\n- Relances et Recouvrement : Communiquer avec les clients pour le recouvrement des créances en retard de paiement. Cela peut impliquer l'envoi de relances, de lettres de rappel ou même la coordination avec le service juridique en cas de litiges.\n- Support du comptable fournisseur sur certains process et back-up lors des absences.\n\nFiscalité US :\n- Assurer le suivi des Sales Tax, la gestion des portails dédiés, la préparation du reporting et des déclarations fiscales.\n\nAudit :\n- Être l'interlocuteur des auditeurs internes et externes, préparer les justificatifs, coordonner les demandes d'audit.",
     "creationDate": "2026-10-02T18:02:28Z",
     "missionStartDate": "2027-01-01T00:00:00",
