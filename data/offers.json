@@ -983,65 +983,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "201",
-      "204",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"201\",\"204\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "204",
-        "specializationParentId": "19",
-        "specializationLabel": "Commissariat aux comptes",
-        "specializationLabelEn": "Statutory audit"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Forte de ses 50 ans d’existence, BESSAC réalise des travaux de tunnels et microtunnels destinés aux métros, aux ouvrages pour l’eau et l’assainissement ainsi qu’aux galeries techniques (gaz, câbles, chauffage urbain…) et conçoit et fabrique ses propres tunneliers.\nBESSAC est une filiale de SOLETANCHE BACHY et fait partie du Groupe VINCI.\nAvec un chiffre d’affaires de près de 160 millions d'euros, 2/3 de son activité est réalisée à l'international avec des projets en cours notamment en au Canada, en Australie, à Singapour, en Côte d’Ivoire, au Sénégal, en Colombie, au Panama, …\nPlus de 300 collaborateurs directs contribuent aujourd’hui au développement de l’entreprise.\nL’expertise technique est reconnue de tous et fait de BESSAC un cadre idéal pour intégrer le monde des travaux souterrains. Un véritable esprit de famille règne chez BESSAC, porté par des équipes expérimentées, une forte ancienneté et des collaborateurs habitués à travailler ensemble, offrant ainsi un environnement où chacun peut se projeter et évoluer.\n\n\nNous recherchons un(e) contrôleur de gestion pour accompagner l’équipe travaux basée à Lomé au Togo.\nVous serez rattaché(e) hiérarchiquement au chef de projet et le RAF de la zone Afrique basé en Côte d’Ivoire vous accompagnera dans la réussite de vos missions. Vous rejoignez une petite équipe passionnée composée d’ingénieurs travaux et une équipe de production.\n•\tSuivi budgétaire :\n-\tÉlaborer et suivre les budgets prévisionnels du projet\n-\tAnalyser les écarts entre prévisionnel et réalisé.\n-\tMettre en place des tableaux de bord de suivi.\n•\tContrôle des coûts :\n-\tContrôler les dépenses engagées sur le chantier.\n-\tValider les factures fournisseurs et sous-traitants.\n-\tIdentifier les dérives et proposer des actions correctives.\n•\tOptimisation :\n-\tRechercher des leviers d’optimisation des coûts.\n-\tParticiper à l’amélioration des processus de gestion.\n•\tSupport opérationnel :\n-\tCollaborer avec les chefs de chantier, conducteurs de travaux et services achats.\n-\tAssurer le lien entre l’équipe projet et la direction financière de Bessac Afrique\nC’est un programme challengeant qui vous attend mais vous ne serez pas seul. L’équipe en place, le RAF de la zone Afrique ainsi que le service RH France vous accompagneront au besoin pour mener à bien vos différentes missions. C’est l’opportunité idéale pour allier responsabilités et accompagnement !",
     "creationDate": "2026-10-02T10:50:26Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5106,23 +5050,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "90",
-      "259"
+      "[\"90\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "90",
-        "specializationParentId": "89",
-        "specializationLabel": "Immobilier",
-        "specializationLabelEn": "Real Estate"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Après la France (2010), l’Allemagne (2015), l’Italie (2016) et l’Espagne (2019), eRE souhaite désormais s’implanter sur le marché polonais depuis Varsovie pour accompagner le développement de nos clients investisseurs en Europe centrale, et recherche un(e) Real estate investment analyst. Au-delà du poste d'analyste, c'est une aventure entrepreneuriale, intense et formatrice, au cœur du secteur immobilier institutionnel. Vous contribuez, dès le premier jour et en lien direct avec les associés fondateurs, à bâtir notre présence, notre connaissance et notre expérience sur ce nouveau marché — comme nous l'avons fait avec succès en Allemagne, en Italie puis en Espagne depuis 2015.\n\nLes missions proposées :\n●\tSourcing d’opportunités d’investissement : animation du réseau de brokers nationaux et indépendants, identification d'opportunités, visites de sites, rencontres avec les locataires, enseignes ou exploitants, aux côtés des associés fondateurs et des équipes de chaque pays.\n●\tAnalyse des dossiers d'investissement : calcul de la rentabilité des projets, modélisation des hypothèses financières, recherche de données de marché, analyse de comparables, rédaction des memos d'investissement à l'aide de nos outils internes enrichis par l'IA, préparation des LOI.\n●\tAssistance au pilotage des due diligences : analyse des offres reçues des conseils (avocats, experts techniques et évaluateurs indépendants), suivi de leur exécution, préparation des rapports de suivi, aide à la négociation.\n\nLe poste, stimulant et très responsabilisant, intègre un volet relationnel important : vous serez intégré à l’équipe dirigeante, en interaction constante avec nos clients investisseurs institutionnels. \nVous bénéficierez d'une grande autonomie dans l'organisation de votre emploi du temps, des visites et des rencontres avec les différents partenaires. Ici, pas de poste d'exécution : vos analyses nourrissent des convictions qui pèsent dans les arbitrages de nos clients, vos initiatives construisent le développement de l’équipe et de l’entreprise.\nVous rejoignez une équipe à taille humaine, exigeante et bienveillante, valorisant la solidarité entre les équipes, la progression des talents et le goût du terrain. Une réelle opportunité de consolider votre expérience sur un secteur dynamique, dans un cadre de travail privilégié où votre rôle sera pleinement valorisé.",
     "creationDate": "2026-07-24T13:43:49Z",
     "missionStartDate": "2026-12-01T00:00:00",
