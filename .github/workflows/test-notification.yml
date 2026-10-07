@@ -1,0 +1,24 @@
+name: Test notification
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Envoyer la notification de test
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          if [ -z "$NTFY_TOPIC" ]; then
+            echo "Le secret NTFY_TOPIC est vide ou absent."
+            exit 1
+          fi
+          curl --fail --silent --show-error \
+            -H "Title: Test vie-watcher" \
+            -d "Test vie-watcher : les notifications fonctionnent" \
+            "https://ntfy.sh/$NTFY_TOPIC"
