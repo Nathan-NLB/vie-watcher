@@ -752,23 +752,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "326"
+      "[\"5\",\"326\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "In this role, you will be the \"right hand\" to the Head of Finance and FP&A Manager of SEU & Emerging Markets, specifically focusing on:\n• Reporting & Analysis: Assist in the preparation of monthly, quarterly, and annual management reports, providing insights into financial trends.\n• Planning Cycles: Support the budgeting and forecasting processes across various departments (SC, Marketing, HR, Sales..).\n• Tool Development: Maintain and potentially develop advanced Excel tools to streamline financial reporting and forecasting.\n• Operational Tracking: Monitor KPIs and operational metrics, including specific analysis of Sell-in/Sell-out and Stock levels and Opex and PO monitoring\n• Month-End Support: Support and contribute to month-end closing activities, including the management of accruals across 2 different Zones (SEU & Emerging Markets).\n• Presentation Prep: Assist in drafting \"decks\" (presentations) for Global Finance and General Management for budget and forecast discussions.",
     "creationDate": "2026-10-02T08:09:45Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1515,16 +1501,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Fondé en 2010 avec la volonté d’allier économies & écologie, Helexia est un acteur indépendant majeur du marché de la transition énergétique.\nL’entreprise, qui compte aujourd’hui plus de 350 collaborateurs présents dans 7 pays, offre à ses clients la possibilité de décarboner leur activité à travers la production d’énergie renouvelable sur site ainsi que des projets d’efficacité énergétique.\nS’inscrivant dans la stratégie d’expansion géographique du groupe, Helexia España a été créée en 2019 avec pour objectif de devenir un acteur incontournable du marché de la transition énergétique en Espagne. La filiale de 16 personnes compte déjà sur plus de 75 projets photovoltaïques en opération pour un total de 40 MW.\n\nPoste et missions :\n\n1/ Analyse de l’ensemble des éléments financiers et stratégiques des opportunités d’investissement sur des centrales solaires en toitures, ombrières ou au sol et sur des projets d’efficacité énergétique:\no Réalisation du Business Plan en collaboration avec les équipes de la BU Espagne\no Analyse du risque de contrepartie\no Réalisation de sensibilités financières et extra-financières sur le Business Plan en fonction de l’opportunité et des risques identifiés\no Préparation de la présentation interne pour le Comité d’investissement\n\n2/ Participation au pilotage financier de la filiale :\no Reporting financier et commercial mensuel/trimestriel et analyse des écarts par rapport au budget ou aux prévisions\no Implication dans le processus budgétaire et la planification financière\no Analyse de la performance financière et suivi des opportunités post-investissement (Asset Management financier)\n\n3/ Réalisation d’études de marché\no Veille concurrentielle\no Analyse de tendances\no Suivi de l’innovation et des nouvelles solutions\n\n4/ Participation aux opérations de financement des actifs espagnols en collaboration avec l’ensemble des parties prenantes (services juridique, technique et financier).\n\n5/ Implication aux différents niveaux du cycle des transactions M&A, en collaboration avec l’équipe d’investissement Groupe :\no Screening de marché et analyse d’opportunités\no Modélisation financière\no Participation aux travaux d’audits\no Soumission du projet aux forums de décision pertinents",
     "creationDate": "2026-09-22T11:31:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -7584,23 +7563,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9",
-      "320"
+      "[\"9\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans le cadre de son développement en Inde, notre filiale de Bangalore recherche un(e) VIE – Contrôleur de Gestion Financier.\n\nRattaché(e) à la Direction Financière de la filiale et en lien étroit avec le management local ainsi qu’avec les équipes Finance du Groupe, vous contribuez au pilotage de la performance financière de la filiale.\n\nLe poste est résolument orienté finance, reporting et pilotage de la performance au niveau de la filiale. \n\nVos principales missions\n\nReporting & clôtures financières\n\nParticiper aux clôtures mensuelles et à la production du reporting financier de la filiale.\nAnalyser les résultats par rapport au budget, au forecast et aux périodes précédentes.\nPréparer les analyses de P&L, chiffre d’affaires, marge, coûts et résultat opérationnel.\nIdentifier les principaux écarts et en expliquer les causes.\nContribuer à la préparation des reportings à destination du management local et du Groupe.\n\nBudget & Forecast\n\nParticiper à la construction du budget annuel et des forecasts de la filiale.\nChallenger les hypothèses financières avec les différentes fonctions de l’organisation.\nSuivre l’atterrissage financier et identifier les risques et opportunités.\nContribuer aux exercices de planification financière et aux analyses de scénarios.\n\nAnalyse de la performance de la filiale\n\nMettre en place et suivre les principaux KPI financiers.\nAnalyser la rentabilité et les leviers de performance de la filiale.\nRéaliser des analyses ad hoc pour accompagner les décisions du management.\nIdentifier les tendances, risques et opportunités financières et formuler des recommandations.\n\nCash & Working Capital\n\nParticiper au suivi de la trésorerie et du besoin en fonds de roulement.\nAnalyser les principaux indicateurs de Working Capital : créances clients, dettes fournisseurs, stocks, etc.\nContribuer aux plans d’amélioration du cash de la filiale.\n\nCoordination avec le Groupe\n\nAssurer la fiabilité et la cohérence des données financières remontées au Groupe.\nParticiper aux échanges avec les équipes Finance Corporate / Régionales.\nContribuer à l’amélioration des processus, outils et reportings financiers.",
     "creationDate": "2026-09-06T16:29:06Z",
     "missionStartDate": "2027-01-01T00:00:00",
