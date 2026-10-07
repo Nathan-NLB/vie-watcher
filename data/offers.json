@@ -1186,16 +1186,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "325"
+      "[\"325\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "325",
-        "specializationParentId": "19",
-        "specializationLabel": "Risk Management",
-        "specializationLabelEn": "Risk Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The VIE supports the Senior IT Risk / IAM Manager in the operational implementation and monitoring of all defined topics and ensures that all regulatory and internal requirements relating to IT risk management, segregation of duties, and access management are fulfilled in an audit proof manner. The role includes steering IAM processes and providing advisory support to the business units.\n\nRESPONSIBILITIES  : \n\n•\tAnalysis and support in defining requirements for Segregation of Duties (SoD).\n•\tIdentification, assessment, reporting, and monitoring of IT risks as well as risk‑mitigating measures in coordination with the relevant business units (2nd Line of Defence) and the Senior IT Risk / IAM Manager.\n•\tOperational monitoring of early warning indicators, including documentation and preparation of input for escalations (in particular GPS514). Process-related integration into the alert processes of upstream functions.\n•\tSupport in the preparation of regular reports, including the compilation of control and risk evidence for the relevant bodies and committees of the bank and the group (e.g., SSC, ICC).\n•\tActive and hands-on advisory support to the business units and quality assurance of 1.1 and 2.1 controls within the Internal Control System (ICS).\n•\tExecution of control activities in accordance with the ICS (2.2 controls).\n•\tSupport in the monitoring and review of outsourcing requirements from an IT risk perspective.\n•\tSupport in the creation and maintenance of the Segregation of Duties matrix and monitoring of its implementation.\n•\tExecution of recertification campaigns under the functional guidance of the Senior IT Risk / IAM Manager.\n•\tSupport in the development and maintenance of authorization models and execution of role modeling campaigns.",
     "creationDate": "2026-05-12T14:27:31Z",
     "missionStartDate": "2026-12-01T00:00:00",
