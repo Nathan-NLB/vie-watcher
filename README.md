@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **07/10/2026 23:50:20**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **08/10/2026 00:05:30**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1320,75 +1320,6 @@ Formation économique (Master 2 analyse économique, relations économiques inte
 Niveau C1 en anglais
 
 Merci d'envoyer vos CV UNIQUEMENT EN FRANCAIS
-
-</details>
-
-<details>
-<summary><strong>Chargé(e) d'études économiques au SER de Madrid (H/F)</strong> · DIRECTION GENERALE DU TRESOR · MADRID, ESPAGNE · 3 000,19 €/mois</summary>
-
-- **Entreprise :** DIRECTION GENERALE DU TRESOR
-- **Lieu :** MADRID, ESPAGNE
-- **Indemnité :** 3 000,19 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 02/10/2026
-- **Compatibilité avec ton profil :** 60 % — Le candidat dispose du niveau d'études requis, d'une appétence pour l'Espagne et de solides compétences analytiques, mais son profil est orienté vers le contrôle de gestion en entreprise (FP&A) plutôt que vers les études macroéconomiques et les politiques publiques attendues par la Direction Générale du Trésor.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246656](https://mon-vie-via.businessfrance.fr/offres/246656)
-
-**Description du poste**
-
-Le Service économique régional (SER) de Madrid est un service extérieur du ministère de l’Economie, des Finances et de l’Industrie (Direction générale du Trésor) auprès de l’ambassade de France en Espagne. Il agit pour le compte des autorités françaises. Il a pour missions :
-
-- d’analyser la conjoncture et les politiques publiques en Espagne en matière économique et financière ; 
-- d’informer les pouvoirs publics français sur l’environnement économique et financier espagnol, les enjeux et politiques sectoriels (politique économique, budget, transport, énergie, industrie, agriculture, etc.) de manière à assurer un suivi des relations bilatérales franco-espagnoles dans ces différents domaines et intervenir à leur demande ;
-- de représenter la France et défendre ses positions auprès des autorités espagnoles, développer la coopération économique entre les deux pays, préparer les rencontres franco-espagnoles au niveau administratif et politique.
-
-MISSION ET ATTRIBUTIONS DU/DE LA VIA :
-
-En fonction de son profil et de ses compétences, le ou la titulaire du poste pourra prendre en charge tout ou partie des sujets suivants :
-
-- financement de l’économie (financement des ménages et des entreprises, secteurs bancaire et des assurances, marchés financiers, régulation, stabilité financière, fintech) ;
-- suivi de la principauté d’Andorre (situation économique et financière, accord d’association avec l’UE) ;
-- égalité femmes-hommes dans l’économie (état des lieux et politiques publiques) ;
-- économie territoriale (situation économique et financière des communautés autonomes, inégalités territoriales) ;
-- secteur de la construction, de l’immobilier et marché du logement (politiques publiques du logement, suivi des marchés immobiliers, évaluations des biens immobiliers des organismes publics français en Espagne : valeur locative et de marché)
-
-Sur tous ces thèmes il/elle aura la charge de : 
-
-•	réaliser une veille permanente ;
-•	produire des analyses à court, moyen ou long terme ;
-•	répondre aux commandes et interrogations de l’administration centrale en France et d’autres interlocuteurs publics ;
-•	contribuer à la qualité du dialogue entre les administrations ;
-•	appuyer les actions et évènements du SER et de l’ambassade auprès de l’écosystème local (communauté d’affaires, analystes, administration).
-
-PROFIL :
-
-Diplôme de niveau master 2 (bac+5) avec une bonne connaissance de la micro et de la macroéconomie.
-
-COMPETENCES REQUISES :
-
-- capacités d’analyse et de synthèse ;
-- qualités rédactionnelles ;
-- compétences en analyse quantitative ;
-- fortes qualités relationnelles, de réactivité et d’adaptation ;
-- sens du travail en équipe ;
-- espagnol courant ; anglais professionnel	
-
-DIVERS :
-
-Madrid n’est pas considérée comme une ville dangereuse. Le principal risque auquel il est possible d’être confronté est le vol.
-
-Logement :  les sites Internet de référence sont Fotocasa et Idealista.  Il est également possible de passer par des agences immobilières (les frais d’agence équivalent en général à 1 mois de loyer). Les contrats de location sont globalement comparables aux contrats français. L’assurance 
-d’habitation/locative n’est pas obligatoire en Espagne mais est recommandée
-
-Santé : penser à venir avec la carte européenne d’assurance maladie.
-
-**Profil recherché**
-
-Diplôme de niveau master 2 (bac+5) avec une bonne connaissance de la micro et de la macroéconomie
-
-Espagnol courant, anglais professionnel
-
-Merci d'envoyer vos CV UNIUQUEMENT EN FRANCAIS
 
 </details>
 
@@ -5027,40 +4958,6 @@ Key requirements:
 •	Customer-centric attitude and strong communication skills.
 •	Analytical skills and a critical view
 •	Flexible team player able to work under pressure and to respect tight deadlines.
-
-</details>
-
-<details>
-<summary><strong>V.I.E - MARKETING ÉVÉNEMENTIEL CORPORATE ACCESS - H/F (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** ODDO BHF SCA
-- **Lieu :** FRANCFORT, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 07/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245635](https://mon-vie-via.businessfrance.fr/offres/245635)
-
-**Description du poste**
-
-Le Corporate Access est un service intégré au sein des salles des marchés d'ODDO BHF Securities et destiné à mettre en relation des sociétés cotées européennes avec des investisseurs institutionnels français et étrangers. Cela prend la forme de roadshows, composés de meetings (One-to-One, One-to-Few, Group meetings) entre sociétés de gestion et des sociétés cotées, de road trip, de visites de site, de forums.
-Au sein de l'organisation globale des opérations d’ODDO BHF Corporates &amp; Markets sur les marchés Equity, vos principales missions seront les suivantes : 
-•Organisation des roadshows (emailings, contacts avec des Corporates et la base clients, mise à jour de base de données (CRM))
-•Organisation des événements avec nos analystes (roadshow des analystes, visioconférence thématiques hebdomadaires).
-Selon le sérieux et la fiabilité du stagiaire, possibilités d’évolution et de prises de responsabilité, et notamment : responsabilité entière de ces événements analystes, voire de certains roadshows corporates.
-•Aide à l’organisation des forums (création de save-the-date/invitations, relation avec les prestataires, gestion de la base de données et des relations clients, statistiques)
-Votre équipe et votre environnement
-Vous serez basé(e) à Francfort et intégrerez une équipe jeune et dynamique présente en France (Paris et Lyon), à Francfort, à Amsterdam et à New York. Au regard du champ d’application du poste, vous serez également amené à échanger fréquemment avec des interlocuteurs présents dans toutes nos plateformes Equity (Tunisie, Allemagne, Pays-Bas, Espagne, Etats-Unis).
-Les compétences que vous développerez<br /><br />En tant que collaborateur au sein de l’équipe Corporate Access, vous intégrerez l’organisation d’un intermédiaire de marché et serez :
-- d’une part au contact des investisseurs institutionnels (que comprends notamment ODDO BHF AM et ODDO BHF BP), nos clients pris en charge par nos équipes de vente,
-- d’autre part au contact des managements et équipes des Relations Investisseurs des sociétés cotées, couverte par nos analystes sell-side.
-Cette double exposition vous permettra d’appréhender les différents métiers qui composent le brokerage et de comprendre leur apport et leur besoin
-
-**Profil recherché**
-
-- Vous  êtes Etudiant(e) en Grande école de commerce ou équivalent universitaire 
-- Une Expérience(s) en marketing, événementiel et/ou communication est la bienvenue 
-- Vous avez un intérêt pour les métiers de la finance Grande rigueur, réactivité, adaptabilité, organisation, maîtrise de soi dans un environnement actif, excellente aisance rédactionnelle et relationnelle 
-- Excellente maîtrise du Pack Office Anglais et français courants, l'allemand serait un plus.
 
 </details>
 
