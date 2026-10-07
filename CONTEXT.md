@@ -63,7 +63,7 @@ GitHub Actions (`.github/workflows/watch-vie-offers.yml`) toutes les 20 minutes
 - Détail d'une offre : `https://mon-vie-via.businessfrance.fr/offres/{id}`
 
 ### 2. Notifications push : ntfy.sh (gratuit, aucun compte)
-- Secret GitHub : `NTFY_TOPIC` = `vie-finance-5c88b533`
+- Secret GitHub : `NTFY_TOPIC` = (valeur dans les secrets GitHub, ne jamais l'écrire ici)
 - Nathan a installé l'appli ntfy (iOS/Android) et s'est abonné à ce sujet
 - Limite gratuite ntfy.sh : **250 messages/jour**, mais comptée par IP
   expéditrice, pas par sujet. Les runners GitHub Actions changent d'IP à
