@@ -64,6 +64,12 @@ GitHub Actions (`.github/workflows/watch-vie-offers.yml`) toutes les 20 minutes
 
 ### 2. Notifications push : ntfy.sh (gratuit, aucun compte)
 - Secret GitHub : `NTFY_TOPIC` = (valeur dans les secrets GitHub, ne jamais l'écrire ici)
+- **Sujet renouvelé le 8 octobre 2026** : l'ancien nom était écrit en clair dans
+  ce fichier, donc lisible par tout le monde (dépôt public). Un nouveau sujet a été
+  créé, le secret `NTFY_TOPIC` mis à jour et l'ancien abandonné. Le nouveau nom
+  n'est écrit nulle part dans le dépôt.
+- Test manuel : workflow « Test notification » (onglet Actions), qui envoie une
+  notification de test avec le secret `NTFY_TOPIC`.
 - Nathan a installé l'appli ntfy (iOS/Android) et s'est abonné à ce sujet
 - Limite gratuite ntfy.sh : **250 messages/jour**, mais comptée par IP
   expéditrice, pas par sujet. Les runners GitHub Actions changent d'IP à
@@ -206,6 +212,9 @@ run suivant qui a fonctionné, pas perdue.
   contenu généré (README, page)
 - Sauvegarder les infos durables (comme le profil CV) dans le projet
   (secrets GitHub), jamais seulement dans la mémoire de la conversation
+- **Ne jamais écrire la valeur d'un secret (nom de sujet ntfy, clé API, profil CV)
+  dans un fichier du dépôt**, y compris CONTEXT.md : le dépôt est public. Seule
+  la mention « valeur dans les secrets GitHub » est autorisée.
 
 ## Ce qui reste à faire / pistes possibles
 
