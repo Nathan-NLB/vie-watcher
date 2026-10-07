@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **07/10/2026 11:07:37**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **07/10/2026 11:33:53**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4723,93 +4723,6 @@ Key requirements:
 •	Customer-centric attitude and strong communication skills.
 •	Analytical skills and a critical view
 •	Flexible team player able to work under pressure and to respect tight deadlines.
-
-</details>
-
-<details>
-<summary><strong>Treasury Operations Officer (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** SANOFI WINTHROP INDUSTRIE
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 08/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245644](https://mon-vie-via.businessfrance.fr/offres/245644)
-
-**Description du poste**
-
-About the job
-
-As Treasury Operations Officer VIE within our Treasury & Cash Management team, you will primarily support the team on strategic project activities aimed at enhancing operational performance, while also contributing to operational Payment Factory activities.
-
-Ready to push the limits of what’s possible? Join Sanofi in one of our corporate functions and you can play a vital part in the performance of our entire business while helping to make an impact on millions around the world.
-
-Ready to get started?
-
-About Sanofi
-
-We’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. 
-
-Main responsibilities:
-
-- Support the team in the review and optimization of the Payment Factory Rejections & Returns process, identifying inefficiencies and contributing to the design of optimized process.
-- Support the team in the implementation of the new Payment Factory customer service ticketing tool, including testing, stakeholder communication, and user support.
-- Support the team in establishing a robust communication channels on the Payment Factory best practices framework and guidance.
-- Monitor and execute payment flows to third parties initiated by affiliates (Payment On Behalf Of).
-- Follow up on bank inquiries and coordinate with Banks' Customer Services.
-- Analyze returns and rejects related to Payment on Behalf Of payments and communicate findings to the concerned Affiliates, enabling them to take appropriate corrective actions.
-- Ensure timely and accurate resolution of tickets raised by internal stakeholders.
-
-Why choose us?
-
-- Be part of a pioneering biopharma company where patient insights shape drug development. 
-- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes. 
-- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams. 
-- Make your work count by supporting a company that brings life-changing treatments to millions — and is committed to doing right by patients, communities, and the planet.
-- Drive progress from within by helping simplify, scale, and modernize how a global biopharma business delivers smarter, faster, and more sustainably.
-- Support teams across science, medicine, and operations by building better systems, shaping bold strategies, and enabling innovation at speed.
-- Make an impact across borders and functions, collaborating with leaders to turn complex challenges into real-world solutions.
-
-iMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow. 
-
-Sanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work. 
-
-Pursue Progress. Discover Extraordinary. 
-
-Progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together. 
-
-At Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.  
- 
-Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!
-
-**Profil recherché**
-
-About you
-
-Experience:
-
-- Previous experience within a Treasury Operations or Finance department would be an asset but is not mandatory.
-- Exposure to project environments (testing, data migration, stakeholder coordination) is a plus.
-
-Soft and technical skills:
-
-- Strong project mindset: ability to manage multiple workstreams, meet deadlines, and adapt to a fast-paced transformation environment.
-- Ability to standardize varying data processes and inputs.
-- Strong capabilities in Excel and Word; SAP knowledge is preferred.
-- Intellectual agility, curiosity, and proactive problem-solving attitude.
-- Ability to develop strong working relationships with a broad range of internal and external stakeholders, including banking partners.
-- Attention to detail and rigor, particularly in the context of testing and data migration activities.
-
-Education:
-
-- Master's Degree in Finance / Economics or similar field.
-
-Languages:
-
-- Fluent English (written & verbal).
-- French will be an asset but not mandatory.
-
-To facilitate the examination of your application by our English-speaking managers, thank you for applying in English.
 
 </details>
 
