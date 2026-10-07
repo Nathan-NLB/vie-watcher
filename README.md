@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **07/10/2026 17:42:24**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **07/10/2026 18:09:51**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -261,6 +261,47 @@ Autonomie, sens de l’initiative et discrétion sur des données confidentielle
 Bon relationnel, esprit d’équipe et intérêt pour le private equity en Afrique et dans la région MENA.
 •
 Maitrise du Pack office (Excel, Word, PowerPoint).
+
+</details>
+
+<details>
+<summary><strong>VIE Assistant Cost Controller - Finance (H/F)</strong> · BOUYGUES TRAVAUX PUBLICS · LONDRES, ROYAUME-UNI · 3 815,75 €/mois</summary>
+
+- **Entreprise :** BOUYGUES TRAVAUX PUBLICS
+- **Lieu :** LONDRES, ROYAUME-UNI
+- **Indemnité :** 3 815,75 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 07/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa formation en contrôle de gestion, son solide bagage en analyse financière et son excellent niveau d'anglais (TOEIC 925). Seul léger écart, son expérience se situe dans l'industrie de l'agencement plutôt que dans le secteur spécifique de la construction.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246795](https://mon-vie-via.businessfrance.fr/offres/246795)
+
+**Description du poste**
+
+The Role
+We are seeking an Assistant Cost Controller or recent Finance/Accounting graduate to support our Senior Cost Controller. This is a hands-on role offering exposure to procurement, subcontractor management, cost control, project finance, and project administration.
+
+Key Responsibilities
+• Support procurement activities, purchase orders, and supplier payments in SAP.
+• Administer subcontractor contracts and monthly payment processes. 
+• Raise client invoices and support contract administration. 
+• Assist with monthly project cost-control activities, including preparing project-control reports for production meetings. 
+• Collaborate with Quantity Surveyors and Contract Managers on monthly AFPs.
+• Manage NEC contract documentation and support client audit requirements. 
+• Provide general finance and administrative support, including IT requests and expense-claim assistance. 
+• Contribute proactively to the continuous improvement of cost-control and administrative processes.
+
+**Profil recherché**
+
+Qualifications and Skills
+• Degree in Finance, Accounting, Audit, or a related field. 
+• Previous experience in finance, cost control within the construction industry.
+• Proficient in Microsoft Office, particularly Excel; SAP experience is a plus. 
+• Strong analytical skills, attention to detail, and clear communication skills. 
+• Reliable, proactive, and accountable, with a strong sense of commitment and ownership. 
+• Demonstrates a solid work ethic, professional discipline, and willingness to contribute to team objectives. 
+• Able to take initiative, manage priorities, and meet deadlines in a fast-paced project environment. 
+• Flexible and willing to travel to project sites nationwide.
+• Meet the VIE eligibility criteria
 
 </details>
 
