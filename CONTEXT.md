@@ -34,8 +34,10 @@ mon-vie-via.businessfrance.fr, sans avoir à coder lui-même.
 ## Architecture
 
 Un seul script Node fait tout : `scripts/check-offers.mjs`. Il est exécuté par
-GitHub Actions (`.github/workflows/watch-vie-offers.yml`) toutes les 20 minutes
-(cron `*/20 * * * *`), plus déclenchable manuellement (`workflow_dispatch`).
+GitHub Actions (`.github/workflows/watch-vie-offers.yml`) une fois par heure
+(cron `17 * * * *`), plus déclenchable manuellement (`workflow_dispatch`).
+Avant le 7 octobre 2026 c'était toutes les 20 minutes ; passé à l'heure pour
+économiser les minutes GitHub Actions (voir plus bas).
 
 À chaque exécution, le script :
 1. Interroge l'API publique de Civiweb/Businessfrance (voir ci-dessous) filtrée
@@ -48,9 +50,14 @@ GitHub Actions (`.github/workflows/watch-vie-offers.yml`) toutes les 20 minutes
    via l'API Gemini (cache dans `data/compat-scores.json`)
 6. Régénère `README.md` (liste texte brut) et `docs/index.html` (la page
    publique, avec onglets Liste / Carte / Dashboard)
-7. Committe et pousse les fichiers changés (`data/`, `README.md`, `docs/`), avec
-   une logique de nouvelle tentative (pull --rebase + retry) en cas de conflit
-   git avec un push concurrent
+7. **Seulement si de nouvelles offres ont été trouvées** (`data/seen-ids.json`
+   modifié), committe et pousse les fichiers changés (`data/`, `README.md`,
+   `docs/`), avec une logique de nouvelle tentative (pull --rebase + retry) en
+   cas de conflit git avec un push concurrent. Sans nouvelle offre, rien n'est
+   poussé, donc la page n'est pas redéployée. Conséquence assumée : la date
+   "Dernière vérification" de la page et du README correspond au dernier
+   passage ayant trouvé une nouvelle offre, et une offre retirée du site reste
+   affichée jusqu'au prochain passage avec une nouvelle offre.
 
 ## APIs et services externes utilisés
 
@@ -191,6 +198,18 @@ intervention. Aucune offre n'a été manquée : le script compare l'intégralit�
 des offres actives à `seen-ids.json` à chaque run, donc une offre publiée
 pendant la panne aurait simplement été détectée (et notifiée) en retard au
 run suivant qui a fonctionné, pas perdue.
+
+## Économie des minutes GitHub Actions (7 octobre 2026)
+
+Constat : environ 225 à 290 minutes consommées par jour (quota 2 000/mois).
+Chaque exécution dure ~15 s mais est facturée 1 minute, et chaque commit
+déclenchait en plus un "pages build and deployment" (lui aussi compté), car
+l'horodatage "Dernière vérification" changeait à chaque passage.
+Corrections : planification horaire + commit uniquement quand
+`data/seen-ids.json` change (= nouvelles offres). La planification et le
+déploiement de la page tournent tous deux sur la branche par défaut
+`claude/vie-finance-notifications-j770x1` : une modification du workflow n'a
+d'effet qu'une fois fusionnée dans cette branche.
 
 ## Préférences de Nathan à respecter
 

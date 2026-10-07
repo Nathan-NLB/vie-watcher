@@ -2,7 +2,9 @@ name: Veille offres VIE
 
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    # Une fois par heure (minute 17 pour éviter l'engorgement des runners
+    # à l'heure pile).
+    - cron: "17 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -35,6 +37,13 @@ jobs:
         run: |
           git config user.name "vie-watcher-bot"
           git config user.email "actions@users.noreply.github.com"
+          # On n'enregistre que si de nouvelles offres ont été trouvées
+          # (data/seen-ids.json modifié). Sinon, seul l'horodatage de la page
+          # changerait : pas de commit, donc pas de déploiement de la page.
+          if git diff --quiet -- data/seen-ids.json; then
+            echo "Aucune nouvelle offre, rien à enregistrer."
+            exit 0
+          fi
           git add data/ README.md docs/
           if ! git diff --cached --quiet; then
             git commit -m "Mise à jour automatique des offres VIE"
