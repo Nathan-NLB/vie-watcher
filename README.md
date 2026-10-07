@@ -8,11 +8,349 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **07/10/2026 16:51:20**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **07/10/2026 17:42:24**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE Supply Portfolio & Grid Manager in SPM Germany H/F (H/F)</strong> · ENGIE GLOBAL MARKETS · BERLIN, ALLEMAGNE · 3 248,43 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** BERLIN, ALLEMAGNE
+- **Indemnité :** 3 248,43 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 07/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan présente de solides compétences analytiques et financières, mais l'offre relève du secteur de l'énergie (Supply Portfolio & Grid Management) et exige impérativement la maîtrise de l'allemand ainsi que des compétences techniques en data (Python) non mentionnées chez le candidat.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246809](https://mon-vie-via.businessfrance.fr/offres/246809)
+
+**Description du poste**
+
+Context:
+
+As one of Engie S&EM’s front divisions (Supply & Energy Management), the mission of Supply Portfolio Management (SPM) is to manage energy risks for Engie Energy Supply activities worldwide. As part of Germany business platform, the Supply Portfolio Management team (SPM) is at the heart of energy management of Engie’s german B2B portfolio.
+
+The SPM team interacts with several internal teams such as: sales teams, other SPM’s teams, Trading, IT, Finance, Risk, Back Office…
+
+SPM Germany is currently looking for young motivated Suppply Portfolio and Grid managers ready to dig into SPM operations and support our growth ambitions. The mission is intended for 2 years, with a start in January 2027.
+
+Role:
+
+As a supply portfolio & grid manager in SPM Germany, you will gradually perform the following tasks:
+
+•	You support the sales offering activity, structure and price standard and non-standard offers: by identifying potential risks and ensuring use of adequate and up to date costing models, risk bricks and data availability;
+•	You actively assess and manage commodity risks linked to the dynamics of a sales portfolio, for all its commodities – Power, Natural gas, Certificates - meaning operate and optimize costing, forecasting, sourcing, and hedging strategies, within a defined mandate;
+•	You operate various strategies to reduce, internalize or externalize risks, towards and in collaboration with stakeholders (Trading, other BUs);
+•	In collaboration with forecasting experts, you monitor and regularly review the expected consumption of your portfolio.
+•	You report the portfolio financials linked to the energy management results and performance to the business platform;
+•	You manage the market communication with Transport & Distribution network operators for balancing and metering: declaration of our customer’s connection points, scheduling of nominations, retrieval and control of official metering data.
+•	You use and challenge data, models, processes & tools to answers supplier’s vision and ambition;  
+•	You are involved in the development of the tools, models, process, and portfolio/data representation of all commercial offer's portfolio;
+•	You manage contacts with multiple stakeholders to which you present and explain pricing and energy management.
+
+**Profil recherché**
+
+Hard skills:
+•	Must have:
+o	Elevated level of numeracy and strong analytical skills, combined with a hands-on approach
+
+•	Good to have:
+o	Knowledge on financial products
+o	Understanding of trading and risk management business
+o	Knowledge on energy systems and markets
+o	Digital & Data proficiency: Python, APIs, Agents,…
+
+
+Soft skills:
+
+•	Must have:
+o	Willing to work in a front position with direct impact on Group’s and BU’s P&L
+o	Team player
+o	Highly resilient
+o	Result-oriented practical thinker
+o	Rigorous and accurate
+o	Autonomous
+o	Communication and presentation skills
+o	Customer focus
+o	Proactive and accountable
+
+Education and professional background:
+
+•	Engineering degree or business school, master
+ 
+Languages:
+•	German (B2) and English (B2)
+Travels:
+•	The job is based in Berlin, travels to Brussels or Paris occasionally
+
+
+
+
+If you meet these requirements, then you are the talent we are looking for. Do not waste time! 
+Apply by attaching your updated CV, regardless of your gender.
+
+ENGIE Supply & Energy Management is committed to creating a gender-neutral environment that unlocks the potential of everyone and provides equal employment opportunities for all individuals. 
+ 
+All our positions are open to people with disabilities, please let your recruiter know if you need reasonable accommodation to be able to take part in the recruitment process, they will be happy to assist you.
+
+</details>
+
+<details>
+<summary><strong>VIE/PANGEO - Financial Controller (M/W) (H/F)</strong> · VEOLIA ENERGIE PERFORMANCE · BALE, SUISSE · 4 135,75 €/mois</summary>
+
+- **Entreprise :** VEOLIA ENERGIE PERFORMANCE
+- **Lieu :** BALE, SUISSE
+- **Indemnité :** 4 135,75 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 07/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil correspond parfaitement aux exigences académiques et techniques grâce à la maîtrise de Power BI et une solide expérience en contrôle budgétaire et reporting. Le principal écart réside dans l'absence de mention de l'allemand, utile en Suisse, et d'un passage en cabinet d'audit.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246801](https://mon-vie-via.businessfrance.fr/offres/246801)
+
+**Description du poste**
+
+As a global leader in environmental services, Veolia operates across all 5 continents with nearly 218,000 employees. An expert in water, energy, and waste management, the Group designs and implements innovative solutions for decarbonization, depollution and resource regeneration to support communities and industries in their ecological transformation.
+
+Ambitious graduates and young professionals: Ready to challenge yourself and accelerate your career growth?🚀🌍
+Launch your international journey with a world leader in ecological transformation!
+The VIE/PANGEO program offers you:
+• Highly sought-after international expertise
+• Innovative and sustainable projects
+• Multicultural teamwork
+• Worldwide networking
+Your passport to a thrilling career awaits. Join us and make a global impact!
+
+Veolia Industry Building - Switzerland AG is looking for a VIE/PANGEO - Financial Controller (M/W) in Basel, Switzerland.
+
+🎯 THE MISSION
+Step into a pivotal role that bridges local management and corporate leadership. As Financial Controller, you'll be at the heart of our financial operations, managing complex reporting cycles, optimizing financial processes, and leveraging modern digital tools to drive business insights. Work in a trilingual, international environment where your analytical skills and financial acumen will directly impact strategic decisions.
+Your mission:
+✅ Master financial reporting at dual levels—local management and corporate leadership
+✅ Drive digital transformation using Workday, PowerBI, and Google Workspace
+✅ Optimize financial processes through automation and data-driven insights
+✅ Support strategic planning with budgeting, forecasting, and ad-hoc business case analysis
+✅ Collaborate seamlessly with remote teams and operational stakeholders
+✅ Build financial excellence in a growing international organization
+
+💼 YOUR RESPONSIBILITIES
+Monthly Closings & Financial Reporting:
+Actively participate in monthly, quarterly, and year-end closing cycles
+Perform detailed variance analyses (Actual vs. Budget / Forecast)
+Prepare, consolidate, and deliver financial reporting packs and management dashboards
+Tailor reporting for both Local Management and Corporate Leadership
+Interface daily with remote Shared Service Centre on accounting tasks and reconciliations
+Budgeting, Forecasting & Strategic Planning:
+Co-build annual budgets and periodic reforecasts with operational heads
+Monitor key operational and financial KPIs
+Surface actionable insights and corrective measures for cost optimization
+Support strategic regional investment decisions
+Digital Transformation & Financial Systems:
+Leverage and optimize Google Workspace (advanced Google Sheets modeling)
+Master Workday ERP for core accounting and reporting
+Develop dynamic dashboards using PowerBI
+Contribute to digitizing financial processes and automating recurring reports
+Upgrade analytical models and reporting infrastructure
+Ad-Hoc Analysis & Operational Controlling:
+Conduct special financial studies and profitability reviews
+Evaluate business cases for strategic investments
+Provide financial insights to support operational decision-making
+
+👤 THE IDEAL PROFILE
+Education:
+Master's Degree from University, Business School, or Engineering School specializing in:
+Finance
+Controlling
+Auditing
+Management Accounting (e.g., CCA)
+Experience:
+Audit Background (Highly Valued): First professional experience in an external audit firm (Big 4 or tier-1 audit firm)
+Controlling Experience: Previous internship or apprenticeship in financial controlling, corporate FP&A, or financial analysis
+Key Skills:
+💻 Financial Toolkit: Hands-on proficiency with Google Sheets and Microsoft Excel
+🔧 ERP & Analytics: Practical experience or strong familiarity with Workday (ERP) and PowerBI
+📊 Analytical Rigor: Strong financial analysis, data modeling, and reconciliation capabilities
+🎯 Autonomy & Agility: Proactive, self-driven professional thriving in a small, agile 2-person team
+🤝 Communication: Clear, concise communicator building strong relationships with operational managers, remote teams, and executives
+🧠 Strategic Mindset: Ability to translate financial data into actionable business insights
+Languages:
+🇬🇧 English: Fluent (written and spoken) – Mandatory
+🇩🇪 German: Proficiency is a distinct advantage
+🇫🇷 French
+
+🌟 READY TO TRANSFORM FINANCE?
+If you're passionate about financial excellence, digital innovation, and international business, and you're ready to make an impact in a leading global organization, this is your opportunity!
+We're waiting for you! 🚀
+
+**Profil recherché**
+
+👤 THE IDEAL PROFILE
+Education:
+Master's Degree from University, Business School, or Engineering School specializing in:
+Finance
+Controlling
+Auditing
+Management Accounting (e.g., CCA)
+Experience:
+Audit Background (Highly Valued): First professional experience in an external audit firm (Big 4 or tier-1 audit firm)
+Controlling Experience: Previous internship or apprenticeship in financial controlling, corporate FP&A, or financial analysis
+Key Skills:
+💻 Financial Toolkit: Hands-on proficiency with Google Sheets and Microsoft Excel
+🔧 ERP & Analytics: Practical experience or strong familiarity with Workday (ERP) and PowerBI
+📊 Analytical Rigor: Strong financial analysis, data modeling, and reconciliation capabilities
+🎯 Autonomy & Agility: Proactive, self-driven professional thriving in a small, agile 2-person team
+🤝 Communication: Clear, concise communicator building strong relationships with operational managers, remote teams, and executives
+🧠 Strategic Mindset: Ability to translate financial data into actionable business insights
+
+</details>
+
+<details>
+<summary><strong>Analyste Risk & Financial Control (H/F)</strong> · AMETHIS ADVISORY · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** AMETHIS ADVISORY
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 07/10/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil correspond bien par la formation financière de niveau Master, la maîtrise d'Excel et un bon niveau d'anglais. Cependant, l'offre est axée sur la gestion des risques, la conformité et l'administration de fonds d'investissement au Luxembourg, ce qui s'éloigne légèrement du parcours purement contrôle de gestion et FP&A recherché par le candidat.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246796](https://mon-vie-via.businessfrance.fr/offres/246796)
+
+**Description du poste**
+
+I – Description du groupe Amethis
+Le groupe Amethis est un gestionnaire de fonds d’investissement dédié au continent africain & la région MENA. Amethis investit en capital-développement dans des entreprises en forte croissance dans une diversité de secteurs. Amethis a investi dans des sociétés présentes dans plus de 20 pays et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.
+
+II – Contexte AIFM (Aspect règlementaire)
+Amethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissement alternatifs (GFIA). Créée en 2017, elle est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg.
+
+III – Rôle / Mission
+Le poste sera rattaché au Finance & Risk Manager, avec une exposition régulière au comité exécutif de l’AIFM, aux équipes d’investissement, aux investisseurs, aux auditeurs et aux prestataires des fonds.
+Missions principales :
+Risk Management
+Investment process : rédaction des notes de risque pour chaque opération présentée en comité d’investissement, puis suivi du risque de chaque participation jusqu’à la sortie.
+Conformité et limites : contrôle ex ante et ex post de la conformité des opérations aux documents des fonds (PPM, LPA) et aux limites de risque (concentration pays, secteur et émetteur, devise, levier, liquidité).
+Risk Report : élaboration du Risk Report semestriel couvrant l’ensemble des fonds, et des supports risk présentés au comité exécutif et au Conseil d’administration de l’AIFM.
+Réglementaire : contribution aux reportings réglementaires.
+
+Fund administration
+
+Opérations des fonds : préparation des appels de fonds et des distributions (calculs par investisseur, notices, suivi des encaissements).
+NAV et performance : revue des NAV trimestrielles produites par l’administrateur et suivi des indicateurs de performance (TVPI, DPI, TRI).
+Reporting investisseurs : préparation du reporting trimestriel aux investisseurs et réponses à leurs demandes ponctuelles.
+Trésorerie : suivi de la trésorerie des fonds et des prévisions de cash.
+Prestataires : coordination avec l’administrateur, le dépositaire, les banques et les auditeurs ; participation à l’audit annuel des fonds.
+Aide au développements d’outils internes de pilotage de la performance financière / digitalisation / cost monitoring.
+
+Corporate scope
+Arrêtés trimestriels : appui à l’arrêté des entités du groupe (AIFM, GP, holdings et bureaux de Paris, Luxembourg, Casablanca, Nairobi, Abidjan, Le Caire et Le Cap).
+Pilotage : suivi du cash, des budgets et des atterrissages, avec analyse des écarts.
+Intragroupe : suivi des refacturations intragroupe et appui aux audits des sociétés du groupe.
+
+**Profil recherché**
+
+•
+Bac+5 (école de commerce, d’ingénieur ou master universitaire) en finance, audit ou gestion des risques, une première expérience en audit, en gestion des risques, en administration de fonds ou en private equity est un plus.
+•
+Bonne maîtrise des états financiers et des principes comptables.
+•
+Français et anglais courants, à l’écrit comme à l’oral.
+•
+Rigueur, sens du détail et esprit méthodique ; capacité à mener plusieurs sujets dans un environnement évolutif.
+•
+Autonomie, sens de l’initiative et discrétion sur des données confidentielles.
+•
+Bon relationnel, esprit d’équipe et intérêt pour le private equity en Afrique et dans la région MENA.
+•
+Maitrise du Pack office (Excel, Word, PowerPoint).
+
+</details>
+
+<details>
+<summary><strong>Contrôleur Financier International & Finance Transformation Analyst (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BUCAREST, ROUMANIE · 2 320,52 €/mois</summary>
+
+- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
+- **Lieu :** BUCAREST, ROUMANIE
+- **Indemnité :** 2 320,52 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 07/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes du poste grâce à sa formation en contrôle de gestion, son solide bagage technique sur Excel et ses deux années d'expérience en gestion financière. L'écart principal réside dans la localisation (Roumanie au lieu de l'Espagne souhaitée) et l'absence mentionnée d'expérience directe sur un ERP comme IFS, bien que ses compétences analytiques compensent largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246395](https://mon-vie-via.businessfrance.fr/offres/246395)
+
+**Description du poste**
+
+Envie de lancer votre carrière dans un environnement international et stimulant ?
+Rejoignez SII en VIE et vivez une expérience humaine et technologique unique !
+
+YOU MISSIONS :
+Rattaché(e) à la Responsable du Contrôle financier International, le/la Contrôleur Financier International contribue à la fiabilité du reporting financier des filiales internationales et au déploiement des projets de transformation de la fonction Finance. 
+Il/elle intervient principalement sur les activités de contrôle, d'analyse, de reporting et de maintien de la qualité des données financières. 
+
+ Votre rôle sera organisé en deux volets principaux :
+1.	CONTRÔLE DE GESTION ET REPORTING INTERNATIONAL
+Revue des reportings mensuels 
+•	Participer au processus de remontée des reporting mensuels 
+•	Contrôler la cohérence et l'exhaustivité des informations transmises par les filiales. 
+•	Réaliser des contrôles de cohérence entre les différents outils financiers. 
+•	Identifier les anomalies et assurer leur résolution avec les équipes locales. 
+Suivi des indicateurs de performance 
+•	Contrôler l'évolution des principaux KPIs  
+•	Analyser les ecarts, trouver les causes racines, presenter aux equipes dans le cadre des chantiers d'amelioration continue 
+
+2.	SUPPORT AU DEPLOIEMENT DE L’ERP GROUPE A TRAVERS LES FILIALES 
+Accompagnement des projets de migration 
+•	Participer aux phases de préparation des déploiements IFS comptabilité en lien avec l’équipe IT. 
+•	Réaliser les contrôles liés aux migrations de données. 
+•	Contribuer aux campagnes de tests utilisateurs. 
+•	Suivre les incidents et anomalies fonctionnelles. 
+Support utilisateurs 
+•	Assister les équipes Finance dans l'utilisation des nouveaux processus. 
+•	Participer à la rédaction de procédures et guides utilisateurs. 
+•	Contribuer aux actions de formation. 
+Contrôle des données de référence 
+•	Vérifier la qualité des données clients, fournisseurs, projets et collaborateurs. 
+•	Participer aux opérations de fiabilisation des bases de données.
+
+**Profil recherché**
+
+VOTRE PROFIL :
+Formation 
+•	Une formation Bac+5 (école de commerce ou master CCA ou DSCG)
+  
+Expérience 
+Au moins deux années d’expérience en comptabilité (cabinet ou entreprise) 
+Une première expérience dans le déploiement d’un outil constitue un véritable atout.  
+
+Compétences techniques 
+•	Excellente maîtrise d'Excel. 
+•	Base comptable solide  
+•	Connaissance d'un ERP (IFS, SAP, Oracle, Dynamics...).  
+
+Langues 
+Bon niveau de français et d’anglais  
+L’allemand est un plus  
+
+Qualités personnelles 
+•	Rigueur et sens du détail. 
+•	Esprit critique. 
+•	Autonomie. 
+•	Organisation et respect des délais. 
+
+POURQUOI NOUS REJOINDRE : 
+•	Une expérience internationale unique au cœur d’un environnement multiculturel
+•	Un tremplin pour évoluer rapidement
+•	L’intégration dans une équipe dynamique, bienveillante et certifiée Great Place To Work
+Prêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !
+
+LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !
+Si votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !
+
+QUI SOMMES-NOUS ?
+SII Group Roumanie est une filiale du groupe SII, composée d’une équipe dynamique et multiculturelle.
+Entreprise engagée et inclusive, SII est signataire de la Charte de la Diversité et de la Charte d’engagement LGBT+ avec l’association L’Autre Cercle.
+Nous sommes également Handi-accueillants et plaçons l’humain au cœur de nos projets.
+
+Alors si ces valeurs vous parlent, rejoignez-nous !
+
+</details>
 
 <details>
 <summary><strong>Gestionnaire Financier Groupe (H/F)</strong> · ALPINEO CONSULTING LYON · VERNIER, SUISSE · 4 135,75 €/mois</summary>
@@ -1888,94 +2226,6 @@ Les Avantages
 - Maîtrise des outils Excel, expérience avec l’utilisation d’un ERP.
 - Expérience en comptabilité requise.
 - Prise d’initiative, curiosité, travail en équipe, esprit critique.
-
-</details>
-
-<details>
-<summary><strong>Contrôleur Financier International & Finance Transformation Analyst (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BUCAREST, ROUMANIE · 2 320,52 €/mois</summary>
-
-- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
-- **Lieu :** BUCAREST, ROUMANIE
-- **Indemnité :** 2 320,52 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 25/09/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes du poste grâce à sa formation en contrôle de gestion, son solide bagage technique sur Excel et ses deux années d'expérience en gestion financière. L'écart principal réside dans la localisation (Roumanie au lieu de l'Espagne souhaitée) et l'absence mentionnée d'expérience directe sur un ERP comme IFS, bien que ses compétences analytiques compensent largement.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246395](https://mon-vie-via.businessfrance.fr/offres/246395)
-
-**Description du poste**
-
-Envie de lancer votre carrière dans un environnement international et stimulant ?
-Rejoignez SII en VIE et vivez une expérience humaine et technologique unique !
-
-YOU MISSIONS :
-Rattaché(e) à la Responsable du Contrôle financier International, le/la Contrôleur Financier International contribue à la fiabilité du reporting financier des filiales internationales et au déploiement des projets de transformation de la fonction Finance. 
-Il/elle intervient principalement sur les activités de contrôle, d'analyse, de reporting et de maintien de la qualité des données financières. 
-
- Votre rôle sera organisé en deux volets principaux :
-1.	CONTRÔLE DE GESTION ET REPORTING INTERNATIONAL
-Revue des reportings mensuels 
-•	Participer au processus de remontée des reporting mensuels 
-•	Contrôler la cohérence et l'exhaustivité des informations transmises par les filiales. 
-•	Réaliser des contrôles de cohérence entre les différents outils financiers. 
-•	Identifier les anomalies et assurer leur résolution avec les équipes locales. 
-Suivi des indicateurs de performance 
-•	Contrôler l'évolution des principaux KPIs  
-•	Analyser les ecarts, trouver les causes racines, presenter aux equipes dans le cadre des chantiers d'amelioration continue 
-
-2.	SUPPORT AU DEPLOIEMENT DE L’ERP GROUPE A TRAVERS LES FILIALES 
-Accompagnement des projets de migration 
-•	Participer aux phases de préparation des déploiements IFS comptabilité en lien avec l’équipe IT. 
-•	Réaliser les contrôles liés aux migrations de données. 
-•	Contribuer aux campagnes de tests utilisateurs. 
-•	Suivre les incidents et anomalies fonctionnelles. 
-Support utilisateurs 
-•	Assister les équipes Finance dans l'utilisation des nouveaux processus. 
-•	Participer à la rédaction de procédures et guides utilisateurs. 
-•	Contribuer aux actions de formation. 
-Contrôle des données de référence 
-•	Vérifier la qualité des données clients, fournisseurs, projets et collaborateurs. 
-•	Participer aux opérations de fiabilisation des bases de données.
-
-**Profil recherché**
-
-VOTRE PROFIL :
-Formation 
-•	Une formation Bac+5 (école de commerce ou master CCA ou DSCG)
-  
-Expérience 
-Au moins deux années d’expérience en comptabilité (cabinet ou entreprise) 
-Une première expérience dans le déploiement d’un outil constitue un véritable atout.  
-
-Compétences techniques 
-•	Excellente maîtrise d'Excel. 
-•	Base comptable solide  
-•	Connaissance d'un ERP (IFS, SAP, Oracle, Dynamics...).  
-
-Langues 
-Bon niveau de français et d’anglais  
-L’allemand est un plus  
-
-Qualités personnelles 
-•	Rigueur et sens du détail. 
-•	Esprit critique. 
-•	Autonomie. 
-•	Organisation et respect des délais. 
-
-POURQUOI NOUS REJOINDRE : 
-•	Une expérience internationale unique au cœur d’un environnement multiculturel
-•	Un tremplin pour évoluer rapidement
-•	L’intégration dans une équipe dynamique, bienveillante et certifiée Great Place To Work
-Prêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !
-
-LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !
-Si votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !
-
-QUI SOMMES-NOUS ?
-SII Group Roumanie est une filiale du groupe SII, composée d’une équipe dynamique et multiculturelle.
-Entreprise engagée et inclusive, SII est signataire de la Charte de la Diversité et de la Charte d’engagement LGBT+ avec l’association L’Autre Cercle.
-Nous sommes également Handi-accueillants et plaçons l’humain au cœur de nos projets.
-
-Alors si ces valeurs vous parlent, rejoignez-nous !
 
 </details>
 

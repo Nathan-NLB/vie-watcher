@@ -166,5 +166,17 @@
   "246720": {
     "score": 55,
     "raison": "Le candidat possède une formation en gestion et une bonne expérience en contrôle budgétaire, mais le poste proposé est orienté vers le risque, la conformité et le contrôle interne en Allemagne, un domaine assez éloigné de sa spécialité en FP&A et de son souhait pour l'Espagne."
+  },
+  "246796": {
+    "score": 75,
+    "raison": "Le profil correspond bien par la formation financière de niveau Master, la maîtrise d'Excel et un bon niveau d'anglais. Cependant, l'offre est axée sur la gestion des risques, la conformité et l'administration de fonds d'investissement au Luxembourg, ce qui s'éloigne légèrement du parcours purement contrôle de gestion et FP&A recherché par le candidat."
+  },
+  "246801": {
+    "score": 85,
+    "raison": "Le profil correspond parfaitement aux exigences académiques et techniques grâce à la maîtrise de Power BI et une solide expérience en contrôle budgétaire et reporting. Le principal écart réside dans l'absence de mention de l'allemand, utile en Suisse, et d'un passage en cabinet d'audit."
+  },
+  "246809": {
+    "score": 45,
+    "raison": "Le profil de Nathan présente de solides compétences analytiques et financières, mais l'offre relève du secteur de l'énergie (Supply Portfolio & Grid Management) et exige impérativement la maîtrise de l'allemand ainsi que des compétences techniques en data (Python) non mentionnées chez le candidat."
   }
 }

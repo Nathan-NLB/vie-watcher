@@ -419,5 +419,15 @@
     "lat": 53.5501721,
     "lon": 10.0013165
   },
-  "entreprise|captivea|antananarivo|madagascar": null
+  "entreprise|captivea|antananarivo|madagascar": null,
+  "entreprise|engie global markets|berlin|allemagne": null,
+  "ville|berlin|allemagne": {
+    "lat": 52.5173885,
+    "lon": 13.3951309
+  },
+  "entreprise|veolia energie performance|bale|suisse": null,
+  "ville|bale|suisse": {
+    "lat": 47.5581077,
+    "lon": 7.5878261
+  }
 }
