@@ -332,86 +332,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "7",
-      "9",
-      "17",
-      "21",
-      "91",
-      "93",
-      "98",
-      "101",
-      "109",
-      "126"
+      "[\"6\",\"7\",\"9\",\"17\",\"21\",\"91\",\"93\",\"98\",\"101\",\"109\",\"126\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "91",
-        "specializationParentId": "89",
-        "specializationLabel": "Secrétariat - Bureautique",
-        "specializationLabelEn": "Secretariat - Desktop Applications"
-      },
-      {
-        "specializationId": "93",
-        "specializationParentId": "89",
-        "specializationLabel": "Traduction - Interprétariat",
-        "specializationLabelEn": "Translation - Interpretation"
-      },
-      {
-        "specializationId": "98",
-        "specializationParentId": "36",
-        "specializationLabel": "Enseignement",
-        "specializationLabelEn": "Teaching"
-      },
-      {
-        "specializationId": "101",
-        "specializationParentId": "36",
-        "specializationLabel": "Langues et Civilisations Etrangères (LCE)",
-        "specializationLabelEn": "Foreign Languages and Civilizations"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "126",
-        "specializationParentId": "239",
-        "specializationLabel": "Sciences humaines et sociales",
-        "specializationLabelEn": "Cognitive Sciences - Neurosciences"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À PROPOS DU RÔLE\nJohnson & Johnson MedTech Belgique & Luxembourg recherche un V.I.E. Technologie de l’Éducation afin de soutenir l’organisation Education Solutions. Ce rôle vise à contribuer à la création d’un environnement d’apprentissage et de développement de pointe, à garantir l’excellence dans l’exécution des activités opérationnelles et à soutenir les programmes éducatifs internes et externes qui différencient Johnson & Johnson sur le marché.\nVOTRE MISSION\n•\tSoutenir les activités opérationnelles au sein du département Education Solutions.\n•\tContribuer à l’exécution des programmes de formation professionnelle et commerciale destinés aux professionnels de santé et aux organisations gouvernementales.\n•\tCollaborer étroitement avec les équipes Sales, Marketing, Market Access, HCC, Regulatory, Legal, Finance et Medical Education.\n•\tVeiller à ce que les activités éducatives soient exécutées avec un haut niveau de qualité, de conformité, de discipline budgétaire et de suivi opérationnel.\n•\tContribuer au développement d’une forte culture d’apprentissage interne et d’une proposition de valeur éducative externe solide pour Johnson & Johnson MedTech BeLux.\nExcellence opérationnelle & exécution des formations\n•\tSoutenir la planification, l’administration, la logistique, le suivi budgétaire et la mesure de la qualité des activités éducatives.\n•\tVeiller à ce que toutes les activités éducatives soient suivies, documentées et gérées dans le cadre du processus d’archivage et de conservation.\n•\tContribuer à la maintenance des tableaux de bord éducatifs et au suivi des indicateurs clés de performance afin d’évaluer la qualité et la prestation de services.\n•\tAssurer la gestion des stocks et le soutien logistique pour les événements éducatifs.\n•\tContribuer à renforcer la discipline d’exécution et l’amélioration continue des opérations éducatives.\nPartenariat avec les parties prenantes & collaboration\n•\tÉtablir des partenariats solides avec les parties prenantes internes des équipes Sales, Marketing, Market Access, HCC, Regulatory, Legal, Finance et Medical Education.\n•\tCommuniquer clairement avec les partenaires business concernant l’exécution et la planification des événements.\nConformité, gouvernance & gestion des risques\n•\tRespecter toutes les procédures opérationnelles standard HCC et les politiques internes.\n•\tSoutenir la gestion des contrats de consultance et les processus de rémunération de services.",
     "creationDate": "2026-07-30T06:51:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -605,16 +528,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "202"
+      "[\"202\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers. Dans le cadre de son développement, ProCapital recherche : \n\nUn(e) Gestionnaire Back Office « Réconciliation »\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Le contrôle des opérations titres et cash dans leur ensemble (corporate actions, trades sur actions, trades sur options, dépôt cash etc.)\n- Le contrôle des positions titres (détenues chez différents dépositaires)\n- La production de plusieurs rapports à destination des équipes du Back-office et du Management\n- La détection et le suivi des opérations à risque\n- La rédaction et mise à jour de procédures opérationnelles et processus internes\n- L’identification des incidents et éventuels dysfonctionnements, ainsi que la remontée des alertes\n- Le traitement des demandes d’information des clients et du service interne relation clientèle\n- L’évolution des processus et l’amélioration des systèmes;",
     "creationDate": "2026-09-30T13:58:43Z",
     "missionStartDate": "2026-12-01T00:00:00",
