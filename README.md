@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/10/2026 00:07:00**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **09/10/2026 00:32:21**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1728,72 +1728,6 @@ Dans un contexte de fort développement de nos activités au Brésil, vos princi
 - Vous avez un bon relationnel et aimez travailler en équipe ; 
 
 - Vous être rigoureux.se et très organisé.e.
-
-</details>
-
-<details>
-<summary><strong>Chargé(e) d'études économiques et sectorielles à Mascate (H/F)</strong> · DIRECTION GENERALE DU TRESOR · MASCATE, OMAN · 2 365,19 €/mois</summary>
-
-- **Entreprise :** DIRECTION GENERALE DU TRESOR
-- **Lieu :** MASCATE, OMAN
-- **Indemnité :** 2 365,19 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 02/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement axé sur le contrôle de gestion et la finance d'entreprise, ce qui correspond peu à cette offre de chargé d'études économiques et sectorielles à orientation macroéconomique et institutionnelle. S'il possède de bonnes compétences analytiques et un bon niveau d'anglais, son profil manque de la formation en économie appliquée ou sciences politiques requise pour ce poste au sein du Trésor.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246627](https://mon-vie-via.businessfrance.fr/offres/246627)
-
-**Description du poste**
-
-Le Service économique de Mascate, en lien avec le Service Economique Régional d’Abu Dhabi auquel il est rattaché, a pour mission de suivre et d’analyser pour le compte de l’administration française le contexte macroéconomique et financier du Sultanat d’Oman, les politiques économiques et industrielles qui y sont développées et les opportunités sectorielles qui peuvent y apparaître en informant en tant que de besoin les entreprises françaises. 
-
-Il propose un soutien aux entreprises françaises dans l’approche du marché omanais et anime la relation économique bilatérale avec ses partenaires, en particulier les Conseillers du Commerce Extérieur de la France, le bureau régional Business France de Dubaï, le bureau de Bpifrance à Dubaï, ainsi que l’OFA (Oman France Amitié), association jouant localement le rôle d’une Chambre de Commerce bilatérale. Il a vocation à préparer et coordonner l’organisation des visites officielles à caractère économique en France et en Oman. 
-
-Le Service économique de Mascate comprend 2 agents dont le Chef de Service économique et le/la VIA, qui assure de fait la fonction d’adjoint(e).
-
-MISSION ET ATTRIBUTIONS DU/DE LA VIA :
-
-En lien étroit avec le Chef du Service économique, l’intéressé(e) travaillera sur 3 axes principaux : 
-
-•	réalisation de travaux sous forme de notes relatives à l’environnement macroéconomique et financier du Sultanat d’Oman et aux principaux secteurs d’activité (énergies renouvelables, « utilities », hydrocarbures, digital, data centers, IA transports, aérien), en lien avec les grands projets suivis par les entreprises françaises ; 
-•	rédaction de la lettre quadrimestrielle du Service économique (« Objectif Oman ») destinée aux entreprises françaises et offrant une analyse de l’actualité économique et sectorielle du pays ;
-•	participation active aux commandes de l’Ambassade, à la préparation d’entretiens de haut niveau et à l’organisation et l’accueil de missions officielles et des partenaires à l’export.
-
-Le/la VIA contribuera également aux travaux récurrents du poste, qu’il s’agisse de la rédaction de la contribution du SE d’Oman pour les brèves économiques hebdomadaires « péninsule arabique » (pilotées par le SER d’Abu Dhabi), des réponses aux commandes de la Direction et du SER d’Abu Dhabi et de l’alimentation en contenu du site internet du SE de Mascate.
-
-PROFIL : 
-
-Formation économique (Master 2 analyse économique, relations économiques internationales ; école de commerce, université, majeure macro / microéconomie) dans l’idéal complétée d’une formation généraliste (type institut d’études politiques). Une première expérience au sein de l’administration française et/ou en entreprise, si possible à l’étranger, constituerait un avantage, de même que des notions de langue arabe littérale.
-
-COMPETENCES REQUISES :
-
-•	fortes capacités analytiques et rédactionnelles
-•	connaissance des sujets économiques et financiers
-•	capacités de recherche 
-•	capacités relationnelles 
-•	réactivité et respect des délais
-•	ouverture et capacité à travailler en collaboration avec des interlocuteurs variés
-•	autonomie 
-•	très bon niveau d’anglais (C1)
-
-DIVERS : 
-
-Climat marqué par des températures extrêmes (40°C et plus avec des ressentis au-delà de 50°C) et une très forte humidité (50 à 70%) pendant cinq mois de l’année (mai à septembre).
-
-Lenteur des démarches administratives (visa, carte d’identité, permis de conduire) : anticiper le plus possible avant la prise de fonctions
-
-Restrictions alimentaires : pas de charcuterie, alcool cher ; interdiction de boire, manger, fumer en public pendant le mois de ramadan.
-
-Permis de conduire vivement conseillé (prévoir location / achat d’un véhicule pour se déplacer)
-
-Excellentes conditions sécuritaires (pas de vols, agressions, cambriolages), mais prudence néanmoins sur les routes et lors d’orages, très peu fréquents, mais souvent violents.
-
-**Profil recherché**
-
-Formation économique (Master 2 analyse économique, relations économiques internationales ; école de commerce, université, majeure macro / microéconomie) dans l’idéal complétée d’une formation généraliste (type institut d’études politiques). Une première expérience au sein de l’administration française et/ou en entreprise, si possible à l’étranger, constituerait un avantage, de même que des notions de langue arabe littérale.
-
-Niveau C1 en anglais
-
-Merci d'envoyer vos CV UNIQUEMENT EN FRANCAIS
 
 </details>
 
@@ -5105,117 +5039,6 @@ Attention to detail and commitment to data accuracy.
 Team player with excellent communication skills.
 Curiosity and willingness to learn in a fast-paced global environment.
 Ability to work effectively under pressure and meet deadlines.
-
-</details>
-
-<details>
-<summary><strong>VIE - Quantitative Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** ENGIE GLOBAL MARKETS
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 08/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245664](https://mon-vie-via.businessfrance.fr/offres/245664)
-
-**Description du poste**
-
-Context:
-
-The Expertise Center (EC) Quantitative Research and Modeling (QRM) within ENGIE Supply and Energy Management is a team of around 100 quantitative analysts. It’s mission is to provide advanced quantitative expertise to all Business Platforms (BP) of S&EM and to Engie worldwide.
-The VIE quantitative analyst will be part of the “Pricing” team (approximately 15 people). The focus of the VIE will be to assist in the development of quantitative models, with a focus on the power markets.
-
-
-Role:
-
-The VIE quantitative analyst should assist in the design and development of robust quantitative tools that have a concrete impact on the power business:
-•	Work very closely with the different Power Trading teams. He / She needs to understand their business needs, and needs to provide them with high-quality quantitative support in their day to day activities.
-•	Participate in enhancing the existing pricing and managing framework.
-•	Deliver ad hoc tactical solutions as well as assist in development of new pricers in the official pricing library.
-•	Play a key role for developing new products, linked for example to the renewable and battery business (pricing, managing strategies, various risk indicators, …).
-•	Promote best coding practices that comply with general rules and standards.
-•	Document and share knowledge across S&EM on the different models used within S&EM.
-
-**Profil recherché**
-
-Hard skills:
-
-•	Must have:
-o	Strong Financial Mathematical background (probability, stochastic calculus, various numerical methods such as Monte Carlo, finite differences, …)
-o	Coding experience (preferably C# and python), object oriented programming skills
-o	Familiar with Git
-
-•	Good to have:
-o	Experience on the power markets
-o	Experience on different optimization methods
-o	Experience in a trading environment
-
-Soft skills:
-
-•	Must have:
-o	Practical and conceptual thinking
-o	Ability to explain and convey messages about complex issues
-o	Ability to deliver concrete solutions
-o	Autonomy
-o	Working together
-
-
-
-Education and professional background:
-
-•	Engineering or university degree (Master of PhD) in Computer Sciences, Applied Mathematics, Statistics, Physics, Financial Engineering.
-
-Languages:
-•	English
-
-</details>
-
-<details>
-<summary><strong>FINANCIAL SERVICES ANALYST – ACCOUNTS RECEIVABLES (H/F)</strong> · IVECO FRANCE · ZEDELGEM, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** IVECO FRANCE
-- **Lieu :** ZEDELGEM, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 08/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245660](https://mon-vie-via.businessfrance.fr/offres/245660)
-
-**Description du poste**
-
-•	Guarantee timely, accurate and compliant processing of Accounts Receivable operations & Improve and monitor the quality of the accounts receivable portfolio
-	Cash allocation activities & handling banking flows (direct debit collection and outgoing payments)
-	Follow-up closely requests from the Portfolio Management teams, Trade Finance teams and other direct stakeholders.
-	Contract management and invoice acquisition activities + solve potential technical issues.
-	Respect deadlines. (e.g. monthly closing, projects)
-	Perform monthly reconciliations to ensure accurate status of the accounts receivable portfolio & provide A/R reporting as per the serviced Legal Entity requirements.
-	Ensure all actions and transactions are in line with the Policies & Procedures of the Group.
-	Gather supporting evidence in case of internal and external audit.
-	Prepare and present during monthly & quarterly servicing review meetings with the main stakeholders and assure Servicing dashboards and performance are in line with business needs.
-	Support the Commercial Lending team with collection & past due activities.
-
-•	Support Business developments and ensure efficient usage of available systems and tools.
-	Define opportunities for harmonization and process improvement for the serviced Legal Entity.
-	Pro-active approach, making efficiency proposals within own scope.
-	Provide training and active support to dealers (mostly in local language of the dealer) to explain our Dealer Portal functionalities and increase utilization.
-	Share system and business expertise and best practices.
-
-•	Maintain a solid cooperation and relationship with all the direct stakeholders.
-	Maintain a close communication and relationship with the dealers/customers. Service as much as possible in the local language.
-	Ensure a good cooperation and communication with the local Portfolio Management and Trade Finance teams.
-
-**Profil recherché**
-
-Key requirements:
-•	Bachelor or Master degree in Finance/Accounting/Business management (or equal through experience).
-•	Experience in a financial or accounting environment is an asset.
-•	Knowledge of Accounts Receivable accounting principles, policies, rules and flows. 
-•	Experience with SAP is an asset.
-•	Advanced knowledge of MS Office.
-•	Fluent knowledge of English and French (written and spoken).
-•	Change-oriented mindset with drive for improvement, efficiency, automation and digitalization.
-•	Customer-centric attitude and strong communication skills.
-•	Analytical skills and a critical view
-•	Flexible team player able to work under pressure and to respect tight deadlines.
 
 </details>
 
