@@ -1295,7 +1295,7 @@
     "ca": null,
     "effectif": 0,
     "effectifFiscal": "150",
-    "effectifInd": "39",
+    "effectifInd": "40",
     "effectifConso": "0",
     "organizationCountryCounter": "0",
     "organizationExpertise": null,
@@ -1305,16 +1305,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "202"
+      "[\"202\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers. Dans le cadre de son développement, ProCapital recherche : \n\nUn(e) Gestionnaire Back Office « Réconciliation »\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Le contrôle des opérations titres et cash dans leur ensemble (corporate actions, trades sur actions, trades sur options, dépôt cash etc.)\n- Le contrôle des positions titres (détenues chez différents dépositaires)\n- La production de plusieurs rapports à destination des équipes du Back-office et du Management\n- La détection et le suivi des opérations à risque\n- La rédaction et mise à jour de procédures opérationnelles et processus internes\n- L’identification des incidents et éventuels dysfonctionnements, ainsi que la remontée des alertes\n- Le traitement des demandes d’information des clients et du service interne relation clientèle\n- L’évolution des processus et l’amélioration des systèmes;",
     "creationDate": "2026-09-30T13:58:43Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2068,16 +2061,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "About CAPZA\r\n\r\nCAPZA(1) is an established European private investment platform focused on small and mid-cap companies, which is part of BNP Paribas Asset Management Alts, a leading European alternative investment platform with over €300bn in assets under management (2).\r\n\r\nWith €10.5 billion of assets(3), CAPZA puts its experience and passion for investing at the service of investors in Europe and worldwide with its platform of 6 complementary areas of expertise: Growth Tech, Flex Equity, Flex Equity Mid-Market, Transition(4), Private Debt et Artemid(5).\r\n\r\nCAPZA offers financing solutions to small and mid-cap companies at every stage of their development. Its unique platform allows CAPZA to support companies over the long term by providing them with custom made financing solutions (majority equity, minority equity, subordinated debt, senior debt, etc.). CAPZA is a generalist but has built up strong expertise in supporting companies in the health, technology and services sectors.\r\n\r\nCAPZA Group has more than 120 employees based in Paris, Munich, Madrid, Milan and Amsterdam, and is part of AXA IM Alts, one of the world's leading alternative investment firms with €190 billion in assets under management5.\r\n\r\nMore information: www.capza.co\r\n\r\n CAPZA in figures\r\n\r\n- 266 SMEs and mid-sized companies supported since 2004\r\n- Over 120 employees based in Paris (our headquarters), Munich, Madrid, Milan, and Amsterdam\r\n- €10.5 billion in assets under management\r\n\r\nWould you like to join a mid-sized company where you can truly make an impact on its development? We are looking for talented and motivated candidates to support the growth of our platform. Team spirit is deeply rooted in CAPZA’s entrepreneurial culture. Our employees are curious, pragmatic, and humble. They are passionate about their work and place excellence at the heart of everything they do.\r\n\r\n📌 CAPZA is committed to equal opportunity and positive action in employment. We are dedicated to recruiting talented and diverse individuals and to fostering an inclusive and collaborative culture, as we believe that multiple perspectives lead to better-informed decisions. We welcome candidates with diverse life experiences who are eager to bring fresh ideas and recognized expertise in their field.\r\n\r\n\r\n(1)CAPZA is the commercial name of Atalante SAS, portfolio management company approved on 11/29/2014 by the « Autorité des Marchés Financiers » under GP-04000065.(2)Source: BNP Paribas AM Alts as of 30/09/2025.(3)Including assets advised by Artemid SAS. Based on valuations as of 30/09/2025 and including funds raised until December 2026.(4) The funds of the CAPZA Transition range are managed by the asset management company CAPZA, and advised by CAPZA Transition SAS which has financial investment advisor status (CIF in France), is registered under the Orias under the number 18001601 since the 03/23/2018.(5) The funds of the Artemid range are managed by the asset management company CAPZA and advised by Artemid SAS, which is a subsidiary of CAPZA and has financial investment advisor status (CIF in France). Artemid SAS is registered by the Orias under the number 14003497 since the 05/28/2014.\r\n\r\nAbout CAPZA Private Debt\r\n\r\nCAPZA is a leading private debt investor with over 20 years of experience, actively investing across five core regions: France, Germany, Benelux, Spain, and Italy. With more than €5 billion in commitments and over 340 investments since 2004, CAPZA has built an exceptional long-term track record and is currently raising its seventh private debt fund. Through our regional offices, we maintain strong local relationships and networks to identify the most attractive investments opportunities, ranging from Unitranches and junior debt to equity-linked instruments. CAPZA is seeking a VIE in Munich for its Private Debt strategy to support the analysis and execution of investments across the DACH region.\r\n\r\nKey Responsibilities\r\n\r\nOur VIEs become fully integrated members of the investment team to take the following responsibilities:\r\n-  Supporting the analysis and execution of potential private debt investments in mid-cap companies across the DACH region.\r\n-  Screening investment opportunities by conducting detailed financial and commercial analysis for credit assessments which form the basis for decisions on new investments.\r\n-  Preparing and reviewing LBO models to determine adequate debt capacities and structures.\r\n-  Contributing to drafting investment memoranda on new opportunities for the Investment Committee.\r\n-  Supporting the monitoring and reporting of existing investments in the portfolio.\r\n-  Creating high-quality presentations and pitch materials for internal and external stakeholders.\r\n-  Contributing to internal projects and related tasks to drive growth, efficiencies, and collaboration.",
     "creationDate": "2026-09-28T14:45:27Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -2537,16 +2523,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "1- Mission comptable\r\n\r\nParticipation à la supervision de la comptabilité pour une société française et une société espagnole sur Pennylane.\r\n\r\nInterlocuteur de l’expert comptable français et espagnol et aide à  l’établissement du bilan en lien avec les cabinets d’expert comptable\r\n\r\n\r\n2- Mission de contrôle de gestion\r\n\r\nParticipation l'établissement d’un P&L mensuel  avec analyse des évolutions et du budget annuel avec suivi des écarts durant l’année.\r\n\r\nMise en place d’un suivi consolidé de la trésorerie\r\n\r\nPréparation de la facturation interne entre les différentes entités du groupe\r\n\r\n\r\n3- Mission opérationnelle et administrative\r\n\r\nRevue et validation des factures fournisseurs \r\n\r\nSuivi de l’encaissement des clients via les plateformes de paiements du site \r\n\r\nSuivi des avoirs, paiements divers, relances clients débiteurs avec le département des ventes\r\n\r\nAide à la personne en charge des paiement des fournisseurs et propriétaires\r\n\r\nCoordination des flux financiers dans les autres entités du groupes sous la responsabilité du CEO\r\n\r\nAide à la gestion de nouveaux projets pour l’automatisation et l’amélioration du CRM et mise en place de process IA dans le département Finance\r\n\r\nAide à la gestion de certaines tâches administratives et liées aux ressources humaines.",
     "creationDate": "2026-09-29T11:10:05Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -4371,317 +4350,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "2",
-      "29",
-      "60",
-      "62",
-      "63",
-      "64",
-      "65",
-      "66",
-      "68",
-      "69",
-      "70",
-      "71",
-      "72",
-      "73",
-      "76",
-      "109",
-      "114",
-      "134",
-      "138",
-      "149",
-      "150",
-      "155",
-      "158",
-      "159",
-      "160",
-      "168",
-      "169",
-      "197",
-      "205",
-      "206",
-      "207",
-      "208",
-      "209",
-      "224",
-      "225",
-      "244",
-      "248",
-      "251",
-      "262",
-      "264",
-      "330",
-      "331",
-      "358",
-      "361"
+      "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "29",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique industrielle",
-        "specializationLabelEn": "Industrial Computing"
-      },
-      {
-        "specializationId": "60",
-        "specializationParentId": "59",
-        "specializationLabel": "Aéronautique",
-        "specializationLabelEn": "Aeronautics"
-      },
-      {
-        "specializationId": "62",
-        "specializationParentId": "196",
-        "specializationLabel": "Bâtiment – Construction – Second Oeuvre",
-        "specializationLabelEn": "Building - Construction - Finishings"
-      },
-      {
-        "specializationId": "63",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie - Génie Chimique",
-        "specializationLabelEn": "Chemicals - Chemical Engineering"
-      },
-      {
-        "specializationId": "64",
-        "specializationParentId": "59",
-        "specializationLabel": "Dessin industriel",
-        "specializationLabelEn": "Industrial Design"
-      },
-      {
-        "specializationId": "65",
-        "specializationParentId": "59",
-        "specializationLabel": "Electromécanique",
-        "specializationLabelEn": "Electro-mechanics"
-      },
-      {
-        "specializationId": "66",
-        "specializationParentId": "59",
-        "specializationLabel": "Electronique",
-        "specializationLabelEn": "Electronics"
-      },
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "69",
-        "specializationParentId": "255",
-        "specializationLabel": "Environnement - Ecologie",
-        "specializationLabelEn": "Environment - Ecology"
-      },
-      {
-        "specializationId": "70",
-        "specializationParentId": "196",
-        "specializationLabel": "Génie Civil – Travaux publics",
-        "specializationLabelEn": "Civil Engineering - Public Works"
-      },
-      {
-        "specializationId": "71",
-        "specializationParentId": "59",
-        "specializationLabel": "Génie Electrique",
-        "specializationLabelEn": "Electrical Engineering"
-      },
-      {
-        "specializationId": "72",
-        "specializationParentId": "255",
-        "specializationLabel": "Hydraulique - Thermique",
-        "specializationLabelEn": "Hydraulics - Thermal Industry"
-      },
-      {
-        "specializationId": "73",
-        "specializationParentId": "59",
-        "specializationLabel": "Instrumentation - Automatisme - Robotique",
-        "specializationLabelEn": "Instrumentation - Automatism - Robotics"
-      },
-      {
-        "specializationId": "76",
-        "specializationParentId": "59",
-        "specializationLabel": "Métallurgie",
-        "specializationLabelEn": "Metallurgy"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "114",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie des matériaux",
-        "specializationLabelEn": "Materials sector"
-      },
-      {
-        "specializationId": "134",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie de l'eau",
-        "specializationLabelEn": "Water Engineering"
-      },
-      {
-        "specializationId": "138",
-        "specializationParentId": "212",
-        "specializationLabel": "Intelligence artificielle",
-        "specializationLabelEn": "Artificial Intelligence"
-      },
-      {
-        "specializationId": "149",
-        "specializationParentId": "58",
-        "specializationLabel": "Génie Industriel",
-        "specializationLabelEn": "Industrial Engineering"
-      },
-      {
-        "specializationId": "150",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de la production",
-        "specializationLabelEn": "Production Management"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "159",
-        "specializationParentId": "59",
-        "specializationLabel": "Soudage",
-        "specializationLabelEn": "Welding"
-      },
-      {
-        "specializationId": "160",
-        "specializationParentId": "59",
-        "specializationLabel": "Fonderie",
-        "specializationLabelEn": "Foundry"
-      },
-      {
-        "specializationId": "168",
-        "specializationParentId": "255",
-        "specializationLabel": "Nucléaire",
-        "specializationLabelEn": "Nuclear Industry"
-      },
-      {
-        "specializationId": "169",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie des procédés",
-        "specializationLabelEn": "Process Engineering"
-      },
-      {
-        "specializationId": "197",
-        "specializationParentId": "89",
-        "specializationLabel": "Conducteur",
-        "specializationLabelEn": "Driver"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "207",
-        "specializationParentId": "58",
-        "specializationLabel": "Méthodes - Process",
-        "specializationLabelEn": "Methods"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "209",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité systèmes",
-        "specializationLabelEn": "Quality systems"
-      },
-      {
-        "specializationId": "224",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécatronique",
-        "specializationLabelEn": "Mecatronics"
-      },
-      {
-        "specializationId": "225",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécanique des fluides",
-        "specializationLabelEn": "Mechanics of fluids"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "251",
-        "specializationParentId": "24",
-        "specializationLabel": "Ingénierie système",
-        "specializationLabelEn": "Systems engineering"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      },
-      {
-        "specializationId": "331",
-        "specializationParentId": "212",
-        "specializationLabel": "Réseaux et Sécurité Informatique",
-        "specializationLabelEn": "Réseaux et Sécurité Informatique"
-      },
-      {
-        "specializationId": "358",
-        "specializationParentId": "24",
-        "specializationLabel": "ERP management",
-        "specializationLabelEn": "ERP management"
-      },
-      {
-        "specializationId": "361",
-        "specializationParentId": "24",
-        "specializationLabel": "Systèmes embarqués",
-        "specializationLabelEn": "Systèmes embarqués"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. \n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions : \nSupply chain & distribution \nRéalisation d'audit\nRéalisation de plans d'actions\n\nVos responsabilités métier \n\nDans l’exercice de vos fonctions, vous serez amené à : \nOptimiser les flux de production\nIdentifier et suivre les actions d’amélioration avec les équipes internes \nSuivre et pérenniser les plans d’actions via des audits\nPiloter la planification de la production en fonction de la demande client et des capacités industrielles\nOptimiser les flux de matières, d’informations et de produits finis\nGérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités\nAccompagner les équipes dans la mise en place des bonnes pratiques\nCoordonner les projets d’amélioration de la maturité Supply Chain\nAnalyser les indicateurs de performance (KPI) et proposer des actions correctives\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
     "creationDate": "2026-08-21T14:42:01Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5512,16 +5183,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le groupe BK CONSULTING est une ESN de 800 personnes active dans les secteurs de la finance et de l’industrie en France, en Belgique et au Grand-Duché du Luxembourg. Notre proposition de valeur réside dans notre double compétence informatique et financière qui nous positionne comme un partenaire privilégié chez nos clients. Dans le cadre du développement de nos activités en Belgique et au Grand-Duché du Luxembourg, nous recherchons un/des Business Consultant en VIE.\r\n\r\nMissions Proposées :\r\nParticiper à des analyse de processus métiers.\r\nSpécifier les attentes des utilisateurs à destination de l'informatique.\r\nGestion et suivi de processus back office et middle office (AML/KYC). Analyse de dossiers clients corporate et particuliers.\r\nIdentification des projets et des besoins de vos clients.\r\n\r\nNotre offre, un management et une équipe qui supportent votre dynamique. Un acteur bien implanté et reconnu sur ses marchés. Des outils de travail adaptés. Des perspectives d’évolution significatives au sein du groupe.",
     "creationDate": "2026-09-21T13:32:04Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -7101,72 +6765,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "7",
-      "8",
-      "21",
-      "22",
-      "109",
-      "119",
-      "219",
-      "372"
+      "[\"6\",\"7\",\"8\",\"21\",\"22\",\"109\",\"119\",\"219\",\"372\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "22",
-        "specializationParentId": "216",
-        "specializationLabel": "Marketing",
-        "specializationLabelEn": "Marketing"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "119",
-        "specializationParentId": "89",
-        "specializationLabel": "Hôtellerie - Restauration",
-        "specializationLabelEn": "Hotel and Catering Sector"
-      },
-      {
-        "specializationId": "219",
-        "specializationParentId": "216",
-        "specializationLabel": "Marketing Digital",
-        "specializationLabelEn": "Digital Marketing"
-      },
-      {
-        "specializationId": "372",
-        "specializationParentId": "255",
-        "specializationLabel": "RSE",
-        "specializationLabelEn": "RSE"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "QUI SOMMES NOUS ?\r\n\r\nVous souhaitez intégrer une PME dynamique et travailler sur des projets socialement innovants ?\r\n\r\nLe groupe Ethik Investment a développé depuis près de 22 ans les restaurants et espaces sensoriels Dans le Noir ? 9 pays, 15 villes (Paris, Nantes, Bordeaux, Strasbourg, Toulouse, Tours, Marseille, Londres, Madrid, St Pétersbourg, Le Caire, Bruxelles, Luxembourg, Genève, Lisbonne) pour faire vivre des expériences sensorielles, sociales et humaines uniques dans le noir absolu.\r\nLe concept est plébiscité par la presse et le grand public ; les restaurants Dans le Noir ? sont devenus de véritables institutions avec près de 3 millions de visiteurs.\r\nEn savoir + : www.danslenoir.com\r\n\r\n\r\nPOSTE ET MISSIONS :\r\nSous la responsabilité de la Direction de la marque DANS LE NOIR ?, vous aurez pour mission :\r\n\r\nRELATION CLIENTS - FLOOR :\r\nCoordination des dîners du restaurant Dans le Noir ? Genève au sein du Ritz-Carlton Genève, les vendredis/ samedis / dimanches soir\r\n- Accueil des clients, organisation et coordination des services, débriefing clients\r\n- Suivi, Organisation et supervision des réservations et demandes clients\r\n- Suivi et optimisation de la vente de bons cadeaux en ligne\r\n\r\nCOORDINATION :\r\n- Optimisation du fonctionnement et de l’organisation du restaurant et des relations avec le partenaire (Suivi de la création des menus avec le Chef et participation aux tastings pour valider les menus, de la communication avec les équipes, du fonctionnement opérationnel du projet,…)\r\n- Suivi de l’équipe de guides-serveurs : planning, recrutement, management formation \r\n- Suivi administratif et reporting comptables mensuel\r\n\r\nCOMMUNICATION\r\n- Suivi de la communication interne et externe du restaurant et des RP (en relation avec le pôle communication DLN et du Ritz-Carlton)\r\n- Gestion des réseaux sociaux en lien avec les guidelines du siège (Facebook, Instagram)\r\n- Gestion de l’e-réputation du restaurant sur les plateformes en ligne (Tripadvisor, Google Business)\r\n- Rédaction d’articles de blog pour le référencement (SEO) en lien avec notre équipe com\r\n\r\nDEVELOPPEMENT / COMMERCIAL / EVENEMENTIEL\r\n- Organisation et suivi d’événements, de partenariats et d’animations\r\n- Prospection, relance, suivi commercial\r\n- Optimisation développement B2B\r\n- Organisation d’évènements « out of the box”\r\n\r\nVous serez en relation régulièrement avec :\r\n- Notre partenaire hôtelier pour piloter/développer le concept\r\n- Les équipes de Dans le Noir ? en France et à l’international (partage de bonnes pratiques et d’idées ; opérations de communication…). Réunions en ligne hebdomadaires + 2 séminaires / an.\r\n\r\nLe restaurant Dans le Noir ? Genève a ouvert ses portes en janvier 2023 au sein du Ritz-Carlton Genève,  Hotel de la Paix.\r\nVOS OBJECTIFS :\r\n- Poursuivre le développement de la notoriété du restaurant DLN Genève\r\n- Viser un taux de remplissage :constamment en croissance\r\n- Développer les privatisations B2B\r\n- Qualité : Maintien sur le podium (TOP 3) sur TripAdvisor\r\n- Fédérer l’équipe de guides serveurs à travers un accompagnement bienveillant\r\n- Poursuivre de développer une collaboration saine et efficace de partenariat avec l'hôtel Ritz-Carlton\r\n\r\nDEBUT DE  MISSION (1er décembre 2026 ou 1er janvier 2027)",
     "creationDate": "2026-09-08T08:52:42Z",
     "missionStartDate": "2026-12-01T00:00:00",
