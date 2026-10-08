@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **08/10/2026 10:53:29**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **08/10/2026 11:08:04**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -117,6 +117,45 @@ Languages:
 •	German (B2) and English (B2)
 Travels:
 •	The job is based in Berlin, travels to Brussels or Paris occasionally
+
+</details>
+
+<details>
+<summary><strong>Data Analyst - Marketing Analytics (H/F)</strong> · SEB DEVELOPPEMENT · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** SEB DEVELOPPEMENT
+- **Lieu :** FRANCFORT, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion financier (FP&A) et non vers la data science marketing exigée par l'offre. S'il possède de bonnes bases en analyse de données et outils de BI, il lui manque les compétences techniques clés telles que Python, SQL et l'expérience des environnements cloud (AWS, Snowflake).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246807](https://mon-vie-via.businessfrance.fr/offres/246807)
+
+**Description du poste**
+
+As a V.I.E Data Analyst for a 12-month assignment renewable for an additional 12 months, you will join the Data Analytics team within the Marketing organization and contribute to the development of advanced analytical solutions supporting business growth.
+
+Your responsibilities will include:
+
+Collecting, validating, transforming and integrating data provided by retail customers (sell-out, market shares, stocks, traffic, etc.) as well as internal and external data sources (CRM, media and other business data).
+Creating and maintaining dashboards in Qlik Sense and delivering ad-hoc analyses to support business decisions.
+Continuously improving existing dashboards through automation and development of new KPIs.
+Automating data processes within AWS and Snowflake environments and developing data pipelines using Python when required.
+Translating analyses into actionable recommendations and business insights.
+Collaborating closely with Key Account Management, Marketing, Supply Chain and Finance teams.
+Working alongside global Data Engineering and Data Governance teams.
+Leading workshops and providing training to business users.
+Evaluating the ROI of category projects, promotional campaigns and other commercial activation initiatives.
+Promoting a data-driven mindset and actively supporting the company's ongoing transformation.
+
+**Profil recherché**
+
+Bring your competencies
+Master's degree (Business School, University or equivalent) with a specialization in Data Analytics, Business Analytics, Marketing Analytics, Applied Mathematics or Business Intelligence.
+First experience in data analysis, business controlling, category management, marketing analytics or business intelligence through internships or apprenticeships.
+Strong analytical mindset with knowledge of SQL, Python and data visualization tools such as Qlik Sense.
+Exposure to cloud environments (AWS, Snowflake) and experience with reporting, dashboards or database queries would be an advantage.
+Fluent English required (minimum C1 level). German language skills are a plus
 
 </details>
 

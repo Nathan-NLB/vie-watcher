@@ -179,6 +179,10 @@
     "score": 85,
     "raison": "Le profil correspond parfaitement aux exigences académiques et techniques grâce à la maîtrise de Power BI et une solide expérience en contrôle budgétaire et reporting. Le principal écart réside dans l'absence de mention de l'allemand, utile en Suisse, et d'un passage en cabinet d'audit."
   },
+  "246807": {
+    "score": 45,
+    "raison": "Le profil de Nathan est fortement orienté vers le contrôle de gestion financier (FP&A) et non vers la data science marketing exigée par l'offre. S'il possède de bonnes bases en analyse de données et outils de BI, il lui manque les compétences techniques clés telles que Python, SQL et l'expérience des environnements cloud (AWS, Snowflake)."
+  },
   "246809": {
     "score": 45,
     "raison": "Le profil de Nathan présente de solides compétences analytiques et financières, mais l'offre relève du secteur de l'énergie (Supply Portfolio & Grid Management) et exige impérativement la maîtrise de l'allemand ainsi que des compétences techniques en data (Python) non mentionnées chez le candidat."
