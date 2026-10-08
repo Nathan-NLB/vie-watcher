@@ -182,5 +182,9 @@
   "246809": {
     "score": 45,
     "raison": "Le profil de Nathan présente de solides compétences analytiques et financières, mais l'offre relève du secteur de l'énergie (Supply Portfolio & Grid Management) et exige impérativement la maîtrise de l'allemand ainsi que des compétences techniques en data (Python) non mentionnées chez le candidat."
+  },
+  "246833": {
+    "score": 30,
+    "raison": "Le profil de Nathan est spécialisé en contrôle de gestion et FP&A, alors que l'offre concerne le marketing événementiel et la relation investisseurs (Corporate Access). Bien que l'environnement international et le secteur financier correspondent, les compétences techniques et les missions attendues sont très éloignées de son expérience."
   }
 }

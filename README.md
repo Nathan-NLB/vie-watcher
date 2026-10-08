@@ -8,11 +8,165 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **08/10/2026 09:35:49**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **08/10/2026 09:52:58**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>V.I.E - MARKETING ÉVÉNEMENTIEL CORPORATE ACCESS - H/F (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** ODDO BHF SCA
+- **Lieu :** FRANCFORT, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 30 % — Le profil de Nathan est spécialisé en contrôle de gestion et FP&A, alors que l'offre concerne le marketing événementiel et la relation investisseurs (Corporate Access). Bien que l'environnement international et le secteur financier correspondent, les compétences techniques et les missions attendues sont très éloignées de son expérience.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246833](https://mon-vie-via.businessfrance.fr/offres/246833)
+
+**Description du poste**
+
+Le Corporate Access est un service intégré au sein des salles des marchés d'ODDO BHF Securities et destiné à mettre en relation des sociétés cotées européennes avec des investisseurs institutionnels français et étrangers. Cela prend la forme de roadshows, composés de meetings (One-to-One, One-to-Few, Group meetings) entre sociétés de gestion et des sociétés cotées, de road trip, de visites de site, de forums.
+Au sein de l'organisation globale des opérations d’ODDO BHF Corporates &amp; Markets sur les marchés Equity, vos principales missions seront les suivantes : 
+•Organisation des roadshows (emailings, contacts avec des Corporates et la base clients, mise à jour de base de données (CRM))
+•Organisation des événements avec nos analystes (roadshow des analystes, visioconférence thématiques hebdomadaires).
+Selon le sérieux et la fiabilité du volontaire, possibilités d’évolution et de prises de responsabilité.
+•Aide à l’organisation des forums (création de save-the-date/invitations, relation avec les prestataires, gestion de la base de données et des relations clients, statistiques)
+Votre équipe et votre environnement
+Vous serez basé(e) à Francfort et intégrerez une équipe jeune et dynamique présente en France (Paris et Lyon), à Francfort, à Amsterdam et à New York. Au regard du champ d’application du poste, vous serez également amené à échanger fréquemment avec des interlocuteurs présents dans toutes nos plateformes Equity (Tunisie, Allemagne, Pays-Bas, Espagne, Etats-Unis).
+En tant que collaborateur au sein de l’équipe Corporate Access, vous intégrerez l’organisation d’un intermédiaire de marché et serez :
+- d’une part au contact des investisseurs institutionnels (que comprends notamment ODDO BHF AM et ODDO BHF BP), nos clients pris en charge par nos équipes de vente,
+- d’autre part au contact des managements et équipes des Relations Investisseurs des sociétés cotées, couverte par nos analystes sell-side.
+Cette double exposition vous permettra d’appréhender les différents métiers qui composent le brokerage et de comprendre leur apport et leur besoin
+
+**Profil recherché**
+
+- Vous  êtes Etudiant(e) en Grande école de commerce ou équivalent universitaire 
+- Une Expérience(s) en marketing, événementiel et/ou communication est la bienvenue 
+- Vous avez un intérêt pour les métiers de la finance Grande rigueur, réactivité, adaptabilité, organisation, maîtrise de soi dans un environnement actif, excellente aisance rédactionnelle et relationnelle 
+- Excellente maîtrise du Pack Office Anglais et français courants, l'allemand serait un plus.
+
+</details>
+
+<details>
+<summary><strong>Junior Financial Analyst (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
+
+- **Entreprise :** PLANISWARE
+- **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
+- **Indemnité :** 5 151,29 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 08/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245319](https://mon-vie-via.businessfrance.fr/offres/245319)
+
+**Description du poste**
+
+Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. 
+
+Planisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.
+
+The role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.
+
+Key Responsibilities:
+
+Financial Reporting & Analysis
+• Prepare and maintain financial reports and KPIs.
+• Assist with budgeting, forecasting, and variance analysis.
+• Analyze revenue, expenses, and key business metrics to identify trends and insights.
+• Support management reporting and ad hoc financial analyses.
+• Revenue Operations & Finance Support
+• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.
+• Assist in maintaining accurate data across CRM, payroll, and financial systems.
+• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.
+• Contribute to process improvement initiatives supporting commercial and finance operations.
+
+Expense Management & Financial Operations
+• Monitor employee travel and business expenses and support compliance with company policies.
+• Analyze spending trends and assist with cost control initiatives.
+• Support month-end, quarter-end, and year-end close activities.
+• Assist with operational reporting and other recurring finance processes.
+
+Business Systems & Process Improvement
+• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.
+• Help improve data quality, reporting consistency, and process efficiency.
+• Contribute to reporting automation and continuous improvement initiatives.
+
+**Profil recherché**
+
+Qualifications
+• Bachelor's degree in Finance, Accounting, Economics, Business, or a related field.
+•  1-2 years of experience in FP&A, accounting, or a related field.
+•  Experience supporting system implementations, system migrations, or business process improvement projects.
+•  Strong Excel skills, including pivot tables, lookups, and data analysis.
+•  High attention to detail and strong analytical problem-solving abilities.
+•  Excellent organizational and communication skills.
+•  Ability to manage multiple priorities and meet deadlines.
+•  Curious, proactive, and eager to learn.
+
+To apply: 
+Before applying, be sure to check the eligibility requirements for this destination: http://www.civiweb.com/FR/le-volontariat-international/conditions-du-VIE.aspx . The visa required for such a VIE position is subject to specific conditions of training and/or professional experience. When applying, please make sure to submit the English version of both your resume and cover letter. As all communications will be in English, your application email should be written in English as well.
+
+</details>
+
+<details>
+<summary><strong>Business Operations Analyst – San Francisco, CA (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
+
+- **Entreprise :** PLANISWARE
+- **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
+- **Indemnité :** 5 151,29 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 08/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244495](https://mon-vie-via.businessfrance.fr/offres/244495)
+
+**Description du poste**
+
+Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development.
+
+Planisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.
+
+The Role:
+As a Business Operations Analyst (VIE), you will support Planisware North America in key initiatives at the intersection of strategy, operations, and business transformation. This role is ideal for a candidate who is curious, analytical, and hands-on, with a strong interest in understanding how a business operates end-to-end. You will help identify opportunities to make operations more efficient and scalable. 
+
+In this role you will:
+• Support strategic initiatives by analyzing business performance and identifying areas for improvement 
+• Contribute to transformation projects aimed at improving processes, tools, and operational efficiency 
+• Help define and track key business metrics (KPIs) to support decision-making  
+• Build and maintain dashboards, reports, and models to monitor business performance 
+• Perform financial and operational analyses (e.g., forecasting, variance analysis, pipeline tracking) 
+• Translate data into actionable insights and clear recommendations for stakeholders 
+• Assist in structuring and optimizing internal processes across teams 
+• Work on cross-functional projects with teams such as Sales, Finance, Product, and Customer Success 
+• Help coordinate initiatives, track progress, and ensure alignment across stakeholders 
+• Break down complex problems into manageable steps and prioritize effectively 
+• Support leadership with presentations, reporting, and decision-making materials
+
+This is a unique opportunity to not only gain an inside and front-row view of Planisware's business operations, but also to use your own creative insights and problem-solving skills to enhance those processes. Add both depth and breadth to your career skills portfolio in a highly autonomous role for a company that recognizes and rewards top performers.
+
+This is a hybrid role, requiring in office work 4x a week, Monday-Thursday, and remote work allowed on Friday.
+
+**Profil recherché**
+
+Qualifications
+• Master’s degree in Business Administration, Engineering, Global Economy, or a related field.  
+• Minimum one year of professional or internship experience in business operations, consulting, or finance obtained either in France or abroad  
+• Fluency in English (written and spoken) 
+
+Preferred Qualifications
+     • Proficiency with a BI/visualization tool beyond Excel (Power BI, Tableau)  
+     • SQL or comfort querying databases to self-serve data  
+     • Familiarity with CRM and ERP systems (Salesforce, Marketo) 
+     • Experience in/exposure to B2B SaaS/enterprise software environments (including PPM), with an understanding of recurring revenue, 
+        pipeline, churn, and the sales-to-Customer Success lifecycle
+     • Understanding of core financial and operational metrics (ARR, pipeline coverage, forecast accuracy, win rates) 
+     • Any prior management consulting, strategy, or rotational-program experience  
+     • Discretion and sound judgment with confidential information 
+     • Strong executive communication with the ability to translate complex analysis into clear, concise messages for leadership 
+     • High attention to detail in executive-facing deliverables (decks, board materials, QBR prep)
+
+To apply
+Before applying, be sure to check the eligibility requirements for this destination: http://www.civiweb.com/FR/le-volontariat-international/conditions-du-VIE.aspx. The visa required for such a VIE position is subject to specific conditions of training and/or professional experience. When applying, please make sure to submit the English version of both your resume and cover letter. As all communications will be in English, your application email should be written in English as well.
+
+</details>
 
 <details>
 <summary><strong>VIE Supply Portfolio & Grid Manager in SPM Germany H/F (H/F)</strong> · ENGIE GLOBAL MARKETS · BERLIN, ALLEMAGNE · 3 248,43 €/mois</summary>
@@ -4332,125 +4486,6 @@ You don’t need to be a train enthusiast to thrive with us. We guarantee that w
 Important to note
 
 As a global business, we’re an equal-opportunity employer that celebrates diversity across the 63  countries we operate in. We’re committed to creating an inclusive workplace for everyone.
-
-</details>
-
-<details>
-<summary><strong>Junior Financial Analyst (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
-
-- **Entreprise :** PLANISWARE
-- **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
-- **Indemnité :** 5 151,29 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 14/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245319](https://mon-vie-via.businessfrance.fr/offres/245319)
-
-**Description du poste**
-
-Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. 
-
-Planisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.
-
-The role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.
-
-Key Responsibilities:
-
-Financial Reporting & Analysis
-• Prepare and maintain financial reports and KPIs.
-• Assist with budgeting, forecasting, and variance analysis.
-• Analyze revenue, expenses, and key business metrics to identify trends and insights.
-• Support management reporting and ad hoc financial analyses.
-• Revenue Operations & Finance Support
-• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.
-• Assist in maintaining accurate data across CRM, payroll, and financial systems.
-• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.
-• Contribute to process improvement initiatives supporting commercial and finance operations.
-
-Expense Management & Financial Operations
-• Monitor employee travel and business expenses and support compliance with company policies.
-• Analyze spending trends and assist with cost control initiatives.
-• Support month-end, quarter-end, and year-end close activities.
-• Assist with operational reporting and other recurring finance processes.
-
-Business Systems & Process Improvement
-• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.
-• Help improve data quality, reporting consistency, and process efficiency.
-• Contribute to reporting automation and continuous improvement initiatives.
-
-**Profil recherché**
-
-Qualifications
-• Bachelor's degree in Finance, Accounting, Economics, Business, or a related field.
-•  1-2 years of experience in FP&A, accounting, or a related field.
-•  Experience supporting system implementations, system migrations, or business process improvement projects.
-•  Strong Excel skills, including pivot tables, lookups, and data analysis.
-•  High attention to detail and strong analytical problem-solving abilities.
-•  Excellent organizational and communication skills.
-•  Ability to manage multiple priorities and meet deadlines.
-•  Curious, proactive, and eager to learn.
-
-To apply: 
-Before applying, be sure to check the eligibility requirements for this destination: http://www.civiweb.com/FR/le-volontariat-international/conditions-du-VIE.aspx . The visa required for such a VIE position is subject to specific conditions of training and/or professional experience. When applying, please make sure to submit the English version of both your resume and cover letter. As all communications will be in English, your application email should be written in English as well.
-
-</details>
-
-<details>
-<summary><strong>Business Operations Analyst – San Francisco, CA (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
-
-- **Entreprise :** PLANISWARE
-- **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
-- **Indemnité :** 5 151,29 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 14/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244495](https://mon-vie-via.businessfrance.fr/offres/244495)
-
-**Description du poste**
-
-Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development.
-
-Planisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.
-
-The Role:
-As a Business Operations Analyst (VIE), you will support Planisware North America in key initiatives at the intersection of strategy, operations, and business transformation. This role is ideal for a candidate who is curious, analytical, and hands-on, with a strong interest in understanding how a business operates end-to-end. You will help identify opportunities to make operations more efficient and scalable. 
-
-In this role you will:
-• Support strategic initiatives by analyzing business performance and identifying areas for improvement 
-• Contribute to transformation projects aimed at improving processes, tools, and operational efficiency 
-• Help define and track key business metrics (KPIs) to support decision-making  
-• Build and maintain dashboards, reports, and models to monitor business performance 
-• Perform financial and operational analyses (e.g., forecasting, variance analysis, pipeline tracking) 
-• Translate data into actionable insights and clear recommendations for stakeholders 
-• Assist in structuring and optimizing internal processes across teams 
-• Work on cross-functional projects with teams such as Sales, Finance, Product, and Customer Success 
-• Help coordinate initiatives, track progress, and ensure alignment across stakeholders 
-• Break down complex problems into manageable steps and prioritize effectively 
-• Support leadership with presentations, reporting, and decision-making materials
-
-This is a unique opportunity to not only gain an inside and front-row view of Planisware's business operations, but also to use your own creative insights and problem-solving skills to enhance those processes. Add both depth and breadth to your career skills portfolio in a highly autonomous role for a company that recognizes and rewards top performers.
-
-This is a hybrid role, requiring in office work 4x a week, Monday-Thursday, and remote work allowed on Friday.
-
-**Profil recherché**
-
-Qualifications
-• Master’s degree in Business Administration, Engineering, Global Economy, or a related field.  
-• Minimum one year of professional or internship experience in business operations, consulting, or finance obtained either in France or abroad  
-• Fluency in English (written and spoken) 
-
-Preferred Qualifications
-     • Proficiency with a BI/visualization tool beyond Excel (Power BI, Tableau)  
-     • SQL or comfort querying databases to self-serve data  
-     • Familiarity with CRM and ERP systems (Salesforce, Marketo) 
-     • Experience in/exposure to B2B SaaS/enterprise software environments (including PPM), with an understanding of recurring revenue, 
-        pipeline, churn, and the sales-to-Customer Success lifecycle
-     • Understanding of core financial and operational metrics (ARR, pipeline coverage, forecast accuracy, win rates) 
-     • Any prior management consulting, strategy, or rotational-program experience  
-     • Discretion and sound judgment with confidential information 
-     • Strong executive communication with the ability to translate complex analysis into clear, concise messages for leadership 
-     • High attention to detail in executive-facing deliverables (decks, board materials, QBR prep)
-
-To apply
-Before applying, be sure to check the eligibility requirements for this destination: http://www.civiweb.com/FR/le-volontariat-international/conditions-du-VIE.aspx. The visa required for such a VIE position is subject to specific conditions of training and/or professional experience. When applying, please make sure to submit the English version of both your resume and cover letter. As all communications will be in English, your application email should be written in English as well.
 
 </details>
 
