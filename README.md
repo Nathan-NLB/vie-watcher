@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **08/10/2026 09:52:58**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **08/10/2026 10:08:01**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -46,6 +46,77 @@ Cette double exposition vous permettra d’appréhender les différents métiers
 - Une Expérience(s) en marketing, événementiel et/ou communication est la bienvenue 
 - Vous avez un intérêt pour les métiers de la finance Grande rigueur, réactivité, adaptabilité, organisation, maîtrise de soi dans un environnement actif, excellente aisance rédactionnelle et relationnelle 
 - Excellente maîtrise du Pack Office Anglais et français courants, l'allemand serait un plus.
+
+</details>
+
+<details>
+<summary><strong>VIE Supply Portfolio & Grid Manager in SPM Germany H/F (H/F)</strong> · ENGIE GLOBAL MARKETS · BERLIN, ALLEMAGNE · 3 248,43 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** BERLIN, ALLEMAGNE
+- **Indemnité :** 3 248,43 €/mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 50 % — Le candidat possède d'excellentes compétences analytiques et un bon niveau d'anglais, mais son profil est orienté pur contrôle de gestion et non vers les marchés de l'énergie et le trading. De plus, l'offre exige un niveau d'allemand (B2) que le candidat ne possède pas, l'espagnol ne correspondant pas au pays de destination (Allemagne).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246810](https://mon-vie-via.businessfrance.fr/offres/246810)
+
+**Description du poste**
+
+Context:
+
+As one of Engie S&EM’s front divisions (Supply & Energy Management), the mission of Supply Portfolio Management (SPM) is to manage energy risks for Engie Energy Supply activities worldwide. As part of Germany business platform, the Supply Portfolio Management team (SPM) is at the heart of energy management of Engie’s german B2B portfolio.
+
+The SPM team interacts with several internal teams such as: sales teams, other SPM’s teams, Trading, IT, Finance, Risk, Back Office…
+
+SPM Germany is currently looking for young motivated Suppply Portfolio and Grid managers ready to dig into SPM operations and support our growth ambitions. The mission is intended for 2 years, with a start in January 2027.
+
+Role:
+
+As a supply portfolio & grid manager in SPM Germany, you will gradually perform the following tasks:
+
+•	You support the sales offering activity, structure and price standard and non-standard offers: by identifying potential risks and ensuring use of adequate and up to date costing models, risk bricks and data availability;
+•	You actively assess and manage commodity risks linked to the dynamics of a sales portfolio, for all its commodities – Power, Natural gas, Certificates - meaning operate and optimize costing, forecasting, sourcing, and hedging strategies, within a defined mandate;
+•	You operate various strategies to reduce, internalize or externalize risks, towards and in collaboration with stakeholders (Trading, other BUs);
+•	In collaboration with forecasting experts, you monitor and regularly review the expected consumption of your portfolio.
+•	You report the portfolio financials linked to the energy management results and performance to the business platform;
+•	You manage the market communication with Transport & Distribution network operators for balancing and metering: declaration of our customer’s connection points, scheduling of nominations, retrieval and control of official metering data.
+•	You use and challenge data, models, processes & tools to answers supplier’s vision and ambition;  
+•	You are involved in the development of the tools, models, process, and portfolio/data representation of all commercial offer's portfolio;
+•	You manage contacts with multiple stakeholders to which you present and explain pricing and energy management.
+
+**Profil recherché**
+
+•	Must have:
+o	Elevated level of numeracy and strong analytical skills, combined with a hands-on approach
+
+•	Good to have:
+o	Knowledge on financial products
+o	Understanding of trading and risk management business
+o	Knowledge on energy systems and markets
+o	Digital & Data proficiency: Python, APIs, Agents,…
+
+
+Soft skills:
+
+•	Must have:
+o	Willing to work in a front position with direct impact on Group’s and BU’s P&L
+o	Team player
+o	Highly resilient
+o	Result-oriented practical thinker
+o	Rigorous and accurate
+o	Autonomous
+o	Communication and presentation skills
+o	Customer focus
+o	Proactive and accountable
+
+Education and professional background:
+
+•	Engineering degree or business school, master
+ 
+Languages:
+•	German (B2) and English (B2)
+Travels:
+•	The job is based in Berlin, travels to Brussels or Paris occasionally
 
 </details>
 
