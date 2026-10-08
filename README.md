@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **08/10/2026 04:06:27**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **08/10/2026 04:30:34**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4958,124 +4958,6 @@ Key requirements:
 •	Customer-centric attitude and strong communication skills.
 •	Analytical skills and a critical view
 •	Flexible team player able to work under pressure and to respect tight deadlines.
-
-</details>
-
-<details>
-<summary><strong>Contrôleur de Gestion Financier (H/F)</strong> · ELIOR GROUP · BANGALORE, INDE · 2 592,72 €/mois</summary>
-
-- **Entreprise :** ELIOR GROUP
-- **Lieu :** BANGALORE, INDE
-- **Indemnité :** 2 592,72 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 07/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245633](https://mon-vie-via.businessfrance.fr/offres/245633)
-
-**Description du poste**
-
-Dans le cadre de son développement en Inde, notre filiale de Bangalore recherche un(e) VIE – Contrôleur de Gestion Financier.
-
-Rattaché(e) à la Direction Financière de la filiale et en lien étroit avec le management local ainsi qu’avec les équipes Finance du Groupe, vous contribuez au pilotage de la performance financière de la filiale.
-
-Le poste est résolument orienté finance, reporting et pilotage de la performance au niveau de la filiale. 
-
-Vos principales missions
-
-Reporting & clôtures financières
-
-Participer aux clôtures mensuelles et à la production du reporting financier de la filiale.
-Analyser les résultats par rapport au budget, au forecast et aux périodes précédentes.
-Préparer les analyses de P&L, chiffre d’affaires, marge, coûts et résultat opérationnel.
-Identifier les principaux écarts et en expliquer les causes.
-Contribuer à la préparation des reportings à destination du management local et du Groupe.
-
-Budget & Forecast
-
-Participer à la construction du budget annuel et des forecasts de la filiale.
-Challenger les hypothèses financières avec les différentes fonctions de l’organisation.
-Suivre l’atterrissage financier et identifier les risques et opportunités.
-Contribuer aux exercices de planification financière et aux analyses de scénarios.
-
-Analyse de la performance de la filiale
-
-Mettre en place et suivre les principaux KPI financiers.
-Analyser la rentabilité et les leviers de performance de la filiale.
-Réaliser des analyses ad hoc pour accompagner les décisions du management.
-Identifier les tendances, risques et opportunités financières et formuler des recommandations.
-
-Cash & Working Capital
-
-Participer au suivi de la trésorerie et du besoin en fonds de roulement.
-Analyser les principaux indicateurs de Working Capital : créances clients, dettes fournisseurs, stocks, etc.
-Contribuer aux plans d’amélioration du cash de la filiale.
-
-Coordination avec le Groupe
-
-Assurer la fiabilité et la cohérence des données financières remontées au Groupe.
-Participer aux échanges avec les équipes Finance Corporate / Régionales.
-Contribuer à l’amélioration des processus, outils et reportings financiers.
-
-**Profil recherché**
-
-Diplômé(e) d’une école de commerce, d’ingénieurs ou d’un Master en Finance / Contrôle de Gestion.
-Première expérience en finance, contrôle de gestion, audit ou analyse financière appréciée.
-Solides connaissances en analyse financière et comptabilité.
-Bonne maîtrise d’Excel ; la connaissance d’un ERP et/ou d’un outil de reporting constitue un plus.
-Anglais courant indispensable, à l’écrit comme à l’oral.
-Esprit analytique, rigueur et capacité à travailler avec des interlocuteurs internationaux.
-Autonomie, curiosité et capacité à évoluer dans un environnement multiculturel.
-Goût pour l’analyse et capacité à transformer les données financières en recommandations concrètes pour le management.
-
-</details>
-
-<details>
-<summary><strong>ANALYSTE M&A (H/F)</strong> · PRAMEX INTERNATIONAL · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** PRAMEX INTERNATIONAL
-- **Lieu :** MADRID, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 07/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245630](https://mon-vie-via.businessfrance.fr/offres/245630)
-
-**Description du poste**
-
-Présentation de la société :
-
-Disposant de 17 bureaux dans 13 pays, Pramex International, filiale du Groupe BPCE, deuxième groupe bancaire français, est une société de conseil spécialisée en développement international et en Corporate Finance.
-
-Le département Corporate Finance conseille les PME/ETI dans leurs opérations de croissance externe, de cession, ou dans tout autre type d’opérations de haut de bilan, en France et à l’étranger.
-
-Composée d’une dizaine de professionnels à travers le monde, l’équipe Corporate Finance intervient sur des opérations mid-caps pour le compte de groupes industriels, de fonds d’investissement et d’entreprises familiales.
-
-L'équipe Pramex International Espagne est composée d’une vingtaine de professionnels accompagnant les société françaises dans leur développement en Espagne. Le candidat sélectionné travaillera sous la supervision directe du Managing Director Espagne et de l’équipe M&A basée à Paris.
-
-
-Poste et missions :
-
-En tant que membre à part en entière de l’équipe M&A de Pramex International, le VIE contribuera aux phases d’origination et d’exécution des transactions françaises et internationales. Ses tâches s’orienteront autour de :
-
--la préparation et la rédaction de documents de présentation (pitch, teaser, information memorandum...)
--l’identification d’investisseurs/acquéreurs potentiels dans le cadre de mandat de vente
--la réalisation d’études sectorielles et la recherche de cibles dans le cadre de mandats d’acquisition
--l’analyse financière, l’évaluation d’entreprise
--la rédaction de livrables à destination des clients de Pramex International (en français, en espagnol et en anglais)
--l’encadrement des stagiaires, notamment sur les aspects méthodologiques, analytiques et de présentation des livrable
-
-**Profil recherché**
-
-Pour ce poste, qui exige une grande autonomie, le(la) candidat(e) disposera :
--d’une formation supérieure en Ecole de Commerce ou Ecole d’Ingénieurs
--d’une bonne connaissance de l’analyse financière et de l’évaluation d’entreprise
--de solides compétences en modélisation financière
--une très bonne maitrise des outils bureautiques (maîtrise MS Office, outils de recherche Internet, etc.)
--d’une expérience de 1 à 2 ans (stages compris) en banque d’affaires, en Private Equity ou en Transaction Services
--une parfaite maitrise de l’anglais (anglais courant à l’écrit et à l’oral)
--la maitrise de l’espagnol est un plus
-
-Outre rigueur et curiosité, le(la) candidat(e) fera preuve de qualités relationnelles et rédactionnelles ainsi que d’esprit de synthèse. 
-
-Le(la) candidat(e) devra être motivé(e) par la perspective de rejoindre une société dynamique dotée d’un fort esprit entrepreneurial.
 
 </details>
 
