@@ -332,86 +332,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "7",
-      "9",
-      "17",
-      "21",
-      "91",
-      "93",
-      "98",
-      "101",
-      "109",
-      "126"
+      "[\"6\",\"7\",\"9\",\"17\",\"21\",\"91\",\"93\",\"98\",\"101\",\"109\",\"126\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "91",
-        "specializationParentId": "89",
-        "specializationLabel": "Secrétariat - Bureautique",
-        "specializationLabelEn": "Secretariat - Desktop Applications"
-      },
-      {
-        "specializationId": "93",
-        "specializationParentId": "89",
-        "specializationLabel": "Traduction - Interprétariat",
-        "specializationLabelEn": "Translation - Interpretation"
-      },
-      {
-        "specializationId": "98",
-        "specializationParentId": "36",
-        "specializationLabel": "Enseignement",
-        "specializationLabelEn": "Teaching"
-      },
-      {
-        "specializationId": "101",
-        "specializationParentId": "36",
-        "specializationLabel": "Langues et Civilisations Etrangères (LCE)",
-        "specializationLabelEn": "Foreign Languages and Civilizations"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "126",
-        "specializationParentId": "239",
-        "specializationLabel": "Sciences humaines et sociales",
-        "specializationLabelEn": "Cognitive Sciences - Neurosciences"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À PROPOS DU RÔLE\nJohnson & Johnson MedTech Belgique & Luxembourg recherche un V.I.E. Technologie de l’Éducation afin de soutenir l’organisation Education Solutions. Ce rôle vise à contribuer à la création d’un environnement d’apprentissage et de développement de pointe, à garantir l’excellence dans l’exécution des activités opérationnelles et à soutenir les programmes éducatifs internes et externes qui différencient Johnson & Johnson sur le marché.\nVOTRE MISSION\n•\tSoutenir les activités opérationnelles au sein du département Education Solutions.\n•\tContribuer à l’exécution des programmes de formation professionnelle et commerciale destinés aux professionnels de santé et aux organisations gouvernementales.\n•\tCollaborer étroitement avec les équipes Sales, Marketing, Market Access, HCC, Regulatory, Legal, Finance et Medical Education.\n•\tVeiller à ce que les activités éducatives soient exécutées avec un haut niveau de qualité, de conformité, de discipline budgétaire et de suivi opérationnel.\n•\tContribuer au développement d’une forte culture d’apprentissage interne et d’une proposition de valeur éducative externe solide pour Johnson & Johnson MedTech BeLux.\nExcellence opérationnelle & exécution des formations\n•\tSoutenir la planification, l’administration, la logistique, le suivi budgétaire et la mesure de la qualité des activités éducatives.\n•\tVeiller à ce que toutes les activités éducatives soient suivies, documentées et gérées dans le cadre du processus d’archivage et de conservation.\n•\tContribuer à la maintenance des tableaux de bord éducatifs et au suivi des indicateurs clés de performance afin d’évaluer la qualité et la prestation de services.\n•\tAssurer la gestion des stocks et le soutien logistique pour les événements éducatifs.\n•\tContribuer à renforcer la discipline d’exécution et l’amélioration continue des opérations éducatives.\nPartenariat avec les parties prenantes & collaboration\n•\tÉtablir des partenariats solides avec les parties prenantes internes des équipes Sales, Marketing, Market Access, HCC, Regulatory, Legal, Finance et Medical Education.\n•\tCommuniquer clairement avec les partenaires business concernant l’exécution et la planification des événements.\nConformité, gouvernance & gestion des risques\n•\tRespecter toutes les procédures opérationnelles standard HCC et les politiques internes.\n•\tSoutenir la gestion des contrats de consultance et les processus de rémunération de services.",
     "creationDate": "2026-07-30T06:51:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1326,16 +1249,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans le cadre de son développement international, CAPTIVEA recherche un(e) V.I.E pour accompagner le pilotage administratif, comptable et financier de ses filiales.\r\n\r\nRattaché(e) à la Direction, le/la volontaire interviendra sur les missions suivantes :\r\n\r\n• Superviser et accompagner les responsables administratifs et comptables des différentes filiales du groupe ;\r\n • Contribuer à la qualité et à la fiabilité des opérations comptables ainsi qu'au respect des procédures internes ;\r\n • Participer au suivi budgétaire et à la gestion de la trésorerie des filiales ;\r\n • Contribuer à la production et à l'analyse des reportings financiers ;\r\n • Participer à l'amélioration continue des processus administratifs et comptables ;\r\n • Accompagner les projets d'optimisation des outils de gestion, notamment l'ERP et les solutions d'automatisation ;\r\n • Collaborer avec les équipes internationales dans un environnement multiculturel.\r\n\r\nCette mission offre une forte exposition internationale et l'opportunité de contribuer activement à la structuration et au développement d'un groupe en croissance.",
     "creationDate": "2026-10-01T12:15:19Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -2096,37 +2012,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9",
-      "200",
-      "259"
+      "[\"8\",\"9\",\"200\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nAlbioma est engagé dans la transition énergétique grâce aux énergies renouvelables (biomasse, solaire et géothermie).\n\nLe Groupe est implanté en Outre-mer français, dans l'Hexagone, à Île Maurice, au Brésil, au Canada, en Australie et en Turquie. Il a développé depuis 30 ans un partenariat unique avec le monde sucrier pour produire de l'énergie renouvelable à partir de la bagasse, résidu fibreux de la canne à sucre.\n\nAlbioma est aussi le premier producteur d'énergie photovoltaïque en Outre-mer où il construit et exploite des projets innovants avec stockage, ainsi que dans l'Hexagone.\n\nDepuis 2021, le Groupe se développe dans la géothermie, avec l'acquisition de deux centrales en Turquie.\n\nPoste et missions :\n\nDans un contexte de fort développement de nos activités au Brésil, vos principales missions au sein de la Direction Financière à São Paulo seront les suivantes :\n\n- Assistance sur les projets de financement (élaboration des modèles avec les équipes projets, présentations aux banques, négociation des documentations de crédit) ;\n\n- Analyse stratégique et financière des projets de M&A ;\n\n- Exercices de modélisation financière et d’évaluation ;\n\n- Elaboration des dossiers d’investissement en contrôle financier ;\n\n- Modélisation et suivi des business plans à moyen terme ;\n\n- Elaboration du reporting mensuel d’activité et analyse des résultats ;\n\n- Suivi des investissements sur ses aspects financiers ;\n\n- Suivi de trésorerie et élaboration de prévisionnels ;\n\n- Analyses financières ponctuelles.",
     "creationDate": "2026-09-04T07:43:53Z",
     "missionStartDate": "2027-01-01T00:00:00",
