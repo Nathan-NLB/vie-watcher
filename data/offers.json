@@ -31,72 +31,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "26",
-      "27",
-      "138",
-      "139",
-      "186",
-      "195",
-      "206",
-      "244"
+      "[\"8\",\"26\",\"27\",\"138\",\"139\",\"186\",\"195\",\"206\",\"244\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "26",
-        "specializationParentId": "216",
-        "specializationLabel": "Communication",
-        "specializationLabelEn": "Communication"
-      },
-      {
-        "specializationId": "27",
-        "specializationParentId": "210",
-        "specializationLabel": "Graphisme - Imprimerie",
-        "specializationLabelEn": "Graphic design- Printing Industries"
-      },
-      {
-        "specializationId": "138",
-        "specializationParentId": "212",
-        "specializationLabel": "Intelligence artificielle",
-        "specializationLabelEn": "Artificial Intelligence"
-      },
-      {
-        "specializationId": "139",
-        "specializationParentId": "210",
-        "specializationLabel": "Multimédia / Digital / Numérique",
-        "specializationLabelEn": "Multimedia / Digital"
-      },
-      {
-        "specializationId": "186",
-        "specializationParentId": "36",
-        "specializationLabel": "Métiers du Livre et de l'Edition",
-        "specializationLabelEn": "Book and Publishing Sector"
-      },
-      {
-        "specializationId": "195",
-        "specializationParentId": "193",
-        "specializationLabel": "Developpement commercial, prospection",
-        "specializationLabelEn": "Business Development"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À propos de Dashbook :<br />Dashbook est LA Maison d'Edition des Créateurs de Contenu. Notre Start-Up révolutionne le secteur de l'édition en offrant aux auteurs, blogueurs, podcasters, et autres créateurs une plateforme moderne et accessible pour créer, publier, promouvoir, et monétiser leurs livres. Grâce à Internet et aux Nouvelles Technologies, nous aidons nos créateurs à atteindre une audience plus large et à vivre de leur passion. La société en pleine expansion développe ses équipes sales & marketing et IT. <br /><br /><br /><br />Description du poste :<br />Dans le cadre de notre croissance rapide, nous recherchons un Bras Droit du CEO talentueux et proactif pour rejoindre notre équipe. Ce rôle stratégique consiste à travailler en étroite collaboration avec la Direction sur une variété de projets touchant à la fois à la stratégie d'entreprise, au développement des affaires, et aux opérations. Vos missions principales seront :\n- Support stratégique : Collaborer avec le CEO pour définir, planifier, et mettre en œuvre la stratégie globale de l'entreprise, en particulier dans le cadre de notre expansion et de l'innovation dans le secteur de l'édition.<br />- Gestion de projets passionnants : Prendre en charge des projets de A à Z, tels que l'ouverture d'une librairie physique ou digitale, ou l'organisation d'un salon littéraire, en garantissant leur réussite du début à la fin. Participer aux recrutements de nouvelles équipes, <br />- Analyse et reporting : Élaborer des analyses de marché, des rapports de performance, et des tableaux de bord pour éclairer les décisions stratégiques.<br />- Coordination et communication : Assurer une communication fluide entre les équipes internes et avec les partenaires externes (créateurs de contenu, partenaires stratégiques, investisseurs).<br />- Optimisation des processus : Identifier des opportunités d'amélioration des processus internes pour maximiser l'efficacité opérationnelle.<br />- Veille concurrentielle et innovation : Surveiller les tendances du secteur et les innovations concurrentielles pour proposer des idées nouvelles et audacieuses.<br /><br /><br />",
     "creationDate": "2024-09-05T08:46:31Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5393,79 +5330,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "4",
-      "5",
-      "8",
-      "9",
-      "199",
-      "200",
-      "201",
-      "202",
-      "203",
-      "259"
+      "[\"4\",\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"202\",\"203\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "4",
-        "specializationParentId": "89",
-        "specializationLabel": "Assurances",
-        "specializationLabelEn": "Insurance"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "203",
-        "specializationParentId": "19",
-        "specializationLabel": "Chargé / Conseiller clientèle bancaire particuliers / professionnels",
-        "specializationLabelEn": "Client advisor (banking)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\n!Join a Dynamic Team at Cleeven!\n\n\n\nAre you ready to join a fast-growing company where your work truly matters? Do you want to contribute to strategic compliance initiatives that shape the future of financial institutions?\n\n\n\nAt Cleeven, we combine energy, innovation, and purpose. Join a team that values your development and gives you the tools to grow while working on impactful projects.\n\n\n\nWHO ARE WE ?\n\n\n\nCleeven is an international engineering consulting firm built on two core principles:\n\nOUR MISSION: To enhance self-awareness and the awareness of those around us.\nOUR BELIEF: Europe’s leadership in innovation depends on the excellence of its engineers and professionals.\n\n\nAt Cleeven, our consultants work hand-in-hand with clients to manage compliance challenges, mitigate risks, and ensure alignment with evolving regulatory demands.\n\nPoste et missions :\n\nYOUR ROLE AS A COMPLIANCE ANALYST (KYC/KYT/AML)\n\n\n\nYou’ll play a key role in helping financial institutions meet regulatory expectations and safeguard their operations. Your responsibilities will include:\n\nMonitoring regulations: Stay on top of regulatory developments in the financial sector and assess their impact.\nKYC/KYT/AML analysis: Review client profiles, monitor transactions, and flag suspicious activity in accordance with legal standards.\nRisk assessment and mitigation: Identify gaps, evaluate compliance risks, and implement mitigation strategies.\nProcess improvement: Propose and deploy enhancements to compliance frameworks and internal procedures.\nInternal controls & audits: Support internal audits and ensure robust compliance practices are in place.\nAwareness and training: Prepare training materials, raise employee awareness, and promote compliance culture.\nBridge business and regulation: Translate complex regulatory language into actionable processes for operational teams.",
     "creationDate": "2025-09-24T10:46:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
