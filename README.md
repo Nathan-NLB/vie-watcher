@@ -8,11 +8,66 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **08/10/2026 14:41:29**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **08/10/2026 15:11:46**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Contrôleur de gestion junior (H/F)</strong> · FLEXITECH EUROPE · SAN LUIS POTOSI, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** FLEXITECH EUROPE
+- **Lieu :** SAN LUIS POTOSI, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux attentes techniques et au niveau d'études requis pour ce VIE en contrôle de gestion industriel. Le principal point d'écart réside dans sa maîtrise de l'espagnol (niveau B1) alors que l'offre exige une langue opérationnelle, mais son niveau d'anglais courant et son expérience solide compensent largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245844](https://mon-vie-via.businessfrance.fr/offres/245844)
+
+**Description du poste**
+
+À propos de Flexitech
+
+Flexitech est un équipementier automobile international spécialisé dans la conception et la fabrication de systèmes de freinage et de gestion thermique. Présent dans 7 pays et fort de plus de 1 300 collaborateurs, nous accompagnons les principaux constructeurs automobiles mondiaux en développant des solutions innovantes répondant aux plus hauts standards de qualité, de sécurité et de performance. Rejoindre Flexitech, c'est intégrer un groupe industriel à taille humaine où l'innovation, l'excellence et la collaboration sont au cœur de notre développement.
+www.flexitech.com
+
+Venez nous accompagner à relever les challenges de demain sur notre site Mexicain dans le cadre d'un VIE.
+
+Flexitech renforce ses capacités de pilotage financier sur son site industriel mexicain. En tant que contrôleur de gestion junior, vous participerez à la construction d'une fonction de contrôle de gestion projets et serez en première ligne du déploiement des standards de gestion internalisés du Groupe.
+Ce rôle offre l’opportunité de développer une fonction en contexte international, au sein d'un environnement automobile sécurisé et structuré.
+
+1. Prévision et suivi du chiffre d’affaires
+Assurer la continuité du suivi de l'IHS (outil statistique) afin de fiabiliser les prévisions, d’anticiper les lancements de programmes et les fins de programmes.
+Assurer le suivi quotidien des ventes et fournir les analyses qui en découlent (effet volume, mix, prix, etc.).
+Participer à l’élaboration des forecasts et des budgets.
+2. Gestion des Données Clients & Support Commercial
+Mettre à jour et valider les prix de vente clients en collaboration avec l’équipe commerciale.
+Challenger et valider les données clients (raw material index.)
+3. Pilotage des Projets & Controlling Opérationnel (Priorité stratégique)
+Développer et structurer une fonction de contrôle projets (business case, analyse du ROI, suivi des écarts).
+Mettre en place un suivi des outillages (COT) et de leur rentabilité.
+Préparer les revues de contrôle projets avec les équipes opérationnelles et le Finance Manager
+4. Reporting Frais Généraux & Efficience Opérationnelle
+Structurer et déployer un reporting des frais généraux par fonction.
+Assurer le suivi des indicateurs de dépense locale (IDL), des frais généraux et des écarts par rapport au budget.
+
+**Profil recherché**
+
+Formation & Expérience
+• Master 2 (Bac+5) : école d'ingénieurs, école de commerce ou équivalent en gestion / finance
+• Une première expérience professionnelle en environnement industriel
+• Expérience internationale fortement souhaitée 
+Compétences Clés
+• Anglais et espagnol opérationnels (impératif)
+• Rigueur analytique et excellente organisation ; goût du détail et du terrain
+• Une expérience sur ERP (SAP ou équivalent) serait un plus
+Qualités Personnelles
+• Dynamique et curieux, capable de relever des défis en contexte international
+• Autonome et collaboratif : bon relationnel avec les équipes opérationnelles et financières
+• Persévérant dans la mise en place de processus et de reportings, avec une bonne tolérance aux premières étapes non optimisées
+
+</details>
 
 <details>
 <summary><strong>V.I.E - MARKETING ÉVÉNEMENTIEL CORPORATE ACCESS - H/F (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
@@ -1584,61 +1639,6 @@ Formation économique (Master 2 analyse économique, relations économiques inte
 Niveau C1 en anglais
 
 Merci d'envoyer vos CV UNIQUEMENT EN FRANCAIS
-
-</details>
-
-<details>
-<summary><strong>Contrôleur de gestion junior (H/F)</strong> · FLEXITECH EUROPE · SAN LUIS POTOSI, MEXIQUE · 3 221,54 €/mois</summary>
-
-- **Entreprise :** FLEXITECH EUROPE
-- **Lieu :** SAN LUIS POTOSI, MEXIQUE
-- **Indemnité :** 3 221,54 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 01/10/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux attentes techniques et au niveau d'études requis pour ce VIE en contrôle de gestion industriel. Le principal point d'écart réside dans sa maîtrise de l'espagnol (niveau B1) alors que l'offre exige une langue opérationnelle, mais son niveau d'anglais courant et son expérience solide compensent largement.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245844](https://mon-vie-via.businessfrance.fr/offres/245844)
-
-**Description du poste**
-
-À propos de Flexitech
-
-Flexitech est un équipementier automobile international spécialisé dans la conception et la fabrication de systèmes de freinage et de gestion thermique. Présent dans 7 pays et fort de plus de 1 300 collaborateurs, nous accompagnons les principaux constructeurs automobiles mondiaux en développant des solutions innovantes répondant aux plus hauts standards de qualité, de sécurité et de performance. Rejoindre Flexitech, c'est intégrer un groupe industriel à taille humaine où l'innovation, l'excellence et la collaboration sont au cœur de notre développement.
-www.flexitech.com
-
-Venez nous accompagner à relever les challenges de demain sur notre site Mexicain dans le cadre d'un VIE.
-
-Flexitech renforce ses capacités de pilotage financier sur son site industriel mexicain. En tant que contrôleur de gestion junior, vous participerez à la construction d'une fonction de contrôle de gestion projets et serez en première ligne du déploiement des standards de gestion internalisés du Groupe.
-Ce rôle offre l’opportunité de développer une fonction en contexte international, au sein d'un environnement automobile sécurisé et structuré.
-
-1. Prévision et suivi du chiffre d’affaires
-Assurer la continuité du suivi de l'IHS (outil statistique) afin de fiabiliser les prévisions, d’anticiper les lancements de programmes et les fins de programmes.
-Assurer le suivi quotidien des ventes et fournir les analyses qui en découlent (effet volume, mix, prix, etc.).
-Participer à l’élaboration des forecasts et des budgets.
-2. Gestion des Données Clients & Support Commercial
-Mettre à jour et valider les prix de vente clients en collaboration avec l’équipe commerciale.
-Challenger et valider les données clients (raw material index.)
-3. Pilotage des Projets & Controlling Opérationnel (Priorité stratégique)
-Développer et structurer une fonction de contrôle projets (business case, analyse du ROI, suivi des écarts).
-Mettre en place un suivi des outillages (COT) et de leur rentabilité.
-Préparer les revues de contrôle projets avec les équipes opérationnelles et le Finance Manager
-4. Reporting Frais Généraux & Efficience Opérationnelle
-Structurer et déployer un reporting des frais généraux par fonction.
-Assurer le suivi des indicateurs de dépense locale (IDL), des frais généraux et des écarts par rapport au budget.
-
-**Profil recherché**
-
-Formation & Expérience
-• Master 2 (Bac+5) : école d'ingénieurs, école de commerce ou équivalent en gestion / finance
-• Une première expérience professionnelle en environnement industriel
-• Expérience internationale fortement souhaitée 
-Compétences Clés
-• Anglais et espagnol opérationnels (impératif)
-• Rigueur analytique et excellente organisation ; goût du détail et du terrain
-• Une expérience sur ERP (SAP ou équivalent) serait un plus
-Qualités Personnelles
-• Dynamique et curieux, capable de relever des défis en contexte international
-• Autonome et collaboratif : bon relationnel avec les équipes opérationnelles et financières
-• Persévérant dans la mise en place de processus et de reportings, avec une bonne tolérance aux premières étapes non optimisées
 
 </details>
 
