@@ -1830,16 +1830,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "With over 60 years of experience, Creditplus is a well-established player in the German consumer credit market. It offers flexible financing solutions distributed through its 20 branches, its digital platform, and a large network of commercial partners. The company is particularly renowned for its expertise in automotive and two-wheeler financing, a segment in which it is the market leader in Germany.\n\nJOB PURPOSE : \nThe VIE will support the management of outsourcing activities within the entity, ensuring compliance with Group policies and regulatory requirements.\n\nRESPONSIBILITIES :\n•\tSupport that Outsourcing governance are applied throughout the entity\n•\tSupport the management of outsourcing arrangements across the Outsourcing full lifecycle (from risk assessment and contracting to monitoring and exit of Outsourcing arrangements)\n•\tContribute to the identification and monitoring of outsourcing risks, including critical services\n•\tMaintain and improve data quality and completeness in the outsourcing register and DORA information register\n•\tSupport preparation of governance committees, reporting and audit documentation\n•\tAssist on reports on first level controls and follow-up actions\n•\tCoordinate with internal stakeholders (business lines, risk, compliance, procurement)\n•\tMonitor remediation activities\n•\tContribute to regulatory topics such as outsourcing reporting and IMAS notifications",
     "creationDate": "2026-06-25T08:56:10Z",
     "missionStartDate": "2026-12-01T00:00:00",
