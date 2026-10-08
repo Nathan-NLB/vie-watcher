@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **08/10/2026 15:11:46**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **08/10/2026 15:36:54**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2259,48 +2259,6 @@ o Focus spécifique sur secteurs à fort développement pour l’entreprise et p
 • Une expérience de travail en Afrique ou en Amérique latine est un atout 
 • La maitrise de l’espagnol et de l’anglais est indispensable (niveau C1) 
 • La maitrise du portugais est un atout
-
-</details>
-
-<details>
-<summary><strong>KYC officer (H/F)</strong> · CA INDOSUEZ · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
-
-- **Entreprise :** CA INDOSUEZ
-- **Lieu :** LUXEMBOURG, LUXEMBOURG
-- **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 29/09/2026
-- **Compatibilité avec ton profil :** 10 % — Le profil de Nathan est spécialisé en contrôle de gestion et FP&A, tandis que l'offre concerne un poste de KYC Officer orienté conformité et administration bancaire. De plus, l'offre exige la maîtrise de l'italien que le candidat ne possède pas, créant un écart majeur avec ses compétences.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246509](https://mon-vie-via.businessfrance.fr/offres/246509)
-
-**Description du poste**
-
-Au sein de CA Indosuez Wealth (Europe) et pour le compte de ses succursales, le client data assure la gestion administrative, informatique et physique des dossiers clients dans le respect de la politique de gouvernance de la banque et des règlementations en vigueur.
-
-Vous participerez au développement du Hub Client Data. Vous serez positionné au cœur de l’activité entrée en relation et mise à jour de la documentation Client (KYC).
-
-Vous aurez des contacts réguliers avec des interlocuteurs de différents niveaux hiérarchiques et services : Front office, Compliance…
-
-Vous aurez notamment pour mission la validation des nouveaux dossiers d’entrée en relation (contrôle et tâches administratives), les maintenances liées à la vie du compte, les chantiers liés aux nouvelles règlementations, la revue périodique des dossiers client.
-
- 
-
-A ce titre vous vous effectuerez notamment les missions ci-dessous, pour le périmètre Italien :
-
- 
-
-Vous vous assurez de la bonne constitution des dossiers clients au moment de l’entrée en relation et vous effectuez un suivi des documents requis en fonction des différents événements impactant le compte du client
-Vous veillez au respect des procédures AML-CFT/KYC en vigueur
-Vous êtes le garant de la qualité et la complétude de la documentation du dossier client
-Vous assurez les tâches administratives liés à ces documents : encodage, vérifications, …
-
-**Profil recherché**
-
-Vous êtes diplômé(e) d’un BTS, Licence ou d’un Bachelor en administration, ou en banque.
-Une première expérience dans cette fonction ou dans une fonction similaire serait un atout (stage et alternance acceptés).
-Vous êtes reconnu(e) pour votre rigueur, votre esprit d’équipe, vos capacités d’analyse, de synthèse et de rédaction.
-Votre sens de la communication et votre relationnel développé vous assureront une bonne intégration et une collaboration harmonieuse avec vos interlocuteurs.
-Maitrise de l'italien obligatoire.
 
 </details>
 
