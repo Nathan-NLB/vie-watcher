@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **08/10/2026 16:54:34**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **08/10/2026 17:07:56**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -66,6 +66,161 @@ Qualités Personnelles
 • Dynamique et curieux, capable de relever des défis en contexte international
 • Autonome et collaboratif : bon relationnel avec les équipes opérationnelles et financières
 • Persévérant dans la mise en place de processus et de reportings, avec une bonne tolérance aux premières étapes non optimisées
+
+</details>
+
+<details>
+<summary><strong>VIE Credit Risk Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 82 % — Le profil correspond très bien grâce aux compétences en analyse financière, maîtrise d'Excel, bilinguisme français/anglais et attrait pour l'Espagne. L'écart réside dans l'orientation du poste vers le risque de crédit et les marchés de l'énergie plutôt que le pur contrôle de gestion.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246859](https://mon-vie-via.businessfrance.fr/offres/246859)
+
+**Description du poste**
+
+About ENGIE and Supply & Energy Management
+
+ENGIE is a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions.
+
+Guided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses, including gas, renewable energies and services, to provide competitive solutions to our customers.
+
+Supply & Energy Management (S&EM) is ENGIE’s Global Business Unit dedicated to delivering reliable, sustainable and affordable energy solutions. The business unit optimizes both ENGIE’s and its clients’ assets while designing tailor-made energy solutions for more than 200,000 professional clients and 15 million consumers.
+
+Operating in 20 countries and bringing together more than 10,000 experts, S&EM leverages ENGIE’s asset portfolio and market expertise to deliver decarbonized electricity 24/7, supporting customers in their energy transition journey.
+
+Joining Supply & Energy Management means becoming part of an international team of passionate professionals committed to shaping a greener and more efficient energy future.
+
+Context
+
+As part of the Credit Risk Analysis team, you will play a key role in assessing the creditworthiness of counterparties and ensuring effective management of credit risk exposure across S&EM's activities.
+
+Reporting to the Head of Credit Risk Analysis, you will work closely with Front Office, Legal, KYC/AML and Risk stakeholders in a dynamic and international trading environment.
+
+What You Will Do
+Current Portfolio Management
+Monitor and analyze existing counterparties' credit exposure and risk evolution.
+Manage and review credit limits.
+Assess and approve Front Office transactions and contractual agreements from a credit risk perspective.
+Ensure continuous monitoring of portfolio risk and identify mitigation actions where necessary.
+Counterparty Onboarding & Risk Assessment
+Support business development activities before contract execution.
+Analyze prospects' financial situation, business model and regulatory environment.
+Evaluate creditworthiness and determine appropriate risk limits.
+Prepare recommendations for Credit Risk Management and Credit Committees.
+Credit Documentation & Negotiation
+Negotiate credit-related documentation and netting agreements with counterparties.
+Collaborate closely with Legal teams to ensure appropriate contractual protections.
+Digitalization & Continuous Improvement
+Contribute to the development and enhancement of risk management tools.
+Participate in digital transformation initiatives in partnership with Credit Reporting and IT teams.
+Support process optimization and automation projects.
+Business Support Activities
+Produce daily risk reports.
+Respond to urgent Front Office requests regarding transaction impacts on exposure levels.
+Provide timely trading approvals based on risk assessments.
+Key Stakeholders
+Internal Interfaces
+Front Office
+Credit Reporting Team
+KYC / AML Team
+Legal Department
+IT Support
+External Interfaces
+Clients and counterparties
+Business development teams
+Legal advisors
+Financial institutions and lenders
+
+**Profil recherché**
+
+Education & Qualifications
+Master's degree in Finance, Economics, Accounting, Business Administration or a related discipline.
+Previous experience in Credit Risk Analysis, Corporate Finance, Financial Analysis, Audit or Accounting.
+Experience in trading, commodities, energy markets or banking environments would be highly valued.
+Skills & Experience
+Technical Skills
+Strong financial analysis capabilities.
+Solid understanding of credit risk assessment methodologies.
+Knowledge of Project Finance structures.
+Advanced Excel skills, including the ability to review and audit financial models.
+Interest in digital transformation and data-driven risk management tools.
+Languages
+Fluent French (written and spoken).
+Professional proficiency in English (written and spoken).
+Spanish would be considered a strong asset.
+Personal Attributes
+
+We are looking for a professional who demonstrates:
+
+Strong analytical and problem-solving skills.
+Excellent communication and interpersonal abilities.
+Ability to influence and convince stakeholders.
+Negotiation skills.
+Team spirit and collaborative mindset.
+Strong organizational and planning capabilities.
+Resilience in a fast-paced and demanding environment.
+Initiative and continuous improvement mindset.
+Curiosity, adaptability and openness to innovation.
+Why Join Us?
+
+At ENGIE, every talent contributes to accelerating the energy transition. Joining S&EM means working in an international environment at the heart of global energy markets while contributing to building sustainable solutions for the future.
+
+You will have the opportunity to develop your expertise, work alongside recognized professionals and build a career path aligned with your ambitions.
+
+Additional Information
+
+Location: S&EM Campus, La Garenne-Colombes, France
+
+Contract: Full-time position
+
+Remote Working: Hybrid working arrangements available in accordance with applicable company policies.
+
+</details>
+
+<details>
+<summary><strong>Middle Officer (H/F)</strong> · CA INDOSUEZ · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** CA INDOSUEZ
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan est fortement axé sur le contrôle de gestion, le reporting et l'analyse financière en entreprise, alors que l'offre de Middle Officer chez CA Indosuez concerne les opérations bancaires, la réconciliation de fonds et le support aux gérants. Bien que le niveau d'anglais soit adéquat et l'environnement international présent, l'expérience et les compétences techniques du candidat ne correspondent pas au cœur du poste recherché.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246848](https://mon-vie-via.businessfrance.fr/offres/246848)
+
+**Description du poste**
+
+Au sein de l'entité Indosuez Fund Solutions, il vous sera demandé de fournir une vue complète des fonds gérés et supervisés par CAIFS dans les outils adéquats pour les gérants et les Risk managers, en lien avec la Banque dépositaire. Vous accompagnerez le gérant dans le traitement de ses opérations et ses différentes missions.
+
+ 
+
+Vos missions détaillées :
+
+ 
+
+Réconciliation quotidienne des positions des fonds supervisés par CAIFS dans Bloomberg avec analyse des écarts et ajustements
+Encodage des ordres pré-trade transmis par les gérants externes pour les fonds délégués, ainsi que suivi dans le temps de leur bonne exécution, en coordination avec les équipes concernées.
+Encodage des recommandations d’investissement des conseillers, sur base de la validation du gérant CAIFS, en veillant au respect de la stratégie et des critères d’éligibilité.
+Traitement des opérations sur titres (OST).
+Traitement des standing instructions.
+Encodage des ordres reçus des gérants externes en post-trade dans les outils de la banque dépositaire, avec suivi de leur bonne exécution dans le temps.
+Création et suivi de nouveaux comptes dans l’outil de gestion, ainsi que paramétrage associé.
+Participation au suivi, à l’optimisation et à l’adaptation des procédures et des processus.
+
+**Profil recherché**
+
+Expérience dans des activités opérationnelles dans le secteur bancaire, idéalement avec une expérience Back Office et/ou sur les marchés financiers.
+Orientation client
+Orientation respect des procédures et règlements légaux
+Capacité d’adaptation dans la gestion des priorités
+Maitrise de la communication écrite et orale
+Faire preuve d’autonomie et d’initiative
+Capacité de travailler en équipe
+Solution-oriented
 
 </details>
 
