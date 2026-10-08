@@ -724,16 +724,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Context:\n\nAs one of Engie S&EM’s front divisions (Supply & Energy Management), the mission of Supply Portfolio Management (SPM) is to manage energy risks for Engie Energy Supply activities worldwide. As part of Germany business platform, the Supply Portfolio Management team (SPM) is at the heart of energy management of Engie’s german B2B portfolio.\n\nThe SPM team interacts with several internal teams such as: sales teams, other SPM’s teams, Trading, IT, Finance, Risk, Back Office…\n\nSPM Germany is currently looking for young motivated Suppply Portfolio and Grid managers ready to dig into SPM operations and support our growth ambitions. The mission is intended for 2 years, with a start in January 2027.\n\nRole:\n\nAs a supply portfolio & grid manager in SPM Germany, you will gradually perform the following tasks:\n\n•\tYou support the sales offering activity, structure and price standard and non-standard offers: by identifying potential risks and ensuring use of adequate and up to date costing models, risk bricks and data availability;\n•\tYou actively assess and manage commodity risks linked to the dynamics of a sales portfolio, for all its commodities – Power, Natural gas, Certificates - meaning operate and optimize costing, forecasting, sourcing, and hedging strategies, within a defined mandate;\n•\tYou operate various strategies to reduce, internalize or externalize risks, towards and in collaboration with stakeholders (Trading, other BUs);\n•\tIn collaboration with forecasting experts, you monitor and regularly review the expected consumption of your portfolio.\n•\tYou report the portfolio financials linked to the energy management results and performance to the business platform;\n•\tYou manage the market communication with Transport & Distribution network operators for balancing and metering: declaration of our customer’s connection points, scheduling of nominations, retrieval and control of official metering data.\n•\tYou use and challenge data, models, processes & tools to answers supplier’s vision and ambition;  \n•\tYou are involved in the development of the tools, models, process, and portfolio/data representation of all commercial offer's portfolio;\n•\tYou manage contacts with multiple stakeholders to which you present and explain pricing and energy management.",
     "creationDate": "2026-10-07T15:29:36Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -7360,23 +7353,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "320"
+      "[\"17\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Service économique de Mascate, en lien avec le Service Economique Régional d’Abu Dhabi auquel il est rattaché, a pour mission de suivre et d’analyser pour le compte de l’administration française le contexte macroéconomique et financier du Sultanat d’Oman, les politiques économiques et industrielles qui y sont développées et les opportunités sectorielles qui peuvent y apparaître en informant en tant que de besoin les entreprises françaises. \n\nIl propose un soutien aux entreprises françaises dans l’approche du marché omanais et anime la relation économique bilatérale avec ses partenaires, en particulier les Conseillers du Commerce Extérieur de la France, le bureau régional Business France de Dubaï, le bureau de Bpifrance à Dubaï, ainsi que l’OFA (Oman France Amitié), association jouant localement le rôle d’une Chambre de Commerce bilatérale. Il a vocation à préparer et coordonner l’organisation des visites officielles à caractère économique en France et en Oman. \n\nLe Service économique de Mascate comprend 2 agents dont le Chef de Service économique et le/la VIA, qui assure de fait la fonction d’adjoint(e).\n\nMISSION ET ATTRIBUTIONS DU/DE LA VIA :\n\nEn lien étroit avec le Chef du Service économique, l’intéressé(e) travaillera sur 3 axes principaux : \n\n•\tréalisation de travaux sous forme de notes relatives à l’environnement macroéconomique et financier du Sultanat d’Oman et aux principaux secteurs d’activité (énergies renouvelables, « utilities », hydrocarbures, digital, data centers, IA transports, aérien), en lien avec les grands projets suivis par les entreprises françaises ; \n•\trédaction de la lettre quadrimestrielle du Service économique (« Objectif Oman ») destinée aux entreprises françaises et offrant une analyse de l’actualité économique et sectorielle du pays ;\n•\tparticipation active aux commandes de l’Ambassade, à la préparation d’entretiens de haut niveau et à l’organisation et l’accueil de missions officielles et des partenaires à l’export.\n\nLe/la VIA contribuera également aux travaux récurrents du poste, qu’il s’agisse de la rédaction de la contribution du SE d’Oman pour les brèves économiques hebdomadaires « péninsule arabique » (pilotées par le SER d’Abu Dhabi), des réponses aux commandes de la Direction et du SER d’Abu Dhabi et de l’alimentation en contenu du site internet du SE de Mascate.\n\nPROFIL : \n\nFormation économique (Master 2 analyse économique, relations économiques internationales ; école de commerce, université, majeure macro / microéconomie) dans l’idéal complétée d’une formation généraliste (type institut d’études politiques). Une première expérience au sein de l’administration française et/ou en entreprise, si possible à l’étranger, constituerait un avantage, de même que des notions de langue arabe littérale.\n\nCOMPETENCES REQUISES :\n\n•\tfortes capacités analytiques et rédactionnelles\n•\tconnaissance des sujets économiques et financiers\n•\tcapacités de recherche \n•\tcapacités relationnelles \n•\tréactivité et respect des délais\n•\touverture et capacité à travailler en collaboration avec des interlocuteurs variés\n•\tautonomie \n•\ttrès bon niveau d’anglais (C1)\n\nDIVERS : \n\nClimat marqué par des températures extrêmes (40°C et plus avec des ressentis au-delà de 50°C) et une très forte humidité (50 à 70%) pendant cinq mois de l’année (mai à septembre).\n\nLenteur des démarches administratives (visa, carte d’identité, permis de conduire) : anticiper le plus possible avant la prise de fonctions\n\nRestrictions alimentaires : pas de charcuterie, alcool cher ; interdiction de boire, manger, fumer en public pendant le mois de ramadan.\n\nPermis de conduire vivement conseillé (prévoir location / achat d’un véhicule pour se déplacer)\n\nExcellentes conditions sécuritaires (pas de vols, agressions, cambriolages), mais prudence néanmoins sur les routes et lors d’orages, très peu fréquents, mais souvent violents.",
     "creationDate": "2026-10-02T08:36:06Z",
     "missionStartDate": "2027-01-01T00:00:00",
