@@ -934,16 +934,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Context:\n\nAs one of Engie S&EM’s front divisions (Supply & Energy Management), the mission of Supply Portfolio Management (SPM) is to manage energy risks for Engie Energy Supply activities worldwide. As part of Germany business platform, the Supply Portfolio Management team (SPM) is at the heart of energy management of Engie’s german B2B portfolio.\n\nThe SPM team interacts with several internal teams such as: sales teams, other SPM’s teams, Trading, IT, Finance, Risk, Back Office…\n\nSPM Germany is currently looking for young motivated Suppply Portfolio and Grid managers ready to dig into SPM operations and support our growth ambitions. The mission is intended for 2 years, with a start in January 2027.\n\nRole:\n\nAs a supply portfolio & grid manager in SPM Germany, you will gradually perform the following tasks:\n\n•\tYou support the sales offering activity, structure and price standard and non-standard offers: by identifying potential risks and ensuring use of adequate and up to date costing models, risk bricks and data availability;\n•\tYou actively assess and manage commodity risks linked to the dynamics of a sales portfolio, for all its commodities – Power, Natural gas, Certificates - meaning operate and optimize costing, forecasting, sourcing, and hedging strategies, within a defined mandate;\n•\tYou operate various strategies to reduce, internalize or externalize risks, towards and in collaboration with stakeholders (Trading, other BUs);\n•\tIn collaboration with forecasting experts, you monitor and regularly review the expected consumption of your portfolio.\n•\tYou report the portfolio financials linked to the energy management results and performance to the business platform;\n•\tYou manage the market communication with Transport & Distribution network operators for balancing and metering: declaration of our customer’s connection points, scheduling of nominations, retrieval and control of official metering data.\n•\tYou use and challenge data, models, processes & tools to answers supplier’s vision and ambition;  \n•\tYou are involved in the development of the tools, models, process, and portfolio/data representation of all commercial offer's portfolio;\n•\tYou manage contacts with multiple stakeholders to which you present and explain pricing and energy management.",
     "creationDate": "2026-10-07T15:29:36Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1417,16 +1410,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans le cadre de son développement international, CAPTIVEA recherche un(e) V.I.E pour accompagner le pilotage administratif, comptable et financier de ses filiales.\r\n\r\nRattaché(e) à la Direction, le/la volontaire interviendra sur les missions suivantes :\r\n\r\n• Superviser et accompagner les responsables administratifs et comptables des différentes filiales du groupe ;\r\n • Contribuer à la qualité et à la fiabilité des opérations comptables ainsi qu'au respect des procédures internes ;\r\n • Participer au suivi budgétaire et à la gestion de la trésorerie des filiales ;\r\n • Contribuer à la production et à l'analyse des reportings financiers ;\r\n • Participer à l'amélioration continue des processus administratifs et comptables ;\r\n • Accompagner les projets d'optimisation des outils de gestion, notamment l'ERP et les solutions d'automatisation ;\r\n • Collaborer avec les équipes internationales dans un environnement multiculturel.\r\n\r\nCette mission offre une forte exposition internationale et l'opportunité de contribuer activement à la structuration et au développement d'un groupe en croissance.",
     "creationDate": "2026-10-01T12:15:19Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1788,65 +1774,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "201",
-      "204",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"201\",\"204\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "204",
-        "specializationParentId": "19",
-        "specializationLabel": "Commissariat aux comptes",
-        "specializationLabelEn": "Statutory audit"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Forte de ses 50 ans d’existence, BESSAC réalise des travaux de tunnels et microtunnels destinés aux métros, aux ouvrages pour l’eau et l’assainissement ainsi qu’aux galeries techniques (gaz, câbles, chauffage urbain…) et conçoit et fabrique ses propres tunneliers.\nBESSAC est une filiale de SOLETANCHE BACHY et fait partie du Groupe VINCI.\nAvec un chiffre d’affaires de près de 160 millions d'euros, 2/3 de son activité est réalisée à l'international avec des projets en cours notamment en au Canada, en Australie, à Singapour, en Côte d’Ivoire, au Sénégal, en Colombie, au Panama, …\nPlus de 300 collaborateurs directs contribuent aujourd’hui au développement de l’entreprise.\nL’expertise technique est reconnue de tous et fait de BESSAC un cadre idéal pour intégrer le monde des travaux souterrains. Un véritable esprit de famille règne chez BESSAC, porté par des équipes expérimentées, une forte ancienneté et des collaborateurs habitués à travailler ensemble, offrant ainsi un environnement où chacun peut se projeter et évoluer.\n\n\nNous recherchons un(e) contrôleur de gestion pour accompagner l’équipe travaux basée à Lomé au Togo.\nVous serez rattaché(e) hiérarchiquement au chef de projet et le RAF de la zone Afrique basé en Côte d’Ivoire vous accompagnera dans la réussite de vos missions. Vous rejoignez une petite équipe passionnée composée d’ingénieurs travaux et une équipe de production.\n•\tSuivi budgétaire :\n-\tÉlaborer et suivre les budgets prévisionnels du projet\n-\tAnalyser les écarts entre prévisionnel et réalisé.\n-\tMettre en place des tableaux de bord de suivi.\n•\tContrôle des coûts :\n-\tContrôler les dépenses engagées sur le chantier.\n-\tValider les factures fournisseurs et sous-traitants.\n-\tIdentifier les dérives et proposer des actions correctives.\n•\tOptimisation :\n-\tRechercher des leviers d’optimisation des coûts.\n-\tParticiper à l’amélioration des processus de gestion.\n•\tSupport opérationnel :\n-\tCollaborer avec les chefs de chantier, conducteurs de travaux et services achats.\n-\tAssurer le lien entre l’équipe projet et la direction financière de Bessac Afrique\nC’est un programme challengeant qui vous attend mais vous ne serez pas seul. L’équipe en place, le RAF de la zone Afrique ainsi que le service RH France vous accompagneront au besoin pour mener à bien vos différentes missions. C’est l’opportunité idéale pour allier responsabilités et accompagnement !",
     "creationDate": "2026-10-02T10:50:26Z",
     "missionStartDate": "2027-01-01T00:00:00",
