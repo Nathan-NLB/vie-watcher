@@ -437,5 +437,15 @@
   "ville|erlangen|allemagne": {
     "lat": 49.5891571,
     "lon": 10.9812072
+  },
+  "entreprise|findus france|drogenbos|belgique": null,
+  "ville|drogenbos|belgique": {
+    "lat": 50.786532,
+    "lon": 4.3173542
+  },
+  "entreprise|alliance green services france ns|differdange|luxembourg": null,
+  "ville|differdange|luxembourg": {
+    "lat": 49.5219856,
+    "lon": 5.8753061
   }
 }

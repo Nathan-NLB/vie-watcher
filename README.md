@@ -8,11 +8,90 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/10/2026 15:55:05**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **09/10/2026 16:09:12**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Junior Finance Business Partner Benelux (H/F)</strong> · FINDUS FRANCE · DROGENBOS, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** FINDUS FRANCE
+- **Lieu :** DROGENBOS, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 09/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil correspond parfaitement aux attentes avec un Master en finance, de solides compétences en reporting, Excel et Power BI, ainsi qu'un excellent niveau d'anglais. L'expérience de Nathan en contrôle budgétaire et sa capacité à interagir avec la direction compensent largement l'absence préalable de l'outil SAP.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246899](https://mon-vie-via.businessfrance.fr/offres/246899)
+
+**Description du poste**
+
+Act as a trusted partner to the business and support business performance by providing detailed & accurate financials and insightful analysis. Provide key support towards Sales & Marketing by providing clear dashboards, insights and variance analysis which can help the Commercial teams on decision taking, negotiations, etc. Support the business to further evolve as a data driven organisation. This function is based in Belgium with occasional travel to the Dutch location of Iglo (on average 2 times per month travel to NL)
+
+Key Responsibilities
+In this role, you will support the Benelux Finance team through a variety of financial reporting, analysis, and business partnering activities, including:
+
+Preparing and distributing daily, weekly, and monthly sales reports and dashboards to monitor turnover performance against budget, prior year, and latest forecast.
+Acting as the first point of contact and Junior Business Partner for a portfolio of retailers across Belgium and the Netherlands.
+Monitoring promotional spending and reviewing actual expenditure against forecasted budgets.
+Continuously improving internal reporting tools by enhancing layouts, automation, and analytical capabilities.
+Performing weekly Lump Sum postings in SAP.
+Supporting recurring Group reporting requirements, including sales reporting and innovation tracking.
+Assisting with monthly closing activities, financial analysis, controlling processes, rolling forecasts, and annual budgeting exercises.
+Supporting ad hoc financial analyses, projects, and business requests.
+Contributing to the organization's ambition to become increasingly data-driven through insightful analysis and reporting.
+
+**Profil recherché**
+
+We are looking for an analytical, proactive, and detail-oriented young professional with a strong interest in commercial finance and business partnering.
+Qualifications and Skills
+
+Master's degree in Finance, Accounting, Economics, Business Administration, or a related field.
+Strong proficiency in Microsoft Excel, including Pivot Tables, formulas, and chart creation.
+Solid understanding of finance and accounting principles.
+Ability to work independently and manage recurring reporting deadlines.
+Strong analytical and problem-solving skills.
+Excellent communication skills in English and French.
+Ability to perform effectively in a fast-paced environment and manage multiple priorities.
+Proactive, energetic, and self-motivated personality.
+Knowledge of Power BI is considered an asset.
+Knowledge of SAP is considered an asset.
+
+Competencies
+Bold Delivery
+Takes ownership of objectives and consistently delivers high-quality results with a positive, solution-oriented mindset.
+Change Agent
+Adapts quickly to changing priorities and embraces new ways of working.
+Attention to Detail
+Demonstrates rigor and accuracy in financial reporting and analysis, ensuring high-quality outputs.
+Communication & Collaboration
+Builds effective relationships and communicates clearly with stakeholders across different functions and organizational levels.
+Business Acumen
+Shows curiosity about the business, understands key commercial drivers, and recognizes the connection between financial performance and operational decisions.
+
+</details>
+
+<details>
+<summary><strong>Coordinateur commandes et facturation (H/F)</strong> · ALLIANCE GREEN SERVICES FRANCE NS · DIFFERDANGE, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** ALLIANCE GREEN SERVICES FRANCE NS
+- **Lieu :** DIFFERDANGE, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 09/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil montre de solides compétences en contrôle de gestion et reporting international, ce qui correspond au volet financier de l'offre. Cependant, le poste est principalement axé sur la gestion opérationnelle des commandes et de la facturation dans SAP, un outil non mentionné par le candidat.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246888](https://mon-vie-via.businessfrance.fr/offres/246888)
+
+**Description du poste**
+
+Au sein de l’équipe Commandes et Facturation, le/la VIE apportera un support opérationnel dans la gestion des commandes fournisseurs et de la facturation clients pour plusieurs entités internationales. Il participera au suivi des commandes, des factures et des paiements dans SAP, à la coordination avec les équipes locales et internationales, ainsi qu’à certaines activités de suivi financier, telles que le reporting, le suivi budgétaire et les indicateurs de performance de l'entité luxembourgeoise.
+
+**Profil recherché**
+
+Au sein de l’équipe Commandes et Facturation, le VIE contribuera à la gestion et au suivi des commandes fournisseurs, de la facturation clients et du traitement des factures dans SAP pour plusieurs entités internationales. Il assurera la coordination avec les équipes locales et internationales, participera au suivi des paiements et apportera un soutien ponctuel aux activités financières, notamment en matière de reporting et de suivi budgétaire.
+
+</details>
 
 <details>
 <summary><strong>Chargé(e) Back Office - Settlement/Transfert H/F (H/F)</strong> · ARKEA PROCAPITAL SERVICES · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
