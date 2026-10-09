@@ -4924,23 +4924,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "90",
-      "259"
+      "[\"90\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "90",
-        "specializationParentId": "89",
-        "specializationLabel": "Immobilier",
-        "specializationLabelEn": "Real Estate"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Après la France (2010), l’Allemagne (2015), l’Italie (2016) et l’Espagne (2019), eRE souhaite désormais s’implanter sur le marché polonais depuis Varsovie pour accompagner le développement de nos clients investisseurs en Europe centrale, et recherche un(e) Real estate investment analyst. Au-delà du poste d'analyste, c'est une aventure entrepreneuriale, intense et formatrice, au cœur du secteur immobilier institutionnel. Vous contribuez, dès le premier jour et en lien direct avec les associés fondateurs, à bâtir notre présence, notre connaissance et notre expérience sur ce nouveau marché — comme nous l'avons fait avec succès en Allemagne, en Italie puis en Espagne depuis 2015.\n\nLes missions proposées :\n●\tSourcing d’opportunités d’investissement : animation du réseau de brokers nationaux et indépendants, identification d'opportunités, visites de sites, rencontres avec les locataires, enseignes ou exploitants, aux côtés des associés fondateurs et des équipes de chaque pays.\n●\tAnalyse des dossiers d'investissement : calcul de la rentabilité des projets, modélisation des hypothèses financières, recherche de données de marché, analyse de comparables, rédaction des memos d'investissement à l'aide de nos outils internes enrichis par l'IA, préparation des LOI.\n●\tAssistance au pilotage des due diligences : analyse des offres reçues des conseils (avocats, experts techniques et évaluateurs indépendants), suivi de leur exécution, préparation des rapports de suivi, aide à la négociation.\n\nLe poste, stimulant et très responsabilisant, intègre un volet relationnel important : vous serez intégré à l’équipe dirigeante, en interaction constante avec nos clients investisseurs institutionnels. \nVous bénéficierez d'une grande autonomie dans l'organisation de votre emploi du temps, des visites et des rencontres avec les différents partenaires. Ici, pas de poste d'exécution : vos analyses nourrissent des convictions qui pèsent dans les arbitrages de nos clients, vos initiatives construisent le développement de l’équipe et de l’entreprise.\nVous rejoignez une équipe à taille humaine, exigeante et bienveillante, valorisant la solidarité entre les équipes, la progression des talents et le goût du terrain. Une réelle opportunité de consolider votre expérience sur un secteur dynamique, dans un cadre de travail privilégié où votre rôle sera pleinement valorisé.",
     "creationDate": "2026-07-24T13:43:49Z",
     "missionStartDate": "2026-12-01T00:00:00",
