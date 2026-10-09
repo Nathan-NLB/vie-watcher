@@ -8,11 +8,46 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/10/2026 11:52:29**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **09/10/2026 12:08:08**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Chargé(e) Back Office - Settlement/Transfert H/F (H/F)</strong> · ARKEA PROCAPITAL SERVICES · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** ARKEA PROCAPITAL SERVICES
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 09/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion et le FP&A d'entreprise, tandis que cette offre concerne le back-office titres et la finance de marché (settlement). Bien que le niveau d'études et la localisation internationale correspondent, les compétences techniques requises diffèrent sensiblement de son expérience.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246860](https://mon-vie-via.businessfrance.fr/offres/246860)
+
+**Description du poste**
+
+Présentation de la société :
+ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers.
+
+Poste et missions :
+Procapital propose des prestations de sous-traitance de négociation, conservation et tenue de comptes titres pour des clients institutionnels en Belgique.
+
+Rattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :
+- Initiation des dossiers de transferts de titres entrants et sortants avec les contreparties
+- Gestion des transferts internes
+- Mise en place des instructions de transfert sur le marché
+- Suivi du dénouement des transferts
+- Traitement des réconciliations titres
+- Traitement des demandes clients
+- Participation à des réflexions ayants pour but l’amélioration de l’efficacité et productivité interne (amélioration de procédures, identification d’automatisations complémentaires…)
+
+**Profil recherché**
+
+De formation Bac +4/5, type Ecole de Commerce, de Gestion ou équivalent universitaire Master 1 ou 2 avec option finance de marché, vous maîtrisez les logiciels Microsoft office, l’anglais et êtes intéressé(e) par les marchés financiers et Internet.
+Votre rigueur, votre réactivité, votre autonomie ainsi que votre sens relationnel vous permettront d’évoluer dans un environnement réactif et exigeant.
+
+</details>
 
 <details>
 <summary><strong>VIE Business Management Controller (H/F)</strong> · VALEO ELECTRIFICATION · ERLANGEN, ALLEMAGNE · 3 027,63 €/mois</summary>
