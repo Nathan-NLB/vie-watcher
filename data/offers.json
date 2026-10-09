@@ -304,86 +304,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "7",
-      "9",
-      "17",
-      "21",
-      "91",
-      "93",
-      "98",
-      "101",
-      "109",
-      "126"
+      "[\"6\",\"7\",\"9\",\"17\",\"21\",\"91\",\"93\",\"98\",\"101\",\"109\",\"126\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "91",
-        "specializationParentId": "89",
-        "specializationLabel": "Secrétariat - Bureautique",
-        "specializationLabelEn": "Secretariat - Desktop Applications"
-      },
-      {
-        "specializationId": "93",
-        "specializationParentId": "89",
-        "specializationLabel": "Traduction - Interprétariat",
-        "specializationLabelEn": "Translation - Interpretation"
-      },
-      {
-        "specializationId": "98",
-        "specializationParentId": "36",
-        "specializationLabel": "Enseignement",
-        "specializationLabelEn": "Teaching"
-      },
-      {
-        "specializationId": "101",
-        "specializationParentId": "36",
-        "specializationLabel": "Langues et Civilisations Etrangères (LCE)",
-        "specializationLabelEn": "Foreign Languages and Civilizations"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "126",
-        "specializationParentId": "239",
-        "specializationLabel": "Sciences humaines et sociales",
-        "specializationLabelEn": "Cognitive Sciences - Neurosciences"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À PROPOS DU RÔLE\nJohnson & Johnson MedTech Belgique & Luxembourg recherche un V.I.E. Technologie de l’Éducation afin de soutenir l’organisation Education Solutions. Ce rôle vise à contribuer à la création d’un environnement d’apprentissage et de développement de pointe, à garantir l’excellence dans l’exécution des activités opérationnelles et à soutenir les programmes éducatifs internes et externes qui différencient Johnson & Johnson sur le marché.\nVOTRE MISSION\n•\tSoutenir les activités opérationnelles au sein du département Education Solutions.\n•\tContribuer à l’exécution des programmes de formation professionnelle et commerciale destinés aux professionnels de santé et aux organisations gouvernementales.\n•\tCollaborer étroitement avec les équipes Sales, Marketing, Market Access, HCC, Regulatory, Legal, Finance et Medical Education.\n•\tVeiller à ce que les activités éducatives soient exécutées avec un haut niveau de qualité, de conformité, de discipline budgétaire et de suivi opérationnel.\n•\tContribuer au développement d’une forte culture d’apprentissage interne et d’une proposition de valeur éducative externe solide pour Johnson & Johnson MedTech BeLux.\nExcellence opérationnelle & exécution des formations\n•\tSoutenir la planification, l’administration, la logistique, le suivi budgétaire et la mesure de la qualité des activités éducatives.\n•\tVeiller à ce que toutes les activités éducatives soient suivies, documentées et gérées dans le cadre du processus d’archivage et de conservation.\n•\tContribuer à la maintenance des tableaux de bord éducatifs et au suivi des indicateurs clés de performance afin d’évaluer la qualité et la prestation de services.\n•\tAssurer la gestion des stocks et le soutien logistique pour les événements éducatifs.\n•\tContribuer à renforcer la discipline d’exécution et l’amélioration continue des opérations éducatives.\nPartenariat avec les parties prenantes & collaboration\n•\tÉtablir des partenariats solides avec les parties prenantes internes des équipes Sales, Marketing, Market Access, HCC, Regulatory, Legal, Finance et Medical Education.\n•\tCommuniquer clairement avec les partenaires business concernant l’exécution et la planification des événements.\nConformité, gouvernance & gestion des risques\n•\tRespecter toutes les procédures opérationnelles standard HCC et les politiques internes.\n•\tSoutenir la gestion des contrats de consultance et les processus de rémunération de services.",
     "creationDate": "2026-07-30T06:51:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1368,16 +1291,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Alpineo Consulting est un groupe de conseil IT indépendant d’environ 150 collaborateurs, présent en France (Lyon, Paris), en Suisse (Genève), en Belgique, au Luxembourg, au Portugal et prochainement en Espagne.\r\n\r\nNos consultants accompagnent nos clients sur leurs projets IT les plus stratégiques. En pleine croissance, le groupe structure ses fonctions support et renforce aujourd’hui son équipe RH & Finance Groupe, basée à Genève.\r\n\r\nLe poste\r\n\r\nVous êtes au cœur du pilotage financier du groupe et êtes le garant de la fiabilité, de la qualité et de la disponibilité des données financières.\r\n\r\nVotre rôle couvre l’ensemble des cycles financiers : facturation, encaissements, clôtures, trésorerie, reporting et forecast. Vous produisez les analyses permettant à la direction et aux Business Managers de disposer d’une vision claire de la performance et de prendre leurs décisions sur la base de données fiables.\r\n\r\nIl s’agit d’un poste très opérationnel et autonome, avec une forte dimension de construction. Vous aurez pour mission de structurer les processus financiers du groupe, d’harmoniser les pratiques entre les différents pays et de mettre en place des outils et automatisations permettant de gagner en fiabilité et en efficacité.\r\n\r\nVous travaillez en lien étroit avec la Direction, les Business Managers, les équipes RH et les cabinets comptables externes des différents pays.\r\n\r\nMission 1 — Facturation & encaissement — 30 %\r\n\r\nVous devez veiller au bon fonctionnement du cycle de facturation et du suivi des encaissements.\r\n\r\n- Piloter le cycle de facturation, de la validation des temps prestés jusqu’à l’encaissement.\r\n- Construire et maintenir un calendrier mensuel de facturation par client, entité et pays.\r\n- Contrôler les temps saisis, bons de commande, tarifs et conditions contractuelles avant émission des factures.\r\n- Émettre, déposer et suivre les factures sur les portails clients.\r\n- Identifier et résoudre rapidement les factures rejetées, bloquées ou contestées.\r\n- Organiser et suivre les relances clients jusqu’à l’encaissement.\r\n- Suivre la balance âgée, le DSO et les prestations non facturées.\r\n- Identifier les risques d’impayés ou de retard et les communiquer rapidement à la Direction et aux Business Managers concernés.\r\n- Mettre en place des indicateurs permettant de suivre la qualité et la performance du cycle de facturation.\r\n\r\nObjectif : sécuriser et fluidifier le cycle de facturation et réduire durablement les délais entre prestation, facturation et encaissement.\r\n\r\nMission 2 — Contrôle de gestion & FP&A — 25 %\r\n\r\nVous produisez les analyses financières nécessaires au pilotage de l’activité du groupe.\r\n\r\n- Produire le reporting financier mensuel du groupe et de ses différentes entités.\r\n- Construire et analyser les P&L par entité, Business Manager, client et mission.\r\n- Suivre les principaux indicateurs économiques de l’activité de conseil :\r\nTJM \r\ntaux d’activité \r\nintercontrat \r\nmarge par consultant \r\nrevenu par ETP \r\nbacklog \r\nDSO\r\n- Identifier les écarts entre réalisé, budget et forecast et en analyser les causes.\r\n- Préparer les budgets et forecasts.\r\n- Réaliser des analyses de scénarios et de sensibilité.\r\n- Transformer les données financières en analyses et recommandations concrètes pour la Direction.\r\n- Construire avec l’équipe RH des indicateurs communs : effectifs, masse salariale, coûts chargés, revenu et rentabilité par ETP.\r\n- Fiabiliser progressivement les données et les méthodes de reporting entre les différents pays.\r\n\r\nObjectif : fournir chaque mois une vision financière claire, fiable et exploitable de la performance du groupe.\r\n\r\nMission 3 — Comptabilité, clôtures & trésorerie — 20 %\r\n\r\nVous assurez le suivi et la coordination opérationnelle des principaux cycles comptables et de trésorerie.\r\n\r\n- Construire et maintenir un prévisionnel de trésorerie glissant pour l’ensemble des entités.\r\n- Suivre les encaissements et décaissements prévisionnels.\r\n- Contrôler les factures fournisseurs et préparer les campagnes de paiement.\r\n- Analyser les rapprochements bancaires et identifier les éventuelles anomalies.\r\n- Préparer et suivre les provisions, factures à établir et autres écritures nécessaires aux clôtures.\r\n- Contrôler les opérations intercompagnies et assurer leur cohérence entre les entités.\r\n- Préparer et suivre les clôtures mensuelles et annuelles selon un calendrier groupe.\r\n- Centraliser les éléments nécessaires aux clôtures avec les cabinets comptables externes.\r\n- Suivre les délais et la qualité des travaux comptables réalisés par les partenaires externes.\r\n- Préparer les fichiers nécessaires aux virements de paie des différents pays et effectuer les virements mensuels dans le respect des échéances.\r\n\r\nObjectif : garantir des clôtures fiables et ponctuelles ainsi qu’une visibilité régulière sur la situation de trésorerie du groupe.\r\n\r\nMission 4 — Coordination financière — 15 %\r\n\r\nVous êtes le point de référence opérationnel sur les cycles financiers du groupe.\r\n\r\n- Faire appliquer les calendriers de facturation et de clôture auprès des différents interlocuteurs.\r\n- Collecter et contrôler les informations nécessaires à la production des reportings.\r\n- Suivre les actions nécessaires à la résolution des écarts ou anomalies identifiés.\r\n- Communiquer de manière claire, synthétique et proactive avec la Direction.\r\n- Accompagner les Business Managers dans la compréhension des données financières liées à leur activité.\r\n-Formaliser les processus, règles de gestion et responsabilités de chaque étape des cycles financiers.\r\n- Garantir une information financière homogène entre les différentes entités du groupe.\r\n\r\nObjectif : assurer une circulation fluide et fiable de l’information financière entre les équipes opérationnelles, les fonctions support et la Direction.\r\n\r\nAxe transverse — Transformation, automatisation & IA — 10 %\r\n\r\nDans un contexte de structuration et de croissance, vous êtes force de proposition pour améliorer les processus financiers.\r\n\r\n- Cartographier les principaux processus financiers du groupe.\r\n- Identifier les tâches manuelles, les doublons et les principaux risques d’erreur.\r\n- Proposer et mettre en place des automatisations simples et à forte valeur ajoutée.\r\n- Automatiser progressivement certains contrôles, reportings, rapprochements et processus de relance.\r\n- Identifier des cas d’usage pertinents de l’IA pour améliorer la productivité et la fiabilité de la fonction Finance.\r\n- Tester et déployer les solutions pertinentes.\r\n- Mesurer les gains obtenus : temps gagné, réduction des erreurs, amélioration des délais.\r\n- Documenter les procédures, règles de validation et modes opératoires.\r\n\r\nObjectif : rendre les processus financiers plus fiables, plus simples et moins dépendants des tâches manuelles.\r\n\r\nVos 6 premiers mois\r\n\r\nLes priorités des six premiers mois seront concrètes et mesurables :\r\n\r\n1. Sécuriser les cycles financiers\r\n2. Améliorer la qualité de la facturation\r\n3. Fiabiliser le pilotage financier\r\nMise en place d’un reporting récurrent des principaux KPI du groupe.\r\n4. Structurer le forecast\r\n5. Automatiser\r\n\r\nCe que nous recherchons\r\nFormation supérieure en finance, comptabilité, contrôle de gestion ou équivalent.\r\nExpérience de 3 à 5 ans environ sur un poste en finance d’entreprise, contrôle de gestion, FP&A, comptabilité",
     "creationDate": "2026-09-14T17:38:32Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3230,16 +3146,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Louis Dreyfus Company (LDC) has been a key player in the global coffee industry for more than 30 years. We specialize in all major Arabica and Robusta coffee qualities, serving a diverse customer base worldwide, ranging from specialty roasters to multinational food and beverage companies.\r\n\r\nWe are looking for a highly motivated and analytical individual to join our Coffee Financial Planning & Analysis (FP&A) team, reporting to the FP&A Manager for the Coffee Platform in EMEA.\r\n\r\nIn this role, you will support the FP&A Manager in delivering recurring monthly performance analysis, coordinating budgeting and forecasting activities, and contributing to a range of ad hoc, cross-functional projects. You will work closely with multiple teams across the EMEA region, gaining exposure to the commercial, operational, and financial aspects of the coffee business.\r\n\r\nThis position offers a unique opportunity to develop your FP&A skills within a dynamic and international environment. Based in Kampala, Uganda, LDC's largest coffee origination platform in EMEA, you will gain unique exposure to the coffee supply chain, from origin to destination markets. This role offers the opportunity to work closely with commercial, operational, and finance teams while developing a solid foundation in business partnering, financial analysis, and commodity markets. For motivated individuals, it represents an excellent entry point into LDC and a strong platform from which to pursue future career opportunities across Finance, Commercial, Operations, or other functions within the Group.\r\nFinancial performance & reporting \r\n\r\n•\tDeliver comprehensive monthly performance analysis, comparing reported numbers to the budget, while clearly identifying and explaining key variances and underlying business drivers.\r\n•\tContribute to the preparation of the Monthly Performance Review (MPR), including analytical files and presentation materials, ensuring accuracy, consistency, and clear financial messaging.\r\n•\tSupport the FP&A Manager in delivering ad hoc financial analyses for management and business stakeholders, including profitability reviews, OPEX deep-dives, trend analysis, and scenario modeling.\r\nBusiness Partnering & Decision Support\r\n\r\n•\tContribute to budget, forecast, and landing exercises by challenging assumptions and assessing associated risks and opportunities.\r\n•\tParticipate in discussions with commercial and finance teams to understand the financial performance of the Coffee Platform and the drivers of profitability.\r\n•\tDevelop financial models and scenario analyses to evaluate business performance, operational initiatives, and market developments.\r\n\r\nProcess Improvement & Digitalization\r\n•\tIdentify opportunities to improve reporting processes, data quality, and analytical tools through automation and simplification initiatives. \r\n•\tAct as a key liaison between Finance, IT, and business teams to enhance reporting systems and strengthen data integrity.\r\nThe scope is the LDC EMEA Coffee Platform.",
     "creationDate": "2026-07-23T07:37:46Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3300,16 +3209,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans le cadre de notre développement et la structuration de notre activité à l’international, nous souhaitons recruter un VIE Comptable International au sein d’un share service center pour le groupe basé à Barcelone et en charge de la tenue comptable de plusieurs filiales dans le cadre du passage à un nouvel outil comptable.\r\n\r\nMission à pourvoir asap.\r\nLocalisation : Barcelone\r\n\r\nVos missions : Réviser la saisie comptable pour plusieurs filiales du groupe dans le cadre de l’implémentation d’un nouveau logiciel et de la réinternalisation de la fonction comptable au sein d’un service partagé basé à Barcelone.\r\n\r\nLes missions principales dans ce cadre seront :\r\n- Révision de la saisie des écritures comptables pour les sociétés du groupe assignées, en respect des normes comptables applicables dans chaque pays.\r\n- Vérification des notes de frais,\r\n- Révision des rapprochements bancaires,\r\n- Préparation des fichiers de paiements fournisseur,\r\n- Révisions des comptes clients et fournisseurs, du lettrage et des autres comptes de bilan,\r\n- Clôtures comptables mensuelles : révision des comptes de bilan et compte de résultat et préparation des écritures de clôtures mensuelles (FNP, CCA, WIP ..)\r\n- Préparation des données nécessaires aux déclarations fiscales afin de les transmettre pour validation.\r\n- Préparation des fichiers de liasses sociales pour la consolidation groupe.\r\n\r\nListe non exhaustive, les missions peuvent évoluer au cours de la période.\r\n\r\n\r\nLes Avantages\r\n- Entreprise dynamique, petite structure très horizontale malgré plus de 600 employés pour la filiale espagnole. Et une dynamique de croissance et de coopération avec le groupe et les autres filiales.\r\n- Ambiance de travail très agréable où il est facile de s’intégrer et de rapidement apporter (entreprise élue « great place to work »).\r\n\r\n- Groupe français et présent à l’international sur 3 continents avec de nombreuses nationalités représentées.\r\n- Interactions multiples avec au moins 2 filiales différentes.",
     "creationDate": "2026-09-15T11:53:29Z",
     "missionStartDate": "2026-12-01T00:00:00",
