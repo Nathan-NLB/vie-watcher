@@ -5120,16 +5120,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le groupe BK CONSULTING est une ESN de 800 personnes active dans les secteurs de la finance et de l’industrie en France, en Belgique et au Grand-Duché du Luxembourg. Notre proposition de valeur réside dans notre double compétence informatique et financière qui nous positionne comme un partenaire privilégié chez nos clients. Dans le cadre du développement de nos activités en Belgique et au Grand-Duché du Luxembourg, nous recherchons un/des Business Consultant en VIE.\r\n\r\nMissions Proposées :\r\nParticiper à des analyse de processus métiers.\r\nSpécifier les attentes des utilisateurs à destination de l'informatique.\r\nGestion et suivi de processus back office et middle office (AML/KYC). Analyse de dossiers clients corporate et particuliers.\r\nIdentification des projets et des besoins de vos clients.\r\n\r\nNotre offre, un management et une équipe qui supportent votre dynamique. Un acteur bien implanté et reconnu sur ses marchés. Des outils de travail adaptés. Des perspectives d’évolution significatives au sein du groupe.",
     "creationDate": "2026-09-21T13:32:04Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5750,37 +5743,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "259",
-      "318",
-      "320"
+      "[\"180\",\"259\",\"318\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n\r\nWe invite you to join us as a VIE in our Custody Services Department.\r\n\r\nThe candidate will be in the position to: \r\n•\tProcess receipt of Income payments within agreed service standards.\r\n•\tFull adherence to the team’s control functions, including operations/events and end-of-the-day checklists.\r\n•\tAssist with the day-to-day administrative tasks of investigation/amendment and clearance of reconciling items in ensuring accurate processing.\r\n•\tEnsure that queries raised/assigned to individuals are answered within agreed service standards.\r\n•\tEnsure on-going productivity by providing back-up relief for staff who are absent or on leave.\r\n•\tContinually ensure complete awareness of Client, external custodians and inter-departmental Service Level Standards / Agreements and ensure compliance at all times.\r\n•\tEnsure prompt escalation of operational issues that may cause financial or reputational issues to CACEIS or its clients to Senior Officer/Assistant Manager/Manager of the team/department. \r\n•\tEstablish working relationships with people at all levels both inter departmental and across the wider firm.\r\n•\tProvide feedback on agent network and vendor performance on any deviations from their service level agreement with CACEIS.\r\n•\tAble to demonstrate capability to perform validation on common task.\r\n\r\nGood Reasons to Join Us \r\n1.\tJoin an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2.\tDevelop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3.\tExpand your professional horizons with numerous mobility opportunities within the group. \r\n4.\tThrive in a company that respects its employees and clients.  \r\n5.\tTake advantage of ongoing training to enhance your skills and boost your employability. \r\n6.\tOpportunity to work in a multicultural environment and engage with a diverse team.",
     "creationDate": "2026-09-17T09:25:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
