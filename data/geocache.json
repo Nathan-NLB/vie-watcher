@@ -432,5 +432,10 @@
   },
   "entreprise|bouygues travaux publics|londres|royaume-uni": null,
   "entreprise|seb developpement|francfort|allemagne": null,
-  "entreprise|engie global markets|madrid|espagne": null
+  "entreprise|engie global markets|madrid|espagne": null,
+  "entreprise|valeo electrification|erlangen|allemagne": null,
+  "ville|erlangen|allemagne": {
+    "lat": 49.5891571,
+    "lon": 10.9812072
+  }
 }
