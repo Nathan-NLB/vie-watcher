@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/10/2026 04:06:59**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **09/10/2026 04:31:39**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4962,83 +4962,6 @@ Votre lettre devra inclure :
 Votre compréhension du concept Dans le Noir ? et ses enjeux de communication (5 lignes max)
 Une idée originale pour poursuivre le développement de la marque à Genève  (5 lignes max)
 Facultatif mais apprécié : un lien vers une vidéo de 2 min max pour vous présenter, partager votre motivation et expliquer pourquoi vous postulez.
-
-</details>
-
-<details>
-<summary><strong>VIE - Junior Finance Controller - Budapest (H/F)</strong> · SCHNEIDER ELECTRIC INDUSTRIES SAS · BUDAPEST, HONGRIE · 2 552,51 €/mois</summary>
-
-- **Entreprise :** SCHNEIDER ELECTRIC INDUSTRIES SAS
-- **Lieu :** BUDAPEST, HONGRIE
-- **Indemnité :** 2 552,51 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 08/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245696](https://mon-vie-via.businessfrance.fr/offres/245696)
-
-**Description du poste**
-
-As a Junior Finance Controller, you will join the Global Procurement Finance team and play a key role in providing financial, commercial, and decision-making support to Procurement leadership and key stakeholders worldwide.
-
- 
-
-You will contribute to performance measurement, financial reporting, procurement controlling activities, and digital transformation initiatives, while gaining exposure to global Supply Chain and Procurement operations.
-
-Key Responsibilities
-Financial Performance & Reporting
-Consolidate, analyze, and publish key Procurement Finance indicators.
-Support reporting activities related to:
-iSave performance
-Material and Other AOC productivity
-Raw Material Index (RMI) evolution
-Base cost monitoring
-Ensure the accuracy, consistency, and reliability of financial data.
-Business Partnering & Performance Management
-Support Procurement Finance teams, Commodity Directors, and Market Leaders in understanding and monitoring business performance.
-Contribute to the deployment of performance measurement principles across procurement organizations.
-Participate in business reviews and performance discussions with global stakeholders.
-Dashboard & Analytics Management
-Maintain and enhance dashboards and Balanced Scorecards.
-Support performance tracking across global commodity categories, including Electrical Equipment (EE) and Raw Material Markets.
-Contribute to the Global Supply Chain Business Review process.
-Cost Controlling
-Monitor Procurement function costs and support budget follow-up activities.
-Identify trends, risks, and opportunities through financial analysis.
-Digital Transformation & Projects
-Support procurement finance digitization projects.
-Contribute to the development, deployment, and improvement of digital tools and reporting platforms.
-Help drive automation and data-driven decision-making initiatives.
-Ad-Hoc Financial Analysis
-Perform specific analyses and business studies upon request.
-Leverage systems such as iSave, Prism RS, Essbase, and other digital platforms to support decision-making.
-
-**Profil recherché**
-
-Education
-Master's Degree in Finance, Controlling, Economics, Business Administration
-Experience
-A first experience (internship, apprenticeship, or employment) in:
-Management controlling
-Financial analysis
-Corporate finance
-Procurement finance
-Experience in an international environment is a plus.
-Languages
-Professional proficiency in English is required.
-Technical & Functional Skills
-Strong economic and financial acumen.
-Understanding of Procurement and Supply Chain processes.
-Knowledge of performance measurement systems and financial reporting.
-Analytical mindset with strong problem-solving capabilities.
-Advanced Excel and data analysis skills.
-Knowledge of Essbase is highly appreciated.
-Understanding of business and legal aspects related to procurement is a plus.
-Personal Competencies
-Strong analytical and quantitative skills.
-Ability to manage multiple priorities simultaneously.
-Attention to detail and commitment to data accuracy.
-Team player with excellent communication skills.
-Curiosity and willingness to learn in a fast-paced global environment.
-Ability to work effectively under pressure and meet deadlines.
 
 </details>
 
