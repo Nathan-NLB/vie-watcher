@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **10/10/2026 00:06:31**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **10/10/2026 00:32:16**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4890,110 +4890,6 @@ What do You have?
 • Excellent interpersonal and communication skills, both oral and written in English
 • Excellent organisation and planning skills
 • A keen ability to resolve issues and meet tight deadlines
-
-</details>
-
-<details>
-<summary><strong>PROJECT MANAGER DANS LE NOIR(H/F)</strong> · DEEP DATING · GENEVE, SUISSE · 4 157,65 €/mois</summary>
-
-- **Entreprise :** DEEP DATING
-- **Lieu :** GENEVE, SUISSE
-- **Indemnité :** 4 157,65 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 09/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245672](https://mon-vie-via.businessfrance.fr/offres/245672)
-
-**Description du poste**
-
-QUI SOMMES NOUS ?
-
-Vous souhaitez intégrer une PME dynamique et travailler sur des projets socialement innovants ?
-
-Le groupe Ethik Investment a développé depuis près de 22 ans les restaurants et espaces sensoriels Dans le Noir ? 9 pays, 15 villes (Paris, Nantes, Bordeaux, Strasbourg, Toulouse, Tours, Marseille, Londres, Madrid, St Pétersbourg, Le Caire, Bruxelles, Luxembourg, Genève, Lisbonne) pour faire vivre des expériences sensorielles, sociales et humaines uniques dans le noir absolu.
-Le concept est plébiscité par la presse et le grand public ; les restaurants Dans le Noir ? sont devenus de véritables institutions avec près de 3 millions de visiteurs.
-En savoir + : www.danslenoir.com
-
-
-POSTE ET MISSIONS :
-Sous la responsabilité de la Direction de la marque DANS LE NOIR ?, vous aurez pour mission :
-
-RELATION CLIENTS - FLOOR :
-Coordination des dîners du restaurant Dans le Noir ? Genève au sein du Ritz-Carlton Genève, les vendredis/ samedis / dimanches soir
-- Accueil des clients, organisation et coordination des services, débriefing clients
-- Suivi, Organisation et supervision des réservations et demandes clients
-- Suivi et optimisation de la vente de bons cadeaux en ligne
-
-COORDINATION :
-- Optimisation du fonctionnement et de l’organisation du restaurant et des relations avec le partenaire (Suivi de la création des menus avec le Chef et participation aux tastings pour valider les menus, de la communication avec les équipes, du fonctionnement opérationnel du projet,…)
-- Suivi de l’équipe de guides-serveurs : planning, recrutement, management formation 
-- Suivi administratif et reporting comptables mensuel
-
-COMMUNICATION
-- Suivi de la communication interne et externe du restaurant et des RP (en relation avec le pôle communication DLN et du Ritz-Carlton)
-- Gestion des réseaux sociaux en lien avec les guidelines du siège (Facebook, Instagram)
-- Gestion de l’e-réputation du restaurant sur les plateformes en ligne (Tripadvisor, Google Business)
-- Rédaction d’articles de blog pour le référencement (SEO) en lien avec notre équipe com
-
-DEVELOPPEMENT / COMMERCIAL / EVENEMENTIEL
-- Organisation et suivi d’événements, de partenariats et d’animations
-- Prospection, relance, suivi commercial
-- Optimisation développement B2B
-- Organisation d’évènements « out of the box”
-
-Vous serez en relation régulièrement avec :
-- Notre partenaire hôtelier pour piloter/développer le concept
-- Les équipes de Dans le Noir ? en France et à l’international (partage de bonnes pratiques et d’idées ; opérations de communication…). Réunions en ligne hebdomadaires + 2 séminaires / an.
-
-Le restaurant Dans le Noir ? Genève a ouvert ses portes en janvier 2023 au sein du Ritz-Carlton Genève,  Hotel de la Paix.
-VOS OBJECTIFS :
-- Poursuivre le développement de la notoriété du restaurant DLN Genève
-- Viser un taux de remplissage :constamment en croissance
-- Développer les privatisations B2B
-- Qualité : Maintien sur le podium (TOP 3) sur TripAdvisor
-- Fédérer l’équipe de guides serveurs à travers un accompagnement bienveillant
-- Poursuivre de développer une collaboration saine et efficace de partenariat avec l'hôtel Ritz-Carlton
-
-DEBUT DE  MISSION (1er décembre 2026 ou 1er janvier 2027)
-
-**Profil recherché**
-
-La maîtrise de l'ANGLAIS est indispensable.
-
-Profil recherché : H/F Bac+4/5, idéalement école hôtelière/restauration, commerce, gestion ou événementiel. Nous recherchons une personne responsable, rigoureuse, organisée, autonome et passionnée, prête à rejoindre une équipe jeune, dynamique et bienveillante.
-
-Qualités attendues :
-Excellent relationnel et sens de l’écoute
-Enthousiasme, curiosité, esprit positif
-Rigueur, autonomie, polyvalence
-Force de proposition, goût de l’innovation
-Ouverture d’esprit et vivacité intellectuelle
-Sensibilité aux sujets diversité & inclusion
-Intérêt pour le digital et les réseaux sociaux
-
-Compétences :
-Formation en hôtellerie-restauration, management, entrepreneuriat, commerce ou gestion de projet
-Bonne connaissance du marché local appréciée
-Excellentes qualités rédactionnelles, orthographe irréprochable
-Maîtrise des réseaux sociaux
-Première expérience souhaitée (12 mois idéalement), restauration appréciée
-Français et anglais requis
-
-INFORMATIONS PRATIQUES :
-
-Télétravail + coordination des dîners Dans le Noir ? au Ritz-Carlton Genève, Hôtel de la Paix.
-Rythme indicatif : 2 jours télétravail / 3 jours terrain (parfois 3 jours TT / 2 jours terrain)
-Contrat : VIE 12 mois, renouvelable
-Formations internes régulières
-
-
-POSTULER :
-Envoyez CV, lettre de motivation et date précise de disponibilité.
-
-Votre lettre devra inclure :
-
-Votre compréhension du concept Dans le Noir ? et ses enjeux de communication (5 lignes max)
-Une idée originale pour poursuivre le développement de la marque à Genève  (5 lignes max)
-Facultatif mais apprécié : un lien vers une vidéo de 2 min max pour vous présenter, partager votre motivation et expliquer pourquoi vous postulez.
 
 </details>
 
