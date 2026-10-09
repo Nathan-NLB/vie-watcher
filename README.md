@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/10/2026 17:33:43**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **09/10/2026 17:53:07**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -741,113 +741,6 @@ Apply by attaching your updated CV, regardless of your gender.
 ENGIE Supply & Energy Management is committed to creating a gender-neutral environment that unlocks the potential of everyone and provides equal employment opportunities for all individuals. 
  
 All our positions are open to people with disabilities, please let your recruiter know if you need reasonable accommodation to be able to take part in the recruitment process, they will be happy to assist you.
-
-</details>
-
-<details>
-<summary><strong>VIE/PANGEO - Financial Controller (M/W) (H/F)</strong> · VEOLIA ENERGIE PERFORMANCE · BALE, SUISSE · 4 135,75 €/mois</summary>
-
-- **Entreprise :** VEOLIA ENERGIE PERFORMANCE
-- **Lieu :** BALE, SUISSE
-- **Indemnité :** 4 135,75 €/mois
-- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
-- **Publiée le :** 07/10/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil correspond parfaitement aux exigences académiques et techniques grâce à la maîtrise de Power BI et une solide expérience en contrôle budgétaire et reporting. Le principal écart réside dans l'absence de mention de l'allemand, utile en Suisse, et d'un passage en cabinet d'audit.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246801](https://mon-vie-via.businessfrance.fr/offres/246801)
-
-**Description du poste**
-
-As a global leader in environmental services, Veolia operates across all 5 continents with nearly 218,000 employees. An expert in water, energy, and waste management, the Group designs and implements innovative solutions for decarbonization, depollution and resource regeneration to support communities and industries in their ecological transformation.
-
-Ambitious graduates and young professionals: Ready to challenge yourself and accelerate your career growth?🚀🌍
-Launch your international journey with a world leader in ecological transformation!
-The VIE/PANGEO program offers you:
-• Highly sought-after international expertise
-• Innovative and sustainable projects
-• Multicultural teamwork
-• Worldwide networking
-Your passport to a thrilling career awaits. Join us and make a global impact!
-
-Veolia Industry Building - Switzerland AG is looking for a VIE/PANGEO - Financial Controller (M/W) in Basel, Switzerland.
-
-🎯 THE MISSION
-Step into a pivotal role that bridges local management and corporate leadership. As Financial Controller, you'll be at the heart of our financial operations, managing complex reporting cycles, optimizing financial processes, and leveraging modern digital tools to drive business insights. Work in a trilingual, international environment where your analytical skills and financial acumen will directly impact strategic decisions.
-Your mission:
-✅ Master financial reporting at dual levels—local management and corporate leadership
-✅ Drive digital transformation using Workday, PowerBI, and Google Workspace
-✅ Optimize financial processes through automation and data-driven insights
-✅ Support strategic planning with budgeting, forecasting, and ad-hoc business case analysis
-✅ Collaborate seamlessly with remote teams and operational stakeholders
-✅ Build financial excellence in a growing international organization
-
-💼 YOUR RESPONSIBILITIES
-Monthly Closings & Financial Reporting:
-Actively participate in monthly, quarterly, and year-end closing cycles
-Perform detailed variance analyses (Actual vs. Budget / Forecast)
-Prepare, consolidate, and deliver financial reporting packs and management dashboards
-Tailor reporting for both Local Management and Corporate Leadership
-Interface daily with remote Shared Service Centre on accounting tasks and reconciliations
-Budgeting, Forecasting & Strategic Planning:
-Co-build annual budgets and periodic reforecasts with operational heads
-Monitor key operational and financial KPIs
-Surface actionable insights and corrective measures for cost optimization
-Support strategic regional investment decisions
-Digital Transformation & Financial Systems:
-Leverage and optimize Google Workspace (advanced Google Sheets modeling)
-Master Workday ERP for core accounting and reporting
-Develop dynamic dashboards using PowerBI
-Contribute to digitizing financial processes and automating recurring reports
-Upgrade analytical models and reporting infrastructure
-Ad-Hoc Analysis & Operational Controlling:
-Conduct special financial studies and profitability reviews
-Evaluate business cases for strategic investments
-Provide financial insights to support operational decision-making
-
-👤 THE IDEAL PROFILE
-Education:
-Master's Degree from University, Business School, or Engineering School specializing in:
-Finance
-Controlling
-Auditing
-Management Accounting (e.g., CCA)
-Experience:
-Audit Background (Highly Valued): First professional experience in an external audit firm (Big 4 or tier-1 audit firm)
-Controlling Experience: Previous internship or apprenticeship in financial controlling, corporate FP&A, or financial analysis
-Key Skills:
-💻 Financial Toolkit: Hands-on proficiency with Google Sheets and Microsoft Excel
-🔧 ERP & Analytics: Practical experience or strong familiarity with Workday (ERP) and PowerBI
-📊 Analytical Rigor: Strong financial analysis, data modeling, and reconciliation capabilities
-🎯 Autonomy & Agility: Proactive, self-driven professional thriving in a small, agile 2-person team
-🤝 Communication: Clear, concise communicator building strong relationships with operational managers, remote teams, and executives
-🧠 Strategic Mindset: Ability to translate financial data into actionable business insights
-Languages:
-🇬🇧 English: Fluent (written and spoken) – Mandatory
-🇩🇪 German: Proficiency is a distinct advantage
-🇫🇷 French
-
-🌟 READY TO TRANSFORM FINANCE?
-If you're passionate about financial excellence, digital innovation, and international business, and you're ready to make an impact in a leading global organization, this is your opportunity!
-We're waiting for you! 🚀
-
-**Profil recherché**
-
-👤 THE IDEAL PROFILE
-Education:
-Master's Degree from University, Business School, or Engineering School specializing in:
-Finance
-Controlling
-Auditing
-Management Accounting (e.g., CCA)
-Experience:
-Audit Background (Highly Valued): First professional experience in an external audit firm (Big 4 or tier-1 audit firm)
-Controlling Experience: Previous internship or apprenticeship in financial controlling, corporate FP&A, or financial analysis
-Key Skills:
-💻 Financial Toolkit: Hands-on proficiency with Google Sheets and Microsoft Excel
-🔧 ERP & Analytics: Practical experience or strong familiarity with Workday (ERP) and PowerBI
-📊 Analytical Rigor: Strong financial analysis, data modeling, and reconciliation capabilities
-🎯 Autonomy & Agility: Proactive, self-driven professional thriving in a small, agile 2-person team
-🤝 Communication: Clear, concise communicator building strong relationships with operational managers, remote teams, and executives
-🧠 Strategic Mindset: Ability to translate financial data into actionable business insights
 
 </details>
 
