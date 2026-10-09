@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/10/2026 10:53:17**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **09/10/2026 11:08:29**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1240,41 +1240,6 @@ Un niveau d'anglais C1 minimum est requis. Un niveau de français B2 minimum est
 
 POURQUOI NOUS REJOINDRE 
 La branche Gas, Renewables & Power (GRP) de TotalEnergies regroupe la production d’électricité, son stockage, son négoce ainsi que sa distribution. Elle couvre aussi l’ensemble de la chaîne du gaz et du gaz naturel liquéfié (GNL), et développe les activités biogaz et hydrogène. Avec environ 10 000 collaborateurs dans plus de 50 pays, la branche GRP est un pilier majeur de la transition énergétique de la Compagnie. Son objectif : construire un modèle intégré de l’électricité, notamment renouvelable, tout en garantissant l’approvisionnement en gaz dont le monde a besoin aujourd’hui.
-
-</details>
-
-<details>
-<summary><strong>Junior FP&A ANALYST (H/F)</strong> · UPSA SAS · MILAN, ITALIE · 3 003,87 €/mois</summary>
-
-- **Entreprise :** UPSA SAS
-- **Lieu :** MILAN, ITALIE
-- **Indemnité :** 3 003,87 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 05/10/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à ses compétences avancées sur Excel, son niveau d'anglais courant et son expérience solide en FP&A et contrôle budgétaire. Le principal écart réside dans l'absence mentionnée de maîtrise de SAP et l'anglais/italien pour l'Italie, bien que son profil international et son adaptabilité compensent largement.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246625](https://mon-vie-via.businessfrance.fr/offres/246625)
-
-**Description du poste**
-
-In this role, you will be the "right hand" to the Head of Finance and FP&A Manager of SEU & Emerging Markets, specifically focusing on:
-• Reporting & Analysis: Assist in the preparation of monthly, quarterly, and annual management reports, providing insights into financial trends.
-• Planning Cycles: Support the budgeting and forecasting processes across various departments (SC, Marketing, HR, Sales..).
-• Tool Development: Maintain and potentially develop advanced Excel tools to streamline financial reporting and forecasting.
-• Operational Tracking: Monitor KPIs and operational metrics, including specific analysis of Sell-in/Sell-out and Stock levels and Opex and PO monitoring
-• Month-End Support: Support and contribute to month-end closing activities, including the management of accruals across 2 different Zones (SEU & Emerging Markets).
-• Presentation Prep: Assist in drafting "decks" (presentations) for Global Finance and General Management for budget and forecast discussions.
-
-**Profil recherché**
-
-Since this is a VIE position, we are looking for a highly motivated junior professional:
-• Experience: Ideally a recent graduate or someone with initial internship experience in Auditing or Management Control (Controllo di Gestione).
-• Technical Skills:
-o Excel: Advanced proficiency is mandatory, as you will be the primary user and developer of Excel-based tools.
-o SAP: Previous exposure or a "decent" level of familiarity with SAP is highly preferred.
-o Accounting: A solid foundational knowledge of accounting principles.
-• Languages: Excellent command of English is mandatory/essential for communicating with Global Finance and managing international entities. Italian “nice to have”
-• Soft Skills: A proactive mindset, attention to detail, and the ability to work in a fast-paced international environment
-• Resilience: You must possess high resilience and a strong work ethic. The role involves repetitive, high-detail tasks and strict deadlines across multiple countries; we need someone who remains steady and focused under pressure.
 
 </details>
 
