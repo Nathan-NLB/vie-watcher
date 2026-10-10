@@ -829,23 +829,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "259"
+      "[\"180\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Corporate Access est un service intégré au sein des salles des marchés d'ODDO BHF Securities et destiné à mettre en relation des sociétés cotées européennes avec des investisseurs institutionnels français et étrangers. Cela prend la forme de roadshows, composés de meetings (One-to-One, One-to-Few, Group meetings) entre sociétés de gestion et des sociétés cotées, de road trip, de visites de site, de forums.\r\nAu sein de l'organisation globale des opérations d’ODDO BHF Corporates &amp; Markets sur les marchés Equity, vos principales missions seront les suivantes : \r\n•Organisation des roadshows (emailings, contacts avec des Corporates et la base clients, mise à jour de base de données (CRM))\r\n•Organisation des événements avec nos analystes (roadshow des analystes, visioconférence thématiques hebdomadaires).\r\nSelon le sérieux et la fiabilité du volontaire, possibilités d’évolution et de prises de responsabilité.\r\n•Aide à l’organisation des forums (création de save-the-date/invitations, relation avec les prestataires, gestion de la base de données et des relations clients, statistiques)\r\nVotre équipe et votre environnement\r\nVous serez basé(e) à Francfort et intégrerez une équipe jeune et dynamique présente en France (Paris et Lyon), à Francfort, à Amsterdam et à New York. Au regard du champ d’application du poste, vous serez également amené à échanger fréquemment avec des interlocuteurs présents dans toutes nos plateformes Equity (Tunisie, Allemagne, Pays-Bas, Espagne, Etats-Unis).\r\nEn tant que collaborateur au sein de l’équipe Corporate Access, vous intégrerez l’organisation d’un intermédiaire de marché et serez :\r\n- d’une part au contact des investisseurs institutionnels (que comprends notamment ODDO BHF AM et ODDO BHF BP), nos clients pris en charge par nos équipes de vente,\r\n- d’autre part au contact des managements et équipes des Relations Investisseurs des sociétés cotées, couverte par nos analystes sell-side.\r\nCette double exposition vous permettra d’appréhender les différents métiers qui composent le brokerage et de comprendre leur apport et leur besoin",
     "creationDate": "2026-10-08T07:14:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1844,16 +1830,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Potential long-term career opportunities within LDC (Germany, France, Switzerland).\r\nLouis Dreyfus Company is a leading merchant and processor of agricultural goods. Our activities span the entire value chain from farm to fork, across a broad range of business lines, we leverage our global reach and extensive asset network to serve our customers and consumers around the world. Structured as a matrix organization of six geographical regions and ten platforms, Louis Dreyfus Company is active in over 100 countries and employs approximately 19,000 people globally.\r\nThe Illertissen facility will continue its legacy of innovation in food and health ingredients, drive new advancements and deliver high-quality products to meet evolving consumer demand and contribute to LDC's sector growth strategies.\r\n\r\nWe are seeking a highly motivated individual to join our Finance taskforce in Illertissen, reporting to our Global FP&A Food & Feed Solutions manager. This role will be key in bridging Group requirements to local capabilities, with the aim of enhancing our Food and Health Ingredient financial organization by assessing, analyzing, understanding, explaining, and forecasting business performance. As a pivot between Global and local, this role will also serve projects, answer local Management questions, at the boundaries of Finance, Strategy & Planning.\r\n\r\nThe role involves supporting the local Finance team in various transversal topics, the local Management and operations in adhoc analysis and coordination with various teams in Germany and in regional headquarters\r\n\r\nThis position offers the opportunity to learn and grow in a dynamic and motivating environment. The individual will interact daily with various teams at different levels of seniority.\r\n\r\nThis role is unique as it sits at the intersection of global and local finance as well as local Management, offering direct exposure to senior stakeholders across regions and functions. The successful candidate will contribute to further developing understanding of this newly integrated business.",
     "creationDate": "2026-06-16T10:04:59Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -6990,97 +6969,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "https://fa-ewfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/steenstrom/job/310/?utm_medium=jobshare&utm_source=External+Job+Share",
-    "dateCandidature": null
-  },
-  {
-    "id": 244645,
-    "organizationName": "ACE ORGA LAB",
-    "missionTitle": "Business analyst Commodity markets (H/F)",
-    "missionDuration": 18,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "We are a Consulting firm providing financial reportings and IT solutions tailored to meet the regulatory environments and financial markets’ activity. We are working in Geneva and on both sides of the Channel. We are recruiting a Junior business analyst to join our Functional IT team in Geneva.  This is a great opportunity for a fluent in English consultant in its third year as an IT Consultant for banks or Financial services to give an international dimension to its career and join a firm of Business Consultants and Financial specialists.",
-    "organizationUrlImage": "http://www.aceorga.com/fichiers_site/a5580ace/contenu_pages/graphisme_global/logo.png",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "10",
-    "effectifConso": "13",
-    "organizationCountryCounter": "3",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "GENEVE",
-    "cityNameEn": "GENEVE",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "5",
-      "21",
-      "202",
-      "259"
-    ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
-    "missionDescription": "As an intermediate Business analyst in the functional IT practice, you will be responsible for:\r\n- Understanding the activity of our clients: financial markets, Gas and power market\r\n- Knowing front, middle and back-office software as a user\r\n- Following clients’ workshops\r\n- Proposing IT specifications on new activities, new deals or regulations and delivering those specifications to the IT developing team\r\n- Controlling new versions and testing results\r\n- Dealing with reporting duties both for the clients and the firm\r\n- Participating to functional transversal meetings and finding new IT solutions with managers",
-    "creationDate": "2026-07-16T14:32:11Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-05-01T00:00:00",
-    "startBroadcastDate": "2026-09-10T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-10-10T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "What do You have?\n\n• Ideally an engineering degree in a European School or University\n• Financial Mathematics expertise, Kwowledge of financial markets and Greeks\n• An experience of IT Project on the functional side\n• Expertise in IT methods such as Scrum method or UML\n• Some knowledge of French would be an advantage\n• Excellent interpersonal and communication skills, both oral and written in English\n• Excellent organisation and planning skills\n• A keen ability to resolve issues and meet tight deadlines",
-    "countryId": "CH",
-    "countryName": "SUISSE",
-    "countryNameEn": "SWITZERLAND",
-    "reference": "VIE244645",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Noémi LERBRET",
-    "indemnite": 4157.65,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "cvhr@aceorga.com",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
     "dateCandidature": null
   },
   {

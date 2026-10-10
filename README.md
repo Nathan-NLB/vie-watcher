@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **10/10/2026 23:48:33**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **11/10/2026 00:04:54**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4854,42 +4854,6 @@ Support sustainability and operational projects such as solar energy, EV chargin
 - Fluency in both French and English is required
 - Curious, proactive and comfortable working in an international environment
 - Previous experience in real estate, investment, consulting or corporate finance is an advantage but not required
-
-</details>
-
-<details>
-<summary><strong>Business analyst Commodity markets (H/F)</strong> · ACE ORGA LAB · GENEVE, SUISSE · 4 157,65 €/mois</summary>
-
-- **Entreprise :** ACE ORGA LAB
-- **Lieu :** GENEVE, SUISSE
-- **Indemnité :** 4 157,65 €/mois
-- **Durée de la mission :** 18 mois (Du 1 nov. 2026 au 1 mai 2028)
-- **Publiée le :** 10/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244645](https://mon-vie-via.businessfrance.fr/offres/244645)
-
-**Description du poste**
-
-As an intermediate Business analyst in the functional IT practice, you will be responsible for:
-- Understanding the activity of our clients: financial markets, Gas and power market
-- Knowing front, middle and back-office software as a user
-- Following clients’ workshops
-- Proposing IT specifications on new activities, new deals or regulations and delivering those specifications to the IT developing team
-- Controlling new versions and testing results
-- Dealing with reporting duties both for the clients and the firm
-- Participating to functional transversal meetings and finding new IT solutions with managers
-
-**Profil recherché**
-
-What do You have?
-
-• Ideally an engineering degree in a European School or University
-• Financial Mathematics expertise, Kwowledge of financial markets and Greeks
-• An experience of IT Project on the functional side
-• Expertise in IT methods such as Scrum method or UML
-• Some knowledge of French would be an advantage
-• Excellent interpersonal and communication skills, both oral and written in English
-• Excellent organisation and planning skills
-• A keen ability to resolve issues and meet tight deadlines
 
 </details>
 
