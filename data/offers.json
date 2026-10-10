@@ -31,72 +31,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "26",
-      "27",
-      "138",
-      "139",
-      "186",
-      "195",
-      "206",
-      "244"
+      "[\"8\",\"26\",\"27\",\"138\",\"139\",\"186\",\"195\",\"206\",\"244\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "26",
-        "specializationParentId": "216",
-        "specializationLabel": "Communication",
-        "specializationLabelEn": "Communication"
-      },
-      {
-        "specializationId": "27",
-        "specializationParentId": "210",
-        "specializationLabel": "Graphisme - Imprimerie",
-        "specializationLabelEn": "Graphic design- Printing Industries"
-      },
-      {
-        "specializationId": "138",
-        "specializationParentId": "212",
-        "specializationLabel": "Intelligence artificielle",
-        "specializationLabelEn": "Artificial Intelligence"
-      },
-      {
-        "specializationId": "139",
-        "specializationParentId": "210",
-        "specializationLabel": "Multimédia / Digital / Numérique",
-        "specializationLabelEn": "Multimedia / Digital"
-      },
-      {
-        "specializationId": "186",
-        "specializationParentId": "36",
-        "specializationLabel": "Métiers du Livre et de l'Edition",
-        "specializationLabelEn": "Book and Publishing Sector"
-      },
-      {
-        "specializationId": "195",
-        "specializationParentId": "193",
-        "specializationLabel": "Developpement commercial, prospection",
-        "specializationLabelEn": "Business Development"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À propos de Dashbook :<br />Dashbook est LA Maison d'Edition des Créateurs de Contenu. Notre Start-Up révolutionne le secteur de l'édition en offrant aux auteurs, blogueurs, podcasters, et autres créateurs une plateforme moderne et accessible pour créer, publier, promouvoir, et monétiser leurs livres. Grâce à Internet et aux Nouvelles Technologies, nous aidons nos créateurs à atteindre une audience plus large et à vivre de leur passion. La société en pleine expansion développe ses équipes sales & marketing et IT. <br /><br /><br /><br />Description du poste :<br />Dans le cadre de notre croissance rapide, nous recherchons un Bras Droit du CEO talentueux et proactif pour rejoindre notre équipe. Ce rôle stratégique consiste à travailler en étroite collaboration avec la Direction sur une variété de projets touchant à la fois à la stratégie d'entreprise, au développement des affaires, et aux opérations. Vos missions principales seront :\n- Support stratégique : Collaborer avec le CEO pour définir, planifier, et mettre en œuvre la stratégie globale de l'entreprise, en particulier dans le cadre de notre expansion et de l'innovation dans le secteur de l'édition.<br />- Gestion de projets passionnants : Prendre en charge des projets de A à Z, tels que l'ouverture d'une librairie physique ou digitale, ou l'organisation d'un salon littéraire, en garantissant leur réussite du début à la fin. Participer aux recrutements de nouvelles équipes, <br />- Analyse et reporting : Élaborer des analyses de marché, des rapports de performance, et des tableaux de bord pour éclairer les décisions stratégiques.<br />- Coordination et communication : Assurer une communication fluide entre les équipes internes et avec les partenaires externes (créateurs de contenu, partenaires stratégiques, investisseurs).<br />- Optimisation des processus : Identifier des opportunités d'amélioration des processus internes pour maximiser l'efficacité opérationnelle.<br />- Veille concurrentielle et innovation : Surveiller les tendances du secteur et les innovations concurrentielles pour proposer des idées nouvelles et audacieuses.<br /><br /><br />",
     "creationDate": "2024-09-05T08:46:31Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -969,16 +906,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Context:\n\nAs one of Engie S&EM’s front divisions (Supply & Energy Management), the mission of Supply Portfolio Management (SPM) is to manage energy risks for Engie Energy Supply activities worldwide. As part of Germany business platform, the Supply Portfolio Management team (SPM) is at the heart of energy management of Engie’s german B2B portfolio.\n\nThe SPM team interacts with several internal teams such as: sales teams, other SPM’s teams, Trading, IT, Finance, Risk, Back Office…\n\nSPM Germany is currently looking for young motivated Suppply Portfolio and Grid managers ready to dig into SPM operations and support our growth ambitions. The mission is intended for 2 years, with a start in January 2027.\n\nRole:\n\nAs a supply portfolio & grid manager in SPM Germany, you will gradually perform the following tasks:\n\n•\tYou support the sales offering activity, structure and price standard and non-standard offers: by identifying potential risks and ensuring use of adequate and up to date costing models, risk bricks and data availability;\n•\tYou actively assess and manage commodity risks linked to the dynamics of a sales portfolio, for all its commodities – Power, Natural gas, Certificates - meaning operate and optimize costing, forecasting, sourcing, and hedging strategies, within a defined mandate;\n•\tYou operate various strategies to reduce, internalize or externalize risks, towards and in collaboration with stakeholders (Trading, other BUs);\n•\tIn collaboration with forecasting experts, you monitor and regularly review the expected consumption of your portfolio.\n•\tYou report the portfolio financials linked to the energy management results and performance to the business platform;\n•\tYou manage the market communication with Transport & Distribution network operators for balancing and metering: declaration of our customer’s connection points, scheduling of nominations, retrieval and control of official metering data.\n•\tYou use and challenge data, models, processes & tools to answers supplier’s vision and ambition;  \n•\tYou are involved in the development of the tools, models, process, and portfolio/data representation of all commercial offer's portfolio;\n•\tYou manage contacts with multiple stakeholders to which you present and explain pricing and energy management.",
     "creationDate": "2026-10-07T15:35:42Z",
     "missionStartDate": "2026-12-01T00:00:00",
