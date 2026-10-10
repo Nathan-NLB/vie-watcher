@@ -969,44 +969,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "22",
-      "219",
-      "318",
-      "327"
+      "[\"6\",\"22\",\"219\",\"318\",\"327\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "22",
-        "specializationParentId": "216",
-        "specializationLabel": "Marketing",
-        "specializationLabelEn": "Marketing"
-      },
-      {
-        "specializationId": "219",
-        "specializationParentId": "216",
-        "specializationLabel": "Marketing Digital",
-        "specializationLabelEn": "Digital Marketing"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "327",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique et Sciences des Données",
-        "specializationLabelEn": "Informatique et Sciences des Données"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As a V.I.E Data Analyst for a 12-month assignment renewable for an additional 12 months, you will join the Data Analytics team within the Marketing organization and contribute to the development of advanced analytical solutions supporting business growth.\r\n\r\nYour responsibilities will include:\r\n\r\nCollecting, validating, transforming and integrating data provided by retail customers (sell-out, market shares, stocks, traffic, etc.) as well as internal and external data sources (CRM, media and other business data).\r\nCreating and maintaining dashboards in Qlik Sense and delivering ad-hoc analyses to support business decisions.\r\nContinuously improving existing dashboards through automation and development of new KPIs.\r\nAutomating data processes within AWS and Snowflake environments and developing data pipelines using Python when required.\r\nTranslating analyses into actionable recommendations and business insights.\r\nCollaborating closely with Key Account Management, Marketing, Supply Chain and Finance teams.\r\nWorking alongside global Data Engineering and Data Governance teams.\r\nLeading workshops and providing training to business users.\r\nEvaluating the ROI of category projects, promotional campaigns and other commercial activation initiatives.\r\nPromoting a data-driven mindset and actively supporting the company's ongoing transformation.",
     "creationDate": "2026-10-07T15:25:10Z",
     "missionStartDate": "2026-12-01T00:00:00",
