@@ -633,16 +633,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\nProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers.\n\nPoste et missions :\nProcapital propose des prestations de sous-traitance de négociation, conservation et tenue de comptes titres pour des clients institutionnels en Belgique.\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Initiation des dossiers de transferts de titres entrants et sortants avec les contreparties\n- Gestion des transferts internes\n- Mise en place des instructions de transfert sur le marché\n- Suivi du dénouement des transferts\n- Traitement des réconciliations titres\n- Traitement des demandes clients\n- Participation à des réflexions ayants pour but l’amélioration de l’efficacité et productivité interne (amélioration de procédures, identification d’automatisations complémentaires…)",
     "creationDate": "2026-10-08T15:27:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -703,16 +696,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Valeo’s VIE Program?\n\nThe Valeo VIE Program is available to citizens of the European Economic Area (EU + Norway, Liechtenstein and Iceland) aged between 18 and 28. This program is to work for one of our subsidiaries around the world!\nBusiness France, the French agency for international business development, is in charge of all the administrative procedures of your assignment. Make sure you meet Business France's eligibility criteria to apply for a VIE : https://mon-vievia.businessfrance.fr/\nPLEASE NOTE: Your application must be submitted in English to be considered by our non-French speaking teams partners at Valeo worldwide. \nPLEASE NOTE: As part of your international development, you cannot apply to a VIE assignment in the country of your citizenship\n***\nJoin our teams mobilized to meet the challenge of accelerating electrification!\n\nAt the heart of electric mobility, Valeo Power brings together expertise in thermal management systems and propulsion systems. This division develops innovations that contribute to the mobility of tomorrow by reducing pollutant emissions and maximizing vehicle autonomy.\n\nThe site of Erlangen based in Germany belongs to the POWER Division. We are looking for a VIE Business Management Controller for 24 months within the team.\n\nYour challenges?\n\n- You will work in close collaboration with the Project Manager and the project team as a full team member, ensuring the reliability of the project’s economics from the RFQ / P1 phase until series production.\n- You will build and maintain the project’s provisional P&L, investment plan, and cash flow projections.\n- You will ensure the consistency of the industrial and economic scenario, including volumes, inflation balance, investments, and R&D costs.\n- You will provide the Project Manager with a comprehensive understanding of production costs, including standard times, hourly rates, and fixed cost allocations.\n- You will prepare clear syntheses and presentations for upper management, transparently explaining whether and under which conditions a business is profitable.\n- You will follow up on project costs (R&D, investments, prices) and key KPIs throughout the complete development phase.\n- You will track and manage customer contributions, subsidies, and tooling sales across cash flow, P&L, and balance sheet perspectives.",
     "creationDate": "2026-10-08T09:12:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
