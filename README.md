@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **11/10/2026 04:06:08**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **11/10/2026 04:32:04**, 89 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4808,52 +4808,6 @@ German language skills are an advantage
 Experience with data analysis, business intelligence tools, or reporting solutions (e.g., Power BI)
 Interest in process improvement, automation, and system development
 Knowledge of banking, lending, credit risk, or financial services is beneficial but not essential
-
-</details>
-
-<details>
-<summary><strong>ASSET MANAGEMENT ANALYST -  (H/F)</strong> · KLEPIERRE MANAGEMENT · COPENHAGUE, DANEMARK · 3 662,65 €/mois</summary>
-
-- **Entreprise :** KLEPIERRE MANAGEMENT
-- **Lieu :** COPENHAGUE, DANEMARK
-- **Indemnité :** 3 662,65 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 11/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245857](https://mon-vie-via.businessfrance.fr/offres/245857)
-
-**Description du poste**
-
-Your key responsibilities will include:
-
-1) Portfolio strategy and value creation
-Support the implementation of asset strategies and business plans
-Identify value creation opportunities across leasing, ancillary income, retail media, services and customer experience
-Monitor asset performance, market trends, catchment areas and competitive positioning
-
-2) Business planning and performance analysis
-Contribute to annual budgets, forecasts and five-year business plans
-Prepare financial analyses, dashboards and management reporting
-Track the performance and delivery of approved CAPEX and strategic initiatives
-
-3) Investment and valuation
-Coordinate the preparation of data and assumptions for external valuations
-Review valuation reports and challenge key assumptions
-Support the analysis of acquisition and disposal opportunities
-Contribute to financial modelling and investment committee materials
-
-4) Governance and strategic projects
-Prepare decision-making materials for internal committees, shareholders and co-owners
-Contribute to quarterly asset reviews and ad hoc strategic analyses
-Support sustainability and operational projects such as solar energy, EV charging and parking optimization
-
-**Profil recherché**
-
-- Master’s degree in finance, real estate, business or engineering
-- Strong analytical skills and a solid understanding of financial concepts
-- Advanced proficiency in Excel, PowerPoint and AI-powered productivity tools
-- Fluency in both French and English is required
-- Curious, proactive and comfortable working in an international environment
-- Previous experience in real estate, investment, consulting or corporate finance is an advantage but not required
 
 </details>
 
