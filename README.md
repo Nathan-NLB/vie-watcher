@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **12/10/2026 04:07:52**, 89 offre(s) actuellement en ligne.
+Dernière vérification : **12/10/2026 04:34:41**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4765,49 +4765,6 @@ QUALITÉS ATTENDUES
 •	Curiosité et goût pour les chiffres.
 •	Force de proposition et volonté d'amélioration continue.
 •	Autonomie et capacité à évoluer dans un environnement international.
-
-</details>
-
-<details>
-<summary><strong>Transversal Corporate Risk (H/F)</strong> · STELLANTIS BANK · POTSDAM, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** STELLANTIS BANK
-- **Lieu :** POTSDAM, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 11/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245849](https://mon-vie-via.businessfrance.fr/offres/245849)
-
-**Description du poste**
-
-Key Responsibilities
-
-Support the monitoring and oversight of corporate lending portfolios across Germany, the United Kingdom, and Austria
-Maintain and further develop monitoring tools and early warning systems used to assess portfolio performance and credit risk trends
-Assist in the enhancement and implementation of risk management systems and digital solutions.
-Contribute to the design and implementation of an AI-enabled portfolio monitoring framework, helping to identify emerging risks, automate monitoring activities, enhance data analysis, and improve management reporting
-Support the preparation of management reports, portfolio analyses, and presentations for senior management and risk committees
-Collaborate with business, operations, finance, and risk teams to improve data quality, reporting processes, and operational efficiency
-Support strategic projects related to risk management, system enhancements, artificial intelligence, automation, and regulatory requirements
-Provide analytical support to the Chief Risk Officer Germany on reporting and risk management initiatives
-
-**Profil recherché**
-
-Required Qualifications
-
-Bachelor's degree in Finance, Economics, Business Administration, Risk Management, Data Analytics, Information Systems, or a related field
-Strong analytical and problem-solving skills with an interest in financial services and risk management
-Excellent written and verbal communication skills in English
-Ability to work effectively in an international and multicultural environment
-Self-starter, able to operate independently as well as a team
-Knowledge in Microsoft Office applications, particularly Excel and PowerPoint
-Ability to actively handle multiple deliverables and changing priorities
-Preferred Qualifications
-
-German language skills are an advantage
-Experience with data analysis, business intelligence tools, or reporting solutions (e.g., Power BI)
-Interest in process improvement, automation, and system development
-Knowledge of banking, lending, credit risk, or financial services is beneficial but not essential
 
 </details>
 
