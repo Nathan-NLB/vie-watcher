@@ -8,11 +8,154 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **13/10/2026 10:17:31**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **13/10/2026 10:41:39**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>ANALYSTE FONCTIONNEL SI CONTROLLING (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** VINCI CONSTRUCTION SI
+- **Lieu :** BOTTROP, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 13/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245657](https://mon-vie-via.businessfrance.fr/offres/245657)
+
+**Description du poste**
+
+QUI SOMMES-NOUS ? 
+
+Rejoindre les équipes de VINCI Construction SI, c’est participer à la transformation digitale du Groupe au service des utilisateurs. 
+
+Nos missions sont de moderniser nos outils de gestion, nos applications métiers, améliorer la cybersécurité et nos infrastructures IT. Nous travaillons sur l’adoption de nos outils par les utilisateurs et souhaitons construire le futur numérique (IA, BIM, IOT…).
+
+VOS MISSIONS ET VOS CHALLENGES CHEZ VINCI CONSTRUCTION SI :
+
+Intégré(e) à l’équipe DSI en Allemagne, sous la direction d’Andrea Wienand pour la partie Transformation & Applications, vous rejoindrez une équipe dynamique de 13 personnes pour une mission de 24 mois en V.I.E. Vous serez basé(e) sur notre site allemand « Bauknechtquartier » au campus de VINCI Construction à Bottrop, près de Düsseldorf, après une formation d’environ 6 mois au sein de VINCI Construction SI à Nanterre-Préfecture. 
+
+Vous répondrez à un enjeu essentiel pour le groupe sur la bonne gestion des chantiers, en proposant des solutions IT sur les sujets liés au domaine “Finance and Controlling” :  
+•	Comptabilité générale, comptabilité fournisseur, comptabilité client, trésorerie et immobilisation 
+•	Contrôle de gestion des chantiers et de l’entreprise, processus budgétaire, intégration / suivi des recettes et dépenses, calcul de la rentabilité, clôture mensuelle, etc.  
+
+Vos principales missions sont :
+•	Participer à l’analyse des besoins des utilisateurs et mettre en œuvre les solutions techniques adéquates afin d’enrichir nos processus 
+•	Gérer les interactions avec les autres domaines Logistique, Finance, RH et les applications opérationnelles 
+•	Prendre en charge les activités de support, de maintenance et de formation liées à notre solution auprès des utilisateurs en Allemagne, ainsi qu’à l’international sur des sujets transverses, afin de faciliter son adoption 
+•	Appréhender la maîtrise d’un ERP de type SAP, évaluer l’apprentissage des bonnes pratiques de gestion de projet et se confronter à l’animation des ateliers avec nos clients internes 
+
+Localisation : L’Archipel Campus de VINCI / Nanterre-Préfecture | Bottrop, ALLEMAGNE
+
+Contrat : V.I.E.
+
+Les + : Une activité variée et stimulante | Collaboration à l’internationale | Intégration dans une équipe avec une collaboration d'égal à égal | Une relation de travail à long terme, fondée sur la confiance | Un travail responsable et autonome | Accès à des formations continues personnalisées
+
+POURQUOI NOUS REJOINDRE ?
+
+En rejoignant la direction IT, vous intégrez une équipe dynamique et innovante, qui utilise les technologies les plus récentes pour répondre aux besoins de nos Business Units et de nos clients. Vous bénéficiez d'une proximité avec VINCI Construction SI, qui vous permet de partager vos connaissances et de participer à des projets transverses. Vous contribuez ainsi à la transformation digitale du groupe VINCI Construction.
+
+Nous accordons une importance particulière à l'Expérience Collaborateur, qui est un facteur clé de succès pour notre entreprise. Nous vous proposons un parcours d'intégration personnalisé, un accompagnement individuel et collectif, et des opportunités de formation et de mobilité au sein de VINCI Construction SI et du groupe VINCI. Vous développez vos compétences techniques, linguistiques, managériales et relationnelles, tout en renforçant votre sens de la sécurité et de la responsabilité.
+
+**Profil recherché**
+
+ET SI C’ETAIT VOUS ?
+
+En dernière année de formation Bac+5 (école d’ingénieurs, de commerce, à l’université ou en informatique) ou déjà diplômé avec une ou plusieurs années d’expérience professionnelle, vous avez :
+•	Une capacité à comprendre et synthétiser une problématique, adapter votre langage en fonction de l’interlocuteur et interagir avec nos clients internes 
+•	Une expérience acquise lors d’un stage/projet personnel/projet scolaire sur un sujet IT/Digital en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus 
+•	Des facultés d'expression orale et écrite (français et anglais) : votre écoute vous permettra de travailler en collaboration avec des utilisateurs finaux, le management du groupe VINCI Construction et les autres équipes de la DSI (infrastructures, réseaux, support…) 
+•	Une maîtrise de l’anglais courant 
+•	Une connaissance des bases en allemand 
+
+QUALITÉS HUMAINES ET COMPÉTENCES :
+•	Forte capacité à travailler en équipe, sens du service, curiosité, rigueur, esprit d’analyse et de synthèse, bon relationnel, sens de l’organisation et une culture de résultat 
+•	Une formation axée sur le Contrôle de gestion et/ou BTP et/ou Systèmes d’Information est un plus 
+•	Une 1ère expérience en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus
+•	Dans le cadre de vos missions, vous serez amené à faire des déplacements ponctuels
+
+</details>
+
+<details>
+<summary><strong>VIE Analyst M&A | Latin America (Portuguese speaking) (H/F)</strong> · EURO LATINA FINANCE · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
+
+- **Entreprise :** EURO LATINA FINANCE
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 743,28 €/mois
+- **Durée de la mission :** 9 mois (Du 1 févr. 2027 au 1 nov. 2027)
+- **Publiée le :** 13/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245372](https://mon-vie-via.businessfrance.fr/offres/245372)
+
+**Description du poste**
+
+VIE Analyst M&A | Latin America (Portuguese speaking)
+
+
+
+Role Overview:
+ 
+
+Euro Latina Finance is seeking an M&A Analyst to join its execution team in São Paulo. This role offers the opportunity to work on high-profile transactions in Latin America, primarily Brazil and Colombia in a wide array of sectors. He/shell will work with our senior teams across different countries and will play a pivotal role in supporting deal execution, managing intern(s), and contributing to business development efforts.
+
+This position is suited for an execution driven M&A professional who thrives in a fast paced, entrepreneurial environment and is keen to grow in a truly multicultural team.
+
+Key Responsibilities:
+
+1. Financial Analysis & Modeling
+•	Analyze companies’ financial statements
+•	Build and maintain detailed financial models 
+
+2. Transaction Execution
+•	Support execution across different phases of M&A transactions
+•	Prepare core transaction materials, including Teasers, CIMs, Management Presentations, Pitch Books, and investor/buyer lists.
+•	Conduct financial, strategic, and market analyses to support positioning and valuation
+•	Coordinate due diligence processes, manage data rooms, and track Q&A with internal and external stakeholders.
+
+3. Client & Business Development Support
+•	Assist in the preparation of proposals, pitch materials, and presentations for existing clients and prospects.
+•	Contribute to sector research, market updates, and strategic analyses to support origination efforts.
+
+Management of Interns
+•	Supervise and review intern(s)’ work, providing guidance and quality control
+
+Why Join Euro Latina Finance?
+
+
+•	Global and multicultural team based in three different locations across Latin America and Europe and led by its founder & CEO
+•	Growing company with a solid pipeline and deal flow perspective
+•	Vast array of sectors and mandates 
+•	Opportunity to work within a collegial culture that puts people first
+•	Possibility to move to different offices within the firm in the future
+
+Company description
+Established in 2010, Euro Latina Finance is an independent financial advisory firm specialized in cross-border transactions between Europe and Latin America.
+Headquartered in Paris, with offices in São Paulo and Bogotá, Euro Latina Finance provides tailor-made M&A and strategic advice to a portfolio of blue-chip clients. The firm specializes in cross-border M&A transactions across a wide array of sectors between Europe/US and Latin America with values ranging from US$100mm – US$1bn+. 
+Since its inception, Euro Latina Finance has advised c.30 successful transactions out of a total of c. 80 M&A projects.
+More information: https://www.eurolatinafinance.com/ and https://www.eurolatinafinance.com/career
+
+**Profil recherché**
+
+Required:
+
+•	2-4 year prior experience in M&A, preferably from a top-tier investment bank, a leading PE fund or a Transaction Services firm
+•	Top academic performance in a leading Business or Engineering school
+•	Fluency in Portuguese, English and French
+•	Excellent written and verbal communication skills
+•	Excellent Excel / Power Point / Word skills
+
+Preferred:
+•	Prior exposure to Latin America
+•	Fluency in Spanish
+
+Personal Attributes
+
+•	Highly motivated and proactive
+•	Strong intellectual curiosity, attention to detail, and willingness to learn in a demanding environment.
+•	Solid analytical thinking and with a strong sense of ownership
+•	Team oriented and able to thrive in Euro Latina Finance’s collaborative culture
+
+</details>
 
 <details>
 <summary><strong>Junior Trader (H/F)</strong> · BLUE CUBE (FRANCE) · LONDRES, ROYAUME-UNI · 3 815,75 €/mois</summary>
@@ -1293,89 +1436,6 @@ Un niveau d'anglais C1 minimum est requis. Un niveau de français B2 minimum est
 
 POURQUOI NOUS REJOINDRE 
 La branche Gas, Renewables & Power (GRP) de TotalEnergies regroupe la production d’électricité, son stockage, son négoce ainsi que sa distribution. Elle couvre aussi l’ensemble de la chaîne du gaz et du gaz naturel liquéfié (GNL), et développe les activités biogaz et hydrogène. Avec environ 10 000 collaborateurs dans plus de 50 pays, la branche GRP est un pilier majeur de la transition énergétique de la Compagnie. Son objectif : construire un modèle intégré de l’électricité, notamment renouvelable, tout en garantissant l’approvisionnement en gaz dont le monde a besoin aujourd’hui.
-
-</details>
-
-<details>
-<summary><strong>VIE - Chargé(e) de projets RH – (F/H) (H/F)</strong> · CREDIT INDUSTRIEL ET COMMERCIAL · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
-
-- **Entreprise :** CREDIT INDUSTRIEL ET COMMERCIAL
-- **Lieu :** LUXEMBOURG, LUXEMBOURG
-- **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 05/10/2026
-- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion et le FP&A financier, alors que l'offre propose un poste de chargé de projets RH. Bien que le niveau d'études (Master en gestion) et les compétences analytiques correspondent, l'absence d'expérience préalable en ressources humaines constitue un écart majeur.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245354](https://mon-vie-via.businessfrance.fr/offres/245354)
-
-**Description du poste**
-
-Présente au Luxembourg depuis plus de 100 ans, la Banque de Luxembourg est un acteur financier incontournable de la place au service de clients privés, d’entreprises luxembourgeoises et de clients professionnels issus des métiers de la gestion d’actifs. 
-Votre mission :
-Dans le cadre de votre mission V.I.E, vous intégrerez une équipe RH dynamique et travaillerez en étroite collaboration avec les HR Business Partners ainsi qu’avec les différents centres d’expertise RH (Talent Acquisition, Data, Learning & Development) afin de participer activement à la mise en œuvre de projets RH transverses.
-
-Vos missions :
-
-•	Participer et contribuer à la coordination et au suivi de la mise en œuvre de projets RH, en concourant à différents chantiers (analyses, communication, suivi des plans d’actions).  
-•	Jouer un rôle actif dans le cadre de la coordination des processus RH transverses impliquant plusieurs équipes et parties prenantes, et ce en étroite collaboration avec le.la Key Process Coordinator.
-•	Participer activement à l’organisation d’événements internes RH (ex. : : Mobility Day, Journée de la Diversité, …)
-•	Être force de proposition quant au développement de la marque employeur en coordonnant et déployant des initiatives ciblées en étroite collaboration avec les équipes Talent Acquisition et Communication. 
-•	Apporter son soutien dans la préparation et le suivi de la gestion prévisionnelle des effectifs. 
-Nous apprécierons chez vous : 
-
-•	Votre diplôme niveau Master en Management, Gestion, Economie/Finance et/ou Droit
-•	Une première expérience dans le domaine de la gestion de projets RH en entreprise, idéalement dans le secteur financier ou en cabinet de conseil.
-•	Votre intérêt pour le monde bancaire 
-•	Votre excellent sens de l’organisation et votre capacité d’adaptation
-•	Vos capacités d’analyse et de synthèse, associées à une réelle proactivité 
-•	Votre aisance relationnelle et capacité à travailler avec des interlocuteurs variés
-•	Votre sens de la discrétion
-•	Votre maitrise d’Excel et Powerpoint
-•	Votre parfaite maîtrise du français et de l’anglais.
-
-Et après votre mission VIE ? 
-
-Au cours de votre contrat VIE : 
-•	Vous développerez vos connaissances des métiers RH dans le milieu bancaire.
-•	Cette expérience vous permettra de gagner en autonomie, de gérer plusieurs missions en parallèle et d’affiner vos capacités d’organisation et de priorisation.
-•	Vous intégrerez une Maison Attentionnée membre d’un groupe international fort, offrant des perspectives de carrière. 
-•	A l’issue de votre VIE, vous serez autonome dans la coordination de projets RH. 
-
-
-
-Durée et disponibilité : 
-
-Le poste est à pourvoir à partir de janvier 2027 pour une période de 12 mois.
-Avant de postuler, vérifiez les conditions d'éligibilité pour une mission VIE au Luxembourg sur mon-vie-via.businessfrance.fr/en/destinations/Luxembourg et déposez votre candidature (CV et lettre de motivation) via le lien disponible sur notre espace carrière.
-
-Ce que vous allez vivre chez Banque de Luxembourg :
-
-La Banque de Luxembourg est une filiale du Crédit Mutuel Alliance Fédérale au travers du Crédit Industriel et Commercial (CIC), qui détient 100 % du capital de la Banque.
-Certifiée B Corp depuis 2023, la Banque de Luxembourg s’engage à renforcer l’impact social, sociétal et environnemental de ses activités. Convaincu·es que notre diversité fait notre force, nous sommes signataires de la Charte de la Diversité, Lëtzebuerg. Attentifs à l'égalité des chances, nous nous engageons à travers des actions concrètes, notamment en faveur des jeunes talents, des femmes, des collaborateurs seniors…
-
-**Profil recherché**
-
-Nous apprécierons chez vous : 
-Votre diplôme niveau Master en Management, Gestion, Economie/Finance et/ou Droit
-Une première expérience dans le domaine de la gestion de projets RH, idéalement dans le secteur financier ou en cabinet de conseil.
-Votre intérêt pour le monde bancaire 
-Votre excellent sens de l’organisation et de la discretion
-Vos capacités d’analyse et de synthèse, associées à une réelle proactivité 
-Votre aisance relationnelle et capacité à travailler avec des interlocuteurs variés
-Votre maitrise d’Excel et Powerpoint
-Votre parfaite maîtrise du français et de l’anglais.
-
-Au cours de votre mission VIE ? 
-Vous développerez vos connaissances des métiers RH dans le milieu bancaire.
-Cette expérience vous permettra de gagner en autonomie, de gérer plusieurs missions en parallèle et d’affiner vos capacités d’organisation et de priorisation.
-Vous intégrerez une Maison Attentionnée membre d’un groupe international fort, offrant des perspectives de carrière. 
-A l’issue de votre VIE, vous serez autonome dans la coordination de projets RH. 
-
-Durée et disponibilité : 
-Le poste est à pourvoir à partir de janvier 2027 pour une période de 12 mois.
-Avant de postuler, vérifiez les conditions d'éligibilité pour une mission VIE au Luxembourg sur mon-vie-via.businessfrance.fr/en/destinations/Luxembourg et déposez votre candidature (CV et lettre de motivation) via le lien disponible sur notre espace carrière.
-
-Ce que vous allez vivre chez Banque de Luxembourg :
-Certifiée B Corp depuis 2023, la Banque de Luxembourg est une filiale du Crédit Mutuel Alliance Fédérale au travers du Crédit Industriel et Commercial (CIC), qui détient 100 % du capital de la Banque.
 
 </details>
 
@@ -3977,86 +4037,6 @@ Maintain and strengthen internal control and compliance.
 </details>
 
 <details>
-<summary><strong>VIE Analyst M&A | Latin America (Portuguese speaking) (H/F)</strong> · EURO LATINA FINANCE · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
-
-- **Entreprise :** EURO LATINA FINANCE
-- **Lieu :** SAO PAULO, BRESIL
-- **Indemnité :** 2 743,28 €/mois
-- **Durée de la mission :** 9 mois (Du 1 janv. 2027 au 1 oct. 2027)
-- **Publiée le :** 21/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245372](https://mon-vie-via.businessfrance.fr/offres/245372)
-
-**Description du poste**
-
-VIE Analyst M&A | Latin America (Portuguese speaking)
-
-
-
-Role Overview:
- 
-
-Euro Latina Finance is seeking an M&A Analyst to join its execution team in São Paulo. This role offers the opportunity to work on high-profile transactions in Latin America, primarily Brazil and Colombia in a wide array of sectors. He/shell will work with our senior teams across different countries and will play a pivotal role in supporting deal execution, managing intern(s), and contributing to business development efforts.
-
-This position is suited for an execution driven M&A professional who thrives in a fast paced, entrepreneurial environment and is keen to grow in a truly multicultural team.
-
-Key Responsibilities:
-
-1. Financial Analysis & Modeling
-•	Analyze companies’ financial statements
-•	Build and maintain detailed financial models 
-
-2. Transaction Execution
-•	Support execution across different phases of M&A transactions
-•	Prepare core transaction materials, including Teasers, CIMs, Management Presentations, Pitch Books, and investor/buyer lists.
-•	Conduct financial, strategic, and market analyses to support positioning and valuation
-•	Coordinate due diligence processes, manage data rooms, and track Q&A with internal and external stakeholders.
-
-3. Client & Business Development Support
-•	Assist in the preparation of proposals, pitch materials, and presentations for existing clients and prospects.
-•	Contribute to sector research, market updates, and strategic analyses to support origination efforts.
-
-Management of Interns
-•	Supervise and review intern(s)’ work, providing guidance and quality control
-
-Why Join Euro Latina Finance?
-
-
-•	Global and multicultural team based in three different locations across Latin America and Europe and led by its founder & CEO
-•	Growing company with a solid pipeline and deal flow perspective
-•	Vast array of sectors and mandates 
-•	Opportunity to work within a collegial culture that puts people first
-•	Possibility to move to different offices within the firm in the future
-
-Company description
-Established in 2010, Euro Latina Finance is an independent financial advisory firm specialized in cross-border transactions between Europe and Latin America.
-Headquartered in Paris, with offices in São Paulo and Bogotá, Euro Latina Finance provides tailor-made M&A and strategic advice to a portfolio of blue-chip clients. The firm specializes in cross-border M&A transactions across a wide array of sectors between Europe/US and Latin America with values ranging from US$100mm – US$1bn+. 
-Since its inception, Euro Latina Finance has advised c.30 successful transactions out of a total of c. 80 M&A projects.
-More information: https://www.eurolatinafinance.com/ and https://www.eurolatinafinance.com/career
-
-**Profil recherché**
-
-Required:
-
-•	2-4 year prior experience in M&A, preferably from a top-tier investment bank, a leading PE fund or a Transaction Services firm
-•	Top academic performance in a leading Business or Engineering school
-•	Fluency in Portuguese, English and French
-•	Excellent written and verbal communication skills
-•	Excellent Excel / Power Point / Word skills
-
-Preferred:
-•	Prior exposure to Latin America
-•	Fluency in Spanish
-
-Personal Attributes
-
-•	Highly motivated and proactive
-•	Strong intellectual curiosity, attention to detail, and willingness to learn in a demanding environment.
-•	Solid analytical thinking and with a strong sense of ownership
-•	Team oriented and able to thrive in Euro Latina Finance’s collaborative culture
-
-</details>
-
-<details>
 <summary><strong>Consultant SAP Finance (H/F)</strong> · CONSEILS PLUS · MILAN, ITALIE · 3 003,87 €/mois</summary>
 
 - **Entreprise :** CONSEILS PLUS
@@ -4536,69 +4516,6 @@ Pourquoi nous rejoindre ?
 - Des responsabilités variées mêlant terrain, opérations, stratégie, finance, développement commercial et expérience client. 
 - Un environnement où les idées sont encouragées et peuvent être mises en œuvre rapidement. 
 - Une véritable opportunité d'accélérer votre développement professionnel au sein d'un groupe familial, dynamique et en forte croissance à l'international, offrant de nombreuses perspectives d'évolution.
-
-</details>
-
-<details>
-<summary><strong>ANALYSTE FONCTIONNEL SI CONTROLLING (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** VINCI CONSTRUCTION SI
-- **Lieu :** BOTTROP, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 16/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245657](https://mon-vie-via.businessfrance.fr/offres/245657)
-
-**Description du poste**
-
-QUI SOMMES-NOUS ? 
-
-Rejoindre les équipes de VINCI Construction SI, c’est participer à la transformation digitale du Groupe au service des utilisateurs. 
-
-Nos missions sont de moderniser nos outils de gestion, nos applications métiers, améliorer la cybersécurité et nos infrastructures IT. Nous travaillons sur l’adoption de nos outils par les utilisateurs et souhaitons construire le futur numérique (IA, BIM, IOT…).
-
-VOS MISSIONS ET VOS CHALLENGES CHEZ VINCI CONSTRUCTION SI :
-
-Intégré(e) à l’équipe DSI en Allemagne, sous la direction d’Andrea Wienand pour la partie Transformation & Applications, vous rejoindrez une équipe dynamique de 13 personnes pour une mission de 24 mois en V.I.E. Vous serez basé(e) sur notre site allemand « Bauknechtquartier » au campus de VINCI Construction à Bottrop, près de Düsseldorf, après une formation d’environ 6 mois au sein de VINCI Construction SI à Nanterre-Préfecture. 
-
-Vous répondrez à un enjeu essentiel pour le groupe sur la bonne gestion des chantiers, en proposant des solutions IT sur les sujets liés au domaine “Finance and Controlling” :  
-•	Comptabilité générale, comptabilité fournisseur, comptabilité client, trésorerie et immobilisation 
-•	Contrôle de gestion des chantiers et de l’entreprise, processus budgétaire, intégration / suivi des recettes et dépenses, calcul de la rentabilité, clôture mensuelle, etc.  
-
-Vos principales missions sont :
-•	Participer à l’analyse des besoins des utilisateurs et mettre en œuvre les solutions techniques adéquates afin d’enrichir nos processus 
-•	Gérer les interactions avec les autres domaines Logistique, Finance, RH et les applications opérationnelles 
-•	Prendre en charge les activités de support, de maintenance et de formation liées à notre solution auprès des utilisateurs en Allemagne, ainsi qu’à l’international sur des sujets transverses, afin de faciliter son adoption 
-•	Appréhender la maîtrise d’un ERP de type SAP, évaluer l’apprentissage des bonnes pratiques de gestion de projet et se confronter à l’animation des ateliers avec nos clients internes 
-
-Localisation : L’Archipel Campus de VINCI / Nanterre-Préfecture | Bottrop, ALLEMAGNE
-
-Contrat : V.I.E.
-
-Les + : Une activité variée et stimulante | Collaboration à l’internationale | Intégration dans une équipe avec une collaboration d'égal à égal | Une relation de travail à long terme, fondée sur la confiance | Un travail responsable et autonome | Accès à des formations continues personnalisées
-
-POURQUOI NOUS REJOINDRE ?
-
-En rejoignant la direction IT, vous intégrez une équipe dynamique et innovante, qui utilise les technologies les plus récentes pour répondre aux besoins de nos Business Units et de nos clients. Vous bénéficiez d'une proximité avec VINCI Construction SI, qui vous permet de partager vos connaissances et de participer à des projets transverses. Vous contribuez ainsi à la transformation digitale du groupe VINCI Construction.
-
-Nous accordons une importance particulière à l'Expérience Collaborateur, qui est un facteur clé de succès pour notre entreprise. Nous vous proposons un parcours d'intégration personnalisé, un accompagnement individuel et collectif, et des opportunités de formation et de mobilité au sein de VINCI Construction SI et du groupe VINCI. Vous développez vos compétences techniques, linguistiques, managériales et relationnelles, tout en renforçant votre sens de la sécurité et de la responsabilité.
-
-**Profil recherché**
-
-ET SI C’ETAIT VOUS ?
-
-En dernière année de formation Bac+5 (école d’ingénieurs, de commerce, à l’université ou en informatique) ou déjà diplômé avec une ou plusieurs années d’expérience professionnelle, vous avez :
-•	Une capacité à comprendre et synthétiser une problématique, adapter votre langage en fonction de l’interlocuteur et interagir avec nos clients internes 
-•	Une expérience acquise lors d’un stage/projet personnel/projet scolaire sur un sujet IT/Digital en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus 
-•	Des facultés d'expression orale et écrite (français et anglais) : votre écoute vous permettra de travailler en collaboration avec des utilisateurs finaux, le management du groupe VINCI Construction et les autres équipes de la DSI (infrastructures, réseaux, support…) 
-•	Une maîtrise de l’anglais courant 
-•	Une connaissance des bases en allemand 
-
-QUALITÉS HUMAINES ET COMPÉTENCES :
-•	Forte capacité à travailler en équipe, sens du service, curiosité, rigueur, esprit d’analyse et de synthèse, bon relationnel, sens de l’organisation et une culture de résultat 
-•	Une formation axée sur le Contrôle de gestion et/ou BTP et/ou Systèmes d’Information est un plus 
-•	Une 1ère expérience en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus
-•	Dans le cadre de vos missions, vous serez amené à faire des déplacements ponctuels
 
 </details>
 
