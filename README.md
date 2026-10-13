@@ -8,11 +8,65 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **13/10/2026 13:54:19**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **13/10/2026 14:10:53**, 89 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE - Chargé de projet Digitalisation Middle Office - Bruxelles (H/F)</strong> · TOTALENERGIES RAFFINAGE CHIMIE · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES RAFFINAGE CHIMIE
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 13/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247003](https://mon-vie-via.businessfrance.fr/offres/247003)
+
+**Description du poste**
+
+Les équipes Supply, Sales et Optimisation ARA (Amsterdam - Rotterdam - Anvers) assurent l’approvisionnement en matières premières et la commercialisation des produits raffinés de la plateforme d’Anvers (Belgique) et de la raffinerie de Zélande (Pays-Bas).
+
+Le Middle Office assure le contrôle des transactions commerciales d’achat et de vente de produits issus des sites de production ARA. Il évalue les risques de prix associés et met en œuvre les instruments de couverture papier appropriés afin de réduire l’exposition à ces risques.
+
+Il conseille également les équipes commerciales dans le choix des modalités de pricing de leurs contrats.
+
+Dans le cadre de sa démarche d’amélioration continue, de simplification et de digitalisation, le Middle Office ARA recherche un V.I.E. pour contribuer à l’optimisation de ses outils et à l’adaptation de ses processus digitaux aux évolutions de ses activités et du marché, notamment grâce au recours potentiel à des agents d’intelligence artificielle.
+
+Vous travaillerez à l’interface des équipes métiers, des équipes de support Outils & IT et du management.
+
+Vos missions
+
+Reporting mensuel et amélioration continue de la gestion des pricings :
+- Contribuer à l’automatisation avancée du processus d’analyse mensuelle des résultats grâce à l’utilisation d’agents d’intelligence artificielle. Ceux-ci permettront de consolider les données issues des différents outils existants, d’en automatiser l’exploitation, d’approfondir certaines analyses — notamment celles portant sur les pricings à cheval sur plusieurs mois — et de produire un reporting managérial clair et directement exploitable.
+
+- Mettre en place une historisation visuelle des types de pricing par book produits et de l’évolution des courbes mensuelles de pricing, puis croiser ces informations avec les données de marché afin d’en faciliter l’analyse et d’identifier des pistes d’amélioration.
+
+Pilotage automatisé et visuel de la mise en œuvre des mandats commerciaux :
+- Concevoir un dispositif de suivi quotidien automatisé permettant de rapprocher les mandats et les contrats commerciaux, d’identifier les conditions de pricing spécifiques et de déclencher des alertes automatiques (pricing rétroactif, pricing en M+1, écarts de quantités), afin de faciliter les autocontrôles. Développer une restitution visuelle, notamment sous Power BI.
+
+- Pilotage automatisé et visuel de l’exécution opérationnelle des contrats commerciaux et du positionnement des pricings flottants : développer des KPI portant sur les flux logistiques et les contrats afin de faciliter les autocontrôles. Mettre en place un reporting dédié aux flux dont le pricing débute en J+1 et identifier les contrats ou nominations reportés au mois suivant.
+
+Formation et bonnes pratiques du Middle Office : participer à l’animation des formations du Middle Office, actualiser les supports et promouvoir l’utilisation des nouveaux outils digitaux développés pour accompagner les équipes opérationnelles et commerciales.
+
+Évolution des outils corporate (SAP, COBRISK,...) : recueillir et suivre les besoins d’évolution des outils digitaux utilisés par le Middle Office, en coordination avec les équipes de support métier et IT, et contribuer aux tests utilisateurs.
+
+**Profil recherché**
+
+Vous êtes diplomé/e d'un Bac+5 en Finance, Business, Supply Chain, Data ou Systèmes d'Informations, et vous faites preuve d'une très bonne maîtrise d'Excel et d'une première expérience de Power BI.
+
+Vous faites preuve de connaissance ou d'un fort intérêt pour les agents IA appliqués au traitement de données.
+
+Votre connaissance de Power Query, SQL ou Power Automate est un plus.
+
+Rigoureux et doté d’un bon esprit d’analyse, vous avez le réflexe du contrôle et savez structurer, documenter et présenter vos analyses. 
+
+Autonome, curieux et force de proposition, vous appréciez le travail en équipe et savez créer des relations de confiance avec vos interlocuteurs.
+
+Vous maitrisez le français et l'anglais (B2 minimum).
+
+</details>
 
 <details>
 <summary><strong>Analyste financier (H/F)</strong> · SAFRAN HELICOPTER ENGINES · MIRABEL -QC, CANADA · 2 649,28 €/mois</summary>

@@ -452,5 +452,6 @@
   "ville|mirabel -qc|canada": {
     "lat": 45.570733,
     "lon": -74.0989216
-  }
+  },
+  "entreprise|totalenergies raffinage chimie|bruxelles|belgique": null
 }
