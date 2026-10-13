@@ -8,11 +8,69 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **13/10/2026 17:37:40**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **13/10/2026 17:57:17**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Analyst - Transaction Services (H/F)</strong> · JOLT CAPITAL · MONTREAL -QC, CANADA · 2 649,28 €/mois</summary>
+
+- **Entreprise :** JOLT CAPITAL
+- **Lieu :** MONTREAL -QC, CANADA
+- **Indemnité :** 2 649,28 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 13/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan présente d'excellentes compétences en analyse financière, maîtrise d'Excel et bilinguisme français-anglais, ce qui correspond bien aux attentes. Cependant, l'offre cible un poste en Transaction Services / Private Equity nécessitant idéalement une première expérience en audit, M&A ou cabinet de conseil, plutôt qu'en contrôle de gestion pure.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247018](https://mon-vie-via.businessfrance.fr/offres/247018)
+
+**Description du poste**
+
+Jolt Capital is an independent European private equity platform dedicated to scaling responsible deeptech companies. Founded in 2011, the firm invests in technology-rich B2B growth companies with strong intellectual property, sound fundamentals and global ambitions. Beyond capital, Jolt provides hands-on strategic and operational support to help its portfolio companies become international leaders. Its investment approach combines sector expertise, rigorous transaction execution and data-driven capabilities, including its proprietary AI platform, Jolt.Ninja. With teams across Europe, North America and Asia, Jolt offers an entrepreneurial, international and demanding environment at the intersection of finance, technology and industrial transformation.
+Join Jolt Capital in Montreal
+
+As part of our international development, we are looking for a VIE Transaction Services Analyst to join our Montreal office. You will be fully integrated into the Canadian team and work closely with colleagues across Jolt’s international platform. For all Transaction Services assignments, methodologies and deliverables, you will work under the functional and technical supervision of the Director of Transaction Services.
+
+Your Mission
+As a VIE Transaction Services Analyst, you will support the analysis and execution of investments, add-on acquisitions and selected exit processes. You will work on live transactions and portfolio projects, turning complex financial information into clear insights for investment decisions. This is a hands-on role offering early responsibility, direct exposure to senior professionals and a unique opportunity to understand how deeptech companies scale internationally.
+
+What You Will Do
+•	Support financial due diligence on potential investments, add-on acquisitions and selected exit processes.
+•	Analyse historical and forecast financial performance, including revenue quality, margins, working capital, cash conversion and key operating drivers.
+•	Review financial models, business plans, accounting data and management information, and identify the principal risks, sensitivities and value drivers.
+•	Contribute to quality of earnings, net debt and working-capital analyses, adapting standard approaches to the specific economics of deeptech and high-growth businesses.
+•	Prepare clear, decision-oriented analyses and materials for deal teams, partners and Investment Committees.
+•	Coordinate selected workstreams with portfolio company management teams, external advisers, accountants and other due diligence providers.
+•	Support portfolio companies on ad hoc finance and transaction-related projects, including KPI structuring, reporting, financing, bolt-on acquisitions and exit readiness.
+•	Develop transaction benchmarks, analytical tools and repeatable methodologies for the Transaction Services team.
+•	Use Jolt.Ninja and other data sources to enrich financial analysis, market understanding and investment decision-making.
+•	Contribute actively to the firm’s international platform by working across teams, geographies and areas of expertise.
+
+Why Join Us?
+At Jolt, you will join a lean, entrepreneurial and international team where high standards go hand in hand with collaboration. We value people who ask the right questions, take ownership and are willing to go beyond the numbers to understand a technology, a market and a business model. You will be trusted with meaningful work from the outset and encouraged to contribute your point of view.
+
+What This VIE Will Offer You
+•	Hands-on exposure to live growth private equity transactions and strategic portfolio projects.
+•	Close collaboration with Jolt’s Transaction Services leadership, investment professionals and senior operating experts.
+•	A distinctive learning environment combining financial analysis, deeptech, international growth and value creation.
+•	Meaningful responsibility in a lean team, with direct visibility on how analytical work informs investment decisions.
+•	An international experience in Montreal, connected to Jolt’s teams and portfolio across Europe, North America and Asia.
+
+•	Team: Integrated into the Canadian team, with a functional and technical reporting line to the Director of Transaction Services for all Transaction Services matters.
+
+**Profil recherché**
+
+What We Are Looking For
+•	Master’s degree from a leading business school, engineering school or university, with strong exposure to finance, accounting or corporate finance.
+•	A first significant experience in Transaction Services, audit, M&A, private equity, leveraged finance or corporate finance; experience within a Big Four or recognised advisory firm would be particularly relevant.
+•	Strong accounting and financial analysis skills, with the ability to understand the operational story behind the numbers.
+•	Excellent analytical and modelling capabilities, advanced proficiency in Excel and the ability to prepare concise, high-quality presentations.
+•	Fluent English is required; French is strongly preferred for collaboration across the Montreal and Paris teams.
+•	A genuine interest in technology, industrial innovation and high-growth B2B companies.
+•	A rigorous, curious and pragmatic mindset, with strong attention to detail and a collaborative approach.
+
+</details>
 
 <details>
 <summary><strong>VIE - Chargé de projet Digitalisation Middle Office - Bruxelles (H/F)</strong> · TOTALENERGIES RAFFINAGE CHIMIE · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
