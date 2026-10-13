@@ -598,16 +598,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Act as a trusted partner to the business and support business performance by providing detailed & accurate financials and insightful analysis. Provide key support towards Sales & Marketing by providing clear dashboards, insights and variance analysis which can help the Commercial teams on decision taking, negotiations, etc. Support the business to further evolve as a data driven organisation. This function is based in Belgium with occasional travel to the Dutch location of Iglo (on average 2 times per month travel to NL)\n\nKey Responsibilities\nIn this role, you will support the Benelux Finance team through a variety of financial reporting, analysis, and business partnering activities, including:\n\nPreparing and distributing daily, weekly, and monthly sales reports and dashboards to monitor turnover performance against budget, prior year, and latest forecast.\nActing as the first point of contact and Junior Business Partner for a portfolio of retailers across Belgium and the Netherlands.\nMonitoring promotional spending and reviewing actual expenditure against forecasted budgets.\nContinuously improving internal reporting tools by enhancing layouts, automation, and analytical capabilities.\nPerforming weekly Lump Sum postings in SAP.\nSupporting recurring Group reporting requirements, including sales reporting and innovation tracking.\nAssisting with monthly closing activities, financial analysis, controlling processes, rolling forecasts, and annual budgeting exercises.\nSupporting ad hoc financial analyses, projects, and business requests.\nContributing to the organization's ambition to become increasingly data-driven through insightful analysis and reporting.",
     "creationDate": "2026-10-09T13:33:29Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -731,16 +724,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\nProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers.\n\nPoste et missions :\nProcapital propose des prestations de sous-traitance de négociation, conservation et tenue de comptes titres pour des clients institutionnels en Belgique.\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Initiation des dossiers de transferts de titres entrants et sortants avec les contreparties\n- Gestion des transferts internes\n- Mise en place des instructions de transfert sur le marché\n- Suivi du dénouement des transferts\n- Traitement des réconciliations titres\n- Traitement des demandes clients\n- Participation à des réflexions ayants pour but l’amélioration de l’efficacité et productivité interne (amélioration de procédures, identification d’automatisations complémentaires…)",
     "creationDate": "2026-10-08T15:27:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -6149,79 +6135,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "4",
-      "5",
-      "8",
-      "9",
-      "199",
-      "200",
-      "201",
-      "202",
-      "203",
-      "259"
+      "[\"4\",\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"202\",\"203\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "4",
-        "specializationParentId": "89",
-        "specializationLabel": "Assurances",
-        "specializationLabelEn": "Insurance"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "203",
-        "specializationParentId": "19",
-        "specializationLabel": "Chargé / Conseiller clientèle bancaire particuliers / professionnels",
-        "specializationLabelEn": "Client advisor (banking)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\n!Join a Dynamic Team at Cleeven!\n\n\n\nAre you ready to join a fast-growing company where your work truly matters? Do you want to contribute to strategic compliance initiatives that shape the future of financial institutions?\n\n\n\nAt Cleeven, we combine energy, innovation, and purpose. Join a team that values your development and gives you the tools to grow while working on impactful projects.\n\n\n\nWHO ARE WE ?\n\n\n\nCleeven is an international engineering consulting firm built on two core principles:\n\nOUR MISSION: To enhance self-awareness and the awareness of those around us.\nOUR BELIEF: Europe’s leadership in innovation depends on the excellence of its engineers and professionals.\n\n\nAt Cleeven, our consultants work hand-in-hand with clients to manage compliance challenges, mitigate risks, and ensure alignment with evolving regulatory demands.\n\nPoste et missions :\n\nYOUR ROLE AS A COMPLIANCE ANALYST (KYC/KYT/AML)\n\n\n\nYou’ll play a key role in helping financial institutions meet regulatory expectations and safeguard their operations. Your responsibilities will include:\n\nMonitoring regulations: Stay on top of regulatory developments in the financial sector and assess their impact.\nKYC/KYT/AML analysis: Review client profiles, monitor transactions, and flag suspicious activity in accordance with legal standards.\nRisk assessment and mitigation: Identify gaps, evaluate compliance risks, and implement mitigation strategies.\nProcess improvement: Propose and deploy enhancements to compliance frameworks and internal procedures.\nInternal controls & audits: Support internal audits and ensure robust compliance practices are in place.\nAwareness and training: Prepare training materials, raise employee awareness, and promote compliance culture.\nBridge business and regulation: Translate complex regulatory language into actionable processes for operational teams.",
     "creationDate": "2025-09-24T10:46:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
