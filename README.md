@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **13/10/2026 14:45:05**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **13/10/2026 15:17:07**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -116,6 +116,51 @@ Le profil que nous recherchons :
 • Esprit d'équipe et aptitude à collaborer efficacement avec différents intervenants,
 • Bonne capacité d'analyse et de synthèse,
 • Orientation service à la clientèle.
+
+</details>
+
+<details>
+<summary><strong>Business Performance Analyst (H/F)</strong> · CRITEO TECHNOLOGY · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** CRITEO TECHNOLOGY
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 13/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246022](https://mon-vie-via.businessfrance.fr/offres/246022)
+
+**Description du poste**
+
+As part of the Revenue and Market Analytics team within Revenue Operations, your mission will be to deliver robust and intuitive business insights that empower Criteo’s global leaders to shape commercial strategy and strengthen market positioning.
+
+You will use a data-driven approach to analyse business performance and market trends, uncover actionable insights, and translate complex findings into clear narratives that inform decision-making. This role requires comfort working with large, complex datasets and the curiosity to explore data creatively.
+
+
+
+
+
+Your Mission
+
+
+Provide analytical insights on Criteo’s global performance, market dynamics, and competitive landscape 
+Identify growth opportunities and risks, and translate findings into actionable recommendations for C-level stakeholders 
+Leverage internal and external data to assess the potential of clients and prospects across existing and new business opportunities 
+Analyze first-party and market data, consumer behavior and intent signals, and industry trends to contextualize Criteo’s performance
+
+**Profil recherché**
+
+What you will need to be successful
+
+
+Excellent communication skills and fluency in English 
+2–3 years of experience in a similar analytics role; experience in AdTech is a plus 
+Bachelor’s degree or higher in a quantitative field such as Mathematics, Computer Science, Engineering, Economics, or Business 
+Hands-on experience with SQL for data extraction and manipulation, strong Python skills for data analysis, and experience with visualization tools such as Tableau and/or Power BI 
+Curiosity and experience in using Generative AI solutions to enhance data exploration, automate insight generation, and craft compelling analytical narratives 
+Strong intellectual curiosity and analytical mindset, with the ability to structure and solve complex problems and a solid understanding of statistical modeling 
+Strong business acumen, a genuine interest in the AdTech industry, and the ability to act as a trusted advisor to commercial stakeholders 
+Strong presentation skills, including PowerPoint proficiency, and the ability to translate data into clear business insights and actionable recommendations 
+A proactive and autonomous mindset, with the ability to manage multiple projects, set milestones, coordinate with cross-functional teams, and drive initiatives forward
 
 </details>
 
@@ -4434,51 +4479,6 @@ IT Tools:
 Languages: Professional English
 
 Please send your resume in English
-
-</details>
-
-<details>
-<summary><strong>Business Performance Analyst (H/F)</strong> · CRITEO TECHNOLOGY · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** CRITEO TECHNOLOGY
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 16/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246022](https://mon-vie-via.businessfrance.fr/offres/246022)
-
-**Description du poste**
-
-As part of the Revenue and Market Analytics team within Revenue Operations, your mission will be to deliver robust and intuitive business insights that empower Criteo’s global leaders to shape commercial strategy and strengthen market positioning.
-
-You will use a data-driven approach to analyse business performance and market trends, uncover actionable insights, and translate complex findings into clear narratives that inform decision-making. This role requires comfort working with large, complex datasets and the curiosity to explore data creatively.
-
-
-
-
-
-Your Mission
-
-
-Provide analytical insights on Criteo’s global performance, market dynamics, and competitive landscape 
-Identify growth opportunities and risks, and translate findings into actionable recommendations for C-level stakeholders 
-Leverage internal and external data to assess the potential of clients and prospects across existing and new business opportunities 
-Analyze first-party and market data, consumer behavior and intent signals, and industry trends to contextualize Criteo’s performance
-
-**Profil recherché**
-
-What you will need to be successful
-
-
-Excellent communication skills and fluency in English 
-2–3 years of experience in a similar analytics role; experience in AdTech is a plus 
-Bachelor’s degree or higher in a quantitative field such as Mathematics, Computer Science, Engineering, Economics, or Business 
-Hands-on experience with SQL for data extraction and manipulation, strong Python skills for data analysis, and experience with visualization tools such as Tableau and/or Power BI 
-Curiosity and experience in using Generative AI solutions to enhance data exploration, automate insight generation, and craft compelling analytical narratives 
-Strong intellectual curiosity and analytical mindset, with the ability to structure and solve complex problems and a solid understanding of statistical modeling 
-Strong business acumen, a genuine interest in the AdTech industry, and the ability to act as a trusted advisor to commercial stakeholders 
-Strong presentation skills, including PowerPoint proficiency, and the ability to translate data into clear business insights and actionable recommendations 
-A proactive and autonomous mindset, with the ability to manage multiple projects, set milestones, coordinate with cross-functional teams, and drive initiatives forward
 
 </details>
 
