@@ -8,11 +8,62 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **13/10/2026 11:08:52**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **13/10/2026 11:36:47**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Analyste financier (H/F)</strong> · SAFRAN HELICOPTER ENGINES · MIRABEL -QC, CANADA · 2 649,28 €/mois</summary>
+
+- **Entreprise :** SAFRAN HELICOPTER ENGINES
+- **Lieu :** MIRABEL -QC, CANADA
+- **Indemnité :** 2 649,28 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 13/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246998](https://mon-vie-via.businessfrance.fr/offres/246998)
+
+**Description du poste**
+
+Rejoignez Safran Helicopter Engines à Mirabel, au Canada, en tant qu'Analyste Financier VIE et contribuez à la performance financière d'un leader mondial de la propulsion hélicoptère.
+
+Relevant du Directeur financier, l'Analyste financier V.I.E. est le support à la comptabilité journalière. Il supporte à la fois l'analyste financier et l'analyste prix de revient dans leurs diverses tâches.
+
+Les missions proposées sont les suivantes :
+• Assister l'équipe financière dans les processus de comptabilité générale, fin de période comptable, contrôle de gestion et de contrôle interne.
+• Participer activement à la campagne de Contrôle Interne et réalisation de tests
+• Suivre le déploiement des plans d'action de Contrôle Interne
+• Assister l'équipe Finance lors de l'élaboration et du suivi budgétaire
+• Assister l'équipe Finance dans la gestion des comptes fournisseurs et clients (AP & AR)
+• Réconcilier et analyser des comptes de bilan ainsi que les comptes de résultat
+• Participer aux inventaires de stock et des CAPEX
+• Participer au processus de fin de période comptable
+• Réaliser des contrôles de fin de mois afin d'assurer la fiabilité des informations financières et de bonne gestion
+• Contribuer à divers projets et initiatives d'amélioration continue
+• Réaliser toutes autres tâches connexes
+
+Projets personnels :
+• Nettoyer les comptes clients et fournisseurs et éventuellement CAPEX.
+• Élaborer un dossier d'étude de Prix de Transfert « Template » et conduire l'analyse sur les années 2022, 2023, 2024, 2025 et 2026.
+• Travailler sur l'automatisation de rapports d'analyses afin d'accélérer les processus Finance.
+
+**Profil recherché**
+
+Le profil que nous recherchons :
+• 1-2 années d'expérience pertinente,
+• Bonne compréhension du cycle comptable complet et du contrôle interne,
+• Connaissance de SAP (un atout),
+• Bilinguisme français/anglais à l'oral et à l'écrit,
+• Bonne communication (écrite et verbale),
+• Maîtrise de la suite Microsoft Office,
+• Rigueur et souci du détail,
+• Bonne communication écrite et verbale,
+• Esprit d'équipe et aptitude à collaborer efficacement avec différents intervenants,
+• Bonne capacité d'analyse et de synthèse,
+• Orientation service à la clientèle.
+
+</details>
 
 <details>
 <summary><strong>ANALYSTE FONCTIONNEL SI CONTROLLING (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 027,63 €/mois</summary>

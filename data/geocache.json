@@ -447,5 +447,10 @@
   "ville|differdange|luxembourg": {
     "lat": 49.5219856,
     "lon": 5.8753061
+  },
+  "entreprise|safran helicopter engines|mirabel -qc|canada": null,
+  "ville|mirabel -qc|canada": {
+    "lat": 45.570733,
+    "lon": -74.0989216
   }
 }
