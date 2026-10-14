@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **14/10/2026 15:13:57**, 89 offre(s) actuellement en ligne.
+Dernière vérification : **14/10/2026 15:49:55**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2410,56 +2410,6 @@ Benefits to join your team:
 **Profil recherché**
 
 Required skills: scientific and clinical literature review; critical appraisal and interpretation of clinical and post-market data; understanding of EU MDR, clinical evaluation, PMS, PMCF, PSUR, vigilance, and risk management; strong analytical and technical writing skills; project management and organizational skills; effective communication and stakeholder management; ability to collaborate in international, cross-functional teams; attention to detail and ability to manage multiple priorities; proficiency in Microsoft Office; fluent written and spoken English.
-
-</details>
-
-<details>
-<summary><strong>Junior FP&A Analyst (H/F)</strong> · BULGARI FRANCE SAS · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
-
-- **Entreprise :** BULGARI FRANCE SAS
-- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
-- **Indemnité :** 5 088,87 €/mois
-- **Durée de la mission :** 18 mois (Du 1 mars 2027 au 1 sept. 2028)
-- **Publiée le :** 30/09/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil correspond parfaitement aux attentes avec un Master en finance, un niveau d'anglais excellent (TOEIC 925) et une solide expérience de 2 ans en contrôle de gestion et FP&A. Le seul léger écart réside dans le secteur d'activité, le candidat venant de l'industrie tandis que l'offre concerne le secteur du luxe.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246529](https://mon-vie-via.businessfrance.fr/offres/246529)
-
-**Description du poste**
-
-Bulgari is one of the most prestigious brands and global players in the luxury market.
-We design, produce, distribute, and sell high-end jewels, watches, perfumes, and accessories through a network of over 250 owned stores in the most exclusive shopping areas in the world, selected distributors, and more than 10.000 exclusive perfumeries.
-
-Quality and excellence are the basis of our culture and we reflect the same commitment within the working environment to achieve an organization aimed at the full satisfaction of the customer and our employees.
-Excellence for Bulgari means the perfect balance between top quality products and impeccable services worldwide.
-
-Because of the strong growth across our North America business, Bulgari is looking for a junior FP&A Analyst to support the FP&A Senior Manager.
-
-Mission: 
--	Assist with the preparation of annual budgets and forecasts for North America’s operations, including affiliated companies in the US and Canada. This includes:
-o	Preparation of financial models and forecasts in Excel to drive conversation and guide the company in achieving its strategic goals. 
-o	Develop detailed analyses of monthly, quarterly and yearly Profit & Loss in areas such as Net Sales, Operating expenses, Marketing Expenses, and T&E expenses.
-
--	Actively engage and drive Monthly Close Review Process:
-o	Identify and analyze major variances in Selling, Marketing, and G&A expenses categories by Department against budget and prior year, provide correcting entries to accounting as necessary
-o	Provide analysis and reporting to be shared to commercial teams and support functions
-o	Review Capital Expenditures by department and business channel and track ongoing spending against annual budget and forecasts
-
--	Support FP&A Senior Manager and CFO in ad-hoc reporting and analysis, for commercial purposes (e.g. daily sales, margin analysis, traffic, conversion, discounts analysis, etc.)
--	Participate and contribute on FP&A projects and initiatives
-
-**Profil recherché**
-
-School background: 
-The candidate must have graduated from a business school and/or hold a master’s degree in management with a major in finance & accounting.
-
-Skills & Capabilities
--	Understanding of high luxury business requirements / awareness
--	Outstanding communication, networking / interpersonal skills
--	Rigorous and great analytical skills
--	Very good command of Excel and PowerPoint
--	Be proactive, and capable of functioning effectively under stress and meeting deadlines
--	Fluent English (Spanish or Italian a plus)
--	Duration: 18 months
 
 </details>
 
