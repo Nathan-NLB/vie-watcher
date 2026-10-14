@@ -8,11 +8,69 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **14/10/2026 09:07:24**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **14/10/2026 09:51:37**, 89 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>CONTROLEUR DE GESTION (H/F)</strong> · COFIDIS · VARSOVIE, POLOGNE · 2 721,91 €/mois</summary>
+
+- **Entreprise :** COFIDIS
+- **Lieu :** VARSOVIE, POLOGNE
+- **Indemnité :** 2 721,91 €/mois
+- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
+- **Publiée le :** 14/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à son Master en contrôle de gestion, ses compétences avancées sur Excel et son expérience réussie en reporting et analyse budgétaire. Ses compétences en anglais sont également validées (TOEIC 925), bien que son appétence initiale pour l'Espagne diffère de la localisation en Pologne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247023](https://mon-vie-via.businessfrance.fr/offres/247023)
+
+**Description du poste**
+
+Poste et missions:
+
+Pionnier du crédit à distance, COFIDIS Group a connu depuis plusieurs décennies un développement important et continu de ses activités, à la fois en termes d’expansion internationale et de diversification de son offre et de ses services. Nous nous appuyons également sur les savoir-faire complémentaires de notre actionnaire majoritaire : le Groupe Crédit Mutuel Alliance Fédérale.
+
+La filiale de COFIDIS en Pologne est la plus jeune de notre Groupe implanté dans 9 pays en Europe.
+Nous recrutons pour notre filiale polonaise un V.I.E en Finance (Comptabilité / Contrôle de Gestion / Trésorerie) dans le but d’accompagner notre activité.
+
+Sous la responsabilité du Controlling Manager, et à l'issue de votre période de formation, vous prendrez en charge des activités financières. 
+Pour cela, vous :
+• Produisez des rapports hebdomadaires, mensuels, trimestriels et annuels, ainsi que d’analyses ponctuelles à la demande.
+• Participez au processus budgétaire.
+• Analysez les écarts en lien avec les activités au service de la performance.
+• Préparez les rapports, d’analyses et de présentations liés à l’activité de l’entreprise, destinés au comité de direction et aux comités.
+• Garantissez la qualité et la fiabilité des données, rapports et présentations produits.
+• Automatisez les rapports existants dans une logique d'amélioration continue.
+• Participez aux audits financiers et au contrôle interne.
+
+**Profil recherché**
+
+Diplômé d'un  BAC+5, type M2 Finance ou Comptabilité, Ecole de Commerce, vous justifiez d’une expérience réussie d’au moins 6 mois en banque ou organisme financier (stage de fin d’études, CDD).
+
+- Vous disposez de compétences dans le domaine financier (comptabilité /contrôle de gestion)
+- Vous disposez d’un bon niveau en anglais (B2 minimum)
+- Vous êtes à l’aise en bureautique - Excel (niveau avancé, création des macros, formules simples à complexes), progiciel de comptabilité/finance
+- Vous êtes reconnu pour votre rigueur, capacité d’analyse et de synthèse
+- Vous êtes communicatif et aimez travailler en équipe
+- Vous êtes ouvert d’esprit et doté de capacité d’adaptation 
+- Proactif, vous êtes force de proposition
+- Des connaissances en SAS & SQL seraient appréciées 
+
+Et après votre mission en VIE ? 
+Après votre VIE, si vous souhaitez évoluer sur un autre métier, sur l’une des autres marques de Cofidis Group, ou du groupe Crédit Mutuel Alliance Fédérale, c’est également possible !
+
+Ce que vous allez vivre chez Cofidis Group ? 
+Pionnier du crédit à distance, COFIDIS Group a connu depuis plusieurs décennies un développement important et continu de ses activités, à la fois en termes d’expansion internationale et de diversification de son offre et de ses services. Nous nous appuyons également sur les savoir-faire complémentaires de notre actionnaire majoritaire : le Groupe Crédit Mutuel Alliance Fédérale.
+
+Chez Cofidis Group, il nous tient à cœur de faire vivre à tous nos collaborateurs une 	expérience professionnelle riche et enthousiasmante. 
+
+Le saviez-vous ? 
+Cofidis Group vient d'être certifié Best Workplace Europe ! Cette distinction témoigne de la qualité de notre environnement de travail et de la force de notre collectif.
+
+Pour candidater, merci d'envoyer votre CV et lettre de motivation en Français et en Anglais.
+
+</details>
 
 <details>
 <summary><strong>Analyst - Transaction Services (H/F)</strong> · JOLT CAPITAL · MONTREAL -QC, CANADA · 2 649,28 €/mois</summary>
