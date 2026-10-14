@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **14/10/2026 11:47:25**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **14/10/2026 12:20:39**, 89 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -69,6 +69,63 @@ Le saviez-vous ?
 Cofidis Group vient d'être certifié Best Workplace Europe ! Cette distinction témoigne de la qualité de notre environnement de travail et de la force de notre collectif.
 
 Pour candidater, merci d'envoyer votre CV et lettre de motivation en Français et en Anglais.
+
+</details>
+
+<details>
+<summary><strong>Financial Controller (H/F)</strong> · NORAC MISSIONS · IBIUNA, BRESIL · 2 302,29 €/mois</summary>
+
+- **Entreprise :** NORAC MISSIONS
+- **Lieu :** IBIUNA, BRESIL
+- **Indemnité :** 2 302,29 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 14/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245150](https://mon-vie-via.businessfrance.fr/offres/245150)
+
+**Description du poste**
+
+Who we are
+
+Norac Foods Brasil is the Brazilian subsidiary of Norac Foods. Founded in 2011, we’re the pioneer of the Brazilian snacking market: we make and sell sandwiches, salads and fresh juices under our Ateliê brand. We also produce bread, madeleines and crêpes under our Paderrí brand using authentic French recipes.
+We’re growing fast, and we’re expanding our finance team. 
+
+Your mission
+
+Reporting to the CFO, you’ll be a genuine business partner to our operations. You’ll help steer the company’s economic performance, keep our management data reliable and consistent, and give local and group management the insights they need to make the right decisions.
+
+What you’ll be doing
+
+> Reporting & performance steering
+•	Help build and analyse the monthly reporting (P&L, dashboards, KPIs)
+•	Dig into variances between actuals, budget and forecast — and explain what’s driving them
+•	Contribute to the budget process, re-forecasts and mid-term plans
+> Industrial controlling
+•	Track and analyse production costs, cost prices and margins by product / line
+•	Follow industrial KPIs (yields, losses, productivity, raw-material consumption) in close collaboration with the plant teams
+•	Take part in inventories and stock monitoring
+> Analysis & decision support
+•	Run profitability studies and ad hoc analyses for management
+•	Help improve our tools and processes, clean up our data and automate reporting
+•	Be the key point of contact for the group’s teams on controlling topics
+
+**Profil recherché**
+
+Master’s degree (business school, IAE or university) with a major in finance, controlling or audit
+A first solid experience in controlling (long internship, apprenticeship or first job), ideally in an industrial or food environment.
+Strong command of Excel; comfortable with an ERP, BI tools (Power BI…) an/or IA is a plus
+Solid foundations in cost accounting and financial analysis
+
+Languages
+
+Fluent professional English
+Some Portuguese is a must — bilingual Portuguese is a plus
+
+The mindset we value
+
+Rigorous, analytical and at ease with numbers
+A people person who likes being close to the field
+Independent, curious and ready to thrive in an international environment
+Proactive and results-driven
 
 </details>
 
