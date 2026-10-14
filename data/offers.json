@@ -458,79 +458,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "17",
-      "68",
-      "109",
-      "144",
-      "180",
-      "202",
-      "318",
-      "320",
-      "324"
+      "[\"6\",\"17\",\"68\",\"109\",\"144\",\"180\",\"202\",\"318\",\"320\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Les équipes Supply, Sales et Optimisation ARA (Amsterdam - Rotterdam - Anvers) assurent l’approvisionnement en matières premières et la commercialisation des produits raffinés de la plateforme d’Anvers (Belgique) et de la raffinerie de Zélande (Pays-Bas).\n\nLe Middle Office assure le contrôle des transactions commerciales d’achat et de vente de produits issus des sites de production ARA. Il évalue les risques de prix associés et met en œuvre les instruments de couverture papier appropriés afin de réduire l’exposition à ces risques.\n\nIl conseille également les équipes commerciales dans le choix des modalités de pricing de leurs contrats.\n\nDans le cadre de sa démarche d’amélioration continue, de simplification et de digitalisation, le Middle Office ARA recherche un V.I.E. pour contribuer à l’optimisation de ses outils et à l’adaptation de ses processus digitaux aux évolutions de ses activités et du marché, notamment grâce au recours potentiel à des agents d’intelligence artificielle.\n\nVous travaillerez à l’interface des équipes métiers, des équipes de support Outils & IT et du management.\n\nVos missions\n\nReporting mensuel et amélioration continue de la gestion des pricings :\n- Contribuer à l’automatisation avancée du processus d’analyse mensuelle des résultats grâce à l’utilisation d’agents d’intelligence artificielle. Ceux-ci permettront de consolider les données issues des différents outils existants, d’en automatiser l’exploitation, d’approfondir certaines analyses — notamment celles portant sur les pricings à cheval sur plusieurs mois — et de produire un reporting managérial clair et directement exploitable.\n\n- Mettre en place une historisation visuelle des types de pricing par book produits et de l’évolution des courbes mensuelles de pricing, puis croiser ces informations avec les données de marché afin d’en faciliter l’analyse et d’identifier des pistes d’amélioration.\n\nPilotage automatisé et visuel de la mise en œuvre des mandats commerciaux :\n- Concevoir un dispositif de suivi quotidien automatisé permettant de rapprocher les mandats et les contrats commerciaux, d’identifier les conditions de pricing spécifiques et de déclencher des alertes automatiques (pricing rétroactif, pricing en M+1, écarts de quantités), afin de faciliter les autocontrôles. Développer une restitution visuelle, notamment sous Power BI.\n\n- Pilotage automatisé et visuel de l’exécution opérationnelle des contrats commerciaux et du positionnement des pricings flottants : développer des KPI portant sur les flux logistiques et les contrats afin de faciliter les autocontrôles. Mettre en place un reporting dédié aux flux dont le pricing débute en J+1 et identifier les contrats ou nominations reportés au mois suivant.\n\nFormation et bonnes pratiques du Middle Office : participer à l’animation des formations du Middle Office, actualiser les supports et promouvoir l’utilisation des nouveaux outils digitaux développés pour accompagner les équipes opérationnelles et commerciales.\n\nÉvolution des outils corporate (SAP, COBRISK,...) : recueillir et suivre les besoins d’évolution des outils digitaux utilisés par le Middle Office, en coordination avec les équipes de support métier et IT, et contribuer aux tests utilisateurs.",
     "creationDate": "2026-10-13T09:53:38Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1613,30 +1543,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "201",
-      "259"
+      "[\"17\",\"201\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. \n\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\n\nThe role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.\n\nKey Responsibilities:\n\nFinancial Reporting & Analysis\n• Prepare and maintain financial reports and KPIs.\n• Assist with budgeting, forecasting, and variance analysis.\n• Analyze revenue, expenses, and key business metrics to identify trends and insights.\n• Support management reporting and ad hoc financial analyses.\n• Revenue Operations & Finance Support\n• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.\n• Assist in maintaining accurate data across CRM, payroll, and financial systems.\n• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.\n• Contribute to process improvement initiatives supporting commercial and finance operations.\n\nExpense Management & Financial Operations\n• Monitor employee travel and business expenses and support compliance with company policies.\n• Analyze spending trends and assist with cost control initiatives.\n• Support month-end, quarter-end, and year-end close activities.\n• Assist with operational reporting and other recurring finance processes.\n\nBusiness Systems & Process Improvement\n• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.\n• Help improve data quality, reporting consistency, and process efficiency.\n• Contribute to reporting automation and continuous improvement initiatives.",
     "creationDate": "2026-08-19T20:33:54Z",
     "missionStartDate": "2027-01-01T00:00:00",
