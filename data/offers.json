@@ -364,69 +364,6 @@
     "dateCandidature": null
   },
   {
-    "id": 247018,
-    "organizationName": "JOLT CAPITAL",
-    "missionTitle": "Analyst - Transaction Services (H/F)",
-    "missionDuration": 18,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "Jolt Capital is a leading private equity firm specialized in growth investing in deeptech companies, with a mission to build future leaders with a global focus. Since 2011, Jolt Capital invests in European B2B companies with revenues between €10M and €50M. Jolt Capital’s team is composed solely of experienced investors and managers of high-tech companies. Its proprietary AI platform, Jolt.Ninja, enables enriched sourcing, accelerated due diligence and automatic detection of investment or acquisition targets. Jolt Capital is located in Paris, Lausanne, Copenhagen, Milan, Montreal, Seoul, Tokyo and the Silicon Valley.",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "16",
-    "effectifInd": "15",
-    "effectifConso": "37",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "MONTREAL -QC",
-    "cityNameEn": "MONTREAL -QC",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "[\"259\"]"
-    ],
-    "specializations": null,
-    "missionDescription": "Jolt Capital is an independent European private equity platform dedicated to scaling responsible deeptech companies. Founded in 2011, the firm invests in technology-rich B2B growth companies with strong intellectual property, sound fundamentals and global ambitions. Beyond capital, Jolt provides hands-on strategic and operational support to help its portfolio companies become international leaders. Its investment approach combines sector expertise, rigorous transaction execution and data-driven capabilities, including its proprietary AI platform, Jolt.Ninja. With teams across Europe, North America and Asia, Jolt offers an entrepreneurial, international and demanding environment at the intersection of finance, technology and industrial transformation.\r\nJoin Jolt Capital in Montreal\r\n\r\nAs part of our international development, we are looking for a VIE Transaction Services Analyst to join our Montreal office. You will be fully integrated into the Canadian team and work closely with colleagues across Jolt’s international platform. For all Transaction Services assignments, methodologies and deliverables, you will work under the functional and technical supervision of the Director of Transaction Services.\r\n\r\nYour Mission\r\nAs a VIE Transaction Services Analyst, you will support the analysis and execution of investments, add-on acquisitions and selected exit processes. You will work on live transactions and portfolio projects, turning complex financial information into clear insights for investment decisions. This is a hands-on role offering early responsibility, direct exposure to senior professionals and a unique opportunity to understand how deeptech companies scale internationally.\r\n\r\nWhat You Will Do\r\n•\tSupport financial due diligence on potential investments, add-on acquisitions and selected exit processes.\r\n•\tAnalyse historical and forecast financial performance, including revenue quality, margins, working capital, cash conversion and key operating drivers.\r\n•\tReview financial models, business plans, accounting data and management information, and identify the principal risks, sensitivities and value drivers.\r\n•\tContribute to quality of earnings, net debt and working-capital analyses, adapting standard approaches to the specific economics of deeptech and high-growth businesses.\r\n•\tPrepare clear, decision-oriented analyses and materials for deal teams, partners and Investment Committees.\r\n•\tCoordinate selected workstreams with portfolio company management teams, external advisers, accountants and other due diligence providers.\r\n•\tSupport portfolio companies on ad hoc finance and transaction-related projects, including KPI structuring, reporting, financing, bolt-on acquisitions and exit readiness.\r\n•\tDevelop transaction benchmarks, analytical tools and repeatable methodologies for the Transaction Services team.\r\n•\tUse Jolt.Ninja and other data sources to enrich financial analysis, market understanding and investment decision-making.\r\n•\tContribute actively to the firm’s international platform by working across teams, geographies and areas of expertise.\r\n\r\nWhy Join Us?\r\nAt Jolt, you will join a lean, entrepreneurial and international team where high standards go hand in hand with collaboration. We value people who ask the right questions, take ownership and are willing to go beyond the numbers to understand a technology, a market and a business model. You will be trusted with meaningful work from the outset and encouraged to contribute your point of view.\r\n\r\nWhat This VIE Will Offer You\r\n•\tHands-on exposure to live growth private equity transactions and strategic portfolio projects.\r\n•\tClose collaboration with Jolt’s Transaction Services leadership, investment professionals and senior operating experts.\r\n•\tA distinctive learning environment combining financial analysis, deeptech, international growth and value creation.\r\n•\tMeaningful responsibility in a lean team, with direct visibility on how analytical work informs investment decisions.\r\n•\tAn international experience in Montreal, connected to Jolt’s teams and portfolio across Europe, North America and Asia.\r\n\r\n•\tTeam: Integrated into the Canadian team, with a functional and technical reporting line to the Director of Transaction Services for all Transaction Services matters.",
-    "creationDate": "2026-10-13T13:27:32Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-10-13T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-11-12T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "What We Are Looking For\r\n•\tMaster’s degree from a leading business school, engineering school or university, with strong exposure to finance, accounting or corporate finance.\r\n•\tA first significant experience in Transaction Services, audit, M&A, private equity, leveraged finance or corporate finance; experience within a Big Four or recognised advisory firm would be particularly relevant.\r\n•\tStrong accounting and financial analysis skills, with the ability to understand the operational story behind the numbers.\r\n•\tExcellent analytical and modelling capabilities, advanced proficiency in Excel and the ability to prepare concise, high-quality presentations.\r\n•\tFluent English is required; French is strongly preferred for collaboration across the Montreal and Paris teams.\r\n•\tA genuine interest in technology, industrial innovation and high-growth B2B companies.\r\n•\tA rigorous, curious and pragmatic mindset, with strong attention to detail and a collaborative approach.",
-    "countryId": "CA",
-    "countryName": "CANADA",
-    "countryNameEn": "CANADA",
-    "reference": "VIE247018",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Marine MOREUX",
-    "indemnite": 2649.28,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "marine.moreux@jolt-capital.com",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
-    "dateCandidature": null
-  },
-  {
     "id": 247003,
     "organizationName": "TOTALENERGIES RAFFINAGE CHIMIE",
     "missionTitle": "VIE - Chargé de projet Digitalisation Middle Office - Bruxelles (H/F)",
@@ -591,16 +528,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5"
+      "[\"5\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As part of the Revenue and Market Analytics team within Revenue Operations, your mission will be to deliver robust and intuitive business insights that empower Criteo’s global leaders to shape commercial strategy and strengthen market positioning.\n\nYou will use a data-driven approach to analyse business performance and market trends, uncover actionable insights, and translate complex findings into clear narratives that inform decision-making. This role requires comfort working with large, complex datasets and the curiosity to explore data creatively.\n\n\n\n\n\nYour Mission\n\n\nProvide analytical insights on Criteo’s global performance, market dynamics, and competitive landscape \nIdentify growth opportunities and risks, and translate findings into actionable recommendations for C-level stakeholders \nLeverage internal and external data to assess the potential of clients and prospects across existing and new business opportunities \nAnalyze first-party and market data, consumer behavior and intent signals, and industry trends to contextualize Criteo’s performance",
     "creationDate": "2026-09-16T08:28:57Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1158,16 +1088,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "About ENGIE and Supply & Energy Management\n\nENGIE is a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions.\n\nGuided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses, including gas, renewable energies and services, to provide competitive solutions to our customers.\n\nSupply & Energy Management (S&EM) is ENGIE’s Global Business Unit dedicated to delivering reliable, sustainable and affordable energy solutions. The business unit optimizes both ENGIE’s and its clients’ assets while designing tailor-made energy solutions for more than 200,000 professional clients and 15 million consumers.\n\nOperating in 20 countries and bringing together more than 10,000 experts, S&EM leverages ENGIE’s asset portfolio and market expertise to deliver decarbonized electricity 24/7, supporting customers in their energy transition journey.\n\nJoining Supply & Energy Management means becoming part of an international team of passionate professionals committed to shaping a greener and more efficient energy future.\n\nContext\n\nAs part of the Credit Risk Analysis team, you will play a key role in assessing the creditworthiness of counterparties and ensuring effective management of credit risk exposure across S&EM's activities.\n\nReporting to the Head of Credit Risk Analysis, you will work closely with Front Office, Legal, KYC/AML and Risk stakeholders in a dynamic and international trading environment.\n\nWhat You Will Do\nCurrent Portfolio Management\nMonitor and analyze existing counterparties' credit exposure and risk evolution.\nManage and review credit limits.\nAssess and approve Front Office transactions and contractual agreements from a credit risk perspective.\nEnsure continuous monitoring of portfolio risk and identify mitigation actions where necessary.\nCounterparty Onboarding & Risk Assessment\nSupport business development activities before contract execution.\nAnalyze prospects' financial situation, business model and regulatory environment.\nEvaluate creditworthiness and determine appropriate risk limits.\nPrepare recommendations for Credit Risk Management and Credit Committees.\nCredit Documentation & Negotiation\nNegotiate credit-related documentation and netting agreements with counterparties.\nCollaborate closely with Legal teams to ensure appropriate contractual protections.\nDigitalization & Continuous Improvement\nContribute to the development and enhancement of risk management tools.\nParticipate in digital transformation initiatives in partnership with Credit Reporting and IT teams.\nSupport process optimization and automation projects.\nBusiness Support Activities\nProduce daily risk reports.\nRespond to urgent Front Office requests regarding transaction impacts on exposure levels.\nProvide timely trading approvals based on risk assessments.\nKey Stakeholders\nInternal Interfaces\nFront Office\nCredit Reporting Team\nKYC / AML Team\nLegal Department\nIT Support\nExternal Interfaces\nClients and counterparties\nBusiness development teams\nLegal advisors\nFinancial institutions and lenders",
     "creationDate": "2026-10-08T14:46:26Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1431,44 +1354,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "22",
-      "219",
-      "318",
-      "327"
+      "[\"6\",\"22\",\"219\",\"318\",\"327\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "22",
-        "specializationParentId": "216",
-        "specializationLabel": "Marketing",
-        "specializationLabelEn": "Marketing"
-      },
-      {
-        "specializationId": "219",
-        "specializationParentId": "216",
-        "specializationLabel": "Marketing Digital",
-        "specializationLabelEn": "Digital Marketing"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "327",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique et Sciences des Données",
-        "specializationLabelEn": "Informatique et Sciences des Données"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As a V.I.E Data Analyst for a 12-month assignment renewable for an additional 12 months, you will join the Data Analytics team within the Marketing organization and contribute to the development of advanced analytical solutions supporting business growth.\r\n\r\nYour responsibilities will include:\r\n\r\nCollecting, validating, transforming and integrating data provided by retail customers (sell-out, market shares, stocks, traffic, etc.) as well as internal and external data sources (CRM, media and other business data).\r\nCreating and maintaining dashboards in Qlik Sense and delivering ad-hoc analyses to support business decisions.\r\nContinuously improving existing dashboards through automation and development of new KPIs.\r\nAutomating data processes within AWS and Snowflake environments and developing data pipelines using Python when required.\r\nTranslating analyses into actionable recommendations and business insights.\r\nCollaborating closely with Key Account Management, Marketing, Supply Chain and Finance teams.\r\nWorking alongside global Data Engineering and Data Governance teams.\r\nLeading workshops and providing training to business users.\r\nEvaluating the ROI of category projects, promotional campaigns and other commercial activation initiatives.\r\nPromoting a data-driven mindset and actively supporting the company's ongoing transformation.",
     "creationDate": "2026-10-07T15:25:10Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1725,65 +1613,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "259",
-      "318",
-      "320",
-      "324"
+      "[\"5\",\"8\",\"9\",\"200\",\"259\",\"318\",\"320\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "I – Description du groupe Amethis\r\nLe groupe Amethis est un gestionnaire de fonds d’investissement dédié au continent africain & la région MENA. Amethis investit en capital-développement dans des entreprises en forte croissance dans une diversité de secteurs. Amethis a investi dans des sociétés présentes dans plus de 20 pays et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.\r\n\r\nII – Contexte AIFM (Aspect règlementaire)\r\nAmethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissement alternatifs (GFIA). Créée en 2017, elle est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg.\r\n\r\nIII – Rôle / Mission\r\nLe poste sera rattaché au Finance & Risk Manager, avec une exposition régulière au comité exécutif de l’AIFM, aux équipes d’investissement, aux investisseurs, aux auditeurs et aux prestataires des fonds.\r\nMissions principales :\r\nRisk Management\r\nInvestment process : rédaction des notes de risque pour chaque opération présentée en comité d’investissement, puis suivi du risque de chaque participation jusqu’à la sortie.\r\nConformité et limites : contrôle ex ante et ex post de la conformité des opérations aux documents des fonds (PPM, LPA) et aux limites de risque (concentration pays, secteur et émetteur, devise, levier, liquidité).\r\nRisk Report : élaboration du Risk Report semestriel couvrant l’ensemble des fonds, et des supports risk présentés au comité exécutif et au Conseil d’administration de l’AIFM.\r\nRéglementaire : contribution aux reportings réglementaires.\r\n\r\nFund administration\r\n\r\nOpérations des fonds : préparation des appels de fonds et des distributions (calculs par investisseur, notices, suivi des encaissements).\r\nNAV et performance : revue des NAV trimestrielles produites par l’administrateur et suivi des indicateurs de performance (TVPI, DPI, TRI).\r\nReporting investisseurs : préparation du reporting trimestriel aux investisseurs et réponses à leurs demandes ponctuelles.\r\nTrésorerie : suivi de la trésorerie des fonds et des prévisions de cash.\r\nPrestataires : coordination avec l’administrateur, le dépositaire, les banques et les auditeurs ; participation à l’audit annuel des fonds.\r\nAide au développements d’outils internes de pilotage de la performance financière / digitalisation / cost monitoring.\r\n\r\nCorporate scope\r\nArrêtés trimestriels : appui à l’arrêté des entités du groupe (AIFM, GP, holdings et bureaux de Paris, Luxembourg, Casablanca, Nairobi, Abidjan, Le Caire et Le Cap).\r\nPilotage : suivi du cash, des budgets et des atterrissages, avec analyse des écarts.\r\nIntragroupe : suivi des refacturations intragroupe et appui aux audits des sociétés du groupe.",
     "creationDate": "2026-10-07T14:09:31Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -6030,16 +5862,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tMaintain and further develop our credit risk measurement methodologies\n•\tProvide timely and quality-assured risk metrics and other management indicators for Credit Risk Management, the Management Board, and other bank committees\n•\tFurther develop methodologies within the ICAAP and stress testing framework in accordance with MaRisk requirements\n•\tSupport the development, implementation, and validation of models\n•\tContribute to cross-risk-type topics and projects",
     "creationDate": "2026-09-21T14:28:47Z",
     "missionStartDate": "2027-01-01T00:00:00",
