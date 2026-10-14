@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **14/10/2026 23:51:21**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **15/10/2026 00:17:12**, 86 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4665,96 +4665,6 @@ You don’t need to be a train enthusiast to thrive with us. We guarantee that w
 Important to note
 
 As a global business, we’re an equal-opportunity employer that celebrates diversity across the 63  countries we operate in. We’re committed to creating an inclusive workplace for everyone.
-
-</details>
-
-<details>
-<summary><strong>Contrôleur de Gestion (H/F)</strong> · GROUPE IDEC INTERNATIONAL · PORTO, PORTUGAL · 2 677,43 €/mois</summary>
-
-- **Entreprise :** GROUPE IDEC INTERNATIONAL
-- **Lieu :** PORTO, PORTUGAL
-- **Indemnité :** 2 677,43 €/mois
-- **Durée de la mission :** 24 mois (Du 1 nov. 2026 au 1 nov. 2028)
-- **Publiée le :** 14/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244146](https://mon-vie-via.businessfrance.fr/offres/244146)
-
-**Description du poste**
-
-VOS MISSIONS
-Rattaché(e) à la Direction Générale et Financière de la filiale et en lien étroit avec VHM et GROUPE IDEC INGENIERIE avec les équipes opérationnelles, vous participez au pilotage économique de l'activité.
-
-À ce titre, vous serez notamment amené(e) à :
-
-Pilotage de la performance
-•	Participer à l’élaboration des budgets annuels et aux actualisations budgétaires périodiques.
-•	Assurer le suivi des indicateurs de performance (KPI) et analyser les écarts entre réalisé, budget et prévisions.
-•	Produire les reportings mensuels à destination de la direction locale et du siège.
-•	Contribuer à l'analyse de la rentabilité des activités, projets et centres de coûts.
-
-Analyse financière
-•	Participer aux clôtures mensuelles et à la préparation des états financiers de gestion.
-•	Réaliser des analyses ad hoc afin d'accompagner la prise de décision des opérationnels.
-•	Suivre les coûts, les marges et les principaux indicateurs financiers.
-•	Participer à l'identification des risques et opportunités impactant la performance de l'entreprise.
-
-Amélioration continue
-•	Développer et fiabiliser les outils de reporting et de contrôle de gestion.
-•	Participer à l'automatisation des processus et à l'amélioration des tableaux de bord.
-•	Contribuer à la mise en place de nouveaux indicateurs de pilotage et de suivi de la performance.
-
-
-PROFIL RECHERCHÉ
-•	Une première expérience en finance, audit ou contrôle de gestion (stage ou alternance) est appréciée.
-•	Maîtrise avancée d'Excel.
-•	Une connaissance de Sage X3, Power BI, ou d'un ERP constitue un atout.
-•	Excellent niveau du portugais professionnel indispensable.
-
-QUALITÉS ATTENDUES
-•	Forte capacité d'analyse et de synthèse.
-•	Rigueur et sens de l'organisation.
-•	Esprit d'équipe et excellent relationnel.
-•	Curiosité et goût pour les chiffres.
-•	Force de proposition et volonté d'amélioration continue.
-•	Autonomie et capacité à évoluer dans un environnement international.
-
-**Profil recherché**
-
-VOS MISSIONS
-Rattaché(e) à la Direction Générale et Financière de la filiale et en lien étroit avec VHM et GROUPE IDEC INGENIERIE avec les équipes opérationnelles, vous participez au pilotage économique de l'activité.
-
-À ce titre, vous serez notamment amené(e) à :
-
-Pilotage de la performance
-•	Participer à l’élaboration des budgets annuels et aux actualisations budgétaires périodiques.
-•	Assurer le suivi des indicateurs de performance (KPI) et analyser les écarts entre réalisé, budget et prévisions.
-•	Produire les reportings mensuels à destination de la direction locale et du siège.
-•	Contribuer à l'analyse de la rentabilité des activités, projets et centres de coûts.
-
-Analyse financière
-•	Participer aux clôtures mensuelles et à la préparation des états financiers de gestion.
-•	Réaliser des analyses ad hoc afin d'accompagner la prise de décision des opérationnels.
-•	Suivre les coûts, les marges et les principaux indicateurs financiers.
-•	Participer à l'identification des risques et opportunités impactant la performance de l'entreprise.
-
-Amélioration continue
-•	Développer et fiabiliser les outils de reporting et de contrôle de gestion.
-•	Participer à l'automatisation des processus et à l'amélioration des tableaux de bord.
-•	Contribuer à la mise en place de nouveaux indicateurs de pilotage et de suivi de la performance.
-
-
-PROFIL RECHERCHÉ
-•	Une première expérience en finance, audit ou contrôle de gestion (stage ou alternance) est appréciée.
-•	Maîtrise avancée d'Excel.
-•	Une connaissance de Sage X3, Power BI, ou d'un ERP constitue un atout.
-•	Excellent niveau du portugais professionnel indispensable.
-
-QUALITÉS ATTENDUES
-•	Forte capacité d'analyse et de synthèse.
-•	Rigueur et sens de l'organisation.
-•	Esprit d'équipe et excellent relationnel.
-•	Curiosité et goût pour les chiffres.
-•	Force de proposition et volonté d'amélioration continue.
-•	Autonomie et capacité à évoluer dans un environnement international.
 
 </details>
 

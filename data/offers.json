@@ -3006,16 +3006,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "1- Mission comptable\r\n\r\nParticipation à la supervision de la comptabilité pour une société française et une société espagnole sur Pennylane.\r\n\r\nInterlocuteur de l’expert comptable français et espagnol et aide à  l’établissement du bilan en lien avec les cabinets d’expert comptable\r\n\r\n\r\n2- Mission de contrôle de gestion\r\n\r\nParticipation l'établissement d’un P&L mensuel  avec analyse des évolutions et du budget annuel avec suivi des écarts durant l’année.\r\n\r\nMise en place d’un suivi consolidé de la trésorerie\r\n\r\nPréparation de la facturation interne entre les différentes entités du groupe\r\n\r\n\r\n3- Mission opérationnelle et administrative\r\n\r\nRevue et validation des factures fournisseurs \r\n\r\nSuivi de l’encaissement des clients via les plateformes de paiements du site \r\n\r\nSuivi des avoirs, paiements divers, relances clients débiteurs avec le département des ventes\r\n\r\nAide à la personne en charge des paiement des fournisseurs et propriétaires\r\n\r\nCoordination des flux financiers dans les autres entités du groupes sous la responsabilité du CEO\r\n\r\nAide à la gestion de nouveaux projets pour l’automatisation et l’amélioration du CRM et mise en place de process IA dans le département Finance\r\n\r\nAide à la gestion de certaines tâches administratives et liées aux ressources humaines.",
     "creationDate": "2026-09-29T11:10:05Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -6255,76 +6248,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "https://jobsearch.alstom.com/job-invite/528816/",
-    "dateCandidature": null
-  },
-  {
-    "id": 244146,
-    "organizationName": "GROUPE IDEC INTERNATIONAL",
-    "missionTitle": "Contrôleur de Gestion (H/F)",
-    "missionDuration": 24,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "PRESENTATION DU GROUPE IDEC  Acteur majeur de l’immobilier réunissant plus d’une vingtaine de sociétés expertes dans leurs domaines, nous intervenons en France et à l’international pour aménager, développer, financer, fournir des solutions énergétiques innovantes et concevoir et construire tous types de bâtiments. Nous nous positionnons en acteur responsable de la transition énergétique et de la limitation de l’artificialisation des sols. Nous abordons chaque nouvelle opération avec les collectivités pour revitaliser les territoires en créant de nouveaux espaces de vie et de travail. Cet engagement se traduit par une volonté de contribuer à la croissance verte des villes, des entreprises et des particuliers tout en se conjuguant avec les enjeux d’un développement économique, durable, cohérent et pragmatique.   UNE DIMENSION INTERNATIONALE  Le GROUPE IDEC s’appuie sur des implantations au-delà des frontières pour proposer une solution adaptée en France et à l’international. Europe, Etats-Unis, Asie, le GROUPE IDEC se tient à vos côtés pour réaliser l’ensemble de vos projets d’aménagement, de développement et de conception-construction partout dans le monde. Le groupe est présent à travers ses filiales, entreprises associées ou partenaires locaux aux quatre coins du monde pour apporter une réponse au plus près de vos installations : Cambodge, Chine, France, Inde, Indonésie, Kazakhstan, Laos, Mongolie, Birmanie, Philippines, Qatar, Singapour, Sri Lanka, Thaïlande, Vietnam, Angleterre, Etats-Unis, Moldavie, Espagne, Suisse, Italie.",
-    "organizationUrlImage": "https://www.groupeidec.com/wp-content/uploads/2018/03/Logo-Groupe-IDEC-noir-320x140.png",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "5",
-    "effectifConso": "6",
-    "organizationCountryCounter": "21",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "PORTO",
-    "cityNameEn": "PORTO",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "9"
-    ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
-    "missionDescription": "VOS MISSIONS\nRattaché(e) à la Direction Générale et Financière de la filiale et en lien étroit avec VHM et GROUPE IDEC INGENIERIE avec les équipes opérationnelles, vous participez au pilotage économique de l'activité.\n\nÀ ce titre, vous serez notamment amené(e) à :\n\nPilotage de la performance\n•\tParticiper à l’élaboration des budgets annuels et aux actualisations budgétaires périodiques.\n•\tAssurer le suivi des indicateurs de performance (KPI) et analyser les écarts entre réalisé, budget et prévisions.\n•\tProduire les reportings mensuels à destination de la direction locale et du siège.\n•\tContribuer à l'analyse de la rentabilité des activités, projets et centres de coûts.\n\nAnalyse financière\n•\tParticiper aux clôtures mensuelles et à la préparation des états financiers de gestion.\n•\tRéaliser des analyses ad hoc afin d'accompagner la prise de décision des opérationnels.\n•\tSuivre les coûts, les marges et les principaux indicateurs financiers.\n•\tParticiper à l'identification des risques et opportunités impactant la performance de l'entreprise.\n\nAmélioration continue\n•\tDévelopper et fiabiliser les outils de reporting et de contrôle de gestion.\n•\tParticiper à l'automatisation des processus et à l'amélioration des tableaux de bord.\n•\tContribuer à la mise en place de nouveaux indicateurs de pilotage et de suivi de la performance.\n\n\nPROFIL RECHERCHÉ\n•\tUne première expérience en finance, audit ou contrôle de gestion (stage ou alternance) est appréciée.\n•\tMaîtrise avancée d'Excel.\n•\tUne connaissance de Sage X3, Power BI, ou d'un ERP constitue un atout.\n•\tExcellent niveau du portugais professionnel indispensable.\n\nQUALITÉS ATTENDUES\n•\tForte capacité d'analyse et de synthèse.\n•\tRigueur et sens de l'organisation.\n•\tEsprit d'équipe et excellent relationnel.\n•\tCuriosité et goût pour les chiffres.\n•\tForce de proposition et volonté d'amélioration continue.\n•\tAutonomie et capacité à évoluer dans un environnement international.",
-    "creationDate": "2026-06-26T14:23:27Z",
-    "missionStartDate": "2026-11-01T00:00:00",
-    "missionEndDate": "2028-11-01T00:00:00",
-    "startBroadcastDate": "2026-09-14T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-10-14T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "VOS MISSIONS\nRattaché(e) à la Direction Générale et Financière de la filiale et en lien étroit avec VHM et GROUPE IDEC INGENIERIE avec les équipes opérationnelles, vous participez au pilotage économique de l'activité.\n\nÀ ce titre, vous serez notamment amené(e) à :\n\nPilotage de la performance\n•\tParticiper à l’élaboration des budgets annuels et aux actualisations budgétaires périodiques.\n•\tAssurer le suivi des indicateurs de performance (KPI) et analyser les écarts entre réalisé, budget et prévisions.\n•\tProduire les reportings mensuels à destination de la direction locale et du siège.\n•\tContribuer à l'analyse de la rentabilité des activités, projets et centres de coûts.\n\nAnalyse financière\n•\tParticiper aux clôtures mensuelles et à la préparation des états financiers de gestion.\n•\tRéaliser des analyses ad hoc afin d'accompagner la prise de décision des opérationnels.\n•\tSuivre les coûts, les marges et les principaux indicateurs financiers.\n•\tParticiper à l'identification des risques et opportunités impactant la performance de l'entreprise.\n\nAmélioration continue\n•\tDévelopper et fiabiliser les outils de reporting et de contrôle de gestion.\n•\tParticiper à l'automatisation des processus et à l'amélioration des tableaux de bord.\n•\tContribuer à la mise en place de nouveaux indicateurs de pilotage et de suivi de la performance.\n\n\nPROFIL RECHERCHÉ\n•\tUne première expérience en finance, audit ou contrôle de gestion (stage ou alternance) est appréciée.\n•\tMaîtrise avancée d'Excel.\n•\tUne connaissance de Sage X3, Power BI, ou d'un ERP constitue un atout.\n•\tExcellent niveau du portugais professionnel indispensable.\n\nQUALITÉS ATTENDUES\n•\tForte capacité d'analyse et de synthèse.\n•\tRigueur et sens de l'organisation.\n•\tEsprit d'équipe et excellent relationnel.\n•\tCuriosité et goût pour les chiffres.\n•\tForce de proposition et volonté d'amélioration continue.\n•\tAutonomie et capacité à évoluer dans un environnement international.",
-    "countryId": "PT",
-    "countryName": "PORTUGAL",
-    "countryNameEn": "PORTUGAL",
-    "reference": "VIE244146",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Eva MADEIRA",
-    "indemnite": 2677.43,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "e.madeira@groupeidec.com",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
     "dateCandidature": null
   },
   {
