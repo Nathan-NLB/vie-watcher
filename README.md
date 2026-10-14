@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **14/10/2026 17:22:27**, 89 offre(s) actuellement en ligne.
+Dernière vérification : **14/10/2026 18:10:59**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -3106,35 +3106,6 @@ POURQUOI NOUS REJOINDRE ?
 - Évoluez au sein d’une filiale majeure du Groupe. 
 
 La branche Exploration-Production (EP) de TotalEnergies couvre l’exploration et la production de pétrole et de gaz naturel, ainsi que les activités contribuant à la neutralité carbone. Présents dans une cinquantaine de pays, ses 9 000 collaboratrices et collaborateurs ont pour mission de produire de manière responsable les hydrocarbures dont le monde a besoin aujourd’hui tout en contribuant à la transition énergétique de la Compagnie. La branche EP agit pour réduire les émissions de gaz à effet de serre, en particulier le méthane, et améliorer la performance environnementale de ses opérations.
-
-</details>
-
-<details>
-<summary><strong>PROJECT ENGINEER - COST ESTIMATOR HF (H/F)</strong> · PONTICELLI FRERES · LUANDA, ANGOLA · 4 337,57 €/mois</summary>
-
-- **Entreprise :** PONTICELLI FRERES
-- **Lieu :** LUANDA, ANGOLA
-- **Indemnité :** 4 337,57 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 24/09/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, son expérience significative en finance d'entreprise et son excellent niveau d'anglais. Seul un léger décalage existe avec sa préférence géographique initiale pour l'Espagne, l'offre étant basée en Angola.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/223079](https://mon-vie-via.businessfrance.fr/offres/223079)
-
-**Description du poste**
-
-Présentation de la société :
-
-Ponticelli Frères, groupe industriel présent à l'international au service des entreprises du secteur de l'energie.
- recherche dans le cadre d'un VIE, un contrôleur de gestion dont la mission est d’aider au pilotage des projets de la Filiale. Il analyse les performances économiques et financières. Il est en charge de faire des rapports à sa hiérarchie en lui préconisant des actions correctives à réaliser en vue d’optimiser la rentabilité. Il établit également les procédures de gestion.
-
-**Profil recherché**
-
-o	BAC +5 avec une spécialisation en contrôle de gestion, comptabilité/audit ;
-o	Expérience d’au moins une année dans une fonction de contrôle de gestion ;
-o	Capacité à communiquer en Anglais ;
-o	Maitrise du Pack office ;
-o	Personne autonome et réactive ;
-o	Personne rigoureuse, organisé et dynamique.
 
 </details>
 
