@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **14/10/2026 19:19:22**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **14/10/2026 19:52:38**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1114,65 +1114,6 @@ First experience in data analysis, business controlling, category management, ma
 Strong analytical mindset with knowledge of SQL, Python and data visualization tools such as Qlik Sense.
 Exposure to cloud environments (AWS, Snowflake) and experience with reporting, dashboards or database queries would be an advantage.
 Fluent English required (minimum C1 level). German language skills are a plus
-
-</details>
-
-<details>
-<summary><strong>Junior Financial Analyst (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
-
-- **Entreprise :** PLANISWARE
-- **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
-- **Indemnité :** 5 151,29 €/mois
-- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
-- **Publiée le :** 08/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245319](https://mon-vie-via.businessfrance.fr/offres/245319)
-
-**Description du poste**
-
-Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. 
-
-Planisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.
-
-The role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.
-
-Key Responsibilities:
-
-Financial Reporting & Analysis
-• Prepare and maintain financial reports and KPIs.
-• Assist with budgeting, forecasting, and variance analysis.
-• Analyze revenue, expenses, and key business metrics to identify trends and insights.
-• Support management reporting and ad hoc financial analyses.
-• Revenue Operations & Finance Support
-• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.
-• Assist in maintaining accurate data across CRM, payroll, and financial systems.
-• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.
-• Contribute to process improvement initiatives supporting commercial and finance operations.
-
-Expense Management & Financial Operations
-• Monitor employee travel and business expenses and support compliance with company policies.
-• Analyze spending trends and assist with cost control initiatives.
-• Support month-end, quarter-end, and year-end close activities.
-• Assist with operational reporting and other recurring finance processes.
-
-Business Systems & Process Improvement
-• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.
-• Help improve data quality, reporting consistency, and process efficiency.
-• Contribute to reporting automation and continuous improvement initiatives.
-
-**Profil recherché**
-
-Qualifications
-• Bachelor's degree in Finance, Accounting, Economics, Business, or a related field.
-•  1-2 years of experience in FP&A, accounting, or a related field.
-•  Experience supporting system implementations, system migrations, or business process improvement projects.
-•  Strong Excel skills, including pivot tables, lookups, and data analysis.
-•  High attention to detail and strong analytical problem-solving abilities.
-•  Excellent organizational and communication skills.
-•  Ability to manage multiple priorities and meet deadlines.
-•  Curious, proactive, and eager to learn.
-
-To apply: 
-Before applying, be sure to check the eligibility requirements for this destination: http://www.civiweb.com/FR/le-volontariat-international/conditions-du-VIE.aspx . The visa required for such a VIE position is subject to specific conditions of training and/or professional experience. When applying, please make sure to submit the English version of both your resume and cover letter. As all communications will be in English, your application email should be written in English as well.
 
 </details>
 
