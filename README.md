@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **14/10/2026 14:21:32**, 89 offre(s) actuellement en ligne.
+Dernière vérification : **14/10/2026 15:13:57**, 89 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -69,6 +69,47 @@ Le saviez-vous ?
 Cofidis Group vient d'être certifié Best Workplace Europe ! Cette distinction témoigne de la qualité de notre environnement de travail et de la force de notre collectif.
 
 Pour candidater, merci d'envoyer votre CV et lettre de motivation en Français et en Anglais.
+
+</details>
+
+<details>
+<summary><strong>Consultant SAP Finance (H/F)</strong> · CONSEILS PLUS · MILAN, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** CONSEILS PLUS
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 14/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246089](https://mon-vie-via.businessfrance.fr/offres/246089)
+
+**Description du poste**
+
+vous serez le relais de Conseils-Plus en Italie, après une phase de formation de 4 à 6 mois à Paris pour maîtriser les outils, méthodologies et solutions SAP du cabinet.
+
+Vos missions principales seront :
+
+Développement commercial et expertise locale
+Participer à la création de contenus et de démonstrations pour promouvoir les solutions SAP Finance et Comptabilité.
+Réaliser des missions d’avant-vente, de prospection et de suivi client en Italie.
+Contribuer au développement de l’expertise locale en collaboration avec la direction.
+Accompagnement des clients
+Avec la direction de Conseils-Plus Italie, vous travaillerez sur les activités de développement commercial sur la zone Afrique francophone :
+
+Intervenir chez les clients pour les accompagner dans la mise en œuvre de SAP S/4HANA  en appliquant la méthodologie du cabinet.
+Piloter des phases clés des projets (recueil des besoins, paramétrage, recette, formation des utilisateurs).
+Assurer le relais entre les équipes locales et celles basées en France.
+
+**Profil recherché**
+
+Notre profil idéal
+Vous êtes diplômé(e) d’un Master ou équivalent BAC+5 d’une école de commerce ou d’ingénieur avec une spécialisation en Finance, Comptabilité ou Contrôle de gestion.
+Idéalement vous bénéficiez d’une première expérience (stage ou CDD) en comptabilité, audit, gestion d’entreprise ou utilisation de SAP.
+Vous êtes doté(e) d’un bon esprit d’analyse et de synthèse.
+Vous savez allier autonomie et esprit d’équipe.
+Vous avez une appétence pour les outils ERP et la transformation digitale.
+Vous êtes de nationalité européenne.
+Vous parlez couramment anglais et français, l’italien est apprécié.
+Enfin, si innovation, service client et gestion de projet résonnent en vous, vous êtes au bon endroit !
 
 </details>
 
@@ -4209,47 +4250,6 @@ Maintain and strengthen internal control and compliance.
 
 •	Starting date: ASAP - Q4 2026
 •	1-2 months in our Paris office before moving to San Carlos
-
-</details>
-
-<details>
-<summary><strong>Consultant SAP Finance (H/F)</strong> · CONSEILS PLUS · MILAN, ITALIE · 3 003,87 €/mois</summary>
-
-- **Entreprise :** CONSEILS PLUS
-- **Lieu :** MILAN, ITALIE
-- **Indemnité :** 3 003,87 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 18/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246089](https://mon-vie-via.businessfrance.fr/offres/246089)
-
-**Description du poste**
-
-vous serez le relais de Conseils-Plus en Italie, après une phase de formation de 4 à 6 mois à Paris pour maîtriser les outils, méthodologies et solutions SAP du cabinet.
-
-Vos missions principales seront :
-
-Développement commercial et expertise locale
-Participer à la création de contenus et de démonstrations pour promouvoir les solutions SAP Finance et Comptabilité.
-Réaliser des missions d’avant-vente, de prospection et de suivi client en Italie.
-Contribuer au développement de l’expertise locale en collaboration avec la direction.
-Accompagnement des clients
-Avec la direction de Conseils-Plus Italie, vous travaillerez sur les activités de développement commercial sur la zone Afrique francophone :
-
-Intervenir chez les clients pour les accompagner dans la mise en œuvre de SAP S/4HANA  en appliquant la méthodologie du cabinet.
-Piloter des phases clés des projets (recueil des besoins, paramétrage, recette, formation des utilisateurs).
-Assurer le relais entre les équipes locales et celles basées en France.
-
-**Profil recherché**
-
-Notre profil idéal
-Vous êtes diplômé(e) d’un Master ou équivalent BAC+5 d’une école de commerce ou d’ingénieur avec une spécialisation en Finance, Comptabilité ou Contrôle de gestion.
-Idéalement vous bénéficiez d’une première expérience (stage ou CDD) en comptabilité, audit, gestion d’entreprise ou utilisation de SAP.
-Vous êtes doté(e) d’un bon esprit d’analyse et de synthèse.
-Vous savez allier autonomie et esprit d’équipe.
-Vous avez une appétence pour les outils ERP et la transformation digitale.
-Vous êtes de nationalité européenne.
-Vous parlez couramment anglais et français, l’italien est apprécié.
-Enfin, si innovation, service client et gestion de projet résonnent en vous, vous êtes au bon endroit !
 
 </details>
 
