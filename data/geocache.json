@@ -455,5 +455,10 @@
   },
   "entreprise|totalenergies raffinage chimie|bruxelles|belgique": null,
   "entreprise|jolt capital|montreal -qc|canada": null,
-  "entreprise|cofidis|varsovie|pologne": null
+  "entreprise|cofidis|varsovie|pologne": null,
+  "entreprise|gie axa|chicago         -il-|etats-unis": null,
+  "ville|chicago         -il-|etats-unis": {
+    "lat": 41.8755616,
+    "lon": -87.6244212
+  }
 }
