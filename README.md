@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **15/10/2026 04:04:28**, 86 offre(s) actuellement en ligne.
+Dernière vérification : **15/10/2026 04:47:26**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4588,83 +4588,6 @@ Pourquoi nous rejoindre ?
 - Des responsabilités variées mêlant terrain, opérations, stratégie, finance, développement commercial et expérience client. 
 - Un environnement où les idées sont encouragées et peuvent être mises en œuvre rapidement. 
 - Une véritable opportunité d'accélérer votre développement professionnel au sein d'un groupe familial, dynamique et en forte croissance à l'international, offrant de nombreuses perspectives d'évolution.
-
-</details>
-
-<details>
-<summary><strong>Finance controller (H/F)</strong> · ALSTOM TRANSPORT SA · COPENHAGUE, DANEMARK · 3 662,65 €/mois</summary>
-
-- **Entreprise :** ALSTOM TRANSPORT SA
-- **Lieu :** COPENHAGUE, DANEMARK
-- **Indemnité :** 3 662,65 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 14/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245914](https://mon-vie-via.businessfrance.fr/offres/245914)
-
-**Description du poste**
-
-Could you be the full-time Finance Support in Denmark we’re looking for?
-
-
-Your future role
-
-Take on a new challenge and apply your financial analysis and coordination expertise in a cutting-edge field. You’ll work alongside dynamic, collaborative, and detail-oriented teammates.
-
-You'll play a key role in ensuring the financial health and operational efficiency of our projects. Day-to-day, you’ll work closely with teams across the business (Project Finance, Local Danish Finance, and International Project Management Work Package), support external customer invoicing, and much more.
-
-You’ll specifically take care of cash flow forecasting and reporting, but also support financial structures for new service projects.
-
-We’ll look to you for:
-
-Supporting the external customer invoicing process
-
-Regular follow-up of external cash-in activities
-
-Preparing weekly cash-in forecasts in Polaris
-
-Contributing to financial month-end closures
-
-Supporting the annual budget process and group forecasts
-
-Preparing adjustments for advance payment guarantees
-
-Managing foreign currency hedging processes in Denmark
-
-Providing local finance support for Danish units of the SA project (SAP, Planisware)
-
-Consolidating and controlling the international Project Management Work Package
-
-Delivering ad-hoc analysis and support for the MA project
-
-**Profil recherché**
-
-All about you
-
-We value passion and attitude over experience. That’s why we don’t expect you to have every single skill. Instead, we’ve listed some that we think will help you succeed and grow in this role:
-
-Currently pursuing a degree in business administration, finance, or a related field
-
-Experience in project organizations is a plus
-
-Familiarity with project management methodologies
-
-Proficiency with tools such as Excel, PowerPoint, SAP, and Planisware
-
-Strong analytical skills and attention to detail
-
-Proactive communication abilities within an international team
-
-Ability to manage multiple tasks and deadlines effectively
-
- 
-
-You don’t need to be a train enthusiast to thrive with us. We guarantee that when you step onto one of our trains with your friends or family, you’ll be proud. If you’re up for the challenge, we’d love to hear from you!
-
- 
-
-Important to note
-
-As a global business, we’re an equal-opportunity employer that celebrates diversity across the 63  countries we operate in. We’re committed to creating an inclusive workplace for everyone.
 
 </details>
 
