@@ -1277,16 +1277,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Au sein de l’équipe Commandes et Facturation, le/la VIE apportera un support opérationnel dans la gestion des commandes fournisseurs et de la facturation clients pour plusieurs entités internationales. Il participera au suivi des commandes, des factures et des paiements dans SAP, à la coordination avec les équipes locales et internationales, ainsi qu’à certaines activités de suivi financier, telles que le reporting, le suivi budgétaire et les indicateurs de performance de l'entité luxembourgeoise.",
     "creationDate": "2026-10-09T09:58:23Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1347,16 +1340,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\nProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers.\n\nPoste et missions :\nProcapital propose des prestations de sous-traitance de négociation, conservation et tenue de comptes titres pour des clients institutionnels en Belgique.\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Initiation des dossiers de transferts de titres entrants et sortants avec les contreparties\n- Gestion des transferts internes\n- Mise en place des instructions de transfert sur le marché\n- Suivi du dénouement des transferts\n- Traitement des réconciliations titres\n- Traitement des demandes clients\n- Participation à des réflexions ayants pour but l’amélioration de l’efficacité et productivité interne (amélioration de procédures, identification d’automatisations complémentaires…)",
     "creationDate": "2026-10-08T15:27:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1613,23 +1599,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "259"
+      "[\"180\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Corporate Access est un service intégré au sein des salles des marchés d'ODDO BHF Securities et destiné à mettre en relation des sociétés cotées européennes avec des investisseurs institutionnels français et étrangers. Cela prend la forme de roadshows, composés de meetings (One-to-One, One-to-Few, Group meetings) entre sociétés de gestion et des sociétés cotées, de road trip, de visites de site, de forums.\r\nAu sein de l'organisation globale des opérations d’ODDO BHF Corporates &amp; Markets sur les marchés Equity, vos principales missions seront les suivantes : \r\n•Organisation des roadshows (emailings, contacts avec des Corporates et la base clients, mise à jour de base de données (CRM))\r\n•Organisation des événements avec nos analystes (roadshow des analystes, visioconférence thématiques hebdomadaires).\r\nSelon le sérieux et la fiabilité du volontaire, possibilités d’évolution et de prises de responsabilité.\r\n•Aide à l’organisation des forums (création de save-the-date/invitations, relation avec les prestataires, gestion de la base de données et des relations clients, statistiques)\r\nVotre équipe et votre environnement\r\nVous serez basé(e) à Francfort et intégrerez une équipe jeune et dynamique présente en France (Paris et Lyon), à Francfort, à Amsterdam et à New York. Au regard du champ d’application du poste, vous serez également amené à échanger fréquemment avec des interlocuteurs présents dans toutes nos plateformes Equity (Tunisie, Allemagne, Pays-Bas, Espagne, Etats-Unis).\r\nEn tant que collaborateur au sein de l’équipe Corporate Access, vous intégrerez l’organisation d’un intermédiaire de marché et serez :\r\n- d’une part au contact des investisseurs institutionnels (que comprends notamment ODDO BHF AM et ODDO BHF BP), nos clients pris en charge par nos équipes de vente,\r\n- d’autre part au contact des managements et équipes des Relations Investisseurs des sociétés cotées, couverte par nos analystes sell-side.\r\nCette double exposition vous permettra d’appréhender les différents métiers qui composent le brokerage et de comprendre leur apport et leur besoin",
     "creationDate": "2026-10-08T07:14:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -2117,16 +2089,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Alpineo Consulting est un groupe de conseil IT indépendant d’environ 150 collaborateurs, présent en France (Lyon, Paris), en Suisse (Genève), en Belgique, au Luxembourg, au Portugal et prochainement en Espagne.\r\n\r\nNos consultants accompagnent nos clients sur leurs projets IT les plus stratégiques. En pleine croissance, le groupe structure ses fonctions support et renforce aujourd’hui son équipe RH & Finance Groupe, basée à Genève.\r\n\r\nLe poste\r\n\r\nVous êtes au cœur du pilotage financier du groupe et êtes le garant de la fiabilité, de la qualité et de la disponibilité des données financières.\r\n\r\nVotre rôle couvre l’ensemble des cycles financiers : facturation, encaissements, clôtures, trésorerie, reporting et forecast. Vous produisez les analyses permettant à la direction et aux Business Managers de disposer d’une vision claire de la performance et de prendre leurs décisions sur la base de données fiables.\r\n\r\nIl s’agit d’un poste très opérationnel et autonome, avec une forte dimension de construction. Vous aurez pour mission de structurer les processus financiers du groupe, d’harmoniser les pratiques entre les différents pays et de mettre en place des outils et automatisations permettant de gagner en fiabilité et en efficacité.\r\n\r\nVous travaillez en lien étroit avec la Direction, les Business Managers, les équipes RH et les cabinets comptables externes des différents pays.\r\n\r\nMission 1 — Facturation & encaissement — 30 %\r\n\r\nVous devez veiller au bon fonctionnement du cycle de facturation et du suivi des encaissements.\r\n\r\n- Piloter le cycle de facturation, de la validation des temps prestés jusqu’à l’encaissement.\r\n- Construire et maintenir un calendrier mensuel de facturation par client, entité et pays.\r\n- Contrôler les temps saisis, bons de commande, tarifs et conditions contractuelles avant émission des factures.\r\n- Émettre, déposer et suivre les factures sur les portails clients.\r\n- Identifier et résoudre rapidement les factures rejetées, bloquées ou contestées.\r\n- Organiser et suivre les relances clients jusqu’à l’encaissement.\r\n- Suivre la balance âgée, le DSO et les prestations non facturées.\r\n- Identifier les risques d’impayés ou de retard et les communiquer rapidement à la Direction et aux Business Managers concernés.\r\n- Mettre en place des indicateurs permettant de suivre la qualité et la performance du cycle de facturation.\r\n\r\nObjectif : sécuriser et fluidifier le cycle de facturation et réduire durablement les délais entre prestation, facturation et encaissement.\r\n\r\nMission 2 — Contrôle de gestion & FP&A — 25 %\r\n\r\nVous produisez les analyses financières nécessaires au pilotage de l’activité du groupe.\r\n\r\n- Produire le reporting financier mensuel du groupe et de ses différentes entités.\r\n- Construire et analyser les P&L par entité, Business Manager, client et mission.\r\n- Suivre les principaux indicateurs économiques de l’activité de conseil :\r\nTJM \r\ntaux d’activité \r\nintercontrat \r\nmarge par consultant \r\nrevenu par ETP \r\nbacklog \r\nDSO\r\n- Identifier les écarts entre réalisé, budget et forecast et en analyser les causes.\r\n- Préparer les budgets et forecasts.\r\n- Réaliser des analyses de scénarios et de sensibilité.\r\n- Transformer les données financières en analyses et recommandations concrètes pour la Direction.\r\n- Construire avec l’équipe RH des indicateurs communs : effectifs, masse salariale, coûts chargés, revenu et rentabilité par ETP.\r\n- Fiabiliser progressivement les données et les méthodes de reporting entre les différents pays.\r\n\r\nObjectif : fournir chaque mois une vision financière claire, fiable et exploitable de la performance du groupe.\r\n\r\nMission 3 — Comptabilité, clôtures & trésorerie — 20 %\r\n\r\nVous assurez le suivi et la coordination opérationnelle des principaux cycles comptables et de trésorerie.\r\n\r\n- Construire et maintenir un prévisionnel de trésorerie glissant pour l’ensemble des entités.\r\n- Suivre les encaissements et décaissements prévisionnels.\r\n- Contrôler les factures fournisseurs et préparer les campagnes de paiement.\r\n- Analyser les rapprochements bancaires et identifier les éventuelles anomalies.\r\n- Préparer et suivre les provisions, factures à établir et autres écritures nécessaires aux clôtures.\r\n- Contrôler les opérations intercompagnies et assurer leur cohérence entre les entités.\r\n- Préparer et suivre les clôtures mensuelles et annuelles selon un calendrier groupe.\r\n- Centraliser les éléments nécessaires aux clôtures avec les cabinets comptables externes.\r\n- Suivre les délais et la qualité des travaux comptables réalisés par les partenaires externes.\r\n- Préparer les fichiers nécessaires aux virements de paie des différents pays et effectuer les virements mensuels dans le respect des échéances.\r\n\r\nObjectif : garantir des clôtures fiables et ponctuelles ainsi qu’une visibilité régulière sur la situation de trésorerie du groupe.\r\n\r\nMission 4 — Coordination financière — 15 %\r\n\r\nVous êtes le point de référence opérationnel sur les cycles financiers du groupe.\r\n\r\n- Faire appliquer les calendriers de facturation et de clôture auprès des différents interlocuteurs.\r\n- Collecter et contrôler les informations nécessaires à la production des reportings.\r\n- Suivre les actions nécessaires à la résolution des écarts ou anomalies identifiés.\r\n- Communiquer de manière claire, synthétique et proactive avec la Direction.\r\n- Accompagner les Business Managers dans la compréhension des données financières liées à leur activité.\r\n-Formaliser les processus, règles de gestion et responsabilités de chaque étape des cycles financiers.\r\n- Garantir une information financière homogène entre les différentes entités du groupe.\r\n\r\nObjectif : assurer une circulation fluide et fiable de l’information financière entre les équipes opérationnelles, les fonctions support et la Direction.\r\n\r\nAxe transverse — Transformation, automatisation & IA — 10 %\r\n\r\nDans un contexte de structuration et de croissance, vous êtes force de proposition pour améliorer les processus financiers.\r\n\r\n- Cartographier les principaux processus financiers du groupe.\r\n- Identifier les tâches manuelles, les doublons et les principaux risques d’erreur.\r\n- Proposer et mettre en place des automatisations simples et à forte valeur ajoutée.\r\n- Automatiser progressivement certains contrôles, reportings, rapprochements et processus de relance.\r\n- Identifier des cas d’usage pertinents de l’IA pour améliorer la productivité et la fiabilité de la fonction Finance.\r\n- Tester et déployer les solutions pertinentes.\r\n- Mesurer les gains obtenus : temps gagné, réduction des erreurs, amélioration des délais.\r\n- Documenter les procédures, règles de validation et modes opératoires.\r\n\r\nObjectif : rendre les processus financiers plus fiables, plus simples et moins dépendants des tâches manuelles.\r\n\r\nVos 6 premiers mois\r\n\r\nLes priorités des six premiers mois seront concrètes et mesurables :\r\n\r\n1. Sécuriser les cycles financiers\r\n2. Améliorer la qualité de la facturation\r\n3. Fiabiliser le pilotage financier\r\nMise en place d’un reporting récurrent des principaux KPI du groupe.\r\n4. Structurer le forecast\r\n5. Automatiser\r\n\r\nCe que nous recherchons\r\nFormation supérieure en finance, comptabilité, contrôle de gestion ou équivalent.\r\nExpérience de 3 à 5 ans environ sur un poste en finance d’entreprise, contrôle de gestion, FP&A, comptabilité",
     "creationDate": "2026-09-14T17:38:32Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2320,16 +2285,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "202"
+      "[\"202\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers. Dans le cadre de son développement, ProCapital recherche : \n\nUn(e) Gestionnaire Back Office « Réconciliation »\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Le contrôle des opérations titres et cash dans leur ensemble (corporate actions, trades sur actions, trades sur options, dépôt cash etc.)\n- Le contrôle des positions titres (détenues chez différents dépositaires)\n- La production de plusieurs rapports à destination des équipes du Back-office et du Management\n- La détection et le suivi des opérations à risque\n- La rédaction et mise à jour de procédures opérationnelles et processus internes\n- L’identification des incidents et éventuels dysfonctionnements, ainsi que la remontée des alertes\n- Le traitement des demandes d’information des clients et du service interne relation clientèle\n- L’évolution des processus et l’amélioration des systèmes;",
     "creationDate": "2026-09-30T13:58:43Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3300,79 +3258,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "49",
-      "86",
-      "155",
-      "208",
-      "234",
-      "262",
-      "264",
-      "326",
-      "340",
-      "346"
+      "[\"49\",\"86\",\"155\",\"208\",\"234\",\"262\",\"264\",\"326\",\"340\",\"346\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "49",
-        "specializationParentId": "239",
-        "specializationLabel": "Sciences",
-        "specializationLabelEn": "Sciences"
-      },
-      {
-        "specializationId": "86",
-        "specializationParentId": "81",
-        "specializationLabel": "Pharmacie",
-        "specializationLabelEn": "Pharmaceutics"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "234",
-        "specializationParentId": "227",
-        "specializationLabel": "Affaires et études européennes",
-        "specializationLabelEn": "European affairs and studies"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      },
-      {
-        "specializationId": "340",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit des affaires",
-        "specializationLabelEn": "Droit des affaires"
-      },
-      {
-        "specializationId": "346",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit de la santé",
-        "specializationLabelEn": "Droit de la santé"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Details of the mission: \nThe Medical Affairs Analyst is responsible for leading and coordinating Medical Affairs activities that support the safety, performance, and regulatory compliance of medical devices throughout their lifecycle. This role serves as both a scientific contributor and project leader, driving cross-functional initiatives related to EU MDR compliance, Clinical Evaluation, Post-Market Surveillance, and product lifecycle management.\nThe position requires effective project management of MDR-related deliverables, coordination of global stakeholders, and leadership of programs aimed at maintaining regulatory compliance and continuous improvement of Medical Affairs processes. \n\nRole and responsibilities:\n•\tProvide medical and scientific support for assigned medical device portfolios throughout the product lifecycle.\n•\tConduct literature reviews, clinical data assessments, and state-of-the-art evaluations.\n•\tDevelop and maintain CEPs, CERs, and related clinical evidence documentation.\n•\tCoordinate EU MDR clinical, PMS, PMCF, and PSUR deliverables across product families.\n•\tEvaluate complaints, vigilance data, literature, and emerging safety signals to support risk and benefit-risk assessments.\n•\tSupport regulatory submissions, product lifecycle activities, audits, and interactions with Notified Bodies and Competent Authorities.\n•\tCollaborate with Regulatory, Quality, R&D, Clinical, Risk Management, Toxicology, Biocompatibility, and Vigilance teams.\n•\tManage project plans, timelines, dependencies, risks, metrics, and stakeholder updates.\n•\tMonitor regulatory and standards developments and contribute to process improvement and team knowledge-sharing.\n\nBenefits to join your team:\n•\tGain hands-on experience in global Medical Affairs and EU MDR activities across the medical device lifecycle.\n•\tWork on meaningful projects that support patient safety, product performance, and regulatory compliance.\n•\tCollaborate with experienced, cross-functional, and international teams.\n•\tBuild expertise in clinical evidence, post-market surveillance, risk management, and regulatory strategy.\n•\tDevelop project management, stakeholder engagement, and professional communication skills in a supportive team environment.",
     "creationDate": "2026-09-30T07:57:47Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -6058,79 +5946,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "4",
-      "5",
-      "8",
-      "9",
-      "199",
-      "200",
-      "201",
-      "202",
-      "203",
-      "259"
+      "[\"4\",\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"202\",\"203\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "4",
-        "specializationParentId": "89",
-        "specializationLabel": "Assurances",
-        "specializationLabelEn": "Insurance"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "203",
-        "specializationParentId": "19",
-        "specializationLabel": "Chargé / Conseiller clientèle bancaire particuliers / professionnels",
-        "specializationLabelEn": "Client advisor (banking)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\n!Join a Dynamic Team at Cleeven!\n\n\n\nAre you ready to join a fast-growing company where your work truly matters? Do you want to contribute to strategic compliance initiatives that shape the future of financial institutions?\n\n\n\nAt Cleeven, we combine energy, innovation, and purpose. Join a team that values your development and gives you the tools to grow while working on impactful projects.\n\n\n\nWHO ARE WE ?\n\n\n\nCleeven is an international engineering consulting firm built on two core principles:\n\nOUR MISSION: To enhance self-awareness and the awareness of those around us.\nOUR BELIEF: Europe’s leadership in innovation depends on the excellence of its engineers and professionals.\n\n\nAt Cleeven, our consultants work hand-in-hand with clients to manage compliance challenges, mitigate risks, and ensure alignment with evolving regulatory demands.\n\nPoste et missions :\n\nYOUR ROLE AS A COMPLIANCE ANALYST (KYC/KYT/AML)\n\n\n\nYou’ll play a key role in helping financial institutions meet regulatory expectations and safeguard their operations. Your responsibilities will include:\n\nMonitoring regulations: Stay on top of regulatory developments in the financial sector and assess their impact.\nKYC/KYT/AML analysis: Review client profiles, monitor transactions, and flag suspicious activity in accordance with legal standards.\nRisk assessment and mitigation: Identify gaps, evaluate compliance risks, and implement mitigation strategies.\nProcess improvement: Propose and deploy enhancements to compliance frameworks and internal procedures.\nInternal controls & audits: Support internal audits and ensure robust compliance practices are in place.\nAwareness and training: Prepare training materials, raise employee awareness, and promote compliance culture.\nBridge business and regulation: Translate complex regulatory language into actionable processes for operational teams.",
     "creationDate": "2025-09-24T10:46:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -6667,37 +6485,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "259",
-      "318",
-      "320"
+      "[\"180\",\"259\",\"318\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. \r\n\r\nWe invite you to join us as a VIE in our Custody Services Department.\r\n\r\nThe candidate will be in the position to: \r\n•\tProcess receipt of Income payments within agreed service standards.\r\n•\tFull adherence to the team’s control functions, including operations/events and end-of-the-day checklists.\r\n•\tAssist with the day-to-day administrative tasks of investigation/amendment and clearance of reconciling items in ensuring accurate processing.\r\n•\tEnsure that queries raised/assigned to individuals are answered within agreed service standards.\r\n•\tEnsure on-going productivity by providing back-up relief for staff who are absent or on leave.\r\n•\tContinually ensure complete awareness of Client, external custodians and inter-departmental Service Level Standards / Agreements and ensure compliance at all times.\r\n•\tEnsure prompt escalation of operational issues that may cause financial or reputational issues to CACEIS or its clients to Senior Officer/Assistant Manager/Manager of the team/department. \r\n•\tEstablish working relationships with people at all levels both inter departmental and across the wider firm.\r\n•\tProvide feedback on agent network and vendor performance on any deviations from their service level agreement with CACEIS.\r\n•\tAble to demonstrate capability to perform validation on common task.\r\n\r\nGood Reasons to Join Us \r\n1.\tJoin an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. \r\n2.\tDevelop stimulating working relationships and challenge your ideas in an environment conducive to innovation. \r\n3.\tExpand your professional horizons with numerous mobility opportunities within the group. \r\n4.\tThrive in a company that respects its employees and clients.  \r\n5.\tTake advantage of ongoing training to enhance your skills and boost your employability. \r\n6.\tOpportunity to work in a multicultural environment and engage with a diverse team.",
     "creationDate": "2026-09-17T09:25:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
