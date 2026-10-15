@@ -2271,16 +2271,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans le cadre de son développement international, CAPTIVEA recherche un(e) V.I.E pour accompagner le pilotage administratif, comptable et financier de ses filiales.\r\n\r\nRattaché(e) à la Direction, le/la volontaire interviendra sur les missions suivantes :\r\n\r\n• Superviser et accompagner les responsables administratifs et comptables des différentes filiales du groupe ;\r\n • Contribuer à la qualité et à la fiabilité des opérations comptables ainsi qu'au respect des procédures internes ;\r\n • Participer au suivi budgétaire et à la gestion de la trésorerie des filiales ;\r\n • Contribuer à la production et à l'analyse des reportings financiers ;\r\n • Participer à l'amélioration continue des processus administratifs et comptables ;\r\n • Accompagner les projets d'optimisation des outils de gestion, notamment l'ERP et les solutions d'automatisation ;\r\n • Collaborer avec les équipes internationales dans un environnement multiculturel.\r\n\r\nCette mission offre une forte exposition internationale et l'opportunité de contribuer activement à la structuration et au développement d'un groupe en croissance.",
     "creationDate": "2026-10-01T12:15:19Z",
     "missionStartDate": "2027-01-01T00:00:00",
