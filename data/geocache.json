@@ -462,5 +462,10 @@
     "lon": -87.6244212
   },
   "entreprise|caceis|dublin|irlande": null,
-  "entreprise|amaris france sas|barcelone|espagne": null
+  "entreprise|amaris france sas|barcelone|espagne": null,
+  "entreprise|thermal ceramics de france|kempten|allemagne": null,
+  "ville|kempten|allemagne": {
+    "lat": 47.7267063,
+    "lon": 10.3168835
+  }
 }
