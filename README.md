@@ -8,88 +8,88 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **15/10/2026 08:20:42**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **15/10/2026 09:18:14**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
 
 <details>
-<summary><strong>Junior Underwriter / Actuarial Analyst (H/F)</strong> · GIE AXA · CHICAGO         -IL-, ETATS-UNIS · 3 813,78 €/mois</summary>
+<summary><strong>Fund Accountant (H/F)</strong> · CACEIS · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
 
-- **Entreprise :** GIE AXA
-- **Lieu :** CHICAGO         -IL-, ETATS-UNIS
-- **Indemnité :** 3 813,78 €/mois
-- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
-- **Publiée le :** 14/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est axé sur le contrôle de gestion généraliste et la finance d'entreprise, tandis que l'offre chez AXA cible spécifiquement un rôle d'analyste actuariel et de souscription d'assurance aux États-Unis. Bien que ses compétences en analyse financière et Excel correspondent, l'absence de formation ou d'expérience en actuariat constitue un écart important.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247082](https://mon-vie-via.businessfrance.fr/offres/247082)
+- **Entreprise :** CACEIS
+- **Lieu :** DUBLIN, IRLANDE
+- **Indemnité :** 3 520,38 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 15/10/2026
+- **Compatibilité avec ton profil :** 60 % — Le profil de Nathan présente de solides bases en comptabilité et finance ainsi qu'un excellent niveau d'anglais, ce qui correspond aux attentes. Cependant, l'offre concerne un poste de Fund Accountant en milieu bancaire/fonds d'investissement à Dublin, alors que le candidat recherche plutôt un poste de contrôleur de gestion / FP&A, de préférence en Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247086](https://mon-vie-via.businessfrance.fr/offres/247086)
 
 **Description du poste**
 
-We are seeking a highly motivated and detail-oriented Junior Underwriter / Actuarial Analyst to join our Underwriting team. This entry-level role is designed for a professional with 1-3 years of experience who is eager to learn and contribute to the assessment, analysis, and management of risks associated with travel Assistance and insurance products, with a foundational understanding of actuarial principles. The ideal candidate will support senior underwriters and the business in ensuring profitability, regulatory compliance, and pricing exercise.
+We are CACEIS 
+We are an asset servicing banking group of Crédit Agricole  dedicated to asset managers, insurance companies, pension funds, banks, private equity and real estate funds, brokers and corporate clients. Through offices across Europe, North and South America and Asia, CACEIS offers a broad range of services covering execution, clearing, forex, securities lending, custody, depositary and fund administration, fund distribution support, middle office outsourcing and issuer services. 
+With assets under custody of €4.6 trillion and assets under administration of €2.2 trillion, we are a European leader in asset servicing and one of the major players worldwide. 
 
-Dimensions of the role
-•	The Underwriter will report to the Underwriting Manager
-•	He/she will interact with Commercial department, Operation/Work force management, Finance, Data, Product, Legal, Captive Manager and other UWs.
-•	Support Pricing activity, Actuarial, Underwriting and Reinsurance
-•	Preparing analysis, evaluating Assistance, Insurance and reinsurance quotes. 
-•	Work to approve the coverages requested within specified underwriting authority, either as submitted or on a modified basis, or decline the risk in its entirety; refer to recommended action if risk exceeds underwriting authority.
-•	Identify and suggest creative underwriting solutions through knowledge of various options, Reference Based Pricing vendors.
-•	Prepare pricing models according to guidelines and operating procedures
+What is the opportunity? 
 
-Key responsibilities
-Risk Assessment & Underwriting Support:
-	Assist in evaluating travel insurance applications, collecting data, and supporting risk exposure assessment.
-	Help analyze financial, medical, and travel-related information to inform underwriting decisions.
-	Learn and apply underwriting guidelines consistently under supervision.
-Policy Management Support:
-•	Support the issuance, renewal, and modification of travel insurance policies.
-•	Assist in monitoring claims trends and loss ratios, providing data for underwriting strategy adjustments.
-•	Collaborate with claims and actuarial teams to gather data for optimizing pricing and coverage.
+The Fund Accountant t will be responsible for oversight checks and controls of daily NAV valuations completed by the FA production team, ensuring the timeliness and accuracy of the final NAV.  The successful will be involved with client reporting across the Fund Accounting team to produce daily, weekly and ad hoc reporting.  They will provide support to the Team Manager in a client centric team. 
 
-Actuarial Analysis Support:
-•	Assist the actuarial team with data collection, validation, and preliminary analysis for pricing and reserving.
-•	Support the development and maintenance of actuarial models under guidance.
-•	Contribute to experience studies and profitability analysis for travel insurance products.
+What will you do? 
+- Organise and own personal daily work schedule of allocated funds and reporting. This will include balancing NAV oversight responsibilities with reporting deliverables    
+- Provide Fund Accounting support to allocated clients 
+- Supervise the accuracy, timeliness and completeness of all processes 
+- Monitors key quality, productivity and risk measures and ensure that they are met or exceeded 
+- Adhere to comprehensive operating procedures that ensure the accuracy, timeliness and completeness of all processes 
+- Support team manager with project and client requests 
+- Minimise processing errors and financial losses 
+- Documentation of business support procedures 
+- Coordinate and administer assignments and maintain schedules 
+- Demonstrate awareness of technical requirements for accounting products 
+- Build a cohesive team spirit within the Fund Accounting team that will foster a clear client service focus, operational efficiency and an error free environment. 
 
-Compliance & Regulatory Adherence Support:
-•	Learn and assist in ensuring all underwriting activities comply with regulatory and legal requirements in relevant markets.
-•	Stay informed about changes in insurance regulations and support the team in adjusting underwriting practices.
-•	Participate in data gathering for audits and compliance reporting.
+What do you need to succeed? 
+Must-have 
+- Post-secondary education in accounting/finance or equivalent 
+- Previous financial services industry experience in an operations environment 
+- Teamwork and cooperation oriented mindset 
+- Good communication skills 
+- Good business acumen  
+- Proven analytical thinking skills 
+- Risk management and mitigation focus 
+- Proven organisational and time management skills. 
 
-Market Analysis & Product Development Support:
-•	Assist in gathering data on market trends and competitor offerings to identify opportunities for product enhancements.
-•	Support the analysis of insights and recommendations for developing new travel insurance products and features.
-•	Contribute to the development of underwriting strategies to maintain a competitive edge.
+Nice-to-have 
+- Industry, accounting or other recognised accredited program would be an asset 
+- Client-facing experience  
+- Good presentation skills. 
 
-Process Improvement:
-•	Identify and suggest minor areas for operational efficiencies and contribute to process improvements within the underwriting and actuarial functions.
-•	Learn to leverage technology and data analytics to enhance underwriting accuracy and speed.
-
-Organisational Summary 
- 
-AXA Partners is AXA’s global entity dedicated to co-building and distributing with partners simple, customer-centric, and innovative solutions that combine insurance, assistance, and other value-added services.
-As an integral part of the Group Innovation unit, AXA Partners also plays a key role in the deployment of disruptive solutions emerging from this innovation ecosystem. 
-The combination of both missions’ positions AXA Partners today as a key pillar of AXA’s Payer-to-Partner strategy. 
-With the support of operating units established in 39 countries, our more than 9,000 employees are at the service of our customers anywhere, anytime.
-In 2020, AXA Partners’ revenues reached €2.98 billion.
+Why join CACEIS? 
+We thrive on the challenge to be our best - progressive thinking to keep growing and working together to deliver trusted advice to help our clients thrive and communities prosper.  We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual. 
+- Leaders who support your development through coaching and managing opportunities 
+- Opportunities to work with the best in the field 
+- Ability to make a difference and lasting impact 
+- Work in a dynamic, collaborative, progressive, and high-performing team 
+- A world-class training program in financial services 
+- Flexible working options fully supported.
 
 **Profil recherché**
 
-Qualifications & Experience:
-•	Bachelor’s degree in Actuarial Science, Mathematics, Statistics, Finance, Business, or a related quantitative field.
-•	1-2 years of experience in an insurance, underwriting, or actuarial support role, or a related field.
-•	Foundational understanding of travel insurance products, policies, and market dynamics, or a strong willingness to learn.
-•	Familiarity with data analysis tools (e.g., Excel, Power BI) and an eagerness to learn underwriting/actuarial software.
-•	Awareness of regulatory compliance principles and best practices.
+What do you need to succeed? 
+Must-have 
+- Post-secondary education in accounting/finance or equivalent 
+- Previous financial services industry experience in an operations environment 
+- Teamwork and cooperation oriented mindset 
+- Good communication skills 
+- Good business acumen  
+- Proven analytical thinking skills 
+- Risk management and mitigation focus 
+- Proven organisational and time management skills. 
 
-Key Competencies:
-•	Excellent analytical and decision-making skills.
-•	Strong negotiation and relationship-building abilities.
-•	Effective communication and presentation skills.
-•	High attention to detail and organizational skills.
-•	Ability to work independently and as part of a team in a fast-paced environment.
+Nice-to-have 
+- Industry, accounting or other recognised accredited program would be an asset 
+- Client-facing experience  
+- Good presentation skills.
 
 </details>
 
