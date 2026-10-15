@@ -451,16 +451,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Poste et missions:\n\nPionnier du crédit à distance, COFIDIS Group a connu depuis plusieurs décennies un développement important et continu de ses activités, à la fois en termes d’expansion internationale et de diversification de son offre et de ses services. Nous nous appuyons également sur les savoir-faire complémentaires de notre actionnaire majoritaire : le Groupe Crédit Mutuel Alliance Fédérale.\n\nLa filiale de COFIDIS en Pologne est la plus jeune de notre Groupe implanté dans 9 pays en Europe.\nNous recrutons pour notre filiale polonaise un V.I.E en Finance (Comptabilité / Contrôle de Gestion / Trésorerie) dans le but d’accompagner notre activité.\n\nSous la responsabilité du Controlling Manager, et à l'issue de votre période de formation, vous prendrez en charge des activités financières. \nPour cela, vous :\n• Produisez des rapports hebdomadaires, mensuels, trimestriels et annuels, ainsi que d’analyses ponctuelles à la demande.\n• Participez au processus budgétaire.\n• Analysez les écarts en lien avec les activités au service de la performance.\n• Préparez les rapports, d’analyses et de présentations liés à l’activité de l’entreprise, destinés au comité de direction et aux comités.\n• Garantissez la qualité et la fiabilité des données, rapports et présentations produits.\n• Automatisez les rapports existants dans une logique d'amélioration continue.\n• Participez aux audits financiers et au contrôle interne.",
     "creationDate": "2026-10-13T14:34:38Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -864,16 +857,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5"
+      "[\"5\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As part of the Revenue and Market Analytics team within Revenue Operations, your mission will be to deliver robust and intuitive business insights that empower Criteo’s global leaders to shape commercial strategy and strengthen market positioning.\n\nYou will use a data-driven approach to analyse business performance and market trends, uncover actionable insights, and translate complex findings into clear narratives that inform decision-making. This role requires comfort working with large, complex datasets and the curiosity to explore data creatively.\n\n\n\n\n\nYour Mission\n\n\nProvide analytical insights on Criteo’s global performance, market dynamics, and competitive landscape \nIdentify growth opportunities and risks, and translate findings into actionable recommendations for C-level stakeholders \nLeverage internal and external data to assess the potential of clients and prospects across existing and new business opportunities \nAnalyze first-party and market data, consumer behavior and intent signals, and industry trends to contextualize Criteo’s performance",
     "creationDate": "2026-09-16T08:28:57Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1641,16 +1627,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Context:\n\nAs one of Engie S&EM’s front divisions (Supply & Energy Management), the mission of Supply Portfolio Management (SPM) is to manage energy risks for Engie Energy Supply activities worldwide. As part of Germany business platform, the Supply Portfolio Management team (SPM) is at the heart of energy management of Engie’s german B2B portfolio.\n\nThe SPM team interacts with several internal teams such as: sales teams, other SPM’s teams, Trading, IT, Finance, Risk, Back Office…\n\nSPM Germany is currently looking for young motivated Suppply Portfolio and Grid managers ready to dig into SPM operations and support our growth ambitions. The mission is intended for 2 years, with a start in January 2027.\n\nRole:\n\nAs a supply portfolio & grid manager in SPM Germany, you will gradually perform the following tasks:\n\n•\tYou support the sales offering activity, structure and price standard and non-standard offers: by identifying potential risks and ensuring use of adequate and up to date costing models, risk bricks and data availability;\n•\tYou actively assess and manage commodity risks linked to the dynamics of a sales portfolio, for all its commodities – Power, Natural gas, Certificates - meaning operate and optimize costing, forecasting, sourcing, and hedging strategies, within a defined mandate;\n•\tYou operate various strategies to reduce, internalize or externalize risks, towards and in collaboration with stakeholders (Trading, other BUs);\n•\tIn collaboration with forecasting experts, you monitor and regularly review the expected consumption of your portfolio.\n•\tYou report the portfolio financials linked to the energy management results and performance to the business platform;\n•\tYou manage the market communication with Transport & Distribution network operators for balancing and metering: declaration of our customer’s connection points, scheduling of nominations, retrieval and control of official metering data.\n•\tYou use and challenge data, models, processes & tools to answers supplier’s vision and ambition;  \n•\tYou are involved in the development of the tools, models, process, and portfolio/data representation of all commercial offer's portfolio;\n•\tYou manage contacts with multiple stakeholders to which you present and explain pricing and energy management.",
     "creationDate": "2026-10-07T15:35:42Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1963,65 +1942,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "259",
-      "318",
-      "320",
-      "324"
+      "[\"5\",\"8\",\"9\",\"200\",\"259\",\"318\",\"320\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "I – Description du groupe Amethis\r\nLe groupe Amethis est un gestionnaire de fonds d’investissement dédié au continent africain & la région MENA. Amethis investit en capital-développement dans des entreprises en forte croissance dans une diversité de secteurs. Amethis a investi dans des sociétés présentes dans plus de 20 pays et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.\r\n\r\nII – Contexte AIFM (Aspect règlementaire)\r\nAmethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissement alternatifs (GFIA). Créée en 2017, elle est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg.\r\n\r\nIII – Rôle / Mission\r\nLe poste sera rattaché au Finance & Risk Manager, avec une exposition régulière au comité exécutif de l’AIFM, aux équipes d’investissement, aux investisseurs, aux auditeurs et aux prestataires des fonds.\r\nMissions principales :\r\nRisk Management\r\nInvestment process : rédaction des notes de risque pour chaque opération présentée en comité d’investissement, puis suivi du risque de chaque participation jusqu’à la sortie.\r\nConformité et limites : contrôle ex ante et ex post de la conformité des opérations aux documents des fonds (PPM, LPA) et aux limites de risque (concentration pays, secteur et émetteur, devise, levier, liquidité).\r\nRisk Report : élaboration du Risk Report semestriel couvrant l’ensemble des fonds, et des supports risk présentés au comité exécutif et au Conseil d’administration de l’AIFM.\r\nRéglementaire : contribution aux reportings réglementaires.\r\n\r\nFund administration\r\n\r\nOpérations des fonds : préparation des appels de fonds et des distributions (calculs par investisseur, notices, suivi des encaissements).\r\nNAV et performance : revue des NAV trimestrielles produites par l’administrateur et suivi des indicateurs de performance (TVPI, DPI, TRI).\r\nReporting investisseurs : préparation du reporting trimestriel aux investisseurs et réponses à leurs demandes ponctuelles.\r\nTrésorerie : suivi de la trésorerie des fonds et des prévisions de cash.\r\nPrestataires : coordination avec l’administrateur, le dépositaire, les banques et les auditeurs ; participation à l’audit annuel des fonds.\r\nAide au développements d’outils internes de pilotage de la performance financière / digitalisation / cost monitoring.\r\n\r\nCorporate scope\r\nArrêtés trimestriels : appui à l’arrêté des entités du groupe (AIFM, GP, holdings et bureaux de Paris, Luxembourg, Casablanca, Nairobi, Abidjan, Le Caire et Le Cap).\r\nPilotage : suivi du cash, des budgets et des atterrissages, avec analyse des écarts.\r\nIntragroupe : suivi des refacturations intragroupe et appui aux audits des sociétés du groupe.",
     "creationDate": "2026-10-07T14:09:31Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -2782,16 +2705,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "325"
+      "[\"325\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "325",
-        "specializationParentId": "19",
-        "specializationLabel": "Risk Management",
-        "specializationLabelEn": "Risk Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The VIE supports the Senior IT Risk / IAM Manager in the operational implementation and monitoring of all defined topics and ensures that all regulatory and internal requirements relating to IT risk management, segregation of duties, and access management are fulfilled in an audit proof manner. The role includes steering IAM processes and providing advisory support to the business units.\n\nRESPONSIBILITIES  : \n\n•\tAnalysis and support in defining requirements for Segregation of Duties (SoD).\n•\tIdentification, assessment, reporting, and monitoring of IT risks as well as risk‑mitigating measures in coordination with the relevant business units (2nd Line of Defence) and the Senior IT Risk / IAM Manager.\n•\tOperational monitoring of early warning indicators, including documentation and preparation of input for escalations (in particular GPS514). Process-related integration into the alert processes of upstream functions.\n•\tSupport in the preparation of regular reports, including the compilation of control and risk evidence for the relevant bodies and committees of the bank and the group (e.g., SSC, ICC).\n•\tActive and hands-on advisory support to the business units and quality assurance of 1.1 and 2.1 controls within the Internal Control System (ICS).\n•\tExecution of control activities in accordance with the ICS (2.2 controls).\n•\tSupport in the monitoring and review of outsourcing requirements from an IT risk perspective.\n•\tSupport in the creation and maintenance of the Segregation of Duties matrix and monitoring of its implementation.\n•\tExecution of recertification campaigns under the functional guidance of the Senior IT Risk / IAM Manager.\n•\tSupport in the development and maintenance of authorization models and execution of role modeling campaigns.",
     "creationDate": "2026-05-12T14:27:31Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -4378,16 +4294,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nFondée en 2010, Helexia est une force motrice dans le secteur de la transition énergétique. Sa mission est de construire des modèles énergétiques gagnants pour ses clients et pour la planète. Avec près de 400 collaborateurs, Helexia a réalisé plus de 350 projets photovoltaïques, pour une puissance installée de 198MWc. Helexia se développe dans 7 pays : France, Italie, Portugal, Espagne, Hongrie, Roumanie, et Pologne. Helexia accompagne ses clients avec des solutions innovantes, performantes et intégrées à 360° pour l'optimisation énergétique de leurs bâtiments tertiaires, industriels et commerciaux, leur permettant de réaliser leurs ambitions de réduction de l'empreinte carbone de leur entreprise grâce à une trajectoire sur mesure. Les services d'Helexia sont développés autour de quatre piliers : l'efficacité énergétique, la production d'énergie verte autoconsommée, la gestion de l'énergie et la mobilité électrique.\n\nPoste et missions :\n\nNous recherchons un(e) Contrôleur Financier Junior F/H hautement motivé(e) et techniquement compétent pour rejoindre notre équipe financière Italienne à Milan !\n\nVous serez responsable de préparer les clôtures mensuelles ainsi que les analyses de performance associées. En prenant appui sur les analyses financières, vous collaborerez avec la Direction Financière Italienne ainsi qu’avec l'équipe FP&A groupe dans l’objectif d’élaborer et de développer des études de cas d’investissements et les méthodes de contrôle et de reporting.\n\nVos principales responsabilités seront les suivantes :\n\n• Préparation des clôtures mensuelles et des reporting dans les délais exigés,\n• Edition des rapports mensuels et analyse des écarts vs le budget et les prévisions,\n• Analyse des performances et des tendances,\n• Élaboration d’études de cas afin d’accompagner nos choix d'investissement,\n• Participation active au développement de nouveaux projets et initiatives financiers,\n• Préparation d'analyses et de rapports financiers,\n• Soutien au processus budgétaire et de planification financière,\n• Maintien et développement des modèles financiers et des bases de données,",
     "creationDate": "2026-09-22T11:15:14Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -4665,317 +4574,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "2",
-      "60",
-      "62",
-      "63",
-      "64",
-      "65",
-      "66",
-      "71",
-      "73",
-      "110",
-      "112",
-      "114",
-      "133",
-      "143",
-      "144",
-      "145",
-      "149",
-      "155",
-      "158",
-      "159",
-      "160",
-      "161",
-      "168",
-      "169",
-      "205",
-      "206",
-      "207",
-      "208",
-      "213",
-      "244",
-      "245",
-      "246",
-      "247",
-      "248",
-      "249",
-      "251",
-      "327",
-      "328",
-      "329",
-      "330",
-      "331",
-      "345",
-      "355",
-      "358"
+      "[\"2\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"71\",\"73\",\"110\",\"112\",\"114\",\"133\",\"143\",\"144\",\"145\",\"149\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"205\",\"206\",\"207\",\"208\",\"213\",\"244\",\"245\",\"246\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"345\",\"355\",\"358\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "60",
-        "specializationParentId": "59",
-        "specializationLabel": "Aéronautique",
-        "specializationLabelEn": "Aeronautics"
-      },
-      {
-        "specializationId": "62",
-        "specializationParentId": "196",
-        "specializationLabel": "Bâtiment – Construction – Second Oeuvre",
-        "specializationLabelEn": "Building - Construction - Finishings"
-      },
-      {
-        "specializationId": "63",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie - Génie Chimique",
-        "specializationLabelEn": "Chemicals - Chemical Engineering"
-      },
-      {
-        "specializationId": "64",
-        "specializationParentId": "59",
-        "specializationLabel": "Dessin industriel",
-        "specializationLabelEn": "Industrial Design"
-      },
-      {
-        "specializationId": "65",
-        "specializationParentId": "59",
-        "specializationLabel": "Electromécanique",
-        "specializationLabelEn": "Electro-mechanics"
-      },
-      {
-        "specializationId": "66",
-        "specializationParentId": "59",
-        "specializationLabel": "Electronique",
-        "specializationLabelEn": "Electronics"
-      },
-      {
-        "specializationId": "71",
-        "specializationParentId": "59",
-        "specializationLabel": "Génie Electrique",
-        "specializationLabelEn": "Electrical Engineering"
-      },
-      {
-        "specializationId": "73",
-        "specializationParentId": "59",
-        "specializationLabel": "Instrumentation - Automatisme - Robotique",
-        "specializationLabelEn": "Instrumentation - Automatism - Robotics"
-      },
-      {
-        "specializationId": "110",
-        "specializationParentId": "59",
-        "specializationLabel": "Automobile",
-        "specializationLabelEn": "Automobile"
-      },
-      {
-        "specializationId": "112",
-        "specializationParentId": "212",
-        "specializationLabel": "Modélisation et Méthodes Informatiques",
-        "specializationLabelEn": "Modelling and IT Methodology"
-      },
-      {
-        "specializationId": "114",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie des matériaux",
-        "specializationLabelEn": "Materials sector"
-      },
-      {
-        "specializationId": "133",
-        "specializationParentId": "227",
-        "specializationLabel": "Défense",
-        "specializationLabelEn": "Defence"
-      },
-      {
-        "specializationId": "143",
-        "specializationParentId": "59",
-        "specializationLabel": "Microélectronique",
-        "specializationLabelEn": "Microelectronics"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "145",
-        "specializationParentId": "196",
-        "specializationLabel": "Génie urbain",
-        "specializationLabelEn": "Urban Engineering"
-      },
-      {
-        "specializationId": "149",
-        "specializationParentId": "58",
-        "specializationLabel": "Génie Industriel",
-        "specializationLabelEn": "Industrial Engineering"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "159",
-        "specializationParentId": "59",
-        "specializationLabel": "Soudage",
-        "specializationLabelEn": "Welding"
-      },
-      {
-        "specializationId": "160",
-        "specializationParentId": "59",
-        "specializationLabel": "Fonderie",
-        "specializationLabelEn": "Foundry"
-      },
-      {
-        "specializationId": "161",
-        "specializationParentId": "59",
-        "specializationLabel": "Froid et Climatisation",
-        "specializationLabelEn": "Cold and Air Conditioning"
-      },
-      {
-        "specializationId": "168",
-        "specializationParentId": "255",
-        "specializationLabel": "Nucléaire",
-        "specializationLabelEn": "Nuclear Industry"
-      },
-      {
-        "specializationId": "169",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie des procédés",
-        "specializationLabelEn": "Process Engineering"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "207",
-        "specializationParentId": "58",
-        "specializationLabel": "Méthodes - Process",
-        "specializationLabelEn": "Methods"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "213",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique embarquée",
-        "specializationLabelEn": "Embedded systems"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "245",
-        "specializationParentId": "24",
-        "specializationLabel": "Architecture des systèmes d'information",
-        "specializationLabelEn": "IT architecture / Cloud and virtualisation"
-      },
-      {
-        "specializationId": "246",
-        "specializationParentId": "24",
-        "specializationLabel": "Cybersecurité - protection des données",
-        "specializationLabelEn": "IT security"
-      },
-      {
-        "specializationId": "247",
-        "specializationParentId": "24",
-        "specializationLabel": "Support informatique",
-        "specializationLabelEn": "Helpdesk"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "249",
-        "specializationParentId": "24",
-        "specializationLabel": "Gestion parc informatique",
-        "specializationLabelEn": "Computer park management"
-      },
-      {
-        "specializationId": "251",
-        "specializationParentId": "24",
-        "specializationLabel": "Ingénierie système",
-        "specializationLabelEn": "Systems engineering"
-      },
-      {
-        "specializationId": "327",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique et Sciences des Données",
-        "specializationLabelEn": "Informatique et Sciences des Données"
-      },
-      {
-        "specializationId": "328",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique de Gestion",
-        "specializationLabelEn": "Informatique de Gestion"
-      },
-      {
-        "specializationId": "329",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique Fondamentale",
-        "specializationLabelEn": "Informatique Fondamentale"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      },
-      {
-        "specializationId": "331",
-        "specializationParentId": "212",
-        "specializationLabel": "Réseaux et Sécurité Informatique",
-        "specializationLabelEn": "Réseaux et Sécurité Informatique"
-      },
-      {
-        "specializationId": "345",
-        "specializationParentId": "214",
-        "specializationLabel": "Propriété intellectuelle",
-        "specializationLabelEn": "Propriété intellectuelle"
-      },
-      {
-        "specializationId": "355",
-        "specializationParentId": "24",
-        "specializationLabel": "Intelligence artificielle / IA",
-        "specializationLabelEn": "Intelligence artificielle / IA"
-      },
-      {
-        "specializationId": "358",
-        "specializationParentId": "24",
-        "specializationLabel": "ERP management",
-        "specializationLabelEn": "ERP management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique\n\nNos ingénieur(e)s Systèmes Embarqués pilotent en partie les activités de « Digital Transformation ». Nous prenons actuellement en main des sujets d envergure dans les domaines de la défense, du maritime, des transports, de l'industrie, de l'énergétique, ou encore des maisons intelligentes.\n\nNos interventions s articulent autour de problématiques techniques liées aux dimensions :\n- Software Development\n- Embedded/Iot\n- Devops/integration\n- Infrastructure / infogerance\n- Data & Artificial intelligence\n- Digitalisation\n\nVos responsabilités métier\n\nPour accompagner l'équipe, vous êtes capable de prendre le lead sur tout ou partie dans un environnement embarqué des responsabilités métiers suivantes :\n\nDescription\n· Définir le besoin et rédiger le cahier des charges avec le client\n· Définir les spécifications techniques\n· Etablir l architecture logicielle\n· Développer de nouvelles fonctionnalités en C/C++ sur microcontrôleur ou Linux embarqué\n· Reprendre du code existant et le mettre à jour\n· Réaliser l intégration des briques logicielles\n· Tester et valider la solution\n· Etre support technique, analyser et corriger les défauts\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.\n\n\nVos atouts pour réussir\n\n· Vous avez de l expérience en développement (bas niveau ou applicatif) mais aussi en intégration\n· Vous maîtrisez les langages C/C++\n· Vous êtes sensibilisé(e) aux différents environnements suivants : Linux embarqué, Bare Metal, et OS temps réel\n· Vous avez déjà utilisé des microcontrôleurs pour l embarqué (PowerPC, ARM Cortex M4, M7, A9 )\n· Vous maîtrisez les outils de versioning Git/SVN\n· Idéalement, vous travaillez au quotidien avec la méthode Agile notamment avec Jira ou Azure DevOps\n· Vous êtes habitué(e) à utiliser des outils de suivi de bug\n· Vous savez vous servir d appareils de mesures tels que les oscilloscopes, les multimètres et les analyseurs de spectres\n· Vous êtes familier(ère) avec des protocoles de communication standards\n· Vous êtes capable de lire un schéma électronique\n· Vous maîtrisez l anglais technique",
     "creationDate": "2026-08-31T08:20:36Z",
     "missionStartDate": "2026-12-01T00:00:00",
