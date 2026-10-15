@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **15/10/2026 17:09:11**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **15/10/2026 17:49:47**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -214,6 +214,62 @@ Key Competencies:
 •	Effective communication and presentation skills.
 •	High attention to detail and organizational skills.
 •	Ability to work independently and as part of a team in a fast-paced environment.
+
+</details>
+
+<details>
+<summary><strong>Financial Analyst (H/F)</strong> · VALEO ELECTRIFICATION · RENO - NV, ETATS-UNIS · 3 430,07 €/mois</summary>
+
+- **Entreprise :** VALEO ELECTRIFICATION
+- **Lieu :** RENO - NV, ETATS-UNIS
+- **Indemnité :** 3 430,07 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 15/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en finance, son expérience significative en contrôle de gestion et son excellent niveau d'anglais (TOEIC 925). Le seul léger écart réside dans la localisation de l'offre (États-Unis) alors qu'il manifeste un intérêt particulier pour l'Espagne, mais cela n'affecte pas ses compétences techniques.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247052](https://mon-vie-via.businessfrance.fr/offres/247052)
+
+**Description du poste**
+
+Valeo’s VIE Program?
+
+PLEASE NOTE: Your application must be submitted in English to be considered by our non-French speaking teams partners at Valeo worldwide. 
+
+***
+
+Join our teams mobilized to meet the challenge of accelerating electrification!
+
+At the heart of electric mobility, Valeo Power brings together expertise in thermal management systems and propulsion systems. This division develops innovations that contribute to the mobility of tomorrow by reducing pollutant emissions and maximizing vehicle autonomy.
+
+The site of Reno based in the USA belongs to the POWER Division. We are looking for a VIE Financial Analyst for 18 months within the team.
+
+Your challenges?
+
+- You will support reporting activities for month-end closing, forecasts, budget planning, and business plans.
+- You will assist with internal control roadmaps.
+- You will handle invoice submissions, tracking, and analysis.
+- You will monitor and control capital investments and operating expenses.
+- You will conduct specific ad-hoc financial analyses as needed.
+
+**Profil recherché**
+
+Let’s talk about you…
+
+- You are graduated from a Master degree in Business/Finance/Accounting
+- You already have experience in this field ( basic accounting knowledge)
+- You have a fluent level of English
+- You have good communication skills, have an international mindset and are open-minded to new cultures and new ways of working and thinking
+- You are humble, listening, positive attitude oriented, professional, and have the sense of diplomacy 
+- Excel, Google docs, SAP, reporting systems is a plus
+
+Please, don't forget to apply in English to facilitate the process with our managers. 
+
+Why Valeo?
+
+To join a competitive group, a French pioneer in automotive innovation
+For a dynamic career with possibilities for national or international mobility, adapted to your aspirations
+To contribute to the development of greener mobility
+
+Valeo places great importance on recruiting diverse profiles: we are open to all talents and we promote an inclusive and multicultural environment.
 
 </details>
 

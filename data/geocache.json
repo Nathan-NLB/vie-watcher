@@ -467,5 +467,10 @@
   "ville|kempten|allemagne": {
     "lat": 47.7267063,
     "lon": 10.3168835
+  },
+  "entreprise|valeo electrification|reno - nv|etats-unis": null,
+  "ville|reno - nv|etats-unis": {
+    "lat": 39.5261788,
+    "lon": -119.812658
   }
 }
