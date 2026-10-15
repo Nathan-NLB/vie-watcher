@@ -8,11 +8,56 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **15/10/2026 11:47:33**, 86 offre(s) actuellement en ligne.
+Dernière vérification : **15/10/2026 12:19:35**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>FP&A Business Partner (H/F)</strong> · AMARIS FRANCE SAS · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** AMARIS FRANCE SAS
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 15/10/2026
+- **Compatibilité avec ton profil :** 60 % — Le profil correspond bien sur le plan technique (compétences en FP&A, Excel, Power BI, bilinguisme français-anglais) et géographique (Barcelone). Cependant, l'offre requiert une expérience en management d'équipe (lead a team) et un niveau de séniorité stratégique plus élevé que les 2 ans d'expérience opérationnelle en PME du candidat.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247114](https://mon-vie-via.businessfrance.fr/offres/247114)
+
+**Description du poste**
+
+You will join our finance team, playing a key role in financial strategy and performance. Reporting to the FP&A Head-of, you will structure and drive the financial planning process while supporting operational teams in optimizing business performance. You will lead a team and act as a strategic partner to senior leadership, providing insights to support decision-making.
+
+Your missions:
+
+- Act as a trusted advisor to the CFO and FP&A Head-of, providing strategic financial insights and decision support
+- Guide and coach the FP&A team, fostering a high-performance culture
+- Align financial planning processes with business objectives, ensuring strategic coherence
+- Prepare reports and presentations for senior leadership, offering clear and actionable insights
+- Oversee budgeting, forecasting, and financial modeling to ensure data-driven decision-making
+- Analyze business performance, identify risks and opportunities, and drive corrective actions
+- Develop and refine reporting tools to improve data visualization and financial storytelling
+- Translate financial insights into strategic recommendations for non-financial stakeholders
+- Work closely with data and finance teams to optimize reporting tools and automate key processes
+- Support major transformation initiatives by ensuring financial alignment with company strategy
+- Drive continuous improvement in financial systems, leveraging digital tools for efficiency gains
+- Collaborate with IT and other business functions to enhance financial reporting capabilities
+- Partner with other finance teams across different locations to maintain consistency in reporting and compliance
+
+**Profil recherché**
+
+Experience in FP&A, financial audit, or a similar role (2-3 years)
+Strong leadership and interpersonal skills for guiding the FP&A team
+Excellent communication skills, with the ability to make financial data accessible to diverse stakeholders
+Analytical mindset with a proactive and problem-solving approach
+Ability to work with multiple deadlines in a fast-paced setting
+Strong Excel skills; knowledge of Power BI is an advantage
+English and French fluent
+Ability to work autonomously, take initiative, and drive financial improvements
+Experience with generative AI tools such as OpenAI for improving day-to-day productivity
+
+</details>
 
 <details>
 <summary><strong>Fund Accountant (H/F)</strong> · CACEIS · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
