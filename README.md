@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **15/10/2026 14:20:39**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **15/10/2026 15:18:16**, 86 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -214,6 +214,34 @@ Key Competencies:
 •	Effective communication and presentation skills.
 •	High attention to detail and organizational skills.
 •	Ability to work independently and as part of a team in a fast-paced environment.
+
+</details>
+
+<details>
+<summary><strong>Consultant(e) Métier Bancaire (H/F)</strong> · BK CONSULTING FRANCE · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** BK CONSULTING FRANCE
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 15/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246216](https://mon-vie-via.businessfrance.fr/offres/246216)
+
+**Description du poste**
+
+Le groupe BK CONSULTING est une ESN de 800 personnes active dans les secteurs de la finance et de l’industrie en France, en Belgique et au Grand-Duché du Luxembourg. Notre proposition de valeur réside dans notre double compétence informatique et financière qui nous positionne comme un partenaire privilégié chez nos clients. Dans le cadre du développement de nos activités en Belgique et au Grand-Duché du Luxembourg, nous recherchons un/des Business Consultant en VIE.
+
+Missions Proposées :
+Participer à des analyse de processus métiers.
+Spécifier les attentes des utilisateurs à destination de l'informatique.
+Gestion et suivi de processus back office et middle office (AML/KYC). Analyse de dossiers clients corporate et particuliers.
+Identification des projets et des besoins de vos clients.
+
+Notre offre, un management et une équipe qui supportent votre dynamique. Un acteur bien implanté et reconnu sur ses marchés. Des outils de travail adaptés. Des perspectives d’évolution significatives au sein du groupe.
+
+**Profil recherché**
+
+Nous recherchons un/une candidat(e) pugnace et constant(e) dans son travail. Cette fonction nécessite une grande autonomie au sein d’une dynamique équipe ainsi qu’une capacité à construire une relation client. Optimisme, confiance, transparence, culture client et proactivité sont les points clés du bon état d’esprit requis par ce poste. De filière Ecole de commerce ou équivalent universitaire. Première expérience professionnelle au préalable réussie (stages compris) Anglais courant. Si vous vous reconnaissez dans cette description de poste et souhaitez vous investir au sein d'une société en pleine croissance, merci de bien vouloir nous transmettre votre candidature.
 
 </details>
 
@@ -1901,42 +1929,6 @@ Soft skills :
 Note: 
 ●	Starting date: ASAP.
 ●	High exposure to local and global management.
-
-</details>
-
-<details>
-<summary><strong>Technicien.ne Comptable (H/F)</strong> · NAOS · MONTREAL -QC, CANADA · 2 649,28 €/mois</summary>
-
-- **Entreprise :** NAOS
-- **Lieu :** MONTREAL -QC, CANADA
-- **Indemnité :** 2 649,28 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 05/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est orienté vers le contrôle de gestion stratégique, l'analyse financière et le pilotage (FP&A), alors que l'offre proposée est un poste technique et opérationnel de comptabilité générale, recouvrement et fiscalité. Bien que l'environnement international et l'anglais correspondent à ses attentes, le contenu du poste est trop éloigné de ses compétences clés en contrôle de gestion.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246659](https://mon-vie-via.businessfrance.fr/offres/246659)
-
-**Description du poste**
-
-Comptabilité Clients, Recouvrement, Trésorerie et Relation Client :
-- Comptabiliser les opérations clients (encaissements, avoirs, ajustements).
-- Assurer le lettrage, la justification et la réconciliation des comptes.
-- Réaliser les rapprochements bancaires, suivre les encaissements, contribuer au reporting Cash In, aux prévisions de trésorerie et à l'analyse des écarts.
-- Assurer la réconciliation régulière des comptes clients avec les différents systèmes, justifier les soldes, suivre les balances âgées, le recouvrement, les litiges, les limites de crédit, le support à la facturation et la relation clients.
-- Relances et Recouvrement : Communiquer avec les clients pour le recouvrement des créances en retard de paiement. Cela peut impliquer l'envoi de relances, de lettres de rappel ou même la coordination avec le service juridique en cas de litiges.
-- Support du comptable fournisseur sur certains process et back-up lors des absences.
-
-Fiscalité US :
-- Assurer le suivi des Sales Tax, la gestion des portails dédiés, la préparation du reporting et des déclarations fiscales.
-
-Audit :
-- Être l'interlocuteur des auditeurs internes et externes, préparer les justificatifs, coordonner les demandes d'audit.
-
-**Profil recherché**
-
-Formation finance/comptabilité et expérience en comptabilité.
-Une connaissance de SAP est un atout.
-Aptitude à travailler en équipe et à collaborer avec différents départements.
-La maîtrise de l'anglais est indispensable.
 
 </details>
 
@@ -4179,34 +4171,6 @@ Fluent in English + French and/or Dutch (speaking all three is a major asset)
 Analytical, rigorous, and organized
 Autonomous, adaptable, and team-oriented
 A first experience in compliance, internal audit, or financial crime prevention is a plus
-
-</details>
-
-<details>
-<summary><strong>Consultant(e) Métier Bancaire (H/F)</strong> · BK CONSULTING FRANCE · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
-
-- **Entreprise :** BK CONSULTING FRANCE
-- **Lieu :** LUXEMBOURG, LUXEMBOURG
-- **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 21/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246216](https://mon-vie-via.businessfrance.fr/offres/246216)
-
-**Description du poste**
-
-Le groupe BK CONSULTING est une ESN de 800 personnes active dans les secteurs de la finance et de l’industrie en France, en Belgique et au Grand-Duché du Luxembourg. Notre proposition de valeur réside dans notre double compétence informatique et financière qui nous positionne comme un partenaire privilégié chez nos clients. Dans le cadre du développement de nos activités en Belgique et au Grand-Duché du Luxembourg, nous recherchons un/des Business Consultant en VIE.
-
-Missions Proposées :
-Participer à des analyse de processus métiers.
-Spécifier les attentes des utilisateurs à destination de l'informatique.
-Gestion et suivi de processus back office et middle office (AML/KYC). Analyse de dossiers clients corporate et particuliers.
-Identification des projets et des besoins de vos clients.
-
-Notre offre, un management et une équipe qui supportent votre dynamique. Un acteur bien implanté et reconnu sur ses marchés. Des outils de travail adaptés. Des perspectives d’évolution significatives au sein du groupe.
-
-**Profil recherché**
-
-Nous recherchons un/une candidat(e) pugnace et constant(e) dans son travail. Cette fonction nécessite une grande autonomie au sein d’une dynamique équipe ainsi qu’une capacité à construire une relation client. Optimisme, confiance, transparence, culture client et proactivité sont les points clés du bon état d’esprit requis par ce poste. De filière Ecole de commerce ou équivalent universitaire. Première expérience professionnelle au préalable réussie (stages compris) Anglais courant. Si vous vous reconnaissez dans cette description de poste et souhaitez vous investir au sein d'une société en pleine croissance, merci de bien vouloir nous transmettre votre candidature.
 
 </details>
 
