@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **16/10/2026 10:55:37**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **16/10/2026 11:21:20**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -39,6 +39,68 @@ Au sein des départements Back Office et Trésorerie, le Business Analyst sera r
 - compétences professionnelles : Finance de marché, finance corporate, dérivés financiers, trésorerie, automatisation, promptage IA, data management.
 - compétences personnelles : Sociable, curieux, rigoureux, team-player.
 - logiciels bureautiques : Suite Office, Power Query, Power-BI, langage programmation (i.e DAX, M, VBA), IA.
+
+</details>
+
+<details>
+<summary><strong>DATA ANALYST - DATA SCIENTIST - DATA ENGINEER H/F (H/F)</strong> · CLEEVEN ND · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** CLEEVEN ND
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 16/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245470](https://mon-vie-via.businessfrance.fr/offres/245470)
+
+**Description du poste**
+
+! Join a Dynamic and Exciting Team at Cleeven!
+
+Are you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? 
+Join us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!
+
+WHO WE ARE
+
+Cleeven is an international engineering consulting firm built on two fundamental principles:
+
+OUR MISSION: 
+
+To enhance self-awareness and the awareness of those around us.
+OUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. As engineers, we work closely with our clients to ensure their global competitiveness.
+
+YOUR ROLE AS DATA ANALYST :
+
+Analysis and synthesis of functional and technical requirements
+Data asset analysis
+Definition of statistical modeling to meet requirements
+Sourcing and gathering all necessary structured and unstructured data sources for analysis
+Study and comparison of statistical methods (PCA, logistic regression, random forest)
+Implementation and utilization of methods and models (R, SAS, Python, SPSS)
+Optimization of algorithm performance
+Analysis and synthesis of information and results
+Technological monitoring in Big Data, machine learning, and decisional statistics
+Participation in solution qualification
+
+WHAT’S HAPPENING AT CLEEVEN?
+
+We value the potential of our employees through various support programs:
+Cleeven Coaching Program: A voluntary individual coaching program to contribute to your personal development.
+Project Follow-ups: Monthly reviews with your project manager to discuss project progress.
+Boost Your Skills: Bi-monthly events focusing on the expertise areas of Cleeven consultants.
+Social Events: Regular gatherings throughout the year to strengthen team cohesion and sharing among Cleeven consultants.
+"With Cleeven, become who you are!"
+
+**Profil recherché**
+
+THE PERFECT CONSULTANT :
+
+Master’s degree.
+EN + FR/NL - speaking all three languages is a strong asset.
+Experience with data analytics tools and programming languages (e.g., Java, Python, SQL, Power BI, Tableau,...)
+Adaptable, autonomous, proactive and a real team player
+Analytical minded
+Solution oriented
+A first experience in the financial sector is a +
 
 </details>
 
@@ -118,6 +180,80 @@ Langues parlées : Polonais (langue maternelle ou > C1) et Allemand (> C1), Fran
 Permis B nécessaire : souhaité — au-delà, goût pour la découverte et les transports
 Niveau d'étude : bac+4, bac+5 et plus
 Diplôme : MASTER 1, MASTER 2, MBA
+
+</details>
+
+<details>
+<summary><strong>KYC ANALYST M/F (H/F)</strong> · CLEEVEN ND · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** CLEEVEN ND
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 6 mois (Du 1 déc. 2026 au 1 juin 2027)
+- **Publiée le :** 16/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/231210](https://mon-vie-via.businessfrance.fr/offres/231210)
+
+**Description du poste**
+
+Présentation de la société :
+
+!Join a Dynamic Team at Cleeven!
+
+
+
+Are you ready to join a fast-growing company where your work truly matters? Do you want to contribute to strategic compliance initiatives that shape the future of financial institutions?
+
+
+
+At Cleeven, we combine energy, innovation, and purpose. Join a team that values your development and gives you the tools to grow while working on impactful projects.
+
+
+
+WHO ARE WE ?
+
+
+
+Cleeven is an international engineering consulting firm built on two core principles:
+
+OUR MISSION: To enhance self-awareness and the awareness of those around us.
+OUR BELIEF: Europe’s leadership in innovation depends on the excellence of its engineers and professionals.
+
+
+At Cleeven, our consultants work hand-in-hand with clients to manage compliance challenges, mitigate risks, and ensure alignment with evolving regulatory demands.
+
+Poste et missions :
+
+YOUR ROLE AS A COMPLIANCE ANALYST (KYC/KYT/AML)
+
+
+
+You’ll play a key role in helping financial institutions meet regulatory expectations and safeguard their operations. Your responsibilities will include:
+
+Monitoring regulations: Stay on top of regulatory developments in the financial sector and assess their impact.
+KYC/KYT/AML analysis: Review client profiles, monitor transactions, and flag suspicious activity in accordance with legal standards.
+Risk assessment and mitigation: Identify gaps, evaluate compliance risks, and implement mitigation strategies.
+Process improvement: Propose and deploy enhancements to compliance frameworks and internal procedures.
+Internal controls & audits: Support internal audits and ensure robust compliance practices are in place.
+Awareness and training: Prepare training materials, raise employee awareness, and promote compliance culture.
+Bridge business and regulation: Translate complex regulatory language into actionable processes for operational teams.
+
+**Profil recherché**
+
+WHO YOU ARE
+
+
+
+You bring a sharp eye for detail, a strong sense of integrity, and a passion for creating secure, compliant environments.
+
+
+
+Your ideal profile:
+
+Master’s degree in law, finance, risk management, or a related field
+Fluent in English + French and/or Dutch (speaking all three is a major asset)
+Analytical, rigorous, and organized
+Autonomous, adaptable, and team-oriented
+A first experience in compliance, internal audit, or financial crime prevention is a plus
 
 </details>
 
@@ -4118,142 +4254,6 @@ The ideal candidate has a master’s degree in Finance.
 •	Independent and results-oriented working style with enthusiasm for exploring new subject areas
 •	Open and communicative personality
 •	Assertiveness and a high level of commitment
-
-</details>
-
-<details>
-<summary><strong>DATA ANALYST - DATA SCIENTIST - DATA ENGINEER H/F (H/F)</strong> · CLEEVEN ND · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** CLEEVEN ND
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 22/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245470](https://mon-vie-via.businessfrance.fr/offres/245470)
-
-**Description du poste**
-
-! Join a Dynamic and Exciting Team at Cleeven!
-
-Are you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? 
-Join us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!
-
-WHO WE ARE
-
-Cleeven is an international engineering consulting firm built on two fundamental principles:
-
-OUR MISSION: 
-
-To enhance self-awareness and the awareness of those around us.
-OUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. As engineers, we work closely with our clients to ensure their global competitiveness.
-
-YOUR ROLE AS DATA ANALYST :
-
-Analysis and synthesis of functional and technical requirements
-Data asset analysis
-Definition of statistical modeling to meet requirements
-Sourcing and gathering all necessary structured and unstructured data sources for analysis
-Study and comparison of statistical methods (PCA, logistic regression, random forest)
-Implementation and utilization of methods and models (R, SAS, Python, SPSS)
-Optimization of algorithm performance
-Analysis and synthesis of information and results
-Technological monitoring in Big Data, machine learning, and decisional statistics
-Participation in solution qualification
-
-WHAT’S HAPPENING AT CLEEVEN?
-
-We value the potential of our employees through various support programs:
-Cleeven Coaching Program: A voluntary individual coaching program to contribute to your personal development.
-Project Follow-ups: Monthly reviews with your project manager to discuss project progress.
-Boost Your Skills: Bi-monthly events focusing on the expertise areas of Cleeven consultants.
-Social Events: Regular gatherings throughout the year to strengthen team cohesion and sharing among Cleeven consultants.
-"With Cleeven, become who you are!"
-
-**Profil recherché**
-
-THE PERFECT CONSULTANT :
-
-Master’s degree.
-EN + FR/NL - speaking all three languages is a strong asset.
-Experience with data analytics tools and programming languages (e.g., Java, Python, SQL, Power BI, Tableau,...)
-Adaptable, autonomous, proactive and a real team player
-Analytical minded
-Solution oriented
-A first experience in the financial sector is a +
-
-</details>
-
-<details>
-<summary><strong>KYC ANALYST M/F (H/F)</strong> · CLEEVEN ND · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** CLEEVEN ND
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 6 mois (Du 1 déc. 2026 au 1 juin 2027)
-- **Publiée le :** 22/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/231210](https://mon-vie-via.businessfrance.fr/offres/231210)
-
-**Description du poste**
-
-Présentation de la société :
-
-!Join a Dynamic Team at Cleeven!
-
-
-
-Are you ready to join a fast-growing company where your work truly matters? Do you want to contribute to strategic compliance initiatives that shape the future of financial institutions?
-
-
-
-At Cleeven, we combine energy, innovation, and purpose. Join a team that values your development and gives you the tools to grow while working on impactful projects.
-
-
-
-WHO ARE WE ?
-
-
-
-Cleeven is an international engineering consulting firm built on two core principles:
-
-OUR MISSION: To enhance self-awareness and the awareness of those around us.
-OUR BELIEF: Europe’s leadership in innovation depends on the excellence of its engineers and professionals.
-
-
-At Cleeven, our consultants work hand-in-hand with clients to manage compliance challenges, mitigate risks, and ensure alignment with evolving regulatory demands.
-
-Poste et missions :
-
-YOUR ROLE AS A COMPLIANCE ANALYST (KYC/KYT/AML)
-
-
-
-You’ll play a key role in helping financial institutions meet regulatory expectations and safeguard their operations. Your responsibilities will include:
-
-Monitoring regulations: Stay on top of regulatory developments in the financial sector and assess their impact.
-KYC/KYT/AML analysis: Review client profiles, monitor transactions, and flag suspicious activity in accordance with legal standards.
-Risk assessment and mitigation: Identify gaps, evaluate compliance risks, and implement mitigation strategies.
-Process improvement: Propose and deploy enhancements to compliance frameworks and internal procedures.
-Internal controls & audits: Support internal audits and ensure robust compliance practices are in place.
-Awareness and training: Prepare training materials, raise employee awareness, and promote compliance culture.
-Bridge business and regulation: Translate complex regulatory language into actionable processes for operational teams.
-
-**Profil recherché**
-
-WHO YOU ARE
-
-
-
-You bring a sharp eye for detail, a strong sense of integrity, and a passion for creating secure, compliant environments.
-
-
-
-Your ideal profile:
-
-Master’s degree in law, finance, risk management, or a related field
-Fluent in English + French and/or Dutch (speaking all three is a major asset)
-Analytical, rigorous, and organized
-Autonomous, adaptable, and team-oriented
-A first experience in compliance, internal audit, or financial crime prevention is a plus
 
 </details>
 
