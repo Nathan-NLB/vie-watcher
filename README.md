@@ -8,11 +8,39 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **16/10/2026 09:49:44**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **16/10/2026 10:19:05**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Business Analyst (H/F)</strong> · B.G. · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** B.G.
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 16/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil correspond très bien aux attentes grâce à la formation en gestion du candidat, sa maîtrise d'Excel et Power BI, ainsi que son niveau d'anglais. L'écart principal réside dans la spécialisation de l'offre orientée vers la trésorerie et la finance corporate, tandis que l'expérience de Nathan est davantage axée sur le contrôle de gestion opérationnel.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247125](https://mon-vie-via.businessfrance.fr/offres/247125)
+
+**Description du poste**
+
+Au sein des départements Back Office et Trésorerie, le Business Analyst sera rattaché fonctionnellement aux responsables des équipes concernées. Cette mission lui permettra d’acquérir une vision transverse des activités financières et de trésorerie du Groupe, tout en contribuant à la transformation et à l’amélioration des processus existants. Il participera à la conception, à la refonte et à l’automatisation des reportings financiers et des outils d’aide à la décision, principalement sous Power BI et Excel. Ces outils couvriront notamment le suivi du cash pooling, des prévisions de trésorerie, des paiements, de l’endettement Groupe et des risques financiers.
+
+**Profil recherché**
+
+-  niveau d'étude : Bac + 4/5
+- filière d'étude : Finance / Ecole de commerce / Gestion
+- expérience : débutant /Une 1ère expérience en finance serait un atout
+- domaine de compétences : Reportings financiers / Analyse financière / Finance / Trésorerie
+- niveau linguistique : Français, anglais courant.
+- compétences professionnelles : Finance de marché, finance corporate, dérivés financiers, trésorerie, automatisation, promptage IA, data management.
+- compétences personnelles : Sociable, curieux, rigoureux, team-player.
+- logiciels bureautiques : Suite Office, Power Query, Power-BI, langage programmation (i.e DAX, M, VBA), IA.
+
+</details>
 
 <details>
 <summary><strong>BUSINESS CONTROLLER (H/F)</strong> · MORGAN PHILIPS · MEXICO, MEXIQUE · 3 221,54 €/mois</summary>
@@ -46,6 +74,50 @@ Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 - Excellente communication
 - Vision stratégique
 - Ecole Supérieure de Commerce, spécialisation en Finance
+
+</details>
+
+<details>
+<summary><strong>REAL ESTATE INVESTMENT ANALYST (H/F)</strong> · ERE · VARSOVIE, POLOGNE · 2 721,91 €/mois</summary>
+
+- **Entreprise :** ERE
+- **Lieu :** VARSOVIE, POLOGNE
+- **Indemnité :** 2 721,91 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 16/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244882](https://mon-vie-via.businessfrance.fr/offres/244882)
+
+**Description du poste**
+
+Après la France (2010), l’Allemagne (2015), l’Italie (2016) et l’Espagne (2019), eRE souhaite désormais s’implanter sur le marché polonais depuis Varsovie pour accompagner le développement de nos clients investisseurs en Europe centrale, et recherche un(e) Real estate investment analyst. Au-delà du poste d'analyste, c'est une aventure entrepreneuriale, intense et formatrice, au cœur du secteur immobilier institutionnel. Vous contribuez, dès le premier jour et en lien direct avec les associés fondateurs, à bâtir notre présence, notre connaissance et notre expérience sur ce nouveau marché — comme nous l'avons fait avec succès en Allemagne, en Italie puis en Espagne depuis 2015.
+
+Les missions proposées :
+●	Sourcing d’opportunités d’investissement : animation du réseau de brokers nationaux et indépendants, identification d'opportunités, visites de sites, rencontres avec les locataires, enseignes ou exploitants, aux côtés des associés fondateurs et des équipes de chaque pays.
+●	Analyse des dossiers d'investissement : calcul de la rentabilité des projets, modélisation des hypothèses financières, recherche de données de marché, analyse de comparables, rédaction des memos d'investissement à l'aide de nos outils internes enrichis par l'IA, préparation des LOI.
+●	Assistance au pilotage des due diligences : analyse des offres reçues des conseils (avocats, experts techniques et évaluateurs indépendants), suivi de leur exécution, préparation des rapports de suivi, aide à la négociation.
+
+Le poste, stimulant et très responsabilisant, intègre un volet relationnel important : vous serez intégré à l’équipe dirigeante, en interaction constante avec nos clients investisseurs institutionnels. 
+Vous bénéficierez d'une grande autonomie dans l'organisation de votre emploi du temps, des visites et des rencontres avec les différents partenaires. Ici, pas de poste d'exécution : vos analyses nourrissent des convictions qui pèsent dans les arbitrages de nos clients, vos initiatives construisent le développement de l’équipe et de l’entreprise.
+Vous rejoignez une équipe à taille humaine, exigeante et bienveillante, valorisant la solidarité entre les équipes, la progression des talents et le goût du terrain. Une réelle opportunité de consolider votre expérience sur un secteur dynamique, dans un cadre de travail privilégié où votre rôle sera pleinement valorisé.
+
+**Profil recherché**
+
+Titulaire d'un bac+4/5, nous recherchons un(e) jeune diplômé(e) avec une ou plusieurs expériences dans les secteurs immobilier ou d'analyse financière, attiré(e) par un rôle de bâtisseur : ouvrir un marché, créer son réseau, faire ses preuves sur de vraies opérations, le tout au contact direct des fondateurs et des équipes locales.
+
+Les compétences essentielles pour s'épanouir dans notre environnement :
+●	parfaite maîtrise du polonais (langue maternelle ou > C1) et idéalement de l'allemand (> C1), français courant, niveau avancé en anglais (> B2),
+●	esprit d'analyse et de synthèse, rigueur dans la modélisation et la rédaction,
+●	sens relationnel et capacité d'adaptation, en langues polonaise et allemande notamment,
+●	capacité d'organisation, autonomie, initiative et tempérament entrepreneurial,
+●	esprit d'équipe et sens du service auprès de nos clients institutionnels,
+●	maîtrise des outils IT et IA.
+
+Expérience souhaitée : 12 mois (stages et alternances inclus)
+Spécialisation : Immobilier, Finance
+Langues parlées : Polonais (langue maternelle ou > C1) et Allemand (> C1), Français (courant), Anglais (> B2)
+Permis B nécessaire : souhaité — au-delà, goût pour la découverte et les transports
+Niveau d'étude : bac+4, bac+5 et plus
+Diplôme : MASTER 1, MASTER 2, MBA
 
 </details>
 
@@ -4021,67 +4093,6 @@ The ideal candidate has a master’s degree in Finance.
 </details>
 
 <details>
-<summary><strong>FINANCIAL PERFORMANCE ANALYST (H/F)</strong> · LEGRAND FRANCE · AUCKLAND, NOUVELLE-ZELANDE · 2 614,52 €/mois</summary>
-
-- **Entreprise :** LEGRAND FRANCE
-- **Lieu :** AUCKLAND, NOUVELLE-ZELANDE
-- **Indemnité :** 2 614,52 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 22/09/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux missions de Financial Performance Analyst grâce à son Master en contrôle de gestion, son expérience en analyse financière et sa maîtrise de Power BI et de l'anglais (TOEIC 925). Le principal point de vigilance réside dans le besoin de maîtriser un ERP et l'outil BPC, non mentionnés dans son CV.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246229](https://mon-vie-via.businessfrance.fr/offres/246229)
-
-**Description du poste**
-
-A a member of the financial team, you will participe in the following main focus areas (not in order of priority):
-· Supporting & training different team of newly joined business to scale up analytical skills,
-· Sales analysis zooming in on Price, vol mix,
-· Material Price analysis, control, productivity follow up,
-· Gross Margin analysis,
-· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,
-· Cost management and Control, SGA analysis,
-· Develop Power BI tools and build digital dashboards,
-· Drive Process improvements.
-
-**Profil recherché**
-
-Graduated from a Master degree in Finance, you show capabilities of analysis, good organization, team work, adaptability to a multicultural environment.
-You speak both French and English at a professional level.
-You have ERP proficiency and fluency in BPC.
-
-</details>
-
-<details>
-<summary><strong>FINANCIAL PERFORMANCE ANALYST (H/F)</strong> · LEGRAND FRANCE · SYDNEY, AUSTRALIE · 3 684,82 €/mois</summary>
-
-- **Entreprise :** LEGRAND FRANCE
-- **Lieu :** SYDNEY, AUSTRALIE
-- **Indemnité :** 3 684,82 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 22/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246228](https://mon-vie-via.businessfrance.fr/offres/246228)
-
-**Description du poste**
-
-A a member of the financial team, you will participe in the following main focus areas (not in order of priority):
-· Supporting & training different team of newly joined business to scale up analytical skills,
-· Sales analysis zooming in on Price, vol mix,
-· Material Price analysis, control, productivity follow up,
-· Gross Margin analysis,
-· Set up of product cost, PRI, PDB, hourly rate analysis, Industrial analysis, AV rate analysis, Make vs Buy,
-· Cost management and Control, SGA analysis,
-· Develop Power BI tools and build digital dashboards,
-· Drive Process improvements.
-
-**Profil recherché**
-
-Graduated from a Master degree in Finance, you show capabilities of analysis, good organization, team work, adaptability to a multicultural environment.
-You speak both French and English at a professional level.
-You have ERP proficiency and fluency in BPC.
-
-</details>
-
-<details>
 <summary><strong>VIE Credit Risk Controller (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** ODDO BHF SCA
@@ -4169,50 +4180,6 @@ Adaptable, autonomous, proactive and a real team player
 Analytical minded
 Solution oriented
 A first experience in the financial sector is a +
-
-</details>
-
-<details>
-<summary><strong>REAL ESTATE INVESTMENT ANALYST (H/F)</strong> · ERE · VARSOVIE, POLOGNE · 2 721,91 €/mois</summary>
-
-- **Entreprise :** ERE
-- **Lieu :** VARSOVIE, POLOGNE
-- **Indemnité :** 2 721,91 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 22/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244882](https://mon-vie-via.businessfrance.fr/offres/244882)
-
-**Description du poste**
-
-Après la France (2010), l’Allemagne (2015), l’Italie (2016) et l’Espagne (2019), eRE souhaite désormais s’implanter sur le marché polonais depuis Varsovie pour accompagner le développement de nos clients investisseurs en Europe centrale, et recherche un(e) Real estate investment analyst. Au-delà du poste d'analyste, c'est une aventure entrepreneuriale, intense et formatrice, au cœur du secteur immobilier institutionnel. Vous contribuez, dès le premier jour et en lien direct avec les associés fondateurs, à bâtir notre présence, notre connaissance et notre expérience sur ce nouveau marché — comme nous l'avons fait avec succès en Allemagne, en Italie puis en Espagne depuis 2015.
-
-Les missions proposées :
-●	Sourcing d’opportunités d’investissement : animation du réseau de brokers nationaux et indépendants, identification d'opportunités, visites de sites, rencontres avec les locataires, enseignes ou exploitants, aux côtés des associés fondateurs et des équipes de chaque pays.
-●	Analyse des dossiers d'investissement : calcul de la rentabilité des projets, modélisation des hypothèses financières, recherche de données de marché, analyse de comparables, rédaction des memos d'investissement à l'aide de nos outils internes enrichis par l'IA, préparation des LOI.
-●	Assistance au pilotage des due diligences : analyse des offres reçues des conseils (avocats, experts techniques et évaluateurs indépendants), suivi de leur exécution, préparation des rapports de suivi, aide à la négociation.
-
-Le poste, stimulant et très responsabilisant, intègre un volet relationnel important : vous serez intégré à l’équipe dirigeante, en interaction constante avec nos clients investisseurs institutionnels. 
-Vous bénéficierez d'une grande autonomie dans l'organisation de votre emploi du temps, des visites et des rencontres avec les différents partenaires. Ici, pas de poste d'exécution : vos analyses nourrissent des convictions qui pèsent dans les arbitrages de nos clients, vos initiatives construisent le développement de l’équipe et de l’entreprise.
-Vous rejoignez une équipe à taille humaine, exigeante et bienveillante, valorisant la solidarité entre les équipes, la progression des talents et le goût du terrain. Une réelle opportunité de consolider votre expérience sur un secteur dynamique, dans un cadre de travail privilégié où votre rôle sera pleinement valorisé.
-
-**Profil recherché**
-
-Titulaire d'un bac+4/5, nous recherchons un(e) jeune diplômé(e) avec une ou plusieurs expériences dans les secteurs immobilier ou d'analyse financière, attiré(e) par un rôle de bâtisseur : ouvrir un marché, créer son réseau, faire ses preuves sur de vraies opérations, le tout au contact direct des fondateurs et des équipes locales.
-
-Les compétences essentielles pour s'épanouir dans notre environnement :
-●	parfaite maîtrise du polonais (langue maternelle ou > C1) et idéalement de l'allemand (> C1), français courant, niveau avancé en anglais (> B2),
-●	esprit d'analyse et de synthèse, rigueur dans la modélisation et la rédaction,
-●	sens relationnel et capacité d'adaptation, en langues polonaise et allemande notamment,
-●	capacité d'organisation, autonomie, initiative et tempérament entrepreneurial,
-●	esprit d'équipe et sens du service auprès de nos clients institutionnels,
-●	maîtrise des outils IT et IA.
-
-Expérience souhaitée : 12 mois (stages et alternances inclus)
-Spécialisation : Immobilier, Finance
-Langues parlées : Polonais (langue maternelle ou > C1) et Allemand (> C1), Français (courant), Anglais (> B2)
-Permis B nécessaire : souhaité — au-delà, goût pour la découverte et les transports
-Niveau d'étude : bac+4, bac+5 et plus
-Diplôme : MASTER 1, MASTER 2, MBA
 
 </details>
 

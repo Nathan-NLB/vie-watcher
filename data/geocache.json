@@ -472,5 +472,9 @@
   "ville|reno - nv|etats-unis": {
     "lat": 39.5261788,
     "lon": -119.812658
+  },
+  "entreprise|b.g.|bruxelles|belgique": {
+    "lat": 50.7355251,
+    "lon": 4.395998
   }
 }
