@@ -1690,16 +1690,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\nProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers.\n\nPoste et missions :\nProcapital propose des prestations de sous-traitance de négociation, conservation et tenue de comptes titres pour des clients institutionnels en Belgique.\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Initiation des dossiers de transferts de titres entrants et sortants avec les contreparties\n- Gestion des transferts internes\n- Mise en place des instructions de transfert sur le marché\n- Suivi du dénouement des transferts\n- Traitement des réconciliations titres\n- Traitement des demandes clients\n- Participation à des réflexions ayants pour but l’amélioration de l’efficacité et productivité interne (amélioration de procédures, identification d’automatisations complémentaires…)",
     "creationDate": "2026-10-08T15:27:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
