@@ -1592,16 +1592,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Act as a trusted partner to the business and support business performance by providing detailed & accurate financials and insightful analysis. Provide key support towards Sales & Marketing by providing clear dashboards, insights and variance analysis which can help the Commercial teams on decision taking, negotiations, etc. Support the business to further evolve as a data driven organisation. This function is based in Belgium with occasional travel to the Dutch location of Iglo (on average 2 times per month travel to NL)\n\nKey Responsibilities\nIn this role, you will support the Benelux Finance team through a variety of financial reporting, analysis, and business partnering activities, including:\n\nPreparing and distributing daily, weekly, and monthly sales reports and dashboards to monitor turnover performance against budget, prior year, and latest forecast.\nActing as the first point of contact and Junior Business Partner for a portfolio of retailers across Belgium and the Netherlands.\nMonitoring promotional spending and reviewing actual expenditure against forecasted budgets.\nContinuously improving internal reporting tools by enhancing layouts, automation, and analytical capabilities.\nPerforming weekly Lump Sum postings in SAP.\nSupporting recurring Group reporting requirements, including sales reporting and innovation tracking.\nAssisting with monthly closing activities, financial analysis, controlling processes, rolling forecasts, and annual budgeting exercises.\nSupporting ad hoc financial analyses, projects, and business requests.\nContributing to the organization's ambition to become increasingly data-driven through insightful analysis and reporting.",
     "creationDate": "2026-10-09T13:33:29Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2615,76 +2608,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "https://www.captivea.com/fr_FR/jobs/responsable-de-l-equipe-administrative-et-comptable-714",
-    "dateCandidature": null
-  },
-  {
-    "id": 246564,
-    "organizationName": "ARKEA PROCAPITAL SERVICES",
-    "missionTitle": "Chargé(e) Back Office - Réconciliation (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "150",
-    "effectifInd": "40",
-    "effectifConso": "0",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "BRUXELLES",
-    "cityNameEn": "BRUXELLES",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "202"
-    ],
-    "specializations": [
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      }
-    ],
-    "missionDescription": "ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers. Dans le cadre de son développement, ProCapital recherche : \n\nUn(e) Gestionnaire Back Office « Réconciliation »\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Le contrôle des opérations titres et cash dans leur ensemble (corporate actions, trades sur actions, trades sur options, dépôt cash etc.)\n- Le contrôle des positions titres (détenues chez différents dépositaires)\n- La production de plusieurs rapports à destination des équipes du Back-office et du Management\n- La détection et le suivi des opérations à risque\n- La rédaction et mise à jour de procédures opérationnelles et processus internes\n- L’identification des incidents et éventuels dysfonctionnements, ainsi que la remontée des alertes\n- Le traitement des demandes d’information des clients et du service interne relation clientèle\n- L’évolution des processus et l’amélioration des systèmes;",
-    "creationDate": "2026-09-30T13:58:43Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-06T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-11-05T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "De formation Bac +4/5, type Ecole de Commerce, de Gestion ou équivalent universitaire Master 1 ou 2 avec option finance de marché, vous disposez : \n-\tD’une excellente capacité analytique et organisationnelle ;\n-\tD’un sens des priorités \n-\tD’une maîtrise des logiciels Microsoft Office\n-\tD’une maîtrise rédactionnelle en anglais et en français \n-\tD’une appétence pour les marchés financiers  \nVotre rigueur, votre réactivité, votre capacité d’analyse, votre autonomie ainsi que votre sens relationnel vous permettront d’évoluer dans un environnement réactif et exigeant.",
-    "countryId": "BE",
-    "countryName": "BELGIQUE",
-    "countryNameEn": "BELGIUM",
-    "reference": "VIE246564",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Laura GARNIER",
-    "indemnite": 2978.53,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "candidat@procapital.fr",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "ywx713wgtc",
-    "contactURL": "",
     "dateCandidature": null
   },
   {
