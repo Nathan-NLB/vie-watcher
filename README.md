@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **17/10/2026 03:42:54**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **17/10/2026 04:18:10**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4570,59 +4570,6 @@ IT Tools:
 Languages: Professional English
 
 Please send your resume in English
-
-</details>
-
-<details>
-<summary><strong>ADJOINT A LA DIRECTION DES OPERATIONS (H/F)</strong> · GBH · SAINT DOMINGUE, REPUBLIQUE DOMINICAINE · 2 253,37 €/mois</summary>
-
-- **Entreprise :** GBH
-- **Lieu :** SAINT DOMINGUE, REPUBLIQUE DOMINICAINE
-- **Indemnité :** 2 253,37 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 16/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245818](https://mon-vie-via.businessfrance.fr/offres/245818)
-
-**Description du poste**
-
-Jumbo Car, filiale de GBH, est un acteur majeur de la location de voitures et présent dans 7 territoires (Martinique, Guadeloupe, Guyane, Réunion, Costa Rica, République Dominicaine, Côte d’Ivoire). 
-
-Vous souhaitez vivre une expérience entrepreneuriale à l'international et contribuer directement au développement d'une entreprise en forte croissance ? Rejoignez Jumbo Car République Dominicaine en tant que Adjoint à la Direction des Opérations. 
-
-Aux côtés de la Direction, vous participerez au pilotage opérationnel de l'entreprise et contribuerez activement à ses projets de développement. 
-
-Ce poste offre une vision transversale de l'activité et constitue une opportunité unique d'acquérir rapidement des responsabilités dans un environnement dynamique. 
-
-Vos missions 
-
-En lien direct avec la Direction, vous serez amené à : 
-- Participer au pilotage quotidien de l'exploitation (flotte, agences, indicateurs de performance) 
-- Suivre les principaux KPI opérationnels, commerciaux et financiers, analyser les résultats et proposer des plans d'actions 
-- Veiller à la satisfaction client et au maintien de notre niveau d'excellence en matière de qualité de service 
-- Identifier des leviers d'amélioration continue et contribuer à l'optimisation de nos processus 
-- Réaliser des études et analyses ponctuelles afin d'accompagner les décisions stratégiques de la Direction 
-- Participer au développement de nouveaux projets et au lancement de nouvelles activités 
-- Contribuer à la définition et au suivi de la politique tarifaire et commerciale 
-- Accompagner les responsables d'agence dans le suivi de leurs performances et le management de leurs équipes 
-- Participer à la gestion des situations opérationnelles complexes et des principaux litiges 
-- Être force de proposition sur tous les sujets liés au développement de l'entreprise
-
-**Profil recherché**
-
-Nous recherchons avant tout un candidat curieux, analytique et doté d'un fort esprit entrepreneurial. 
-Vous aimez comprendre le fonctionnement global d'une entreprise, analyser des données, prendre des initiatives et transformer vos idées en actions concrètes. 
-Autonome, organisé et orienté résultats, vous appréciez autant le terrain que l'analyse et souhaitez évoluer dans un environnement où les responsabilités grandissent rapidement avec les performances. 
-Vous êtes doté d'un excellent sens du relationnel, vous êtes à l'écoute, disponible et possédez une bonne capacité d'adaptation. 
-Vous êtes à l’aise avec les outils informatiques et les nouvelles technologies. 
-Vous parlez couramment espagnol.
-Une première expérience en management, gestion ou exploitation constitue un atout. 
-
-Pourquoi nous rejoindre ? 
-- Une collaboration directe avec la Direction Générale. 
-- Une vision complète du fonctionnement d'une entreprise en forte croissance. 
-- Des responsabilités variées mêlant terrain, opérations, stratégie, finance, développement commercial et expérience client. 
-- Un environnement où les idées sont encouragées et peuvent être mises en œuvre rapidement. 
-- Une véritable opportunité d'accélérer votre développement professionnel au sein d'un groupe familial, dynamique et en forte croissance à l'international, offrant de nombreuses perspectives d'évolution.
 
 </details>
 
