@@ -1620,16 +1620,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5"
+      "[\"5\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As part of the Revenue and Market Analytics team within Revenue Operations, your mission will be to deliver robust and intuitive business insights that empower Criteo’s global leaders to shape commercial strategy and strengthen market positioning.\n\nYou will use a data-driven approach to analyse business performance and market trends, uncover actionable insights, and translate complex findings into clear narratives that inform decision-making. This role requires comfort working with large, complex datasets and the curiosity to explore data creatively.\n\n\n\n\n\nYour Mission\n\n\nProvide analytical insights on Criteo’s global performance, market dynamics, and competitive landscape \nIdentify growth opportunities and risks, and translate findings into actionable recommendations for C-level stakeholders \nLeverage internal and external data to assess the potential of clients and prospects across existing and new business opportunities \nAnalyze first-party and market data, consumer behavior and intent signals, and industry trends to contextualize Criteo’s performance",
     "creationDate": "2026-09-16T08:28:57Z",
     "missionStartDate": "2027-01-01T00:00:00",
