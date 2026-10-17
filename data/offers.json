@@ -500,79 +500,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "4",
-      "5",
-      "8",
-      "9",
-      "199",
-      "200",
-      "201",
-      "202",
-      "203",
-      "259"
+      "[\"4\",\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"202\",\"203\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "4",
-        "specializationParentId": "89",
-        "specializationLabel": "Assurances",
-        "specializationLabelEn": "Insurance"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "203",
-        "specializationParentId": "19",
-        "specializationLabel": "Chargé / Conseiller clientèle bancaire particuliers / professionnels",
-        "specializationLabelEn": "Client advisor (banking)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\n!Join a Dynamic Team at Cleeven!\n\n\n\nAre you ready to join a fast-growing company where your work truly matters? Do you want to contribute to strategic compliance initiatives that shape the future of financial institutions?\n\n\n\nAt Cleeven, we combine energy, innovation, and purpose. Join a team that values your development and gives you the tools to grow while working on impactful projects.\n\n\n\nWHO ARE WE ?\n\n\n\nCleeven is an international engineering consulting firm built on two core principles:\n\nOUR MISSION: To enhance self-awareness and the awareness of those around us.\nOUR BELIEF: Europe’s leadership in innovation depends on the excellence of its engineers and professionals.\n\n\nAt Cleeven, our consultants work hand-in-hand with clients to manage compliance challenges, mitigate risks, and ensure alignment with evolving regulatory demands.\n\nPoste et missions :\n\nYOUR ROLE AS A COMPLIANCE ANALYST (KYC/KYT/AML)\n\n\n\nYou’ll play a key role in helping financial institutions meet regulatory expectations and safeguard their operations. Your responsibilities will include:\n\nMonitoring regulations: Stay on top of regulatory developments in the financial sector and assess their impact.\nKYC/KYT/AML analysis: Review client profiles, monitor transactions, and flag suspicious activity in accordance with legal standards.\nRisk assessment and mitigation: Identify gaps, evaluate compliance risks, and implement mitigation strategies.\nProcess improvement: Propose and deploy enhancements to compliance frameworks and internal procedures.\nInternal controls & audits: Support internal audits and ensure robust compliance practices are in place.\nAwareness and training: Prepare training materials, raise employee awareness, and promote compliance culture.\nBridge business and regulation: Translate complex regulatory language into actionable processes for operational teams.",
     "creationDate": "2025-09-24T10:46:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -892,37 +822,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259",
-      "318",
-      "321",
-      "322"
+      "[\"259\",\"318\",\"321\",\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "321",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance Verte et Responsable",
-        "specializationLabelEn": "Finance Verte et Responsable"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Si vous aimez être au plus près des chiffres qui font réellement tourner une usine — et pas seulement les analyser a posteriori — ce poste est fait pour vous.\r\nNous recherchons un(e) Contrôleur de gestion industriel pour rejoindre notre équipe opérations en Allemagne. Vous travaillerez en étroite collaboration avec les équipes production, supply chain et finance, afin d’aider l’entreprise à comprendre où l’argent est dépensé, où il ne devrait pas l’être, et quelles actions mettre en place.\r\n\r\n\r\nLe poste\r\nVous serez au cœur de la finance opérationnelle. Au quotidien, vous analyserez les coûts de production, challengerez les hypothèses, soutiendrez les décisions de planification et vous assurerez que les données financières reflètent la réalité opérationnelle.\r\nFort d’une première expérience dans une entreprise du secteur manufacturier, vous travaillerez en partenariat étroit avec les centres de services partagés, les équipes site et le Directeur Financier EMEA pour transformer les données en analyses concrètes et exploitables.\r\n\r\nResponsabilités principales\r\n•\tAssurer le contrôle de gestion opérationnel (production et stocks)\r\n•\tAnalyser les écarts, les cut-offs de stock et les leviers de performance opérationnelle\r\n•\tCollaborer avec les équipes de comptabilité centralisée pour garantir la fiabilité du reporting, des rapprochements et des valorisations\r\n•\tAccompagner les projets CAPEX avec des analyses financières solides et des études de rentabilité (ROI)\r\n•\tContribuer aux appels d’offres (RFQ) en garantissant des hypothèses de coûts réalistes\r\n•\tParticiper aux initiatives Lean visant à réduire les coûts sans compromettre la qualité\r\n•\tSuivre et analyser des KPI non financiers (énergie, maintenance, taux d’utilisation, etc.)\r\n•\tContribuer au processus S&OP avec des analyses financières et aux prévisions mensuelles\r\n•\tPiloter le budget opérationnel et les forecasts en challengeant la performance\r\n•\tSupporter les audits internes et externes\r\n•\tMaintenir la qualité des données opérationnelles dans l’ERP\r\n•\tAccompagner le Directeur Financier EMEA sur des projets ad hoc\r\n\r\nCe que nous offrons\r\n•\tExposition internationale \r\n•\tUn poste où vos analyses influencent réellement les décisions\r\n\r\nPrêt(e) à vous installer en Allemagne et à être au cœur de l’action ? Postulez dès maintenant.\r\nDans la mesure du possible, merci de nous transmettre votre CV en anglais.",
     "creationDate": "2026-06-25T09:03:42Z",
     "missionStartDate": "2026-12-01T00:00:00",
