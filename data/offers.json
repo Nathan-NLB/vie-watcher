@@ -360,79 +360,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "4",
-      "5",
-      "9",
-      "21",
-      "109",
-      "130",
-      "147",
-      "199",
-      "202",
-      "205"
+      "[\"4\",\"5\",\"9\",\"21\",\"109\",\"130\",\"147\",\"199\",\"202\",\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "4",
-        "specializationParentId": "89",
-        "specializationLabel": "Assurances",
-        "specializationLabelEn": "Insurance"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "130",
-        "specializationParentId": "193",
-        "specializationLabel": "Ingénieur Commercial ou d'Affaires, technico-commercial",
-        "specializationLabelEn": "Business Engineer, Sales Engineer"
-      },
-      {
-        "specializationId": "147",
-        "specializationParentId": "89",
-        "specializationLabel": "Services aux entreprises",
-        "specializationLabelEn": "Business Services"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "! Join a Dynamic and Exciting Team at Cleeven!\n\nAre you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? \nJoin us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!\n\nWHO WE ARE\n\nCleeven is an international engineering consulting firm built on two fundamental principles:\n\nOUR MISSION: \n\nTo enhance self-awareness and the awareness of those around us.\nOUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. As engineers, we work closely with our clients to ensure their global competitiveness.\n\nYOUR ROLE AS DATA ANALYST :\n\nAnalysis and synthesis of functional and technical requirements\nData asset analysis\nDefinition of statistical modeling to meet requirements\nSourcing and gathering all necessary structured and unstructured data sources for analysis\nStudy and comparison of statistical methods (PCA, logistic regression, random forest)\nImplementation and utilization of methods and models (R, SAS, Python, SPSS)\nOptimization of algorithm performance\nAnalysis and synthesis of information and results\nTechnological monitoring in Big Data, machine learning, and decisional statistics\nParticipation in solution qualification\n\nWHAT’S HAPPENING AT CLEEVEN?\n\nWe value the potential of our employees through various support programs:\nCleeven Coaching Program: A voluntary individual coaching program to contribute to your personal development.\nProject Follow-ups: Monthly reviews with your project manager to discuss project progress.\nBoost Your Skills: Bi-monthly events focusing on the expertise areas of Cleeven consultants.\nSocial Events: Regular gatherings throughout the year to strengthen team cohesion and sharing among Cleeven consultants.\n\"With Cleeven, become who you are!\"",
     "creationDate": "2026-08-28T07:15:47Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -962,16 +892,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le groupe BK CONSULTING est une ESN de 800 personnes active dans les secteurs de la finance et de l’industrie en France, en Belgique et au Grand-Duché du Luxembourg. Notre proposition de valeur réside dans notre double compétence informatique et financière qui nous positionne comme un partenaire privilégié chez nos clients. Dans le cadre du développement de nos activités en Belgique et au Grand-Duché du Luxembourg, nous recherchons un/des Business Consultant en VIE.\r\n\r\nMissions Proposées :\r\nParticiper à des analyse de processus métiers.\r\nSpécifier les attentes des utilisateurs à destination de l'informatique.\r\nGestion et suivi de processus back office et middle office (AML/KYC). Analyse de dossiers clients corporate et particuliers.\r\nIdentification des projets et des besoins de vos clients.\r\n\r\nNotre offre, un management et une équipe qui supportent votre dynamique. Un acteur bien implanté et reconnu sur ses marchés. Des outils de travail adaptés. Des perspectives d’évolution significatives au sein du groupe.",
     "creationDate": "2026-09-21T13:32:04Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2096,16 +2019,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "About ENGIE and Supply & Energy Management\n\nENGIE is a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions.\n\nGuided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses, including gas, renewable energies and services, to provide competitive solutions to our customers.\n\nSupply & Energy Management (S&EM) is ENGIE’s Global Business Unit dedicated to delivering reliable, sustainable and affordable energy solutions. The business unit optimizes both ENGIE’s and its clients’ assets while designing tailor-made energy solutions for more than 200,000 professional clients and 15 million consumers.\n\nOperating in 20 countries and bringing together more than 10,000 experts, S&EM leverages ENGIE’s asset portfolio and market expertise to deliver decarbonized electricity 24/7, supporting customers in their energy transition journey.\n\nJoining Supply & Energy Management means becoming part of an international team of passionate professionals committed to shaping a greener and more efficient energy future.\n\nContext\n\nAs part of the Credit Risk Analysis team, you will play a key role in assessing the creditworthiness of counterparties and ensuring effective management of credit risk exposure across S&EM's activities.\n\nReporting to the Head of Credit Risk Analysis, you will work closely with Front Office, Legal, KYC/AML and Risk stakeholders in a dynamic and international trading environment.\n\nWhat You Will Do\nCurrent Portfolio Management\nMonitor and analyze existing counterparties' credit exposure and risk evolution.\nManage and review credit limits.\nAssess and approve Front Office transactions and contractual agreements from a credit risk perspective.\nEnsure continuous monitoring of portfolio risk and identify mitigation actions where necessary.\nCounterparty Onboarding & Risk Assessment\nSupport business development activities before contract execution.\nAnalyze prospects' financial situation, business model and regulatory environment.\nEvaluate creditworthiness and determine appropriate risk limits.\nPrepare recommendations for Credit Risk Management and Credit Committees.\nCredit Documentation & Negotiation\nNegotiate credit-related documentation and netting agreements with counterparties.\nCollaborate closely with Legal teams to ensure appropriate contractual protections.\nDigitalization & Continuous Improvement\nContribute to the development and enhancement of risk management tools.\nParticipate in digital transformation initiatives in partnership with Credit Reporting and IT teams.\nSupport process optimization and automation projects.\nBusiness Support Activities\nProduce daily risk reports.\nRespond to urgent Front Office requests regarding transaction impacts on exposure levels.\nProvide timely trading approvals based on risk assessments.\nKey Stakeholders\nInternal Interfaces\nFront Office\nCredit Reporting Team\nKYC / AML Team\nLegal Department\nIT Support\nExternal Interfaces\nClients and counterparties\nBusiness development teams\nLegal advisors\nFinancial institutions and lenders",
     "creationDate": "2026-10-08T14:46:26Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2481,30 +2397,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "195",
-      "322",
-      "330"
+      "[\"195\",\"322\",\"330\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "195",
-        "specializationParentId": "193",
-        "specializationLabel": "Developpement commercial, prospection",
-        "specializationLabelEn": "Business Development"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development.\r\n\r\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\r\n\r\nThe Role:\r\nAs a Business Operations Analyst (VIE), you will support Planisware North America in key initiatives at the intersection of strategy, operations, and business transformation. This role is ideal for a candidate who is curious, analytical, and hands-on, with a strong interest in understanding how a business operates end-to-end. You will help identify opportunities to make operations more efficient and scalable. \r\n\r\nIn this role you will:\r\n• Support strategic initiatives by analyzing business performance and identifying areas for improvement \r\n• Contribute to transformation projects aimed at improving processes, tools, and operational efficiency \r\n• Help define and track key business metrics (KPIs) to support decision-making  \r\n• Build and maintain dashboards, reports, and models to monitor business performance \r\n• Perform financial and operational analyses (e.g., forecasting, variance analysis, pipeline tracking) \r\n• Translate data into actionable insights and clear recommendations for stakeholders \r\n• Assist in structuring and optimizing internal processes across teams \r\n• Work on cross-functional projects with teams such as Sales, Finance, Product, and Customer Success \r\n• Help coordinate initiatives, track progress, and ensure alignment across stakeholders \r\n• Break down complex problems into manageable steps and prioritize effectively \r\n• Support leadership with presentations, reporting, and decision-making materials\r\n\r\nThis is a unique opportunity to not only gain an inside and front-row view of Planisware's business operations, but also to use your own creative insights and problem-solving skills to enhance those processes. Add both depth and breadth to your career skills portfolio in a highly autonomous role for a company that recognizes and rewards top performers.\r\n\r\nThis is a hybrid role, requiring in office work 4x a week, Monday-Thursday, and remote work allowed on Friday.",
     "creationDate": "2026-07-08T18:54:31Z",
     "missionStartDate": "2027-01-01T00:00:00",
