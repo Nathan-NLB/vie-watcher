@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **17/10/2026 23:42:09**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **18/10/2026 00:11:01**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4503,73 +4503,6 @@ As a Division Controller, you will consolidate financial information, lead forec
 Education: College or University degree (BSc/MSc).
 Languages: Fluent in English.
 Technical Skills: Experience in SAP  and Microsoft Office (Excel, PowerPoint, Word).
-
-</details>
-
-<details>
-<summary><strong>Operations officer, Custody Services (H/F)</strong> · CACEIS · SELANGOR, MALAISIE · 2 079,64 €/mois</summary>
-
-- **Entreprise :** CACEIS
-- **Lieu :** SELANGOR, MALAISIE
-- **Indemnité :** 2 079,64 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 17/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246067](https://mon-vie-via.businessfrance.fr/offres/246067)
-
-**Description du poste**
-
-CACEIS Malaysia has been a cornerstone of asset servicing since 2008, evolving into a trusted hub of operational excellence within the global CACEIS network. Strategically located in IOI City, Putrajaya, the company employs over 1,200 skilled professionals, providing a broad spectrum of services to institutional clients across Europe. These services include Custody & Cash Clearing, Fund Administration, Fund Distribution, Master Data Services, Market Solutions, Group Invoicing, Reconciliations and Private Equity & Real Estate Solutions. As a centre of excellence, CACEIS Malaysia plays a pivotal role in driving the scalability of global operations, enhancing service quality, and implementing standardized processes to meet the diverse needs of its clients. The dedicated team in Malaysia is committed to delivering reliable, high-quality solutions that empower clients to thrive in a dynamic and competitive financial landscape. 
-
-We invite you to join us as a VIE in our Custody Services Department.
-
-The candidate will be in the position to: 
-•	Process receipt of Income payments within agreed service standards.
-•	Full adherence to the team’s control functions, including operations/events and end-of-the-day checklists.
-•	Assist with the day-to-day administrative tasks of investigation/amendment and clearance of reconciling items in ensuring accurate processing.
-•	Ensure that queries raised/assigned to individuals are answered within agreed service standards.
-•	Ensure on-going productivity by providing back-up relief for staff who are absent or on leave.
-•	Continually ensure complete awareness of Client, external custodians and inter-departmental Service Level Standards / Agreements and ensure compliance at all times.
-•	Ensure prompt escalation of operational issues that may cause financial or reputational issues to CACEIS or its clients to Senior Officer/Assistant Manager/Manager of the team/department. 
-•	Establish working relationships with people at all levels both inter departmental and across the wider firm.
-•	Provide feedback on agent network and vendor performance on any deviations from their service level agreement with CACEIS.
-•	Able to demonstrate capability to perform validation on common task.
-
-Good Reasons to Join Us 
-1.	Join an international banking group, a leader in asset servicing and a subsidiary of Credit Agricole. 
-2.	Develop stimulating working relationships and challenge your ideas in an environment conducive to innovation. 
-3.	Expand your professional horizons with numerous mobility opportunities within the group. 
-4.	Thrive in a company that respects its employees and clients.  
-5.	Take advantage of ongoing training to enhance your skills and boost your employability. 
-6.	Opportunity to work in a multicultural environment and engage with a diverse team.
-
-**Profil recherché**
-
-Experience:
-  
-Must-have 
-•	Tertiary education in Business, Finance or relevant fields 
-•	Solid understanding on the financial/ banking services industry
-•	Strong teamwork with the ability to work independently as well
-•	Analytical thinking, attention to detail and a sense of urgency
-•	Strong written and verbal communication skills
-•	Strong computer literacy with programming/coding/VBA skills 
-•	Strong aptitude in Mathematics
-•	Knowledge of Corporate Actions & SWIFT is a plus
-Skills:  
-•	Willingness to take on new challenges, confident and self-motivated
-•	Flexible with an ability to cope with stress and pressure
-•	High level of curiosity, self-confidence and assertiveness
-•	Good interpersonal skills and networking abilities with sub-custodians and internal departments
-•	MS Office skills (word; EXCEL, PowerPoint, outlook) – each well developed
-•	Systematic and experienced handling of Database (high volumes)
- 
-IT Tools:  
-•	User of Microsoft Office applications
-•	Knowledge of VBA, Access, SQL, and advanced Excel is a plus
- 
-Languages: Professional English
-
-Please send your resume in English
 
 </details>
 
