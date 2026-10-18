@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/10/2026 00:11:12**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **19/10/2026 00:40:48**, 80 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4271,82 +4271,6 @@ Maintain and strengthen internal control and compliance.
 </details>
 
 <details>
-<summary><strong>VIE Junior Financial Controller (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** CA CONSUMER FINANCE
-- **Lieu :** STUTTGART, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 18/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246087](https://mon-vie-via.businessfrance.fr/offres/246087)
-
-**Description du poste**
-
-Our Mission 
-We make wishes come true - our mission is to enrich the lives of our customers and realize dreams with 
-our financial services. We don't see ourselves as a typical bank, but as a vibrant community of creators 
-who are not afraid to break new ground. At the same time, we are all committed to topics with an impact 
-such as sustainability and digitalization - whether at our headquarters in Stuttgart, at our location in 
-Offenbach or in our 21 branches across Germany.  
-At Creditplus, we think bigger because we benefit from synergies with our (inter)national sister units and 
-business units under the Crédit Agricole umbrella. As you can see, we still like a family atmosphere: 
-with appreciation and team spirit, we work hand in hand for the innovation of financial services. And 
-celebrate our successes, big and small, together. Goodbye monotonous working day. Hello feasible.  
-We are making banking digital - and you are a part of it. Our IT department is the driving force for change 
-(and run). With your new job you will be directly involved in shaping the path to new innovations in the 
-credit industry. Develop your skills with us by mastering exciting challenges independently. Our agile 
-organizational structure in chapters and guilds means you are well prepared for interdisciplinary and 
-international collaboration. We work with modern tech stacks and state-of-the-art technologies. Are you 
-just as non-standard as our IT jobs? Then start an IT career at Creditplus now! 
-What you will work on 
-• Preparation of the monthly reporting according to HGB, IFRS and management 
-reporting based on IFRS for the responsible area, including coordination with the 
-departments involved as well as analysis of the key figures (development, plan-actual 
-deviations, special analyses) 
-• Implementation of (sub-annual and multi-annual) planning in accordance with HGB, 
-IFRS and management reporting based on IFRS, including coordination with 
-specialist departments, the Executive Board and the Group 
-• Support for the annual financial statements by providing auditors with the necessary 
-documents in a timely manner 
-• Budget and forecast planning: process coordination within the department, within 
-Creditplus and with CAPFM 
-Further development and redesign of controlling processes: 
-• Methodological-conceptual recording, description and participation in the remodelling 
-of processe 
-• Creation and support for specialist concepts, process presentations as well as the 
-associated work instructions 
-Participation in BI projects: 
-• Support in the development of specialist concepts, testing, roll-out and follow-up 
-support within the framework of business intelligence projects 
-Quality assurance: 
-• Participation in the design and implementation of quality assurance measures 
-including documentation, with special attention to process stability and efficiency 
-improvement.
-
-**Profil recherché**
-
-Completed studies in economics with specializations in controlling/ finance, business 
-mathematics, business informatics or comparable degree 
-• Very good knowledge of MS Office, especially Excel (incl. Pivot, SQL) and 
-PowerPoint 
-• In-depth understanding of financial economics and first experience in the 
-development and optimization of controlling processes. 
-• Fluent English (level B2/C1) 
-• Good communication skills and very good analytical and conceptual skills, combined 
-with a structured and solution-oriented way of working. 
-• High level of reliability, conscientiousness and quality awareness. 
-• Strong teamwork and social competence, with the ability to work effectively with 
-internal and external stakeholders. 
-• Resilience and flexibility, especially in a dynamic working environment. 
-Plus: 
-• Relevant professional experience in controlling or a comparable field 
-• Master in Finance 
-• Knowledge of analytical tools such as SAS or basics in database models 
-• Written and spoken German
-
-</details>
-
-<details>
 <summary><strong>Analyste Projets & Développement d'Infrastructures SAG (H/F)</strong> · MERIDIAM · LIBREVILLE, GABON · 2 753,49 €/mois</summary>
 
 - **Entreprise :** MERIDIAM
@@ -4412,75 +4336,6 @@ En plus du versement d’une indemnité mensuelle versée au candidat, l'entrepr
 Vous devez être de nationalité française ou ressortissant d'un pays de l'Espace économique européen. Si vous êtes de nationalité française ou double national, vous devez être en règle avec les obligations du service national français (numéro d'identification de la défense).
 
 Début de contrat souhaitée : 1er Février 2027
-
-</details>
-
-<details>
-<summary><strong>Contrôleur de Gestion Junior (H/F/X) (H/F)</strong> · CAISSE D'EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** CAISSE D'EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 nov. 2026 au 1 nov. 2027)
-- **Publiée le :** 18/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245921](https://mon-vie-via.businessfrance.fr/offres/245921)
-
-**Description du poste**
-
-Nous recherchons un·e Contrôleur·euse de Gestion Junior motivé·e et rigoureux·euse pour rejoindre notre département finance. Ce poste offre une excellente opportunité de développer des compétences clés en analyse financière et en reporting au sein d'une banque à taille humaine en Belgique. Le Contrôleur·euse de Gestion Junior sera impliqué·e dans le processus de budgétisation, le suivi des performances et l'analyse des écarts, contribuant ainsi directement à la prise de décisions stratégiques.
-
-Vos Responsabilités :
-•	Participation à l'élaboration budgétaire : Assister à la collecte des données, à la consolidation des informations et à la préparation des budgets annuels et des prévisions ;
-•	Suivi et analyse des performances : Contribuer à la production de tableaux de bord et de rapports de gestion réguliers, analysant les performances financières par rapport aux budgets et aux objectifs ;
-•	Analyse des écarts : Identifier, analyser et expliquer les écarts significatifs entre les réalisations et les prévisions, en collaboration avec les différents départements ;
-•	Reporting financier : Préparer et diffuser des rapports financiers précis et pertinents pour la direction, incluant des analyses de rentabilité par produit, par service ou par client ;
-•	Optimisation des processus : Participer à l'amélioration continue des outils et des processus de contrôle de gestion ;
-•	Support aux équipes : Apporter un support analytique aux autres départements de la banque pour les aider à comprendre et gérer leurs performances financières ;
-•	Veille réglementaire : Se tenir informé des évolutions réglementaires impactant le secteur bancaire et le contrôle de gestion.
-
-
-
-Votre Profil :
-•	Formation : Diplôme universitaire (Master ou Bachelier) en finance, gestion, économie ou domaine équivalent ;
-•	Expérience : 
-•	Une première expérience dans le secteur bancaire est requise. 
-•	Une première expérience (stage ou alternance inclus) en contrôle de gestion, audit, comptabilité ou analyse financière est un plus ;
-•	Compétences techniques :
-o	Excellente maîtrise d'Excel (fonctions avancées, tableaux croisés dynamiques,…) ;
-o	Connaissance des principes comptables et financiers ;
-o	La connaissance d'un ERP ou d'un outil de reporting est un atout (ex: Power BI, SAP, etc.) ;
-•	Langues : Maîtrise du français et/ou du néerlandais. Une bonne connaissance de l'anglais est un atout ;
-•	Qualités personnelles :
-o	Rigueur et précision ;
-o	Capacités analytiques et esprit critique ;
-o	Sens de l'organisation et capacité à gérer les priorités ;
-o	Bonnes compétences en communication et esprit d'équipe ;
-o	Proactivité et autonomie.
-
-Ce que nous offrons :
-•	L'opportunité de rejoindre une banque stable et de taille humaine, favorisant un environnement de travail collaboratif et une proximité avec les équipes de direction ;
-•	Un rôle essentiel au sein du département financier, offrant des responsabilités et des défis stimulants ;
-•	Un programme de développement professionnel continu et des opportunités d'évolution de carrière ;
-•	Une expérience internationale avec l’opportunité de découvrir une autre culture.
-
-**Profil recherché**
-
-Votre Profil :
-•	Formation : Diplôme universitaire (Master ou Bachelier) en finance, gestion, économie ou domaine équivalent ;
-•	Expérience : 
-•	Une première expérience dans le secteur bancaire est requise. 
-•	Une première expérience (stage ou alternance inclus) en contrôle de gestion, audit, comptabilité ou analyse financière est un plus ;
-•	Compétences techniques :
-o	Excellente maîtrise d'Excel (fonctions avancées, tableaux croisés dynamiques,…) ;
-o	Connaissance des principes comptables et financiers ;
-o	La connaissance d'un ERP ou d'un outil de reporting est un atout (ex: Power BI, SAP, etc.) ;
-•	Langues : Maîtrise du français et/ou du néerlandais. Une bonne connaissance de l'anglais est un atout ;
-•	Qualités personnelles :
-o	Rigueur et précision ;
-o	Capacités analytiques et esprit critique ;
-o	Sens de l'organisation et capacité à gérer les priorités ;
-o	Bonnes compétences en communication et esprit d'équipe ;
-o	Proactivité et autonomie.
 
 </details>
 
