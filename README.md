@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/10/2026 11:25:05**, 79 offre(s) actuellement en ligne.
+Dernière vérification : **19/10/2026 12:11:49**, 80 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -122,6 +122,46 @@ To facilitate the examination of your application by our English-speaking manage
 </details>
 
 <details>
+<summary><strong>Corporate Finance & Treasury Analyst (H/F)</strong> · AMARIS FRANCE SAS · PORTO, PORTUGAL · 2 677,43 €/mois</summary>
+
+- **Entreprise :** AMARIS FRANCE SAS
+- **Lieu :** PORTO, PORTUGAL
+- **Indemnité :** 2 677,43 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 19/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa formation en finance, sa maîtrise d'Excel et de Power BI, ainsi que son niveau d'anglais courant. Ses 2 ans d'expérience en contrôle de gestion et analyse financière font écho aux missions demandées, bien que l'offre soit davantage orientée finance d'entreprise et trésorerie.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246778](https://mon-vie-via.businessfrance.fr/offres/246778)
+
+**Description du poste**
+
+Job Description : 
+
+You will join the Corporate Financing & Treasury department within Mantu Group, playing a central role in corporate finance and treasury analysis. As a true cross-functional point of contact, you will interact daily with the group's banking partners and multiple internal teams, including accounting, FP&A, HR & Payroll, suppliers, and executive management.
+
+ 
+Your Missions :
+
+Support and monitor Group financing projects and build financial models
+Prepare recurring financial reporting and analyses for senior management
+Coordinate banking relationships and support financing execution
+Supervise off-balance sheet commitments and cash collateral
+Contribute to process improvement and automation projects
+Monitor excess cash and analyse investment solutions
+Perform client credit risk assessments
+Support ESG analysis and integration into finance projects
+
+**Profil recherché**
+
+Experience in corporate finance, financial analysis, credit risk assessment, or treasury (1–3 years)
+Advanced financial analysis and modelling skills
+Advanced Excel; Power BI is a plus
+Master's degree in Business School, Finance, Financial Engineering, or equivalent
+English fluent. French is a plus.
+You demonstrate rigour, analytical mindset, critical thinking, and proactivity
+
+</details>
+
+<details>
 <summary><strong>Risk Officer (H/F)</strong> · CACEIS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** CACEIS
@@ -194,6 +234,132 @@ Profil jeune diplômé ou disposant d'une première expérience (stage long, alt
 Qualités attendues : autonomie, rigueur, forte capacité d'adaptation, aisance en environnement multiculturel et goût du terrain (site industriel situé à Cusago, en périphérie de Milan). Capacité à dialoguer aussi bien avec les équipes comptables qu'avec les équipes systèmes.
 
 Italien courant impératif (échanges quotidiens avec les équipes locales), français courant, anglais professionnel.
+
+</details>
+
+<details>
+<summary><strong>INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F)</strong> · FORTIL GROUP · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** FORTIL GROUP
+- **Lieu :** LIEGE, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 19/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245507](https://mon-vie-via.businessfrance.fr/offres/245507)
+
+**Description du poste**
+
+Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels 
+ 
+fortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires
+
+
+Votre environnement technique
+
+Nos ingénieur(e)s Systèmes Embarqués pilotent en partie les activités de « Digital Transformation ». Nous prenons actuellement en main des sujets d envergure dans les domaines de la défense, du maritime, des transports, de l'industrie, de l'énergétique, ou encore des maisons intelligentes.
+
+Nos interventions s articulent autour de problématiques techniques liées aux dimensions :
+- Software Development
+- Embedded/Iot
+- Devops/integration
+- Infrastructure / infogerance
+- Data & Artificial intelligence
+- Digitalisation
+
+Vos responsabilités métier
+
+Pour accompagner l'équipe, vous êtes capable de prendre le lead sur tout ou partie dans un environnement embarqué des responsabilités métiers suivantes :
+
+Description
+· Définir le besoin et rédiger le cahier des charges avec le client
+· Définir les spécifications techniques
+· Etablir l architecture logicielle
+· Développer de nouvelles fonctionnalités en C/C++ sur microcontrôleur ou Linux embarqué
+· Reprendre du code existant et le mettre à jour
+· Réaliser l intégration des briques logicielles
+· Tester et valider la solution
+· Etre support technique, analyser et corriger les défauts
+
+Vous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.
+
+
+Vos atouts pour réussir
+
+· Vous avez de l expérience en développement (bas niveau ou applicatif) mais aussi en intégration
+· Vous maîtrisez les langages C/C++
+· Vous êtes sensibilisé(e) aux différents environnements suivants : Linux embarqué, Bare Metal, et OS temps réel
+· Vous avez déjà utilisé des microcontrôleurs pour l embarqué (PowerPC, ARM Cortex M4, M7, A9 )
+· Vous maîtrisez les outils de versioning Git/SVN
+· Idéalement, vous travaillez au quotidien avec la méthode Agile notamment avec Jira ou Azure DevOps
+· Vous êtes habitué(e) à utiliser des outils de suivi de bug
+· Vous savez vous servir d appareils de mesures tels que les oscilloscopes, les multimètres et les analyseurs de spectres
+· Vous êtes familier(ère) avec des protocoles de communication standards
+· Vous êtes capable de lire un schéma électronique
+· Vous maîtrisez l anglais technique
+
+**Profil recherché**
+
+Vous êtes diplômé(e) d une formation Bac+5 en informatique ou électronique et justifiez d'une première expérience sur un poste similaire.
+
+Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
+
+Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.
+
+Ce poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.
+
+</details>
+
+<details>
+<summary><strong>INGÉNIEUR SUPPLY CHAIN (H/F)</strong> · FORTIL GROUP · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** FORTIL GROUP
+- **Lieu :** LIEGE, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 19/10/2026
+- **Compatibilité avec ton profil :** 20 % — Le profil du candidat est orienté vers le contrôle de gestion et la finance d'entreprise, alors que ce poste exige une formation d'ingénieur et une expertise technique en supply chain industrielle (optimisation des flux de production, ERP type SAP). Bien qu'il existe quelques compétences transversales secondaires comme la gestion des KPI, l'écart de domaine fonctionnel et de formation minimale requise est très important.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245348](https://mon-vie-via.businessfrance.fr/offres/245348)
+
+**Description du poste**
+
+Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels 
+ 
+fortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires
+
+
+Votre environnement technique 
+
+Nos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.
+Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. 
+
+Nos interventions s’articulent autour de problématiques techniques liées aux dimensions : 
+Supply chain & distribution 
+Réalisation d'audit
+Réalisation de plans d'actions
+
+Vos responsabilités métier 
+
+Dans l’exercice de vos fonctions, vous serez amené à : 
+Optimiser les flux de production
+Identifier et suivre les actions d’amélioration avec les équipes internes 
+Suivre et pérenniser les plans d’actions via des audits
+Piloter la planification de la production en fonction de la demande client et des capacités industrielles
+Optimiser les flux de matières, d’informations et de produits finis
+Gérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités
+Accompagner les équipes dans la mise en place des bonnes pratiques
+Coordonner les projets d’amélioration de la maturité Supply Chain
+Analyser les indicateurs de performance (KPI) et proposer des actions correctives
+
+Vous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.
+
+**Profil recherché**
+
+Votre profil et votre personnalité
+
+De formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie en industrie.
+Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
+
+Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.
 
 </details>
 
@@ -3650,78 +3816,6 @@ Your profile :
 </details>
 
 <details>
-<summary><strong>INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F)</strong> · FORTIL GROUP · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** FORTIL GROUP
-- **Lieu :** LIEGE, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 24/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245507](https://mon-vie-via.businessfrance.fr/offres/245507)
-
-**Description du poste**
-
-Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels 
- 
-fortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires
-
-
-Votre environnement technique
-
-Nos ingénieur(e)s Systèmes Embarqués pilotent en partie les activités de « Digital Transformation ». Nous prenons actuellement en main des sujets d envergure dans les domaines de la défense, du maritime, des transports, de l'industrie, de l'énergétique, ou encore des maisons intelligentes.
-
-Nos interventions s articulent autour de problématiques techniques liées aux dimensions :
-- Software Development
-- Embedded/Iot
-- Devops/integration
-- Infrastructure / infogerance
-- Data & Artificial intelligence
-- Digitalisation
-
-Vos responsabilités métier
-
-Pour accompagner l'équipe, vous êtes capable de prendre le lead sur tout ou partie dans un environnement embarqué des responsabilités métiers suivantes :
-
-Description
-· Définir le besoin et rédiger le cahier des charges avec le client
-· Définir les spécifications techniques
-· Etablir l architecture logicielle
-· Développer de nouvelles fonctionnalités en C/C++ sur microcontrôleur ou Linux embarqué
-· Reprendre du code existant et le mettre à jour
-· Réaliser l intégration des briques logicielles
-· Tester et valider la solution
-· Etre support technique, analyser et corriger les défauts
-
-Vous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.
-
-
-Vos atouts pour réussir
-
-· Vous avez de l expérience en développement (bas niveau ou applicatif) mais aussi en intégration
-· Vous maîtrisez les langages C/C++
-· Vous êtes sensibilisé(e) aux différents environnements suivants : Linux embarqué, Bare Metal, et OS temps réel
-· Vous avez déjà utilisé des microcontrôleurs pour l embarqué (PowerPC, ARM Cortex M4, M7, A9 )
-· Vous maîtrisez les outils de versioning Git/SVN
-· Idéalement, vous travaillez au quotidien avec la méthode Agile notamment avec Jira ou Azure DevOps
-· Vous êtes habitué(e) à utiliser des outils de suivi de bug
-· Vous savez vous servir d appareils de mesures tels que les oscilloscopes, les multimètres et les analyseurs de spectres
-· Vous êtes familier(ère) avec des protocoles de communication standards
-· Vous êtes capable de lire un schéma électronique
-· Vous maîtrisez l anglais technique
-
-**Profil recherché**
-
-Vous êtes diplômé(e) d une formation Bac+5 en informatique ou électronique et justifiez d'une première expérience sur un poste similaire.
-
-Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
-
-Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.
-
-Ce poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.
-
-</details>
-
-<details>
 <summary><strong>Financial planning & analysis Analyst (FP&A) (H/F)</strong> · MAISON KYKA · MOKA, MAURICE · 1 879,79 €/mois</summary>
 
 - **Entreprise :** MAISON KYKA
@@ -4010,60 +4104,6 @@ suffering on quality and accuracy.
 • Possesses a collaborative mindset and is a team player, contributing to team results as needed. 
 • Problem solving skills – can identify, seek root cause for and explain financial issues and variances 
 and their impact on the business’ financial reporting/outcomes.
-
-</details>
-
-<details>
-<summary><strong>INGÉNIEUR SUPPLY CHAIN (H/F)</strong> · FORTIL GROUP · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** FORTIL GROUP
-- **Lieu :** LIEGE, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 23/09/2026
-- **Compatibilité avec ton profil :** 20 % — Le profil du candidat est orienté vers le contrôle de gestion et la finance d'entreprise, alors que ce poste exige une formation d'ingénieur et une expertise technique en supply chain industrielle (optimisation des flux de production, ERP type SAP). Bien qu'il existe quelques compétences transversales secondaires comme la gestion des KPI, l'écart de domaine fonctionnel et de formation minimale requise est très important.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245348](https://mon-vie-via.businessfrance.fr/offres/245348)
-
-**Description du poste**
-
-Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels 
- 
-fortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires
-
-
-Votre environnement technique 
-
-Nos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.
-Nous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. 
-
-Nos interventions s’articulent autour de problématiques techniques liées aux dimensions : 
-Supply chain & distribution 
-Réalisation d'audit
-Réalisation de plans d'actions
-
-Vos responsabilités métier 
-
-Dans l’exercice de vos fonctions, vous serez amené à : 
-Optimiser les flux de production
-Identifier et suivre les actions d’amélioration avec les équipes internes 
-Suivre et pérenniser les plans d’actions via des audits
-Piloter la planification de la production en fonction de la demande client et des capacités industrielles
-Optimiser les flux de matières, d’informations et de produits finis
-Gérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités
-Accompagner les équipes dans la mise en place des bonnes pratiques
-Coordonner les projets d’amélioration de la maturité Supply Chain
-Analyser les indicateurs de performance (KPI) et proposer des actions correctives
-
-Vous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.
-
-**Profil recherché**
-
-Votre profil et votre personnalité
-
-De formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie en industrie.
-Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
-
-Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.
 
 </details>
 
