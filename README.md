@@ -8,11 +8,118 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/10/2026 10:00:19**, 77 offre(s) actuellement en ligne.
+Dernière vérification : **19/10/2026 10:54:11**, 78 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>AI Portfolio Operations Analyst (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** SANOFI WINTHROP INDUSTRIE
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 19/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien à l'offre grâce à ses compétences en contrôle budgétaire, reporting, analyse financière et maîtrise d'Excel, ainsi que sa maîtrise de l'anglais et son attrait pour Barcelone. L'écart réside dans l'orientation du poste vers l'analytique de projets IA et la gouvernance IT, bien que ses bases en finance et gestion de données s'y adaptent parfaitement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247156](https://mon-vie-via.businessfrance.fr/offres/247156)
+
+**Description du poste**
+
+About the job
+
+As AI Portfolio Operations Analyst VIE within our AI Portfolio Operations team, you’ll work closely with the Operations Manager, learning the business while handling critical day-to-day tasks that keep reporting, budgets, and governance workflows running smoothly. You will have an impact in ensuring data accuracy, meeting reporting deadlines, and keeping clear, organized documentation.  
+
+Join the digital engine driving Sanofi’s transformation - where AI, automation, and bold experimentation power faster science and smarter decisions. Here, you’ll help build the first biopharma company powered by AI at scale. 
+
+Ready to get started?
+
+About Sanofi
+
+We’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. 
+
+Main responsibilities:
+
+1. Budget Tracking & Data Management 
+
+- Support budget tracking and remapping activities. 
+- Assist with budget analysis and variance understanding with Product Owners. 
+- Support on preparing budget performance reports and highlight variances. 
+- Support on coordination with Finance and pillar leads during forecasting cycles. 
+- Maintain accurate budget documentation and audit trails. 
+
+2. Portfolio Reporting & Data Quality 
+
+- Support tool adoption (SNOW PPM, APM, Value Lens, etc) and data quality across reporting processes. 
+- Ensure consistency and quality of reporting across pillars. 
+- Support on cross-pillar input collection orchestration. 
+- Validate data accuracy and completeness before reporting deadlines. 
+
+3. Governance Workflow Support 
+
+- Support on monitor end-to-end governance process execution from submission to approval. 
+- Support on SLA tracking compliance across all governance touchpoints. 
+- Flag deviations and potential bottlenecks to the Operations Manager. 
+- Maintain accurate records and documentation of governance activities.
+- Support the implementation of corrective actions for recurring operational issues.
+- Update and maintain dashboard visibility on workflow health metrics. 
+
+Why choose us?
+
+- Be part of a pioneering biopharma company where patient insights shape drug development.
+- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes.
+- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams.
+- Work at the forefront of drug discovery, harnessing cutting-edge AI, data, and digital platforms to push the boundaries of science.
+- Help improve the lives of millions of people globally by making drug development quicker and more effective.
+- Join a workplace where diversity, equity, and inclusion are at the core, with Employee Resource Groups and leadership programs that celebrate every voice.
+
+iMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow.
+
+Sanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work.
+
+Pursue Progress. Discover Extraordinary.
+
+Progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together.
+
+At Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. 
+
+Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!
+
+**Profil recherché**
+
+About you
+
+Experience:
+
+- 1–3 years doing similar support work — project coordination, data entry, administrative tasks, or financial analysis.
+- Pharma, healthcare, tech, or consulting experience is a plus, but not mandatory.
+- Experience in a matrixed and cross-functional organization would be a plus.
+
+Soft and technical skills:
+
+- Clear written and verbal communication; ability to present to stakeholders. 
+- Detail-oriented — typos and missing data matter. 
+- Juggle multiple tasks — manage deadlines across different reports. 
+- Stay organized — clear file naming, documentation, follow-up systems. 
+- Advanced analytical skills (spot inconsistencies in data, understand trends, ask good questions when something seems off etc.)
+- Excel expert — pivot tables, formulas, data cleanup, basic charts. 
+- PowerPoint & SharePoint — creating simple presentations, organizing files. 
+- Dashboard/reporting tools — Power BI, Tableau, or similar (you'll learn on the job). 
+- Some exposure to AI, digital projects or transformation initiatives (even as an observer) would be beneficial.
+- Familiarity with ServiceNow, Jira, or workflow tools is preferred.
+ 
+Education:
+
+- Master’s Degree in Business, Finance, Data Analytics, Operations, or similar field.
+
+Languages:
+
+- Advanced English knowledge.
+
+To facilitate the examination of your application by our English-speaking managers, thank you for applying in English.
+
+</details>
 
 <details>
 <summary><strong>Risk Officer (H/F)</strong> · CACEIS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
