@@ -8,11 +8,67 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/10/2026 15:21:29**, 79 offre(s) actuellement en ligne.
+Dernière vérification : **19/10/2026 16:18:06**, 80 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>CGO INTERNATIONAL (H/F)</strong> · (GROUPE) ASTEK · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** (GROUPE) ASTEK
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 6 mois (Du 1 janv. 2027 au 1 juil. 2027)
+- **Publiée le :** 19/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à son expérience solide en contrôle de gestion, son niveau d'anglais et son attrait pour l'Espagne. Le seul léger écart réside dans l'espagnol (niveau B1 demandé comme indispensable) et sa formation universitaire en gestion plutôt qu'en école de commerce ou d'ingénieur.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247231](https://mon-vie-via.businessfrance.fr/offres/247231)
+
+**Description du poste**
+
+Rejoignez-nous et boostez votre carrière !
+
+Nous recrutons un **Contrôleur de Gestion Opérationnel International** pour renforcer notre équipe au siège situé à Madrid. Dans ce rôle stratégique, vous travaillerez en étroite collaboration avec nos équipes locales et internationales pour soutenir la croissance continue du groupe. Vous aurez l'opportunité de déployer des outils de gestion et de contrôle pour plusieurs périmètres internationaux dans un environnement dynamique et en constante évolution.
+
+Votre mission : Contribuer à l’expansion internationale du groupe !
+
+En tant que Contrôleur de Gestion Opérationnel International, vos principales missions seront :
+
+- Participer à l’élaboration des KPIs hebdomadaires pour différents pays et régions.
+- Créer et déployer des tableaux de bord pour mesurer la performance dans de nouveaux marchés internationaux.
+- Rédiger et formaliser des processus opérationnels afin d'optimiser les performances des équipes.
+- Déployer et administrer notre CRM dans de nouveaux périmètres internationaux.
+- Fournir un support, accompagnement et formation aux équipes locales dans différents pays.
+- Réaliser des analyses et contrôles divers sur les performances internationales et proposer des solutions d’amélioration.
+
+Ce que nous offrons :
+
+- Un rôle stratégique, avec une forte exposition internationale.
+- Un environnement innovant et stimulant, au sein d’un groupe en pleine croissance.
+- Des possibilités d’évolution rapide dans un contexte de forte dynamique.
+
+Notre entreprise est un acteur majeur dans son secteur, avec une présence internationale croissante. Nous sommes en forte expansion et recherchons des talents pour accompagner cette croissance.
+
+**Profil recherché**
+
+Votre profil :
+
+- Vous êtes diplômé(e) d’un Bac+5 (école d’ingénieur ou grande école de commerce).
+- Vous disposez d’une expérience en contrôle de gestion opérationnel et êtes passionné(e) par les chiffres et l’analyse de données.
+- Vous avez de solides compétences dans l’élaboration de tableaux de bord, le paramétrage de CRM et la rédaction de processus.
+- Vous êtes rigoureux(se), autonome et capable de gérer plusieurs projets en parallèle.
+- La maîtrise de l’anglais et de l'espagnol est indispensable.
+- Vous êtes dynamique, organisé(e) et avez un sens aigu du service client pour accompagner les équipes opérationnelles.
+
+Votre personnalité :
+
+- Structuré(e) : vous êtes clair et efficace dans vos communications.
+- Organisé(e) : vous savez prioriser et garantir un suivi rigoureux des missions.
+- Proactif(ve) : vous êtes capable de prendre des initiatives et de proposer des solutions pour améliorer les processus.
+- Esprit d’équipe : vous appréciez travailler avec des équipes multiculturelles et internationales.
+
+</details>
 
 <details>
 <summary><strong>AI Portfolio Operations Analyst (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>

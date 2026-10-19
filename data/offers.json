@@ -203,6 +203,69 @@
     "dateCandidature": null
   },
   {
+    "id": 247231,
+    "organizationName": "(GROUPE) ASTEK",
+    "missionTitle": "CGO INTERNATIONAL (H/F)",
+    "missionDuration": 6,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "Créé en France en 1988, Astek est un acteur mondial de l’ingénierie et du conseil en technologies, présent sur les 5 continents. Fort de son expertise dans de nombreux secteurs industriels et tertiaires, le Groupe accompagne ses clients internationaux dans le déploiement intelligent de leurs produits et de leurs services, et dans la mise en œuvre de leur transformation digitale.",
+    "organizationUrlImage": "https://astekgroup.fr/wp-content/uploads/2021/04/Astek-3.png",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "0",
+    "effectifInd": "79",
+    "effectifConso": "0",
+    "organizationCountryCounter": "22",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "MADRID",
+    "cityNameEn": "MADRID",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"205\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "Rejoignez-nous et boostez votre carrière !\n\nNous recrutons un **Contrôleur de Gestion Opérationnel International** pour renforcer notre équipe au siège situé à Madrid. Dans ce rôle stratégique, vous travaillerez en étroite collaboration avec nos équipes locales et internationales pour soutenir la croissance continue du groupe. Vous aurez l'opportunité de déployer des outils de gestion et de contrôle pour plusieurs périmètres internationaux dans un environnement dynamique et en constante évolution.\n\nVotre mission : Contribuer à l’expansion internationale du groupe !\n\nEn tant que Contrôleur de Gestion Opérationnel International, vos principales missions seront :\n\n- Participer à l’élaboration des KPIs hebdomadaires pour différents pays et régions.\n- Créer et déployer des tableaux de bord pour mesurer la performance dans de nouveaux marchés internationaux.\n- Rédiger et formaliser des processus opérationnels afin d'optimiser les performances des équipes.\n- Déployer et administrer notre CRM dans de nouveaux périmètres internationaux.\n- Fournir un support, accompagnement et formation aux équipes locales dans différents pays.\n- Réaliser des analyses et contrôles divers sur les performances internationales et proposer des solutions d’amélioration.\n\nCe que nous offrons :\n\n- Un rôle stratégique, avec une forte exposition internationale.\n- Un environnement innovant et stimulant, au sein d’un groupe en pleine croissance.\n- Des possibilités d’évolution rapide dans un contexte de forte dynamique.\n\nNotre entreprise est un acteur majeur dans son secteur, avec une présence internationale croissante. Nous sommes en forte expansion et recherchons des talents pour accompagner cette croissance.",
+    "creationDate": "2026-10-19T12:10:10Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2027-07-01T00:00:00",
+    "startBroadcastDate": "2026-10-19T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-11-18T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "Votre profil :\n\n- Vous êtes diplômé(e) d’un Bac+5 (école d’ingénieur ou grande école de commerce).\n- Vous disposez d’une expérience en contrôle de gestion opérationnel et êtes passionné(e) par les chiffres et l’analyse de données.\n- Vous avez de solides compétences dans l’élaboration de tableaux de bord, le paramétrage de CRM et la rédaction de processus.\n- Vous êtes rigoureux(se), autonome et capable de gérer plusieurs projets en parallèle.\n- La maîtrise de l’anglais et de l'espagnol est indispensable.\n- Vous êtes dynamique, organisé(e) et avez un sens aigu du service client pour accompagner les équipes opérationnelles.\n\nVotre personnalité :\n\n- Structuré(e) : vous êtes clair et efficace dans vos communications.\n- Organisé(e) : vous savez prioriser et garantir un suivi rigoureux des missions.\n- Proactif(ve) : vous êtes capable de prendre des initiatives et de proposer des solutions pour améliorer les processus.\n- Esprit d’équipe : vous appréciez travailler avec des équipes multiculturelles et internationales.",
+    "countryId": "ES",
+    "countryName": "ESPAGNE",
+    "countryNameEn": "SPAIN",
+    "reference": "VIE247231",
+    "contactFirstName": "Elodie",
+    "contactLastName": "De Marcé",
+    "contactCivility": "Madame",
+    "contactName": "Madame Laura PEDRO",
+    "indemnite": 2688.86,
+    "teleworkingAvailable": true,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "ddi-vie@groupeastek.fr",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "",
+    "dateCandidature": null
+  },
+  {
     "id": 247156,
     "organizationName": "SANOFI WINTHROP INDUSTRIE",
     "missionTitle": "AI Portfolio Operations Analyst (H/F)",
@@ -801,23 +864,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "90",
-      "259"
+      "[\"90\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "90",
-        "specializationParentId": "89",
-        "specializationLabel": "Immobilier",
-        "specializationLabelEn": "Real Estate"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Après la France (2010), l’Allemagne (2015), l’Italie (2016) et l’Espagne (2019), eRE souhaite désormais s’implanter sur le marché polonais depuis Varsovie pour accompagner le développement de nos clients investisseurs en Europe centrale, et recherche un(e) Real estate investment analyst. Au-delà du poste d'analyste, c'est une aventure entrepreneuriale, intense et formatrice, au cœur du secteur immobilier institutionnel. Vous contribuez, dès le premier jour et en lien direct avec les associés fondateurs, à bâtir notre présence, notre connaissance et notre expérience sur ce nouveau marché — comme nous l'avons fait avec succès en Allemagne, en Italie puis en Espagne depuis 2015.\n\nLes missions proposées :\n●\tSourcing d’opportunités d’investissement : animation du réseau de brokers nationaux et indépendants, identification d'opportunités, visites de sites, rencontres avec les locataires, enseignes ou exploitants, aux côtés des associés fondateurs et des équipes de chaque pays.\n●\tAnalyse des dossiers d'investissement : calcul de la rentabilité des projets, modélisation des hypothèses financières, recherche de données de marché, analyse de comparables, rédaction des memos d'investissement à l'aide de nos outils internes enrichis par l'IA, préparation des LOI.\n●\tAssistance au pilotage des due diligences : analyse des offres reçues des conseils (avocats, experts techniques et évaluateurs indépendants), suivi de leur exécution, préparation des rapports de suivi, aide à la négociation.\n\nLe poste, stimulant et très responsabilisant, intègre un volet relationnel important : vous serez intégré à l’équipe dirigeante, en interaction constante avec nos clients investisseurs institutionnels. \nVous bénéficierez d'une grande autonomie dans l'organisation de votre emploi du temps, des visites et des rencontres avec les différents partenaires. Ici, pas de poste d'exécution : vos analyses nourrissent des convictions qui pèsent dans les arbitrages de nos clients, vos initiatives construisent le développement de l’équipe et de l’entreprise.\nVous rejoignez une équipe à taille humaine, exigeante et bienveillante, valorisant la solidarité entre les équipes, la progression des talents et le goût du terrain. Une réelle opportunité de consolider votre expérience sur un secteur dynamique, dans un cadre de travail privilégié où votre rôle sera pleinement valorisé.",
     "creationDate": "2026-07-24T13:43:49Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1137,16 +1186,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le groupe BK CONSULTING est une ESN de 800 personnes active dans les secteurs de la finance et de l’industrie en France, en Belgique et au Grand-Duché du Luxembourg. Notre proposition de valeur réside dans notre double compétence informatique et financière qui nous positionne comme un partenaire privilégié chez nos clients. Dans le cadre du développement de nos activités en Belgique et au Grand-Duché du Luxembourg, nous recherchons un/des Business Consultant en VIE.\r\n\r\nMissions Proposées :\r\nParticiper à des analyse de processus métiers.\r\nSpécifier les attentes des utilisateurs à destination de l'informatique.\r\nGestion et suivi de processus back office et middle office (AML/KYC). Analyse de dossiers clients corporate et particuliers.\r\nIdentification des projets et des besoins de vos clients.\r\n\r\nNotre offre, un management et une équipe qui supportent votre dynamique. Un acteur bien implanté et reconnu sur ses marchés. Des outils de travail adaptés. Des perspectives d’évolution significatives au sein du groupe.",
     "creationDate": "2026-09-21T13:32:04Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -1207,37 +1249,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259",
-      "318",
-      "321",
-      "322"
+      "[\"259\",\"318\",\"321\",\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "321",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance Verte et Responsable",
-        "specializationLabelEn": "Finance Verte et Responsable"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Si vous aimez être au plus près des chiffres qui font réellement tourner une usine — et pas seulement les analyser a posteriori — ce poste est fait pour vous.\r\nNous recherchons un(e) Contrôleur de gestion industriel pour rejoindre notre équipe opérations en Allemagne. Vous travaillerez en étroite collaboration avec les équipes production, supply chain et finance, afin d’aider l’entreprise à comprendre où l’argent est dépensé, où il ne devrait pas l’être, et quelles actions mettre en place.\r\n\r\n\r\nLe poste\r\nVous serez au cœur de la finance opérationnelle. Au quotidien, vous analyserez les coûts de production, challengerez les hypothèses, soutiendrez les décisions de planification et vous assurerez que les données financières reflètent la réalité opérationnelle.\r\nFort d’une première expérience dans une entreprise du secteur manufacturier, vous travaillerez en partenariat étroit avec les centres de services partagés, les équipes site et le Directeur Financier EMEA pour transformer les données en analyses concrètes et exploitables.\r\n\r\nResponsabilités principales\r\n•\tAssurer le contrôle de gestion opérationnel (production et stocks)\r\n•\tAnalyser les écarts, les cut-offs de stock et les leviers de performance opérationnelle\r\n•\tCollaborer avec les équipes de comptabilité centralisée pour garantir la fiabilité du reporting, des rapprochements et des valorisations\r\n•\tAccompagner les projets CAPEX avec des analyses financières solides et des études de rentabilité (ROI)\r\n•\tContribuer aux appels d’offres (RFQ) en garantissant des hypothèses de coûts réalistes\r\n•\tParticiper aux initiatives Lean visant à réduire les coûts sans compromettre la qualité\r\n•\tSuivre et analyser des KPI non financiers (énergie, maintenance, taux d’utilisation, etc.)\r\n•\tContribuer au processus S&OP avec des analyses financières et aux prévisions mensuelles\r\n•\tPiloter le budget opérationnel et les forecasts en challengeant la performance\r\n•\tSupporter les audits internes et externes\r\n•\tMaintenir la qualité des données opérationnelles dans l’ERP\r\n•\tAccompagner le Directeur Financier EMEA sur des projets ad hoc\r\n\r\nCe que nous offrons\r\n•\tExposition internationale \r\n•\tUn poste où vos analyses influencent réellement les décisions\r\n\r\nPrêt(e) à vous installer en Allemagne et à être au cœur de l’action ? Postulez dès maintenant.\r\nDans la mesure du possible, merci de nous transmettre votre CV en anglais.",
     "creationDate": "2026-06-25T09:03:42Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3650,16 +3664,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Fondé en 2010 avec la volonté d’allier économies & écologie, Helexia est un acteur indépendant majeur du marché de la transition énergétique.\nL’entreprise, qui compte aujourd’hui plus de 350 collaborateurs présents dans 7 pays, offre à ses clients la possibilité de décarboner leur activité à travers la production d’énergie renouvelable sur site ainsi que des projets d’efficacité énergétique.\nS’inscrivant dans la stratégie d’expansion géographique du groupe, Helexia España a été créée en 2019 avec pour objectif de devenir un acteur incontournable du marché de la transition énergétique en Espagne. La filiale de 16 personnes compte déjà sur plus de 75 projets photovoltaïques en opération pour un total de 40 MW.\n\nPoste et missions :\n\n1/ Analyse de l’ensemble des éléments financiers et stratégiques des opportunités d’investissement sur des centrales solaires en toitures, ombrières ou au sol et sur des projets d’efficacité énergétique:\no Réalisation du Business Plan en collaboration avec les équipes de la BU Espagne\no Analyse du risque de contrepartie\no Réalisation de sensibilités financières et extra-financières sur le Business Plan en fonction de l’opportunité et des risques identifiés\no Préparation de la présentation interne pour le Comité d’investissement\n\n2/ Participation au pilotage financier de la filiale :\no Reporting financier et commercial mensuel/trimestriel et analyse des écarts par rapport au budget ou aux prévisions\no Implication dans le processus budgétaire et la planification financière\no Analyse de la performance financière et suivi des opportunités post-investissement (Asset Management financier)\n\n3/ Réalisation d’études de marché\no Veille concurrentielle\no Analyse de tendances\no Suivi de l’innovation et des nouvelles solutions\n\n4/ Participation aux opérations de financement des actifs espagnols en collaboration avec l’ensemble des parties prenantes (services juridique, technique et financier).\n\n5/ Implication aux différents niveaux du cycle des transactions M&A, en collaboration avec l’équipe d’investissement Groupe :\no Screening de marché et analyse d’opportunités\no Modélisation financière\no Participation aux travaux d’audits\no Soumission du projet aux forums de décision pertinents",
     "creationDate": "2026-09-22T11:31:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
