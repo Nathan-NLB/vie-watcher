@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/10/2026 14:24:50**, 80 offre(s) actuellement en ligne.
+Dernière vérification : **19/10/2026 15:21:29**, 79 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4260,35 +4260,6 @@ The ideal candidate has a master’s degree in Finance.
 • Comfort with collaboration, open communication and reaching across functional borders 
 
 • Fluent English is required German, Dutch or French is a plus.
-
-</details>
-
-<details>
-<summary><strong>VIE Credit Risk Controller (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** ODDO BHF SCA
-- **Lieu :** FRANCFORT, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 22/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246219](https://mon-vie-via.businessfrance.fr/offres/246219)
-
-**Description du poste**
-
-•	Maintain and further develop our credit risk measurement methodologies
-•	Provide timely and quality-assured risk metrics and other management indicators for Credit Risk Management, the Management Board, and other bank committees
-•	Further develop methodologies within the ICAAP and stress testing framework in accordance with MaRisk requirements
-•	Support the development, implementation, and validation of models
-•	Contribute to cross-risk-type topics and projects
-
-**Profil recherché**
-
-•	Successfully completed university degree in Economics, Mathematics, or a Natural Science discipline
-•	Experience in working with databases and Microsoft Office applications; affinity for independently developing data queries, simple programs, and using AI
-•	Excellent written and spoken English skills
-•	Independent and results-oriented working style with enthusiasm for exploring new subject areas
-•	Open and communicative personality
-•	Assertiveness and a high level of commitment
 
 </details>
 

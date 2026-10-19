@@ -878,79 +878,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "4",
-      "5",
-      "8",
-      "9",
-      "199",
-      "200",
-      "201",
-      "202",
-      "203",
-      "259"
+      "[\"4\",\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"202\",\"203\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "4",
-        "specializationParentId": "89",
-        "specializationLabel": "Assurances",
-        "specializationLabelEn": "Insurance"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "203",
-        "specializationParentId": "19",
-        "specializationLabel": "Chargé / Conseiller clientèle bancaire particuliers / professionnels",
-        "specializationLabelEn": "Client advisor (banking)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\n!Join a Dynamic Team at Cleeven!\n\n\n\nAre you ready to join a fast-growing company where your work truly matters? Do you want to contribute to strategic compliance initiatives that shape the future of financial institutions?\n\n\n\nAt Cleeven, we combine energy, innovation, and purpose. Join a team that values your development and gives you the tools to grow while working on impactful projects.\n\n\n\nWHO ARE WE ?\n\n\n\nCleeven is an international engineering consulting firm built on two core principles:\n\nOUR MISSION: To enhance self-awareness and the awareness of those around us.\nOUR BELIEF: Europe’s leadership in innovation depends on the excellence of its engineers and professionals.\n\n\nAt Cleeven, our consultants work hand-in-hand with clients to manage compliance challenges, mitigate risks, and ensure alignment with evolving regulatory demands.\n\nPoste et missions :\n\nYOUR ROLE AS A COMPLIANCE ANALYST (KYC/KYT/AML)\n\n\n\nYou’ll play a key role in helping financial institutions meet regulatory expectations and safeguard their operations. Your responsibilities will include:\n\nMonitoring regulations: Stay on top of regulatory developments in the financial sector and assess their impact.\nKYC/KYT/AML analysis: Review client profiles, monitor transactions, and flag suspicious activity in accordance with legal standards.\nRisk assessment and mitigation: Identify gaps, evaluate compliance risks, and implement mitigation strategies.\nProcess improvement: Propose and deploy enhancements to compliance frameworks and internal procedures.\nInternal controls & audits: Support internal audits and ensure robust compliance practices are in place.\nAwareness and training: Prepare training materials, raise employee awareness, and promote compliance culture.\nBridge business and regulation: Translate complex regulatory language into actionable processes for operational teams.",
     "creationDate": "2025-09-24T10:46:46Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -2957,16 +2887,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "326"
+      "[\"326\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.\r\n\r\nEn étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.\r\n\r\nLe/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.\r\n\r\nVous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :\r\nCoordonner l'amélioration continue du dispositif de contrôle interne.\r\nParticiper au processus d'identification et d'évaluation des risques.\r\nMaintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.\r\nCoordonner les campagnes de contrôle trimestrielles.\r\nAccompagner les collaborateurs dans la réalisation des contrôles.\r\nAssurer le suivi des plans d'action et des mesures correctrices.\r\nÊtre l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.\r\nContribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.\r\n\r\nVous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :\r\n\r\nLa sécurité financière et le traitement des alertes relatives aux sanctions internationales.\r\nLes procédures d'évaluation des partenaires (Know Your Partner - KYP).\r\nLa gouvernance des produits (Product Governance).",
     "creationDate": "2026-10-05T15:26:02Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3307,16 +3230,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Comptable Junior – Comptabilité Opérationnelle\n\n📍 Localisation : Belgique\n💼 Type de contrat : VIE\n📅 Début : À définir\n\nÀ propos du poste\n\nDans le cadre du renforcement de notre équipe Finance, nous recherchons un Comptable Junior pour rejoindre une équipe opérationnelle.\n\nVous serez principalement en charge du traitement quotidien des factures et des opérations comptables, tout en assurant la qualité et la fiabilité des données financières.\n\nNous recherchons avant tout une personne rigoureuse, organisée, structurée et opérationnelle, capable de travailler efficacement dans un environnement dynamique.\n\nVos responsabilités\nTraiter et encoder les factures fournisseurs.\nVérifier la conformité des factures avec les commandes et les informations disponibles.\nAssurer le suivi des factures et des éventuelles anomalies.\nEffectuer les rapprochements entre factures, commandes et réceptions.\nParticiper au suivi des comptes fournisseurs.\nEffectuer les contrôles et corrections nécessaires dans le système comptable.\nParticiper aux clôtures comptables mensuelles.\nPréparer et analyser différents reportings financiers.\nUtiliser Excel pour analyser et consolider les données comptables.\nCollaborer quotidiennement avec les équipes Finance, Achats et les différents interlocuteurs internes.\nIdentifier les écarts ou anomalies et assurer leur résolution.\nContribuer à l'amélioration continue des processus comptables.\nProfil recherché\n\nNous recherchons une personne :\n\nTrès rigoureuse et attentive aux détails.\nOrganisée et structurée dans son travail.\nÀ l'aise avec les tâches opérationnelles et répétitives nécessitant de la précision.\nCapable de respecter des délais et des procédures.\nProactive et capable d'identifier rapidement les anomalies.\nÀ l'aise dans la communication avec différents interlocuteurs.\nDotée d'un bon esprit analytique.\nCapable de travailler de manière autonome tout en appréciant le travail en équipe.\nCompétences techniques\nSAP\n\nUne bonne maîtrise de SAP est indispensable, notamment pour les activités liées au traitement des factures et aux opérations comptables.\n\nExcel\n\nVous maîtrisez Excel et êtes capable de travailler avec des volumes importants de données.\n\nLa maîtrise des fonctionnalités suivantes est attendue :\n\nTableaux croisés dynamiques (TCD).\nRecherche et extraction de données.\nFiltres et tris avancés.\nFormules Excel courantes.\nAnalyse et consolidation de données.\n\nLa connaissance d'autres outils de reporting ou ERP constitue un plus.",
     "creationDate": "2026-08-11T12:58:04Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3874,16 +3790,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Cher/Chère Comptable,\n\n\n\nBienvenue chez CBTW, où nous exploitons le pouvoir de la collaboration pour créer et fournir des solutions technologiques et business innovantes.\n\n\n\nNous sommes une équipe innovante de plus de 3 000 employés dans 21 pays, experts en stratégie, ingénierie logicielle, data, IA, et plus encore.\n\n\n\nAu Luxembourg, nous sommes à la recherche d'un(e) Comptable pour rejoindre notre équipe !\n\n\n\nHow you'll Make an Impact\n\nComptabilité fournisseurs\n\nEncodage des factures fournisseurs dans le système comptable\nVérification et suivi des validations internes des factures\nEncodage et préparation des paiements fournisseurs\nSuivi des échéances et gestion des relances éventuelles\n\n\nComptabilité générale & clôtures\n\nRapprochement des relevés bancaires\nPréparation et validation des comptes mensuels, trimestriels et annuels\nParticipation aux opérations de clôture comptable\nConsolidation des positions intercompagnie\nContrôle de la cohérence et de la fiabilité des données financières\n\n\nTrésorerie & reporting\n\nAnalyse des écarts de trésorerie\nTenue à jour du système d’affacturage\nLiaison avec le service de trésorerie pour le suivi des opérations financières\n\n\nERP & administration financière\n\nTenir à jour le système ERP et assurer la qualité des données comptables\nPréparation des informations de paie pour transmission à la fiduciaire\nInterlocuteur unique auprès de la fiduciaire et des auditeurs externes\nClassement et archivage des documents comptables et administratifs\n\n\nProjets Tiers possibles\n\nGestion et suivi de la fleet\nFacturation client et suivi des paiements",
     "creationDate": "2026-09-30T09:48:23Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -4812,16 +4721,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nFondée en 2010, Helexia est une force motrice dans le secteur de la transition énergétique. Sa mission est de construire des modèles énergétiques gagnants pour ses clients et pour la planète. Avec près de 400 collaborateurs, Helexia a réalisé plus de 350 projets photovoltaïques, pour une puissance installée de 198MWc. Helexia se développe dans 7 pays : France, Italie, Portugal, Espagne, Hongrie, Roumanie, et Pologne. Helexia accompagne ses clients avec des solutions innovantes, performantes et intégrées à 360° pour l'optimisation énergétique de leurs bâtiments tertiaires, industriels et commerciaux, leur permettant de réaliser leurs ambitions de réduction de l'empreinte carbone de leur entreprise grâce à une trajectoire sur mesure. Les services d'Helexia sont développés autour de quatre piliers : l'efficacité énergétique, la production d'énergie verte autoconsommée, la gestion de l'énergie et la mobilité électrique.\n\nPoste et missions :\n\nNous recherchons un(e) Contrôleur Financier Junior F/H hautement motivé(e) et techniquement compétent pour rejoindre notre équipe financière Italienne à Milan !\n\nVous serez responsable de préparer les clôtures mensuelles ainsi que les analyses de performance associées. En prenant appui sur les analyses financières, vous collaborerez avec la Direction Financière Italienne ainsi qu’avec l'équipe FP&A groupe dans l’objectif d’élaborer et de développer des études de cas d’investissements et les méthodes de contrôle et de reporting.\n\nVos principales responsabilités seront les suivantes :\n\n• Préparation des clôtures mensuelles et des reporting dans les délais exigés,\n• Edition des rapports mensuels et analyse des écarts vs le budget et les prévisions,\n• Analyse des performances et des tendances,\n• Élaboration d’études de cas afin d’accompagner nos choix d'investissement,\n• Participation active au développement de nouveaux projets et initiatives financiers,\n• Préparation d'analyses et de rapports financiers,\n• Soutien au processus budgétaire et de planification financière,\n• Maintien et développement des modèles financiers et des bases de données,",
     "creationDate": "2026-09-22T11:15:14Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -5481,76 +5383,6 @@
     "socialReach": false,
     "idMotifDesactivationOffre": 0,
     "contactEmail": "clement.trouveroy@engie.com",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
-    "dateCandidature": null
-  },
-  {
-    "id": 246219,
-    "organizationName": "ODDO BHF SCA",
-    "missionTitle": "VIE Credit Risk Controller (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "ODDO BHF is an independent European financial group active in the areas of Private Wealth Management, Asset Management and Corporates & Investment Banking. With its special entrepreneurial spirit, the Group currently manages around 140 billion euros in client assets and has equity capital of more than 1.1 billion euros. In 2023, ODDO BHF generated net banking income of 806 million euros. With around 3,000 employees in France and Tunisia, Germany and Switzerland, the Group pursues a consistent European strategy with a global perspective. ODDO BHF has a unique shareholder structure that ensures its independence and enables it to develop sustainable products and services aiming on creating a world in which every day is full of opportunities.",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "100",
-    "effectifConso": "500",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "FRANCFORT",
-    "cityNameEn": "FRANCFORT",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "259"
-    ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
-    "missionDescription": "•\tMaintain and further develop our credit risk measurement methodologies\n•\tProvide timely and quality-assured risk metrics and other management indicators for Credit Risk Management, the Management Board, and other bank committees\n•\tFurther develop methodologies within the ICAAP and stress testing framework in accordance with MaRisk requirements\n•\tSupport the development, implementation, and validation of models\n•\tContribute to cross-risk-type topics and projects",
-    "creationDate": "2026-09-21T14:28:47Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-09-22T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-10-22T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "•\tSuccessfully completed university degree in Economics, Mathematics, or a Natural Science discipline\n•\tExperience in working with databases and Microsoft Office applications; affinity for independently developing data queries, simple programs, and using AI\n•\tExcellent written and spoken English skills\n•\tIndependent and results-oriented working style with enthusiasm for exploring new subject areas\n•\tOpen and communicative personality\n•\tAssertiveness and a high level of commitment",
-    "countryId": "DE",
-    "countryName": "ALLEMAGNE",
-    "countryNameEn": "GERMANY",
-    "reference": "VIE246219",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Laurine JUANCHICH",
-    "indemnite": 3027.63,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "laurine.juanchich@oddo-bhf.com",
     "cityAffectation": "",
     "idNomenclatureSecteur": null,
     "externalJobId": "",
