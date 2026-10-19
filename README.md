@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/10/2026 10:54:11**, 78 offre(s) actuellement en ligne.
+Dernière vérification : **19/10/2026 11:25:05**, 79 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -153,6 +153,47 @@ Risques de contrepartie :
 
 o   Compétences métiers : Sensibilité et intérêts aux activités de contrôle
 o   Compétences comportementales : Rigueur, organisation, curiosité, sens du travail en équipe, analytique, respect de la déontologie
+
+</details>
+
+<details>
+<summary><strong>Contrôleur(se) de Gestion (H/F)</strong> · PAPREC FRANCE · MILAN, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** PAPREC FRANCE
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 6 mois (Du 1 déc. 2026 au 1 juin 2027)
+- **Publiée le :** 19/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245982](https://mon-vie-via.businessfrance.fr/offres/245982)
+
+**Description du poste**
+
+Rattaché(e) à la direction de l'intégration du Groupe, le/la VIE prend en charge le contrôle de gestion de la filiale italienne récemment acquise et accompagne sa mise au standard Groupe, dans le cadre du développement de Paprec en Italie. Poste à dominante finance, avec une forte composante projet (systèmes d'information).
+Missions principales :
+•  Contrôle de gestion : produire et fiabiliser le reporting mensuel au format Groupe (P&L, indicateurs d'exploitation, suivi des volumes et des prix)
+•  Clôtures : préparer les clôtures trimestrielles nécessaires à la consolidation Groupe, en lien avec le cabinet comptable local et le siège
+•  Analyse : suivi des marges par activité et par site, analyse des écarts vs budget, refacturation des frais de siège
+•  Business plan : construire et actualiser le business plan de la filiale pour arbitrer les investissements (CAPEX) et les projets de développement
+•  Projet ERP : participer à la bascule du système comptable actuel vers Oracle Fusion Cloud — reprise et mapping des données, plan de comptes, tests et recette
+•  Éditeurs : être l'interlocuteur des éditeurs de logiciels métiers et comptables/financiers (expression de besoin, spécifications, suivi des interfaces)
+•  Intégration : appuyer la direction générale et les équipes locales dans l'intégration opérationnelle de l'entité (processus, procédures, contrôle interne)
+
+Cette mission est prévue pour une durée initiale de six mois, avec possibilité de renouvellement.
+
+**Profil recherché**
+
+Formation supérieure en finance : école de commerce, master CCA / finance d'entreprise, ou école d'ingénieurs avec spécialisation finance.
+
+Compétences attendues :
+•  Bonne maîtrise des fondamentaux du contrôle de gestion et de la comptabilité générale (P&L, bilan, plan de comptes, clôtures)
+•  Excel avancé indispensable (TCD, recherches, construction de reportings) ; à l'aise pour manipuler et fiabiliser des volumes de données importants
+•  Une première approche des ERP ou des outils de BI est un plus, sans être requise : la montée en compétence sur Oracle est assurée en interne
+
+Profil jeune diplômé ou disposant d'une première expérience (stage long, alternance) en contrôle de gestion, audit ou expertise comptable.
+
+Qualités attendues : autonomie, rigueur, forte capacité d'adaptation, aisance en environnement multiculturel et goût du terrain (site industriel situé à Cusago, en périphérie de Milan). Capacité à dialoguer aussi bien avec les équipes comptables qu'avec les équipes systèmes.
+
+Italien courant impératif (échanges quotidiens avec les équipes locales), français courant, anglais professionnel.
 
 </details>
 
