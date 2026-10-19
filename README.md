@@ -8,11 +8,113 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/10/2026 16:56:25**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **19/10/2026 17:26:08**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Junior Controller (H/F)</strong> · BIOMERIEUX SA · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** BIOMERIEUX SA
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 19/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes avec son Master en finance, ses deux années d'expérience en contrôle de gestion et sa maîtrise d'Excel et de l'anglais. Le seul léger écart concerne la mobilité géographique, le candidat ciblant notamment l'Espagne tandis que l'offre est basée à Bruxelles.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247243](https://mon-vie-via.businessfrance.fr/offres/247243)
+
+**Description du poste**
+
+Position Purpose
+
+The Junior Controller will support the CFO Benelux & Nordics (BenNor) in providing accurate financial information, analysis and insights to support business decision-making across the cluster.
+
+Working closely with the CFO, Senior Controllers and business teams, the Junior Controller will contribute to financial data reliability, monthly closing and reporting, budgeting and forecasting, while progressively developing a strong understanding of bioMérieux’s business, financial processes and controlling tools.
+
+
+Key Responsibilities
+
+Financial Analysis & Business Support
+
+Support the CFO and controlling team in preparing regular and ad hoc financial analyses to inform business and management decisions.
+
+Analyse key business indicators, including sales performance, product margins, selling prices and price evolution, deal profitability, and installed base performance.
+
+Identify significant variances and trends and contribute to explanations and recommendations.
+
+
+Closing & Reporting
+
+Participate in the monthly closing process and prepare management reporting for the BenNor cluster.
+
+Support controllers in ensuring the accuracy and consistency of financial information through data checks and reconciliations across systems.
+
+Help improve reporting processes and the efficiency of recurring controlling activities.
+
+
+Budget & Forecasting
+
+Participate in the annual budget and periodic forecasting processes.
+
+Support the consolidation and analysis of financial assumptions provided by countries and functions.
+
+Contribute to the coordination of the sales forecasting process.
+
+Monitor actual performance against budget and forecast.
+ 
+
+Data Quality & Internal Control
+
+Support the CFO and controlling team in maintaining high-quality financial data across systems.
+
+Contribute to the application and monitoring of internal control requirements at cluster level.
+
+Help identify inconsistencies, risks and opportunities for improvement, and support the documentation and standardisation of finance processes.
+
+
+Cluster Coordination & Projects
+
+Work closely with local Finance teams across Benelux and the Nordics, supporting the CFO in coordinating controlling activities and finance initiatives.
+
+Participate in local, EMEA and global finance projects, including the implementation and continuous improvement of finance tools, processes and reporting.
+
+Help represent BenNor business requirements in interactions with EMEA Finance, Corporate Finance and Information Systems teams.
+
+**Profil recherché**
+
+Your profile
+
+
+Bachelor’s or Master’s degree in Finance, Accounting, Business Administration, Economics or a related field.
+
+Ideally 1–3 years of experience in controlling, financial analysis, audit or a similar finance position. Strong graduates with relevant internships may also be considered.
+
+Good understanding of financial and management accounting principles.
+
+Strong analytical skills, with attention to accuracy and data quality.
+
+Very good Excel skills; experience with financial reporting or ERP systems is an advantage.
+
+Motivation to learn bioMérieux finance tools, including OPERA, COFIS and PRISM.
+
+Good communication and interpersonal skills, with the ability to collaborate across countries and functions.
+A proactive, solution-oriented approach.
+
+Comfort working in an international and evolving environment.
+
+Fluent in English; knowledge of another Benelux or Nordic language is an advantage.
+ 
+
+Development Opportunity
+
+
+This VIE offers broad exposure to the BenNor Finance organisation and an opportunity to develop within an international finance environment.
+
+Working directly with the CFO and experienced controllers, the Junior Controller will progressively gain autonomy in financial analysis, forecasting, reporting and business partnering. The role will help build a strong understanding of the financial and operational dimensions of the business, preparing for future controlling or finance business partnering responsibilities within bioMérieux.
+
+</details>
 
 <details>
 <summary><strong>MANAGEMENT CONTROL ANALYST (H/F)</strong> · LEGRAND FRANCE · LIMA, PEROU · 2 440,62 €/mois</summary>
