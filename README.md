@@ -8,11 +8,44 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/10/2026 16:18:06**, 80 offre(s) actuellement en ligne.
+Dernière vérification : **19/10/2026 16:56:25**, 81 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>MANAGEMENT CONTROL ANALYST (H/F)</strong> · LEGRAND FRANCE · LIMA, PEROU · 2 440,62 €/mois</summary>
+
+- **Entreprise :** LEGRAND FRANCE
+- **Lieu :** LIMA, PEROU
+- **Indemnité :** 2 440,62 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 19/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil correspond parfaitement aux exigences techniques du poste avec 2 ans d'expérience en contrôle de gestion et un niveau d'anglais solide, bien que le candidat ait un niveau d'espagnol B1 inférieur au niveau C1 requis par l'entreprise.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247234](https://mon-vie-via.businessfrance.fr/offres/247234)
+
+**Description du poste**
+
+You will support the Finance Department by providing reliable financial and business analysis, ensuring accurate management reporting, and contributing to budgeting, forecasting, and monthly closing processes, to facilitate informed decision-making and effective business performance monitoring.
+Among your key resposabilities, you will contribute in: 
+- Managing the BPC reporting application,
+- Preparing sales analysis reports,
+- Supporting the preparation and consolidation of final budgets,
+- Supporting the preparation of quarterly forecasts,
+- Supporting monthly accounting and management control closing processes,
+- Preparing business analyses and reports related to sales and finance to support informed decision-making.
+
+**Profil recherché**
+
+Graduated from a Master’s degree or equivalent professional qualification in Finance with at least 2 years of experience in management control, financial planning and analysis, accounting, budgeting, or similar finance-related position,
+Mastery of Spanish/English and French (level C1),
+Advanced proficiency in Microsoft tools (esp. Excel),
+Knowledge of reporting and financial planning systems,
+Experience with data visualisation and business intelligence tools is desirable,
+Analytical thinking, attention to detail and accuracy, planning and organisational skills, results orientation, business acumen, effective communication, collaboration and teamwork, proactivity and continuous improvement mindset.
+
+</details>
 
 <details>
 <summary><strong>CGO INTERNATIONAL (H/F)</strong> · (GROUPE) ASTEK · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
