@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/10/2026 03:45:46**, 80 offre(s) actuellement en ligne.
+Dernière vérification : **19/10/2026 04:19:17**, 78 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4267,97 +4267,6 @@ Maintain and strengthen internal control and compliance.
 
 •	Starting date: ASAP - Q4 2026
 •	1-2 months in our Paris office before moving to San Carlos
-
-</details>
-
-<details>
-<summary><strong>Analyste Projets & Développement d'Infrastructures SAG (H/F)</strong> · MERIDIAM · LIBREVILLE, GABON · 2 753,49 €/mois</summary>
-
-- **Entreprise :** MERIDIAM
-- **Lieu :** LIBREVILLE, GABON
-- **Indemnité :** 2 753,49 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 18/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246082](https://mon-vie-via.businessfrance.fr/offres/246082)
-
-**Description du poste**
-
-Sous la responsabilité du Directeur des Investissements Afrique centrale et en étroite collaboration avec les équipes de SAG, le/la VIE participera au suivi opérationnel, financier et contractuel des actifs d'infrastructure de Meridiam au Gabon.
-Il/elle interviendra à la fois sur des sujets de gestion d'actifs (asset management), de financement de projet, de gouvernance, de suivi de construction/exploitation ainsi que sur des travaux de développement de nouveaux projets.
-Cette position constitue une opportunité unique d'acquérir une expérience transversale sur l'ensemble du cycle de vie des projets d'infrastructure : développement, structuration, financement, construction, exploitation et gestion d'actifs.
-Le poste implique des interactions régulières avec les autorités publiques, les prêteurs internationaux, les conseils techniques, juridiques et financiers, les partenaires industriels et les équipes de Meridiam basées en Afrique et à Paris.
-
-Fonctions et responsabilités principales
-Sous la supervision de l'équipe Meridiam Gabon, le/la VIE aura notamment pour missions :
-
-Asset Management & Suivi des participations
-Participer au suivi des performances opérationnelles, financières et ESG des actifs détenus par Meridiam au Gabon ;
-Préparer les tableaux de bord mensuels, indicateurs clés de performance et rapports d'investissement ;
-Contribuer à la préparation des conseils d'administration, comités techniques et réunions d'actionnaires ;
-Assurer le suivi des plans d'action des sociétés de projet ;
-Participer au suivi des obligations contractuelles des concessionnaires, EPC, opérateurs et autres parties prenantes ;
-Appuyer les équipes dans le suivi des relations avec les prêteurs et institutions financières de développement.
-
-Projet SAG / Transgabonaise
-Participer au suivi de la mise en œuvre du contrat de concession ;
-Contribuer au suivi des travaux, des réclamations contractuelles et des principaux risques du projet ;
-Assister à l'analyse des reportings techniques, financiers et HSE ;
-Participer au suivi des obligations environnementales et sociales ;
-Analyses financières et à la mise à jour des modèles financiers.
-
-Développement de nouveaux projets (Business Development)
-Réaliser des études sectorielles et analyses de marché ;
-Participer à l'identification de nouvelles opportunités d'investissement au Gabon et en Afrique centrale ;
-Contribuer aux analyses financières préliminaires et aux business plans ;
-Participer à la préparation des propositions commerciales et des réponses à appels d'offres ;
-Assister les équipes dans les due diligences techniques, juridiques, ESG et financières ;
-Contribuer à la préparation des notes d'investissement destinées aux comités internes.
-
-**Profil recherché**
-
-Compétences et expérience souhaitées
-Diplôme d'ingénieur, école de commerce ou master universitaire de premier plan ;
-Formation avec spécialisation en infrastructure, énergie, travaux publics, finance, économie ou gestion de projet ;
-Première expérience en banque d'investissement, fonds d'infrastructure, conseil, financement de projet ou gestion de projet appréciée ;
-Solides capacités d'analyse quantitative et financière ;
-Maîtrise avancée d'Excel et PowerPoint ;
-La connaissance des modèles financiers de projet est un atout ;
-Intérêt marqué pour les infrastructures, les PPP et le développement économique en Afrique ;
-Excellentes capacités rédactionnelles et de synthèse ;
-Forte autonomie, rigueur et capacité d'organisation ;
-Capacité à évoluer dans un environnement multiculturel et à interagir avec des interlocuteurs de haut niveau ;
-Excellente maîtrise du français et de l'anglais, à l'oral comme à l'écrit.
-
-Conditions générales d'emploi
-Le contrat proposé est un "Volontaire International en Entreprise" (VIE) pour une durée initiale de 12 mois. Le package sera typique du package Business France.
-En plus du versement d’une indemnité mensuelle versée au candidat, l'entreprise prendra en charge les frais de transport de la France au Gabon (conformément aux normes de Business France), le logement à Libreville (studio/appartement) et sur site, ainsi qu’une couverture médicale fournie par Business France.
-
-Être âgé d'au moins 18 ans et de moins de 29 ans : vous devez avoir 28 ans au moment de votre départ en mission, sachant qu'un contrat V.I.E. commence toujours le 1er de chaque mois.
-Vous devez être de nationalité française ou ressortissant d'un pays de l'Espace économique européen. Si vous êtes de nationalité française ou double national, vous devez être en règle avec les obligations du service national français (numéro d'identification de la défense).
-
-Début de contrat souhaitée : 1er Février 2027
-
-</details>
-
-<details>
-<summary><strong>Division Controller (H/F)</strong> · MINEBEA ACCESSSOLUTIONS FRANCE · KOSICE, SLOVAQUIE · 2 363,04 €/mois</summary>
-
-- **Entreprise :** MINEBEA ACCESSSOLUTIONS FRANCE
-- **Lieu :** KOSICE, SLOVAQUIE
-- **Indemnité :** 2 363,04 €/mois
-- **Durée de la mission :** 18 mois (Du 1 nov. 2026 au 1 mai 2028)
-- **Publiée le :** 18/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244965](https://mon-vie-via.businessfrance.fr/offres/244965)
-
-**Description du poste**
-
-As a Division Controller, you will consolidate financial information, lead forecasting and budgeting (Plan/Ti), and provide critical insights to help management understand performance while identifying risks and opportunities. You will also oversee R&D financial follow-ups, product margin analysis, and capital expenditure (CAPEX) applications.
-
-**Profil recherché**
-
-Education: College or University degree (BSc/MSc).
-Languages: Fluent in English.
-Technical Skills: Experience in SAP  and Microsoft Office (Excel, PowerPoint, Word).
 
 </details>
 
