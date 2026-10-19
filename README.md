@@ -8,11 +8,46 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/10/2026 08:06:34**, 78 offre(s) actuellement en ligne.
+Dernière vérification : **19/10/2026 09:04:50**, 78 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Risk Officer (H/F)</strong> · CACEIS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** CACEIS
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 19/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246277](https://mon-vie-via.businessfrance.fr/offres/246277)
+
+**Description du poste**
+
+Au sein de CACEIS Bank, Belgium Branch, le VIE rejoindra l'équipe des Risques.
+
+Les missions principales du département sont les suivantes:
+
+Risque Opérationnel et Contrôles Permanents : Pilotage du processus de contrôle interne, ainsi que de la maîtrise des risques opérationnels (détection, mesures de préventions, cartographie, contrôles),
+Risque de Contrepartie : Instruction, suivi et surveillance de toutes les opérations engendrant un risque de contrepartie ou un risque de marché (risque de crédit, risque de change…)
+Comités : Animation et secrétariat du Comité Risk et Compliance et du Control Executive Committee.
+Tâches principales du VIE:
+
+Assister le Risk Officer dans ses tâches de contrôle :
+Risques opérationnels :
+   - Réaliser les contrôles selon le plan de contrôle du département,
+   - Analyser et suivre les risques opérationnels à travers notamment du suivi des incidents et de la mise en place d'actions correctives avec les services concernés,
+Risques de contrepartie :
+    - Contrôle quotidien du respect des limites de contrepartie et analyse  des demandes de lignes de découvert et de lignes de change.
+
+**Profil recherché**
+
+o   Compétences métiers : Sensibilité et intérêts aux activités de contrôle
+o   Compétences comportementales : Rigueur, organisation, curiosité, sens du travail en équipe, analytique, respect de la déontologie
+
+</details>
 
 <details>
 <summary><strong>Business Analyst (H/F)</strong> · B.G. · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
@@ -3939,41 +3974,6 @@ De formation ingénieur ou équivalente, vous justifiez d’au moins une premiè
 Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
 
 Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.
-
-</details>
-
-<details>
-<summary><strong>Risk Officer (H/F)</strong> · CACEIS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** CACEIS
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 22/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246277](https://mon-vie-via.businessfrance.fr/offres/246277)
-
-**Description du poste**
-
-Au sein de CACEIS Bank, Belgium Branch, le VIE rejoindra l'équipe des Risques.
-
-Les missions principales du département sont les suivantes:
-
-Risque Opérationnel et Contrôles Permanents : Pilotage du processus de contrôle interne, ainsi que de la maîtrise des risques opérationnels (détection, mesures de préventions, cartographie, contrôles),
-Risque de Contrepartie : Instruction, suivi et surveillance de toutes les opérations engendrant un risque de contrepartie ou un risque de marché (risque de crédit, risque de change…)
-Comités : Animation et secrétariat du Comité Risk et Compliance et du Control Executive Committee.
-Tâches principales du VIE:
-
-Assister le Risk Officer dans ses tâches de contrôle :
-Risques opérationnels :
-   - Réaliser les contrôles selon le plan de contrôle du département,
-   - Analyser et suivre les risques opérationnels à travers notamment du suivi des incidents et de la mise en place d'actions correctives avec les services concernés,
-Risques de contrepartie :
-    - Contrôle quotidien du respect des limites de contrepartie et analyse  des demandes de lignes de découvert et de lignes de change.
-
-**Profil recherché**
-
-o   Compétences métiers : Sensibilité et intérêts aux activités de contrôle
-o   Compétences comportementales : Rigueur, organisation, curiosité, sens du travail en équipe, analytique, respect de la déontologie
 
 </details>
 
