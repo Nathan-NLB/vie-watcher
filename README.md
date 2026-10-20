@@ -8,11 +8,89 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **20/10/2026 08:20:46**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **20/10/2026 09:19:36**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE - Product Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 20/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien au poste grâce à ses compétences en analyse financière, en rentabilité, sa maîtrise d'Excel et son niveau d'anglais, tout en étant basé à Madrid comme il le souhaite. L'écart réside dans l'orientation du poste vers le product management énergétique (pricing/costing) plutôt que le contrôle de gestion pur, bien que ses compétences analytiques s'y appliquent parfaitement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247246](https://mon-vie-via.businessfrance.fr/offres/247246)
+
+**Description du poste**
+
+VIE - Product Analyst
+
+📍 Localisation : Madrid, Espagne
+
+À propos d’ENGIE et de Supply & Energy Management :
+
+ENGIE, leader mondial de l’énergie bas carbone et des services, s’appuie sur sa Global Business Unit Supply & Energy Management (GBU S&EM) pour fournir une énergie fiable, durable et abordable à l’ensemble de ses clients. Cette entité stratégique optimise les actifs de production du Groupe et de ses clients et conçoit des solutions énergétiques sur mesure pour plus de 200 000 clients professionnels et 15 millions de consommateurs.
+
+La Global Business Unit Supply & Energy Management s’appuie sur les actifs d’ENGIE pour fournir une énergie sûre et durable à ses clients B2B et B2C. Grâce à son expertise dans la gestion de l’énergie, elle contribue à la fourniture d’électricité décarbonée 24h/24 et 7j/7.
+
+Rejoindre Supply & Energy Management, c’est intégrer une équipe de plus de 10 000 experts passionnés répartis dans 20 pays, tous animés par une mission commune : construire un avenir énergétique plus vert et plus performant. Ensemble, nous repoussons les limites de l’innovation pour fournir une énergie décarbonée 24h/24 et 7j/7. Rejoignez-nous et participez à la construction de l’énergie de demain !
+
+Contexte
+Au sein de l’activité B2B et plus particulièrement du canal de vente indirect, le Product Analyst contribue à la gestion opérationnelle des offres d’énergie (électricité et gaz). Il assure la définition, la configuration, le suivi et l’optimisation des produits tout au long de leur cycle de vie, en collaboration avec les équipes commerciales, opérationnelles et les autres parties prenantes.
+
+Votre mission
+Au sein de l’équipe Product, vous participerez aux activités quotidiennes liées à la gestion et au développement des offres commerciales :
+
+Définir et paramétrer des offres d’électricité et de gaz destinées au canal indirect grâce à des analyses de pricing et de costing.
+Participer à la publication et à la maintenance des campagnes commerciales.
+Réaliser les tests et validations nécessaires avant la mise en marché des offres.
+Développer de nouveaux produits et coordonner leur mise en œuvre avec les équipes opérationnelles.
+Assurer le suivi et la résolution des incidents liés aux produits et aux campagnes commerciales.
+Réaliser des analyses de marché et des benchmarks afin de suivre le positionnement concurrentiel des offres.
+Développer des outils d’analyse des évolutions des marchés de l’électricité et du gaz.
+Contribuer à l’analyse de la rentabilité et de la performance des produits.
+Maintenir et gérer la documentation produit.
+Accompagner les équipes commerciales sur les questions relatives aux produits, à leur disponibilité et à leur configuration.
+Identifier et proposer des améliorations des processus de configuration, de test et de publication.
+Veiller au respect des politiques et procédures du Groupe.
+
+**Profil recherché**
+
+Ce que nous recherchons
+Vous souhaitez évoluer dans un environnement dynamique au cœur des marchés de l’énergie et développer vos compétences en gestion de produits, analyse de données et stratégie commerciale.
+
+Compétences techniques
+Bonne capacité d’analyse de données et de résolution de problèmes.
+Intérêt pour les marchés de l’énergie (électricité et gaz).
+Connaissances en pricing, costing ou analyse de rentabilité appréciées.
+Maîtrise avancée d’Excel et des outils bureautiques.
+Capacité à réaliser des benchmarks et analyses de marché.
+Connaissances en gestion de projet ou en gestion de produits constituant un atout.
+Appétence pour les systèmes d’information et le paramétrage d’outils métiers.
+
+Compétences comportementales
+Esprit analytique et rigueur.
+Sens de l’organisation et gestion des priorités.
+Autonomie et proactivité.
+Bonnes capacités de communication.
+Esprit d’équipe et collaboration transverse.
+Orientation résultats et amélioration continue.
+Capacité à travailler dans un environnement évolutif.
+
+Formation & Expérience
+Diplôme Bac+5 (école d’ingénieur, école de commerce, université ou équivalent).
+Spécialisation en énergie, économie, finance, gestion, data analytics ou domaine similaire.
+Une première expérience en analyse de données, gestion de produits, pricing ou marchés de l’énergie constitue un atout.
+Éligibilité au dispositif VIE.
+
+Langues
+Anglais courant.
+
+</details>
 
 <details>
 <summary><strong>Junior Controller (H/F)</strong> · BIOMERIEUX SA · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
