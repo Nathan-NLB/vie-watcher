@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **20/10/2026 18:22:51**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **20/10/2026 19:12:02**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
