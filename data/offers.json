@@ -2824,16 +2824,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are seeking a highly motivated Junior Trading Analyst to join our dynamic team, supporting a 24-7 EMEA, Singapore and US over-the-counter (OTC) cryptocurrency spot flow operation. This role provides an exceptional opportunity to make a significant impact within our fast-growing and innovative organization with the ability to move into a full time trader role.\nResponsibilities:\nMonitor and analyze market trends, news, and economic data to identify trading opportunities and content for research reports\nAssist traders in the execution, booking and reporting of trades across various internal systems\nConduct quantitative and qualitative analysis of trading and hedging strategies and market conditions\nPrepare and maintain daily, weekly, and monthly trading reports\nCollaborate with other team members to improve trading, booking and settlement processes and systems\nAssist in the management of trading risk and compliance with regulatory requirements.\nStay updated with industry developments and emerging market trends\nQualifications:\nBachelor’s degree in Finance, Economics, Mathematics, Computer Science, or a related field\nStrong analytical and quantitative skills with the ability to interpret complex data sets.\nProficiency in Excel and familiarity with programming languages such as Python, R, or SQL\nExcellent communication and teamwork skills\nAbility to work in a fast-paced, high-pressure environment\nKeen interest in financial markets and trading\nExcellent interpersonal and communication skills, with a client-focused approach to trading\nDemonstrated ability to perform under pressure, make quick decisions and handle high volumes of transactions\nA keen interest in staying updated with trends and news in the fast-paced world of cryptocurrencies. Prior personal experience is a plus\nMust be comfortable working flexible hours in coordination with our Singapore and UK teams\nThe ideal candidate will be a hungry, hard-working individual accustomed to earning a significant portion of income through commission. If you are ready to seize this challenging opportunity and make a substantial contribution to our operation, we invite you to apply",
     "creationDate": "2026-08-28T13:31:37Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3174,16 +3167,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "About ENGIE and Supply & Energy Management\n\nENGIE is a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions.\n\nGuided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses, including gas, renewable energies and services, to provide competitive solutions to our customers.\n\nSupply & Energy Management (S&EM) is ENGIE’s Global Business Unit dedicated to delivering reliable, sustainable and affordable energy solutions. The business unit optimizes both ENGIE’s and its clients’ assets while designing tailor-made energy solutions for more than 200,000 professional clients and 15 million consumers.\n\nOperating in 20 countries and bringing together more than 10,000 experts, S&EM leverages ENGIE’s asset portfolio and market expertise to deliver decarbonized electricity 24/7, supporting customers in their energy transition journey.\n\nJoining Supply & Energy Management means becoming part of an international team of passionate professionals committed to shaping a greener and more efficient energy future.\n\nContext\n\nAs part of the Credit Risk Analysis team, you will play a key role in assessing the creditworthiness of counterparties and ensuring effective management of credit risk exposure across S&EM's activities.\n\nReporting to the Head of Credit Risk Analysis, you will work closely with Front Office, Legal, KYC/AML and Risk stakeholders in a dynamic and international trading environment.\n\nWhat You Will Do\nCurrent Portfolio Management\nMonitor and analyze existing counterparties' credit exposure and risk evolution.\nManage and review credit limits.\nAssess and approve Front Office transactions and contractual agreements from a credit risk perspective.\nEnsure continuous monitoring of portfolio risk and identify mitigation actions where necessary.\nCounterparty Onboarding & Risk Assessment\nSupport business development activities before contract execution.\nAnalyze prospects' financial situation, business model and regulatory environment.\nEvaluate creditworthiness and determine appropriate risk limits.\nPrepare recommendations for Credit Risk Management and Credit Committees.\nCredit Documentation & Negotiation\nNegotiate credit-related documentation and netting agreements with counterparties.\nCollaborate closely with Legal teams to ensure appropriate contractual protections.\nDigitalization & Continuous Improvement\nContribute to the development and enhancement of risk management tools.\nParticipate in digital transformation initiatives in partnership with Credit Reporting and IT teams.\nSupport process optimization and automation projects.\nBusiness Support Activities\nProduce daily risk reports.\nRespond to urgent Front Office requests regarding transaction impacts on exposure levels.\nProvide timely trading approvals based on risk assessments.\nKey Stakeholders\nInternal Interfaces\nFront Office\nCredit Reporting Team\nKYC / AML Team\nLegal Department\nIT Support\nExternal Interfaces\nClients and counterparties\nBusiness development teams\nLegal advisors\nFinancial institutions and lenders",
     "creationDate": "2026-10-08T14:46:26Z",
     "missionStartDate": "2026-12-01T00:00:00",
@@ -3314,23 +3300,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "259"
+      "[\"180\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Corporate Access est un service intégré au sein des salles des marchés d'ODDO BHF Securities et destiné à mettre en relation des sociétés cotées européennes avec des investisseurs institutionnels français et étrangers. Cela prend la forme de roadshows, composés de meetings (One-to-One, One-to-Few, Group meetings) entre sociétés de gestion et des sociétés cotées, de road trip, de visites de site, de forums.\r\nAu sein de l'organisation globale des opérations d’ODDO BHF Corporates &amp; Markets sur les marchés Equity, vos principales missions seront les suivantes : \r\n•Organisation des roadshows (emailings, contacts avec des Corporates et la base clients, mise à jour de base de données (CRM))\r\n•Organisation des événements avec nos analystes (roadshow des analystes, visioconférence thématiques hebdomadaires).\r\nSelon le sérieux et la fiabilité du volontaire, possibilités d’évolution et de prises de responsabilité.\r\n•Aide à l’organisation des forums (création de save-the-date/invitations, relation avec les prestataires, gestion de la base de données et des relations clients, statistiques)\r\nVotre équipe et votre environnement\r\nVous serez basé(e) à Francfort et intégrerez une équipe jeune et dynamique présente en France (Paris et Lyon), à Francfort, à Amsterdam et à New York. Au regard du champ d’application du poste, vous serez également amené à échanger fréquemment avec des interlocuteurs présents dans toutes nos plateformes Equity (Tunisie, Allemagne, Pays-Bas, Espagne, Etats-Unis).\r\nEn tant que collaborateur au sein de l’équipe Corporate Access, vous intégrerez l’organisation d’un intermédiaire de marché et serez :\r\n- d’une part au contact des investisseurs institutionnels (que comprends notamment ODDO BHF AM et ODDO BHF BP), nos clients pris en charge par nos équipes de vente,\r\n- d’autre part au contact des managements et équipes des Relations Investisseurs des sociétés cotées, couverte par nos analystes sell-side.\r\nCette double exposition vous permettra d’appréhender les différents métiers qui composent le brokerage et de comprendre leur apport et leur besoin",
     "creationDate": "2026-10-08T07:14:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3937,16 +3909,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "326"
+      "[\"326\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.\r\n\r\nEn étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.\r\n\r\nLe/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.\r\n\r\nVous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :\r\nCoordonner l'amélioration continue du dispositif de contrôle interne.\r\nParticiper au processus d'identification et d'évaluation des risques.\r\nMaintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.\r\nCoordonner les campagnes de contrôle trimestrielles.\r\nAccompagner les collaborateurs dans la réalisation des contrôles.\r\nAssurer le suivi des plans d'action et des mesures correctrices.\r\nÊtre l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.\r\nContribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.\r\n\r\nVous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :\r\n\r\nLa sécurité financière et le traitement des alertes relatives aux sanctions internationales.\r\nLes procédures d'évaluation des partenaires (Know Your Partner - KYP).\r\nLa gouvernance des produits (Product Governance).",
     "creationDate": "2026-10-05T15:26:02Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5568,16 +5533,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Louis Dreyfus Company (LDC) has been a key player in the global coffee industry for more than 30 years. We specialize in all major Arabica and Robusta coffee qualities, serving a diverse customer base worldwide, ranging from specialty roasters to multinational food and beverage companies.\r\n\r\nWe are looking for a highly motivated and analytical individual to join our Coffee Financial Planning & Analysis (FP&A) team, reporting to the FP&A Manager for the Coffee Platform in EMEA.\r\n\r\nIn this role, you will support the FP&A Manager in delivering recurring monthly performance analysis, coordinating budgeting and forecasting activities, and contributing to a range of ad hoc, cross-functional projects. You will work closely with multiple teams across the EMEA region, gaining exposure to the commercial, operational, and financial aspects of the coffee business.\r\n\r\nThis position offers a unique opportunity to develop your FP&A skills within a dynamic and international environment. Based in Kampala, Uganda, LDC's largest coffee origination platform in EMEA, you will gain unique exposure to the coffee supply chain, from origin to destination markets. This role offers the opportunity to work closely with commercial, operational, and finance teams while developing a solid foundation in business partnering, financial analysis, and commodity markets. For motivated individuals, it represents an excellent entry point into LDC and a strong platform from which to pursue future career opportunities across Finance, Commercial, Operations, or other functions within the Group.\r\nFinancial performance & reporting \r\n\r\n•\tDeliver comprehensive monthly performance analysis, comparing reported numbers to the budget, while clearly identifying and explaining key variances and underlying business drivers.\r\n•\tContribute to the preparation of the Monthly Performance Review (MPR), including analytical files and presentation materials, ensuring accuracy, consistency, and clear financial messaging.\r\n•\tSupport the FP&A Manager in delivering ad hoc financial analyses for management and business stakeholders, including profitability reviews, OPEX deep-dives, trend analysis, and scenario modeling.\r\nBusiness Partnering & Decision Support\r\n\r\n•\tContribute to budget, forecast, and landing exercises by challenging assumptions and assessing associated risks and opportunities.\r\n•\tParticipate in discussions with commercial and finance teams to understand the financial performance of the Coffee Platform and the drivers of profitability.\r\n•\tDevelop financial models and scenario analyses to evaluate business performance, operational initiatives, and market developments.\r\n\r\nProcess Improvement & Digitalization\r\n•\tIdentify opportunities to improve reporting processes, data quality, and analytical tools through automation and simplification initiatives. \r\n•\tAct as a key liaison between Finance, IT, and business teams to enhance reporting systems and strengthen data integrity.\r\nThe scope is the LDC EMEA Coffee Platform.",
     "creationDate": "2026-07-23T07:37:46Z",
     "missionStartDate": "2027-01-01T00:00:00",
