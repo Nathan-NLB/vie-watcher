@@ -689,16 +689,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Rattaché(e) à la direction de l'intégration du Groupe, le/la VIE prend en charge le contrôle de gestion de la filiale italienne récemment acquise et accompagne sa mise au standard Groupe, dans le cadre du développement de Paprec en Italie. Poste à dominante finance, avec une forte composante projet (systèmes d'information).\nMissions principales :\n•  Contrôle de gestion : produire et fiabiliser le reporting mensuel au format Groupe (P&L, indicateurs d'exploitation, suivi des volumes et des prix)\n•  Clôtures : préparer les clôtures trimestrielles nécessaires à la consolidation Groupe, en lien avec le cabinet comptable local et le siège\n•  Analyse : suivi des marges par activité et par site, analyse des écarts vs budget, refacturation des frais de siège\n•  Business plan : construire et actualiser le business plan de la filiale pour arbitrer les investissements (CAPEX) et les projets de développement\n•  Projet ERP : participer à la bascule du système comptable actuel vers Oracle Fusion Cloud — reprise et mapping des données, plan de comptes, tests et recette\n•  Éditeurs : être l'interlocuteur des éditeurs de logiciels métiers et comptables/financiers (expression de besoin, spécifications, suivi des interfaces)\n•  Intégration : appuyer la direction générale et les équipes locales dans l'intégration opérationnelle de l'entité (processus, procédures, contrôle interne)\n\nCette mission est prévue pour une durée initiale de six mois, avec possibilité de renouvellement.",
     "creationDate": "2026-09-15T12:43:44Z",
     "missionStartDate": "2026-12-01T00:00:00",
