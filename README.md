@@ -8,11 +8,56 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **20/10/2026 10:25:22**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **20/10/2026 11:10:49**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Market Analyst Western and Central Europe (VIE) (H/F)</strong> · EURONEXT PARIS SA · MILAN, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** EURONEXT PARIS SA
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 20/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le candidat possède de solides compétences financières, une maîtrise de Power BI et un excellent niveau d'anglais qui correspondent aux attentes. Cependant, l'offre est axée sur l'analyse de marché et le développement commercial dans le secteur de l'énergie (Milan) plutôt que sur un rôle pur de contrôle de gestion.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247265](https://mon-vie-via.businessfrance.fr/offres/247265)
+
+**Description du poste**
+
+You will be primarily responsible for:
+
+Helping the team grow Nord Pool’s presence in Western and Central (WCE) Europe.
+
+Help the Market Manager expand their presence and grow their business
+
+Perform market, market participant and other type of analyses for the team
+
+Perform back office work for the team (such as data management)
+
+Help in event organization and participation
+
+Possibly participate in external forums, trade fairs and conferences
+
+Work with customers and external stakeholders to understand their demands and industry trends to be able to shape an innovative and competitive offering in the region
+
+Work closely with internal stakeholders such as the Operations team and Product Management
+
+**Profil recherché**
+
+Your Profile:
+
+You have experience or a strong interest in energy or financial markets and have a degree in business or engineering.
+
+Fluent in English. Other languages such as French or German are appreciated.
+
+Innovative, energetic, optimistic, ambitious but not aggressive, structured and with attention to analysis and details, independent and with great communication and relational skills, describe you best.
+
+You work well with Microsoft Office and Power BI and can quickly learn other software.
+
+</details>
 
 <details>
 <summary><strong>VIE - Product Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
