@@ -486,5 +486,10 @@
     "lon": -77.0305912
   },
   "entreprise|biomerieux sa|bruxelles|belgique": null,
-  "entreprise|euronext paris sa|milan|italie": null
+  "entreprise|euronext paris sa|milan|italie": null,
+  "entreprise|direction generale du tresor|tachkent|ouzbekistan": null,
+  "ville|tachkent|ouzbekistan": {
+    "lat": 41.3123363,
+    "lon": 69.2787079
+  }
 }

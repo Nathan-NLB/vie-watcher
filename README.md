@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **20/10/2026 15:18:47**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **20/10/2026 15:59:01**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -56,6 +56,102 @@ Fluent in English. Other languages such as French or German are appreciated.
 Innovative, energetic, optimistic, ambitious but not aggressive, structured and with attention to analysis and details, independent and with great communication and relational skills, describe you best.
 
 You work well with Microsoft Office and Power BI and can quickly learn other software.
+
+</details>
+
+<details>
+<summary><strong>Attaché(e) économique (H/F)</strong> · DIRECTION GENERALE DU TRESOR · TACHKENT, OUZBEKISTAN · 2 703,22 €/mois</summary>
+
+- **Entreprise :** DIRECTION GENERALE DU TRESOR
+- **Lieu :** TACHKENT, OUZBEKISTAN
+- **Indemnité :** 2 703,22 €/mois
+- **Durée de la mission :** 24 mois (Du 1 mars 2027 au 1 mars 2029)
+- **Publiée le :** 20/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel en entreprise, tandis que cette offre de la DG Trésor relève de la macroéconomie, de la diplomatie économique et de l'analyse financière publique. Bien qu'il possède de solides compétences financières et un bon niveau d'anglais, son parcours manque de lien avec les politiques publiques, l'aide au développement et la zone géographique visée.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247286](https://mon-vie-via.businessfrance.fr/offres/247286)
+
+**Description du poste**
+
+PRESENTATION DU SER : 
+
+Le Service économique régional de Tachkent est un service de la direction générale du Trésor du ministère de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique.
+
+Compétent pour l’Ouzbékistan, le Turkménistan, le Tadjikistan, le Kazakhstan et le Kirghizstan, il assure le suivi des relations économiques entre la France et ces 5 Etats, en liaison avec le service économique d’Astana. Il exerce sa mission au sein de l’ambassade de France en Ouzbékistan.
+
+Le Service économique régional analyse la situation macroéconomique et financière des pays de la zone et les projets des institutions financières internationales et régionales. Il relaye les positions françaises économiques auprès des autorités de ces pays. Il coordonne, à l’échelle de la région, le suivi des politiques économiques des Etats de la zone et des grands projets d’entreprises françaises. Il anime la communauté d’affaires française et assure la coordination dans la région des membres de la Team France Export (chambres de commerce françaises, Business France, conseillers du commerce extérieur).
+
+Le service économique régional est composé d’un chef de service, d’un conseiller financier, adjoint au chef de service, d’un agent de droit local et d’un VIA.
+
+Il exerce ses missions sous l’autorité de la direction générale du Trésor et des ambassadeurs de France des pays de la zone. Il travaille notamment en étroite collaboration avec le Service des affaires bilatérales et de l'internationalisation des entreprises et le service des affaires multilatérales et du développement de la DG Trésor, les chefs de services de l’ambassade de France en Ouzbékistan, le bureau de l’AFD et la CCI française de Tachkent, le bureau de Business France à Almaty, le comité des conseillers du commerce extérieur de l’Asie centrale du sud et les représentants des entreprises françaises dans la zone.
+
+
+MISSION ET ATTRIBUTIONS DU VIA : (contexte, hiérarchie, secteurs concernés, tâches spécifiques)
+
+Sous l’autorité du Chef de service économique régional et de son adjoint, l’attaché économique contribuera aux missions suivantes : 
+-	Macroéconomie, finances publiques, politiques économiques sectorielles publiques des 5 pays de la zone : rédaction de notes d’analyse, de préparation et de suivi d’entretiens ;
+-	Aide au développement : analyse de projet, rédaction d’avis ;
+-	Développement international des entreprises françaises : suivi des prospects et projets, organisation de mission (exemple : délégation du MEDEF International en juin 2026 ; envoyé spécial pour la ville durable en octobre 2026), appui à l’animation de la communauté d’affaires française en Ouzbékistan ; suivi des instruments financiers public de soutien à l’export ;
+-	Correspondant informatique local (CIL) en charge du support informatique en lien avec les services de la DG Trésor ;
+
+COMPETENCES REQUISES : (qualités et connaissances spécifiques, langues…)
+
+Compétences requises :
+-	Capacité à analyser l’information macroéconomique et financière ;
+-	Qualités rédactionnelles, esprit de synthèse ; 
+-	Capacités à travailler, le cas échéant dans l’urgence et en autonomie (réactivité et flexibilité dans le traitement de commandes) ; 
+-	Capacités organisationnelles/logistiques ;
+-	Sens du relationnel et capacité à interagir avec des interlocuteurs économiques (entreprises, financiers, agences de développement et bailleurs de fonds) et institutionnels (services, ministères, autorités locales) ;
+-	Compétences linguistiques : un niveau B2 de russe sera un avantage ;
+
+Les agents de la DG TRESOR partagent les valeurs d’ouverture, de loyauté, d’engagement et esprit d'équipe.
+
+DIVERS :
+
+Hébergement : non fourni ; un logement temporaire au sein de l’ambassade peut être mis à disposition du/de la VIA à son arrivée pour une durée limitée (de l’ordre de dix jours), sous réserve de disponibilité ;
+compter 750 USD/mois pour un appartement de 70 m² en centre-ville
+
+Sécurité, conditions sanitaires :
+- Bonnes conditions de sécurité, à l’exclusion de la sécurité routière ;
+- Qualité de l’air à Tachkent pouvant être médiocre (pollution, poussière) ;
+- Infrastructure médicale internationale (clinique internationale de Tachkent ;
+- Climat continental et semi-aride : été long (en général de mai à fin septembre, avec un pic chaud et sec en juin-juillet-aout), hiver modéré (des vagues de froid peuvent se produire mais limitées dans le temps) ;
+
+PROFIL RECHERCHE (formation, diplômes) :
+
+Diplômé(e) en économie (niveau Master 2), d’un institut d’études politiques, d’une école de commerce ou titulaire d’un diplôme universitaire validant une formation en économie, finances, commerce international ou relations internationales.
+
+Adaptabilité, sens du relationnel.
+
+**Profil recherché**
+
+COMPETENCES REQUISES : (qualités et connaissances spécifiques, langues…)
+
+Compétences requises :
+-	Capacité à analyser l’information macroéconomique et financière ;
+-	Qualités rédactionnelles, esprit de synthèse ; 
+-	Capacités à travailler, le cas échéant dans l’urgence et en autonomie (réactivité et flexibilité dans le traitement de commandes) ; 
+-	Capacités organisationnelles/logistiques ;
+-	Sens du relationnel et capacité à interagir avec des interlocuteurs économiques (entreprises, financiers, agences de développement et bailleurs de fonds) et institutionnels (services, ministères, autorités locales) ;
+-	Compétences linguistiques : un niveau B2 de russe sera un avantage ;
+
+Les agents de la DG TRESOR partagent les valeurs d’ouverture, de loyauté, d’engagement et esprit d'équipe.
+
+DIVERS :
+
+Hébergement : non fourni ; un logement temporaire au sein de l’ambassade peut être mis à disposition du/de la VIA à son arrivée pour une durée limitée (de l’ordre de dix jours), sous réserve de disponibilité ;
+compter 750 USD/mois pour un appartement de 70 m² en centre-ville
+
+Sécurité, conditions sanitaires :
+- Bonnes conditions de sécurité, à l’exclusion de la sécurité routière ;
+- Qualité de l’air à Tachkent pouvant être médiocre (pollution, poussière) ;
+- Infrastructure médicale internationale (clinique internationale de Tachkent ;
+- Climat continental et semi-aride : été long (en général de mai à fin septembre, avec un pic chaud et sec en juin-juillet-aout), hiver modéré (des vagues de froid peuvent se produire mais limitées dans le temps) ;
+
+PROFIL RECHERCHE (formation, diplômes) :
+
+Diplômé(e) en économie (niveau Master 2), d’un institut d’études politiques, d’une école de commerce ou titulaire d’un diplôme universitaire validant une formation en économie, finances, commerce international ou relations internationales.
+
+Adaptabilité, sens du relationnel.
 
 </details>
 
