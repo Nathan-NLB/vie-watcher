@@ -8,11 +8,45 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **21/10/2026 17:08:32**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **21/10/2026 17:50:32**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Finance Controller (H/F)</strong> · OPMOBILITY EXTERIOR SERVICES · SILAO-GUANAJUATO, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** OPMOBILITY EXTERIOR SERVICES
+- **Lieu :** SILAO-GUANAJUATO, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 21/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa solide expérience en contrôle de gestion, son niveau d'anglais validé et sa maîtrise d'Excel. Les principaux écarts résident dans l'absence mentionnée des logiciels SAP et Oracle HFM, ainsi que de l'espagnol courant (niveau B1 indiqué).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247344](https://mon-vie-via.businessfrance.fr/offres/247344)
+
+**Description du poste**
+
+As a Central Finance Controller, you will be a part of the core team in our site in Silao. You will be the main link between the different plants in Mexico and the BG team. Your main missions will be:
+- Control and consolidation information level Mexico
+- Support the preparation of financial programs milestones.
+- Support Research & Development as well as a Project Controllers
+- Manage the cash of the project prepare and update the cash flow of the projects
+- Create and prepare monthly reports required locally or at Division level as well as improving current processes
+- Supporting hourly booking processes in our internal project software (PAMS)
+- Prepare required projects information for Strategic Plan, Budget, Forecast and monthly closing.
+- Take part to the closing process and insure the availability, quality of the information, respect of the timing and accuracy of postings.
+
+**Profil recherché**
+
+Profile 
+- You are a highly motivated young graduate from a Business School or University with a strong interest for a finance and controlling. As part of your studies, you have already undertaken an international curriculum (e.g., one semester or year outside your home country).
+- You are a team player, a self-learner and have good organizational and time management skills. You are familiar with the software SAP and have an advance knowledge of Excel. You also have experience with Oracle HFM Plus.
+- You are open minded and with a serious desire to learn and work in a team, as well as a clear willingness to embark on an international career.
+- A first experience or internship in the automotive sector or in project management can be a plus.
+- Your English and Spanish are fluent.
+
+</details>
 
 <details>
 <summary><strong>Program & R&D Controller (H/F)</strong> · OPMOBILITY EXTERIOR SERVICES · MONTERREY, MEXIQUE · 3 221,54 €/mois</summary>

@@ -501,5 +501,10 @@
   "ville|memphis      -tn-|etats-unis": {
     "lat": 35.146026,
     "lon": -90.0517786
+  },
+  "entreprise|opmobility exterior services|silao-guanajuato|mexique": null,
+  "ville|silao-guanajuato|mexique": {
+    "lat": 20.9447891,
+    "lon": -101.4173293
   }
 }
