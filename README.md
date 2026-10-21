@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **21/10/2026 14:21:51**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **21/10/2026 15:20:01**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -43,6 +43,85 @@ Profile
 - You are open-minded and with a sincere desire to learn and work in a team, as well as a clear willingness to embark on an international career
 - A first experience or internship in the automotive sector or in project management can be a plus
 - You are fluent in English (required), and proficiency in Spanish would be a plus
+
+</details>
+
+<details>
+<summary><strong>Manufacturing Cost Accountant (H/F)</strong> · PANDROL · MEMPHIS      -TN-, ETATS-UNIS · 3 430,07 €/mois</summary>
+
+- **Entreprise :** PANDROL
+- **Lieu :** MEMPHIS      -TN-, ETATS-UNIS
+- **Indemnité :** 3 430,07 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 21/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil correspond très bien grâce aux 2 ans d'expérience en contrôle de gestion, la maîtrise d'Excel et l'orientation analytique du candidat. Le principal écart réside dans le contexte géographique (États-Unis au lieu de l'Espagne souhaitée) et l'expérience spécifique en comptabilité analytique de fabrication (coûts standard).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245128](https://mon-vie-via.businessfrance.fr/offres/245128)
+
+**Description du poste**
+
+Position Summary
+We are seeking a detail-oriented Manufacturing Cost Accountant with 1–2 years of experience to support cost accounting and financial analysis within a manufacturing environment. The role focuses heavily on variance analysis (material, labor, and overhead) to provide actionable insights that improve plant performance, cost control, and profitability.
+
+Key Responsibilities
+1. Variance Analysis (Core Focus)
+•	Prepare and analyze monthly cost variances between actual and standard costs (material, labor, and overhead).
+•	Investigate root causes of variances (e.g., scrap, inefficiencies, price fluctuations) and provide clear explanations to management. 
+•	Partner with operations, production, and engineering teams to identify corrective actions and cost improvements. 
+•	Monitor and report production, purchase price, and usage variances to highlight trends and risks. 
+
+2. Cost Accounting & Product Costing
+•	Assist in maintaining standard costing systems, including updating Bills of Materials (BOM) and routing assumptions. 
+•	Support product costing and margin analysis for existing and new products. 
+•	Track and analyze manufacturing costs (raw materials, labor, overhead). 
+•	Validate cost of goods sold (COGS) and ensure accurate inventory valuation. 
+
+3. Month-End Close & Reporting
+•	Participate in month-end close activities, including journal entries, inventory adjustments, and WIP reconciliation. 
+•	Prepare cost reports, variance reports, and gross margin analysis for plant leadership. 
+•	Reconcile inventory accounts and support financial reporting accuracy. 
+
+4. Inventory & Operational Support
+•	Assist with physical inventory counts, cycle counts, and inventory audits. 
+•	Monitor inventory movements and accuracy of production transactions. 
+•	Analyze production efficiency, including labor utilization and scrap rates. 
+
+5. Budgeting & Continuous Improvement
+•	Support budgeting and forecasting for manufacturing costs. 
+•	Identify cost reduction opportunities and recommend process improvements. 
+•	Help improve costing processes, controls, and reporting accuracy. 
+
+Qualifications
+•	Bachelor’s degree in Accounting, Finance, or related field. 
+•	1–2 years of experience in cost accounting, manufacturing accounting, or financial analysis. 
+•	Exposure to standard costing and variance analysis required.
+•	Experience with ERP systems (Business Central, Navision, SAP, Oracle, Dynamics, etc.) preferred. 
+•	Strong Excel skills (pivot tables, data analysis). 
+
+Key Skills & Competencies
+•	Strong analytical and problem-solving skills
+•	Ability to interpret cost variances and translate into operational actions
+•	Knowledge of manufacturing processes and cost drivers
+•	Effective cross-functional communication with operations and finance teams
+•	High attention to detail and accuracy
+
+Preferred Attributes
+•	Internship or early-career experience in a plant or manufacturing environment
+•	Familiarity with inventory accounting and WIP tracking
+•	Exposure to lean manufacturing or continuous improvement initiatives
+
+Success Metrics for the Role
+•	Accuracy and timeliness of variance reporting
+•	Quality of root-cause analysis and recommendations
+•	Improvements in cost visibility and operational decision support
+•	Reduction in unexplained or recurring cost variances
+
+**Profil recherché**
+
+•	Bachelor’s degree in Accounting, Finance, or related field. 
+•	1–2 years of experience in cost accounting, manufacturing accounting, or financial analysis. 
+•	Exposure to standard costing and variance analysis required.
+•	Experience with ERP systems (Business Central, Navision, SAP, Oracle, Dynamics, etc.) preferred. 
+•	Strong Excel skills (pivot tables, data analysis).
 
 </details>
 

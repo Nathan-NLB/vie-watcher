@@ -496,5 +496,10 @@
   "ville|monterrey|mexique": {
     "lat": 25.6802019,
     "lon": -100.315258
+  },
+  "entreprise|pandrol|memphis      -tn-|etats-unis": null,
+  "ville|memphis      -tn-|etats-unis": {
+    "lat": 35.146026,
+    "lon": -90.0517786
   }
 }
