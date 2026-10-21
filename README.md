@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **21/10/2026 23:54:26**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **22/10/2026 00:17:59**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4574,114 +4574,6 @@ The ideal candidate has a master’s degree in Finance.
 • Comfort with collaboration, open communication and reaching across functional borders 
 
 • Fluent English is required German, Dutch or French is a plus.
-
-</details>
-
-<details>
-<summary><strong>ASSISTANT GENERALISTE DU PRESIDENT DU CONSEIL D’ADMINISTRATION (H/F)</strong> · COMPAGNIE MONDIALE DE TRANSPORT · ATHENES, GRECE · 2 282,54 €/mois</summary>
-
-- **Entreprise :** COMPAGNIE MONDIALE DE TRANSPORT
-- **Lieu :** ATHENES, GRECE
-- **Indemnité :** 2 282,54 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 21/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246136](https://mon-vie-via.businessfrance.fr/offres/246136)
-
-**Description du poste**
-
-Créé en 1974, le Groupe MOBILITAS est passé en quelques années d’une PME familiale française à une ETI d’envergure internationale. Constamment à l’avant-garde des changements qui affectent ses secteurs d’activité que sont le déménagement, la gestion de la mobilité internationale, le records management, ainsi que la préservation, restauration, numérisation et partage des patrimoines, MOBILITAS développe continuellement son réseau mondial pour être au plus près de ses clients, et leur offrir des services sur-mesure dans des marchés de plus en plus exigeants et concurrentiels.
-Le Groupe MOBILITAS continue à développer son réseau afin de fournir à ses clients tout le soutien et les connexions dont ils ont besoin pour prospérer. « Être précurseur » est la philosophie qui guide MOBILITAS dans sa politique d’expansion. Présent dans 103 pays MOBILITAS c’est :
-380 implantations dans le monde dont :
-•	169 en Europe
-•	139 en Afrique
-•	38 en Asie
-•	29 dans les Caraïbes et Dom Tom
-•	5 au Moyen-Orient
-
-Au fils des ans, le Groupe MOBILITAS a intégré dans son portefeuille des marques séculaires, prestigieuses et leaders dans leurs pays, qu’il continue à développer et dont l’expertise et l’histoire viennent enrichir l’ADN multiculturel du groupe. Cette stratégie de croissance permet au groupe d’innover et de développer ses activités autour de nouveaux métiers.
-Nous sommes aujourd’hui en recherche de V.I.E (Volontaire International en Entreprise) (H/F) pour la Grèce
-
-DESCRIPTIF DU POSTE : 
-
-Le(la) candidat(e) travaillera en Le(la) candidat(e) travaillera en direct avec le Président du Conseil d’administration du Groupe et interviendra sur trois principaux volets :
-
-1. Assistance au Président
-     -  Assister le Président dans le suivi quotidien de ses dossiers ;
-     -  Participer à certaines réunions (français et anglais)  et assurer le suivi des actions confiées ;
-     -  Contribuer au suivi de projets stratégiques et transverses.
-
-2. Finance
-     -  Préparer et analyser des reportings financiers et des documents destinés au Conseil d’administration ;
-     -  Analyser les données financières et les principaux indicateurs de performance .
-     -  Élaborer et exploiter des tableaux de suivi chiffrés ;
-     -  Participer au suivi des projets de financement avec les banques ;
-     -  Exploiter des tableaux chiffrés et analyser les données financières.
-
-3. Développement commercial 
-     -  Prospecter de nouveaux clients et partenaires, notamment sur le terrain ;
-     -  Identifier de nouvelles opportunités commerciales ;
-     -  Assurer la mise en relation entre les prospects/clients et le pôle Memorist ;
-     -  Développer et entretenir un réseau local en Grèce ;
-     -  Assurer le suivi des prospects et des opportunités identifiées.
-
-**Profil recherché**
-
--  Anglais courant impératif, à l’oral comme à l’écrit ;
--  Le(la) candidat(e) devra impérativement justifier d’au moins un an d’expérience professionnelle depuis la fin de ses études ;
--  Il/Elle devra faire preuve de polyvalence, avec une capacité à intervenir sur des sujets d’assistance, de gestion de projets, d’analyse financière et de développement commercial ;
--  Une bonne aisance avec les chiffres, un esprit d’analyse et de synthèse ainsi qu’une bonne qualité rédactionnelle sont attendus ;
--  Doté(e) d’un esprit commercial et développeur, il/elle devra être à l’aise avec la prospection, la mise en relation avec les clients et partenaires et la recherche de nouvelles opportunités ;
--  Curieux(se), autonome et orienté(e) résultats, il/elle devra être capable de s’adapter à des interlocuteurs et des projets variés.
-
-</details>
-
-<details>
-<summary><strong>Financial Controller (H/F)</strong> · MOON SURGICAL · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
-
-- **Entreprise :** MOON SURGICAL
-- **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
-- **Indemnité :** 5 151,29 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 21/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245748](https://mon-vie-via.businessfrance.fr/offres/245748)
-
-**Description du poste**
-
-Moon Surgical is a French-American medical device company that is revolutionizing laparoscopic surgery through robotics and data-driven artificial intelligence.
-At Moon Surgical, we are driven by an intrinsic desire to advance global healthcare for patients, to innovate and inspire the art of surgery, and to make a difference through creativity, perseverance, and teamwork.
-
-We are looking for a highly motivated, organized, and analytical Financial Controller to join our San Carlos team through the French V.I.E. program. 
-
-Reporting to our Senior Financial Controller in France, you will be the finance point of contact on the ground for our US operations.
-As financial controller, you play a crucial role in an organization that is scaling fast. You act as a business partner to the US team, and you own the purchasing, travel, and MRP systems (Open-
-Prod) that produce the numbers you analyze. Day to day, you work with the finance team in Paris, with operations and supply chain in San Carlos, and with our external accounting provider.
-
-Your Day-to-day Activities
-Systems & Tools Management
-MRP Operations (Open-Prod): Own and drive the implementation of our MRP system, an industrial ERP built on the Odoo platform, with a strong focus on procurement. You will take end-to-end ownership of the finance side of the project for the US site, overseeing procurement flows, ensuring the system meets operational needs. With the support of the Senior Controller, you will lead the MRP go-live planned for January 2027, including project kick-off, user training and post-launch support. You will be the key on-site point of contact, driving adoption, resolving issues and ensuring a successful transition to the new system.
-Procure-to-Pay (Payflows): Manage the end-to-end procurement process within Payflows, ensuring purchase requests, approvals, and workflows operate smoothly and efficiently across the P2P cycle. Own the interface between Payflows and the MRP, ensuring seamless data and process flows from purchase requests to purchase orders, while driving process standardization and continuous improvement.
-Navan Administrator: Acting as the primary point of contact for Navan (our travel and expense management platform), you will track tool usage, troubleshoot and resolve user issues, and conduct training sessions for new and existing team members.
-
-Operational Finance
-Own monthly inventory reporting and reconciliation for the US site, including inventory control and inventory analysis.
-Supervise our externalized accounting provider: review their deliverables, control quality, and prepare payments.
-Monitor industrial costs (fixed and variable) and lead the analysis of deviations against standard costs.
-Support monthly reporting through budget-versus-actual variance analysis, identifying the root causes of any deviation.
-Maintain and strengthen internal control and compliance.
-
-**Profil recherché**
-
-•	Master's degree (Bac+5) in finance, accounting, or management control, from a business school, a university, or an engineering school with a finance track.
-•	First experience in controlling or audit, including internships or apprenticeships, preferably in an industrial environment. A first experience within a Big 4 audit firm would be strongly preferred.
-•	Strong Excel skills and interest in ERP / MRP tools. Comfortable using AI tools in your daily work, with a clear understanding of what they can do and where their limits are.
-•	Fluent English. French is a strong plus, given daily interaction with our Paris finance team.
-•	Rigorous and analytical, and autonomous enough to set your own priorities. You will be the only finance person on site, working across two time zones.
-•	Proactive Communicator: You are comfortable asking questions, coordinating with senior team members, and aligning stakeholders on milestones and deadlines.
-•	Solution-driven, at ease in a fast-moving medtech company where processes are still being built.
-
-
-•	Starting date: ASAP - Q4 2026
-•	1-2 months in our Paris office before moving to San Carlos
 
 </details>
 
