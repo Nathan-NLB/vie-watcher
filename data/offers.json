@@ -3111,16 +3111,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are seeking a highly motivated Junior Trading Analyst to join our dynamic team, supporting a 24-7 EMEA, Singapore and US over-the-counter (OTC) cryptocurrency spot flow operation. This role provides an exceptional opportunity to make a significant impact within our fast-growing and innovative organization with the ability to move into a full time trader role.\nResponsibilities:\nMonitor and analyze market trends, news, and economic data to identify trading opportunities and content for research reports\nAssist traders in the execution, booking and reporting of trades across various internal systems\nConduct quantitative and qualitative analysis of trading and hedging strategies and market conditions\nPrepare and maintain daily, weekly, and monthly trading reports\nCollaborate with other team members to improve trading, booking and settlement processes and systems\nAssist in the management of trading risk and compliance with regulatory requirements.\nStay updated with industry developments and emerging market trends\nQualifications:\nBachelor’s degree in Finance, Economics, Mathematics, Computer Science, or a related field\nStrong analytical and quantitative skills with the ability to interpret complex data sets.\nProficiency in Excel and familiarity with programming languages such as Python, R, or SQL\nExcellent communication and teamwork skills\nAbility to work in a fast-paced, high-pressure environment\nKeen interest in financial markets and trading\nExcellent interpersonal and communication skills, with a client-focused approach to trading\nDemonstrated ability to perform under pressure, make quick decisions and handle high volumes of transactions\nA keen interest in staying updated with trends and news in the fast-paced world of cryptocurrencies. Prior personal experience is a plus\nMust be comfortable working flexible hours in coordination with our Singapore and UK teams\nThe ideal candidate will be a hungry, hard-working individual accustomed to earning a significant portion of income through commission. If you are ready to seize this challenging opportunity and make a substantial contribution to our operation, we invite you to apply",
     "creationDate": "2026-08-28T13:31:37Z",
     "missionStartDate": "2027-01-01T00:00:00",
