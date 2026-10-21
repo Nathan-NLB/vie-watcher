@@ -8,11 +8,43 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **21/10/2026 09:00:56**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **21/10/2026 09:55:40**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Program & R&D Controller (H/F)</strong> · OPMOBILITY EXTERIOR SERVICES · MONTERREY, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** OPMOBILITY EXTERIOR SERVICES
+- **Lieu :** MONTERREY, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 21/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247294](https://mon-vie-via.businessfrance.fr/offres/247294)
+
+**Description du poste**
+
+As a Program & RD controller, you will be a part of the core team on our site in Monterrey, working on different projects in development while learning about budgets and control tools. Your main missions will be:
+- Master the project finance model and continuously improve the tool to better serve project
+- Support the preparation of financial programs milestones
+- Create and prepare monthly reports required locally or at Division level as well as improving current processes/tools
+- Cost center budget monitoring (Headcount & expenses)
+- Supporting hourly booking processes in our ERP software
+- Communicate financial concepts and requirements clearly to non-financial people
+- Share with technical management teams monthly financials, analysis and be a driver/counselor for improvement
+
+**Profil recherché**
+
+Profile
+- You are an initiative-taking young graduate from a Business School or University with a strong interest for finance and controlling. As part of your studies, you have already undertaken an international curriculum (e.g., one semester or year outside your home country)
+- You are a collaborator, a self-learner and have good organizational and time management skills. You are familiar with the software SAP and have an advanced knowledge of Excel. You also have experience with Oracle HFM Plus
+- You are open-minded and with a sincere desire to learn and work in a team, as well as a clear willingness to embark on an international career
+- A first experience or internship in the automotive sector or in project management can be a plus
+- You are fluent in English (required), and proficiency in Spanish would be a plus
+
+</details>
 
 <details>
 <summary><strong>Market Analyst Western and Central Europe (VIE) (H/F)</strong> · EURONEXT PARIS SA · MILAN, ITALIE · 3 003,87 €/mois</summary>

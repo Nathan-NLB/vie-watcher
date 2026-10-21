@@ -491,5 +491,10 @@
   "ville|tachkent|ouzbekistan": {
     "lat": 41.3123363,
     "lon": 69.2787079
+  },
+  "entreprise|opmobility exterior services|monterrey|mexique": null,
+  "ville|monterrey|mexique": {
+    "lat": 25.6802019,
+    "lon": -100.315258
   }
 }
