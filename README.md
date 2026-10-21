@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **21/10/2026 13:07:51**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **21/10/2026 13:47:54**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -3656,28 +3656,6 @@ At Avertim, we value talent and mindset. No difference will be made during the r
 A Quality Engineer is a detail-oriented professional responsible for ensuring that products, processes, and systems consistently meet regulatory requirements, industry standards, and customer expectations. Acting at the intersection of engineering, operations, and compliance, the Quality Engineer drives continuous improvement by identifying risks, resolving quality issues, and implementing robust quality management systems.
 In regulated environments such as Life Sciences, the role is critical in maintaining compliance with standards such as GMP and ISO, supporting audits, and ensuring inspection readiness.
 The Quality Engineer collaborates closely with cross-functional teams (e.g., Operations, QA, QC, Engineering) to analyze deviations, perform root cause analysis, and implement corrective and preventive actions (CAPA). They play a key role in improving product reliability, reducing defects, and enhancing overall operational performance.
-
-</details>
-
-<details>
-<summary><strong>BRAS DROIT DU CEO H/F (H/F)</strong> · DASHBOOK · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** DASHBOOK
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 28/09/2026
-- **Compatibilité avec ton profil :** 65 % — Le poste à Barcelone en Espagne correspond parfaitement aux aspirations géographiques et linguistiques de Nathan et intègre des missions d'analyse et de reporting. Toutefois, l'offre relève davantage d'un rôle généraliste de bras droit CEO / gestion de projet que d'un pur poste de contrôle de gestion ou FP&A.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/218253](https://mon-vie-via.businessfrance.fr/offres/218253)
-
-**Description du poste**
-
-À propos de Dashbook :<br />Dashbook est LA Maison d'Edition des Créateurs de Contenu. Notre Start-Up révolutionne le secteur de l'édition en offrant aux auteurs, blogueurs, podcasters, et autres créateurs une plateforme moderne et accessible pour créer, publier, promouvoir, et monétiser leurs livres. Grâce à Internet et aux Nouvelles Technologies, nous aidons nos créateurs à atteindre une audience plus large et à vivre de leur passion. La société en pleine expansion développe ses équipes sales & marketing et IT. <br /><br /><br /><br />Description du poste :<br />Dans le cadre de notre croissance rapide, nous recherchons un Bras Droit du CEO talentueux et proactif pour rejoindre notre équipe. Ce rôle stratégique consiste à travailler en étroite collaboration avec la Direction sur une variété de projets touchant à la fois à la stratégie d'entreprise, au développement des affaires, et aux opérations. Vos missions principales seront :
-- Support stratégique : Collaborer avec le CEO pour définir, planifier, et mettre en œuvre la stratégie globale de l'entreprise, en particulier dans le cadre de notre expansion et de l'innovation dans le secteur de l'édition.<br />- Gestion de projets passionnants : Prendre en charge des projets de A à Z, tels que l'ouverture d'une librairie physique ou digitale, ou l'organisation d'un salon littéraire, en garantissant leur réussite du début à la fin. Participer aux recrutements de nouvelles équipes, <br />- Analyse et reporting : Élaborer des analyses de marché, des rapports de performance, et des tableaux de bord pour éclairer les décisions stratégiques.<br />- Coordination et communication : Assurer une communication fluide entre les équipes internes et avec les partenaires externes (créateurs de contenu, partenaires stratégiques, investisseurs).<br />- Optimisation des processus : Identifier des opportunités d'amélioration des processus internes pour maximiser l'efficacité opérationnelle.<br />- Veille concurrentielle et innovation : Surveiller les tendances du secteur et les innovations concurrentielles pour proposer des idées nouvelles et audacieuses.<br /><br /><br />
-
-**Profil recherché**
-
-Profil recherché :<br />- Formation : Diplômé(e) de Grande Ecole.<br />- Compétences : Forte capacité d'analyse, aptitude à la gestion de projet, et compétences en gestion des opérations. Rigueur et capacité à travailler de manière autonome et à mener des initiatives stratégiques.<br />- Qualités personnelles : Esprit entrepreneurial, adaptabilité, rigueur, et excellentes compétences en communication écrite et orale. Goût pour l'innovation et l'univers des créateurs de contenu.<br />- Langues : Maîtrise du Français et de l'Anglais, et idéalement de l’Espagnol.<br />- Expérience : toute expérience similaire bienvenue.<br />Ce que nous offrons :-<br /> -Un environnement de travail à Barcelone, dynamique dans une entreprise innovante en pleine expansion.<br />- La possibilité de travailler directement avec la direction et de contribuer de manière significative à la stratégie de développement.<br />- Un cadre de travail flexible et une culture d'entreprise qui valorise l'innovation, la collaboration, et l'initiative.<br />- Des perspectives d'évolution dans la société (Direction Pays).
 
 </details>
 
