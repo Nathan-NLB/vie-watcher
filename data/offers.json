@@ -1984,44 +1984,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tSupervisión de la contabilidad y fiscalidad para garantizar que todas las actividades contables cumplan la reglementación,\n•\tControl de los gastos de la empresa y de la buena aplicación de las políticas,\n•\tElaboración de los reportes financieros mensuales de la compañía para el Grupo: Cash, Forecast, Flash, Intercompany, Headcount,\n•\tReportes financieros internos mensuales: Budget, Forecast, P&L por persona, por marca y global, Cashflow,\n•\tAnálisis financieras puntuales sobre nómina, cobranza, EBNI, etc.\n•\tCreación de modelos de previsión.\n•\tParticipación en la definición de las políticas de sueldos y bonos en conjunto con Dirección y Recursos Humanos,\n•\tParticipación en la estrategia global de la empresa sobre el desarrollo de cada marca y recomendaciones sobre las inversiones\n•\tEvaluación de riesgo de las inversiones para dar recomendaciones a Dirección sobre la estrategia de inversión y financiamiento global de la compañía para lograr los objetivos de la empresa.",
     "creationDate": "2026-08-25T23:45:33Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -3902,30 +3867,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "195",
-      "322",
-      "330"
+      "[\"195\",\"322\",\"330\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "195",
-        "specializationParentId": "193",
-        "specializationLabel": "Developpement commercial, prospection",
-        "specializationLabelEn": "Business Development"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development.\r\n\r\nPlanisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.\r\n\r\nThe Role:\r\nAs a Business Operations Analyst (VIE), you will support Planisware North America in key initiatives at the intersection of strategy, operations, and business transformation. This role is ideal for a candidate who is curious, analytical, and hands-on, with a strong interest in understanding how a business operates end-to-end. You will help identify opportunities to make operations more efficient and scalable. \r\n\r\nIn this role you will:\r\n• Support strategic initiatives by analyzing business performance and identifying areas for improvement \r\n• Contribute to transformation projects aimed at improving processes, tools, and operational efficiency \r\n• Help define and track key business metrics (KPIs) to support decision-making  \r\n• Build and maintain dashboards, reports, and models to monitor business performance \r\n• Perform financial and operational analyses (e.g., forecasting, variance analysis, pipeline tracking) \r\n• Translate data into actionable insights and clear recommendations for stakeholders \r\n• Assist in structuring and optimizing internal processes across teams \r\n• Work on cross-functional projects with teams such as Sales, Finance, Product, and Customer Success \r\n• Help coordinate initiatives, track progress, and ensure alignment across stakeholders \r\n• Break down complex problems into manageable steps and prioritize effectively \r\n• Support leadership with presentations, reporting, and decision-making materials\r\n\r\nThis is a unique opportunity to not only gain an inside and front-row view of Planisware's business operations, but also to use your own creative insights and problem-solving skills to enhance those processes. Add both depth and breadth to your career skills portfolio in a highly autonomous role for a company that recognizes and rewards top performers.\r\n\r\nThis is a hybrid role, requiring in office work 4x a week, Monday-Thursday, and remote work allowed on Friday.",
     "creationDate": "2026-07-08T18:54:31Z",
     "missionStartDate": "2027-01-01T00:00:00",
