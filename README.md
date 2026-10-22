@@ -8,11 +8,212 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **22/10/2026 10:15:11**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **22/10/2026 10:53:56**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Product Engineering Officer (H/F)</strong> · SOCIETE GENERALE · MILAN, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** SOCIETE GENERALE
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 22/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le candidat possède de solides compétences en finance et en gestion de projet, mais l'offre exige une maîtrise de la langue italienne et une spécialisation en services titres (Securities Services) que le profil ne démontre pas. De plus, le poste est orienté vers l'ingénierie produit et non strictement vers le contrôle de gestion recherché.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247372](https://mon-vie-via.businessfrance.fr/offres/247372)
+
+**Description du poste**
+
+The Product Engineering Office is responsible for the design, development and implementation of products, solutions and services supporting SGSS business development objectives. 
+As part of the Commercial Department, the Office works in close collaboration with the Commercial and Marketing teams to support SGSS Italy business development, identify client and market needs, and translate them into client-focused solutions. 
+It also partners with Operations and IT teams to design and implement scalable, efficient and compliant products, services and operating models, addressing complex client requirements and contributing to the continuous enhancement of SGSS’s service offering.
+
+The successful candidate will work closely with the Product Engineering team and support the delivery of new products, solutions and services throughout their lifecycle, from analysis and design to implementation and client onboarding.
+
+Key responsibilities include:
+
+Supporting product and solution development projects;
+Gathering and documenting business requirements;
+Assisting in feasibility studies with Operations, IT, Risk and Compliance teams;
+Contributing to the design of operational solutions and target operating models;
+Preparing documentation for governance committees and project follow-up;
+Supporting the preparation of onboarding documentation, KPIs and SLAs;
+Maintaining product documentation and service descriptions;
+Assisting with implementation activities and client onboarding;
+Participating in client requests, RFP responses and commercial initiatives when required.
+In addition, the candidate will support transversal Product Engineering Office activities, including budget monitoring, pricing database maintenance, internal benchmarking and the preparation of management dashboards.
+
+A questionnaire will be provided to you in order to check your VIE (Société Générale and Business France) eligibility. For an efficient analysis of your application, please make sure to truthfully answer all the questions.
+
+Please note that it is mandatory to communicate us a formal proof of your M2 diploma validation at least 2 weeks before the assignment start. No VIE mission will start without this document. *Grade sheets are not accepted as justification of diploma.
+
+**Profil recherché**
+
+PLEASE NOTE that since this program is primarily an international development program, candidates cannot apply to a VIE assignment in their own country of citizenship.
+
+To facilitate the examination of your application by our English-speaking managers, we thank you for applying in English.
+
+Studies & experience:
+
+Graduate with a Master degree from Business/Engineering School or University with a specialization in Economics, Finance or a related field
+
+ 
+
+Language skills:
+
+Fluent in English (B2-C1)
+Italian: B2 (Upper Intermediate) - C1 (Advanced / Skilled)
+Operational, technical & soft skills:
+
+Good command of Microsoft Office tools, especially Excel and PowerPoint
+
+Knowledge of financial markets and Securities Services activities
+
+Understanding of project management and business analysis concepts
+
+Good analytical and organizational skills
+
+Client-oriented approach
+
+Strong communication and presentation skills, with the ability to clearly articulate concepts and information to different stakeholders;
+High attention to detail and a rigorous approach to work, ensuring accuracy, consistency and compliance with high-quality standards;
+Analytical mindset and problem-solving capabilities, with the ability to assess complex situations and identify effective, data-driven solutions;
+Inquisitive attitude and strong motivation to learn, with a proactive approach to professional development;
+Collaborative and proactive team player, able to contribute effectively in a structured and multi-disciplinary environment;
+Highly adaptable, well-organised, motivated and able to manage multiple tasks and priorities simultaneously.
+
+</details>
+
+<details>
+<summary><strong>TECHNICAL SOLUTIONS ENGINEER—SALES SUPPORT (FINTECH) - M/F (H/F)</strong> · WEEFIN · LONDRES, ROYAUME-UNI · 3 815,75 €/mois</summary>
+
+- **Entreprise :** WEEFIN
+- **Lieu :** LONDRES, ROYAUME-UNI
+- **Indemnité :** 3 815,75 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 22/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de contrôleur de gestion de Nathan correspond au secteur financier demandé et son niveau d'anglais est excellent. Cependant, l'offre requiert un rôle technique orienté pré-vente, ingénierie logicielle et développement d'algorithmes (Python, VBA), ce qui s'éloigne de son expertise financière pure.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247337](https://mon-vie-via.businessfrance.fr/offres/247337)
+
+**Description du poste**
+
+As a Technical Solutions Engineer, you will mainly support our Pre-sales team on Proofs of Concept (POCs) for prospects . You will serve as both a technical expert and a commercial ambassador, working closely with clients to understand their needs, provide tailored solutions, and ensure they get the maximum value from our platform. Your role will also involve presenting new features to clients, contributing directly to the business development strategy. 
+You will also support pre-sales activities by partnering with the Sales team to qualify technical requirements, deliver product demos, contribute to tailored solution design, and articulate the platform’s technical value proposition to prospective clients.
+Additionally, you will be responsible for developing tactical solutions and algorithms to meet specific client demands, bridging the gap between technical development and business needs.
+
+UK Office Overview: You’ll be joining WeeFin’s UK team of 12 people, based in a co-working space in Aldgate, at the heart of the City of London. The space offers access to a full range of facilities, including meeting rooms, lounges, kitchens, and an on-site coffee shop. There’s also a rooftop terrace and an in-house gym—perfect for lunch breaks and after-work gatherings with the team.
+
+Key Responsibilities:
+- Pre-sales support: work hand in hand with the Pre-sales team to understand prospects’ needs, qualify technical requirements and contribute to tailored solution design, RFPs and POCs.- Product demonstrations: help prepare and deliver product demos, learning to translate technical functionalities into clear business benefits for clients and prospects.
+- Technical expertise: support technical discussions and help answer client questions, building your expertise on the platform and its data.
+- Tactical solution development: design and build algorithms or tools tailored to client requirements, ensuring the platform meets specific financial or operational needs.
+
+- Client onboarding: occasionally support the Ops team on new client implementations when additional capacity is needed. 
+- Client Training: Conduct training sessions and workshops to educate clients on the effective use of our platform, empowering them to utilise it to its fullest potential.
+
+- Feedback Loop: Gather client feedback on our solution, identify areas for improvement, and work closely with our product and development teams to enhance the user experience.- Partner with Sales to understand prospects’ needs, qualify technical requirements, design tailored solutions, and deliver compelling product demos
+- Lead technical discussions, address client questions, support RFPs and POCs when needed
+- Client relationships: support the Account Executives in building strong client relationships, contributing to client satisfaction and success with our solution. All client engagement is coordinated with the AE in charge of the account. 
+
+What to expect from this experience
+- Step into the FinTech space to discover one of the most dynamic industries
+- At WeeFin, you’ll work at the intersection of technology, finance, and sustainability, gaining hands-on experience with cutting-edge tools and real-world client challenges.
+- You’ll join a close-knit and supportive team in London while staying connected to our Paris headquarters, allowing you to build an international network from day one.
+- Participate in making an impact and making finance more sustainable and transparent
+- Expect a steep learning curve, ownership of your projects, and the freedom to propose and implement your ideas.
+- You’ll also gain deep exposure to ESG and sustainable finance, equipping you with a unique and highly relevant skill set for the future of the financial industry.
+
+
+WeeFin Growth
+- Seed round: 2m€ in 2022
+- Series A round: 7m€ at the end of 2023 with 4 investment funds: Asterion Ventures, Investir&+, Iris Capital and Ring Capital
+- Series B round: 25m€ in 2025, led by BlackFin
+- More than 100 employees across the Paris & London offices
+
+Support to start your life in the UK & onboarding
+- We’ll support you throughout your relocation, including guidance to help you find suitable accommodation. From the outset, you’ll be in close contact with your team, who will be available to answer your questions about living in the UK—whether it’s finding a place to live, settling in, or discovering the best spots to visit and shop.
+- You’ll also benefit from regular check-ins with both the UK and French teams to ensure a smooth and well-supported transition.
+
+**Profil recherché**
+
+Educational Background: Bachelor’s or Master’s degree in Engineering, Computer Science, Finance, or a related field.
+
+Experience: Experience in a technical client-facing role, preferably within the Finance, FinTech or SaaS industry.
+
+Technical Skills: Strong proficiency in algorithm development, scripting (Python, VBA, or similar), and data structuring. A strong analytical mindset with the ability to create tactical solutions for financial applications.
+
+Communication Skills: Excellent verbal and written communication skills in English; proficiency in French is a plus.
+
+Client-Focused: A passion for working with clients, with the ability to understand their needs and provide solutions that drive value.
+
+Knowledge in Market Finance is a plus: A strong understanding of financial markets, financial products, and risk management principles would be a plus.
+
+Adaptability: Ability to thrive in a fast-paced, startup environment and adapt to changing priorities.
+
+Other
+
+The admin tasks to participate in a VIE programme can take up to 3 months overall, which can alter the start period.
+
+We’re receiving a large number of applications; we’ll get back to you as soon as possible.
+
+</details>
+
+<details>
+<summary><strong>Cost Data Analyst (H/F) – Congo</strong> · TOTALENERGIES SE · POINTE NOIRE, CONGO · 3 036,62 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES SE
+- **Lieu :** POINTE NOIRE, CONGO
+- **Indemnité :** 3 036,62 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 22/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245135](https://mon-vie-via.businessfrance.fr/offres/245135)
+
+**Description du poste**
+
+Directement intégré à l’équipe Contrôle de Gestion de TotalEnergies Exploration-Production en République du Congo, vous contribuez à la production d’analyses financières fiables, au pilotage des coûts et au suivi des partenaires des Joint Ventures.  
+
+Merci de candidater en anglais. 
+
+Logement en colocation fourni par la filiale.  
+
+Vos principales missions : 
+- Collecter les données mensuelles des différentes Joint Ventures.  
+- Consolider les réalisations financières des actifs suivis.  
+- Produire les rapports de synthèse et de reporting.  
+- Analyser les données financières et les écarts de performance.  
+- Contribuer à la préparation des analyses du contrôle de gestion.  
+- Assurer la facturation des partenaires.  
+- Suivre les comptes partenaires et les opérations associées.  
+- Contrôler la qualité et la cohérence des données financières.
+
+**Profil recherché**
+
+Diplômé d’un Bac+5 minimum (Ecole de commerce, d’ingénieurs ou formation universitaire) en comptabilité, contrôle de gestion ou finance.  
+
+Vous bénéficiez d’une première expérience en contrôle de gestion. 
+
+Vous disposez de bases solides en comptabilité (OPEX, CAPEX et frais de fonctionnement).  
+
+Vous connaissez les outils suivants : 
+- Excel : niveau avancé  
+- SAP FI/CO : niveau intermédiaire.  
+
+La connaissance de Power BI constitue un atout tout comme celle de Web Intelligence (Webi). 
+
+Un niveau de français niveau C1 minimum est requis. Un niveau d'anglais niveau B2 minimum est également demandé.  
+
+POURQUOI NOUS REJOINDRE ? 
+- Développez une expertise reconnue en contrôle de gestion international. 
+- Contribuez à des enjeux financiers stratégiques. 
+- Travaillez dans un environnement multiculturel. 
+- Évoluez au sein d’une filiale majeure du Groupe. 
+
+La branche Exploration-Production (EP) de TotalEnergies couvre l’exploration et la production de pétrole et de gaz naturel, ainsi que les activités contribuant à la neutralité carbone. Présents dans une cinquantaine de pays, ses 9 000 collaboratrices et collaborateurs ont pour mission de produire de manière responsable les hydrocarbures dont le monde a besoin aujourd’hui tout en contribuant à la transition énergétique de la Compagnie. La branche EP agit pour réduire les émissions de gaz à effet de serre, en particulier le méthane, et améliorer la performance environnementale de ses opérations.
+
+</details>
 
 <details>
 <summary><strong>Finance Controller (H/F)</strong> · OPMOBILITY EXTERIOR SERVICES · SILAO-GUANAJUATO, MEXIQUE · 3 221,54 €/mois</summary>
@@ -3547,36 +3748,6 @@ Soft skills:
 •	Accountable: shows proactivity and concentrates on priorities
 •	Achiever: strives for results and performance and shows professionalism and perseverance
 •	Team player: promotes cooperation, collaboration and team spirit
-
-</details>
-
-<details>
-<summary><strong>Customer Operations & Supply Chain Specialist (H/F)</strong> · PRODUCT DEVELOPMENT EMPLOYENEURSHIP · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** PRODUCT DEVELOPMENT EMPLOYENEURSHIP
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 30/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245989](https://mon-vie-via.businessfrance.fr/offres/245989)
-
-**Description du poste**
-
-This role focuses on managing the complete Order-to-Cash process, ensuring customer orders are accurately processed from receipt through delivery and invoicing. It serves as the primary point of contact for customers regarding order status, deliveries, invoicing, returns, and claims. The position requires close collaboration with supply chain, logistics, sales, finance, marketing, and planning teams to ensure smooth operations and high service levels. It involves resolving delivery challenges, stock shortages, and customer issues while maintaining strong customer relationships. The role also contributes to continuous improvement initiatives aimed at enhancing customer service performance and operational efficiency.
-
-Manage customer orders throughout the entire Order-to-Cash cycle, from order entry to invoicing.
-Monitor and communicate order, delivery, and invoice status to customers and internal stakeholders.
-Resolve delivery issues, stock shortages, returns, refusals, and customer claims in a timely manner.
-Coordinate with logistics providers and internal teams to validate and release blocked orders.
-Support customer service excellence and participate in process improvement and operational optimization projects.
-
-**Profil recherché**
-
-Master's degree in Business Administration, Logistics, Supply Chain Management, or a related field.
-Fluency in English and French; Dutch proficiency is considered an advantage.
-Strong proficiency in Microsoft Excel and the Microsoft Office suite.
-Excellent analytical, organizational, problem-solving, and customer service skills.
-Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG environments is beneficial.
 
 </details>
 

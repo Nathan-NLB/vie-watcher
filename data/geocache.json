@@ -506,5 +506,7 @@
   "ville|silao-guanajuato|mexique": {
     "lat": 20.9447891,
     "lon": -101.4173293
-  }
+  },
+  "entreprise|societe generale|milan|italie": null,
+  "entreprise|weefin|londres|royaume-uni": null
 }

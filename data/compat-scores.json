@@ -287,8 +287,16 @@
     "score": 45,
     "raison": "Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel en entreprise, tandis que cette offre de la DG Trésor relève de la macroéconomie, de la diplomatie économique et de l'analyse financière publique. Bien qu'il possède de solides compétences financières et un bon niveau d'anglais, son parcours manque de lien avec les politiques publiques, l'aide au développement et la zone géographique visée."
   },
+  "247337": {
+    "score": 45,
+    "raison": "Le profil de contrôleur de gestion de Nathan correspond au secteur financier demandé et son niveau d'anglais est excellent. Cependant, l'offre requiert un rôle technique orienté pré-vente, ingénierie logicielle et développement d'algorithmes (Python, VBA), ce qui s'éloigne de son expertise financière pure."
+  },
   "247344": {
     "score": 85,
     "raison": "Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa solide expérience en contrôle de gestion, son niveau d'anglais validé et sa maîtrise d'Excel. Les principaux écarts résident dans l'absence mentionnée des logiciels SAP et Oracle HFM, ainsi que de l'espagnol courant (niveau B1 indiqué)."
+  },
+  "247372": {
+    "score": 45,
+    "raison": "Le candidat possède de solides compétences en finance et en gestion de projet, mais l'offre exige une maîtrise de la langue italienne et une spécialisation en services titres (Securities Services) que le profil ne démontre pas. De plus, le poste est orienté vers l'ingénierie produit et non strictement vers le contrôle de gestion recherché."
   }
 }
