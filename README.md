@@ -8,11 +8,90 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **22/10/2026 11:24:04**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **22/10/2026 12:11:33**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Finance Manager (RAF) (H/F)</strong> · WESYPE · LISBONNE, PORTUGAL · 2 677,43 €/mois</summary>
+
+- **Entreprise :** WESYPE
+- **Lieu :** LISBONNE, PORTUGAL
+- **Indemnité :** 2 677,43 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 22/10/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en termes d'expérience (2 ans) et de compétences en contrôle de gestion, pilotage financier et optimisation des coûts. Cependant, l'offre met un accent plus opérationnel sur la comptabilité générale, la facturation et l'administration RH, et le poste est basé à Lisbonne alors qu'il cible plutôt l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247377](https://mon-vie-via.businessfrance.fr/offres/247377)
+
+**Description du poste**
+
+# À propos de Wesype
+
+Wesype accompagne les PMEs et ETIs à intégrer l’IA dans leurs métiers. Wesype est spécialisé en déploiement de plateforme agentique (Dust, Claude, Copilot …). 
+
+La société connaît une croissance très soutenue (+20 % par mois), est rentable et accompagne plus de 200 clients dans des industries variées (tech, fonds d'investissement, immobilier, cabinet de conseil, retail, notaires, avocats, experts-comptables).
+
+# L’équipe
+
+Wesype est fondé par l'ancien fondateur de Cajoo et un ancien dirigeant de Spendesk (licorne française). Une équipe de 40 personnes entre Paris et Lisbonne, dynamique, ambitieuse et passionnée par la révolution GenAI que nous vivons. 
+
+# Ton rôle
+
+Tu assures la fiabilité de la gestion administrative, comptable et financière de Wesype. Tu travailles au quotidien avec les fondateurs, les cabinets comptables, les équipes opérationnelles et les conseils externes.
+
+### **1. Facturation, encaissements et contrats**
+
+- Tu prépares les devis et factures liés aux prestations de conseil, licences, commissions, partenariats et formations.
+- Tu suis les encaissements, les relances clients, les avoirs.
+
+### **2. Comptabilité et fiscalité**
+
+- Tu coordonnes les cabinets d’expertise comptable, rassembles les pièces et prépares les clôtures.
+- Tu contrôles les rapprochements bancaires, les comptes clients et fournisseurs et les principales écritures comptables.
+- Tu suis le calendrier des obligations fiscales et administratives des sociétés opérationnelles.
+
+### **3. Trésorerie et pilotage financier**
+
+- Tu mets à jour la trésorerie, les prévisions à court terme et le suivi des paiements à venir.
+- Tu contribues au budget, au suivi du réalisé par rapport au prévisionnel et à l’analyse des écarts.
+- Tu produis des reportings réguliers pour les fondateurs, incluant chiffre d’affaires, marge, coûts
+
+### **4. Dépenses, achats et fournisseurs**
+
+- Tu contrôles les notes de frais, justificatifs, dépenses engagées et demandes de paiement.
+- Tu suis les fournisseurs, abonnements, renouvellements et échéances importantes.
+- Tu structures les règles d’engagement et d’approbation des dépenses et identifies les leviers d’optimisation des coûts.
+
+### **5. Juridique, contrats et conformité**
+
+- Tu assures le suivi administratif des contrats clients, partenaires, revendeurs et fournisseurs.
+- Tu contribues à la mise à jour des CGV, documents légaux, assurances, Kbis et obligations corporate.
+- Tu accompagnes les sujets de financement, de dette ou d’évolution des structures juridiques.
+
+### **6. Administration RH et organisme de formation**
+
+- Tu coordonnes la paie, les dossiers administratifs des collaborateurs et les avantages sociaux.
+- Tu assures le suivi administratif des formations, conventions, émargements, formateurs externes et justificatifs Qualiopi.
+- Tu veilles au respect des processus liés à la formation, à la veille réglementaire et aux audits.
+
+### **7. Processus, outils**
+
+- Tu structures et documentes les processus financiers et administratifs, puis identifies les tâches à simplifier ou automatiser.
+
+**Profil recherché**
+
+# Profil recherché
+
+- 2 à 3 ans d’expérience en finance d’entreprise, comptabilité, contrôle financier ou gestion administrative et financière
+- Expérience en startup, PME en croissance, cabinet comptable ou environnement de conseil
+- Rigueur, sens de l’organisation et attention aux détails
+- Autonomie, esprit d’initiative et capacité à faire avancer les sujets jusqu’à leur résolution
+- Appétence pour la structuration de processus et l’automatisation des tâches
+- Français courant. Anglais professionnel.
+
+</details>
 
 <details>
 <summary><strong>Product Engineering Officer (H/F)</strong> · SOCIETE GENERALE · MILAN, ITALIE · 3 003,87 €/mois</summary>
