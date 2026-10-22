@@ -8,11 +8,55 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **22/10/2026 14:59:42**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **22/10/2026 15:41:19**, 86 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Assistant Chef de Projet Contrôle Interne (H/F) – République tchèque</strong> · TOTALENERGIES MARKETING SERVICES · PRAGUE, TCHEQUIE / REPUBLIQUE TCHEQUE · 2 640,11 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES MARKETING SERVICES
+- **Lieu :** PRAGUE, TCHEQUIE / REPUBLIQUE TCHEQUE
+- **Indemnité :** 2 640,11 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 22/10/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en matière de formation financière et d'expérience en gestion, avec un excellent niveau d'anglais. Cependant, l'offre est axée sur le contrôle interne et l'audit plutôt que sur le contrôle de gestion pur, et la destination (République tchèque) s'éloigne de son souhait initial pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247383](https://mon-vie-via.businessfrance.fr/offres/247383)
+
+**Description du poste**
+
+Rejoignez la branche Marketing & Services de TotalEnergies à Prague, en République tchèque, et contribuez au renforcement du contrôle interne au sein d’un hub régional couvrant la République tchèque, la Slovaquie et la Hongrie.
+Vous participez à la préparation d’un audit interne régional et contribuez à la fiabilisation des processus, au suivi des contrôles et à l’amélioration continue des pratiques.
+
+Merci de candidater en anglais.
+
+Vos principales missions :
+•	Analyser les résultats des revues de contrôle interne et les plans d’actions associés.
+•	Comprendre les processus des entités couvrant trois pays.
+•	Coordonner les actions de préparation aux audits internes.
+•	Vérifier l’application des procédures et des règles de la Compagnie.
+•	Contrôler la disponibilité et la conformité de la documentation.
+•	Identifier les écarts, retards et points de vigilance.
+•	Accompagner les équipes dans la préparation des audits.
+•	Faciliter la coordination entre les équipes locales et les interlocuteurs du siège.
+•	Structurer le suivi des actions correctives après audit.
+•	Contribuer à l’intégration des exigences de contrôle interne au sein d’une nouvelle entité.
+
+**Profil recherché**
+
+Vous êtes diplômé d’un BAC+5 minimum (master universitaire ou école de commerce) avec une spécialisation en audit, contrôle interne, gestion des risques ou finance.
+Vous bénéficiez d’une première expérience dans un de ces domaines.
+Une expérience dans un secteur différent de celui de l’énergie représenterait un atout, en favorisant l’apport de nouvelles approches et de bonnes pratiques transposables à notre activité.
+Vous maîtrisez les outils du Pack Office, notamment :
+•	Excel ;
+•	PowerPoint ;
+•	Word.
+La connaissance de SAP constitue un atout.
+Un niveau d’anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.
+
+</details>
 
 <details>
 <summary><strong>Finance Manager (RAF) (H/F)</strong> · WESYPE · LISBONNE, PORTUGAL · 2 677,43 €/mois</summary>
@@ -321,6 +365,71 @@ POURQUOI NOUS REJOINDRE ?
 - Évoluez au sein d’une filiale majeure du Groupe. 
 
 La branche Exploration-Production (EP) de TotalEnergies couvre l’exploration et la production de pétrole et de gaz naturel, ainsi que les activités contribuant à la neutralité carbone. Présents dans une cinquantaine de pays, ses 9 000 collaboratrices et collaborateurs ont pour mission de produire de manière responsable les hydrocarbures dont le monde a besoin aujourd’hui tout en contribuant à la transition énergétique de la Compagnie. La branche EP agit pour réduire les émissions de gaz à effet de serre, en particulier le méthane, et améliorer la performance environnementale de ses opérations.
+
+</details>
+
+<details>
+<summary><strong>Responsable d’études – Attaché(e) économique et financier (H/F)</strong> · DIRECTION GENERALE DU TRESOR · ANKARA, TURQUIE · 2 582,00 €/mois</summary>
+
+- **Entreprise :** DIRECTION GENERALE DU TRESOR
+- **Lieu :** ANKARA, TURQUIE
+- **Indemnité :** 2 582,00 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 22/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247387](https://mon-vie-via.businessfrance.fr/offres/247387)
+
+**Description du poste**
+
+MISSION ET ATTRIBUTIONS DU VIA :
+Les missions du SER d’Ankara s’organisent autour de deux objectifs classiques : renforcer la relation bilatérale économique sur tous ses pans (échanges commerciaux, investissements croisés, appui aux grands projets) et promouvoir l’attractivité de la France. Ces missions valent pour la Turquie comme pour les trois autres pays sous la responsabilité du SER : l’Azerbaïdjan, la Géorgie et l’Arménie.
+
+Placé(e) sous l’autorité du Conseiller Financier, chef du pôle macro-économie/finances, le/la VIA :
+•	Participera au suivi conjoncturel de l’économie turque (croissance, inflation, emploi, finances publiques, balance des paiements, politique monétaire et de change, marchés financiers, etc.) ;
+•	Assurera le suivi des politiques publiques/réformes structurelles (politique budgétaire, compétitivité, environnement des affaires, etc.) ;
+•	Contribuera au suivi régulier des investissements et des échanges extérieurs de la Turquie, globaux ou bilatéraux ; 
+•	Pilotera la rédaction de notes d’analyse dans les domaines précités, et coordonnera la réalisation des produits éditoriaux du SER (brèves économiques et financières, « Lumières Turquoises ») ; 
+•	Sera amené à formuler des avis sur les rapports produits par les organisations internationales sur les pays de la zone (FMI, etc.) ainsi que les grands projets financés par les bailleurs internationaux (Banque mondiale, BERD, etc.) ; 
+•	Apportera son appui/expertise aux différents pôles du SER d’Ankara sur leurs domaines d’intérêt (industrie, agriculture, énergie, etc.) ainsi qu’aux services de l’Ambassade pour leurs sollicitations ponctuelles (chancellerie, secrétariat général, consulat, etc.)
+
+Par ailleurs et de façon subsidiaire, il assurera les fonctions de « Correspondant Informatique Local » pour le site d’Ankara.
+
+PROFIL :
+Compte tenu des missions du poste, une formation en sciences économiques est un prérequis. 
+Les candidatures disposant également de qualifications connexes (finance/commerce ; politiques publiques ; sciences politiques, sociales et historiques ; relations internationales, etc.) seront valorisées. 
+Diplômes : Masters de 1er plan orientés économie/commerce-finance/politiques publiques, délivrés par des Universités, des Grandes écoles ou des IEP.  
+
+COMPETENCES REQUISES :
+•	Qualités de recherche, d’analyse, de synthèse et de rédaction ; 
+•	Grande curiosité et goût pour les questions macroéconomiques et financières ; 
+•	Aisance dans l’utilisation des outils quantitatifs et des données chiffrées ; 
+•	Capacité à travailler en équipe ; 
+•	Autonomie, rigueur et sens de l’organisation ; 
+•	Sens relationnel et de la communication
+•	Habilité à créer et entretenir un réseau de contacts professionnels ; 
+•	Maîtrise professionnelle de l’anglais indispensable ; celle du turc constitue un plus ; 
+
+DIVERS :
+Hébergement sur le marché privé accessible et assez simple à trouver. Pour un hébergement correct, il faut compter environ 450-500€/mois en colocation, 800-900€/mois en individuel. 
+Le contexte régional et intérieur est parfois tendu, mais il n’y a pas de menace particulière pesant sur les Français. La qualité des infrastructures de santé peut être considérée comme excellente, notamment dans le secteur privé, et ne doit pas être un sujet d’inquiétude pour un séjour prolongé dans le pays. 
+Dans tous les cas, que ce soit dans le domaine sécuritaire ou sanitaire, il conviendra de strictement respecter les consignes de vigilance et de prudence données par l’ambassade. 
+Les déplacements dans la plus grande partie du pays, qui est superbe et passionnant, sont aisés.
+
+**Profil recherché**
+
+PROFIL :
+Compte tenu des missions du poste, une formation en sciences économiques est un prérequis. 
+Les candidatures disposant également de qualifications connexes (finance/commerce ; politiques publiques ; sciences politiques, sociales et historiques ; relations internationales, etc.) seront valorisées. 
+Diplômes : Masters de 1er plan orientés économie/commerce-finance/politiques publiques, délivrés par des Universités, des Grandes écoles ou des IEP.  
+
+COMPETENCES REQUISES :
+•	Qualités de recherche, d’analyse, de synthèse et de rédaction ; 
+•	Grande curiosité et goût pour les questions macroéconomiques et financières ; 
+•	Aisance dans l’utilisation des outils quantitatifs et des données chiffrées ; 
+•	Capacité à travailler en équipe ; 
+•	Autonomie, rigueur et sens de l’organisation ; 
+•	Sens relationnel et de la communication
+•	Habilité à créer et entretenir un réseau de contacts professionnels ; 
+•	Maîtrise professionnelle de l’anglais indispensable ; celle du turc constitue un plus.
 
 </details>
 
@@ -1931,52 +2040,6 @@ Personal Attributes
 •	Strong intellectual curiosity, attention to detail, and willingness to learn in a demanding environment.
 •	Solid analytical thinking and with a strong sense of ownership
 •	Team oriented and able to thrive in Euro Latina Finance’s collaborative culture
-
-</details>
-
-<details>
-<summary><strong>Junior Trader (H/F)</strong> · BLUE CUBE (FRANCE) · LONDRES, ROYAUME-UNI · 3 815,75 €/mois</summary>
-
-- **Entreprise :** BLUE CUBE (FRANCE)
-- **Lieu :** LONDRES, ROYAUME-UNI
-- **Indemnité :** 3 815,75 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 12/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245487](https://mon-vie-via.businessfrance.fr/offres/245487)
-
-**Description du poste**
-
-We are seeking a highly motivated Junior Trading Analyst to join our dynamic team, supporting a 24-7 EMEA, Singapore and US over-the-counter (OTC) cryptocurrency spot flow operation. This role provides an exceptional opportunity to make a significant impact within our fast-growing and innovative organization with the ability to move into a full time trader role.
-Responsibilities:
-Monitor and analyze market trends, news, and economic data to identify trading opportunities and content for research reports
-Assist traders in the execution, booking and reporting of trades across various internal systems
-Conduct quantitative and qualitative analysis of trading and hedging strategies and market conditions
-Prepare and maintain daily, weekly, and monthly trading reports
-Collaborate with other team members to improve trading, booking and settlement processes and systems
-Assist in the management of trading risk and compliance with regulatory requirements.
-Stay updated with industry developments and emerging market trends
-Qualifications:
-Bachelor’s degree in Finance, Economics, Mathematics, Computer Science, or a related field
-Strong analytical and quantitative skills with the ability to interpret complex data sets.
-Proficiency in Excel and familiarity with programming languages such as Python, R, or SQL
-Excellent communication and teamwork skills
-Ability to work in a fast-paced, high-pressure environment
-Keen interest in financial markets and trading
-Excellent interpersonal and communication skills, with a client-focused approach to trading
-Demonstrated ability to perform under pressure, make quick decisions and handle high volumes of transactions
-A keen interest in staying updated with trends and news in the fast-paced world of cryptocurrencies. Prior personal experience is a plus
-Must be comfortable working flexible hours in coordination with our Singapore and UK teams
-The ideal candidate will be a hungry, hard-working individual accustomed to earning a significant portion of income through commission. If you are ready to seize this challenging opportunity and make a substantial contribution to our operation, we invite you to apply
-
-**Profil recherché**
-
-We are looking for a highly motivated and ambitious Junior Trading Analyst to join our global trading team and support our 24/7 OTC cryptocurrency spot trading operation across EMEA, Singapore, and the US. This is an excellent opportunity for someone early in their career who is passionate about financial markets and crypto and wants to develop into a full-time Trader role.
-
-The ideal candidate is highly analytical, commercially minded, hard-working, and comfortable in a fast-paced, high-pressure environment. They will work closely with experienced traders, supporting trade execution, booking and reporting, monitoring market trends and news, and identifying potential trading opportunities. They will also assist with the analysis of trading and hedging strategies, risk management, and improvements to trading and settlement processes.
-
-We are looking for candidates with a degree in Finance, Economics, Mathematics, Computer Science, or another quantitative field, with strong analytical and numerical skills. Strong Excel proficiency is important, while familiarity with Python, R, or SQL is a plus.
-
-Candidates should have a genuine interest in financial markets and cryptocurrencies, strong communication skills, attention to detail, and the ability to make quick decisions and perform under pressure. Above all, we are looking for someone hungry, entrepreneurial, resilient, and performance-driven, who is eager to build a career in trading and comfortable working flexible hours with global teams.
 
 </details>
 

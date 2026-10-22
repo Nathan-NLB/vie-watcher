@@ -509,5 +509,12 @@
   },
   "entreprise|societe generale|milan|italie": null,
   "entreprise|weefin|londres|royaume-uni": null,
-  "entreprise|wesype|lisbonne|portugal": null
+  "entreprise|wesype|lisbonne|portugal": null,
+  "entreprise|totalenergies marketing services|prague|tchequie / republique tcheque": null,
+  "ville|prague|tchequie / republique tcheque": null,
+  "entreprise|direction generale du tresor|ankara|turquie": null,
+  "ville|ankara|turquie": {
+    "lat": 39.9207759,
+    "lon": 32.8540497
+  }
 }
