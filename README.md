@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/10/2026 00:05:55**, 86 offre(s) actuellement en ligne.
+Dernière vérification : **23/10/2026 00:44:45**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2573,66 +2573,6 @@ Fluent English required (minimum C1 level). German language skills are a plus
 </details>
 
 <details>
-<summary><strong>Business Operations Analyst – San Francisco, CA (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
-
-- **Entreprise :** PLANISWARE
-- **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
-- **Indemnité :** 5 151,29 €/mois
-- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
-- **Publiée le :** 08/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244495](https://mon-vie-via.businessfrance.fr/offres/244495)
-
-**Description du poste**
-
-Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development.
-
-Planisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.
-
-The Role:
-As a Business Operations Analyst (VIE), you will support Planisware North America in key initiatives at the intersection of strategy, operations, and business transformation. This role is ideal for a candidate who is curious, analytical, and hands-on, with a strong interest in understanding how a business operates end-to-end. You will help identify opportunities to make operations more efficient and scalable. 
-
-In this role you will:
-• Support strategic initiatives by analyzing business performance and identifying areas for improvement 
-• Contribute to transformation projects aimed at improving processes, tools, and operational efficiency 
-• Help define and track key business metrics (KPIs) to support decision-making  
-• Build and maintain dashboards, reports, and models to monitor business performance 
-• Perform financial and operational analyses (e.g., forecasting, variance analysis, pipeline tracking) 
-• Translate data into actionable insights and clear recommendations for stakeholders 
-• Assist in structuring and optimizing internal processes across teams 
-• Work on cross-functional projects with teams such as Sales, Finance, Product, and Customer Success 
-• Help coordinate initiatives, track progress, and ensure alignment across stakeholders 
-• Break down complex problems into manageable steps and prioritize effectively 
-• Support leadership with presentations, reporting, and decision-making materials
-
-This is a unique opportunity to not only gain an inside and front-row view of Planisware's business operations, but also to use your own creative insights and problem-solving skills to enhance those processes. Add both depth and breadth to your career skills portfolio in a highly autonomous role for a company that recognizes and rewards top performers.
-
-This is a hybrid role, requiring in office work 4x a week, Monday-Thursday, and remote work allowed on Friday.
-
-**Profil recherché**
-
-Qualifications
-• Master’s degree in Business Administration, Engineering, Global Economy, or a related field.  
-• Minimum one year of professional or internship experience in business operations, consulting, or finance obtained either in France or abroad  
-• Fluency in English (written and spoken) 
-
-Preferred Qualifications
-     • Proficiency with a BI/visualization tool beyond Excel (Power BI, Tableau)  
-     • SQL or comfort querying databases to self-serve data  
-     • Familiarity with CRM and ERP systems (Salesforce, Marketo) 
-     • Experience in/exposure to B2B SaaS/enterprise software environments (including PPM), with an understanding of recurring revenue, 
-        pipeline, churn, and the sales-to-Customer Success lifecycle
-     • Understanding of core financial and operational metrics (ARR, pipeline coverage, forecast accuracy, win rates) 
-     • Any prior management consulting, strategy, or rotational-program experience  
-     • Discretion and sound judgment with confidential information 
-     • Strong executive communication with the ability to translate complex analysis into clear, concise messages for leadership 
-     • High attention to detail in executive-facing deliverables (decks, board materials, QBR prep)
-
-To apply
-Before applying, be sure to check the eligibility requirements for this destination: http://www.civiweb.com/FR/le-volontariat-international/conditions-du-VIE.aspx. The visa required for such a VIE position is subject to specific conditions of training and/or professional experience. When applying, please make sure to submit the English version of both your resume and cover letter. As all communications will be in English, your application email should be written in English as well.
-
-</details>
-
-<details>
 <summary><strong>VIE Supply Portfolio & Grid Manager in SPM Germany H/F (H/F)</strong> · ENGIE GLOBAL MARKETS · BERLIN, ALLEMAGNE · 3 248,43 €/mois</summary>
 
 - **Entreprise :** ENGIE GLOBAL MARKETS
@@ -4741,128 +4681,6 @@ The successful VIE candidate will support the team in the analysis and implement
 •	Support the coordination and follow-up of system change requests with relevant stakeholders;
 •	Support testing, monitoring and issue resolution activities linked to rule changes and system updates;
 •	Build effective working relationships with internal teams and external partners;
-
-</details>
-
-<details>
-<summary><strong>Controleur de Gestion (H/F)</strong> · COLAS RAIL · SANTIAGO, CHILI · 2 458,58 €/mois</summary>
-
-- **Entreprise :** COLAS RAIL
-- **Lieu :** SANTIAGO, CHILI
-- **Indemnité :** 2 458,58 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 22/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246270](https://mon-vie-via.businessfrance.fr/offres/246270)
-
-**Description du poste**
-
-Le contrôleur de gestion a pour mission le suivi et reporting des performances comptables et financières des projets en-cours, d'informer des déviations budgétaires et de préparer et améliorer les reportings et tableaux de bord.
-
-Cost control & Reporting :
-- Suivi mensuel des coûts des projets, analyse des variations et animation de réunions mensuelles avec l'équipe projet pour présenter les résultats, discuter des déviations et mettre en place conjointement des actions correctives.
-- Controler et suivre le chiffre d'affaires et l'engagement des dépenses par projets
-- Mensuellement, répartir les dépenses communes par projets
-- Participer aux processus budgétaires, prévisions et analyse des écarts.
-
-Comptabilité/Reporting :
-- Préparer le reporting financier mensuel et remonter les résultats dans les outils groupe selon le calendrier Colas Rail
-- ‎Verifier l'imputation des depenses
-
-Divers:
-- Support a la direction pays, métier et préparation d'analyses selon les besoins
-- Support aux autres fonctions support
-- Amélioration de l'outil de cost control en se basant sur les outils proposés par le groupe
-
-**Profil recherché**
-
-Le candidat devra parler un espagnol de niveau B1, celle-ci étant la langue de travail et de communication quotidienne. 
-Dans le cadre du processus d'integration du candidat, la prise de poste commencera par une mission au siège du groupe à Puteaux au-cours de laquelle le candidat se familiarisera avec les process et outils du groupe.
-
-</details>
-
-<details>
-<summary><strong>V.I.E. Settlement Officer (H/F)</strong> · ENGIE GLOBAL MARKETS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** ENGIE GLOBAL MARKETS
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 22/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246259](https://mon-vie-via.businessfrance.fr/offres/246259)
-
-**Description du poste**
-
-About ENGIE and Supply & Energy Management:
-
-ENGIE, a global leader in low-carbon energy and services, relies on its Global Business Unit Supply & Energy Management (GBU S&EM) to provide reliable, sustainable, and affordable energy to all its customers. This strategic unit optimizes the Group’s and clients’ production assets and designs tailored energy solutions for our 200,000 professional clients and 15 million consumers.
-
-The Global Business Unit Supply & Energy Management leverages ENGIE’s assets to deliver secure and sustainable energy to its B2B and B2C customers. It uses its expertise in energy management to provide decarbonized electricity 24/7.
-
-Joining Supply & Energy Management means becoming part of a team of over 10,000 passionate experts spread across 20 countries, all united by a shared mission: shaping a greener and more efficient energy future. Together, we push the boundaries of innovation to deliver decarbonized energy 24/7. Join us and be part of those shaping the energy of tomorrow!
-
- 
-
-The Renewable Operations team is responsible for: 
-- ensuring the smooth running of renewable operations 
-- providing the relevant tools to actively manage portfolio contracts 
-
-- maintain central database data quality at highest level for renewable assets management 
-
-- facilitating the production of reports and analysis on data 
-
- 
-
-Challenge: 
-
-You will join an operational team, managing an important Renewable portfolio in collaboration with many other GEM teams (Business Developers, Structurers, Traders, Support functions). 
-
-You’ll need to quickly develop a good knowledge of the processes and tools needed to run the activity. 
-
-You’ll work in close relationship with the IT team in order to set up new features and improve existing ones. 
-
-You’ll need scripting capabilities to perform data management automation and detect area of improvements. 
-
- 
-
-Mission/Main Activities: 
-
-Accurate Contract Representation and Modelling: 
-
-Ensure precise representation and modelling of renewable contracts, sometimes very structured and exotic, in deal capture and invoicing systems, including Power and Guarantee of Origins. 
-
-Technical Issue Resolution: 
-
-Liaise with IS to follow up on technical issues ensuring timely  and accurate resolution for invoicing. 
-
-Internal Stakeholder Communication: 
-
-Maintain effective communication with internal stakeholders (Originators, Traders, Finance) to ensure smooth workflow from contractualization to invoicing. 
-
-Data Management and Client Relationship 
-
-Apply best practices in data management and act as the guardian of client relationships, ensuring data integrity and client satisfaction. 
-
-Continuous Improvement and Automation: 
-
-Lead initiatives for continuous improvement of operations and contribute to their automation, enhancing efficiency and effectiveness.
-
-**Profil recherché**
-
-Profile:  
-
-The ideal candidate has a master’s degree in Finance. 
-
-• Familiar with Finance and/or Energy fields 
-
-• Experience in coding and scripting with Python 
-
-• Data management skills 
-
-• A strong focus on business outcomes 
-
-• Comfort with collaboration, open communication and reaching across functional borders 
-
-• Fluent English is required German, Dutch or French is a plus.
 
 </details>
 
