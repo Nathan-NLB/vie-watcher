@@ -3398,16 +3398,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Valeo’s VIE Program?\n\nThe Valeo VIE Program is available to citizens of the European Economic Area (EU + Norway, Liechtenstein and Iceland) aged between 18 and 28. This program is to work for one of our subsidiaries around the world!\nBusiness France, the French agency for international business development, is in charge of all the administrative procedures of your assignment. Make sure you meet Business France's eligibility criteria to apply for a VIE : https://mon-vievia.businessfrance.fr/\nPLEASE NOTE: Your application must be submitted in English to be considered by our non-French speaking teams partners at Valeo worldwide. \nPLEASE NOTE: As part of your international development, you cannot apply to a VIE assignment in the country of your citizenship\n***\nJoin our teams mobilized to meet the challenge of accelerating electrification!\n\nAt the heart of electric mobility, Valeo Power brings together expertise in thermal management systems and propulsion systems. This division develops innovations that contribute to the mobility of tomorrow by reducing pollutant emissions and maximizing vehicle autonomy.\n\nThe site of Erlangen based in Germany belongs to the POWER Division. We are looking for a VIE Business Management Controller for 24 months within the team.\n\nYour challenges?\n\n- You will work in close collaboration with the Project Manager and the project team as a full team member, ensuring the reliability of the project’s economics from the RFQ / P1 phase until series production.\n- You will build and maintain the project’s provisional P&L, investment plan, and cash flow projections.\n- You will ensure the consistency of the industrial and economic scenario, including volumes, inflation balance, investments, and R&D costs.\n- You will provide the Project Manager with a comprehensive understanding of production costs, including standard times, hourly rates, and fixed cost allocations.\n- You will prepare clear syntheses and presentations for upper management, transparently explaining whether and under which conditions a business is profitable.\n- You will follow up on project costs (R&D, investments, prices) and key KPIs throughout the complete development phase.\n- You will track and manage customer contributions, subsidies, and tooling sales across cash flow, P&L, and balance sheet perspectives.",
     "creationDate": "2026-10-08T09:12:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5890,16 +5883,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Louis Dreyfus Company (LDC) has been a key player in the global coffee industry for more than 30 years. We specialize in all major Arabica and Robusta coffee qualities, serving a diverse customer base worldwide, ranging from specialty roasters to multinational food and beverage companies.\r\n\r\nWe are looking for a highly motivated and analytical individual to join our Coffee Financial Planning & Analysis (FP&A) team, reporting to the FP&A Manager for the Coffee Platform in EMEA.\r\n\r\nIn this role, you will support the FP&A Manager in delivering recurring monthly performance analysis, coordinating budgeting and forecasting activities, and contributing to a range of ad hoc, cross-functional projects. You will work closely with multiple teams across the EMEA region, gaining exposure to the commercial, operational, and financial aspects of the coffee business.\r\n\r\nThis position offers a unique opportunity to develop your FP&A skills within a dynamic and international environment. Based in Kampala, Uganda, LDC's largest coffee origination platform in EMEA, you will gain unique exposure to the coffee supply chain, from origin to destination markets. This role offers the opportunity to work closely with commercial, operational, and finance teams while developing a solid foundation in business partnering, financial analysis, and commodity markets. For motivated individuals, it represents an excellent entry point into LDC and a strong platform from which to pursue future career opportunities across Finance, Commercial, Operations, or other functions within the Group.\r\nFinancial performance & reporting \r\n\r\n•\tDeliver comprehensive monthly performance analysis, comparing reported numbers to the budget, while clearly identifying and explaining key variances and underlying business drivers.\r\n•\tContribute to the preparation of the Monthly Performance Review (MPR), including analytical files and presentation materials, ensuring accuracy, consistency, and clear financial messaging.\r\n•\tSupport the FP&A Manager in delivering ad hoc financial analyses for management and business stakeholders, including profitability reviews, OPEX deep-dives, trend analysis, and scenario modeling.\r\nBusiness Partnering & Decision Support\r\n\r\n•\tContribute to budget, forecast, and landing exercises by challenging assumptions and assessing associated risks and opportunities.\r\n•\tParticipate in discussions with commercial and finance teams to understand the financial performance of the Coffee Platform and the drivers of profitability.\r\n•\tDevelop financial models and scenario analyses to evaluate business performance, operational initiatives, and market developments.\r\n\r\nProcess Improvement & Digitalization\r\n•\tIdentify opportunities to improve reporting processes, data quality, and analytical tools through automation and simplification initiatives. \r\n•\tAct as a key liaison between Finance, IT, and business teams to enhance reporting systems and strengthen data integrity.\r\nThe scope is the LDC EMEA Coffee Platform.",
     "creationDate": "2026-07-23T07:37:46Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -6367,83 +6353,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "",
-    "dateCandidature": null
-  },
-  {
-    "id": 245135,
-    "organizationName": "TOTALENERGIES SE",
-    "missionTitle": "Cost Data Analyst (H/F) – Congo",
-    "missionDuration": 24,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "1110",
-    "effectifConso": "3917",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "POINTE NOIRE",
-    "cityNameEn": "POINTE NOIRE",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "8",
-      "9"
-    ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
-    "missionDescription": "Directement intégré à l’équipe Contrôle de Gestion de TotalEnergies Exploration-Production en République du Congo, vous contribuez à la production d’analyses financières fiables, au pilotage des coûts et au suivi des partenaires des Joint Ventures.  \n\nMerci de candidater en anglais. \n\nLogement en colocation fourni par la filiale.  \n\nVos principales missions : \n- Collecter les données mensuelles des différentes Joint Ventures.  \n- Consolider les réalisations financières des actifs suivis.  \n- Produire les rapports de synthèse et de reporting.  \n- Analyser les données financières et les écarts de performance.  \n- Contribuer à la préparation des analyses du contrôle de gestion.  \n- Assurer la facturation des partenaires.  \n- Suivre les comptes partenaires et les opérations associées.  \n- Contrôler la qualité et la cohérence des données financières.",
-    "creationDate": "2026-08-05T09:17:18Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2028-12-01T00:00:00",
-    "startBroadcastDate": "2026-09-25T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-10-25T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Diplômé d’un Bac+5 minimum (Ecole de commerce, d’ingénieurs ou formation universitaire) en comptabilité, contrôle de gestion ou finance.  \n\nVous bénéficiez d’une première expérience en contrôle de gestion. \n\nVous disposez de bases solides en comptabilité (OPEX, CAPEX et frais de fonctionnement).  \n\nVous connaissez les outils suivants : \n- Excel : niveau avancé  \n- SAP FI/CO : niveau intermédiaire.  \n\nLa connaissance de Power BI constitue un atout tout comme celle de Web Intelligence (Webi). \n\nUn niveau de français niveau C1 minimum est requis. Un niveau d'anglais niveau B2 minimum est également demandé.  \n\nPOURQUOI NOUS REJOINDRE ? \n- Développez une expertise reconnue en contrôle de gestion international. \n- Contribuez à des enjeux financiers stratégiques. \n- Travaillez dans un environnement multiculturel. \n- Évoluez au sein d’une filiale majeure du Groupe. \n\nLa branche Exploration-Production (EP) de TotalEnergies couvre l’exploration et la production de pétrole et de gaz naturel, ainsi que les activités contribuant à la neutralité carbone. Présents dans une cinquantaine de pays, ses 9 000 collaboratrices et collaborateurs ont pour mission de produire de manière responsable les hydrocarbures dont le monde a besoin aujourd’hui tout en contribuant à la transition énergétique de la Compagnie. La branche EP agit pour réduire les émissions de gaz à effet de serre, en particulier le méthane, et améliorer la performance environnementale de ses opérations.",
-    "countryId": "CG",
-    "countryName": "CONGO",
-    "countryNameEn": "CONGO",
-    "reference": "VIE245135",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Isabelle BOUCHET",
-    "indemnite": 3036.62,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Cost-Data-Analyst-H-F-Congo/83101",
     "dateCandidature": null
   },
   {
