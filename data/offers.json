@@ -2033,16 +2033,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "320"
+      "[\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Au sein des départements Back Office et Trésorerie, le Business Analyst sera rattaché fonctionnellement aux responsables des équipes concernées. Cette mission lui permettra d’acquérir une vision transverse des activités financières et de trésorerie du Groupe, tout en contribuant à la transformation et à l’amélioration des processus existants. Il participera à la conception, à la refonte et à l’automatisation des reportings financiers et des outils d’aide à la décision, principalement sous Power BI et Excel. Ces outils couvriront notamment le suivi du cash pooling, des prévisions de trésorerie, des paiements, de l’endettement Groupe et des risques financiers.",
     "creationDate": "2026-10-15T15:55:32Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4203,65 +4196,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "259",
-      "318",
-      "320",
-      "324"
+      "[\"5\",\"8\",\"9\",\"200\",\"259\",\"318\",\"320\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "I – Description du groupe Amethis\r\nLe groupe Amethis est un gestionnaire de fonds d’investissement dédié au continent africain & la région MENA. Amethis investit en capital-développement dans des entreprises en forte croissance dans une diversité de secteurs. Amethis a investi dans des sociétés présentes dans plus de 20 pays et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.\r\n\r\nII – Contexte AIFM (Aspect règlementaire)\r\nAmethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissement alternatifs (GFIA). Créée en 2017, elle est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg.\r\n\r\nIII – Rôle / Mission\r\nLe poste sera rattaché au Finance & Risk Manager, avec une exposition régulière au comité exécutif de l’AIFM, aux équipes d’investissement, aux investisseurs, aux auditeurs et aux prestataires des fonds.\r\nMissions principales :\r\nRisk Management\r\nInvestment process : rédaction des notes de risque pour chaque opération présentée en comité d’investissement, puis suivi du risque de chaque participation jusqu’à la sortie.\r\nConformité et limites : contrôle ex ante et ex post de la conformité des opérations aux documents des fonds (PPM, LPA) et aux limites de risque (concentration pays, secteur et émetteur, devise, levier, liquidité).\r\nRisk Report : élaboration du Risk Report semestriel couvrant l’ensemble des fonds, et des supports risk présentés au comité exécutif et au Conseil d’administration de l’AIFM.\r\nRéglementaire : contribution aux reportings réglementaires.\r\n\r\nFund administration\r\n\r\nOpérations des fonds : préparation des appels de fonds et des distributions (calculs par investisseur, notices, suivi des encaissements).\r\nNAV et performance : revue des NAV trimestrielles produites par l’administrateur et suivi des indicateurs de performance (TVPI, DPI, TRI).\r\nReporting investisseurs : préparation du reporting trimestriel aux investisseurs et réponses à leurs demandes ponctuelles.\r\nTrésorerie : suivi de la trésorerie des fonds et des prévisions de cash.\r\nPrestataires : coordination avec l’administrateur, le dépositaire, les banques et les auditeurs ; participation à l’audit annuel des fonds.\r\nAide au développements d’outils internes de pilotage de la performance financière / digitalisation / cost monitoring.\r\n\r\nCorporate scope\r\nArrêtés trimestriels : appui à l’arrêté des entités du groupe (AIFM, GP, holdings et bureaux de Paris, Luxembourg, Casablanca, Nairobi, Abidjan, Le Caire et Le Cap).\r\nPilotage : suivi du cash, des budgets et des atterrissages, avec analyse des écarts.\r\nIntragroupe : suivi des refacturations intragroupe et appui aux audits des sociétés du groupe.",
     "creationDate": "2026-10-07T14:09:31Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -5372,16 +5309,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "ALTEN group’s mission is to create customer satisfaction by developing tailor-made and innovative solutions for IT and Technology.\nPresent in 30 countries, we propose IT Solutions and Engineering Consulting to the world’s largest companies. For more than 30 years, a passion for engineering has driven us: ALTEN today is a European leader in engineering consulting and advanced technologies.\nTo follow our growth and development on the International perimeter (30 000 employees, turnover superior to 2 billion €), the ALTEN Group is looking for a:\n\nBusiness Controller & Analyst \nBased in ALTEN BELGIUM, Brussels \n\nYou will report directly to the Head of the International Development Department.  Your assignment consists in consolidating and analysing the operational data from ALTEN in Benelux. \nYour main tasks will be the following ones: \n•\tProducing weekly, monthly & quarterly operational reports for the Group as well as ad hoc analysis upon request\n•\tAnalysing with a critical eye the weekly operational indicators (KPIs)\n•\tProviding the best quality reports and analysis for key deadlines such as:\n•\tthe monthly business review (MBR) with the Top Management & the COO \n•\tthe Committee Career (CC) (biannual assessment of the commercial/management team based on operational data)\n•\tImplementation of the Bonus System for the management team \n•\tMaintaining & creating various dashboards for the COO to drive the activity\n•\tImproving the information flow from subsidiaries to headquarter\n•\tHelping in the deployment of the ALTEN tools in the new subsidiaries",
     "creationDate": "2026-09-01T10:21:54Z",
     "missionStartDate": "2027-01-01T00:00:00",
