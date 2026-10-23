@@ -199,30 +199,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "9",
-      "259"
+      "[\"5\",\"9\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Rejoignez la branche Marketing & Services de TotalEnergies à Prague, en République tchèque, et contribuez au renforcement du contrôle interne au sein d’un hub régional couvrant la République tchèque, la Slovaquie et la Hongrie.\nVous participez à la préparation d’un audit interne régional et contribuez à la fiabilisation des processus, au suivi des contrôles et à l’amélioration continue des pratiques.\n\nMerci de candidater en anglais.\n\nVos principales missions :\n•\tAnalyser les résultats des revues de contrôle interne et les plans d’actions associés.\n•\tComprendre les processus des entités couvrant trois pays.\n•\tCoordonner les actions de préparation aux audits internes.\n•\tVérifier l’application des procédures et des règles de la Compagnie.\n•\tContrôler la disponibilité et la conformité de la documentation.\n•\tIdentifier les écarts, retards et points de vigilance.\n•\tAccompagner les équipes dans la préparation des audits.\n•\tFaciliter la coordination entre les équipes locales et les interlocuteurs du siège.\n•\tStructurer le suivi des actions correctives après audit.\n•\tContribuer à l’intégration des exigences de contrôle interne au sein d’une nouvelle entité.",
     "creationDate": "2026-10-22T10:29:31Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -353,23 +332,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "259"
+      "[\"17\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The Product Engineering Office is responsible for the design, development and implementation of products, solutions and services supporting SGSS business development objectives. \nAs part of the Commercial Department, the Office works in close collaboration with the Commercial and Marketing teams to support SGSS Italy business development, identify client and market needs, and translate them into client-focused solutions. \nIt also partners with Operations and IT teams to design and implement scalable, efficient and compliant products, services and operating models, addressing complex client requirements and contributing to the continuous enhancement of SGSS’s service offering.\n\nThe successful candidate will work closely with the Product Engineering team and support the delivery of new products, solutions and services throughout their lifecycle, from analysis and design to implementation and client onboarding.\n\nKey responsibilities include:\n\nSupporting product and solution development projects;\nGathering and documenting business requirements;\nAssisting in feasibility studies with Operations, IT, Risk and Compliance teams;\nContributing to the design of operational solutions and target operating models;\nPreparing documentation for governance committees and project follow-up;\nSupporting the preparation of onboarding documentation, KPIs and SLAs;\nMaintaining product documentation and service descriptions;\nAssisting with implementation activities and client onboarding;\nParticipating in client requests, RFP responses and commercial initiatives when required.\nIn addition, the candidate will support transversal Product Engineering Office activities, including budget monitoring, pricing database maintenance, internal benchmarking and the preparation of management dashboards.\n\nA questionnaire will be provided to you in order to check your VIE (Société Générale and Business France) eligibility. For an efficient analysis of your application, please make sure to truthfully answer all the questions.\n\nPlease note that it is mandatory to communicate us a formal proof of your M2 diploma validation at least 2 weeks before the assignment start. No VIE mission will start without this document. *Grade sheets are not accepted as justification of diploma.",
     "creationDate": "2026-10-22T07:06:22Z",
     "missionStartDate": "2027-01-01T00:00:00",
