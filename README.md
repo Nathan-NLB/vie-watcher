@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/10/2026 05:20:32**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **23/10/2026 10:48:54**, 80 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -3972,56 +3972,6 @@ At Avertim, we value talent and mindset. No difference will be made during the r
 A Quality Engineer is a detail-oriented professional responsible for ensuring that products, processes, and systems consistently meet regulatory requirements, industry standards, and customer expectations. Acting at the intersection of engineering, operations, and compliance, the Quality Engineer drives continuous improvement by identifying risks, resolving quality issues, and implementing robust quality management systems.
 In regulated environments such as Life Sciences, the role is critical in maintaining compliance with standards such as GMP and ISO, supporting audits, and ensuring inspection readiness.
 The Quality Engineer collaborates closely with cross-functional teams (e.g., Operations, QA, QC, Engineering) to analyze deviations, perform root cause analysis, and implement corrective and preventive actions (CAPA). They play a key role in improving product reliability, reducing defects, and enhancing overall operational performance.
-
-</details>
-
-<details>
-<summary><strong>Comptable international Multi-pays (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 28/09/2026
-- **Compatibilité avec ton profil :** 68 % — Nathan possède le niveau d'études requis (Master), d'excellentes compétences sur Excel et correspond très bien aux critères géographiques (Barcelone) et linguistiques. Néanmoins, l'offre est fortement axée sur de la comptabilité générale et technique (saisie, lettrage, déclarations), ce qui diverge du parcours et des aspirations du candidat centrés sur le contrôle de gestion et le FP&A.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245978](https://mon-vie-via.businessfrance.fr/offres/245978)
-
-**Description du poste**
-
-Dans le cadre de notre développement et la structuration de notre activité à l’international, nous souhaitons recruter un VIE Comptable International au sein d’un share service center pour le groupe basé à Barcelone et en charge de la tenue comptable de plusieurs filiales dans le cadre du passage à un nouvel outil comptable.
-
-Mission à pourvoir asap.
-Localisation : Barcelone
-
-Vos missions : Réviser la saisie comptable pour plusieurs filiales du groupe dans le cadre de l’implémentation d’un nouveau logiciel et de la réinternalisation de la fonction comptable au sein d’un service partagé basé à Barcelone.
-
-Les missions principales dans ce cadre seront :
-- Révision de la saisie des écritures comptables pour les sociétés du groupe assignées, en respect des normes comptables applicables dans chaque pays.
-- Vérification des notes de frais,
-- Révision des rapprochements bancaires,
-- Préparation des fichiers de paiements fournisseur,
-- Révisions des comptes clients et fournisseurs, du lettrage et des autres comptes de bilan,
-- Clôtures comptables mensuelles : révision des comptes de bilan et compte de résultat et préparation des écritures de clôtures mensuelles (FNP, CCA, WIP ..)
-- Préparation des données nécessaires aux déclarations fiscales afin de les transmettre pour validation.
-- Préparation des fichiers de liasses sociales pour la consolidation groupe.
-
-Liste non exhaustive, les missions peuvent évoluer au cours de la période.
-
-
-Les Avantages
-- Entreprise dynamique, petite structure très horizontale malgré plus de 600 employés pour la filiale espagnole. Et une dynamique de croissance et de coopération avec le groupe et les autres filiales.
-- Ambiance de travail très agréable où il est facile de s’intégrer et de rapidement apporter (entreprise élue « great place to work »).
-
-- Groupe français et présent à l’international sur 3 continents avec de nombreuses nationalités représentées.
-- Interactions multiples avec au moins 2 filiales différentes.
-
-**Profil recherché**
-
-- Formation : Business school, Master, DSCG.
-- Français courant (impératif écrit/oral), espagnol et anglais niveau professionel (B2).
-- Maîtrise des outils Excel, expérience avec l’utilisation d’un ERP.
-- Expérience en comptabilité requise.
-- Prise d’initiative, curiosité, travail en équipe, esprit critique.
 
 </details>
 
