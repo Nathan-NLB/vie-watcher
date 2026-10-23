@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/10/2026 15:59:10**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **23/10/2026 20:08:13**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -128,6 +128,56 @@ Formation Bac+4/5 en finance, contrôle de gestion, gestion ou école de commerc
 Rigueur, sens de l’organisation et goût pour les chiffres.
 Aisance relationnelle et bon niveau d’anglais.
 Curiosité, autonomie et envie de s’investir dans une structure en croissance.
+
+</details>
+
+<details>
+<summary><strong>V.I.E - Chargé(e) de conformité (H/F)</strong> · SOGECAP · HAMBOURG, ALLEMAGNE · 3 027,96 €/mois</summary>
+
+- **Entreprise :** SOGECAP
+- **Lieu :** HAMBOURG, ALLEMAGNE
+- **Indemnité :** 3 027,96 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 23/10/2026
+- **Compatibilité avec ton profil :** 55 % — Le candidat possède une formation en gestion et une bonne expérience en contrôle budgétaire, mais le poste proposé est orienté vers le risque, la conformité et le contrôle interne en Allemagne, un domaine assez éloigné de sa spécialité en FP&A et de son souhait pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246720](https://mon-vie-via.businessfrance.fr/offres/246720)
+
+**Description du poste**
+
+Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.
+
+En étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.
+
+Le/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.
+
+Vous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :
+Coordonner l'amélioration continue du dispositif de contrôle interne.
+Participer au processus d'identification et d'évaluation des risques.
+Maintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.
+Coordonner les campagnes de contrôle trimestrielles.
+Accompagner les collaborateurs dans la réalisation des contrôles.
+Assurer le suivi des plans d'action et des mesures correctrices.
+Être l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.
+Contribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.
+
+Vous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :
+
+La sécurité financière et le traitement des alertes relatives aux sanctions internationales.
+Les procédures d'évaluation des partenaires (Know Your Partner - KYP).
+La gouvernance des produits (Product Governance).
+
+**Profil recherché**
+
+Nous recherchons un(e) candidat(e) présentant le profil suivant :
+
+Diplôme en administration des affaires, économie, finance, gestion des risques, droit ou dans un domaine connexe.
+Une première expérience dans les services financiers, le contrôle interne et/ou la gestion des risques, acquise dans le cadre d'un premier emploi ou de stages, constitue un atout.
+Esprit d'analyse et approche méthodique du travail.
+Grande rigueur et sens du détail.
+Excellentes compétences en communication et relationnelles.
+Très bonne capacité d'organisation.
+Personne proactive, fiable et capable de gérer plusieurs priorités dans un environnement exigeant.
+Maîtrise courante de l'anglais ; la connaissance de l'allemand constitue un avantage.
 
 </details>
 
@@ -1160,47 +1210,6 @@ Risques de contrepartie :
 
 o   Compétences métiers : Sensibilité et intérêts aux activités de contrôle
 o   Compétences comportementales : Rigueur, organisation, curiosité, sens du travail en équipe, analytique, respect de la déontologie
-
-</details>
-
-<details>
-<summary><strong>Contrôleur(se) de Gestion (H/F)</strong> · PAPREC FRANCE · MILAN, ITALIE · 3 003,87 €/mois</summary>
-
-- **Entreprise :** PAPREC FRANCE
-- **Lieu :** MILAN, ITALIE
-- **Indemnité :** 3 003,87 €/mois
-- **Durée de la mission :** 6 mois (Du 1 déc. 2026 au 1 juin 2027)
-- **Publiée le :** 19/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245982](https://mon-vie-via.businessfrance.fr/offres/245982)
-
-**Description du poste**
-
-Rattaché(e) à la direction de l'intégration du Groupe, le/la VIE prend en charge le contrôle de gestion de la filiale italienne récemment acquise et accompagne sa mise au standard Groupe, dans le cadre du développement de Paprec en Italie. Poste à dominante finance, avec une forte composante projet (systèmes d'information).
-Missions principales :
-•  Contrôle de gestion : produire et fiabiliser le reporting mensuel au format Groupe (P&L, indicateurs d'exploitation, suivi des volumes et des prix)
-•  Clôtures : préparer les clôtures trimestrielles nécessaires à la consolidation Groupe, en lien avec le cabinet comptable local et le siège
-•  Analyse : suivi des marges par activité et par site, analyse des écarts vs budget, refacturation des frais de siège
-•  Business plan : construire et actualiser le business plan de la filiale pour arbitrer les investissements (CAPEX) et les projets de développement
-•  Projet ERP : participer à la bascule du système comptable actuel vers Oracle Fusion Cloud — reprise et mapping des données, plan de comptes, tests et recette
-•  Éditeurs : être l'interlocuteur des éditeurs de logiciels métiers et comptables/financiers (expression de besoin, spécifications, suivi des interfaces)
-•  Intégration : appuyer la direction générale et les équipes locales dans l'intégration opérationnelle de l'entité (processus, procédures, contrôle interne)
-
-Cette mission est prévue pour une durée initiale de six mois, avec possibilité de renouvellement.
-
-**Profil recherché**
-
-Formation supérieure en finance : école de commerce, master CCA / finance d'entreprise, ou école d'ingénieurs avec spécialisation finance.
-
-Compétences attendues :
-•  Bonne maîtrise des fondamentaux du contrôle de gestion et de la comptabilité générale (P&L, bilan, plan de comptes, clôtures)
-•  Excel avancé indispensable (TCD, recherches, construction de reportings) ; à l'aise pour manipuler et fiabiliser des volumes de données importants
-•  Une première approche des ERP ou des outils de BI est un plus, sans être requise : la montée en compétence sur Oracle est assurée en interne
-
-Profil jeune diplômé ou disposant d'une première expérience (stage long, alternance) en contrôle de gestion, audit ou expertise comptable.
-
-Qualités attendues : autonomie, rigueur, forte capacité d'adaptation, aisance en environnement multiculturel et goût du terrain (site industriel situé à Cusago, en périphérie de Milan). Capacité à dialoguer aussi bien avec les équipes comptables qu'avec les équipes systèmes.
-
-Italien courant impératif (échanges quotidiens avec les équipes locales), français courant, anglais professionnel.
 
 </details>
 

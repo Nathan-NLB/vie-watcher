@@ -294,6 +294,69 @@
     "dateCandidature": null
   },
   {
+    "id": 246720,
+    "organizationName": "SOGECAP",
+    "missionTitle": "V.I.E - Chargé(e) de conformité (H/F)",
+    "missionDuration": 12,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "0",
+    "effectifInd": "2000",
+    "effectifConso": "2000",
+    "organizationCountryCounter": "0",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "HAMBOURG",
+    "cityNameEn": "HAMBOURG",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"326\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.\r\n\r\nEn étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.\r\n\r\nLe/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.\r\n\r\nVous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :\r\nCoordonner l'amélioration continue du dispositif de contrôle interne.\r\nParticiper au processus d'identification et d'évaluation des risques.\r\nMaintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.\r\nCoordonner les campagnes de contrôle trimestrielles.\r\nAccompagner les collaborateurs dans la réalisation des contrôles.\r\nAssurer le suivi des plans d'action et des mesures correctrices.\r\nÊtre l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.\r\nContribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.\r\n\r\nVous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :\r\n\r\nLa sécurité financière et le traitement des alertes relatives aux sanctions internationales.\r\nLes procédures d'évaluation des partenaires (Know Your Partner - KYP).\r\nLa gouvernance des produits (Product Governance).",
+    "creationDate": "2026-10-05T15:26:02Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-10-23T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-11-22T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "Nous recherchons un(e) candidat(e) présentant le profil suivant :\r\n\r\nDiplôme en administration des affaires, économie, finance, gestion des risques, droit ou dans un domaine connexe.\r\nUne première expérience dans les services financiers, le contrôle interne et/ou la gestion des risques, acquise dans le cadre d'un premier emploi ou de stages, constitue un atout.\r\nEsprit d'analyse et approche méthodique du travail.\r\nGrande rigueur et sens du détail.\r\nExcellentes compétences en communication et relationnelles.\r\nTrès bonne capacité d'organisation.\r\nPersonne proactive, fiable et capable de gérer plusieurs priorités dans un environnement exigeant.\r\nMaîtrise courante de l'anglais ; la connaissance de l'allemand constitue un avantage.",
+    "countryId": "DE",
+    "countryName": "ALLEMAGNE",
+    "countryNameEn": "GERMANY",
+    "reference": "VIE246720",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Madame TASSILI MESBAH",
+    "indemnite": 3027.96,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "tassili.mesbah@socgen.com",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "",
+    "dateCandidature": null
+  },
+  {
     "id": 245978,
     "organizationName": "SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE",
     "missionTitle": "Comptable international Multi-pays (H/F)",
@@ -1460,76 +1523,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "https://www.groupecreditagricole.jobs/fr/nos-offres-emploi/2026-115156/?idOrigine=503",
-    "dateCandidature": null
-  },
-  {
-    "id": 245982,
-    "organizationName": "PAPREC FRANCE",
-    "missionTitle": "Contrôleur(se) de Gestion (H/F)",
-    "missionDuration": 6,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "PAPREC, UNE « SUCCESS STORY » FRANÇAISE.  Le groupe PAPREC est passé en 30 ans de 45 à 18000 collaborateurs et collaboratrices répartis sur plus de 400 sites. Son chiffre d’affaires atteint désormais 3,5 milliards d’euros.  LE LEADER DU RECYCLAGE EN FRANCE  En 30 ans, le groupe est devenu le leader français du recyclage, reconnu pour la qualité des matières premières issues du recyclage produites et vendues dans le monde entier. En quête permanente d’innovation, il offre les meilleurs taux de valorisation possibles pour l’ensemble des matières recyclable.  ACTEUR DE LA GESTION GLOBALE DES DECHETS.  Parti de son métier historique le recyclage du papier, Paprec s’est diversifié. Le groupe a dernièrement crée sa division Energies, dédiée à la valorisation énergétique des déchets. Il est aujourd’hui le 3ème acteur français du traitement des déchets. De la collecte au stockage, en passant par la valorisation énergétique des déchets, notre groupe maîtrise l’ensemble de la chaîne du déchet.  L’INNOVATION COMME MOTEUR  Au cœur de notre modèle et dans un secteur en mutation permanente, l’innovation technologique joue un rôle essentiel : robots, digitalisation, intelligence artificielle, R&D. Grâce à sa capacité d’investissement et la maitrise de ses outils, notre groupe est capable de proposer le meilleur des techniques à ses clients pour repousser les limites de la valorisation des déchets.  UN GROUPE FAMILIAL  Le capital de l’entreprise est détenu en majorité par la famille Petithuguenin, aux côtés d’investisseurs financiers et de la banque publique d’investissement (BPI). Guidée par une vision de long terme, la deuxième génération d’entrepreneurs, Mathieu et Sébastien, accompagnent le fondateur dans la conduite de l’entreprise.",
-    "organizationUrlImage": "https://www.paprec.com/wp-content/uploads/2022/03/paprec_logotype_h_rgb_plan-de-travail-1-300x122-1.jpg",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "500",
-    "effectifConso": "748",
-    "organizationCountryCounter": "10",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "MILAN",
-    "cityNameEn": "MILAN",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "259"
-    ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
-    "missionDescription": "Rattaché(e) à la direction de l'intégration du Groupe, le/la VIE prend en charge le contrôle de gestion de la filiale italienne récemment acquise et accompagne sa mise au standard Groupe, dans le cadre du développement de Paprec en Italie. Poste à dominante finance, avec une forte composante projet (systèmes d'information).\nMissions principales :\n•  Contrôle de gestion : produire et fiabiliser le reporting mensuel au format Groupe (P&L, indicateurs d'exploitation, suivi des volumes et des prix)\n•  Clôtures : préparer les clôtures trimestrielles nécessaires à la consolidation Groupe, en lien avec le cabinet comptable local et le siège\n•  Analyse : suivi des marges par activité et par site, analyse des écarts vs budget, refacturation des frais de siège\n•  Business plan : construire et actualiser le business plan de la filiale pour arbitrer les investissements (CAPEX) et les projets de développement\n•  Projet ERP : participer à la bascule du système comptable actuel vers Oracle Fusion Cloud — reprise et mapping des données, plan de comptes, tests et recette\n•  Éditeurs : être l'interlocuteur des éditeurs de logiciels métiers et comptables/financiers (expression de besoin, spécifications, suivi des interfaces)\n•  Intégration : appuyer la direction générale et les équipes locales dans l'intégration opérationnelle de l'entité (processus, procédures, contrôle interne)\n\nCette mission est prévue pour une durée initiale de six mois, avec possibilité de renouvellement.",
-    "creationDate": "2026-09-15T12:43:44Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-06-01T00:00:00",
-    "startBroadcastDate": "2026-10-19T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-11-18T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Formation supérieure en finance : école de commerce, master CCA / finance d'entreprise, ou école d'ingénieurs avec spécialisation finance.\n\nCompétences attendues :\n•  Bonne maîtrise des fondamentaux du contrôle de gestion et de la comptabilité générale (P&L, bilan, plan de comptes, clôtures)\n•  Excel avancé indispensable (TCD, recherches, construction de reportings) ; à l'aise pour manipuler et fiabiliser des volumes de données importants\n•  Une première approche des ERP ou des outils de BI est un plus, sans être requise : la montée en compétence sur Oracle est assurée en interne\n\nProfil jeune diplômé ou disposant d'une première expérience (stage long, alternance) en contrôle de gestion, audit ou expertise comptable.\n\nQualités attendues : autonomie, rigueur, forte capacité d'adaptation, aisance en environnement multiculturel et goût du terrain (site industriel situé à Cusago, en périphérie de Milan). Capacité à dialoguer aussi bien avec les équipes comptables qu'avec les équipes systèmes.\n\nItalien courant impératif (échanges quotidiens avec les équipes locales), français courant, anglais professionnel.",
-    "countryId": "IT",
-    "countryName": "ITALIE",
-    "countryNameEn": "ITALY",
-    "reference": "VIE245982",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Laureen MORIEUX",
-    "indemnite": 3003.87,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "laureen.morieux@paprec.com",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
     "dateCandidature": null
   },
   {
@@ -3790,16 +3783,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Valeo’s VIE Program?\n\nThe Valeo VIE Program is available to citizens of the European Economic Area (EU + Norway, Liechtenstein and Iceland) aged between 18 and 28. This program is to work for one of our subsidiaries around the world!\nBusiness France, the French agency for international business development, is in charge of all the administrative procedures of your assignment. Make sure you meet Business France's eligibility criteria to apply for a VIE : https://mon-vievia.businessfrance.fr/\nPLEASE NOTE: Your application must be submitted in English to be considered by our non-French speaking teams partners at Valeo worldwide. \nPLEASE NOTE: As part of your international development, you cannot apply to a VIE assignment in the country of your citizenship\n***\nJoin our teams mobilized to meet the challenge of accelerating electrification!\n\nAt the heart of electric mobility, Valeo Power brings together expertise in thermal management systems and propulsion systems. This division develops innovations that contribute to the mobility of tomorrow by reducing pollutant emissions and maximizing vehicle autonomy.\n\nThe site of Erlangen based in Germany belongs to the POWER Division. We are looking for a VIE Business Management Controller for 24 months within the team.\n\nYour challenges?\n\n- You will work in close collaboration with the Project Manager and the project team as a full team member, ensuring the reliability of the project’s economics from the RFQ / P1 phase until series production.\n- You will build and maintain the project’s provisional P&L, investment plan, and cash flow projections.\n- You will ensure the consistency of the industrial and economic scenario, including volumes, inflation balance, investments, and R&D costs.\n- You will provide the Project Manager with a comprehensive understanding of production costs, including standard times, hourly rates, and fixed cost allocations.\n- You will prepare clear syntheses and presentations for upper management, transparently explaining whether and under which conditions a business is profitable.\n- You will follow up on project costs (R&D, investments, prices) and key KPIs throughout the complete development phase.\n- You will track and manage customer contributions, subsidies, and tooling sales across cash flow, P&L, and balance sheet perspectives.",
     "creationDate": "2026-10-08T09:12:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4231,16 +4217,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Context:\n\nAs one of Engie S&EM’s front divisions (Supply & Energy Management), the mission of Supply Portfolio Management (SPM) is to manage energy risks for Engie Energy Supply activities worldwide. As part of Germany business platform, the Supply Portfolio Management team (SPM) is at the heart of energy management of Engie’s german B2B portfolio.\n\nThe SPM team interacts with several internal teams such as: sales teams, other SPM’s teams, Trading, IT, Finance, Risk, Back Office…\n\nSPM Germany is currently looking for young motivated Suppply Portfolio and Grid managers ready to dig into SPM operations and support our growth ambitions. The mission is intended for 2 years, with a start in January 2027.\n\nRole:\n\nAs a supply portfolio & grid manager in SPM Germany, you will gradually perform the following tasks:\n\n•\tYou support the sales offering activity, structure and price standard and non-standard offers: by identifying potential risks and ensuring use of adequate and up to date costing models, risk bricks and data availability;\n•\tYou actively assess and manage commodity risks linked to the dynamics of a sales portfolio, for all its commodities – Power, Natural gas, Certificates - meaning operate and optimize costing, forecasting, sourcing, and hedging strategies, within a defined mandate;\n•\tYou operate various strategies to reduce, internalize or externalize risks, towards and in collaboration with stakeholders (Trading, other BUs);\n•\tIn collaboration with forecasting experts, you monitor and regularly review the expected consumption of your portfolio.\n•\tYou report the portfolio financials linked to the energy management results and performance to the business platform;\n•\tYou manage the market communication with Transport & Distribution network operators for balancing and metering: declaration of our customer’s connection points, scheduling of nominations, retrieval and control of official metering data.\n•\tYou use and challenge data, models, processes & tools to answers supplier’s vision and ambition;  \n•\tYou are involved in the development of the tools, models, process, and portfolio/data representation of all commercial offer's portfolio;\n•\tYou manage contacts with multiple stakeholders to which you present and explain pricing and energy management.",
     "creationDate": "2026-10-07T15:29:36Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5988,16 +5967,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Louis Dreyfus Company (LDC) has been a key player in the global coffee industry for more than 30 years. We specialize in all major Arabica and Robusta coffee qualities, serving a diverse customer base worldwide, ranging from specialty roasters to multinational food and beverage companies.\r\n\r\nWe are looking for a highly motivated and analytical individual to join our Coffee Financial Planning & Analysis (FP&A) team, reporting to the FP&A Manager for the Coffee Platform in EMEA.\r\n\r\nIn this role, you will support the FP&A Manager in delivering recurring monthly performance analysis, coordinating budgeting and forecasting activities, and contributing to a range of ad hoc, cross-functional projects. You will work closely with multiple teams across the EMEA region, gaining exposure to the commercial, operational, and financial aspects of the coffee business.\r\n\r\nThis position offers a unique opportunity to develop your FP&A skills within a dynamic and international environment. Based in Kampala, Uganda, LDC's largest coffee origination platform in EMEA, you will gain unique exposure to the coffee supply chain, from origin to destination markets. This role offers the opportunity to work closely with commercial, operational, and finance teams while developing a solid foundation in business partnering, financial analysis, and commodity markets. For motivated individuals, it represents an excellent entry point into LDC and a strong platform from which to pursue future career opportunities across Finance, Commercial, Operations, or other functions within the Group.\r\nFinancial performance & reporting \r\n\r\n•\tDeliver comprehensive monthly performance analysis, comparing reported numbers to the budget, while clearly identifying and explaining key variances and underlying business drivers.\r\n•\tContribute to the preparation of the Monthly Performance Review (MPR), including analytical files and presentation materials, ensuring accuracy, consistency, and clear financial messaging.\r\n•\tSupport the FP&A Manager in delivering ad hoc financial analyses for management and business stakeholders, including profitability reviews, OPEX deep-dives, trend analysis, and scenario modeling.\r\nBusiness Partnering & Decision Support\r\n\r\n•\tContribute to budget, forecast, and landing exercises by challenging assumptions and assessing associated risks and opportunities.\r\n•\tParticipate in discussions with commercial and finance teams to understand the financial performance of the Coffee Platform and the drivers of profitability.\r\n•\tDevelop financial models and scenario analyses to evaluate business performance, operational initiatives, and market developments.\r\n\r\nProcess Improvement & Digitalization\r\n•\tIdentify opportunities to improve reporting processes, data quality, and analytical tools through automation and simplification initiatives. \r\n•\tAct as a key liaison between Finance, IT, and business teams to enhance reporting systems and strengthen data integrity.\r\nThe scope is the LDC EMEA Coffee Platform.",
     "creationDate": "2026-07-23T07:37:46Z",
     "missionStartDate": "2027-01-01T00:00:00",
