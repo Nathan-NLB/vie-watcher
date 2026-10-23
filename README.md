@@ -8,11 +8,178 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/10/2026 10:48:54**, 80 offre(s) actuellement en ligne.
+Dernière vérification : **23/10/2026 15:59:10**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Junior Financial Analyst (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
+
+- **Entreprise :** PLANISWARE
+- **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
+- **Indemnité :** 5 151,29 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 23/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes avec ses 2 ans d'expérience en contrôle de gestion, ses compétences avancées sur Excel et son niveau d'anglais courant (TOEIC 925). Le seul léger écart réside dans sa préférence pour l'Espagne, bien que son ouverture à l'international et son profil technique comblent largement ce point.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247400](https://mon-vie-via.businessfrance.fr/offres/247400)
+
+**Description du poste**
+
+Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. 
+
+Planisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.
+
+The role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.
+
+Key Responsibilities:
+
+Financial Reporting & Analysis
+• Prepare and maintain financial reports and KPIs.
+• Assist with budgeting, forecasting, and variance analysis.
+• Analyze revenue, expenses, and key business metrics to identify trends and insights.
+• Support management reporting and ad hoc financial analyses.
+• Revenue Operations & Finance Support
+• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.
+• Assist in maintaining accurate data across CRM, payroll, and financial systems.
+• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.
+• Contribute to process improvement initiatives supporting commercial and finance operations.
+
+Expense Management & Financial Operations
+• Monitor employee travel and business expenses and support compliance with company policies.
+• Analyze spending trends and assist with cost control initiatives.
+• Support month-end, quarter-end, and year-end close activities.
+• Assist with operational reporting and other recurring finance processes.
+
+Business Systems & Process Improvement
+• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.
+• Help improve data quality, reporting consistency, and process efficiency.
+• Contribute to reporting automation and continuous improvement initiatives.
+
+**Profil recherché**
+
+Qualifications
+• Bachelor's degree in Finance, Accounting, Economics, Business, or a related field.
+•  1-2 years of experience in FP&A, accounting, or a related field.
+•  Experience supporting system implementations, system migrations, or business process improvement projects.
+•  Strong Excel skills, including pivot tables, lookups, and data analysis.
+•  High attention to detail and strong analytical problem-solving abilities.
+•  Excellent organizational and communication skills.
+•  Ability to manage multiple priorities and meet deadlines.
+•  Curious, proactive, and eager to learn.
+
+To apply: 
+Before applying, be sure to check the eligibility requirements for this destination: http://www.civiweb.com/FR/le-volontariat-international/conditions-du-VIE.aspx . The visa required for such a VIE position is subject to specific conditions of training and/or professional experience. When applying, please make sure to submit the English version of both your resume and cover letter. As all communications will be in English, your application email should be written in English as well.
+
+</details>
+
+<details>
+<summary><strong>Finance, Administration & People Operations Assistant (H/F)</strong> · RIVOLIER PERE ET FS ARMURERIE · OGDEN  -UT-, ETATS-UNIS · 3 430,07 €/mois</summary>
+
+- **Entreprise :** RIVOLIER PERE ET FS ARMURERIE
+- **Lieu :** OGDEN  -UT-, ETATS-UNIS
+- **Indemnité :** 3 430,07 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 23/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, son expérience significative en PME incluant le reporting, le forecasting et l'analyse de rentabilité, ainsi que son excellent niveau d'anglais (TOEIC 925). Seul léger écart, l'offre implique un peu de RH et d'administration en plus de la finance, mais cela reste très cohérent avec sa polyvalence démontrée.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247395](https://mon-vie-via.businessfrance.fr/offres/247395)
+
+**Description du poste**
+
+V.I.E. Finance, Administration & RH, États-Unis
+
+Rejoignez une filiale américaine en pleine croissance, au plus près de la direction.
+
+Votre mission : 
+RSD Outdoor accélère aux États-Unis. Rattaché(e) au dirigeant local et en lien direct avec le Secrétariat Général du Groupe, vous l’accompagnez dans la structuration des fonctions finance, administration et RH de la filiale. Vous êtes le relais opérationnel entre les équipes américaines et le siège français, avec une exposition quotidienne à la direction générale. Vous voyez comment une filiale se construit et comment les décisions se prennent.
+
+Vos missions au quotidien : 
+Finance et pilotage
+* Contribuer à l’élaboration du reporting mensuel US : chiffre d’affaires, marge, EBITDA, BFR, stocks, créances, dettes fournisseurs et forecast.
+* Appuyer le processus budgétaire et les reforecasts, en préparant les analyses d’écarts.
+* Participer à la clôture mensuelle et à la remontée d’informations au Groupe, avec le cabinet comptable local et la direction financière.
+* Contribuer au suivi de trésorerie : cash forecast à 10 semaines, prévisions de BFR, conformité des paiements.
+* Assister le suivi des stocks : rotation, provisionnement, inventaires, rapprochements physique/comptable.
+* Préparer les analyses de rentabilité par client, canal, produit et marque.
+
+Procédures et contrôle
+* Contribuer à la mise en place et à la documentation des procédures : achats, notes de frais, facturation, encaissements, paiements, délégations de pouvoir.
+
+Administration, RH et partenaires locaux
+* Assurer l’interface opérationnelle avec les partenaires locaux : CPA, avocat, paie, assurances, banque, fiscaliste.
+* Soutenir l’administration du personnel : onboarding, suivi des effectifs, calendrier de paie, conformité documentaire.
+
+Projets transverses
+* Participer aux projets ERP, BI/reporting et aux procédures Groupe.
+* Faciliter la circulation de l’information entre RSD Outdoor US et le siège.
+
+Ce que cette mission vous apporte :
+- Une vision complète du fonctionnement d’une filiale : finance, RH, juridique, fiscalité, relations bancaires.
+- Une proximité immédiate avec la direction et le Secrétariat Général du Groupe.
+- Une expérience internationale valorisante, dans un environnement en croissance.
+- Une immersion dans les pratiques américaines (comptabilité US, paie, conformité), avec des interlocuteurs locaux variés.
+- Un rôle concret dans des projets structurants (ERP, BI, gouvernance), avec de vraies responsabilités.
+
+**Profil recherché**
+
+Profil recherché
+Formation Bac+4/5 en finance, contrôle de gestion, gestion ou école de commerce.
+Rigueur, sens de l’organisation et goût pour les chiffres.
+Aisance relationnelle et bon niveau d’anglais.
+Curiosité, autonomie et envie de s’investir dans une structure en croissance.
+
+</details>
+
+<details>
+<summary><strong>Comptable international Multi-pays (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 23/10/2026
+- **Compatibilité avec ton profil :** 68 % — Nathan possède le niveau d'études requis (Master), d'excellentes compétences sur Excel et correspond très bien aux critères géographiques (Barcelone) et linguistiques. Néanmoins, l'offre est fortement axée sur de la comptabilité générale et technique (saisie, lettrage, déclarations), ce qui diverge du parcours et des aspirations du candidat centrés sur le contrôle de gestion et le FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245978](https://mon-vie-via.businessfrance.fr/offres/245978)
+
+**Description du poste**
+
+Dans le cadre de notre développement et la structuration de notre activité à l’international, nous souhaitons recruter un VIE Comptable International au sein d’un share service center pour le groupe basé à Barcelone et en charge de la tenue comptable de plusieurs filiales dans le cadre du passage à un nouvel outil comptable.
+
+Mission à pourvoir asap.
+Localisation : Barcelone
+
+Vos missions : Réviser la saisie comptable pour plusieurs filiales du groupe dans le cadre de l’implémentation d’un nouveau logiciel et de la réinternalisation de la fonction comptable au sein d’un service partagé basé à Barcelone.
+
+Les missions principales dans ce cadre seront :
+- Révision de la saisie des écritures comptables pour les sociétés du groupe assignées, en respect des normes comptables applicables dans chaque pays.
+- Vérification des notes de frais,
+- Révision des rapprochements bancaires,
+- Préparation des fichiers de paiements fournisseur,
+- Révisions des comptes clients et fournisseurs, du lettrage et des autres comptes de bilan,
+- Clôtures comptables mensuelles : révision des comptes de bilan et compte de résultat et préparation des écritures de clôtures mensuelles (FNP, CCA, WIP ..)
+- Préparation des données nécessaires aux déclarations fiscales afin de les transmettre pour validation.
+- Préparation des fichiers de liasses sociales pour la consolidation groupe.
+
+Liste non exhaustive, les missions peuvent évoluer au cours de la période.
+
+
+Les Avantages
+- Entreprise dynamique, petite structure très horizontale malgré plus de 600 employés pour la filiale espagnole. Et une dynamique de croissance et de coopération avec le groupe et les autres filiales.
+- Ambiance de travail très agréable où il est facile de s’intégrer et de rapidement apporter (entreprise élue « great place to work »).
+
+- Groupe français et présent à l’international sur 3 continents avec de nombreuses nationalités représentées.
+- Interactions multiples avec au moins 2 filiales différentes.
+
+**Profil recherché**
+
+- Formation : Business school, Master, DSCG.
+- Français courant (impératif écrit/oral), espagnol et anglais niveau professionel (B2).
+- Maîtrise des outils Excel, expérience avec l’utilisation d’un ERP.
+- Expérience en comptabilité requise.
+- Prise d’initiative, curiosité, travail en équipe, esprit critique.
+
+</details>
 
 <details>
 <summary><strong>Assistant Chef de Projet Contrôle Interne (H/F) – République tchèque</strong> · TOTALENERGIES MARKETING SERVICES · PRAGUE, TCHEQUIE / REPUBLIQUE TCHEQUE · 2 640,11 €/mois</summary>
@@ -2902,56 +3069,6 @@ Une expérience en ESN, cabinet de conseil, audit ou société de services B2B e
 Première expérience réussie d’encadrement (alternant, stagiaire, junior) ou de pilotage de prestataires 
 Excel avancé (Power Query), Power BI ou équivalent, pratique d’un ERP et d’un outil de facturation ou CRM/PSA 
 Anglais professionnel courant (C1) : réunions, relances et reporting ; le français est indispensable
-
-</details>
-
-<details>
-<summary><strong>V.I.E - Chargé(e) de conformité (H/F)</strong> · SOGECAP · HAMBOURG, ALLEMAGNE · 3 027,96 €/mois</summary>
-
-- **Entreprise :** SOGECAP
-- **Lieu :** HAMBOURG, ALLEMAGNE
-- **Indemnité :** 3 027,96 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 06/10/2026
-- **Compatibilité avec ton profil :** 55 % — Le candidat possède une formation en gestion et une bonne expérience en contrôle budgétaire, mais le poste proposé est orienté vers le risque, la conformité et le contrôle interne en Allemagne, un domaine assez éloigné de sa spécialité en FP&A et de son souhait pour l'Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246720](https://mon-vie-via.businessfrance.fr/offres/246720)
-
-**Description du poste**
-
-Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.
-
-En étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.
-
-Le/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.
-
-Vous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :
-Coordonner l'amélioration continue du dispositif de contrôle interne.
-Participer au processus d'identification et d'évaluation des risques.
-Maintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.
-Coordonner les campagnes de contrôle trimestrielles.
-Accompagner les collaborateurs dans la réalisation des contrôles.
-Assurer le suivi des plans d'action et des mesures correctrices.
-Être l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.
-Contribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.
-
-Vous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :
-
-La sécurité financière et le traitement des alertes relatives aux sanctions internationales.
-Les procédures d'évaluation des partenaires (Know Your Partner - KYP).
-La gouvernance des produits (Product Governance).
-
-**Profil recherché**
-
-Nous recherchons un(e) candidat(e) présentant le profil suivant :
-
-Diplôme en administration des affaires, économie, finance, gestion des risques, droit ou dans un domaine connexe.
-Une première expérience dans les services financiers, le contrôle interne et/ou la gestion des risques, acquise dans le cadre d'un premier emploi ou de stages, constitue un atout.
-Esprit d'analyse et approche méthodique du travail.
-Grande rigueur et sens du détail.
-Excellentes compétences en communication et relationnelles.
-Très bonne capacité d'organisation.
-Personne proactive, fiable et capable de gérer plusieurs priorités dans un environnement exigeant.
-Maîtrise courante de l'anglais ; la connaissance de l'allemand constitue un avantage.
 
 </details>
 

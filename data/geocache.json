@@ -516,5 +516,10 @@
   "ville|ankara|turquie": {
     "lat": 39.9207759,
     "lon": 32.8540497
+  },
+  "entreprise|rivolier pere et fs armurerie|ogden  -ut-|etats-unis": null,
+  "ville|ogden  -ut-|etats-unis": {
+    "lat": 41.2230048,
+    "lon": -111.9738429
   }
 }
