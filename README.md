@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/10/2026 03:50:17**, 82 offre(s) actuellement en ligne.
+Dernière vérification : **23/10/2026 04:18:53**, 81 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4612,40 +4612,6 @@ suffering on quality and accuracy.
 • Possesses a collaborative mindset and is a team player, contributing to team results as needed. 
 • Problem solving skills – can identify, seek root cause for and explain financial issues and variances 
 and their impact on the business’ financial reporting/outcomes.
-
-</details>
-
-<details>
-<summary><strong>Risk Expertise VIE (H/F)</strong> · AMUNDI ASSET MANAGEMENT · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
-
-- **Entreprise :** AMUNDI ASSET MANAGEMENT
-- **Lieu :** DUBLIN, IRLANDE
-- **Indemnité :** 3 520,38 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 22/09/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246274](https://mon-vie-via.businessfrance.fr/offres/246274)
-
-**Description du poste**
-
-The successful VIE candidate will support the team in the analysis and implementation of regulatory and client requirements within the investment compliance framework.
-
-• Support the rule coding team in delivering investment compliance services to internal and external clients across multiple jurisdictions;
-• Assist in the analysis of fund, client and regulatory requirements, primarily for Luxembourg and Ireland products, as well as other jurisdictions as required;
-• Support system migration and implementation activities;
-• Contribute to the translation of regulatory and client requirements into system logic and compliance rules;
-• Support the coordination and follow-up of system change requests with relevant stakeholders;
-• Support testing, monitoring and issue resolution activities linked to rule changes and system updates;
-• Build effective working relationships with internal teams and external partners;
-
-**Profil recherché**
-
-•	Support the rule coding team in delivering investment compliance services to internal and external clients across multiple jurisdictions;
-•	Assist in the analysis of fund, client and regulatory requirements, primarily for Luxembourg and Ireland products, as well as other jurisdictions as required;
-•	Support system migration and implementation activities;
-•	Contribute to the translation of regulatory and client requirements into system logic and compliance rules;
-•	Support the coordination and follow-up of system change requests with relevant stakeholders;
-•	Support testing, monitoring and issue resolution activities linked to rule changes and system updates;
-•	Build effective working relationships with internal teams and external partners;
 
 </details>
 
