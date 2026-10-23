@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/10/2026 01:47:00**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **23/10/2026 02:17:32**, 82 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1250,41 +1250,6 @@ Adaptable, autonomous, proactive and a real team player
 Analytical minded
 Solution oriented
 A first experience in the financial sector is a +
-
-</details>
-
-<details>
-<summary><strong>BUSINESS CONTROLLER (H/F)</strong> · MORGAN PHILIPS · MEXICO, MEXIQUE · 3 221,54 €/mois</summary>
-
-- **Entreprise :** MORGAN PHILIPS
-- **Lieu :** MEXICO, MEXIQUE
-- **Indemnité :** 3 221,54 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 16/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245420](https://mon-vie-via.businessfrance.fr/offres/245420)
-
-**Description du poste**
-
-•	Supervisión de la contabilidad y fiscalidad para garantizar que todas las actividades contables cumplan la reglementación,
-•	Control de los gastos de la empresa y de la buena aplicación de las políticas,
-•	Elaboración de los reportes financieros mensuales de la compañía para el Grupo: Cash, Forecast, Flash, Intercompany, Headcount,
-•	Reportes financieros internos mensuales: Budget, Forecast, P&L por persona, por marca y global, Cashflow,
-•	Análisis financieras puntuales sobre nómina, cobranza, EBNI, etc.
-•	Creación de modelos de previsión.
-•	Participación en la definición de las políticas de sueldos y bonos en conjunto con Dirección y Recursos Humanos,
-•	Participación en la estrategia global de la empresa sobre el desarrollo de cada marca y recomendaciones sobre las inversiones
-•	Evaluación de riesgo de las inversiones para dar recomendaciones a Dirección sobre la estrategia de inversión y financiamiento global de la compañía para lograr los objetivos de la empresa.
-
-**Profil recherché**
-
-- Leadership
-- Excellentes compétences analytiques 
-- Organisation et gestion du temps
-- Capacité d'investigation
-- Curiosité
-- Excellente communication
-- Vision stratégique
-- Ecole Supérieure de Commerce, spécialisation en Finance
 
 </details>
 
