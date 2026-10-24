@@ -325,16 +325,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "326"
+      "[\"326\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.\r\n\r\nEn étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.\r\n\r\nLe/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.\r\n\r\nVous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :\r\nCoordonner l'amélioration continue du dispositif de contrôle interne.\r\nParticiper au processus d'identification et d'évaluation des risques.\r\nMaintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.\r\nCoordonner les campagnes de contrôle trimestrielles.\r\nAccompagner les collaborateurs dans la réalisation des contrôles.\r\nAssurer le suivi des plans d'action et des mesures correctrices.\r\nÊtre l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.\r\nContribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.\r\n\r\nVous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :\r\n\r\nLa sécurité financière et le traitement des alertes relatives aux sanctions internationales.\r\nLes procédures d'évaluation des partenaires (Know Your Partner - KYP).\r\nLa gouvernance des produits (Product Governance).",
     "creationDate": "2026-10-05T15:26:02Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -542,16 +535,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "# À propos de Wesype\n\nWesype accompagne les PMEs et ETIs à intégrer l’IA dans leurs métiers. Wesype est spécialisé en déploiement de plateforme agentique (Dust, Claude, Copilot …). \n\nLa société connaît une croissance très soutenue (+20 % par mois), est rentable et accompagne plus de 200 clients dans des industries variées (tech, fonds d'investissement, immobilier, cabinet de conseil, retail, notaires, avocats, experts-comptables).\n\n# L’équipe\n\nWesype est fondé par l'ancien fondateur de Cajoo et un ancien dirigeant de Spendesk (licorne française). Une équipe de 40 personnes entre Paris et Lisbonne, dynamique, ambitieuse et passionnée par la révolution GenAI que nous vivons. \n\n# Ton rôle\n\nTu assures la fiabilité de la gestion administrative, comptable et financière de Wesype. Tu travailles au quotidien avec les fondateurs, les cabinets comptables, les équipes opérationnelles et les conseils externes.\n\n### **1. Facturation, encaissements et contrats**\n\n- Tu prépares les devis et factures liés aux prestations de conseil, licences, commissions, partenariats et formations.\n- Tu suis les encaissements, les relances clients, les avoirs.\n\n### **2. Comptabilité et fiscalité**\n\n- Tu coordonnes les cabinets d’expertise comptable, rassembles les pièces et prépares les clôtures.\n- Tu contrôles les rapprochements bancaires, les comptes clients et fournisseurs et les principales écritures comptables.\n- Tu suis le calendrier des obligations fiscales et administratives des sociétés opérationnelles.\n\n### **3. Trésorerie et pilotage financier**\n\n- Tu mets à jour la trésorerie, les prévisions à court terme et le suivi des paiements à venir.\n- Tu contribues au budget, au suivi du réalisé par rapport au prévisionnel et à l’analyse des écarts.\n- Tu produis des reportings réguliers pour les fondateurs, incluant chiffre d’affaires, marge, coûts\n\n### **4. Dépenses, achats et fournisseurs**\n\n- Tu contrôles les notes de frais, justificatifs, dépenses engagées et demandes de paiement.\n- Tu suis les fournisseurs, abonnements, renouvellements et échéances importantes.\n- Tu structures les règles d’engagement et d’approbation des dépenses et identifies les leviers d’optimisation des coûts.\n\n### **5. Juridique, contrats et conformité**\n\n- Tu assures le suivi administratif des contrats clients, partenaires, revendeurs et fournisseurs.\n- Tu contribues à la mise à jour des CGV, documents légaux, assurances, Kbis et obligations corporate.\n- Tu accompagnes les sujets de financement, de dette ou d’évolution des structures juridiques.\n\n### **6. Administration RH et organisme de formation**\n\n- Tu coordonnes la paie, les dossiers administratifs des collaborateurs et les avantages sociaux.\n- Tu assures le suivi administratif des formations, conventions, émargements, formateurs externes et justificatifs Qualiopi.\n- Tu veilles au respect des processus liés à la formation, à la veille réglementaire et aux audits.\n\n### **7. Processus, outils**\n\n- Tu structures et documentes les processus financiers et administratifs, puis identifies les tâches à simplifier ou automatiser.",
     "creationDate": "2026-10-22T09:07:34Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -759,100 +745,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "2",
-      "6",
-      "7",
-      "17",
-      "21",
-      "26",
-      "171",
-      "234",
-      "244",
-      "321",
-      "322",
-      "326",
-      "315"
+      "[\"2\",\"6\",\"7\",\"17\",\"21\",\"26\",\"171\",\"234\",\"244\",\"321\",\"322\",\"326\",\"315\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "26",
-        "specializationParentId": "216",
-        "specializationLabel": "Communication",
-        "specializationLabelEn": "Communication"
-      },
-      {
-        "specializationId": "171",
-        "specializationParentId": "227",
-        "specializationLabel": "Relations Internationales",
-        "specializationLabelEn": "International Relations"
-      },
-      {
-        "specializationId": "234",
-        "specializationParentId": "227",
-        "specializationLabel": "Affaires et études européennes",
-        "specializationLabelEn": "European affairs and studies"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "321",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance Verte et Responsable",
-        "specializationLabelEn": "Finance Verte et Responsable"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      },
-      {
-        "specializationId": "315",
-        "specializationParentId": "193",
-        "specializationLabel": "E-commerce",
-        "specializationLabelEn": "E-commerce"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "This role focuses on managing the complete Order-to-Cash process, ensuring customer orders are accurately processed from receipt through delivery and invoicing. It serves as the primary point of contact for customers regarding order status, deliveries, invoicing, returns, and claims. The position requires close collaboration with supply chain, logistics, sales, finance, marketing, and planning teams to ensure smooth operations and high service levels. It involves resolving delivery challenges, stock shortages, and customer issues while maintaining strong customer relationships. The role also contributes to continuous improvement initiatives aimed at enhancing customer service performance and operational efficiency.\n\nManage customer orders throughout the entire Order-to-Cash cycle, from order entry to invoicing.\nMonitor and communicate order, delivery, and invoice status to customers and internal stakeholders.\nResolve delivery issues, stock shortages, returns, refusals, and customer claims in a timely manner.\nCoordinate with logistics providers and internal teams to validate and release blocked orders.\nSupport customer service excellence and participate in process improvement and operational optimization projects.",
     "creationDate": "2026-09-15T14:11:59Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -6205,37 +6100,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "17",
-      "188",
-      "259"
+      "[\"6\",\"17\",\"188\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "188",
-        "specializationParentId": "227",
-        "specializationLabel": "Politiques publiques et sectorielles",
-        "specializationLabelEn": "Public and sectoral policies"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "MISSION ET ATTRIBUTIONS DU VIA :\nLes missions du SER d’Ankara s’organisent autour de deux objectifs classiques : renforcer la relation bilatérale économique sur tous ses pans (échanges commerciaux, investissements croisés, appui aux grands projets) et promouvoir l’attractivité de la France. Ces missions valent pour la Turquie comme pour les trois autres pays sous la responsabilité du SER : l’Azerbaïdjan, la Géorgie et l’Arménie.\n\nPlacé(e) sous l’autorité du Conseiller Financier, chef du pôle macro-économie/finances, le/la VIA :\n•\tParticipera au suivi conjoncturel de l’économie turque (croissance, inflation, emploi, finances publiques, balance des paiements, politique monétaire et de change, marchés financiers, etc.) ;\n•\tAssurera le suivi des politiques publiques/réformes structurelles (politique budgétaire, compétitivité, environnement des affaires, etc.) ;\n•\tContribuera au suivi régulier des investissements et des échanges extérieurs de la Turquie, globaux ou bilatéraux ; \n•\tPilotera la rédaction de notes d’analyse dans les domaines précités, et coordonnera la réalisation des produits éditoriaux du SER (brèves économiques et financières, « Lumières Turquoises ») ; \n•\tSera amené à formuler des avis sur les rapports produits par les organisations internationales sur les pays de la zone (FMI, etc.) ainsi que les grands projets financés par les bailleurs internationaux (Banque mondiale, BERD, etc.) ; \n•\tApportera son appui/expertise aux différents pôles du SER d’Ankara sur leurs domaines d’intérêt (industrie, agriculture, énergie, etc.) ainsi qu’aux services de l’Ambassade pour leurs sollicitations ponctuelles (chancellerie, secrétariat général, consulat, etc.)\n\nPar ailleurs et de façon subsidiaire, il assurera les fonctions de « Correspondant Informatique Local » pour le site d’Ankara.\n\nPROFIL :\nCompte tenu des missions du poste, une formation en sciences économiques est un prérequis. \nLes candidatures disposant également de qualifications connexes (finance/commerce ; politiques publiques ; sciences politiques, sociales et historiques ; relations internationales, etc.) seront valorisées. \nDiplômes : Masters de 1er plan orientés économie/commerce-finance/politiques publiques, délivrés par des Universités, des Grandes écoles ou des IEP.  \n\nCOMPETENCES REQUISES :\n•\tQualités de recherche, d’analyse, de synthèse et de rédaction ; \n•\tGrande curiosité et goût pour les questions macroéconomiques et financières ; \n•\tAisance dans l’utilisation des outils quantitatifs et des données chiffrées ; \n•\tCapacité à travailler en équipe ; \n•\tAutonomie, rigueur et sens de l’organisation ; \n•\tSens relationnel et de la communication\n•\tHabilité à créer et entretenir un réseau de contacts professionnels ; \n•\tMaîtrise professionnelle de l’anglais indispensable ; celle du turc constitue un plus ; \n\nDIVERS :\nHébergement sur le marché privé accessible et assez simple à trouver. Pour un hébergement correct, il faut compter environ 450-500€/mois en colocation, 800-900€/mois en individuel. \nLe contexte régional et intérieur est parfois tendu, mais il n’y a pas de menace particulière pesant sur les Français. La qualité des infrastructures de santé peut être considérée comme excellente, notamment dans le secteur privé, et ne doit pas être un sujet d’inquiétude pour un séjour prolongé dans le pays. \nDans tous les cas, que ce soit dans le domaine sécuritaire ou sanitaire, il conviendra de strictement respecter les consignes de vigilance et de prudence données par l’ambassade. \nLes déplacements dans la plus grande partie du pays, qui est superbe et passionnant, sont aisés.",
     "creationDate": "2026-10-22T13:28:57Z",
     "missionStartDate": "2027-01-01T00:00:00",
