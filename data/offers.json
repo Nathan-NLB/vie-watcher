@@ -1270,58 +1270,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "199",
-      "200",
-      "201",
-      "205"
+      "[\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Rejoignez-nous et boostez votre carrière !\n\nNous recrutons un **Contrôleur de Gestion Opérationnel International** pour renforcer notre équipe au siège situé à Madrid. Dans ce rôle stratégique, vous travaillerez en étroite collaboration avec nos équipes locales et internationales pour soutenir la croissance continue du groupe. Vous aurez l'opportunité de déployer des outils de gestion et de contrôle pour plusieurs périmètres internationaux dans un environnement dynamique et en constante évolution.\n\nVotre mission : Contribuer à l’expansion internationale du groupe !\n\nEn tant que Contrôleur de Gestion Opérationnel International, vos principales missions seront :\n\n- Participer à l’élaboration des KPIs hebdomadaires pour différents pays et régions.\n- Créer et déployer des tableaux de bord pour mesurer la performance dans de nouveaux marchés internationaux.\n- Rédiger et formaliser des processus opérationnels afin d'optimiser les performances des équipes.\n- Déployer et administrer notre CRM dans de nouveaux périmètres internationaux.\n- Fournir un support, accompagnement et formation aux équipes locales dans différents pays.\n- Réaliser des analyses et contrôles divers sur les performances internationales et proposer des solutions d’amélioration.\n\nCe que nous offrons :\n\n- Un rôle stratégique, avec une forte exposition internationale.\n- Un environnement innovant et stimulant, au sein d’un groupe en pleine croissance.\n- Des possibilités d’évolution rapide dans un contexte de forte dynamique.\n\nNotre entreprise est un acteur majeur dans son secteur, avec une présence internationale croissante. Nous sommes en forte expansion et recherchons des talents pour accompagner cette croissance.",
     "creationDate": "2026-10-19T12:10:10Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4350,65 +4301,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "259",
-      "318",
-      "320",
-      "324"
+      "[\"5\",\"8\",\"9\",\"200\",\"259\",\"318\",\"320\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "I – Description du groupe Amethis\r\nLe groupe Amethis est un gestionnaire de fonds d’investissement dédié au continent africain & la région MENA. Amethis investit en capital-développement dans des entreprises en forte croissance dans une diversité de secteurs. Amethis a investi dans des sociétés présentes dans plus de 20 pays et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.\r\n\r\nII – Contexte AIFM (Aspect règlementaire)\r\nAmethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissement alternatifs (GFIA). Créée en 2017, elle est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg.\r\n\r\nIII – Rôle / Mission\r\nLe poste sera rattaché au Finance & Risk Manager, avec une exposition régulière au comité exécutif de l’AIFM, aux équipes d’investissement, aux investisseurs, aux auditeurs et aux prestataires des fonds.\r\nMissions principales :\r\nRisk Management\r\nInvestment process : rédaction des notes de risque pour chaque opération présentée en comité d’investissement, puis suivi du risque de chaque participation jusqu’à la sortie.\r\nConformité et limites : contrôle ex ante et ex post de la conformité des opérations aux documents des fonds (PPM, LPA) et aux limites de risque (concentration pays, secteur et émetteur, devise, levier, liquidité).\r\nRisk Report : élaboration du Risk Report semestriel couvrant l’ensemble des fonds, et des supports risk présentés au comité exécutif et au Conseil d’administration de l’AIFM.\r\nRéglementaire : contribution aux reportings réglementaires.\r\n\r\nFund administration\r\n\r\nOpérations des fonds : préparation des appels de fonds et des distributions (calculs par investisseur, notices, suivi des encaissements).\r\nNAV et performance : revue des NAV trimestrielles produites par l’administrateur et suivi des indicateurs de performance (TVPI, DPI, TRI).\r\nReporting investisseurs : préparation du reporting trimestriel aux investisseurs et réponses à leurs demandes ponctuelles.\r\nTrésorerie : suivi de la trésorerie des fonds et des prévisions de cash.\r\nPrestataires : coordination avec l’administrateur, le dépositaire, les banques et les auditeurs ; participation à l’audit annuel des fonds.\r\nAide au développements d’outils internes de pilotage de la performance financière / digitalisation / cost monitoring.\r\n\r\nCorporate scope\r\nArrêtés trimestriels : appui à l’arrêté des entités du groupe (AIFM, GP, holdings et bureaux de Paris, Luxembourg, Casablanca, Nairobi, Abidjan, Le Caire et Le Cap).\r\nPilotage : suivi du cash, des budgets et des atterrissages, avec analyse des écarts.\r\nIntragroupe : suivi des refacturations intragroupe et appui aux audits des sociétés du groupe.",
     "creationDate": "2026-10-07T14:09:31Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -4826,65 +4721,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "200",
-      "201",
-      "204",
-      "205",
-      "259"
+      "[\"5\",\"8\",\"9\",\"200\",\"201\",\"204\",\"205\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "204",
-        "specializationParentId": "19",
-        "specializationLabel": "Commissariat aux comptes",
-        "specializationLabelEn": "Statutory audit"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Forte de ses 50 ans d’existence, BESSAC réalise des travaux de tunnels et microtunnels destinés aux métros, aux ouvrages pour l’eau et l’assainissement ainsi qu’aux galeries techniques (gaz, câbles, chauffage urbain…) et conçoit et fabrique ses propres tunneliers.\nBESSAC est une filiale de SOLETANCHE BACHY et fait partie du Groupe VINCI.\nAvec un chiffre d’affaires de près de 160 millions d'euros, 2/3 de son activité est réalisée à l'international avec des projets en cours notamment en au Canada, en Australie, à Singapour, en Côte d’Ivoire, au Sénégal, en Colombie, au Panama, …\nPlus de 300 collaborateurs directs contribuent aujourd’hui au développement de l’entreprise.\nL’expertise technique est reconnue de tous et fait de BESSAC un cadre idéal pour intégrer le monde des travaux souterrains. Un véritable esprit de famille règne chez BESSAC, porté par des équipes expérimentées, une forte ancienneté et des collaborateurs habitués à travailler ensemble, offrant ainsi un environnement où chacun peut se projeter et évoluer.\n\n\nNous recherchons un(e) contrôleur de gestion pour accompagner l’équipe travaux basée à Lomé au Togo.\nVous serez rattaché(e) hiérarchiquement au chef de projet et le RAF de la zone Afrique basé en Côte d’Ivoire vous accompagnera dans la réussite de vos missions. Vous rejoignez une petite équipe passionnée composée d’ingénieurs travaux et une équipe de production.\n•\tSuivi budgétaire :\n-\tÉlaborer et suivre les budgets prévisionnels du projet\n-\tAnalyser les écarts entre prévisionnel et réalisé.\n-\tMettre en place des tableaux de bord de suivi.\n•\tContrôle des coûts :\n-\tContrôler les dépenses engagées sur le chantier.\n-\tValider les factures fournisseurs et sous-traitants.\n-\tIdentifier les dérives et proposer des actions correctives.\n•\tOptimisation :\n-\tRechercher des leviers d’optimisation des coûts.\n-\tParticiper à l’amélioration des processus de gestion.\n•\tSupport opérationnel :\n-\tCollaborer avec les chefs de chantier, conducteurs de travaux et services achats.\n-\tAssurer le lien entre l’équipe projet et la direction financière de Bessac Afrique\nC’est un programme challengeant qui vous attend mais vous ne serez pas seul. L’équipe en place, le RAF de la zone Afrique ainsi que le service RH France vous accompagneront au besoin pour mener à bien vos différentes missions. C’est l’opportunité idéale pour allier responsabilités et accompagnement !",
     "creationDate": "2026-10-02T10:50:26Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5386,16 +5225,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Fondé en 2010 avec la volonté d’allier économies & écologie, Helexia est un acteur indépendant majeur du marché de la transition énergétique.\nL’entreprise, qui compte aujourd’hui plus de 350 collaborateurs présents dans 7 pays, offre à ses clients la possibilité de décarboner leur activité à travers la production d’énergie renouvelable sur site ainsi que des projets d’efficacité énergétique.\nS’inscrivant dans la stratégie d’expansion géographique du groupe, Helexia España a été créée en 2019 avec pour objectif de devenir un acteur incontournable du marché de la transition énergétique en Espagne. La filiale de 16 personnes compte déjà sur plus de 75 projets photovoltaïques en opération pour un total de 40 MW.\n\nPoste et missions :\n\n1/ Analyse de l’ensemble des éléments financiers et stratégiques des opportunités d’investissement sur des centrales solaires en toitures, ombrières ou au sol et sur des projets d’efficacité énergétique:\no Réalisation du Business Plan en collaboration avec les équipes de la BU Espagne\no Analyse du risque de contrepartie\no Réalisation de sensibilités financières et extra-financières sur le Business Plan en fonction de l’opportunité et des risques identifiés\no Préparation de la présentation interne pour le Comité d’investissement\n\n2/ Participation au pilotage financier de la filiale :\no Reporting financier et commercial mensuel/trimestriel et analyse des écarts par rapport au budget ou aux prévisions\no Implication dans le processus budgétaire et la planification financière\no Analyse de la performance financière et suivi des opportunités post-investissement (Asset Management financier)\n\n3/ Réalisation d’études de marché\no Veille concurrentielle\no Analyse de tendances\no Suivi de l’innovation et des nouvelles solutions\n\n4/ Participation aux opérations de financement des actifs espagnols en collaboration avec l’ensemble des parties prenantes (services juridique, technique et financier).\n\n5/ Implication aux différents niveaux du cycle des transactions M&A, en collaboration avec l’équipe d’investissement Groupe :\no Screening de marché et analyse d’opportunités\no Modélisation financière\no Participation aux travaux d’audits\no Soumission du projet aux forums de décision pertinents",
     "creationDate": "2026-09-22T11:31:02Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -6093,16 +5925,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Louis Dreyfus Company (LDC) has been a key player in the global coffee industry for more than 30 years. We specialize in all major Arabica and Robusta coffee qualities, serving a diverse customer base worldwide, ranging from specialty roasters to multinational food and beverage companies.\r\n\r\nWe are looking for a highly motivated and analytical individual to join our Coffee Financial Planning & Analysis (FP&A) team, reporting to the FP&A Manager for the Coffee Platform in EMEA.\r\n\r\nIn this role, you will support the FP&A Manager in delivering recurring monthly performance analysis, coordinating budgeting and forecasting activities, and contributing to a range of ad hoc, cross-functional projects. You will work closely with multiple teams across the EMEA region, gaining exposure to the commercial, operational, and financial aspects of the coffee business.\r\n\r\nThis position offers a unique opportunity to develop your FP&A skills within a dynamic and international environment. Based in Kampala, Uganda, LDC's largest coffee origination platform in EMEA, you will gain unique exposure to the coffee supply chain, from origin to destination markets. This role offers the opportunity to work closely with commercial, operational, and finance teams while developing a solid foundation in business partnering, financial analysis, and commodity markets. For motivated individuals, it represents an excellent entry point into LDC and a strong platform from which to pursue future career opportunities across Finance, Commercial, Operations, or other functions within the Group.\r\nFinancial performance & reporting \r\n\r\n•\tDeliver comprehensive monthly performance analysis, comparing reported numbers to the budget, while clearly identifying and explaining key variances and underlying business drivers.\r\n•\tContribute to the preparation of the Monthly Performance Review (MPR), including analytical files and presentation materials, ensuring accuracy, consistency, and clear financial messaging.\r\n•\tSupport the FP&A Manager in delivering ad hoc financial analyses for management and business stakeholders, including profitability reviews, OPEX deep-dives, trend analysis, and scenario modeling.\r\nBusiness Partnering & Decision Support\r\n\r\n•\tContribute to budget, forecast, and landing exercises by challenging assumptions and assessing associated risks and opportunities.\r\n•\tParticipate in discussions with commercial and finance teams to understand the financial performance of the Coffee Platform and the drivers of profitability.\r\n•\tDevelop financial models and scenario analyses to evaluate business performance, operational initiatives, and market developments.\r\n\r\nProcess Improvement & Digitalization\r\n•\tIdentify opportunities to improve reporting processes, data quality, and analytical tools through automation and simplification initiatives. \r\n•\tAct as a key liaison between Finance, IT, and business teams to enhance reporting systems and strengthen data integrity.\r\nThe scope is the LDC EMEA Coffee Platform.",
     "creationDate": "2026-07-23T07:37:46Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -6233,16 +6058,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans un contexte de transformation et de digitalisation de la fonction Finance, vous contribuerez activement à l'amélioration des outils de pilotage, des processus financiers et du contrôle de gestion au sein de la zone Allemagne / Autriche.\nRattaché(e) au Directeur Administratif et Financier, vous accompagnerez les équipes Finance et Opérations dans l'exploitation des nouveaux outils issus du déploiement de SAP et participerez à l'harmonisation des processus de reporting et de contrôle de gestion.\nUne attention particulière sera portée au développement de nouveaux dashboards de pilotage, à l'amélioration de la qualité des données et au renforcement du contrôle de gestion industriel, notamment dans le cadre de la mise en place du module SAP PS (Project System) sur le site de production de Modulan.\nCette mission s'inscrit dans la continuité des activités de reporting, de business controlling et d'amélioration du contrôle interne.\nPRINCIPALES ACTIVITES : \n1. Digitalisation Finance & Business Intelligence\n· Accompagner la transformation digitale du département Finance.\n· Concevoir et déployer de nouveaux dashboards et outils de pilotage à partir des données SAP.\n· Participer à l'évolution et à l'optimisation des reportings financiers et opérationnels.\n· Contribuer à l'amélioration de la qualité, de la disponibilité et de la fiabilité des données.\n· Accompagner les utilisateurs dans l'adoption des nouveaux outils et indicateurs de performance.\n2. Contrôle de gestion & Performance\n· Participer aux clôtures mensuelles et à l'analyse de la performance économique.\n· Accompagner les équipes dans le pilotage économique des activités.\n· Contribuer à l'harmonisation des méthodes de calcul et des processus de contrôle de gestion entre les différentes entités de la zone.\n· Développer des analyses permettant d'améliorer le pilotage de la rentabilité et des activités opérationnelles.\n· Identifier des opportunités d'amélioration de la performance et être force de proposition.\n3. Audit interne – Contrôle interne\n· Contribution à l’amélioration des dispositifs de Contrôle Interne\n· Participation au processus annuel d’auto-évaluation\n· Assurer le suivi des plans d'actions associés.",
     "creationDate": "2026-09-25T11:49:22Z",
     "missionStartDate": "2027-01-01T00:00:00",
