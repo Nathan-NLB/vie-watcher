@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/10/2026 22:49:26**, 77 offre(s) actuellement en ligne.
+Dernière vérification : **26/10/2026 00:41:42**, 76 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4257,51 +4257,6 @@ Profile:
 
 To apply, please follow directly the link following: https://tikehau-capital-career.talentview.io/jobs/za20re 
 Applications outside this canal will not be taken into account
-
-</details>
-
-<details>
-<summary><strong>Junior Financial Controller (F/H) (H/F)</strong> · HELEXIA CORPORATE · MILAN, ITALIE · 3 003,87 €/mois</summary>
-
-- **Entreprise :** HELEXIA CORPORATE
-- **Lieu :** MILAN, ITALIE
-- **Indemnité :** 3 003,87 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 25/09/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux exigences techniques du poste (contrôle de gestion, clôtures, reporting, Excel avancé) et à son appétence pour l'international avec un excellent niveau d'anglais. Le seul léger écart réside dans la maîtrise de l'italien demandée par l'entreprise, bien qu'il soit ouvert à l'international et hispanophone.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246257](https://mon-vie-via.businessfrance.fr/offres/246257)
-
-**Description du poste**
-
-Présentation de la société :
-
-Fondée en 2010, Helexia est une force motrice dans le secteur de la transition énergétique. Sa mission est de construire des modèles énergétiques gagnants pour ses clients et pour la planète. Avec près de 400 collaborateurs, Helexia a réalisé plus de 350 projets photovoltaïques, pour une puissance installée de 198MWc. Helexia se développe dans 7 pays : France, Italie, Portugal, Espagne, Hongrie, Roumanie, et Pologne. Helexia accompagne ses clients avec des solutions innovantes, performantes et intégrées à 360° pour l'optimisation énergétique de leurs bâtiments tertiaires, industriels et commerciaux, leur permettant de réaliser leurs ambitions de réduction de l'empreinte carbone de leur entreprise grâce à une trajectoire sur mesure. Les services d'Helexia sont développés autour de quatre piliers : l'efficacité énergétique, la production d'énergie verte autoconsommée, la gestion de l'énergie et la mobilité électrique.
-
-Poste et missions :
-
-Nous recherchons un(e) Contrôleur Financier Junior F/H hautement motivé(e) et techniquement compétent pour rejoindre notre équipe financière Italienne à Milan !
-
-Vous serez responsable de préparer les clôtures mensuelles ainsi que les analyses de performance associées. En prenant appui sur les analyses financières, vous collaborerez avec la Direction Financière Italienne ainsi qu’avec l'équipe FP&A groupe dans l’objectif d’élaborer et de développer des études de cas d’investissements et les méthodes de contrôle et de reporting.
-
-Vos principales responsabilités seront les suivantes :
-
-• Préparation des clôtures mensuelles et des reporting dans les délais exigés,
-• Edition des rapports mensuels et analyse des écarts vs le budget et les prévisions,
-• Analyse des performances et des tendances,
-• Élaboration d’études de cas afin d’accompagner nos choix d'investissement,
-• Participation active au développement de nouveaux projets et initiatives financiers,
-• Préparation d'analyses et de rapports financiers,
-• Soutien au processus budgétaire et de planification financière,
-• Maintien et développement des modèles financiers et des bases de données,
-
-**Profil recherché**
-
-Diplômé(e) d’un Bachelor ou d’un Master en en économie, finance, école de commerce ou d’ingénieur, vous disposez d’une première expérience (2 à 3 ans) en planification financière ou en contrôle de gestion au sein d’une entreprise multinationale.
-
-Vous disposez de solides compétences analytiques et êtes reconnu(e) pour votre capacité à tenir les délais et à avancer sur différents sujets en parallèle. Vous êtes rigoureux(se), précis(e) et avez souci du détail.
-De nature positive, vous appréciez le travail en équipe et savez vous montrer proactif(ve) dans le développement de solutions. Vous êtes doté(e) de très bonnes compétences interpersonnelles. Vous êtes curieux(se), désireux(se) de développer vos connaissances.
-
-Excellente maîtrise de la suite office, particulièrement PowerPoint et Excel. Vous parlez couramment Italien et Anglais (le français est un plus).
 
 </details>
 
