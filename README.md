@@ -8,11 +8,61 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **26/10/2026 03:30:37**, 76 offre(s) actuellement en ligne.
+Dernière vérification : **26/10/2026 09:04:55**, 74 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Assistant Support aux Opérations Terrain (H/F) – Danemark</strong> · TOTALENERGIES SE · ESBJERG, DANEMARK · 3 662,65 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES SE
+- **Lieu :** ESBJERG, DANEMARK
+- **Indemnité :** 3 662,65 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil présente de solides compétences en contrôle de gestion, Power BI et analyse de données en phase avec le volet budgétaire et reporting du poste. Cependant, l'offre cible plutôt un profil ingénieur avec une spécialisation HSE/génie des procédés et requiert un anglais C1 (contre 925 au TOEIC), tandis que le candidat recherche prioritairement l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247435](https://mon-vie-via.businessfrance.fr/offres/247435)
+
+**Description du poste**
+
+Rejoignez les équipes Field Operations de TotalEnergies au Danemark et contribuez à l'amélioration de la performance opérationnelle et de la sécurité des activités offshore. 
+Au sein des départements Field Operations Support et Operational Safety, vous contribuez au développement d'outils de pilotage, au suivi budgétaire, à la préparation des audits réglementaires et à l'amélioration des processus internes. 
+
+Merci de candidater en anglais.
+Un logement sera fourni pas la filiale.
+
+Vous intervenez auprès de deux équipes distinctes, le support aux opérations et la sécurité opérationnelle. Au-delà des missions propres à chaque activité, vous participez à des projets transverses d'amélioration continue, de reporting et de transformation des modes de travail, vous offrant une vision élargie des activités Field Operations.
+Vos principales missions :
+•	Développer et améliorer des reportings automatisés à destination des équipes opérationnelles. 
+•	Construire et faire évoluer des tableaux de bord Power BI. 
+•	Produire des indicateurs de performance et des analyses de données. 
+•	Participer au suivi budgétaire et à la consolidation des données de coûts. 
+•	Mettre à jour les données organisationnelles et les organigrammes. 
+•	Préparer les audits réglementaires et coordonner les actions associées. 
+•	Contribuer au suivi des sujets HSE et aux analyses de causes racines. 
+•	Préparer des présentations et supports destinés au management. 
+•	Identifier des pistes d'amélioration et proposer des solutions innovantes.
+
+**Profil recherché**
+
+Vous diplômé d’un BAC+5 minimum, d’une école d'ingénieurs ou équivalent avec une spécialisation en génie des procédés, génie chimique, HSE ou gestion des risques.
+
+Vous bénéficiez d’une première expérience (stage, alternance ou expérience professionnelle) intégrant de l'analyse de données, suivi des coûts, du reporting ou de la gestion de projet.
+
+Une expérience sur des sujets HSE, audits ou gestion des risques dans le secteur de l’industrie ou de l’énergie constitue un atout.
+
+Une expérience sur le développement d’outils digitaux est appréciée.
+
+Vous maîtrisez les outils du Pack Office, notamment :
+•	Excel ;
+•	PowerPoint ;
+•	Power BI (pour la visualisation de données.)
+
+Un niveau d’anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.
+
+</details>
 
 <details>
 <summary><strong>Junior Financial Analyst (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
@@ -4098,165 +4148,6 @@ At Avertim, we value talent and mindset. No difference will be made during the r
 A Quality Engineer is a detail-oriented professional responsible for ensuring that products, processes, and systems consistently meet regulatory requirements, industry standards, and customer expectations. Acting at the intersection of engineering, operations, and compliance, the Quality Engineer drives continuous improvement by identifying risks, resolving quality issues, and implementing robust quality management systems.
 In regulated environments such as Life Sciences, the role is critical in maintaining compliance with standards such as GMP and ISO, supporting audits, and ensuring inspection readiness.
 The Quality Engineer collaborates closely with cross-functional teams (e.g., Operations, QA, QC, Engineering) to analyze deviations, perform root cause analysis, and implement corrective and preventive actions (CAPA). They play a key role in improving product reliability, reducing defects, and enhancing overall operational performance.
-
-</details>
-
-<details>
-<summary><strong>Business Controller / Finance Transformation (H/F)</strong> · LEGRAND FRANCE · SOEST, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** LEGRAND FRANCE
-- **Lieu :** SOEST, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 25/09/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond très bien aux attentes techniques en contrôle de gestion, reporting et maîtrise d'Excel, avec un excellent niveau d'anglais. Le principal écart réside dans le pays de mission (Allemagne) par rapport à sa préférence pour l'Espagne, ainsi que dans l'absence mentionnée d'expérience préalable sur SAP.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246393](https://mon-vie-via.businessfrance.fr/offres/246393)
-
-**Description du poste**
-
-Dans un contexte de transformation et de digitalisation de la fonction Finance, vous contribuerez activement à l'amélioration des outils de pilotage, des processus financiers et du contrôle de gestion au sein de la zone Allemagne / Autriche.
-Rattaché(e) au Directeur Administratif et Financier, vous accompagnerez les équipes Finance et Opérations dans l'exploitation des nouveaux outils issus du déploiement de SAP et participerez à l'harmonisation des processus de reporting et de contrôle de gestion.
-Une attention particulière sera portée au développement de nouveaux dashboards de pilotage, à l'amélioration de la qualité des données et au renforcement du contrôle de gestion industriel, notamment dans le cadre de la mise en place du module SAP PS (Project System) sur le site de production de Modulan.
-Cette mission s'inscrit dans la continuité des activités de reporting, de business controlling et d'amélioration du contrôle interne.
-PRINCIPALES ACTIVITES : 
-1. Digitalisation Finance & Business Intelligence
-· Accompagner la transformation digitale du département Finance.
-· Concevoir et déployer de nouveaux dashboards et outils de pilotage à partir des données SAP.
-· Participer à l'évolution et à l'optimisation des reportings financiers et opérationnels.
-· Contribuer à l'amélioration de la qualité, de la disponibilité et de la fiabilité des données.
-· Accompagner les utilisateurs dans l'adoption des nouveaux outils et indicateurs de performance.
-2. Contrôle de gestion & Performance
-· Participer aux clôtures mensuelles et à l'analyse de la performance économique.
-· Accompagner les équipes dans le pilotage économique des activités.
-· Contribuer à l'harmonisation des méthodes de calcul et des processus de contrôle de gestion entre les différentes entités de la zone.
-· Développer des analyses permettant d'améliorer le pilotage de la rentabilité et des activités opérationnelles.
-· Identifier des opportunités d'amélioration de la performance et être force de proposition.
-3. Audit interne – Contrôle interne
-· Contribution à l’amélioration des dispositifs de Contrôle Interne
-· Participation au processus annuel d’auto-évaluation
-· Assurer le suivi des plans d'actions associés.
-
-**Profil recherché**
-
-De formation supérieure (école de commerce ou universitaire) avec une première expérience significative en Finance, idéalement dans un environnement international,
-· Connaissances approfondies en comptabilité et dans l’établissement d’analyses et rapports économiques,
-· Aptitude et gout à travailler avec les applications informatiques telles que MS-office (dont a minima Excel- niveau avancé), système ERP et Office 365
-· Anglais professionnel obligatoire, l'allemand est un vrai plus
-Qualités attendues :
-· Esprit analytique et orientation résultats.
-· Curiosité pour les systèmes d'information et la data.
-· Autonomie, initiative et proactivité.
-· Capacité à travailler dans un environnement international et transversal.
-· Sens de l'organisation et de la communication.
-· Goût pour le changement et l'amélioration continue.
-Que proposons-nous ?
-· Une mission au cœur de la transformation Finance et de la digitalisation des processus.
-· Une forte exposition aux projets SAP et aux outils associés.
-· Une expérience combinant finance, data et contrôle de gestion industrielle.
-· Un environnement international dynamique au sein du Groupe Legrand.
-· La possibilité de contribuer à des projets stratégiques dans une zone en croissance.
-
-</details>
-
-<details>
-<summary><strong>ASSET MANAGEMENT ANALYST -  (H/F)</strong> · KLEPIERRE MANAGEMENT · UTRECHT, PAYS-BAS · 3 395,60 €/mois</summary>
-
-- **Entreprise :** KLEPIERRE MANAGEMENT
-- **Lieu :** UTRECHT, PAYS-BAS
-- **Indemnité :** 3 395,60 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 25/09/2026
-- **Compatibilité avec ton profil :** 65 % — Le profil financier et analytique de Nathan correspond bien aux attentes en matière de gestion et de KPIs, et son niveau d'anglais est suffisant. Cependant, l'offre relève de l'Asset Management immobilier et de la stratégie d'actifs (Klepierre à Utrecht), un secteur et des missions assez éloignés de son expérience principale en contrôle de gestion industriel.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246390](https://mon-vie-via.businessfrance.fr/offres/246390)
-
-**Description du poste**
-
-Your perimeter of responsibilities will include:
-
-Portfolio Strategy: 
-- With the Head of Asset Management, define and execute the 5Y business plan strategy for each shopping centre
-- Close cooperation with Leasing/Commercial department including assessment of leasing scenarios and preparation of recommendations to maximize asset value 
-- Source new opportunities to create value (rotation of the tenant mix, merger / split of units, specialty leasing, parking, EV chargers…)
-- Monitor and analyze the performance KPIs
-- Monitor and analyze the evolution of the catchment area and the competition
-
-Budget and Business Plan follow-up:
-- Verify and challenge the consistency of all budgeted leasing operations with the long term BP strategy
-- Prepare and present the reports / dashboards to follow-up the approved operations under execution
-
-Acquisition and Appraisal process
-- Collect and communicate the relevant data to the appraisers
-- Analyze the appraisal reports and challenge the assumptions taken to guarantee alignment between the appraisal and internally prepared valuations
-- Participate in the identification process of potential acquisitions
-- Participate in the due diligence process in the frame of asset disposal
-
-Project management
-- Coordinate cross-functions project teams and set the pace of execution (property management, finance, leasing/commercial)
-- Facilitate the share of information and relevant data within the project teams
-
-**Profil recherché**
-
-Education and experience:
-- Degree in preferably finance, business, or real estate
-- Interest in asset management: first experience (including internship) in real estate, audit or investment banking
-
-Skills and competencies:
-- Proactive and resourceful: ability to solve problems, anticipate needs and address issues before they arise.
-- Attention to detail and quality of your work.
-- Strong analytical and synthesis capacity.
-- Proactive and resourceful: ability to solve problems, anticipate needs and address issues before they arise.
-- Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint).
-
-Language:
-- Excellent verbal and written communication skills in English.
-- German and Dutch would be a plus but is not mandatory.
-
-</details>
-
-<details>
-<summary><strong>Private Equity Analyst (H/F)</strong> · TIKEHAU INVESTMENT MANAGEMENT · SINGAPOUR, SINGAPOUR · 4 063,89 €/mois</summary>
-
-- **Entreprise :** TIKEHAU INVESTMENT MANAGEMENT
-- **Lieu :** SINGAPOUR, SINGAPOUR
-- **Indemnité :** 4 063,89 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 25/09/2026
-- **Compatibilité avec ton profil :** 45 % — Le candidat possède de solides compétences financières et un profil international pertinent avec un excellent niveau d'anglais. Cependant, l'offre cible un poste de Private Equity Analyst exigeant une expérience en M&A ou capital-investissement, alors que le parcours du candidat est orienté vers le contrôle de gestion.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246372](https://mon-vie-via.businessfrance.fr/offres/246372)
-
-**Description du poste**
-
-About Tikehau Capital
-
-Tikehau Capital is a global alternative asset management group with a strong entrepreneurial culture and a focus on innovation. The Group invests across multiple asset classes - including private debt, real estate, private equity, and liquid strategies - primarily through its asset management subsidiaries, on behalf of institutional and private investors. Controlled by its management, alongside leading institutional partners, Tikehau Capital employs 720 staff across its offices in Paris, London, Brussels, Madrid, Frankfurt, Milan, New York, Seoul, Abu Dhabi, Singapore, Tel Aviv, Luxembourg, Amsterdam, Zurich, Tokyo, Montreal and Hong Kong.
-
-Our Private Equity team in Singapore is looking for its new talent to join this dynamic and fast-learning environment.
-
-Missions:
-
-- Support the team in sourcing, screening, and evaluating new investment opportunities.
-- Conduct financial modeling, valuation analyses, and market research.
-- Assist in due diligence processes, including coordinating with advisors and third parties.
-- Prepare investment memoranda and presentations for internal committees.
-- Participate in the monitoring and management of portfolio companies, including performance tracking and strategic initiatives.
-- Collaborate closely with senior team members and cross-functional stakeholders.
-
-To apply, please follow directly the link 
-Applications outside this canal will not be taken into account
-
-**Profil recherché**
-
-Profile:
-
-- Bachelor’s or Master’s degree in Finance, Business, Economics, or a related field.
-- 1–2 years of relevant experience in Private Equity, or Investment Banking (strong technical expertise; strong preference for PE or IBD backgrounds vs. consulting or accounting).
-- Strong analytical and quantitative skills, with proficiency in financial modeling and valuation.
-- Excellent written and verbal communication skills in English.
-- High attention to detail and ability to manage multiple tasks in a fast-paced environment.
-- Team player with a proactive attitude and strong work ethic.
-
-To apply, please follow directly the link following: https://tikehau-capital-career.talentview.io/jobs/za20re 
-Applications outside this canal will not be taken into account
 
 </details>
 

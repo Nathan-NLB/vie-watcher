@@ -521,5 +521,10 @@
   "ville|ogden  -ut-|etats-unis": {
     "lat": 41.2230048,
     "lon": -111.9738429
+  },
+  "entreprise|totalenergies se|esbjerg|danemark": null,
+  "ville|esbjerg|danemark": {
+    "lat": 55.4664892,
+    "lon": 8.4520751
   }
 }
