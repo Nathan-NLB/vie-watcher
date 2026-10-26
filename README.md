@@ -8,11 +8,254 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **26/10/2026 09:04:55**, 74 offre(s) actuellement en ligne.
+Dernière vérification : **26/10/2026 16:15:34**, 74 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>V.I.E - Financial Controller - F/M (H/F)</strong> · TECHNIP ENERGIES FRANCE · DOHA, QATAR · 2 721,83 €/mois</summary>
+
+- **Entreprise :** TECHNIP ENERGIES FRANCE
+- **Lieu :** DOHA, QATAR
+- **Indemnité :** 2 721,83 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa formation en contrôle de gestion, ses compétences solides en Excel et reporting, et son excellent niveau d'anglais (TOEIC 925). Seul léger écart : son expérience est orientée PME industrielle et non en finance de projet grand compte, et la destination (Qatar) diffère de son appétence initiale pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247527](https://mon-vie-via.businessfrance.fr/offres/247527)
+
+**Description du poste**
+
+Liste des Tâches confiées au V.I.E. 
+
+Participer au suivi financier global du projet (revenus, coûts, marge et cash-flow).
+
+Préparer les clôtures mensuelles et les reportings financiers à destination du management local et du siège.
+
+Analyser les écarts entre le budget, les prévisions et les réalisations. 
+
+Participer à l'élaboration des forecasts financiers et des revues de performance du projet.
+
+Contribuer au contrôle des engagements, des risques et des opportunités financières.
+
+Suivre les encaissements clients et les indicateurs de trésorerie.
+
+Accompagner les équipes opérationnelles dans l'amélioration de la performance financière et le respect des objectifs de rentabilité.
+
+Participer aux audits externes.
+
+**Profil recherché**
+
+Votre profil:
+
+ 
+
+Diplômé(e) d'une école de commerce, d'ingénieur ou d'un Master 2 en Finance, Contrôle de Gestion ou Comptabilité. Expérience attendue : Première expérience en contrôle de gestion, audit ou finance de projet (stage ou alternance significatifs acceptés).
+
+Vous maitrisez l'Excel et des outils d'analyse financière.
+
+Vous connaissez des principes comptables et du contrôle de gestion.
+
+La connaissance d'ERP tels que SAP constitue un atout.
+
+Capacité à analyser et synthétiser des données financières complexes.
+
+ Sens de l'organisation, rigueur et esprit d'équipe.
+
+ Anglais professionnel impératif (oral et écrit).
+
+</details>
+
+<details>
+<summary><strong>VIE Finance Analyst – Management Control & Internal Consolidation Reporting (H/F)</strong> · CA CONSUMER FINANCE · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** CA CONSUMER FINANCE
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 95 % — Le profil correspond parfaitement aux attentes avec un Master en cours en contrôle de gestion, une forte expérience pratique en reporting et analyse financière, ainsi qu'un excellent niveau d'anglais. Le candidat coche toutes les cases, y compris l'attrait pour l'Espagne, avec seulement une maîtrise de l'espagnol un peu en deçà (niveau B1).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247510](https://mon-vie-via.businessfrance.fr/offres/247510)
+
+**Description du poste**
+
+We are looking for a motivated and analytical VIE Finance Analyst to join our Finance team. The role offers broad exposure across different finance activities, with a primary focus on Management Control, Financial Performance Monitoring, and Internal Consolidation Reporting.
+Working closely with Finance Business Partners, Controlling teams, and Group Finance stakeholders, the successful candidate will contribute to the production of management information, support financial analysis, and help ensure the quality and consistency of financial reporting delivered to management and headquarters.
+Key Responsibilities
+Management Control
+•	Support monthly closing and management reporting activities.
+•	Analyze financial performance versus budget, forecast, and prior year results.
+•	Prepare variance analyses and provide insights on key business drivers.
+•	Contribute to budgeting, forecasting, and long-term planning exercises.
+•	Monitor financial and operational KPIs and assist in developing management dashboards.
+•	Support ad hoc financial analyses and business cases for management.
+Internal Consolidation & Reporting
+•	Participate in the preparation and validation of internal financial reporting packages.
+•	Support the consolidation process by collecting, reviewing, and reconciling financial data from different entities.
+•	Ensure accuracy, completeness, and consistency of reported figures.
+•	Assist in the preparation of reporting submissions to Group Finance.
+•	Monitor reporting deadlines and follow up with stakeholders to ensure timely delivery.
+•	Support continuous improvement initiatives aimed at enhancing reporting processes and controls.
+Cross-Functional Finance Support
+•	Collaborate with Accounting, Treasury, Business Finance, and other Finance teams.
+•	Contribute to process documentation and internal control activities.
+•	Participate in finance transformation and automation projects.
+•	Help identify opportunities to improve reporting efficiency and data quality.
+
+**Profil recherché**
+
+•	Master's degree in Finance, Accounting, Economics, Business Administration, or a related field.
+•	0–2 years of experience, including internships or work-study assignments, in Finance, ALM, Treasury, Risk, Audit or Consulting.
+•	Eligible for the VIE program.
+•	Strong interest in financial analysis, controlling, and corporate reporting.
+•	Advanced Excel skills; knowledge of Power BI, SAP, or consolidation/reporting tools is a plus.
+•	Strong analytical and problem-solving skills.
+•	High level of attention to detail and data accuracy.
+•	Ability to work in a multicultural and international environment.
+•	Proactive mindset with strong organizational skills.
+Languages
+•	Fluent English (written and spoken).
+•	French and/or Spanish would be an advantage.
+
+</details>
+
+<details>
+<summary><strong>Group PMO Transformation (H/F)</strong> · LYNXEO FRANCE · LIMITO DI PIOLTELLO, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** LYNXEO FRANCE
+- **Lieu :** LIMITO DI PIOLTELLO, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion pur (FP&A, reporting, analyse financière) alors que l'offre concerne un poste de PMO (Project Management Office) axé sur la gestion de projets et la transformation. Bien que le cadre international et le profil junior correspondent, les compétences techniques requises s'écartent significativement de son expertise financière.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247503](https://mon-vie-via.businessfrance.fr/offres/247503)
+
+**Description du poste**
+
+Within the Lynxeo Group transformation program nexT, the purpose of this junior PMO role is to support international rollout projects while being part of a structured talent development journey. 
+The position aims to contribute to nexT deployment activities as a PMO support resource, while progressively developing project management, coordination, and change facilitation skills in an international environment. 
+This role is also designed to support the creation of an international PMO talent pool, combining operational contribution to projects and long‑term employability within the Group.
+
+**Profil recherché**
+
+Within the Lynxeo Group transformation program nexT, the purpose of this junior PMO role is to support international rollout projects while being part of a structured talent development journey. 
+The position aims to contribute to nexT deployment activities as a PMO support resource, while progressively developing project management, coordination, and change facilitation skills in an international environment. 
+This role is also designed to support the creation of an international PMO talent pool, combining operational contribution to projects and long‑term employability within the Group.
+
+</details>
+
+<details>
+<summary><strong>Consultant en contrôle de gestion, IA et BI (H/F)</strong> · PRODEVA · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** PRODEVA
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux exigences techniques du poste avec son master en contrôle de gestion, ses deux ans d'expérience réussie et sa maîtrise d'Excel et de Power BI. Ses compétences linguistiques (anglais courant) et son autonomie s'intègrent très bien dans ce projet de VIE, même si l'offre est basée à Bruxelles plutôt qu'en Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247492](https://mon-vie-via.businessfrance.fr/offres/247492)
+
+**Description du poste**
+
+Vous avez une première expérience solide en contrôle de gestion, l'IA et les nouvelles technologies vous passionnent, et vous voulez donner une longueur d'avance à votre carrière ?
+
+Chez DataVizX, nous améliorons la performance des entreprises par des approches modernes et novatrices : tableaux de bord de nouvelle génération, agents IA, revues de gestion automatisées. Forts de notre savoir-faire, nous vous apprendrons à maîtriser ces outils à un niveau avancé, à les mettre au service de nos clients et à communiquer avec des directeurs généraux, des directeurs financiers, des directions métiers et des conseils d'administration. Votre expertise en contrôle de gestion pour socle, l'IA au cœur, les fondamentaux de la BI en appui : vous réunirez le meilleur des trois mondes.
+
+• V.I.E de 12 mois, renouvelable une fois (24 mois au maximum), à partir du 1er février 2027
+• Possibilité de CDI à l'issue du V.I.E
+• Bruxelles, dans les locaux de TotalEnergies
+• Équipement fourni : ordinateur portable, téléphone portable et tous les outils nécessaires à votre mission
+• Télétravail possible, selon des conditions à négocier après le premier mois
+
+LE POSTE
+
+Vous êtes le référent finance de nos projets, spécialiste des nouvelles technologies : vous mettez votre maîtrise du contrôle de gestion et de nos outils d'IA et de BI au service de la performance de nos clients.
+
+• Présentation et validation : vous présentez nos solutions à nos clients et vous validez avec eux, et avec nos équipes, la justesse des totaux et des indicateurs.
+• L'IA appliquée à la finance : vous utilisez l'IA au quotidien dans votre travail, vous faites la démonstration de nos solutions d'automatisation IA et d'analyse BI à nos clients et vous apportez votre regard métier pour les rendre toujours plus pertinentes.
+• Garant de la qualité : rien ne part chez un client sans votre contrôle.
+• Formateur : vous formez des équipes financières à l'IA et à la BI, en visio, dans le cadre de notre certification Qualiopi.
+• Bâtisseur : vous nous aidez à définir les indicateurs pertinents pour chaque métier, et vos idées d'analyses enrichissent nos solutions au service de tous nos clients.
+
+Vous êtes épaulé au quotidien : notre équipe technique prend en charge les développements avancés, et vous apportez la connaissance métier, le sens des chiffres et la relation client.
+
+CE QUI REND CE POSTE UNIQUE
+
+Dans un grand groupe, un V.I.E en contrôle de gestion suit souvent une seule entité et un seul reporting. Chez nous, vous travaillez pour de nombreuses entreprises, face à leurs dirigeants, avec des outils d'IA que très peu de financiers utilisent encore.
+
+De la suite Office à Power BI, en passant par une pratique maîtrisée et certifiée de l'IA, vous apprendrez à automatiser et à sécuriser les tâches de votre métier. Ce qui prend des jours à beaucoup de contrôleurs, vous saurez le faire en quelques heures, avec des chiffres vérifiés.
+
+• Une entreprise à la pointe de la technologie : assistants d'analyse multilingues, données des clients croisées avec des données publiques, une quinzaine de solutions prêtes à l'emploi, lisibles sur ordinateur, tablette et téléphone. Nous livrons un tableau de bord complet en quelques jours, là où il faut habituellement un mois.
+• Le CES de Las Vegas : après Accountex 2025 et le CES 2026, nous serons de nouveau à Las Vegas en janvier 2027. Vous pourrez nous accompagner pour l'édition 2028.
+• Le fondateur en direct : vous échangez chaque jour avec le fondateur de DataVizX et apprenez au plus près de celui qui conçoit nos solutions.
+• Des secteurs très variés : automobile, aviation, promotion immobilière, mandataires, industrie, dispositifs fiscaux, location, magasins, salles de sport, bailleurs sociaux. Vos connaissances y seront précieuses, et vous découvrirez une diversité de métiers rare en début de carrière.
+• Des missions dès votre arrivée : vous intervenez sur des projets clients dès les premières semaines, accompagné par nos équipes, puis vous gagnez rapidement en autonomie et prenez en charge votre propre portefeuille de clients. Votre formation se poursuit au fil des projets.
+• Au terme de votre mission : une triple compétence en finance, IA et BI, des certifications Claude, OpenAI, Microsoft et Sage prises en charge par DataVizX, et un profil rare, recherché par les directions financières comme par les cabinets de conseil internationaux.
+
+BRUXELLES, UN TREMPLIN EUROPÉEN
+
+• Hébergé chez TotalEnergies : grâce à notre partenariat avec le groupe, vous travaillez dans un cadre moderne et cosmopolite, au contact d'équipes du monde entier.
+• Au cœur de l'Europe : la capitale des institutions européennes, où français, néerlandais et anglais se côtoient, à quelques heures de train de Paris, Londres et Amsterdam.
+• Notre représentant en Belgique : formations, présentations, premiers clients belges, vous incarnez notre développement local.
+
+À PROPOS DE DATAVIZX
+
+Depuis 2022, DataVizX a accompagné 40 entreprises en France, en Espagne et aux Antilles. Organisme de formation certifié Qualiopi, nous intervenons auprès des directions générales et financières, de la conception de leurs tableaux de bord à l'automatisation de leurs analyses. Notre fondateur, Serge Barros Chaves, porte l'innovation de DataVizX et la relation avec nos clients.
+
+CE QUI FAIT RÉUSSIR CHEZ NOUS
+
+Nous sommes une équipe internationale et exigeante : le fondateur partage son temps entre la Guadeloupe et Bordeaux, notre équipe technique travaille en anglais. Ce que nous attendons, concrètement :
+
+• Des résultats, pas de la présence : nous jugeons sur ce qui est livré, dans les délais annoncés. Un délai est un engagement, pas une indication.
+• La rigueur : un chiffre présenté à un client est vérifié et rapproché de sa source. Un document qui part est relu, sans approximation.
+• L'initiative : face à un problème, vous cherchez, vous testez, avec nos outils d'IA en premier, et vous arrivez avec une solution plutôt qu'avec une question.
+• La transparence : chaque jour, un point écrit sur ce qui est fait, ce qui bloque et ce qui suit. Un sujet bloqué se signale le jour même, pas trois semaines plus tard.
+• L'autonomie : sans manager sur place, vous organisez vos journées, vous allez chercher l'information et vous tenez vos engagements.
+• L'exigence de qualité : nos clients reçoivent des livrables haut de gamme. Un travail « à peu près » est un travail à refaire.
+• Une image professionnelle : tenue professionnelle et caméra allumée en visio. Face à des dirigeants, vous êtes le visage de DataVizX.
+
+Ce poste n'est pas fait pour vous si vous attendez des consignes détaillées pour avancer, si vous préférez la réflexion à la livraison, ou si vous voyez la qualité comme une option.
+
+COMMENT NOUS REJOINDRE
+
+Notre processus est court et concret : il vous permet de découvrir le poste autant qu'il nous permet de vous connaître.
+
+1. Votre candidature sur la plateforme V.I.E de Business France : votre CV et une lettre de motivation qui explique en quoi votre expérience correspond au poste proposé.
+2. Un premier échange avec le fondateur : en visio, ou en personne à Bordeaux selon le calendrier.
+3. Une mise en situation sur un cas réel anonymisé : vous présentez votre analyse comme vous le feriez devant un client, puis vous la résumez par écrit.
+
+Au cours du processus, vous recevrez une démonstration de nos solutions. Chaque candidature reçoit une réponse, et notre décision est prise au plus tard fin novembre 2026.
+
+**Profil recherché**
+
+Vous avez une première expérience solide en contrôle de gestion, en audit ou en finance d'entreprise, et vous voulez la mettre au service de projets innovants. Vous savez lire un compte de résultat, analyser un écart et défendre un chiffre. L'IA et la BI vous attirent : nous vous formons à nos outils.
+
+Profils visés : contrôleur de gestion, auditeur, analyste financier, consultant en finance.
+
+Indispensable :
+• Formation en contrôle de gestion, finance ou audit (Bac+4 ou Bac+5)
+• Deux ans d'expérience dans ces métiers, alternance comprise
+• Français courant, à l'écrit comme à l'oral
+• Anglais professionnel, langue de travail de notre équipe technique
+• Excel solide
+
+Un plus :
+• Power BI ou un autre outil de BI, SQL
+• Pratique des outils d'IA
+• Espagnol, allemand, italien ou arabe
+• Expérience en cabinet de conseil ou en mission auprès de clients
+
+Votre personnalité fera la différence :
+• Rigueur : vous vérifiez chaque chiffre avant de le présenter.
+• Autonomie : vous organisez votre travail sans manager sur place et vous tenez vos délais.
+• Curiosité : vous cherchez, vous testez, vous proposez.
+• Aisance orale : vous savez présenter et convaincre face à des dirigeants.
+• Pédagogie : vous aimez transmettre et former.
+
+Poste ouvert aux candidats éligibles au V.I.E : 18 à 28 ans, ressortissants de l'Espace économique européen.
+
+</details>
 
 <details>
 <summary><strong>Assistant Support aux Opérations Terrain (H/F) – Danemark</strong> · TOTALENERGIES SE · ESBJERG, DANEMARK · 3 662,65 €/mois</summary>
@@ -61,6 +304,244 @@ Vous maîtrisez les outils du Pack Office, notamment :
 •	Power BI (pour la visualisation de données.)
 
 Un niveau d’anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.
+
+</details>
+
+<details>
+<summary><strong>ANALYSTE FONCTIONNEL SI CONTROLLING (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** VINCI CONSTRUCTION SI
+- **Lieu :** BOTTROP, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 26/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245657](https://mon-vie-via.businessfrance.fr/offres/245657)
+
+**Description du poste**
+
+QUI SOMMES-NOUS ? 
+
+Rejoindre les équipes de VINCI Construction SI, c’est participer à la transformation digitale du Groupe au service des utilisateurs. 
+
+Nos missions sont de moderniser nos outils de gestion, nos applications métiers, améliorer la cybersécurité et nos infrastructures IT. Nous travaillons sur l’adoption de nos outils par les utilisateurs et souhaitons construire le futur numérique (IA, BIM, IOT…).
+
+VOS MISSIONS ET VOS CHALLENGES CHEZ VINCI CONSTRUCTION SI :
+
+Intégré(e) à l’équipe DSI en Allemagne, sous la direction d’Andrea Wienand pour la partie Transformation & Applications, vous rejoindrez une équipe dynamique de 13 personnes pour une mission de 24 mois en V.I.E. Vous serez basé(e) sur notre site allemand « Bauknechtquartier » au campus de VINCI Construction à Bottrop, près de Düsseldorf, après une formation d’environ 6 mois au sein de VINCI Construction SI à Nanterre-Préfecture. 
+
+Vous répondrez à un enjeu essentiel pour le groupe sur la bonne gestion des chantiers, en proposant des solutions IT sur les sujets liés au domaine “Finance and Controlling” :  
+•	Comptabilité générale, comptabilité fournisseur, comptabilité client, trésorerie et immobilisation 
+•	Contrôle de gestion des chantiers et de l’entreprise, processus budgétaire, intégration / suivi des recettes et dépenses, calcul de la rentabilité, clôture mensuelle, etc.  
+
+Vos principales missions sont :
+•	Participer à l’analyse des besoins des utilisateurs et mettre en œuvre les solutions techniques adéquates afin d’enrichir nos processus 
+•	Gérer les interactions avec les autres domaines Logistique, Finance, RH et les applications opérationnelles 
+•	Prendre en charge les activités de support, de maintenance et de formation liées à notre solution auprès des utilisateurs en Allemagne, ainsi qu’à l’international sur des sujets transverses, afin de faciliter son adoption 
+•	Appréhender la maîtrise d’un ERP de type SAP, évaluer l’apprentissage des bonnes pratiques de gestion de projet et se confronter à l’animation des ateliers avec nos clients internes 
+
+Localisation : L’Archipel Campus de VINCI / Nanterre-Préfecture | Bottrop, ALLEMAGNE
+
+Contrat : V.I.E.
+
+Les + : Une activité variée et stimulante | Collaboration à l’internationale | Intégration dans une équipe avec une collaboration d'égal à égal | Une relation de travail à long terme, fondée sur la confiance | Un travail responsable et autonome | Accès à des formations continues personnalisées
+
+POURQUOI NOUS REJOINDRE ?
+
+En rejoignant la direction IT, vous intégrez une équipe dynamique et innovante, qui utilise les technologies les plus récentes pour répondre aux besoins de nos Business Units et de nos clients. Vous bénéficiez d'une proximité avec VINCI Construction SI, qui vous permet de partager vos connaissances et de participer à des projets transverses. Vous contribuez ainsi à la transformation digitale du groupe VINCI Construction.
+
+Nous accordons une importance particulière à l'Expérience Collaborateur, qui est un facteur clé de succès pour notre entreprise. Nous vous proposons un parcours d'intégration personnalisé, un accompagnement individuel et collectif, et des opportunités de formation et de mobilité au sein de VINCI Construction SI et du groupe VINCI. Vous développez vos compétences techniques, linguistiques, managériales et relationnelles, tout en renforçant votre sens de la sécurité et de la responsabilité.
+
+**Profil recherché**
+
+ET SI C’ETAIT VOUS ?
+
+En dernière année de formation Bac+5 (école d’ingénieurs, de commerce, à l’université ou en informatique) ou déjà diplômé avec une ou plusieurs années d’expérience professionnelle, vous avez :
+•	Une capacité à comprendre et synthétiser une problématique, adapter votre langage en fonction de l’interlocuteur et interagir avec nos clients internes 
+•	Une expérience acquise lors d’un stage/projet personnel/projet scolaire sur un sujet IT/Digital en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus 
+•	Des facultés d'expression orale et écrite (français et anglais) : votre écoute vous permettra de travailler en collaboration avec des utilisateurs finaux, le management du groupe VINCI Construction et les autres équipes de la DSI (infrastructures, réseaux, support…) 
+•	Une maîtrise de l’anglais courant 
+•	Une connaissance des bases en allemand 
+
+QUALITÉS HUMAINES ET COMPÉTENCES :
+•	Forte capacité à travailler en équipe, sens du service, curiosité, rigueur, esprit d’analyse et de synthèse, bon relationnel, sens de l’organisation et une culture de résultat 
+•	Une formation axée sur le Contrôle de gestion et/ou BTP et/ou Systèmes d’Information est un plus 
+•	Une 1ère expérience en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus
+•	Dans le cadre de vos missions, vous serez amené à faire des déplacements ponctuels
+
+</details>
+
+<details>
+<summary><strong>Comptable junior (H/F)</strong> · MEOTEC · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** MEOTEC
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 26/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245218](https://mon-vie-via.businessfrance.fr/offres/245218)
+
+**Description du poste**
+
+Comptable Junior – Comptabilité Opérationnelle
+
+📍 Localisation : Belgique
+💼 Type de contrat : VIE
+📅 Début : À définir
+
+À propos du poste
+
+Dans le cadre du renforcement de notre équipe Finance, nous recherchons un Comptable Junior pour rejoindre une équipe opérationnelle.
+
+Vous serez principalement en charge du traitement quotidien des factures et des opérations comptables, tout en assurant la qualité et la fiabilité des données financières.
+
+Nous recherchons avant tout une personne rigoureuse, organisée, structurée et opérationnelle, capable de travailler efficacement dans un environnement dynamique.
+
+Vos responsabilités
+Traiter et encoder les factures fournisseurs.
+Vérifier la conformité des factures avec les commandes et les informations disponibles.
+Assurer le suivi des factures et des éventuelles anomalies.
+Effectuer les rapprochements entre factures, commandes et réceptions.
+Participer au suivi des comptes fournisseurs.
+Effectuer les contrôles et corrections nécessaires dans le système comptable.
+Participer aux clôtures comptables mensuelles.
+Préparer et analyser différents reportings financiers.
+Utiliser Excel pour analyser et consolider les données comptables.
+Collaborer quotidiennement avec les équipes Finance, Achats et les différents interlocuteurs internes.
+Identifier les écarts ou anomalies et assurer leur résolution.
+Contribuer à l'amélioration continue des processus comptables.
+Profil recherché
+
+Nous recherchons une personne :
+
+Très rigoureuse et attentive aux détails.
+Organisée et structurée dans son travail.
+À l'aise avec les tâches opérationnelles et répétitives nécessitant de la précision.
+Capable de respecter des délais et des procédures.
+Proactive et capable d'identifier rapidement les anomalies.
+À l'aise dans la communication avec différents interlocuteurs.
+Dotée d'un bon esprit analytique.
+Capable de travailler de manière autonome tout en appréciant le travail en équipe.
+Compétences techniques
+SAP
+
+Une bonne maîtrise de SAP est indispensable, notamment pour les activités liées au traitement des factures et aux opérations comptables.
+
+Excel
+
+Vous maîtrisez Excel et êtes capable de travailler avec des volumes importants de données.
+
+La maîtrise des fonctionnalités suivantes est attendue :
+
+Tableaux croisés dynamiques (TCD).
+Recherche et extraction de données.
+Filtres et tris avancés.
+Formules Excel courantes.
+Analyse et consolidation de données.
+
+La connaissance d'autres outils de reporting ou ERP constitue un plus.
+
+**Profil recherché**
+
+Formation & expérience
+Diplôme en comptabilité, finance, gestion ou domaine similaire.
+Première expérience en comptabilité opérationnelle appréciée.
+Une expérience en Accounts Payable / Accounts Receivable ou dans le traitement de factures constitue un réel avantage.
+Une première expérience avec SAP est indispensable.
+Une bonne maîtrise d'Excel est attendue.
+Les qualités indispensables
+
+Rigueur – Organisation – Esprit analytique – Réactivité – Autonomie – Esprit d'équipe
+
+Vous aimez les environnements où la précision est essentielle et où vous pouvez rapidement prendre en charge un périmètre opérationnel ? Ce poste est fait pour vous.
+
+</details>
+
+<details>
+<summary><strong>Quality Engineer Life Sciences (H/F)</strong> · AVERTIM FRANCE · AMSTERDAM, PAYS-BAS · 3 395,60 €/mois</summary>
+
+- **Entreprise :** AVERTIM FRANCE
+- **Lieu :** AMSTERDAM, PAYS-BAS
+- **Indemnité :** 3 395,60 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 5 % — Incompatibilité totale entre le profil. Le candidat est un contrôleur de gestion spécialisé en finance et data, tandis que l'offre recherche un ingénieur qualité (Quality Engineer) spécialisé dans le secteur des sciences de la vie et des procédés industriels GMP.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/243004](https://mon-vie-via.businessfrance.fr/offres/243004)
+
+**Description du poste**
+
+Avertim Netherlands is currently looking for Quality Engineers able to assist in the continuous expansion of Avertim’s consulting activities in Life Sciences. Located in Amsterdam-Zuid, Avertim Netherlands is a trusted partner by the largest players in the Life Sciences sector.
+
+
+
+As a Quality Engineer, you will play a key role in ensuring GMP compliance by managing and resolving Non-Conformities (NCs) and driving continuous improvement in quality processes. You will collaborate closely with cross-functional teams to investigate deviations, implement corrective and preventive actions (CAPAs), and uphold regulatory standards.
+
+
+
+Key responsibilities:
+
+Lead the investigation, documentation, and resolution of NCs, ensuring timely and effective CAPA implementation, and manage change controls.
+Perform root cause analyses and risk assessments to prevent recurrence of deviations.
+Ensure compliance with GMP, FDA, EMA, and other regulatory requirements in all quality-related activities.
+Collaborate with production, quality control, and regulatory teams to drive improvements in GMP processes.
+Conduct internal audits and support external regulatory inspections.
+Maintain and improve SOPs, batch records, and other GMP documentation.
+Provide GMP training and guidance to operational teams to enhance compliance awareness.
+
+
+Your background:
+
+A Master’s Degree in Engineering, Pharmacy, Life Sciences or related field
+2 years of experience in Pharmaceuticals, Biotech or Medical Devices.
+Hands-on experience with NC management, CAPA implementation, change controls, and deviation investigations.
+Experience in cell & gene therapy is a plus.
+Planning & organization – Planning & organization plans and organizes own work(load) in an effective way by setting priorities and meeting deadlines;
+Communicating & influencing – Communicates with clarity, speaks and writes clearly and to the point; active listener;
+Proficiency in Lean and Six Sigma methodologies or Project Management
+Fluent in English
+
+
+As an Avertimer, you will get the opportunity to:
+
+Immerse yourself into a young, vibrant, fast-growing team at our modern office, located in the Amsterdam business district, de Zuidas
+Enjoy our events, like team activities and afterworks.
+Develop yourself in a place where individuals and ideas matter, in line with our company values:
+
+
+Be yourself
+
+Trust, ownership and respect
+
+Listen and act
+
+
+
+With offices in Brussels, Paris, Frankfurt and Amsterdam you will benefit from our international community. On top of that, we also support the opportunity to perform projects at multiple locations.
+Access various learning and development opportunities and an interesting career track.
+
+
+About Avertim:
+
+Avertim is a uniquely positioned Management Consulting Group that bridges the gap between Strategy and Operations. Our mission is to translate the strategy of our clients into actionable projects and enable the alignment between Business, Technology and Management. Founded in 2007, and headquartered on Brussels’ famous Louise Avenue, Avertim has grown into a European consultancy group with more than 300 consultants and offices in Belgium, France, Germany, and the Netherlands.
+
+
+
+
+
+Looking for a challenging and exciting new step in your career at a recognised international consultancy firm that works with the top players in the Life Sciences sector?
+
+Apply now!
+
+
+
+
+
+At Avertim, we value talent and mindset. No difference will be made during the recruitment process and applicants will receive consideration for employment whatever their gender, marital status, religion, age, color, sexual orientation, nationality or disability, …
+
+**Profil recherché**
+
+A Quality Engineer is a detail-oriented professional responsible for ensuring that products, processes, and systems consistently meet regulatory requirements, industry standards, and customer expectations. Acting at the intersection of engineering, operations, and compliance, the Quality Engineer drives continuous improvement by identifying risks, resolving quality issues, and implementing robust quality management systems.
+In regulated environments such as Life Sciences, the role is critical in maintaining compliance with standards such as GMP and ISO, supporting audits, and ensuring inspection readiness.
+The Quality Engineer collaborates closely with cross-functional teams (e.g., Operations, QA, QC, Engineering) to analyze deviations, perform root cause analysis, and implement corrective and preventive actions (CAPA). They play a key role in improving product reliability, reducing defects, and enhancing overall operational performance.
 
 </details>
 
@@ -1026,62 +1507,6 @@ Analytical thinking, attention to detail and accuracy, planning and organisation
 </details>
 
 <details>
-<summary><strong>CGO INTERNATIONAL (H/F)</strong> · (GROUPE) ASTEK · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** (GROUPE) ASTEK
-- **Lieu :** MADRID, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 6 mois (Du 1 janv. 2027 au 1 juil. 2027)
-- **Publiée le :** 19/10/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à son expérience solide en contrôle de gestion, son niveau d'anglais et son attrait pour l'Espagne. Le seul léger écart réside dans l'espagnol (niveau B1 demandé comme indispensable) et sa formation universitaire en gestion plutôt qu'en école de commerce ou d'ingénieur.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247231](https://mon-vie-via.businessfrance.fr/offres/247231)
-
-**Description du poste**
-
-Rejoignez-nous et boostez votre carrière !
-
-Nous recrutons un **Contrôleur de Gestion Opérationnel International** pour renforcer notre équipe au siège situé à Madrid. Dans ce rôle stratégique, vous travaillerez en étroite collaboration avec nos équipes locales et internationales pour soutenir la croissance continue du groupe. Vous aurez l'opportunité de déployer des outils de gestion et de contrôle pour plusieurs périmètres internationaux dans un environnement dynamique et en constante évolution.
-
-Votre mission : Contribuer à l’expansion internationale du groupe !
-
-En tant que Contrôleur de Gestion Opérationnel International, vos principales missions seront :
-
-- Participer à l’élaboration des KPIs hebdomadaires pour différents pays et régions.
-- Créer et déployer des tableaux de bord pour mesurer la performance dans de nouveaux marchés internationaux.
-- Rédiger et formaliser des processus opérationnels afin d'optimiser les performances des équipes.
-- Déployer et administrer notre CRM dans de nouveaux périmètres internationaux.
-- Fournir un support, accompagnement et formation aux équipes locales dans différents pays.
-- Réaliser des analyses et contrôles divers sur les performances internationales et proposer des solutions d’amélioration.
-
-Ce que nous offrons :
-
-- Un rôle stratégique, avec une forte exposition internationale.
-- Un environnement innovant et stimulant, au sein d’un groupe en pleine croissance.
-- Des possibilités d’évolution rapide dans un contexte de forte dynamique.
-
-Notre entreprise est un acteur majeur dans son secteur, avec une présence internationale croissante. Nous sommes en forte expansion et recherchons des talents pour accompagner cette croissance.
-
-**Profil recherché**
-
-Votre profil :
-
-- Vous êtes diplômé(e) d’un Bac+5 (école d’ingénieur ou grande école de commerce).
-- Vous disposez d’une expérience en contrôle de gestion opérationnel et êtes passionné(e) par les chiffres et l’analyse de données.
-- Vous avez de solides compétences dans l’élaboration de tableaux de bord, le paramétrage de CRM et la rédaction de processus.
-- Vous êtes rigoureux(se), autonome et capable de gérer plusieurs projets en parallèle.
-- La maîtrise de l’anglais et de l'espagnol est indispensable.
-- Vous êtes dynamique, organisé(e) et avez un sens aigu du service client pour accompagner les équipes opérationnelles.
-
-Votre personnalité :
-
-- Structuré(e) : vous êtes clair et efficace dans vos communications.
-- Organisé(e) : vous savez prioriser et garantir un suivi rigoureux des missions.
-- Proactif(ve) : vous êtes capable de prendre des initiatives et de proposer des solutions pour améliorer les processus.
-- Esprit d’équipe : vous appréciez travailler avec des équipes multiculturelles et internationales.
-
-</details>
-
-<details>
 <summary><strong>AI Portfolio Operations Analyst (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** SANOFI WINTHROP INDUSTRIE
@@ -1987,60 +2412,6 @@ Proactive and results-driven
 </details>
 
 <details>
-<summary><strong>VIE - Chargé de projet Digitalisation Middle Office - Bruxelles (H/F)</strong> · TOTALENERGIES RAFFINAGE CHIMIE · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** TOTALENERGIES RAFFINAGE CHIMIE
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 13/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247003](https://mon-vie-via.businessfrance.fr/offres/247003)
-
-**Description du poste**
-
-Les équipes Supply, Sales et Optimisation ARA (Amsterdam - Rotterdam - Anvers) assurent l’approvisionnement en matières premières et la commercialisation des produits raffinés de la plateforme d’Anvers (Belgique) et de la raffinerie de Zélande (Pays-Bas).
-
-Le Middle Office assure le contrôle des transactions commerciales d’achat et de vente de produits issus des sites de production ARA. Il évalue les risques de prix associés et met en œuvre les instruments de couverture papier appropriés afin de réduire l’exposition à ces risques.
-
-Il conseille également les équipes commerciales dans le choix des modalités de pricing de leurs contrats.
-
-Dans le cadre de sa démarche d’amélioration continue, de simplification et de digitalisation, le Middle Office ARA recherche un V.I.E. pour contribuer à l’optimisation de ses outils et à l’adaptation de ses processus digitaux aux évolutions de ses activités et du marché, notamment grâce au recours potentiel à des agents d’intelligence artificielle.
-
-Vous travaillerez à l’interface des équipes métiers, des équipes de support Outils & IT et du management.
-
-Vos missions
-
-Reporting mensuel et amélioration continue de la gestion des pricings :
-- Contribuer à l’automatisation avancée du processus d’analyse mensuelle des résultats grâce à l’utilisation d’agents d’intelligence artificielle. Ceux-ci permettront de consolider les données issues des différents outils existants, d’en automatiser l’exploitation, d’approfondir certaines analyses — notamment celles portant sur les pricings à cheval sur plusieurs mois — et de produire un reporting managérial clair et directement exploitable.
-
-- Mettre en place une historisation visuelle des types de pricing par book produits et de l’évolution des courbes mensuelles de pricing, puis croiser ces informations avec les données de marché afin d’en faciliter l’analyse et d’identifier des pistes d’amélioration.
-
-Pilotage automatisé et visuel de la mise en œuvre des mandats commerciaux :
-- Concevoir un dispositif de suivi quotidien automatisé permettant de rapprocher les mandats et les contrats commerciaux, d’identifier les conditions de pricing spécifiques et de déclencher des alertes automatiques (pricing rétroactif, pricing en M+1, écarts de quantités), afin de faciliter les autocontrôles. Développer une restitution visuelle, notamment sous Power BI.
-
-- Pilotage automatisé et visuel de l’exécution opérationnelle des contrats commerciaux et du positionnement des pricings flottants : développer des KPI portant sur les flux logistiques et les contrats afin de faciliter les autocontrôles. Mettre en place un reporting dédié aux flux dont le pricing débute en J+1 et identifier les contrats ou nominations reportés au mois suivant.
-
-Formation et bonnes pratiques du Middle Office : participer à l’animation des formations du Middle Office, actualiser les supports et promouvoir l’utilisation des nouveaux outils digitaux développés pour accompagner les équipes opérationnelles et commerciales.
-
-Évolution des outils corporate (SAP, COBRISK,...) : recueillir et suivre les besoins d’évolution des outils digitaux utilisés par le Middle Office, en coordination avec les équipes de support métier et IT, et contribuer aux tests utilisateurs.
-
-**Profil recherché**
-
-Vous êtes diplomé/e d'un Bac+5 en Finance, Business, Supply Chain, Data ou Systèmes d'Informations, et vous faites preuve d'une très bonne maîtrise d'Excel et d'une première expérience de Power BI.
-
-Vous faites preuve de connaissance ou d'un fort intérêt pour les agents IA appliqués au traitement de données.
-
-Votre connaissance de Power Query, SQL ou Power Automate est un plus.
-
-Rigoureux et doté d’un bon esprit d’analyse, vous avez le réflexe du contrôle et savez structurer, documenter et présenter vos analyses. 
-
-Autonome, curieux et force de proposition, vous appréciez le travail en équipe et savez créer des relations de confiance avec vos interlocuteurs.
-
-Vous maitrisez le français et l'anglais (B2 minimum).
-
-</details>
-
-<details>
 <summary><strong>Analyste financier (H/F)</strong> · SAFRAN HELICOPTER ENGINES · MIRABEL -QC, CANADA · 2 649,28 €/mois</summary>
 
 - **Entreprise :** SAFRAN HELICOPTER ENGINES
@@ -2088,69 +2459,6 @@ Le profil que nous recherchons :
 • Esprit d'équipe et aptitude à collaborer efficacement avec différents intervenants,
 • Bonne capacité d'analyse et de synthèse,
 • Orientation service à la clientèle.
-
-</details>
-
-<details>
-<summary><strong>ANALYSTE FONCTIONNEL SI CONTROLLING (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** VINCI CONSTRUCTION SI
-- **Lieu :** BOTTROP, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 13/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245657](https://mon-vie-via.businessfrance.fr/offres/245657)
-
-**Description du poste**
-
-QUI SOMMES-NOUS ? 
-
-Rejoindre les équipes de VINCI Construction SI, c’est participer à la transformation digitale du Groupe au service des utilisateurs. 
-
-Nos missions sont de moderniser nos outils de gestion, nos applications métiers, améliorer la cybersécurité et nos infrastructures IT. Nous travaillons sur l’adoption de nos outils par les utilisateurs et souhaitons construire le futur numérique (IA, BIM, IOT…).
-
-VOS MISSIONS ET VOS CHALLENGES CHEZ VINCI CONSTRUCTION SI :
-
-Intégré(e) à l’équipe DSI en Allemagne, sous la direction d’Andrea Wienand pour la partie Transformation & Applications, vous rejoindrez une équipe dynamique de 13 personnes pour une mission de 24 mois en V.I.E. Vous serez basé(e) sur notre site allemand « Bauknechtquartier » au campus de VINCI Construction à Bottrop, près de Düsseldorf, après une formation d’environ 6 mois au sein de VINCI Construction SI à Nanterre-Préfecture. 
-
-Vous répondrez à un enjeu essentiel pour le groupe sur la bonne gestion des chantiers, en proposant des solutions IT sur les sujets liés au domaine “Finance and Controlling” :  
-•	Comptabilité générale, comptabilité fournisseur, comptabilité client, trésorerie et immobilisation 
-•	Contrôle de gestion des chantiers et de l’entreprise, processus budgétaire, intégration / suivi des recettes et dépenses, calcul de la rentabilité, clôture mensuelle, etc.  
-
-Vos principales missions sont :
-•	Participer à l’analyse des besoins des utilisateurs et mettre en œuvre les solutions techniques adéquates afin d’enrichir nos processus 
-•	Gérer les interactions avec les autres domaines Logistique, Finance, RH et les applications opérationnelles 
-•	Prendre en charge les activités de support, de maintenance et de formation liées à notre solution auprès des utilisateurs en Allemagne, ainsi qu’à l’international sur des sujets transverses, afin de faciliter son adoption 
-•	Appréhender la maîtrise d’un ERP de type SAP, évaluer l’apprentissage des bonnes pratiques de gestion de projet et se confronter à l’animation des ateliers avec nos clients internes 
-
-Localisation : L’Archipel Campus de VINCI / Nanterre-Préfecture | Bottrop, ALLEMAGNE
-
-Contrat : V.I.E.
-
-Les + : Une activité variée et stimulante | Collaboration à l’internationale | Intégration dans une équipe avec une collaboration d'égal à égal | Une relation de travail à long terme, fondée sur la confiance | Un travail responsable et autonome | Accès à des formations continues personnalisées
-
-POURQUOI NOUS REJOINDRE ?
-
-En rejoignant la direction IT, vous intégrez une équipe dynamique et innovante, qui utilise les technologies les plus récentes pour répondre aux besoins de nos Business Units et de nos clients. Vous bénéficiez d'une proximité avec VINCI Construction SI, qui vous permet de partager vos connaissances et de participer à des projets transverses. Vous contribuez ainsi à la transformation digitale du groupe VINCI Construction.
-
-Nous accordons une importance particulière à l'Expérience Collaborateur, qui est un facteur clé de succès pour notre entreprise. Nous vous proposons un parcours d'intégration personnalisé, un accompagnement individuel et collectif, et des opportunités de formation et de mobilité au sein de VINCI Construction SI et du groupe VINCI. Vous développez vos compétences techniques, linguistiques, managériales et relationnelles, tout en renforçant votre sens de la sécurité et de la responsabilité.
-
-**Profil recherché**
-
-ET SI C’ETAIT VOUS ?
-
-En dernière année de formation Bac+5 (école d’ingénieurs, de commerce, à l’université ou en informatique) ou déjà diplômé avec une ou plusieurs années d’expérience professionnelle, vous avez :
-•	Une capacité à comprendre et synthétiser une problématique, adapter votre langage en fonction de l’interlocuteur et interagir avec nos clients internes 
-•	Une expérience acquise lors d’un stage/projet personnel/projet scolaire sur un sujet IT/Digital en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus 
-•	Des facultés d'expression orale et écrite (français et anglais) : votre écoute vous permettra de travailler en collaboration avec des utilisateurs finaux, le management du groupe VINCI Construction et les autres équipes de la DSI (infrastructures, réseaux, support…) 
-•	Une maîtrise de l’anglais courant 
-•	Une connaissance des bases en allemand 
-
-QUALITÉS HUMAINES ET COMPÉTENCES :
-•	Forte capacité à travailler en équipe, sens du service, curiosité, rigueur, esprit d’analyse et de synthèse, bon relationnel, sens de l’organisation et une culture de résultat 
-•	Une formation axée sur le Contrôle de gestion et/ou BTP et/ou Systèmes d’Information est un plus 
-•	Une 1ère expérience en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus
-•	Dans le cadre de vos missions, vous serez amené à faire des déplacements ponctuels
 
 </details>
 
@@ -3326,140 +3634,6 @@ Vous êtes la personne idéale si vous avez ces compétences…
 </details>
 
 <details>
-<summary><strong>Comptable junior (H/F)</strong> · MEOTEC · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** MEOTEC
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 02/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245218](https://mon-vie-via.businessfrance.fr/offres/245218)
-
-**Description du poste**
-
-Comptable Junior – Comptabilité Opérationnelle
-
-📍 Localisation : Belgique
-💼 Type de contrat : VIE
-📅 Début : À définir
-
-À propos du poste
-
-Dans le cadre du renforcement de notre équipe Finance, nous recherchons un Comptable Junior pour rejoindre une équipe opérationnelle.
-
-Vous serez principalement en charge du traitement quotidien des factures et des opérations comptables, tout en assurant la qualité et la fiabilité des données financières.
-
-Nous recherchons avant tout une personne rigoureuse, organisée, structurée et opérationnelle, capable de travailler efficacement dans un environnement dynamique.
-
-Vos responsabilités
-Traiter et encoder les factures fournisseurs.
-Vérifier la conformité des factures avec les commandes et les informations disponibles.
-Assurer le suivi des factures et des éventuelles anomalies.
-Effectuer les rapprochements entre factures, commandes et réceptions.
-Participer au suivi des comptes fournisseurs.
-Effectuer les contrôles et corrections nécessaires dans le système comptable.
-Participer aux clôtures comptables mensuelles.
-Préparer et analyser différents reportings financiers.
-Utiliser Excel pour analyser et consolider les données comptables.
-Collaborer quotidiennement avec les équipes Finance, Achats et les différents interlocuteurs internes.
-Identifier les écarts ou anomalies et assurer leur résolution.
-Contribuer à l'amélioration continue des processus comptables.
-Profil recherché
-
-Nous recherchons une personne :
-
-Très rigoureuse et attentive aux détails.
-Organisée et structurée dans son travail.
-À l'aise avec les tâches opérationnelles et répétitives nécessitant de la précision.
-Capable de respecter des délais et des procédures.
-Proactive et capable d'identifier rapidement les anomalies.
-À l'aise dans la communication avec différents interlocuteurs.
-Dotée d'un bon esprit analytique.
-Capable de travailler de manière autonome tout en appréciant le travail en équipe.
-Compétences techniques
-SAP
-
-Une bonne maîtrise de SAP est indispensable, notamment pour les activités liées au traitement des factures et aux opérations comptables.
-
-Excel
-
-Vous maîtrisez Excel et êtes capable de travailler avec des volumes importants de données.
-
-La maîtrise des fonctionnalités suivantes est attendue :
-
-Tableaux croisés dynamiques (TCD).
-Recherche et extraction de données.
-Filtres et tris avancés.
-Formules Excel courantes.
-Analyse et consolidation de données.
-
-La connaissance d'autres outils de reporting ou ERP constitue un plus.
-
-**Profil recherché**
-
-Formation & expérience
-Diplôme en comptabilité, finance, gestion ou domaine similaire.
-Première expérience en comptabilité opérationnelle appréciée.
-Une expérience en Accounts Payable / Accounts Receivable ou dans le traitement de factures constitue un réel avantage.
-Une première expérience avec SAP est indispensable.
-Une bonne maîtrise d'Excel est attendue.
-Les qualités indispensables
-
-Rigueur – Organisation – Esprit analytique – Réactivité – Autonomie – Esprit d'équipe
-
-Vous aimez les environnements où la précision est essentielle et où vous pouvez rapidement prendre en charge un périmètre opérationnel ? Ce poste est fait pour vous.
-
-</details>
-
-<details>
-<summary><strong>Junior Outsourcing Manager (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** CA CONSUMER FINANCE
-- **Lieu :** STUTTGART, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 02/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier (budgets, reporting, rentabilité), alors que l'offre est spécialisée dans la gestion des activités d'externalisation, des risques réglementaires et de la gouvernance. Néanmoins, sa formation en finance et son niveau d'anglais constituent des points de correspondance avec les prérequis de l'offre.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244111](https://mon-vie-via.businessfrance.fr/offres/244111)
-
-**Description du poste**
-
-With over 60 years of experience, Creditplus is a well-established player in the German consumer credit market. It offers flexible financing solutions distributed through its 20 branches, its digital platform, and a large network of commercial partners. The company is particularly renowned for its expertise in automotive and two-wheeler financing, a segment in which it is the market leader in Germany.
-
-JOB PURPOSE : 
-The VIE will support the management of outsourcing activities within the entity, ensuring compliance with Group policies and regulatory requirements.
-
-RESPONSIBILITIES :
-•	Support that Outsourcing governance are applied throughout the entity
-•	Support the management of outsourcing arrangements across the Outsourcing full lifecycle (from risk assessment and contracting to monitoring and exit of Outsourcing arrangements)
-•	Contribute to the identification and monitoring of outsourcing risks, including critical services
-•	Maintain and improve data quality and completeness in the outsourcing register and DORA information register
-•	Support preparation of governance committees, reporting and audit documentation
-•	Assist on reports on first level controls and follow-up actions
-•	Coordinate with internal stakeholders (business lines, risk, compliance, procurement)
-•	Monitor remediation activities
-•	Contribute to regulatory topics such as outsourcing reporting and IMAS notifications
-
-**Profil recherché**
-
-EXPECTED PROFILE 
-EDUCATIONAL BACKGROUND	
-•	Master’s degree in business administration, Finance, Risk, Data Management or related field
-
-KNOW-HOW (EXPERIENCE AND TEHNICAL SKILLS, LANGUAGES)	•	First professional experience in banking, consulting, risk or outsourcing-related roles 
-•	Good understanding of data structures and data handling 
-•	Strong interest in regulatory and governance topics 
-•	Fluent English (mandatory) 
-•	Basic German is sufficient (no fluency required)
-SOFT SKILLS	•	Strong analytical and structured thinking 
-•	High attention to detail and reliability (audit relevance) 
-•	Ability to work across teams and functions 
-•	Proactive mindset and ownership 
-•	Clear and professional communication skills
-
-</details>
-
-<details>
 <summary><strong>Junior IT-Risk/IAM-Manager (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 027,63 €/mois</summary>
 
 - **Entreprise :** CA CONSUMER FINANCE
@@ -3629,40 +3803,6 @@ Efficient process management skills, based on a highly organised and structured 
 Ambitious, humble, and team-oriented mindset with a hands-on attitude and the ability to work independently and collaboratively in a fast-paced, entrepreneurial environment.
 Strong academic background in finance, economics, business administration, or a related field.
 Fluent in English (both written and spoken).
-
-</details>
-
-<details>
-<summary><strong>Business Operations (H/F)</strong> · LIM FRANCE · WELLINGTON   -FL-, ETATS-UNIS · 4 268,89 €/mois</summary>
-
-- **Entreprise :** LIM FRANCE
-- **Lieu :** WELLINGTON   -FL-, ETATS-UNIS
-- **Indemnité :** 4 268,89 €/mois
-- **Durée de la mission :** 18 mois (Du 1 déc. 2026 au 1 juin 2028)
-- **Publiée le :** 01/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246402](https://mon-vie-via.businessfrance.fr/offres/246402)
-
-**Description du poste**
-
--Support the development and structuring of the company’s U.S. operations through improved financial, administrative, and operational processes.
--Contribute to cost optimization initiatives related to procurement, travel, transportation, and logistics activities.
--Strengthen administrative compliance and coordination with external partners, including banks, insurance providers, accountants, and logistics service providers.
--Participate in the standardization and digitalization of internal processes to improve efficiency and scalability.
--Develop and enhance reporting tools, dashboards, and KPIs to support business monitoring and decision-making.
--Assist in implementing process improvement projects that support the company’s growth and operational performance in the U.S. market.
-
-**Profil recherché**
-
-•Strong analytical, organizational, and problem-solving skills. 
-• Excellent communication and interpersonal abilities. 
-• Advanced proficiency in Microsoft Excel and business reporting tools. 
-• Experience with ERP systems, BI tools, and business process automation initiatives is highly desirable. 
-• Ability to manage multiple priorities in a fast-paced and entrepreneurial  environment.
-
-- Bachelor's degree in Business Administration, Finance, Accounting, Supply 
-Chain, Operations Management, or a related field. 
--Experience in business operations, finance, administration, controlling, or supply 
-chain management is a plus
 
 </details>
 
@@ -4059,95 +4199,6 @@ Soft skills:
 •	We imagine you: proactive, energetic, highly motivated, hard-worker, adventurous and rigorous
 •	Flexibility in work and multi-tasking abilities
 •	Fluent written and verbal English skills
-
-</details>
-
-<details>
-<summary><strong>Quality Engineer Life Sciences (H/F)</strong> · AVERTIM FRANCE · AMSTERDAM, PAYS-BAS · 3 395,60 €/mois</summary>
-
-- **Entreprise :** AVERTIM FRANCE
-- **Lieu :** AMSTERDAM, PAYS-BAS
-- **Indemnité :** 3 395,60 €/mois
-- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
-- **Publiée le :** 29/09/2026
-- **Compatibilité avec ton profil :** 5 % — Incompatibilité totale entre le profil. Le candidat est un contrôleur de gestion spécialisé en finance et data, tandis que l'offre recherche un ingénieur qualité (Quality Engineer) spécialisé dans le secteur des sciences de la vie et des procédés industriels GMP.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/243004](https://mon-vie-via.businessfrance.fr/offres/243004)
-
-**Description du poste**
-
-Avertim Netherlands is currently looking for Quality Engineers able to assist in the continuous expansion of Avertim’s consulting activities in Life Sciences. Located in Amsterdam-Zuid, Avertim Netherlands is a trusted partner by the largest players in the Life Sciences sector.
-
-
-
-As a Quality Engineer, you will play a key role in ensuring GMP compliance by managing and resolving Non-Conformities (NCs) and driving continuous improvement in quality processes. You will collaborate closely with cross-functional teams to investigate deviations, implement corrective and preventive actions (CAPAs), and uphold regulatory standards.
-
-
-
-Key responsibilities:
-
-Lead the investigation, documentation, and resolution of NCs, ensuring timely and effective CAPA implementation, and manage change controls.
-Perform root cause analyses and risk assessments to prevent recurrence of deviations.
-Ensure compliance with GMP, FDA, EMA, and other regulatory requirements in all quality-related activities.
-Collaborate with production, quality control, and regulatory teams to drive improvements in GMP processes.
-Conduct internal audits and support external regulatory inspections.
-Maintain and improve SOPs, batch records, and other GMP documentation.
-Provide GMP training and guidance to operational teams to enhance compliance awareness.
-
-
-Your background:
-
-A Master’s Degree in Engineering, Pharmacy, Life Sciences or related field
-2 years of experience in Pharmaceuticals, Biotech or Medical Devices.
-Hands-on experience with NC management, CAPA implementation, change controls, and deviation investigations.
-Experience in cell & gene therapy is a plus.
-Planning & organization – Planning & organization plans and organizes own work(load) in an effective way by setting priorities and meeting deadlines;
-Communicating & influencing – Communicates with clarity, speaks and writes clearly and to the point; active listener;
-Proficiency in Lean and Six Sigma methodologies or Project Management
-Fluent in English
-
-
-As an Avertimer, you will get the opportunity to:
-
-Immerse yourself into a young, vibrant, fast-growing team at our modern office, located in the Amsterdam business district, de Zuidas
-Enjoy our events, like team activities and afterworks.
-Develop yourself in a place where individuals and ideas matter, in line with our company values:
-
-
-Be yourself
-
-Trust, ownership and respect
-
-Listen and act
-
-
-
-With offices in Brussels, Paris, Frankfurt and Amsterdam you will benefit from our international community. On top of that, we also support the opportunity to perform projects at multiple locations.
-Access various learning and development opportunities and an interesting career track.
-
-
-About Avertim:
-
-Avertim is a uniquely positioned Management Consulting Group that bridges the gap between Strategy and Operations. Our mission is to translate the strategy of our clients into actionable projects and enable the alignment between Business, Technology and Management. Founded in 2007, and headquartered on Brussels’ famous Louise Avenue, Avertim has grown into a European consultancy group with more than 300 consultants and offices in Belgium, France, Germany, and the Netherlands.
-
-
-
-
-
-Looking for a challenging and exciting new step in your career at a recognised international consultancy firm that works with the top players in the Life Sciences sector?
-
-Apply now!
-
-
-
-
-
-At Avertim, we value talent and mindset. No difference will be made during the recruitment process and applicants will receive consideration for employment whatever their gender, marital status, religion, age, color, sexual orientation, nationality or disability, …
-
-**Profil recherché**
-
-A Quality Engineer is a detail-oriented professional responsible for ensuring that products, processes, and systems consistently meet regulatory requirements, industry standards, and customer expectations. Acting at the intersection of engineering, operations, and compliance, the Quality Engineer drives continuous improvement by identifying risks, resolving quality issues, and implementing robust quality management systems.
-In regulated environments such as Life Sciences, the role is critical in maintaining compliance with standards such as GMP and ISO, supporting audits, and ensuring inspection readiness.
-The Quality Engineer collaborates closely with cross-functional teams (e.g., Operations, QA, QC, Engineering) to analyze deviations, perform root cause analysis, and implement corrective and preventive actions (CAPA). They play a key role in improving product reliability, reducing defects, and enhancing overall operational performance.
 
 </details>
 

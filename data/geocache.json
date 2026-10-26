@@ -526,5 +526,17 @@
   "ville|esbjerg|danemark": {
     "lat": 55.4664892,
     "lon": 8.4520751
-  }
+  },
+  "entreprise|technip energies france|doha|qatar": null,
+  "ville|doha|qatar": {
+    "lat": 25.3108807,
+    "lon": 51.5081812
+  },
+  "entreprise|ca consumer finance|madrid|espagne": null,
+  "entreprise|lynxeo france|limito di pioltello|italie": null,
+  "ville|limito di pioltello|italie": {
+    "lat": 45.4827633,
+    "lon": 9.3272817
+  },
+  "entreprise|prodeva|bruxelles|belgique": null
 }
