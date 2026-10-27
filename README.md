@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/10/2026 21:32:02**, 75 offre(s) actuellement en ligne.
+Dernière vérification : **28/10/2026 00:57:35**, 74 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -819,66 +819,6 @@ At Avertim, we value talent and mindset. No difference will be made during the r
 A Quality Engineer is a detail-oriented professional responsible for ensuring that products, processes, and systems consistently meet regulatory requirements, industry standards, and customer expectations. Acting at the intersection of engineering, operations, and compliance, the Quality Engineer drives continuous improvement by identifying risks, resolving quality issues, and implementing robust quality management systems.
 In regulated environments such as Life Sciences, the role is critical in maintaining compliance with standards such as GMP and ISO, supporting audits, and ensuring inspection readiness.
 The Quality Engineer collaborates closely with cross-functional teams (e.g., Operations, QA, QC, Engineering) to analyze deviations, perform root cause analysis, and implement corrective and preventive actions (CAPA). They play a key role in improving product reliability, reducing defects, and enhancing overall operational performance.
-
-</details>
-
-<details>
-<summary><strong>Junior Financial Analyst (H/F)</strong> · PLANISWARE · SAN FRANCISCO -CA-, ETATS-UNIS · 5 151,29 €/mois</summary>
-
-- **Entreprise :** PLANISWARE
-- **Lieu :** SAN FRANCISCO -CA-, ETATS-UNIS
-- **Indemnité :** 5 151,29 €/mois
-- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
-- **Publiée le :** 23/10/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes avec ses 2 ans d'expérience en contrôle de gestion, ses compétences avancées sur Excel et son niveau d'anglais courant (TOEIC 925). Le seul léger écart réside dans sa préférence pour l'Espagne, bien que son ouverture à l'international et son profil technique comblent largement ce point.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247400](https://mon-vie-via.businessfrance.fr/offres/247400)
-
-**Description du poste**
-
-Join Planisware, the editor of the leading software solution for Project and Portfolio Management (PPM) for Product Development. 
-
-Planisware is a global provider of software solutions for project portfolio management. Planisware solutions are specifically designed to support product development, engineering, and IT business processes. For more than 25 years, Planisware has been helping its customers to achieve strategic and innovative excellence, make valid business decisions, and increase portfolio value. Today, over 1,000 companies worldwide rely on Planisware products to manage their projects, resources, and portfolios.
-
-The role: As a Junior Financial Analyst, you will support Planisware North America's Finance team in financial reporting, forecasting, revenue operations, expense management, and finance systems initiatives. This role is ideal for a candidate who is analytical, detail-oriented, and eager to gain broad exposure to finance, business operations, and process improvement within a growing international software company. You will work closely with teams across Finance, Sales, HR, Revenue Operations, and Operations to support data-driven decision-making and operational excellence.
-
-Key Responsibilities:
-
-Financial Reporting & Analysis
-• Prepare and maintain financial reports and KPIs.
-• Assist with budgeting, forecasting, and variance analysis.
-• Analyze revenue, expenses, and key business metrics to identify trends and insights.
-• Support management reporting and ad hoc financial analyses.
-• Revenue Operations & Finance Support
-• Support revenue operations and incentive compensation processes through reporting, data validation, and reconciliation activities.
-• Assist in maintaining accurate data across CRM, payroll, and financial systems.
-• Support cross-functional initiatives involving Sales, HR, Finance, and Operations teams.
-• Contribute to process improvement initiatives supporting commercial and finance operations.
-
-Expense Management & Financial Operations
-• Monitor employee travel and business expenses and support compliance with company policies.
-• Analyze spending trends and assist with cost control initiatives.
-• Support month-end, quarter-end, and year-end close activities.
-• Assist with operational reporting and other recurring finance processes.
-
-Business Systems & Process Improvement
-• Assist with projects including financial system implementations and enhancements through data validation, testing, and process documentation.
-• Help improve data quality, reporting consistency, and process efficiency.
-• Contribute to reporting automation and continuous improvement initiatives.
-
-**Profil recherché**
-
-Qualifications
-• Bachelor's degree in Finance, Accounting, Economics, Business, or a related field.
-•  1-2 years of experience in FP&A, accounting, or a related field.
-•  Experience supporting system implementations, system migrations, or business process improvement projects.
-•  Strong Excel skills, including pivot tables, lookups, and data analysis.
-•  High attention to detail and strong analytical problem-solving abilities.
-•  Excellent organizational and communication skills.
-•  Ability to manage multiple priorities and meet deadlines.
-•  Curious, proactive, and eager to learn.
-
-To apply: 
-Before applying, be sure to check the eligibility requirements for this destination: http://www.civiweb.com/FR/le-volontariat-international/conditions-du-VIE.aspx . The visa required for such a VIE position is subject to specific conditions of training and/or professional experience. When applying, please make sure to submit the English version of both your resume and cover letter. As all communications will be in English, your application email should be written in English as well.
 
 </details>
 
