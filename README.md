@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **26/10/2026 21:31:10**, 75 offre(s) actuellement en ligne.
+Dernière vérification : **27/10/2026 01:02:56**, 74 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4389,85 +4389,5 @@ Fluent in English
 Who are we looking for?
 
 We are looking for curious, ambitious, and business-minded finance talents who are eager to learn, challenge themselves, and make an impact.  If you are passionate about finance, operations, and partnering with the business to drive performance, this program offers an exceptional opportunity to launch your career and become one of our future finance leaders.
-
-</details>
-
-<details>
-<summary><strong>Comptable Général Senior – Finance Internationale (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** SIBELCO FRANCE
-- **Lieu :** BILBAO, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 12 mois (Du 1 oct. 2026 au 1 oct. 2027)
-- **Publiée le :** 28/07/2026
-- **Compatibilité avec ton profil :** 55 % — Le lieu (Bilbao), le statut VIE et la maîtrise des langues (anglais et espagnol) correspondent très bien aux recherches du candidat. Toutefois, il existe un écart important de métier : l'offre exige une expertise poussée en comptabilité générale française (PCG, écritures d'inventaire, TVA, ERP), alors que Nathan a un profil orienté contrôle de gestion et FP&A.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244192](https://mon-vie-via.businessfrance.fr/offres/244192)
-
-**Description du poste**
-
-Rattaché(e) à la Direction Financière et en étroite collaboration avec les équipes locales et internationales, le/la candidat(e) sera responsable de la gestion et de la fiabilité de la comptabilité générale, en conformité avec les normes françaises.
-Gestion de la comptabilité générale
-•	Assurer la tenue de la comptabilité générale dans le respect des normes comptables en vigueur (Plan Comptable Général)
-•	Enregistrer et contrôler l’ensemble des écritures comptables (achats, ventes, banques, opérations diverses)
-•	Garantir la correcte imputation comptable et analytique
-•	Assurer le suivi et la réconciliation des comptes (banques, intercompagnies, comptes de bilan et de résultat)
-•	Gérer les immobilisations (suivi, amortissements, mises au rebut)
-Participation aux clôtures comptables
-•	Contribuer aux clôtures mensuelles, trimestrielles et annuelles
-•	Préparer et passer les écritures d’inventaire (FNP, CCA, provisions, charges à payer, produits à recevoir)
-•	Justifier les comptes et préparer les dossiers de révision
-•	Participer à l’élaboration des états financiers
-•	Analyser les écarts et contribuer à la fiabilité du reporting
- Fiscalité et conformité
-•	Assurer le respect des obligations fiscales (TVA, déclarations périodiques)
-•	Préparer les éléments nécessaires aux déclarations fiscales
-•	Veiller à la conformité des pratiques comptables aux normes françaises et aux règles internes du groupe
-•	Contribuer aux audits internes et externes
- Gestion des flux intercos et coordination
-•	Suivre et réconcilier les opérations intercompagnies
-•	Collaborer avec les entités du groupe pour assurer la cohérence des données financières
-•	Participer aux échanges avec les équipes basées en France et à l’international
- Amélioration des processus et projets
-•	Participer à l’optimisation des procédures comptables
-•	Contribuer à la fiabilisation et à l’automatisation des processus
-•	Participer aux projets de transformation des outils (ERP, digitalisation)
-•	Mettre en place des bonnes pratiques et accompagner leur déploiement
- Reporting et analyse
-•	Produire et fiabiliser les informations financières
-•	Participer à la production de reportings mensuels
-•	Analyser les données comptables et proposer des axes d’amélioration
-•	Contribuer à la mise en place de tableaux de bord
-
-**Profil recherché**
-
-Nous recherchons un(e) candidat(e) disposant de solides compétences en comptabilité générale, capable d’évoluer dans un environnement international et d’assurer la fiabilité des données financières conformément aux normes françaises.
- Formation
-•	Diplôme Bac+3 à Bac+5 en comptabilité, finance ou gestion
-(DCG, DSCG, Master CCA, école de commerce ou équivalent)
-•	Une spécialisation en comptabilité ou audit est fortement appréciée
- Expérience
-•	Une première expérience significative (2 à 5 ans) en comptabilité générale
-•	Expérience impérative en comptabilité française (Plan Comptable Général)
-•	Une expérience en environnement international ou multi-entités est un plus
-•	Une expérience en cabinet d’expertise comptable ou audit est appréciée
-Compétences techniques
-•	Excellente maîtrise des principes de la comptabilité générale (PCG)
-•	Bonne connaissance des écritures de clôtures (FNP, CCA, provisions, etc.)
-•	Connaissances en fiscalité française (TVA notamment)
-•	Maîtrise d’Excel (TCD, formules avancées)
-•	Expérience avec un ERP (SAP, Oracle, Sage ou équivalent)
-•	Bonne compréhension des flux financiers (intercos, immobilisations, banques)
- Compétences linguistiques
-•	Français : courant (indispensable)
-•	Anglais : niveau professionnel (obligatoire)
-•	Espagnol : apprécié
-Qualités personnelles
-•	Rigueur et sens de l’organisation
-•	Forte capacité d’analyse et esprit critique
-•	Autonomie et sens des responsabilités
-•	Respect des délais et gestion des priorités
-•	Esprit d’équipe et bon relationnel
-•	Capacité d’adaptation dans un environnement international et multiculturel
-•	Proactivité et force de proposition
 
 </details>
