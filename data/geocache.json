@@ -539,5 +539,11 @@
     "lon": 9.3272817
   },
   "entreprise|prodeva|bruxelles|belgique": null,
-  "entreprise|ca consumer finance|dublin|irlande": null
+  "entreprise|ca consumer finance|dublin|irlande": null,
+  "entreprise|amundi asset management|sant cugat del valles|espagne": null,
+  "ville|sant cugat del valles|espagne": {
+    "lat": 41.4707933,
+    "lon": 2.0848815
+  },
+  "entreprise|kyka group|moka|maurice": null
 }

@@ -8,11 +8,102 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/10/2026 11:37:49**, 74 offre(s) actuellement en ligne.
+Dernière vérification : **27/10/2026 17:00:28**, 76 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE - Operations Transformation & AI Support Analyst (H/F)</strong> · AMUNDI ASSET MANAGEMENT · SANT CUGAT DEL VALLES, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** AMUNDI ASSET MANAGEMENT
+- **Lieu :** SANT CUGAT DEL VALLES, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 27/10/2026
+- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion traditionnel et la finance d'entreprise (Master en cours, expérience en PME), tandis que l'offre de VIE chez Amundi recherche un profil aux compétences techniques marquées en IA, transformation opérationnelle, développement et gestion de projets digitaux. Malgré la bonne localisation en Espagne et la maîtrise des chiffres, l'écart sur le plan technologique et informatique est important.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247559](https://mon-vie-via.businessfrance.fr/offres/247559)
+
+**Description du poste**
+
+We are looking for a VIE to join the OST department at Sabadell Asset Management to support the Operational and technological model transformation of SabAM.
+
+The main mission of the VIE will be to support the transformation of operational and technological current model  by combining technical, functional and demand-management skills, helping to implement a more efficient, digital and data-driven operating model.
+
+**Profil recherché**
+
+University degree, preferably in one of the following areas: •	Computer Engineering / Telecommunications Engineering   •	Mathematics / Statistics / Data Science  •	Business Administration / Economics / Finance with a strong technological orientation •	Equivalent qualification with a strong technical  component.
+Previous experience will be valued, even if only through internships, in any of the following areas: •	Process automation •	Python and/or Java development • Data processing and SQL / PL-SQL queries • Participation in AI-related projects • Functional or technical support in investment, funds or operational environments  • Use of tools such as JIRA and documentation platforms such as Confluence • Experience in transformation, process improvement or digitalization projects will be especially valued.
+Functional business knowledge: •	Knowledge of the investment funds business • Understanding of operational  processes on Asset Management industry • Ability to interpret functional and operational requirements 
+Demand management and support: •	User request management • Handling of JIRA ticketing systems • Follow-up of incidents, tasks and requirements • Documentation and collaboration • Updating and maintaining team information in Confluence • Strong documentation, synthesis and structuring skills 
+Personal competencies: • Analytical and problem-solving skills •	Proactivity and results orientation • Fast learner • Accuracy and attention to detail •	Teamwork and good communication • Ability to adapt to a changing environment
+
+</details>
+
+<details>
+<summary><strong>FP&A Analyst (H/F)</strong> · KYKA GROUP · MOKA, MAURICE · 1 879,79 €/mois</summary>
+
+- **Entreprise :** KYKA GROUP
+- **Lieu :** MOKA, MAURICE
+- **Indemnité :** 1 879,79 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 27/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil correspond parfaitement aux attentes avec un Master en contrôle de gestion, 2 ans d'expérience solide en multi-entités, un excellent niveau d'anglais et une maîtrise des outils de modélisation et de reporting (Excel/Power BI). Seul léger écart, le secteur immobilier de l'offre diffère de son expérience précédente, mais ses compétences en FP&A et en analyse de rentabilité compensent largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247493](https://mon-vie-via.businessfrance.fr/offres/247493)
+
+**Description du poste**
+
+Vous êtes le moteur analytique de la Direction Financière : construire, maintenir et challenger les modèles de prévision multi-entités du groupe sur un horizon 12-24 mois, et transformer les données financières en insights décisionnels pour la Direction Générale.
+
+Forecasting & Modélisation
+- Construire et piloter le modèle de forecast intégré groupe (P&L, cash-flow, bilan) sur horizon 12-24 mois
+- Structurer les schémas de projection par entité et par activité (Marchand de biens, travaux, architecture, conciergerie, etc.) avec granularité projet / agrégat
+- Modéliser les opérations de marchand de biens : plan de financement, courbe de décaissement, simulations de TRI et de marge nette
+- Produire des analyses de sensibilité et des scénarios (base / optimiste / stress) pour chaque horizon de décision
+- Mettre en place et faire évoluer le processus budgétaire annuel et les reforecasts trimestriels
+
+Reporting & Analyse
+- Concevoir le tableau de bord mensuel Groupe (KPIs opérationnels + financiers) à destination du COMEX
+- Assurer, en lien avec le contrôle de gestion, le suivi des écarts budget / réel avec analyse de causes racines et recommandations correctrices
+-Alimenter et challenger la vision cash-flow en lien avec le cash manager
+- Structurer les reportings ad hoc pour les banques, investisseurs ou partenaires stratégiques
+
+Systèmes & Data
+- Structurer et automatiser les flux de données entre les outils comptables, CRM et les modèles de pilotage
+- Prendre en main les outils FP&A du groupe
+- Documenter les méthodologies et construire une bibliothèque de modèles réutilisables
+
+Stratégie & Transverse
+- Contribuer aux analyses de profitabilité par activité, projet ou client pour éclairer les choix de développement
+- Participer aux présentations DG / COMEX avec production de supports synthétiques orientés décision
+- Challenger les hypothèses opérationnelles avec le Managing Director de chaque filiale
+
+**Profil recherché**
+
+Formation
+- Bac+5 : Grande école de commerce, Master Finance / Contrôle de gestion, ou école d’ingénieur avec spécialisation finance
+
+Expérience
+- 2 à 3 ans d’expérience, idéalement dans un parcours FP&A, Audit / M&A ou Contrôle de gestion dans un environnement multi-entités
+- Expérience en modélisation financière complexe : modèles intégrés (P&L + BFR + cash), simulations, analyses de sensibilité
+- Exposition à l’immobilier, au private equity immobilier ou à un secteur projet (promotion, infrastructure, luxe) est un vrai plus
+
+Compétences techniques
+- Excel expert : modélisation dynamique, VBA ou Power Query, audit de formules
+- Maîtrise des 3 états financiers et de leurs interdépendances (P&L / Bilan / Cash-flow)
+- Capacité à construire des modèles projet avec TRI, VAN, analyse de sensibilité
+- Notion d’outils BI ou FP&A (Power BI, Tableau, Agicap, Pigment ou équivalent) appréciée
+- SQL ou Python pour l’automatisation des flux de données : un vrai plus
+
+Soft skills
+- Rigueur analytique et capacité à travailler sur des problématiques ambiguës avec des données imparfaites
+- Autonomie forte : vous structurez votre scope, vous ne l’attendez pas
+- Communication synthétique : transformer un modèle complexe en 3 lignes clés pour le CEO
+- Curiosité sectorielle : vous aimez comprendre les métiers pour mieux les modéliser
+- Goût du terrain : vous challengez les opérationnels, vous ne vous contentez pas des chiffres transmis
+
+</details>
 
 <details>
 <summary><strong>VIE Junior Financial Controller (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 027,63 €/mois</summary>
