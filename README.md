@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/10/2026 17:00:28**, 76 offre(s) actuellement en ligne.
+Dernière vérification : **27/10/2026 21:32:02**, 75 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2124,50 +2124,6 @@ Adaptable, autonomous, proactive and a real team player
 Analytical minded
 Solution oriented
 A first experience in the financial sector is a +
-
-</details>
-
-<details>
-<summary><strong>REAL ESTATE INVESTMENT ANALYST (H/F)</strong> · ERE · VARSOVIE, POLOGNE · 2 721,91 €/mois</summary>
-
-- **Entreprise :** ERE
-- **Lieu :** VARSOVIE, POLOGNE
-- **Indemnité :** 2 721,91 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 16/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244882](https://mon-vie-via.businessfrance.fr/offres/244882)
-
-**Description du poste**
-
-Après la France (2010), l’Allemagne (2015), l’Italie (2016) et l’Espagne (2019), eRE souhaite désormais s’implanter sur le marché polonais depuis Varsovie pour accompagner le développement de nos clients investisseurs en Europe centrale, et recherche un(e) Real estate investment analyst. Au-delà du poste d'analyste, c'est une aventure entrepreneuriale, intense et formatrice, au cœur du secteur immobilier institutionnel. Vous contribuez, dès le premier jour et en lien direct avec les associés fondateurs, à bâtir notre présence, notre connaissance et notre expérience sur ce nouveau marché — comme nous l'avons fait avec succès en Allemagne, en Italie puis en Espagne depuis 2015.
-
-Les missions proposées :
-●	Sourcing d’opportunités d’investissement : animation du réseau de brokers nationaux et indépendants, identification d'opportunités, visites de sites, rencontres avec les locataires, enseignes ou exploitants, aux côtés des associés fondateurs et des équipes de chaque pays.
-●	Analyse des dossiers d'investissement : calcul de la rentabilité des projets, modélisation des hypothèses financières, recherche de données de marché, analyse de comparables, rédaction des memos d'investissement à l'aide de nos outils internes enrichis par l'IA, préparation des LOI.
-●	Assistance au pilotage des due diligences : analyse des offres reçues des conseils (avocats, experts techniques et évaluateurs indépendants), suivi de leur exécution, préparation des rapports de suivi, aide à la négociation.
-
-Le poste, stimulant et très responsabilisant, intègre un volet relationnel important : vous serez intégré à l’équipe dirigeante, en interaction constante avec nos clients investisseurs institutionnels. 
-Vous bénéficierez d'une grande autonomie dans l'organisation de votre emploi du temps, des visites et des rencontres avec les différents partenaires. Ici, pas de poste d'exécution : vos analyses nourrissent des convictions qui pèsent dans les arbitrages de nos clients, vos initiatives construisent le développement de l’équipe et de l’entreprise.
-Vous rejoignez une équipe à taille humaine, exigeante et bienveillante, valorisant la solidarité entre les équipes, la progression des talents et le goût du terrain. Une réelle opportunité de consolider votre expérience sur un secteur dynamique, dans un cadre de travail privilégié où votre rôle sera pleinement valorisé.
-
-**Profil recherché**
-
-Titulaire d'un bac+4/5, nous recherchons un(e) jeune diplômé(e) avec une ou plusieurs expériences dans les secteurs immobilier ou d'analyse financière, attiré(e) par un rôle de bâtisseur : ouvrir un marché, créer son réseau, faire ses preuves sur de vraies opérations, le tout au contact direct des fondateurs et des équipes locales.
-
-Les compétences essentielles pour s'épanouir dans notre environnement :
-●	parfaite maîtrise du polonais (langue maternelle ou > C1) et idéalement de l'allemand (> C1), français courant, niveau avancé en anglais (> B2),
-●	esprit d'analyse et de synthèse, rigueur dans la modélisation et la rédaction,
-●	sens relationnel et capacité d'adaptation, en langues polonaise et allemande notamment,
-●	capacité d'organisation, autonomie, initiative et tempérament entrepreneurial,
-●	esprit d'équipe et sens du service auprès de nos clients institutionnels,
-●	maîtrise des outils IT et IA.
-
-Expérience souhaitée : 12 mois (stages et alternances inclus)
-Spécialisation : Immobilier, Finance
-Langues parlées : Polonais (langue maternelle ou > C1) et Allemand (> C1), Français (courant), Anglais (> B2)
-Permis B nécessaire : souhaité — au-delà, goût pour la découverte et les transports
-Niveau d'étude : bac+4, bac+5 et plus
-Diplôme : MASTER 1, MASTER 2, MBA
 
 </details>
 
