@@ -8,11 +8,87 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/10/2026 06:10:20**, 74 offre(s) actuellement en ligne.
+Dernière vérification : **27/10/2026 11:37:49**, 74 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE Junior Financial Controller (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** CA CONSUMER FINANCE
+- **Lieu :** STUTTGART, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 27/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246087](https://mon-vie-via.businessfrance.fr/offres/246087)
+
+**Description du poste**
+
+Our Mission 
+We make wishes come true - our mission is to enrich the lives of our customers and realize dreams with 
+our financial services. We don't see ourselves as a typical bank, but as a vibrant community of creators 
+who are not afraid to break new ground. At the same time, we are all committed to topics with an impact 
+such as sustainability and digitalization - whether at our headquarters in Stuttgart, at our location in 
+Offenbach or in our 21 branches across Germany.  
+At Creditplus, we think bigger because we benefit from synergies with our (inter)national sister units and 
+business units under the Crédit Agricole umbrella. As you can see, we still like a family atmosphere: 
+with appreciation and team spirit, we work hand in hand for the innovation of financial services. And 
+celebrate our successes, big and small, together. Goodbye monotonous working day. Hello feasible.  
+We are making banking digital - and you are a part of it. Our IT department is the driving force for change 
+(and run). With your new job you will be directly involved in shaping the path to new innovations in the 
+credit industry. Develop your skills with us by mastering exciting challenges independently. Our agile 
+organizational structure in chapters and guilds means you are well prepared for interdisciplinary and 
+international collaboration. We work with modern tech stacks and state-of-the-art technologies. Are you 
+just as non-standard as our IT jobs? Then start an IT career at Creditplus now! 
+What you will work on 
+• Preparation of the monthly reporting according to HGB, IFRS and management 
+reporting based on IFRS for the responsible area, including coordination with the 
+departments involved as well as analysis of the key figures (development, plan-actual 
+deviations, special analyses) 
+• Implementation of (sub-annual and multi-annual) planning in accordance with HGB, 
+IFRS and management reporting based on IFRS, including coordination with 
+specialist departments, the Executive Board and the Group 
+• Support for the annual financial statements by providing auditors with the necessary 
+documents in a timely manner 
+• Budget and forecast planning: process coordination within the department, within 
+Creditplus and with CAPFM 
+Further development and redesign of controlling processes: 
+• Methodological-conceptual recording, description and participation in the remodelling 
+of processe 
+• Creation and support for specialist concepts, process presentations as well as the 
+associated work instructions 
+Participation in BI projects: 
+• Support in the development of specialist concepts, testing, roll-out and follow-up 
+support within the framework of business intelligence projects 
+Quality assurance: 
+• Participation in the design and implementation of quality assurance measures 
+including documentation, with special attention to process stability and efficiency 
+improvement.
+
+**Profil recherché**
+
+Completed studies in economics with specializations in controlling/ finance, business 
+mathematics, business informatics or comparable degree 
+• Very good knowledge of MS Office, especially Excel (incl. Pivot, SQL) and 
+PowerPoint 
+• In-depth understanding of financial economics and first experience in the 
+development and optimization of controlling processes. 
+• Fluent English (level B2/C1) 
+• Good communication skills and very good analytical and conceptual skills, combined 
+with a structured and solution-oriented way of working. 
+• High level of reliability, conscientiousness and quality awareness. 
+• Strong teamwork and social competence, with the ability to work effectively with 
+internal and external stakeholders. 
+• Resilience and flexibility, especially in a dynamic working environment. 
+Plus: 
+• Relevant professional experience in controlling or a comparable field 
+• Master in Finance 
+• Knowledge of analytical tools such as SAS or basics in database models 
+• Written and spoken German
+
+</details>
 
 <details>
 <summary><strong>V.I.E - Financial Controller - F/M (H/F)</strong> · TECHNIP ENERGIES FRANCE · DOHA, QATAR · 2 721,83 €/mois</summary>
@@ -2653,27 +2729,6 @@ Communication & Collaboration
 Builds effective relationships and communicates clearly with stakeholders across different functions and organizational levels.
 Business Acumen
 Shows curiosity about the business, understands key commercial drivers, and recognizes the connection between financial performance and operational decisions.
-
-</details>
-
-<details>
-<summary><strong>Coordinateur commandes et facturation (H/F)</strong> · ALLIANCE GREEN SERVICES FRANCE NS · DIFFERDANGE, LUXEMBOURG · 3 152,69 €/mois</summary>
-
-- **Entreprise :** ALLIANCE GREEN SERVICES FRANCE NS
-- **Lieu :** DIFFERDANGE, LUXEMBOURG
-- **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 09/10/2026
-- **Compatibilité avec ton profil :** 65 % — Le profil montre de solides compétences en contrôle de gestion et reporting international, ce qui correspond au volet financier de l'offre. Cependant, le poste est principalement axé sur la gestion opérationnelle des commandes et de la facturation dans SAP, un outil non mentionné par le candidat.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246888](https://mon-vie-via.businessfrance.fr/offres/246888)
-
-**Description du poste**
-
-Au sein de l’équipe Commandes et Facturation, le/la VIE apportera un support opérationnel dans la gestion des commandes fournisseurs et de la facturation clients pour plusieurs entités internationales. Il participera au suivi des commandes, des factures et des paiements dans SAP, à la coordination avec les équipes locales et internationales, ainsi qu’à certaines activités de suivi financier, telles que le reporting, le suivi budgétaire et les indicateurs de performance de l'entité luxembourgeoise.
-
-**Profil recherché**
-
-Au sein de l’équipe Commandes et Facturation, le VIE contribuera à la gestion et au suivi des commandes fournisseurs, de la facturation clients et du traitement des factures dans SAP pour plusieurs entités internationales. Il assurera la coordination avec les équipes locales et internationales, participera au suivi des paiements et apportera un soutien ponctuel aux activités financières, notamment en matière de reporting et de suivi budgétaire.
 
 </details>
 
