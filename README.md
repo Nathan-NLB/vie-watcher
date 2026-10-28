@@ -8,11 +8,171 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **28/10/2026 05:04:33**, 74 offre(s) actuellement en ligne.
+Dernière vérification : **28/10/2026 11:37:21**, 77 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Financial Analyst (H/F)</strong> · TRANSDEV GROUP · LOMBARD  -IL-, ETATS-UNIS · 3 813,78 €/mois</summary>
+
+- **Entreprise :** TRANSDEV GROUP
+- **Lieu :** LOMBARD  -IL-, ETATS-UNIS
+- **Indemnité :** 3 813,78 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 28/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, ses compétences en FP&A, en reporting et sa maîtrise d'Excel. Son niveau d'anglais (TOEIC 925) répond pleinement aux exigences de ce VIE aux États-Unis, malgré sa préférence initiale pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247575](https://mon-vie-via.businessfrance.fr/offres/247575)
+
+**Description du poste**
+
+Transdev is hiring a Financial Analyst (V.I.E)  M/F
+
+As part of a replacement, Transdev North America is looking for a Financial Analyst for an 18-month V.I.E assignment within its Finance team. Reporting to the Director of FP&A and working closely with the Finance & Accounting teams, you will support a wide range of financial planning, analysis and accounting activities.
+
+Your mission
+Budgeting, Forecasting & Analysis
+- Assist in the preparation of budgets and forecasts to support corporate strategic planning initiatives
+- Provide variance analysis to identify trends, opportunities and risks, gathering the relevant data from cross-functional teams (IT, HR, safety, operations)
+Accounting Close & Reporting
+- Conduct accounting close operations, including balance sheet reconciliations and journal entries
+- Prepare presentations and reports for senior management and stakeholders
+Corporate Finance Projects & Process Improvement
+- Project-manage the overall corporate finance goals and objectives, and support ad-hoc financial projects and initiatives aimed at increasing company-wide efficiencies
+
+**Profil recherché**
+
+Your profile
+- Business school graduate, specialized in Accounting / Audit
+- Strong command of Excel and some technical accounting knowledge
+- Proactive, motivated and curious, you like asking questions and are eager to learn and grow
+- Genuine interest in American culture
+- Proficient English
+
+Your destination
+Transdev North America is the largest private operator and integrator of multiple modes of public transportation in the United States, including bus, paratransit, rail, NEMT, microtransit, shuttle and autonomous vehicles.
+
+ Leading cities, counties, airports, private companies and universities contract with Transdev to operate and maintain their transportation systems. You will join the Corporate Finance / FP&A team within the Finance department, in a collaborative and growth-oriented environment, and report directly to the Director of FP&A.
+
+This role offers hands-on experience in budgeting and forecasting, data analysis, internal controls, financial reporting and accounting close.
+
+Location: Lombard, Illinois (USA)
+
+Specifics: 18-month V.I.E assignment starting Q1 2027, occasional travel
+
+</details>
+
+<details>
+<summary><strong>V.I.E. - 18 months - Internal Auditor F/M - New York (H/F)</strong> · NATIXIS · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** NATIXIS
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 28/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le candidat possède un excellent niveau d'anglais et un Master en finance adapté, mais son expérience se concentre sur le contrôle de gestion en PME industrielle et non sur l'audit bancaire requis pour ce poste chez Natixis à New York.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247572](https://mon-vie-via.businessfrance.fr/offres/247572)
+
+**Description du poste**
+
+The VIE Internal Auditor will work alongside a team of audit professionals, to review, test and validate that the first and second lines of defense are performing their tasks in accordance with Bank Policy and regulatory standards. He/she/they will highlight key weaknesses and provide strong recommendations that will address those weaknesses while strengthening the system of internal controls. Additionally, presentations will be prepared and made to all levels of management within the CIB Americas platform.
+
+The VIE Internal Auditor position is an audit team role within Natixis CIB Internal Audit to support the audit missions of business lines as well as the associated support functions and control environment. 
+
+Assist Senior Auditors and Mission Managers in the pre-diagnosis, diagnosis, and closure phases of each assigned audit.
+Evaluate the risk and results measurement system.
+Check the effectiveness of the internal control framework and compliance with applicable regulations and industry standards.
+Assess the robustness and optimization of business processes.
+Provide an opinion on the organization and governance of the entity.
+Make hierarchical recommendations according to the degree of risk.
+Documentation of Audit Programs, Workpapers,  and Audit Reports consistent with Natixis CIB Audit Guidelines, regulatory guidelines, and industry best practices (i.e., IIA Global Audit Standards).
+Perform Recommendation Validation and Sustainability Testing for outstanding Audit Recommendations.
+
+**Profil recherché**
+
+Master's degree in Internal Auditing, Banking, Finance or other Master Degree equivalent (DESS, Mastere of "Grande Ecole").
+First experience in the banking industry within the big four or an Internal audit department of a top French bank will be appreciated.
+International experience in an English spoken country.
+Proficient in Excel and Word.
+Strong working knowledge of analytical and AI tools .
+
+</details>
+
+<details>
+<summary><strong>Chargé(e) de financement  Amérique du Nord (H/F)</strong> · WAGA ENERGY · PHILADELPHIE -PA-, ETATS-UNIS · 3 714,31 €/mois</summary>
+
+- **Entreprise :** WAGA ENERGY
+- **Lieu :** PHILADELPHIE -PA-, ETATS-UNIS
+- **Indemnité :** 3 714,31 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 28/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le candidat possède une excellente maîtrise d'Excel, de solides compétences en analyse financière et un profil international avéré avec un très bon niveau d'anglais. Cependant, l'offre requiert une expertise spécifique en financement de projets et modélisation financière complexe en banque d'affaires ou fonds, plutôt qu'en contrôle de gestion pure.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247556](https://mon-vie-via.businessfrance.fr/offres/247556)
+
+**Description du poste**
+
+Accompagner l'équipe financement dans l’identification, l’initiation et la poursuite des nouvelles opportunités permettant d’optimiser le financement des projets de l’entreprise en particulier aux Etats-Unis et au Canada ;  
+Accompagner  l'équipe financement dans la mise en place du processus de financement en liaison avec les processus des équipes concernées :  
+- Standardiser les modèles et la documentation financière ;  
+- Organiser et coordonner les opérations de financements ;  
+- Elaborer des dossiers de demandes de financements : info mémo, modèle financier…  
+- Négocier des Term Sheet bancaires et des garanties données ;  
+- Superviser des contrats de prêts, accords inter-créanciers et contrat de suretés ;  
+- Mettre en place des instruments de couvertures de taux.  
+Optimiser les financements existants et actifs ;  
+Accompagner l'équipe financement dans la réalisation des présentations des projets en interne (Direction et Conseil d’Administration) et  à l’externe (partenaires financiers) ;  
+Effectuer un reporting et un suivi de l’ensemble de ces activités; 
+Réaliser des veilles concurrentielles et réglementaires en lien avec les activités de la filiale; 
+Apporter du support au département Développement des affaires lors de la préparation des plans d’affaires des nouveaux projets;
+
+**Profil recherché**
+
+Formation initiale : BAC + 5, Ecole de commerce ou ingénieur avec majeur finance, ou formation universitaire équivalente 
+Expérience(s) : Expérience en financement de projets en banque d’affaires, fonds d’investissements ou en entreprises. Une expérience dans les énergies renouvelables serait un atout. 
+Bonne compréhension des transactions complexes à forte dimension financière.
+Solides connaissances des marchés financiers
+Maitrise des aspects juridiques et fiscaux des montages et de la gestion des risques
+Solides connaissances et maitrise d'Excel et du modeling financier.
+
+</details>
+
+<details>
+<summary><strong>V.I.E - EQUITY RESEARCH - VIENNA (AUSTRIA) (H/F)</strong> · ODDO BHF SCA · VIENNE, AUTRICHE · 3 024,47 €/mois</summary>
+
+- **Entreprise :** ODDO BHF SCA
+- **Lieu :** VIENNE, AUTRICHE
+- **Indemnité :** 3 024,47 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 28/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier (FP&A), alors que cette offre concerne l'analyse financière de marché (Equity Research). Bien que ses compétences en Excel et son niveau d'anglais soient adaptés, son expérience et sa formation manquent d'ancrage en marchés de capitaux et valorisation d'entreprise.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247521](https://mon-vie-via.businessfrance.fr/offres/247521)
+
+**Description du poste**
+
+We seek an ambitious, motivated and driven young graduate eager to gain a fundamental understanding of equity research during a 12 month assignment, intended to be prolonged to 24 months. This is an opportunity to join Austria's #1 Extel rated equity team and become part of ODDO BHF's growing equity platform.
+
+Your tasks will include:
+
+- Working on a wide range of equity research projects across various sectors
+- Support of analysts in the production of equity research reports and presentations
+- Compilation and presentation of company and sector specific data as well as competitor analysis
+- Financial modelling and perform corporate valuations
+- Interaction with Management and Investor Relations
+- Contribute to sustaining existing client relationships with the objective of ensuring strong relationships
+- Provide general administrative support to the research team
+
+**Profil recherché**
+
+- Strong academic background with a demonstrated interest in capital markets and investment banking
+- Demonstrate an understanding of capital markets and a desire to develop that understanding further
+- Excellent English communication (written and verbal), German desirable, Eastern European language an advantage
+- Proficiency in Microsoft Office, particularly Excel and PowerPoint
+- Strong analytical and problem-solving skills with attention to detail
+- Ability to work independently and as part of a team
+- Highly motivated, proactive, and eager to learn
+
+</details>
 
 <details>
 <summary><strong>VIE - Operations Transformation & AI Support Analyst (H/F)</strong> · AMUNDI ASSET MANAGEMENT · SANT CUGAT DEL VALLES, ESPAGNE · 2 688,86 €/mois</summary>
@@ -1666,113 +1826,6 @@ Advanced proficiency in Microsoft tools (esp. Excel),
 Knowledge of reporting and financial planning systems,
 Experience with data visualisation and business intelligence tools is desirable,
 Analytical thinking, attention to detail and accuracy, planning and organisational skills, results orientation, business acumen, effective communication, collaboration and teamwork, proactivity and continuous improvement mindset.
-
-</details>
-
-<details>
-<summary><strong>AI Portfolio Operations Analyst (H/F)</strong> · SANOFI WINTHROP INDUSTRIE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** SANOFI WINTHROP INDUSTRIE
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
-- **Publiée le :** 19/10/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien à l'offre grâce à ses compétences en contrôle budgétaire, reporting, analyse financière et maîtrise d'Excel, ainsi que sa maîtrise de l'anglais et son attrait pour Barcelone. L'écart réside dans l'orientation du poste vers l'analytique de projets IA et la gouvernance IT, bien que ses bases en finance et gestion de données s'y adaptent parfaitement.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247156](https://mon-vie-via.businessfrance.fr/offres/247156)
-
-**Description du poste**
-
-About the job
-
-As AI Portfolio Operations Analyst VIE within our AI Portfolio Operations team, you’ll work closely with the Operations Manager, learning the business while handling critical day-to-day tasks that keep reporting, budgets, and governance workflows running smoothly. You will have an impact in ensuring data accuracy, meeting reporting deadlines, and keeping clear, organized documentation.  
-
-Join the digital engine driving Sanofi’s transformation - where AI, automation, and bold experimentation power faster science and smarter decisions. Here, you’ll help build the first biopharma company powered by AI at scale. 
-
-Ready to get started?
-
-About Sanofi
-
-We’re an R&D-driven, AI-powered biopharma company committed to improving people’s lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people’s lives. 
-
-Main responsibilities:
-
-1. Budget Tracking & Data Management 
-
-- Support budget tracking and remapping activities. 
-- Assist with budget analysis and variance understanding with Product Owners. 
-- Support on preparing budget performance reports and highlight variances. 
-- Support on coordination with Finance and pillar leads during forecasting cycles. 
-- Maintain accurate budget documentation and audit trails. 
-
-2. Portfolio Reporting & Data Quality 
-
-- Support tool adoption (SNOW PPM, APM, Value Lens, etc) and data quality across reporting processes. 
-- Ensure consistency and quality of reporting across pillars. 
-- Support on cross-pillar input collection orchestration. 
-- Validate data accuracy and completeness before reporting deadlines. 
-
-3. Governance Workflow Support 
-
-- Support on monitor end-to-end governance process execution from submission to approval. 
-- Support on SLA tracking compliance across all governance touchpoints. 
-- Flag deviations and potential bottlenecks to the Operations Manager. 
-- Maintain accurate records and documentation of governance activities.
-- Support the implementation of corrective actions for recurring operational issues.
-- Update and maintain dashboard visibility on workflow health metrics. 
-
-Why choose us?
-
-- Be part of a pioneering biopharma company where patient insights shape drug development.
-- Work at the forefront of AI-powered science that accelerates discovery and improves outcomes.
-- Collaborate beyond your expertise, sparking new ideas with diverse, multidisciplinary teams.
-- Work at the forefront of drug discovery, harnessing cutting-edge AI, data, and digital platforms to push the boundaries of science.
-- Help improve the lives of millions of people globally by making drug development quicker and more effective.
-- Join a workplace where diversity, equity, and inclusion are at the core, with Employee Resource Groups and leadership programs that celebrate every voice.
-
-iMove is a unique program tailored for European youth interested in challenging themselves with meaningful assignments across the globe. At Sanofi we have a strong ambition to invest in young talents who will drive the success of Sanofi tomorrow.
-
-Sanofi’s Work Abroad Program, iMove, offers jobs-assignments with actual responsibilities and a perspective to grow. We provide those opportunities in various functions such as: marketing, finance, regulatory, supply chain, clinical trials, production, etc. and in more than 40 countries. Sanofi unites people who are passionate about solving healthcare needs across the world. Joining our iMove Work Abroad Program is a unique opportunity to make a difference through your work.
-
-Pursue Progress. Discover Extraordinary.
-
-Progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. You can be one of those people. Chasing change, embracing new ideas and exploring all the opportunities we have to offer. Let’s pursue progress. And let’s discover extraordinary together.
-
-At Sanofi, we provide equal opportunities to all regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. 
-
-Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!
-
-**Profil recherché**
-
-About you
-
-Experience:
-
-- 1–3 years doing similar support work — project coordination, data entry, administrative tasks, or financial analysis.
-- Pharma, healthcare, tech, or consulting experience is a plus, but not mandatory.
-- Experience in a matrixed and cross-functional organization would be a plus.
-
-Soft and technical skills:
-
-- Clear written and verbal communication; ability to present to stakeholders. 
-- Detail-oriented — typos and missing data matter. 
-- Juggle multiple tasks — manage deadlines across different reports. 
-- Stay organized — clear file naming, documentation, follow-up systems. 
-- Advanced analytical skills (spot inconsistencies in data, understand trends, ask good questions when something seems off etc.)
-- Excel expert — pivot tables, formulas, data cleanup, basic charts. 
-- PowerPoint & SharePoint — creating simple presentations, organizing files. 
-- Dashboard/reporting tools — Power BI, Tableau, or similar (you'll learn on the job). 
-- Some exposure to AI, digital projects or transformation initiatives (even as an observer) would be beneficial.
-- Familiarity with ServiceNow, Jira, or workflow tools is preferred.
- 
-Education:
-
-- Master’s Degree in Business, Finance, Data Analytics, Operations, or similar field.
-
-Languages:
-
-- Advanced English knowledge.
-
-To facilitate the examination of your application by our English-speaking managers, thank you for applying in English.
 
 </details>
 

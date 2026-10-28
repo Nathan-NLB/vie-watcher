@@ -545,5 +545,21 @@
     "lat": 41.4707933,
     "lon": 2.0848815
   },
-  "entreprise|kyka group|moka|maurice": null
+  "entreprise|kyka group|moka|maurice": null,
+  "entreprise|transdev group|lombard  -il-|etats-unis": null,
+  "ville|lombard  -il-|etats-unis": {
+    "lat": 41.8864687,
+    "lon": -88.0201536
+  },
+  "entreprise|natixis|new york  -ny-|etats-unis": null,
+  "entreprise|waga energy|philadelphie -pa-|etats-unis": null,
+  "ville|philadelphie -pa-|etats-unis": {
+    "lat": 39.9527237,
+    "lon": -75.1635262
+  },
+  "entreprise|oddo bhf sca|vienne|autriche": null,
+  "ville|vienne|autriche": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  }
 }
