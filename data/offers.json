@@ -108,9 +108,37 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"9\",\"205\",\"259\",\"358\"]"
+      "9",
+      "205",
+      "259",
+      "358"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "9",
+        "specializationParentId": "19",
+        "specializationLabel": "Contrôle de Gestion",
+        "specializationLabelEn": "Management Auditing"
+      },
+      {
+        "specializationId": "205",
+        "specializationParentId": "19",
+        "specializationLabel": "Contrôle de gestion industriel",
+        "specializationLabelEn": "Industrial controlling"
+      },
+      {
+        "specializationId": "259",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance",
+        "specializationLabelEn": "Finance"
+      },
+      {
+        "specializationId": "358",
+        "specializationParentId": "24",
+        "specializationLabel": "ERP management",
+        "specializationLabelEn": "ERP management"
+      }
+    ],
     "missionDescription": "À propos de Flexitech\r\n\r\nFlexitech est un équipementier automobile international spécialisé dans la conception et la fabrication de systèmes de freinage et de gestion thermique. Présent dans 7 pays et fort de plus de 1 300 collaborateurs, nous accompagnons les principaux constructeurs automobiles mondiaux en développant des solutions innovantes répondant aux plus hauts standards de qualité, de sécurité et de performance. Rejoindre Flexitech, c'est intégrer un groupe industriel à taille humaine où l'innovation, l'excellence et la collaboration sont au cœur de notre développement.\r\nwww.flexitech.com\r\n\r\nVenez nous accompagner à relever les challenges de demain sur notre site Mexicain dans le cadre d'un VIE.\r\n\r\nFlexitech renforce ses capacités de pilotage financier sur son site industriel mexicain. En tant que contrôleur de gestion junior, vous participerez à la construction d'une fonction de contrôle de gestion projets et serez en première ligne du déploiement des standards de gestion internalisés du Groupe.\r\nCe rôle offre l’opportunité de développer une fonction en contexte international, au sein d'un environnement automobile sécurisé et structuré.\r\n\r\n1. Prévision et suivi du chiffre d’affaires\r\nAssurer la continuité du suivi de l'IHS (outil statistique) afin de fiabiliser les prévisions, d’anticiper les lancements de programmes et les fins de programmes.\r\nAssurer le suivi quotidien des ventes et fournir les analyses qui en découlent (effet volume, mix, prix, etc.).\r\nParticiper à l’élaboration des forecasts et des budgets.\r\n2. Gestion des Données Clients & Support Commercial\r\nMettre à jour et valider les prix de vente clients en collaboration avec l’équipe commerciale.\r\nChallenger et valider les données clients (raw material index.)\r\n3. Pilotage des Projets & Controlling Opérationnel (Priorité stratégique)\r\nDévelopper et structurer une fonction de contrôle projets (business case, analyse du ROI, suivi des écarts).\r\nMettre en place un suivi des outillages (COT) et de leur rentabilité.\r\nPréparer les revues de contrôle projets avec les équipes opérationnelles et le Finance Manager\r\n4. Reporting Frais Généraux & Efficience Opérationnelle\r\nStructurer et déployer un reporting des frais généraux par fonction.\r\nAssurer le suivi des indicateurs de dépense locale (IDL), des frais généraux et des écarts par rapport au budget.",
     "creationDate": "2026-09-11T08:23:13Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -171,9 +199,72 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"17\",\"51\",\"138\",\"251\",\"323\",\"327\",\"328\",\"330\",\"355\"]"
+      "17",
+      "51",
+      "138",
+      "251",
+      "323",
+      "327",
+      "328",
+      "330",
+      "355"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "17",
+        "specializationParentId": "239",
+        "specializationLabel": "Economie",
+        "specializationLabelEn": "Economics"
+      },
+      {
+        "specializationId": "51",
+        "specializationParentId": "239",
+        "specializationLabel": "Mathématiques - Statistiques",
+        "specializationLabelEn": "Mathematics"
+      },
+      {
+        "specializationId": "138",
+        "specializationParentId": "212",
+        "specializationLabel": "Intelligence artificielle",
+        "specializationLabelEn": "Artificial Intelligence"
+      },
+      {
+        "specializationId": "251",
+        "specializationParentId": "24",
+        "specializationLabel": "Ingénierie système",
+        "specializationLabelEn": "Systems engineering"
+      },
+      {
+        "specializationId": "323",
+        "specializationParentId": "19",
+        "specializationLabel": "Fintech (Technologies Financières)",
+        "specializationLabelEn": "Fintech (Technologies Financières)"
+      },
+      {
+        "specializationId": "327",
+        "specializationParentId": "212",
+        "specializationLabel": "Informatique et Sciences des Données",
+        "specializationLabelEn": "Informatique et Sciences des Données"
+      },
+      {
+        "specializationId": "328",
+        "specializationParentId": "212",
+        "specializationLabel": "Informatique de Gestion",
+        "specializationLabelEn": "Informatique de Gestion"
+      },
+      {
+        "specializationId": "330",
+        "specializationParentId": "212",
+        "specializationLabel": "Ingénierie Informatique",
+        "specializationLabelEn": "Ingénierie Informatique"
+      },
+      {
+        "specializationId": "355",
+        "specializationParentId": "24",
+        "specializationLabel": "Intelligence artificielle / IA",
+        "specializationLabelEn": "Intelligence artificielle / IA"
+      }
+    ],
     "missionDescription": "We are looking for a VIE to join the OST department at Sabadell Asset Management to support the Operational and technological model transformation of SabAM.\n\nThe main mission of the VIE will be to support the transformation of operational and technological current model  by combining technical, functional and demand-management skills, helping to implement a more efficient, digital and data-driven operating model.",
     "creationDate": "2026-10-27T11:52:29Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -234,9 +325,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"320\"]"
+      "320"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "320",
+        "specializationParentId": "19",
+        "specializationLabel": "Analyse financière",
+        "specializationLabelEn": "Analyse financière"
+      }
+    ],
     "missionDescription": "Vous êtes le moteur analytique de la Direction Financière : construire, maintenir et challenger les modèles de prévision multi-entités du groupe sur un horizon 12-24 mois, et transformer les données financières en insights décisionnels pour la Direction Générale.\r\n\r\nForecasting & Modélisation\r\n- Construire et piloter le modèle de forecast intégré groupe (P&L, cash-flow, bilan) sur horizon 12-24 mois\r\n- Structurer les schémas de projection par entité et par activité (Marchand de biens, travaux, architecture, conciergerie, etc.) avec granularité projet / agrégat\r\n- Modéliser les opérations de marchand de biens : plan de financement, courbe de décaissement, simulations de TRI et de marge nette\r\n- Produire des analyses de sensibilité et des scénarios (base / optimiste / stress) pour chaque horizon de décision\r\n- Mettre en place et faire évoluer le processus budgétaire annuel et les reforecasts trimestriels\r\n\r\nReporting & Analyse\r\n- Concevoir le tableau de bord mensuel Groupe (KPIs opérationnels + financiers) à destination du COMEX\r\n- Assurer, en lien avec le contrôle de gestion, le suivi des écarts budget / réel avec analyse de causes racines et recommandations correctrices\r\n-Alimenter et challenger la vision cash-flow en lien avec le cash manager\r\n- Structurer les reportings ad hoc pour les banques, investisseurs ou partenaires stratégiques\r\n\r\nSystèmes & Data\r\n- Structurer et automatiser les flux de données entre les outils comptables, CRM et les modèles de pilotage\r\n- Prendre en main les outils FP&A du groupe\r\n- Documenter les méthodologies et construire une bibliothèque de modèles réutilisables\r\n\r\nStratégie & Transverse\r\n- Contribuer aux analyses de profitabilité par activité, projet ou client pour éclairer les choix de développement\r\n- Participer aux présentations DG / COMEX avec production de supports synthétiques orientés décision\r\n- Challenger les hypothèses opérationnelles avec le Managing Director de chaque filiale",
     "creationDate": "2026-10-26T05:57:05Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -297,9 +395,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"259\"]"
+      "259"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "259",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance",
+        "specializationLabelEn": "Finance"
+      }
+    ],
     "missionDescription": "Our Mission \nWe make wishes come true - our mission is to enrich the lives of our customers and realize dreams with \nour financial services. We don't see ourselves as a typical bank, but as a vibrant community of creators \nwho are not afraid to break new ground. At the same time, we are all committed to topics with an impact \nsuch as sustainability and digitalization - whether at our headquarters in Stuttgart, at our location in \nOffenbach or in our 21 branches across Germany.  \nAt Creditplus, we think bigger because we benefit from synergies with our (inter)national sister units and \nbusiness units under the Crédit Agricole umbrella. As you can see, we still like a family atmosphere: \nwith appreciation and team spirit, we work hand in hand for the innovation of financial services. And \ncelebrate our successes, big and small, together. Goodbye monotonous working day. Hello feasible.  \nWe are making banking digital - and you are a part of it. Our IT department is the driving force for change \n(and run). With your new job you will be directly involved in shaping the path to new innovations in the \ncredit industry. Develop your skills with us by mastering exciting challenges independently. Our agile \norganizational structure in chapters and guilds means you are well prepared for interdisciplinary and \ninternational collaboration. We work with modern tech stacks and state-of-the-art technologies. Are you \njust as non-standard as our IT jobs? Then start an IT career at Creditplus now! \nWhat you will work on \n• Preparation of the monthly reporting according to HGB, IFRS and management \nreporting based on IFRS for the responsible area, including coordination with the \ndepartments involved as well as analysis of the key figures (development, plan-actual \ndeviations, special analyses) \n• Implementation of (sub-annual and multi-annual) planning in accordance with HGB, \nIFRS and management reporting based on IFRS, including coordination with \nspecialist departments, the Executive Board and the Group \n• Support for the annual financial statements by providing auditors with the necessary \ndocuments in a timely manner \n• Budget and forecast planning: process coordination within the department, within \nCreditplus and with CAPFM \nFurther development and redesign of controlling processes: \n• Methodological-conceptual recording, description and participation in the remodelling \nof processe \n• Creation and support for specialist concepts, process presentations as well as the \nassociated work instructions \nParticipation in BI projects: \n• Support in the development of specialist concepts, testing, roll-out and follow-up \nsupport within the framework of business intelligence projects \nQuality assurance: \n• Participation in the design and implementation of quality assurance measures \nincluding documentation, with special attention to process stability and efficiency \nimprovement.",
     "creationDate": "2026-09-17T16:08:45Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -703,9 +808,58 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"205\"]"
+      "5",
+      "8",
+      "9",
+      "199",
+      "200",
+      "201",
+      "205"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "5",
+        "specializationParentId": "19",
+        "specializationLabel": "Audit",
+        "specializationLabelEn": "Auditing"
+      },
+      {
+        "specializationId": "8",
+        "specializationParentId": "19",
+        "specializationLabel": "Comptabilité - Gestion",
+        "specializationLabelEn": "Accounting - Management"
+      },
+      {
+        "specializationId": "9",
+        "specializationParentId": "19",
+        "specializationLabel": "Contrôle de Gestion",
+        "specializationLabelEn": "Management Auditing"
+      },
+      {
+        "specializationId": "199",
+        "specializationParentId": "19",
+        "specializationLabel": "Analyste crédit",
+        "specializationLabelEn": "Credit management"
+      },
+      {
+        "specializationId": "200",
+        "specializationParentId": "19",
+        "specializationLabel": "Direction financière (DAF, RAF)",
+        "specializationLabelEn": "Finance department"
+      },
+      {
+        "specializationId": "201",
+        "specializationParentId": "19",
+        "specializationLabel": "Expertise comptable",
+        "specializationLabelEn": "Certified accounting"
+      },
+      {
+        "specializationId": "205",
+        "specializationParentId": "19",
+        "specializationLabel": "Contrôle de gestion industriel",
+        "specializationLabelEn": "Industrial controlling"
+      }
+    ],
     "missionDescription": "Rejoignez-nous et boostez votre carrière !\n\nNous recrutons un **Contrôleur de Gestion Opérationnel International** pour renforcer notre équipe au siège situé à Madrid. Dans ce rôle stratégique, vous travaillerez en étroite collaboration avec nos équipes locales et internationales pour soutenir la croissance continue du groupe. Vous aurez l'opportunité de déployer des outils de gestion et de contrôle pour plusieurs périmètres internationaux dans un environnement dynamique et en constante évolution.\n\nVotre mission : Contribuer à l’expansion internationale du groupe !\n\nEn tant que Contrôleur de Gestion Opérationnel International, vos principales missions seront :\n\n- Participer à l’élaboration des KPIs hebdomadaires pour différents pays et régions.\n- Créer et déployer des tableaux de bord pour mesurer la performance dans de nouveaux marchés internationaux.\n- Rédiger et formaliser des processus opérationnels afin d'optimiser les performances des équipes.\n- Déployer et administrer notre CRM dans de nouveaux périmètres internationaux.\n- Fournir un support, accompagnement et formation aux équipes locales dans différents pays.\n- Réaliser des analyses et contrôles divers sur les performances internationales et proposer des solutions d’amélioration.\n\nCe que nous offrons :\n\n- Un rôle stratégique, avec une forte exposition internationale.\n- Un environnement innovant et stimulant, au sein d’un groupe en pleine croissance.\n- Des possibilités d’évolution rapide dans un contexte de forte dynamique.\n\nNotre entreprise est un acteur majeur dans son secteur, avec une présence internationale croissante. Nous sommes en forte expansion et recherchons des talents pour accompagner cette croissance.",
     "creationDate": "2026-10-19T12:10:10Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -850,9 +1004,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"259\"]"
+      "259"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "259",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance",
+        "specializationLabelEn": "Finance"
+      }
+    ],
     "missionDescription": "Comptable Junior – Comptabilité Opérationnelle\n\n📍 Localisation : Belgique\n💼 Type de contrat : VIE\n📅 Début : À définir\n\nÀ propos du poste\n\nDans le cadre du renforcement de notre équipe Finance, nous recherchons un Comptable Junior pour rejoindre une équipe opérationnelle.\n\nVous serez principalement en charge du traitement quotidien des factures et des opérations comptables, tout en assurant la qualité et la fiabilité des données financières.\n\nNous recherchons avant tout une personne rigoureuse, organisée, structurée et opérationnelle, capable de travailler efficacement dans un environnement dynamique.\n\nVos responsabilités\nTraiter et encoder les factures fournisseurs.\nVérifier la conformité des factures avec les commandes et les informations disponibles.\nAssurer le suivi des factures et des éventuelles anomalies.\nEffectuer les rapprochements entre factures, commandes et réceptions.\nParticiper au suivi des comptes fournisseurs.\nEffectuer les contrôles et corrections nécessaires dans le système comptable.\nParticiper aux clôtures comptables mensuelles.\nPréparer et analyser différents reportings financiers.\nUtiliser Excel pour analyser et consolider les données comptables.\nCollaborer quotidiennement avec les équipes Finance, Achats et les différents interlocuteurs internes.\nIdentifier les écarts ou anomalies et assurer leur résolution.\nContribuer à l'amélioration continue des processus comptables.\nProfil recherché\n\nNous recherchons une personne :\n\nTrès rigoureuse et attentive aux détails.\nOrganisée et structurée dans son travail.\nÀ l'aise avec les tâches opérationnelles et répétitives nécessitant de la précision.\nCapable de respecter des délais et des procédures.\nProactive et capable d'identifier rapidement les anomalies.\nÀ l'aise dans la communication avec différents interlocuteurs.\nDotée d'un bon esprit analytique.\nCapable de travailler de manière autonome tout en appréciant le travail en équipe.\nCompétences techniques\nSAP\n\nUne bonne maîtrise de SAP est indispensable, notamment pour les activités liées au traitement des factures et aux opérations comptables.\n\nExcel\n\nVous maîtrisez Excel et êtes capable de travailler avec des volumes importants de données.\n\nLa maîtrise des fonctionnalités suivantes est attendue :\n\nTableaux croisés dynamiques (TCD).\nRecherche et extraction de données.\nFiltres et tris avancés.\nFormules Excel courantes.\nAnalyse et consolidation de données.\n\nLa connaissance d'autres outils de reporting ou ERP constitue un plus.",
     "creationDate": "2026-08-11T12:58:04Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -913,9 +1074,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"8\"]"
+      "8"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "8",
+        "specializationParentId": "19",
+        "specializationLabel": "Comptabilité - Gestion",
+        "specializationLabelEn": "Accounting - Management"
+      }
+    ],
     "missionDescription": "As part of its continued growth and development in the Irish market, Drivalia Ireland, a leading provider of vehicle leasing, fleet management and mobility solutions, is looking for a VIE Accounting Assistant to join its team from September/October 2026.\nThis position offers a unique opportunity to gain international experience within a dynamic and fast-growing organization, while contributing to key accounting, reporting and financial control activities in a multicultural environment.\n\nRESPONSIBILITIES :\n•\tProcessing and managing the flow of transactions i.e. invoices and payments on a daily basis and ensuring that supplier accounts are up to date\n•\tLiaising with suppliers to ensure the account set-up is correct and payments are made on time\n•\tInvestigating and resolving any invoice discrepancies that arise \n•\tMaintaining purchase ledgers and ensuring all transactions are posted correctly\n•\tPreparing account reconciliations and reporting as part of month-end process\n•\tPreparing supplier payment runs\n•\tManaging the team mailbox\n•\tAssisting with year-end audit queries\n•\tSupporting the Accounts Receivable team as required\n•\tSupporting the CFO and Finance Manager with reporting requests or general support that might be required such as anlaysis, data for reporting etc\n\n\n\n\n\n\n\n\n\n\nJOB PURPOSE  :\n\nThe Accounts Assistant is a key role within the Accounts department. The candidate will mainly work in the Accounts Payable team but will also provide support to Accounts Receiveable and other areas of accounts such as pricing or data analysis as required.",
     "creationDate": "2026-07-17T11:40:31Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -976,9 +1144,107 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]"
+      "5",
+      "21",
+      "49",
+      "86",
+      "125",
+      "144",
+      "150",
+      "155",
+      "208",
+      "209",
+      "244",
+      "256",
+      "262",
+      "264"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "5",
+        "specializationParentId": "19",
+        "specializationLabel": "Audit",
+        "specializationLabelEn": "Auditing"
+      },
+      {
+        "specializationId": "21",
+        "specializationParentId": "193",
+        "specializationLabel": "Management",
+        "specializationLabelEn": "Management"
+      },
+      {
+        "specializationId": "49",
+        "specializationParentId": "239",
+        "specializationLabel": "Sciences",
+        "specializationLabelEn": "Sciences"
+      },
+      {
+        "specializationId": "86",
+        "specializationParentId": "81",
+        "specializationLabel": "Pharmacie",
+        "specializationLabelEn": "Pharmaceutics"
+      },
+      {
+        "specializationId": "125",
+        "specializationParentId": "81",
+        "specializationLabel": "Génie Biomédical",
+        "specializationLabelEn": "Biomedical Engineering"
+      },
+      {
+        "specializationId": "144",
+        "specializationParentId": "24",
+        "specializationLabel": "Big Data & Data Sciences",
+        "specializationLabelEn": "Data mining & analyst"
+      },
+      {
+        "specializationId": "150",
+        "specializationParentId": "58",
+        "specializationLabel": "Gestion de la production",
+        "specializationLabelEn": "Production Management"
+      },
+      {
+        "specializationId": "155",
+        "specializationParentId": "58",
+        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
+        "specializationLabelEn": "Prevention - Hygiene - Safety"
+      },
+      {
+        "specializationId": "208",
+        "specializationParentId": "58",
+        "specializationLabel": "Qualité produits",
+        "specializationLabelEn": "Quality products"
+      },
+      {
+        "specializationId": "209",
+        "specializationParentId": "58",
+        "specializationLabel": "Qualité systèmes",
+        "specializationLabelEn": "Quality systems"
+      },
+      {
+        "specializationId": "244",
+        "specializationParentId": "243",
+        "specializationLabel": "Supply chain",
+        "specializationLabelEn": "Supply chain"
+      },
+      {
+        "specializationId": "256",
+        "specializationParentId": "255",
+        "specializationLabel": "Biochimie",
+        "specializationLabelEn": "Biochemestry"
+      },
+      {
+        "specializationId": "262",
+        "specializationParentId": "58",
+        "specializationLabel": "Gestion de projets technologiques & innovation",
+        "specializationLabelEn": "Innovation & technology management"
+      },
+      {
+        "specializationId": "264",
+        "specializationParentId": "58",
+        "specializationLabel": "Gestion de projets industriels",
+        "specializationLabelEn": "Industrial project management"
+      }
+    ],
     "missionDescription": "Avertim Netherlands is currently looking for Quality Engineers able to assist in the continuous expansion of Avertim’s consulting activities in Life Sciences. Located in Amsterdam-Zuid, Avertim Netherlands is a trusted partner by the largest players in the Life Sciences sector.\n\n\n\nAs a Quality Engineer, you will play a key role in ensuring GMP compliance by managing and resolving Non-Conformities (NCs) and driving continuous improvement in quality processes. You will collaborate closely with cross-functional teams to investigate deviations, implement corrective and preventive actions (CAPAs), and uphold regulatory standards.\n\n\n\nKey responsibilities:\n\nLead the investigation, documentation, and resolution of NCs, ensuring timely and effective CAPA implementation, and manage change controls.\nPerform root cause analyses and risk assessments to prevent recurrence of deviations.\nEnsure compliance with GMP, FDA, EMA, and other regulatory requirements in all quality-related activities.\nCollaborate with production, quality control, and regulatory teams to drive improvements in GMP processes.\nConduct internal audits and support external regulatory inspections.\nMaintain and improve SOPs, batch records, and other GMP documentation.\nProvide GMP training and guidance to operational teams to enhance compliance awareness.\n\n\nYour background:\n\nA Master’s Degree in Engineering, Pharmacy, Life Sciences or related field\n2 years of experience in Pharmaceuticals, Biotech or Medical Devices.\nHands-on experience with NC management, CAPA implementation, change controls, and deviation investigations.\nExperience in cell & gene therapy is a plus.\nPlanning & organization – Planning & organization plans and organizes own work(load) in an effective way by setting priorities and meeting deadlines;\nCommunicating & influencing – Communicates with clarity, speaks and writes clearly and to the point; active listener;\nProficiency in Lean and Six Sigma methodologies or Project Management\nFluent in English\n\n\nAs an Avertimer, you will get the opportunity to:\n\nImmerse yourself into a young, vibrant, fast-growing team at our modern office, located in the Amsterdam business district, de Zuidas\nEnjoy our events, like team activities and afterworks.\nDevelop yourself in a place where individuals and ideas matter, in line with our company values:\n\n\nBe yourself\n\nTrust, ownership and respect\n\nListen and act\n\n\n\nWith offices in Brussels, Paris, Frankfurt and Amsterdam you will benefit from our international community. On top of that, we also support the opportunity to perform projects at multiple locations.\nAccess various learning and development opportunities and an interesting career track.\n\n\nAbout Avertim:\n\nAvertim is a uniquely positioned Management Consulting Group that bridges the gap between Strategy and Operations. Our mission is to translate the strategy of our clients into actionable projects and enable the alignment between Business, Technology and Management. Founded in 2007, and headquartered on Brussels’ famous Louise Avenue, Avertim has grown into a European consultancy group with more than 300 consultants and offices in Belgium, France, Germany, and the Netherlands.\n\n\n\n\n\nLooking for a challenging and exciting new step in your career at a recognised international consultancy firm that works with the top players in the Life Sciences sector?\n\nApply now!\n\n\n\n\n\nAt Avertim, we value talent and mindset. No difference will be made during the recruitment process and applicants will receive consideration for employment whatever their gender, marital status, religion, age, color, sexual orientation, nationality or disability, …",
     "creationDate": "2026-05-12T14:43:27Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1102,9 +1368,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"326\"]"
+      "326"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "326",
+        "specializationParentId": "19",
+        "specializationLabel": "Compliance et Régulation Financière",
+        "specializationLabelEn": "Compliance et Régulation Financière"
+      }
+    ],
     "missionDescription": "Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.\r\n\r\nEn étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.\r\n\r\nLe/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.\r\n\r\nVous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :\r\nCoordonner l'amélioration continue du dispositif de contrôle interne.\r\nParticiper au processus d'identification et d'évaluation des risques.\r\nMaintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.\r\nCoordonner les campagnes de contrôle trimestrielles.\r\nAccompagner les collaborateurs dans la réalisation des contrôles.\r\nAssurer le suivi des plans d'action et des mesures correctrices.\r\nÊtre l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.\r\nContribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.\r\n\r\nVous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :\r\n\r\nLa sécurité financière et le traitement des alertes relatives aux sanctions internationales.\r\nLes procédures d'évaluation des partenaires (Know Your Partner - KYP).\r\nLa gouvernance des produits (Product Governance).",
     "creationDate": "2026-10-05T15:26:02Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1319,9 +1592,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"8\"]"
+      "8"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "8",
+        "specializationParentId": "19",
+        "specializationLabel": "Comptabilité - Gestion",
+        "specializationLabelEn": "Accounting - Management"
+      }
+    ],
     "missionDescription": "# À propos de Wesype\n\nWesype accompagne les PMEs et ETIs à intégrer l’IA dans leurs métiers. Wesype est spécialisé en déploiement de plateforme agentique (Dust, Claude, Copilot …). \n\nLa société connaît une croissance très soutenue (+20 % par mois), est rentable et accompagne plus de 200 clients dans des industries variées (tech, fonds d'investissement, immobilier, cabinet de conseil, retail, notaires, avocats, experts-comptables).\n\n# L’équipe\n\nWesype est fondé par l'ancien fondateur de Cajoo et un ancien dirigeant de Spendesk (licorne française). Une équipe de 40 personnes entre Paris et Lisbonne, dynamique, ambitieuse et passionnée par la révolution GenAI que nous vivons. \n\n# Ton rôle\n\nTu assures la fiabilité de la gestion administrative, comptable et financière de Wesype. Tu travailles au quotidien avec les fondateurs, les cabinets comptables, les équipes opérationnelles et les conseils externes.\n\n### **1. Facturation, encaissements et contrats**\n\n- Tu prépares les devis et factures liés aux prestations de conseil, licences, commissions, partenariats et formations.\n- Tu suis les encaissements, les relances clients, les avoirs.\n\n### **2. Comptabilité et fiscalité**\n\n- Tu coordonnes les cabinets d’expertise comptable, rassembles les pièces et prépares les clôtures.\n- Tu contrôles les rapprochements bancaires, les comptes clients et fournisseurs et les principales écritures comptables.\n- Tu suis le calendrier des obligations fiscales et administratives des sociétés opérationnelles.\n\n### **3. Trésorerie et pilotage financier**\n\n- Tu mets à jour la trésorerie, les prévisions à court terme et le suivi des paiements à venir.\n- Tu contribues au budget, au suivi du réalisé par rapport au prévisionnel et à l’analyse des écarts.\n- Tu produis des reportings réguliers pour les fondateurs, incluant chiffre d’affaires, marge, coûts\n\n### **4. Dépenses, achats et fournisseurs**\n\n- Tu contrôles les notes de frais, justificatifs, dépenses engagées et demandes de paiement.\n- Tu suis les fournisseurs, abonnements, renouvellements et échéances importantes.\n- Tu structures les règles d’engagement et d’approbation des dépenses et identifies les leviers d’optimisation des coûts.\n\n### **5. Juridique, contrats et conformité**\n\n- Tu assures le suivi administratif des contrats clients, partenaires, revendeurs et fournisseurs.\n- Tu contribues à la mise à jour des CGV, documents légaux, assurances, Kbis et obligations corporate.\n- Tu accompagnes les sujets de financement, de dette ou d’évolution des structures juridiques.\n\n### **6. Administration RH et organisme de formation**\n\n- Tu coordonnes la paie, les dossiers administratifs des collaborateurs et les avantages sociaux.\n- Tu assures le suivi administratif des formations, conventions, émargements, formateurs externes et justificatifs Qualiopi.\n- Tu veilles au respect des processus liés à la formation, à la veille réglementaire et aux audits.\n\n### **7. Processus, outils**\n\n- Tu structures et documentes les processus financiers et administratifs, puis identifies les tâches à simplifier ou automatiser.",
     "creationDate": "2026-10-22T09:07:34Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1529,9 +1809,100 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"2\",\"6\",\"7\",\"17\",\"21\",\"26\",\"171\",\"234\",\"244\",\"321\",\"322\",\"326\",\"315\"]"
+      "2",
+      "6",
+      "7",
+      "17",
+      "21",
+      "26",
+      "171",
+      "234",
+      "244",
+      "321",
+      "322",
+      "326",
+      "315"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "2",
+        "specializationParentId": "243",
+        "specializationLabel": "Achats",
+        "specializationLabelEn": "Purchasing"
+      },
+      {
+        "specializationId": "6",
+        "specializationParentId": "193",
+        "specializationLabel": "Commerce International",
+        "specializationLabelEn": "International Trade"
+      },
+      {
+        "specializationId": "7",
+        "specializationParentId": "193",
+        "specializationLabel": "Commerce – Vente - Distribution",
+        "specializationLabelEn": "Trade - Sales - Distribution"
+      },
+      {
+        "specializationId": "17",
+        "specializationParentId": "239",
+        "specializationLabel": "Economie",
+        "specializationLabelEn": "Economics"
+      },
+      {
+        "specializationId": "21",
+        "specializationParentId": "193",
+        "specializationLabel": "Management",
+        "specializationLabelEn": "Management"
+      },
+      {
+        "specializationId": "26",
+        "specializationParentId": "216",
+        "specializationLabel": "Communication",
+        "specializationLabelEn": "Communication"
+      },
+      {
+        "specializationId": "171",
+        "specializationParentId": "227",
+        "specializationLabel": "Relations Internationales",
+        "specializationLabelEn": "International Relations"
+      },
+      {
+        "specializationId": "234",
+        "specializationParentId": "227",
+        "specializationLabel": "Affaires et études européennes",
+        "specializationLabelEn": "European affairs and studies"
+      },
+      {
+        "specializationId": "244",
+        "specializationParentId": "243",
+        "specializationLabel": "Supply chain",
+        "specializationLabelEn": "Supply chain"
+      },
+      {
+        "specializationId": "321",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance Verte et Responsable",
+        "specializationLabelEn": "Finance Verte et Responsable"
+      },
+      {
+        "specializationId": "322",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance internationale",
+        "specializationLabelEn": "Finance internationale"
+      },
+      {
+        "specializationId": "326",
+        "specializationParentId": "19",
+        "specializationLabel": "Compliance et Régulation Financière",
+        "specializationLabelEn": "Compliance et Régulation Financière"
+      },
+      {
+        "specializationId": "315",
+        "specializationParentId": "193",
+        "specializationLabel": "E-commerce",
+        "specializationLabelEn": "E-commerce"
+      }
+    ],
     "missionDescription": "This role focuses on managing the complete Order-to-Cash process, ensuring customer orders are accurately processed from receipt through delivery and invoicing. It serves as the primary point of contact for customers regarding order status, deliveries, invoicing, returns, and claims. The position requires close collaboration with supply chain, logistics, sales, finance, marketing, and planning teams to ensure smooth operations and high service levels. It involves resolving delivery challenges, stock shortages, and customer issues while maintaining strong customer relationships. The role also contributes to continuous improvement initiatives aimed at enhancing customer service performance and operational efficiency.\n\nManage customer orders throughout the entire Order-to-Cash cycle, from order entry to invoicing.\nMonitor and communicate order, delivery, and invoice status to customers and internal stakeholders.\nResolve delivery issues, stock shortages, returns, refusals, and customer claims in a timely manner.\nCoordinate with logistics providers and internal teams to validate and release blocked orders.\nSupport customer service excellence and participate in process improvement and operational optimization projects.",
     "creationDate": "2026-09-15T14:11:59Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1732,9 +2103,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"205\"]"
+      "205"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "205",
+        "specializationParentId": "19",
+        "specializationLabel": "Contrôle de gestion industriel",
+        "specializationLabelEn": "Industrial controlling"
+      }
+    ],
     "missionDescription": "Position Summary\nWe are seeking a detail-oriented Manufacturing Cost Accountant with 1–2 years of experience to support cost accounting and financial analysis within a manufacturing environment. The role focuses heavily on variance analysis (material, labor, and overhead) to provide actionable insights that improve plant performance, cost control, and profitability.\n\nKey Responsibilities\n1. Variance Analysis (Core Focus)\n•\tPrepare and analyze monthly cost variances between actual and standard costs (material, labor, and overhead).\n•\tInvestigate root causes of variances (e.g., scrap, inefficiencies, price fluctuations) and provide clear explanations to management. \n•\tPartner with operations, production, and engineering teams to identify corrective actions and cost improvements. \n•\tMonitor and report production, purchase price, and usage variances to highlight trends and risks. \n\n2. Cost Accounting & Product Costing\n•\tAssist in maintaining standard costing systems, including updating Bills of Materials (BOM) and routing assumptions. \n•\tSupport product costing and margin analysis for existing and new products. \n•\tTrack and analyze manufacturing costs (raw materials, labor, overhead). \n•\tValidate cost of goods sold (COGS) and ensure accurate inventory valuation. \n\n3. Month-End Close & Reporting\n•\tParticipate in month-end close activities, including journal entries, inventory adjustments, and WIP reconciliation. \n•\tPrepare cost reports, variance reports, and gross margin analysis for plant leadership. \n•\tReconcile inventory accounts and support financial reporting accuracy. \n\n4. Inventory & Operational Support\n•\tAssist with physical inventory counts, cycle counts, and inventory audits. \n•\tMonitor inventory movements and accuracy of production transactions. \n•\tAnalyze production efficiency, including labor utilization and scrap rates. \n\n5. Budgeting & Continuous Improvement\n•\tSupport budgeting and forecasting for manufacturing costs. \n•\tIdentify cost reduction opportunities and recommend process improvements. \n•\tHelp improve costing processes, controls, and reporting accuracy. \n\nQualifications\n•\tBachelor’s degree in Accounting, Finance, or related field. \n•\t1–2 years of experience in cost accounting, manufacturing accounting, or financial analysis. \n•\tExposure to standard costing and variance analysis required.\n•\tExperience with ERP systems (Business Central, Navision, SAP, Oracle, Dynamics, etc.) preferred. \n•\tStrong Excel skills (pivot tables, data analysis). \n\nKey Skills & Competencies\n•\tStrong analytical and problem-solving skills\n•\tAbility to interpret cost variances and translate into operational actions\n•\tKnowledge of manufacturing processes and cost drivers\n•\tEffective cross-functional communication with operations and finance teams\n•\tHigh attention to detail and accuracy\n\nPreferred Attributes\n•\tInternship or early-career experience in a plant or manufacturing environment\n•\tFamiliarity with inventory accounting and WIP tracking\n•\tExposure to lean manufacturing or continuous improvement initiatives\n\nSuccess Metrics for the Role\n•\tAccuracy and timeliness of variance reporting\n•\tQuality of root-cause analysis and recommendations\n•\tImprovements in cost visibility and operational decision support\n•\tReduction in unexplained or recurring cost variances",
     "creationDate": "2026-08-04T20:56:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1935,9 +2313,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"259\"]"
+      "259"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "259",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance",
+        "specializationLabelEn": "Finance"
+      }
+    ],
     "missionDescription": "You will support the Finance Department by providing reliable financial and business analysis, ensuring accurate management reporting, and contributing to budgeting, forecasting, and monthly closing processes, to facilitate informed decision-making and effective business performance monitoring.\nAmong your key resposabilities, you will contribute in: \n- Managing the BPC reporting application,\n- Preparing sales analysis reports,\n- Supporting the preparation and consolidation of final budgets,\n- Supporting the preparation of quarterly forecasts,\n- Supporting monthly accounting and management control closing processes,\n- Preparing business analyses and reports related to sales and finance to support informed decision-making.",
     "creationDate": "2026-10-19T12:59:21Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3377,9 +3762,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"180\"]"
+      "180"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "180",
+        "specializationParentId": "19",
+        "specializationLabel": "Finances de marchés - trading",
+        "specializationLabelEn": "Market Finance - trading"
+      }
+    ],
     "missionDescription": "We are CACEIS \nWe are an asset servicing banking group of Crédit Agricole  dedicated to asset managers, insurance companies, pension funds, banks, private equity and real estate funds, brokers and corporate clients. Through offices across Europe, North and South America and Asia, CACEIS offers a broad range of services covering execution, clearing, forex, securities lending, custody, depositary and fund administration, fund distribution support, middle office outsourcing and issuer services. \nWith assets under custody of €4.6 trillion and assets under administration of €2.2 trillion, we are a European leader in asset servicing and one of the major players worldwide. \n\nWhat is the opportunity? \n\nThe Fund Accountant t will be responsible for oversight checks and controls of daily NAV valuations completed by the FA production team, ensuring the timeliness and accuracy of the final NAV.  The successful will be involved with client reporting across the Fund Accounting team to produce daily, weekly and ad hoc reporting.  They will provide support to the Team Manager in a client centric team. \n\nWhat will you do? \n- Organise and own personal daily work schedule of allocated funds and reporting. This will include balancing NAV oversight responsibilities with reporting deliverables    \n- Provide Fund Accounting support to allocated clients \n- Supervise the accuracy, timeliness and completeness of all processes \n- Monitors key quality, productivity and risk measures and ensure that they are met or exceeded \n- Adhere to comprehensive operating procedures that ensure the accuracy, timeliness and completeness of all processes \n- Support team manager with project and client requests \n- Minimise processing errors and financial losses \n- Documentation of business support procedures \n- Coordinate and administer assignments and maintain schedules \n- Demonstrate awareness of technical requirements for accounting products \n- Build a cohesive team spirit within the Fund Accounting team that will foster a clear client service focus, operational efficiency and an error free environment. \n\nWhat do you need to succeed? \nMust-have \n- Post-secondary education in accounting/finance or equivalent \n- Previous financial services industry experience in an operations environment \n- Teamwork and cooperation oriented mindset \n- Good communication skills \n- Good business acumen  \n- Proven analytical thinking skills \n- Risk management and mitigation focus \n- Proven organisational and time management skills. \n\nNice-to-have \n- Industry, accounting or other recognised accredited program would be an asset \n- Client-facing experience  \n- Good presentation skills. \n\nWhy join CACEIS? \nWe thrive on the challenge to be our best - progressive thinking to keep growing and working together to deliver trusted advice to help our clients thrive and communities prosper.  We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual. \n- Leaders who support your development through coaching and managing opportunities \n- Opportunities to work with the best in the field \n- Ability to make a difference and lasting impact \n- Work in a dynamic, collaborative, progressive, and high-performing team \n- A world-class training program in financial services \n- Flexible working options fully supported.",
     "creationDate": "2026-10-14T16:25:24Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3440,9 +3832,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"3\"]"
+      "3"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "3",
+        "specializationParentId": "19",
+        "specializationLabel": "Actuariat",
+        "specializationLabelEn": "Actuarial activities"
+      }
+    ],
     "missionDescription": "We are seeking a highly motivated and detail-oriented Junior Underwriter / Actuarial Analyst to join our Underwriting team. This entry-level role is designed for a professional with 1-3 years of experience who is eager to learn and contribute to the assessment, analysis, and management of risks associated with travel Assistance and insurance products, with a foundational understanding of actuarial principles. The ideal candidate will support senior underwriters and the business in ensuring profitability, regulatory compliance, and pricing exercise.\n\nDimensions of the role\n•\tThe Underwriter will report to the Underwriting Manager\n•\tHe/she will interact with Commercial department, Operation/Work force management, Finance, Data, Product, Legal, Captive Manager and other UWs.\n•\tSupport Pricing activity, Actuarial, Underwriting and Reinsurance\n•\tPreparing analysis, evaluating Assistance, Insurance and reinsurance quotes. \n•\tWork to approve the coverages requested within specified underwriting authority, either as submitted or on a modified basis, or decline the risk in its entirety; refer to recommended action if risk exceeds underwriting authority.\n•\tIdentify and suggest creative underwriting solutions through knowledge of various options, Reference Based Pricing vendors.\n•\tPrepare pricing models according to guidelines and operating procedures\n\nKey responsibilities\nRisk Assessment & Underwriting Support:\n\tAssist in evaluating travel insurance applications, collecting data, and supporting risk exposure assessment.\n\tHelp analyze financial, medical, and travel-related information to inform underwriting decisions.\n\tLearn and apply underwriting guidelines consistently under supervision.\nPolicy Management Support:\n•\tSupport the issuance, renewal, and modification of travel insurance policies.\n•\tAssist in monitoring claims trends and loss ratios, providing data for underwriting strategy adjustments.\n•\tCollaborate with claims and actuarial teams to gather data for optimizing pricing and coverage.\n\nActuarial Analysis Support:\n•\tAssist the actuarial team with data collection, validation, and preliminary analysis for pricing and reserving.\n•\tSupport the development and maintenance of actuarial models under guidance.\n•\tContribute to experience studies and profitability analysis for travel insurance products.\n\nCompliance & Regulatory Adherence Support:\n•\tLearn and assist in ensuring all underwriting activities comply with regulatory and legal requirements in relevant markets.\n•\tStay informed about changes in insurance regulations and support the team in adjusting underwriting practices.\n•\tParticipate in data gathering for audits and compliance reporting.\n\nMarket Analysis & Product Development Support:\n•\tAssist in gathering data on market trends and competitor offerings to identify opportunities for product enhancements.\n•\tSupport the analysis of insights and recommendations for developing new travel insurance products and features.\n•\tContribute to the development of underwriting strategies to maintain a competitive edge.\n\nProcess Improvement:\n•\tIdentify and suggest minor areas for operational efficiencies and contribute to process improvements within the underwriting and actuarial functions.\n•\tLearn to leverage technology and data analytics to enhance underwriting accuracy and speed.\n\nOrganisational Summary \n \nAXA Partners is AXA’s global entity dedicated to co-building and distributing with partners simple, customer-centric, and innovative solutions that combine insurance, assistance, and other value-added services.\nAs an integral part of the Group Innovation unit, AXA Partners also plays a key role in the deployment of disruptive solutions emerging from this innovation ecosystem. \nThe combination of both missions’ positions AXA Partners today as a key pillar of AXA’s Payer-to-Partner strategy. \nWith the support of operating units established in 39 countries, our more than 9,000 employees are at the service of our customers anywhere, anytime.\nIn 2020, AXA Partners’ revenues reached €2.98 billion.",
     "creationDate": "2026-10-14T14:46:05Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -3874,9 +4273,23 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"259\",\"318\"]"
+      "259",
+      "318"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "259",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance",
+        "specializationLabelEn": "Finance"
+      },
+      {
+        "specializationId": "318",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance d'entreprise",
+        "specializationLabelEn": "Finance d'entreprise"
+      }
+    ],
     "missionDescription": "VIE Analyst M&A | Latin America (Portuguese speaking)\r\n\r\n\r\n\r\nRole Overview:\r\n \r\n\r\nEuro Latina Finance is seeking an M&A Analyst to join its execution team in São Paulo. This role offers the opportunity to work on high-profile transactions in Latin America, primarily Brazil and Colombia in a wide array of sectors. He/shell will work with our senior teams across different countries and will play a pivotal role in supporting deal execution, managing intern(s), and contributing to business development efforts.\r\n\r\nThis position is suited for an execution driven M&A professional who thrives in a fast paced, entrepreneurial environment and is keen to grow in a truly multicultural team.\r\n\r\nKey Responsibilities:\r\n\r\n1. Financial Analysis & Modeling\r\n•\tAnalyze companies’ financial statements\r\n•\tBuild and maintain detailed financial models \r\n\r\n2. Transaction Execution\r\n•\tSupport execution across different phases of M&A transactions\r\n•\tPrepare core transaction materials, including Teasers, CIMs, Management Presentations, Pitch Books, and investor/buyer lists.\r\n•\tConduct financial, strategic, and market analyses to support positioning and valuation\r\n•\tCoordinate due diligence processes, manage data rooms, and track Q&A with internal and external stakeholders.\r\n\r\n3. Client & Business Development Support\r\n•\tAssist in the preparation of proposals, pitch materials, and presentations for existing clients and prospects.\r\n•\tContribute to sector research, market updates, and strategic analyses to support origination efforts.\r\n\r\nManagement of Interns\r\n•\tSupervise and review intern(s)’ work, providing guidance and quality control\r\n\r\nWhy Join Euro Latina Finance?\r\n\r\n\r\n•\tGlobal and multicultural team based in three different locations across Latin America and Europe and led by its founder & CEO\r\n•\tGrowing company with a solid pipeline and deal flow perspective\r\n•\tVast array of sectors and mandates \r\n•\tOpportunity to work within a collegial culture that puts people first\r\n•\tPossibility to move to different offices within the firm in the future\r\n\r\nCompany description\r\nEstablished in 2010, Euro Latina Finance is an independent financial advisory firm specialized in cross-border transactions between Europe and Latin America.\r\nHeadquartered in Paris, with offices in São Paulo and Bogotá, Euro Latina Finance provides tailor-made M&A and strategic advice to a portfolio of blue-chip clients. The firm specializes in cross-border M&A transactions across a wide array of sectors between Europe/US and Latin America with values ranging from US$100mm – US$1bn+. \r\nSince its inception, Euro Latina Finance has advised c.30 successful transactions out of a total of c. 80 M&A projects.\r\nMore information: https://www.eurolatinafinance.com/ and https://www.eurolatinafinance.com/career",
     "creationDate": "2026-08-24T11:55:10Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -4007,9 +4420,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"259\"]"
+      "259"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "259",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance",
+        "specializationLabelEn": "Finance"
+      }
+    ],
     "missionDescription": "Présentation de la société :\nProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers.\n\nPoste et missions :\nProcapital propose des prestations de sous-traitance de négociation, conservation et tenue de comptes titres pour des clients institutionnels en Belgique.\n\nRattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :\n- Initiation des dossiers de transferts de titres entrants et sortants avec les contreparties\n- Gestion des transferts internes\n- Mise en place des instructions de transfert sur le marché\n- Suivi du dénouement des transferts\n- Traitement des réconciliations titres\n- Traitement des demandes clients\n- Participation à des réflexions ayants pour but l’amélioration de l’efficacité et productivité interne (amélioration de procédures, identification d’automatisations complémentaires…)",
     "creationDate": "2026-10-08T15:27:07Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4070,9 +4490,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"259\"]"
+      "259"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "259",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance",
+        "specializationLabelEn": "Finance"
+      }
+    ],
     "missionDescription": "Valeo’s VIE Program?\n\nThe Valeo VIE Program is available to citizens of the European Economic Area (EU + Norway, Liechtenstein and Iceland) aged between 18 and 28. This program is to work for one of our subsidiaries around the world!\nBusiness France, the French agency for international business development, is in charge of all the administrative procedures of your assignment. Make sure you meet Business France's eligibility criteria to apply for a VIE : https://mon-vievia.businessfrance.fr/\nPLEASE NOTE: Your application must be submitted in English to be considered by our non-French speaking teams partners at Valeo worldwide. \nPLEASE NOTE: As part of your international development, you cannot apply to a VIE assignment in the country of your citizenship\n***\nJoin our teams mobilized to meet the challenge of accelerating electrification!\n\nAt the heart of electric mobility, Valeo Power brings together expertise in thermal management systems and propulsion systems. This division develops innovations that contribute to the mobility of tomorrow by reducing pollutant emissions and maximizing vehicle autonomy.\n\nThe site of Erlangen based in Germany belongs to the POWER Division. We are looking for a VIE Business Management Controller for 24 months within the team.\n\nYour challenges?\n\n- You will work in close collaboration with the Project Manager and the project team as a full team member, ensuring the reliability of the project’s economics from the RFQ / P1 phase until series production.\n- You will build and maintain the project’s provisional P&L, investment plan, and cash flow projections.\n- You will ensure the consistency of the industrial and economic scenario, including volumes, inflation balance, investments, and R&D costs.\n- You will provide the Project Manager with a comprehensive understanding of production costs, including standard times, hourly rates, and fixed cost allocations.\n- You will prepare clear syntheses and presentations for upper management, transparently explaining whether and under which conditions a business is profitable.\n- You will follow up on project costs (R&D, investments, prices) and key KPIs throughout the complete development phase.\n- You will track and manage customer contributions, subsidies, and tooling sales across cash flow, P&L, and balance sheet perspectives.",
     "creationDate": "2026-10-08T09:12:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4273,9 +4700,23 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"180\",\"259\"]"
+      "180",
+      "259"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "180",
+        "specializationParentId": "19",
+        "specializationLabel": "Finances de marchés - trading",
+        "specializationLabelEn": "Market Finance - trading"
+      },
+      {
+        "specializationId": "259",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance",
+        "specializationLabelEn": "Finance"
+      }
+    ],
     "missionDescription": "Le Corporate Access est un service intégré au sein des salles des marchés d'ODDO BHF Securities et destiné à mettre en relation des sociétés cotées européennes avec des investisseurs institutionnels français et étrangers. Cela prend la forme de roadshows, composés de meetings (One-to-One, One-to-Few, Group meetings) entre sociétés de gestion et des sociétés cotées, de road trip, de visites de site, de forums.\r\nAu sein de l'organisation globale des opérations d’ODDO BHF Corporates &amp; Markets sur les marchés Equity, vos principales missions seront les suivantes : \r\n•Organisation des roadshows (emailings, contacts avec des Corporates et la base clients, mise à jour de base de données (CRM))\r\n•Organisation des événements avec nos analystes (roadshow des analystes, visioconférence thématiques hebdomadaires).\r\nSelon le sérieux et la fiabilité du volontaire, possibilités d’évolution et de prises de responsabilité.\r\n•Aide à l’organisation des forums (création de save-the-date/invitations, relation avec les prestataires, gestion de la base de données et des relations clients, statistiques)\r\nVotre équipe et votre environnement\r\nVous serez basé(e) à Francfort et intégrerez une équipe jeune et dynamique présente en France (Paris et Lyon), à Francfort, à Amsterdam et à New York. Au regard du champ d’application du poste, vous serez également amené à échanger fréquemment avec des interlocuteurs présents dans toutes nos plateformes Equity (Tunisie, Allemagne, Pays-Bas, Espagne, Etats-Unis).\r\nEn tant que collaborateur au sein de l’équipe Corporate Access, vous intégrerez l’organisation d’un intermédiaire de marché et serez :\r\n- d’une part au contact des investisseurs institutionnels (que comprends notamment ODDO BHF AM et ODDO BHF BP), nos clients pris en charge par nos équipes de vente,\r\n- d’autre part au contact des managements et équipes des Relations Investisseurs des sociétés cotées, couverte par nos analystes sell-side.\r\nCette double exposition vous permettra d’appréhender les différents métiers qui composent le brokerage et de comprendre leur apport et leur besoin",
     "creationDate": "2026-10-08T07:14:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4574,9 +5015,65 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"5\",\"8\",\"9\",\"200\",\"259\",\"318\",\"320\",\"324\"]"
+      "5",
+      "8",
+      "9",
+      "200",
+      "259",
+      "318",
+      "320",
+      "324"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "5",
+        "specializationParentId": "19",
+        "specializationLabel": "Audit",
+        "specializationLabelEn": "Auditing"
+      },
+      {
+        "specializationId": "8",
+        "specializationParentId": "19",
+        "specializationLabel": "Comptabilité - Gestion",
+        "specializationLabelEn": "Accounting - Management"
+      },
+      {
+        "specializationId": "9",
+        "specializationParentId": "19",
+        "specializationLabel": "Contrôle de Gestion",
+        "specializationLabelEn": "Management Auditing"
+      },
+      {
+        "specializationId": "200",
+        "specializationParentId": "19",
+        "specializationLabel": "Direction financière (DAF, RAF)",
+        "specializationLabelEn": "Finance department"
+      },
+      {
+        "specializationId": "259",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance",
+        "specializationLabelEn": "Finance"
+      },
+      {
+        "specializationId": "318",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance d'entreprise",
+        "specializationLabelEn": "Finance d'entreprise"
+      },
+      {
+        "specializationId": "320",
+        "specializationParentId": "19",
+        "specializationLabel": "Analyse financière",
+        "specializationLabelEn": "Analyse financière"
+      },
+      {
+        "specializationId": "324",
+        "specializationParentId": "19",
+        "specializationLabel": "Banque et Ingénierie Financière",
+        "specializationLabelEn": "Banque et Ingénierie Financière"
+      }
+    ],
     "missionDescription": "I – Description du groupe Amethis\r\nLe groupe Amethis est un gestionnaire de fonds d’investissement dédié au continent africain & la région MENA. Amethis investit en capital-développement dans des entreprises en forte croissance dans une diversité de secteurs. Amethis a investi dans des sociétés présentes dans plus de 20 pays et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.\r\n\r\nII – Contexte AIFM (Aspect règlementaire)\r\nAmethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissement alternatifs (GFIA). Créée en 2017, elle est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg.\r\n\r\nIII – Rôle / Mission\r\nLe poste sera rattaché au Finance & Risk Manager, avec une exposition régulière au comité exécutif de l’AIFM, aux équipes d’investissement, aux investisseurs, aux auditeurs et aux prestataires des fonds.\r\nMissions principales :\r\nRisk Management\r\nInvestment process : rédaction des notes de risque pour chaque opération présentée en comité d’investissement, puis suivi du risque de chaque participation jusqu’à la sortie.\r\nConformité et limites : contrôle ex ante et ex post de la conformité des opérations aux documents des fonds (PPM, LPA) et aux limites de risque (concentration pays, secteur et émetteur, devise, levier, liquidité).\r\nRisk Report : élaboration du Risk Report semestriel couvrant l’ensemble des fonds, et des supports risk présentés au comité exécutif et au Conseil d’administration de l’AIFM.\r\nRéglementaire : contribution aux reportings réglementaires.\r\n\r\nFund administration\r\n\r\nOpérations des fonds : préparation des appels de fonds et des distributions (calculs par investisseur, notices, suivi des encaissements).\r\nNAV et performance : revue des NAV trimestrielles produites par l’administrateur et suivi des indicateurs de performance (TVPI, DPI, TRI).\r\nReporting investisseurs : préparation du reporting trimestriel aux investisseurs et réponses à leurs demandes ponctuelles.\r\nTrésorerie : suivi de la trésorerie des fonds et des prévisions de cash.\r\nPrestataires : coordination avec l’administrateur, le dépositaire, les banques et les auditeurs ; participation à l’audit annuel des fonds.\r\nAide au développements d’outils internes de pilotage de la performance financière / digitalisation / cost monitoring.\r\n\r\nCorporate scope\r\nArrêtés trimestriels : appui à l’arrêté des entités du groupe (AIFM, GP, holdings et bureaux de Paris, Luxembourg, Casablanca, Nairobi, Abidjan, Le Caire et Le Cap).\r\nPilotage : suivi du cash, des budgets et des atterrissages, avec analyse des écarts.\r\nIntragroupe : suivi des refacturations intragroupe et appui aux audits des sociétés du groupe.",
     "creationDate": "2026-10-07T14:09:31Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -5274,9 +5771,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"259\"]"
+      "259"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "259",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance",
+        "specializationLabelEn": "Finance"
+      }
+    ],
     "missionDescription": "About CAPZA\r\n\r\nCAPZA(1) is an established European private investment platform focused on small and mid-cap companies, which is part of BNP Paribas Asset Management Alts, a leading European alternative investment platform with over €300bn in assets under management (2).\r\n\r\nWith €10.5 billion of assets(3), CAPZA puts its experience and passion for investing at the service of investors in Europe and worldwide with its platform of 6 complementary areas of expertise: Growth Tech, Flex Equity, Flex Equity Mid-Market, Transition(4), Private Debt et Artemid(5).\r\n\r\nCAPZA offers financing solutions to small and mid-cap companies at every stage of their development. Its unique platform allows CAPZA to support companies over the long term by providing them with custom made financing solutions (majority equity, minority equity, subordinated debt, senior debt, etc.). CAPZA is a generalist but has built up strong expertise in supporting companies in the health, technology and services sectors.\r\n\r\nCAPZA Group has more than 120 employees based in Paris, Munich, Madrid, Milan and Amsterdam, and is part of AXA IM Alts, one of the world's leading alternative investment firms with €190 billion in assets under management5.\r\n\r\nMore information: www.capza.co\r\n\r\n CAPZA in figures\r\n\r\n- 266 SMEs and mid-sized companies supported since 2004\r\n- Over 120 employees based in Paris (our headquarters), Munich, Madrid, Milan, and Amsterdam\r\n- €10.5 billion in assets under management\r\n\r\nWould you like to join a mid-sized company where you can truly make an impact on its development? We are looking for talented and motivated candidates to support the growth of our platform. Team spirit is deeply rooted in CAPZA’s entrepreneurial culture. Our employees are curious, pragmatic, and humble. They are passionate about their work and place excellence at the heart of everything they do.\r\n\r\n📌 CAPZA is committed to equal opportunity and positive action in employment. We are dedicated to recruiting talented and diverse individuals and to fostering an inclusive and collaborative culture, as we believe that multiple perspectives lead to better-informed decisions. We welcome candidates with diverse life experiences who are eager to bring fresh ideas and recognized expertise in their field.\r\n\r\n\r\n(1)CAPZA is the commercial name of Atalante SAS, portfolio management company approved on 11/29/2014 by the « Autorité des Marchés Financiers » under GP-04000065.(2)Source: BNP Paribas AM Alts as of 30/09/2025.(3)Including assets advised by Artemid SAS. Based on valuations as of 30/09/2025 and including funds raised until December 2026.(4) The funds of the CAPZA Transition range are managed by the asset management company CAPZA, and advised by CAPZA Transition SAS which has financial investment advisor status (CIF in France), is registered under the Orias under the number 18001601 since the 03/23/2018.(5) The funds of the Artemid range are managed by the asset management company CAPZA and advised by Artemid SAS, which is a subsidiary of CAPZA and has financial investment advisor status (CIF in France). Artemid SAS is registered by the Orias under the number 14003497 since the 05/28/2014.\r\n\r\nAbout CAPZA Private Debt\r\n\r\nCAPZA is a leading private debt investor with over 20 years of experience, actively investing across five core regions: France, Germany, Benelux, Spain, and Italy. With more than €5 billion in commitments and over 340 investments since 2004, CAPZA has built an exceptional long-term track record and is currently raising its seventh private debt fund. Through our regional offices, we maintain strong local relationships and networks to identify the most attractive investments opportunities, ranging from Unitranches and junior debt to equity-linked instruments. CAPZA is seeking a VIE in Munich for its Private Debt strategy to support the analysis and execution of investments across the DACH region.\r\n\r\nKey Responsibilities\r\n\r\nOur VIEs become fully integrated members of the investment team to take the following responsibilities:\r\n-  Supporting the analysis and execution of potential private debt investments in mid-cap companies across the DACH region.\r\n-  Screening investment opportunities by conducting detailed financial and commercial analysis for credit assessments which form the basis for decisions on new investments.\r\n-  Preparing and reviewing LBO models to determine adequate debt capacities and structures.\r\n-  Contributing to drafting investment memoranda on new opportunities for the Investment Committee.\r\n-  Supporting the monitoring and reporting of existing investments in the portfolio.\r\n-  Creating high-quality presentations and pitch materials for internal and external stakeholders.\r\n-  Contributing to internal projects and related tasks to drive growth, efficiencies, and collaboration.",
     "creationDate": "2026-09-28T14:45:27Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -5869,9 +6373,16 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "[\"318\"]"
+      "318"
     ],
-    "specializations": null,
+    "specializations": [
+      {
+        "specializationId": "318",
+        "specializationParentId": "19",
+        "specializationLabel": "Finance d'entreprise",
+        "specializationLabelEn": "Finance d'entreprise"
+      }
+    ],
     "missionDescription": "Louis Dreyfus Company (LDC) has been a key player in the global coffee industry for more than 30 years. We specialize in all major Arabica and Robusta coffee qualities, serving a diverse customer base worldwide, ranging from specialty roasters to multinational food and beverage companies.\r\n\r\nWe are looking for a highly motivated and analytical individual to join our Coffee Financial Planning & Analysis (FP&A) team, reporting to the FP&A Manager for the Coffee Platform in EMEA.\r\n\r\nIn this role, you will support the FP&A Manager in delivering recurring monthly performance analysis, coordinating budgeting and forecasting activities, and contributing to a range of ad hoc, cross-functional projects. You will work closely with multiple teams across the EMEA region, gaining exposure to the commercial, operational, and financial aspects of the coffee business.\r\n\r\nThis position offers a unique opportunity to develop your FP&A skills within a dynamic and international environment. Based in Kampala, Uganda, LDC's largest coffee origination platform in EMEA, you will gain unique exposure to the coffee supply chain, from origin to destination markets. This role offers the opportunity to work closely with commercial, operational, and finance teams while developing a solid foundation in business partnering, financial analysis, and commodity markets. For motivated individuals, it represents an excellent entry point into LDC and a strong platform from which to pursue future career opportunities across Finance, Commercial, Operations, or other functions within the Group.\r\nFinancial performance & reporting \r\n\r\n•\tDeliver comprehensive monthly performance analysis, comparing reported numbers to the budget, while clearly identifying and explaining key variances and underlying business drivers.\r\n•\tContribute to the preparation of the Monthly Performance Review (MPR), including analytical files and presentation materials, ensuring accuracy, consistency, and clear financial messaging.\r\n•\tSupport the FP&A Manager in delivering ad hoc financial analyses for management and business stakeholders, including profitability reviews, OPEX deep-dives, trend analysis, and scenario modeling.\r\nBusiness Partnering & Decision Support\r\n\r\n•\tContribute to budget, forecast, and landing exercises by challenging assumptions and assessing associated risks and opportunities.\r\n•\tParticipate in discussions with commercial and finance teams to understand the financial performance of the Coffee Platform and the drivers of profitability.\r\n•\tDevelop financial models and scenario analyses to evaluate business performance, operational initiatives, and market developments.\r\n\r\nProcess Improvement & Digitalization\r\n•\tIdentify opportunities to improve reporting processes, data quality, and analytical tools through automation and simplification initiatives. \r\n•\tAct as a key liaison between Finance, IT, and business teams to enhance reporting systems and strengthen data integrity.\r\nThe scope is the LDC EMEA Coffee Platform.",
     "creationDate": "2026-07-23T07:37:46Z",
     "missionStartDate": "2027-01-01T00:00:00",
