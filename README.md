@@ -8,11 +8,104 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **28/10/2026 11:37:21**, 77 offre(s) actuellement en ligne.
+Dernière vérification : **28/10/2026 17:49:06**, 78 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Analyste Trésorerie et process (H/F)</strong> · CARREFOUR MANAGEMENT · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
+
+- **Entreprise :** CARREFOUR MANAGEMENT
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 743,28 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 28/10/2026
+- **Compatibilité avec ton profil :** 82 % — Le profil de Nathan correspond fortement aux attentes techniques et financières de l'offre grâce à ses compétences avancées en Excel, Power BI, gestion du BFR et analyse de données, ainsi qu'à son solide parcours en contrôle de gestion. Les principaux écarts résident dans la spécialisation initiale en trésorerie pure et la langue du pays d'affectation (Brésil), bien que son anglais courant et sa forte agilité internationale atténuent ce décalage.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247629](https://mon-vie-via.businessfrance.fr/offres/247629)
+
+**Description du poste**
+
+V.I.E Analyste Trésorerie et process (F/H) - Brésil 
+
+📍Date : Mars 2027 
+🌎Pays : São Paulo, Brésil 
+⏱️Durée : 12 mois renouvelables (24 mois au total) 
+
+Participer à l’aventure d’un groupe en pleine transformation, ça te tente ?
+
+Créateur de l’hypermarché, deuxième distributeur mondial et premier en Europe, Carrefour reste fidèle à ses racines mais se réinvente pour permettre à chacun, chaque jour, de manger mieux : plus sain, plus local, plus responsable.
+Nos atouts pour y parvenir ? Un réseau multiformat de magasins, la création de services et d'une offre digitale de référence, une coopération renforcée avec les acteurs du monde agricole, de la chaîne alimentaire, de la Tech… et des collaborateurs passionnés, qui s’engagent, challengent leur métier et grandissent ensemble pour réussir la transition alimentaire pour tous ! 
+
+Le groupe Carrefour est également engagé dans une ambitieuse transformation pour devenir une Digital Retail Company, qui place le digital et la data au cœur de toutes ses opérations et de son modèle de création de valeur. Conçu pour développer nos futurs leaders à l’international, le V.I.E Program Talent Carrefour permet d’accéder à des missions à forte valeur ajoutée pour accompagner ton développement et accélérer la transformation de Carrefour. Nous recherchons des candidat(e)s ayant une réelle motivation et un goût prononcé pour le challenge et l’innovation !
+
+TA FILIALE :
+Depuis 50 ans, Carrefour Brésil est un pionnier de la distribution sur le marché brésilien, avec une présence quotidienne dans la vie de millions de consommateurs grâce à son vaste réseau et le défi d'améliorer la qualité des aliments à un prix accessible pour des milliers de foyers brésiliens.
+Carrefour est le premier distributeur alimentaire au Brésil, présent dans plus de 150 villes des 26 États brésiliens et dans le district fédéral. Notre réseau s'appuie sur la force de nos marques Atacadão (plus de 400 magasins), Carrefour et Sam's Club. Ces marques sont parmi les plus reconnues dans le secteur de la vente en gros et des hypermarchés au Brésil. Pour soutenir cette présence unique, nous opérons un réseau logistique puissant composé de plus de 40 centres de distribution stratégiquement répartis, garantissant l'approvisionnement de plus de 900 points de vente.
+
+Il y a cinq formats de magasins au Brésil : 
+- Cash & carry et commerce de gros (tous deux sous la marque Atacadão) 
+- Hypermarchés (sous la marque Carrefour, dont des pharmacies et stations essence)
+- Supermarchés (sous les marques Carrefour Bairro et Carrefour Market) 
+- Magasins de proximité (sous la marque Carrefour Express)
+
+TON ENVIRONNEMENT DE TRAVAIL : 
+Au sein de la Trésorerie Groupe, et plus particulièrement de l’équipe en charge de la gestion de la trésorerie et des moyens de paiement (Corporate Treasury / Cash and Means of Payment).
+Tu seras amené(e) à échanger avec :
+- Comptabilité et FP&A : Collaborer au suivi des flux financiers et à la fiabilité des données comptables et prévisionnelles.
+- Contrôle de gestion et équipes Back Office : Coordonner les opérations de trésorerie et de paiement avec les équipes opérationnelles et les centres de services.
+- Audit et contrôle interne : Contribuer à la maîtrise des risques, au respect des procédures et à la sécurisation des opérations.
+- Juridique et Fiscalité : Travailler en collaboration sur les enjeux réglementaires, contractuels et fiscaux liés aux activités de trésorerie et aux moyens de paiement.
+
+TES MISSIONS : 
+Tu seras  amené(e) à : 
+- Développer une compréhension approfondie des processus de trésorerie du Groupe Carrefour Brésil, notamment la gestion des flux de trésorerie, les placements, les prévisions financières et les instruments de couverture (hedging).
+- Soutenir le développement et l'automatisation des processus récurrents.
+- Créer des tableaux de bord et appuyer les analyses de données permettant à la direction de prendre des décisions plus rapides et plus précises sur des sujets tels que : les variations des flux de trésorerie, les charges financières, le besoin en fonds de roulement (BFR / Working capital), l'évolution et les tendances des règlements / paiements.
+
+Tes objectifs sont les suivants : 
+- Travailler avec des volumes importants de données financières, en structurant des bases d'informations fiables pour les analyses récurrentes de la Trésorerie.
+- Identifier les opportunités d'amélioration des processus existants en proposant des solutions fondées sur l'automatisation, la modélisation de données et la digitalisation.
+- Appuyer l'équipe Trésorerie dans la préparation des analyses financières et des rapports de gestion destinés à éclairer les prises de décision.
+
+AVANTAGES DU VIE TALENT PROGRAM CARREFOUR : 
+Nous rejoindre, c’est bénéficier d’un accompagnement signature : 
+- Prise en charge du voyage A/R et aide au logement.
+- Cours de langue en portugais (40h) pour t’accompagner lors de tes premiers pas. 
+- Programme de formation sur mesure pour développer tes soft et hard skills.
+- Un suivi individuel, par le Groupe et le Brésil, avec un accompagnement carrière en fin de mission.
+
+**Profil recherché**
+
+LE PROFIL :
+De formation supérieure bac+5 (M2), tu es diplômé(e) d’une école de commerce, d’ingénieurs ou d’une université avec une spécialité financière (en trésorerie est un plus).
+
+Qualités recherchées :
+
+Compétences techniques (Technical Skills) :
+- Solides capacités d'analyse et compétences quantitatives, avec la capacité de traiter de grands volumes de données financières.
+- Connaissance des concepts de trésorerie d'entreprise, notamment la gestion des flux de trésorerie, le besoin en fonds de roulement (BFR) et les moyens de paiement.
+- Expérience pratique des outils d'analyse et de visualisation de données (ex. : fonctions avancées d'Excel, Power BI, Tableau ou équivalent).
+- Compréhension de base des flux de trésorerie et des moyens de paiement.
+- Connaissance de l'automatisation et de la structuration de données (ex. : VBA, Python, SQL ou outils similaires constituent un plus).
+- Capacité à structurer et maintenir des bases de données financières fiables.
+
+Compréhension financière & Business (Business & Financial Understanding) :
+- Compréhension de la finance d'entreprise et des opérations de trésorerie.
+- Capacité à traduire des données financières en enseignements stratégiques (insights) pour éclairer les prises de décision de la direction.
+
+Compétences relationnelles (Soft Skills) :
+- Capacités de résolution de problèmes et esprit critique.
+- État d'esprit proactif axé sur l'amélioration continue et l'automatisation des processus.
+- Sens de l'organisation et rigueur / souci du détail.
+- Capacité à travailler dans un environnement transversal et international.
+
+Langues : 
+Anglais : niveau courant requis
+Portugais : la maîtrise est un plus
+
+</details>
 
 <details>
 <summary><strong>Financial Analyst (H/F)</strong> · TRANSDEV GROUP · LOMBARD  -IL-, ETATS-UNIS · 3 813,78 €/mois</summary>
@@ -100,44 +193,6 @@ Strong working knowledge of analytical and AI tools .
 </details>
 
 <details>
-<summary><strong>Chargé(e) de financement  Amérique du Nord (H/F)</strong> · WAGA ENERGY · PHILADELPHIE -PA-, ETATS-UNIS · 3 714,31 €/mois</summary>
-
-- **Entreprise :** WAGA ENERGY
-- **Lieu :** PHILADELPHIE -PA-, ETATS-UNIS
-- **Indemnité :** 3 714,31 €/mois
-- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
-- **Publiée le :** 28/10/2026
-- **Compatibilité avec ton profil :** 65 % — Le candidat possède une excellente maîtrise d'Excel, de solides compétences en analyse financière et un profil international avéré avec un très bon niveau d'anglais. Cependant, l'offre requiert une expertise spécifique en financement de projets et modélisation financière complexe en banque d'affaires ou fonds, plutôt qu'en contrôle de gestion pure.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247556](https://mon-vie-via.businessfrance.fr/offres/247556)
-
-**Description du poste**
-
-Accompagner l'équipe financement dans l’identification, l’initiation et la poursuite des nouvelles opportunités permettant d’optimiser le financement des projets de l’entreprise en particulier aux Etats-Unis et au Canada ;  
-Accompagner  l'équipe financement dans la mise en place du processus de financement en liaison avec les processus des équipes concernées :  
-- Standardiser les modèles et la documentation financière ;  
-- Organiser et coordonner les opérations de financements ;  
-- Elaborer des dossiers de demandes de financements : info mémo, modèle financier…  
-- Négocier des Term Sheet bancaires et des garanties données ;  
-- Superviser des contrats de prêts, accords inter-créanciers et contrat de suretés ;  
-- Mettre en place des instruments de couvertures de taux.  
-Optimiser les financements existants et actifs ;  
-Accompagner l'équipe financement dans la réalisation des présentations des projets en interne (Direction et Conseil d’Administration) et  à l’externe (partenaires financiers) ;  
-Effectuer un reporting et un suivi de l’ensemble de ces activités; 
-Réaliser des veilles concurrentielles et réglementaires en lien avec les activités de la filiale; 
-Apporter du support au département Développement des affaires lors de la préparation des plans d’affaires des nouveaux projets;
-
-**Profil recherché**
-
-Formation initiale : BAC + 5, Ecole de commerce ou ingénieur avec majeur finance, ou formation universitaire équivalente 
-Expérience(s) : Expérience en financement de projets en banque d’affaires, fonds d’investissements ou en entreprises. Une expérience dans les énergies renouvelables serait un atout. 
-Bonne compréhension des transactions complexes à forte dimension financière.
-Solides connaissances des marchés financiers
-Maitrise des aspects juridiques et fiscaux des montages et de la gestion des risques
-Solides connaissances et maitrise d'Excel et du modeling financier.
-
-</details>
-
-<details>
 <summary><strong>V.I.E - EQUITY RESEARCH - VIENNA (AUSTRIA) (H/F)</strong> · ODDO BHF SCA · VIENNE, AUTRICHE · 3 024,47 €/mois</summary>
 
 - **Entreprise :** ODDO BHF SCA
@@ -171,6 +226,64 @@ Your tasks will include:
 - Strong analytical and problem-solving skills with attention to detail
 - Ability to work independently and as part of a team
 - Highly motivated, proactive, and eager to learn
+
+</details>
+
+<details>
+<summary><strong>VIE - Corporate Coverage Associate - Francfort - H/F (H/F)</strong> · BNP PARIBAS · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** BNP PARIBAS
+- **Lieu :** FRANCFORT, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 28/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247641](https://mon-vie-via.businessfrance.fr/offres/247641)
+
+**Description du poste**
+
+Au quotidien, ça donne quoi ?
+
+En tant que V.I.E Corporate Coverage Associate, vous contribuerez au suivi et au développement de la relation avec de grandes entreprises internationales et des entreprises de taille intermédiaire. Vous participerez au suivi des opportunités commerciales, aux revues stratégiques de l’activité ainsi qu’à la préparation des budgets.
+
+Vous travaillerez en coordination avec les banquiers Corporate Coverage du réseau BNP Paribas à travers le monde. Vous préparerez et contribuerez aux rendez-vous et échanges avec les clients, aux côtés de spécialistes de différents métiers tels que le Corporate Finance, les marchés de capitaux de dette, le Cash Management ou encore les solutions de commerce international.
+
+Vous jouerez également un rôle important dans l’analyse du risque de crédit. Vous réaliserez les analyses financières des prospects et des clients et préparerez les dossiers nécessaires aux décisions de crédit. Vous assurerez le suivi du risque de crédit d'un portefeuille de clients et contribuerez à la structuration ainsi qu’à la documentation des opérations de financement.
+
+Vous participerez par ailleurs à la mise en œuvre des transactions et au suivi de leur cycle de vie. Vous veillerez à la qualité et à l’actualisation des informations dans l’outil de gestion de la relation client et contribuerez à la mise en place des plans d’actions clients avec les différentes lignes métiers.
+
+Enfin, vous coordonnerez les processus réglementaires liés à l’entrée en relation et à la mise à jour des dossiers clients et veillerez à l’application des politiques et procédures de BNP Paribas en matière environnementale, sociale et de responsabilité d’entreprise.
+
+Et après ?
+
+Cette expérience vous permettra de développer une connaissance approfondie de la banque de financement et d’investissement ainsi qu’une vision transverse de la relation avec les entreprises dans un environnement international.
+
+Vous renforcerez vos compétences en analyse financière et crédit, en gestion de la relation client, en structuration et suivi de financements ainsi qu’en coordination avec de nombreux métiers et implantations du Groupe.
+
+Cette expérience pourra ainsi constituer un tremplin vers différentes fonctions au sein de la banque de financement et d’investissement et de la couverture Corporate.
+
+Les avantages à nous rejoindre
+
+Et la rémunération ?
+
+Fixée par arrêté ministériel, elle est versée mensuellement et se compose de deux éléments :
+
+Une indemnité commune, identique pour tous les jeunes en mission ;
+Une indemnité géographique, variable selon le pays, et parfois la ville, de destination.
+Cette indemnité est recalculée chaque trimestre.
+
+Retrouvez plus d’informations sur le site de Business France.
+
+**Profil recherché**
+
+Êtes-vous notre prochain ou notre prochaine V.I.E – Corporate Coverage Associate – Francfort H/F ?
+
+À vous de nous convaincre !
+
+Diplômé d’un Bac+5 minimum en école de commerce, université ou équivalent universitaire, avec une spécialisation en finance, économie, comptabilité ou domaine équivalent, vous disposez idéalement d’une première expérience professionnelle en Corporate Banking ou Investment Banking, notamment sur des fonctions d’analyste. Vous possédez de solides connaissances en analyse financière et en comptabilité.
+
+Vous maîtrisez l’allemand et l’anglais à un niveau professionnel (C1) et êtes à l’aise avec les outils Microsoft Office, notamment Excel et PowerPoint. Votre orientation client et votre attention aux détails seront également essentielles pour réussir dans vos missions.
+
+Votre réussite sur ce poste reposera enfin sur les compétences comportementales particulièrement attendues : collaboration active, organisation, communication, capacité d’analyse et adaptabilité, qui vous permettront d’évoluer efficacement avec de nombreux interlocuteurs dans un environnement bancaire international.
 
 </details>
 
