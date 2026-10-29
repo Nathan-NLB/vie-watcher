@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **28/10/2026 22:27:54**, 78 offre(s) actuellement en ligne.
+Dernière vérification : **29/10/2026 02:11:48**, 77 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1549,71 +1549,6 @@ Fluency in English and French; Dutch proficiency is considered an advantage.
 Strong proficiency in Microsoft Excel and the Microsoft Office suite.
 Excellent analytical, organizational, problem-solving, and customer service skills.
 Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG environments is beneficial.
-
-</details>
-
-<details>
-<summary><strong>Responsable d’études – Attaché(e) économique et financier (H/F)</strong> · DIRECTION GENERALE DU TRESOR · ANKARA, TURQUIE · 2 582,00 €/mois</summary>
-
-- **Entreprise :** DIRECTION GENERALE DU TRESOR
-- **Lieu :** ANKARA, TURQUIE
-- **Indemnité :** 2 582,00 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 22/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247387](https://mon-vie-via.businessfrance.fr/offres/247387)
-
-**Description du poste**
-
-MISSION ET ATTRIBUTIONS DU VIA :
-Les missions du SER d’Ankara s’organisent autour de deux objectifs classiques : renforcer la relation bilatérale économique sur tous ses pans (échanges commerciaux, investissements croisés, appui aux grands projets) et promouvoir l’attractivité de la France. Ces missions valent pour la Turquie comme pour les trois autres pays sous la responsabilité du SER : l’Azerbaïdjan, la Géorgie et l’Arménie.
-
-Placé(e) sous l’autorité du Conseiller Financier, chef du pôle macro-économie/finances, le/la VIA :
-•	Participera au suivi conjoncturel de l’économie turque (croissance, inflation, emploi, finances publiques, balance des paiements, politique monétaire et de change, marchés financiers, etc.) ;
-•	Assurera le suivi des politiques publiques/réformes structurelles (politique budgétaire, compétitivité, environnement des affaires, etc.) ;
-•	Contribuera au suivi régulier des investissements et des échanges extérieurs de la Turquie, globaux ou bilatéraux ; 
-•	Pilotera la rédaction de notes d’analyse dans les domaines précités, et coordonnera la réalisation des produits éditoriaux du SER (brèves économiques et financières, « Lumières Turquoises ») ; 
-•	Sera amené à formuler des avis sur les rapports produits par les organisations internationales sur les pays de la zone (FMI, etc.) ainsi que les grands projets financés par les bailleurs internationaux (Banque mondiale, BERD, etc.) ; 
-•	Apportera son appui/expertise aux différents pôles du SER d’Ankara sur leurs domaines d’intérêt (industrie, agriculture, énergie, etc.) ainsi qu’aux services de l’Ambassade pour leurs sollicitations ponctuelles (chancellerie, secrétariat général, consulat, etc.)
-
-Par ailleurs et de façon subsidiaire, il assurera les fonctions de « Correspondant Informatique Local » pour le site d’Ankara.
-
-PROFIL :
-Compte tenu des missions du poste, une formation en sciences économiques est un prérequis. 
-Les candidatures disposant également de qualifications connexes (finance/commerce ; politiques publiques ; sciences politiques, sociales et historiques ; relations internationales, etc.) seront valorisées. 
-Diplômes : Masters de 1er plan orientés économie/commerce-finance/politiques publiques, délivrés par des Universités, des Grandes écoles ou des IEP.  
-
-COMPETENCES REQUISES :
-•	Qualités de recherche, d’analyse, de synthèse et de rédaction ; 
-•	Grande curiosité et goût pour les questions macroéconomiques et financières ; 
-•	Aisance dans l’utilisation des outils quantitatifs et des données chiffrées ; 
-•	Capacité à travailler en équipe ; 
-•	Autonomie, rigueur et sens de l’organisation ; 
-•	Sens relationnel et de la communication
-•	Habilité à créer et entretenir un réseau de contacts professionnels ; 
-•	Maîtrise professionnelle de l’anglais indispensable ; celle du turc constitue un plus ; 
-
-DIVERS :
-Hébergement sur le marché privé accessible et assez simple à trouver. Pour un hébergement correct, il faut compter environ 450-500€/mois en colocation, 800-900€/mois en individuel. 
-Le contexte régional et intérieur est parfois tendu, mais il n’y a pas de menace particulière pesant sur les Français. La qualité des infrastructures de santé peut être considérée comme excellente, notamment dans le secteur privé, et ne doit pas être un sujet d’inquiétude pour un séjour prolongé dans le pays. 
-Dans tous les cas, que ce soit dans le domaine sécuritaire ou sanitaire, il conviendra de strictement respecter les consignes de vigilance et de prudence données par l’ambassade. 
-Les déplacements dans la plus grande partie du pays, qui est superbe et passionnant, sont aisés.
-
-**Profil recherché**
-
-PROFIL :
-Compte tenu des missions du poste, une formation en sciences économiques est un prérequis. 
-Les candidatures disposant également de qualifications connexes (finance/commerce ; politiques publiques ; sciences politiques, sociales et historiques ; relations internationales, etc.) seront valorisées. 
-Diplômes : Masters de 1er plan orientés économie/commerce-finance/politiques publiques, délivrés par des Universités, des Grandes écoles ou des IEP.  
-
-COMPETENCES REQUISES :
-•	Qualités de recherche, d’analyse, de synthèse et de rédaction ; 
-•	Grande curiosité et goût pour les questions macroéconomiques et financières ; 
-•	Aisance dans l’utilisation des outils quantitatifs et des données chiffrées ; 
-•	Capacité à travailler en équipe ; 
-•	Autonomie, rigueur et sens de l’organisation ; 
-•	Sens relationnel et de la communication
-•	Habilité à créer et entretenir un réseau de contacts professionnels ; 
-•	Maîtrise professionnelle de l’anglais indispensable ; celle du turc constitue un plus.
 
 </details>
 
