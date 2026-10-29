@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **29/10/2026 20:49:27**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **30/10/2026 00:43:19**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -3195,64 +3195,6 @@ Personal Attributes
 •	Strong intellectual curiosity, attention to detail, and willingness to learn in a demanding environment.
 •	Solid analytical thinking and with a strong sense of ownership
 •	Team oriented and able to thrive in Euro Latina Finance’s collaborative culture
-
-</details>
-
-<details>
-<summary><strong>Junior Finance Business Partner Benelux (H/F)</strong> · FINDUS FRANCE · DROGENBOS, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** FINDUS FRANCE
-- **Lieu :** DROGENBOS, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 09/10/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil correspond parfaitement aux attentes avec un Master en finance, de solides compétences en reporting, Excel et Power BI, ainsi qu'un excellent niveau d'anglais. L'expérience de Nathan en contrôle budgétaire et sa capacité à interagir avec la direction compensent largement l'absence préalable de l'outil SAP.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246899](https://mon-vie-via.businessfrance.fr/offres/246899)
-
-**Description du poste**
-
-Act as a trusted partner to the business and support business performance by providing detailed & accurate financials and insightful analysis. Provide key support towards Sales & Marketing by providing clear dashboards, insights and variance analysis which can help the Commercial teams on decision taking, negotiations, etc. Support the business to further evolve as a data driven organisation. This function is based in Belgium with occasional travel to the Dutch location of Iglo (on average 2 times per month travel to NL)
-
-Key Responsibilities
-In this role, you will support the Benelux Finance team through a variety of financial reporting, analysis, and business partnering activities, including:
-
-Preparing and distributing daily, weekly, and monthly sales reports and dashboards to monitor turnover performance against budget, prior year, and latest forecast.
-Acting as the first point of contact and Junior Business Partner for a portfolio of retailers across Belgium and the Netherlands.
-Monitoring promotional spending and reviewing actual expenditure against forecasted budgets.
-Continuously improving internal reporting tools by enhancing layouts, automation, and analytical capabilities.
-Performing weekly Lump Sum postings in SAP.
-Supporting recurring Group reporting requirements, including sales reporting and innovation tracking.
-Assisting with monthly closing activities, financial analysis, controlling processes, rolling forecasts, and annual budgeting exercises.
-Supporting ad hoc financial analyses, projects, and business requests.
-Contributing to the organization's ambition to become increasingly data-driven through insightful analysis and reporting.
-
-**Profil recherché**
-
-We are looking for an analytical, proactive, and detail-oriented young professional with a strong interest in commercial finance and business partnering.
-Qualifications and Skills
-
-Master's degree in Finance, Accounting, Economics, Business Administration, or a related field.
-Strong proficiency in Microsoft Excel, including Pivot Tables, formulas, and chart creation.
-Solid understanding of finance and accounting principles.
-Ability to work independently and manage recurring reporting deadlines.
-Strong analytical and problem-solving skills.
-Excellent communication skills in English and French.
-Ability to perform effectively in a fast-paced environment and manage multiple priorities.
-Proactive, energetic, and self-motivated personality.
-Knowledge of Power BI is considered an asset.
-Knowledge of SAP is considered an asset.
-
-Competencies
-Bold Delivery
-Takes ownership of objectives and consistently delivers high-quality results with a positive, solution-oriented mindset.
-Change Agent
-Adapts quickly to changing priorities and embraces new ways of working.
-Attention to Detail
-Demonstrates rigor and accuracy in financial reporting and analysis, ensuring high-quality outputs.
-Communication & Collaboration
-Builds effective relationships and communicates clearly with stakeholders across different functions and organizational levels.
-Business Acumen
-Shows curiosity about the business, understands key commercial drivers, and recognizes the connection between financial performance and operational decisions.
 
 </details>
 
