@@ -563,5 +563,13 @@
     "lon": 16.3725042
   },
   "entreprise|carrefour management|sao paulo|bresil": null,
-  "entreprise|bnp paribas|francfort|allemagne": null
+  "entreprise|bnp paribas|francfort|allemagne": null,
+  "entreprise|aew|dusseldorf|allemagne": null,
+  "ville|dusseldorf|allemagne": {
+    "lat": 51.2254018,
+    "lon": 6.7763137
+  },
+  "entreprise|aew|luxembourg|luxembourg": null,
+  "entreprise|natixis investment managers|boston          -ma-|etats-unis": null,
+  "entreprise|natixis|milan|italie": null
 }

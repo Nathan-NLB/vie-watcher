@@ -8,11 +8,256 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **29/10/2026 02:11:48**, 77 offre(s) actuellement en ligne.
+Dernière vérification : **29/10/2026 08:10:46**, 81 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>V.I.E. - 12 months - Junior Asset Manager F/M - Düsseldorf (H/F)</strong> · AEW · DUSSELDORF, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** AEW
+- **Lieu :** DUSSELDORF, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan correspond bien sur la partie analyse financière, reporting et maîtrise d'Excel, ainsi que sur l'appétence internationale. Cependant, l'offre cible un profil Junior Asset Manager avec une spécialisation en immobilier et exige une parfaite maîtrise de l'allemand, ce qui constitue un écart important.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247606](https://mon-vie-via.businessfrance.fr/offres/247606)
+
+**Description du poste**
+
+You will join the team as a Junior Asset Manager.
+
+Main responsabilities :
+Consolidate the German Asset Management, Development and leasing activities,
+Support in consolidating the Asset Management, Development and leasing activities,
+Prepare consolidated reporting and financial analysis.
+ 
+
+As a Junior Asset Manager you participate in:
+Regular asset management & fund reporting together with the responsible Asset Manager,
+Regular business plan updates for local asset managers, as well as ad hoc updates to evaluate alternatives in lease negotiations,
+Preparation of asset reviews allowing our senior management to have a condensed strategic view on the properties & portfolio,
+Support the asset managers on project level with the follow-up of developments (especially cash flows and cash forecasts on monthly basis) as well as steering of the property managers.
+ 
+You will work in an international environment, within a community of experts who place excellence, impact and collective action at the heart of everything they do.
+
+**Profil recherché**
+
+You have a Finance or/and Real estate degree, with focus on real estate and project management and a minimum 1 year of professional experience in finance or/and real estate.
+You have an excellent level with Excel and ability to understand valuation of essential real estate key data on asset level and improvement.
+You are motivated to work in an international environment and with high grade of communication, diplomacy. Independent and with cash flow modelling skills.
+And last, but not least you are perfectly fluent in English and German.
+
+This position is only open to candidates eligible for the V.I.E program 
+- Proficiency in Excel and all basic MS Office applications is crucial for success in this role.
+- Fluency in English is required; knowledge of German is a valuable bonus.
+
+</details>
+
+<details>
+<summary><strong>V.I.E. - 12 mois- Contrôle interne et compliance F/H - Luxembourg (H/F)</strong> · AEW · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** AEW
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 65 % — Nathan possède le niveau d'études requis et un excellent niveau d'anglais adapté à un cadre international. Cependant, son profil est fortement orienté vers le contrôle de gestion opérationnel et financier, tandis que l'offre cible spécifiquement le contrôle interne, la conformité et la gestion des risques.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247603](https://mon-vie-via.businessfrance.fr/offres/247603)
+
+**Description du poste**
+
+Vous rejoignez notre équipe Risk, Compliance & Internal Control, qui recherche un Contrôle Interne et Compliance.
+
+Le VIE Contrôle Interne et Compliance a pour mission et pour objectif principal de vérifier le respect de l’ensemble des politiques et procédures internes de l’AIFM et d’en évaluer régulièrement l’adéquation par rapport à la structure organisationnelle et opérationnelle de la Société encadrés par le Compliance Officer.
+
+A dimension européenne, la fonction Conformité consiste notamment à intervenir dans les activités suivantes :
+
+Fournir aux instances dirigeantes des rapports afin d’améliorer les process opérationnels
+Fournir aux instances dirigeantes des avis pour assurer une gestion efficace, saine et prudente des activités de la société
+Contrôler l’existence, la conception et la réalisation du dispositif de contrôle
+Evaluer l’efficacité du dispositif de contrôles
+Piloter le reporting trimestriel aux investisseurs
+Veiller au respect des normes légales et réglementaires dans chaque pays ou la Société exerce une activité
+Développer l’activité de contrôle via l'identification des meilleures pratiques, ainsi qu'à l'accompagnement au changement dans le cadre du renforcement du dispositif de contrôle interne
+ 
+
+Activités  principales :
+
+Contrôle Interne
+Echantillonnage : Sélectionner selon certains critères définis lors de l'élaboration du plan de contrôle un échantillon de dossiers/items/process à contrôler.
+Détermination des points de contrôle : identifier les points de contrôle les plus pertinents en fonction du type de contrôle à réaliser.
+Collecte de l'information : Solliciter les différents services opérationnels et fonctionnels afin de collecter l'information et les documents nécessaires aux contrôles.
+Contrôle des processus :Participer à la réalisation du plan de contrôle sur l'ensemble des activités en veillant au respect des procédures internes et à la réglementation.
+Analyse des résultats : Analyser les résultats des contrôles effectués et préparer les reportings en vue d'une présentation au Comité Conformité. Risque et Contrôle Interne.
+Revue de la cartographie de risque de non-conformité.
+Securité financiere
+Traitement des alertes PEP, Sanctions internationales.
+Assistance dans la réalisation des dossiers KYC.
+Contribuer aux projets et initiatives de renforcement du dispositif.
+Ethique et Déontologie
+S’assurer le bon encadrement des risques de non-conformité liés à l’éthique du personnel et la déontologie.
+Suivi des dispositifs de contrôles spécifiques (conflits d’intérêts personnels, transactions personnelles, cadeaux, mandats et activités extérieurs, circulation des informations confidentielles et privilégiées etc…).
+ESG
+Analyse et développement d’indicateurs de suivi des risques ESG lors des processus d’investissement.
+Mise en place de point de contrôle de second niveau.
+Assister dans la revue et le développement du dispositif ESG.
+Travailler avec les équipes de premier niveau pour revoir la collecte de données, l'analyse et la documentation des documents relatifs à l’ESG reçus lors des investissements.
+Reporting
+Participation aux différents Comité.
+Assistance dans la rédaction des rapports réglementaires.
+
+**Profil recherché**
+
+Etudiant de niveau Bac+5, vous avez préparé un diplôme d'École de commerce ou d'Université avec une spécialisation en Finance.
+Vous avez une 1ère expérience significative dans le secteur gestion pour compte de tiers / financier, idéalement immobilier au sein d’un service Conformité, Audit ou Contrôle Interne.
+Vous êtes rigoureux, dynamique et autonome
+Vous vous adaptez rapidement et facilement à toute situation
+Vous êtes doté.e d'une bonne aisance relationnelle
+Vous avez capable d’analyser et d’anticiper
+Vous avez un intérêt pour l’immobilier
+And last but not least, you are perfectly fluent in English.
+Vous serez contacté par l’un de nos recruteurs avant de rencontrer nos experts métier.
+Un moment d’échange idéal pour mettre en avant votre personnalité ainsi que votre projet.
+
+</details>
+
+<details>
+<summary><strong>V.I.E. - 18 months - Global Holding Controller F/M - Boston (H/F)</strong> · NATIXIS INVESTMENT MANAGERS · BOSTON          -MA-, ETATS-UNIS · 4 108,83 €/mois</summary>
+
+- **Entreprise :** NATIXIS INVESTMENT MANAGERS
+- **Lieu :** BOSTON          -MA-, ETATS-UNIS
+- **Indemnité :** 4 108,83 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux exigences du poste grâce à son Master en contrôle de gestion, ses deux années d'expérience significative en finance d'entreprise et son excellent niveau d'anglais. Le seul léger écart réside dans la destination (Boston au lieu de l'Espagne souhaitée), mais cela reste en adéquation totale avec son objectif international.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247601](https://mon-vie-via.businessfrance.fr/offres/247601)
+
+**Description du poste**
+
+You will join the Financial Management team at Natixis Investment Managers. You will assist the Senior Management Controller of the Global Holding based in Paris.
+
+On a daily basis, your mission will include:
+
+Monitoring the operating expenses (opex) of the core functions of the Global Holding (General Management, Risk, Compliance, Human Resources, Finance, Legal, Internal Audit, Communication, etc.);
+Participating in the closing process (reconciliation of intra- and inter-company accounts, recording of manual management entries, accounting-management reconciliation), in partnership with the accounting teams in Paris and Boston;
+Producing complete P&L reports (Net Banking Income, payroll, operating expenses) for various reports and analyses intended for the BPCE group, along with monitoring financial KPIs;
+Producing monthly, quarterly, and annual operational reports for department heads, with a follow-up on variances compared to the previous year, budget, and revised figures;
+Participating in the budgeting process (1 Budget and 3 Revisions per year).
+In addition to this non-exhaustive list, you will be involved in the continuous improvement of processes and the production of ad hoc analyses. You will also be expected to participate in Finance projects (implementation of management support tools, digitalization of the function, etc.).
+
+**Profil recherché**
+
+With a background from a business school or university, holding a Master’s degree in Finance or Management Control, with at least 1 year of professional experience in management control positions.
+
+You are familiar with general accounting and analytical accounting.
+
+Your English is operational, and you have a good knowledge of the Office suite.
+
+Knowledge of SAP 4HANA, SAP FC, and Power BI is an advantage.
+
+In addition to excellent interpersonal skills and very good listening abilities:
+- You possess real analytical, synthesis, and writing skills;
+- You are rigorous about the quality of your work;
+- You know how to demonstrate discretion and ethics when handling confidential information.
+
+</details>
+
+<details>
+<summary><strong>V.I.E. - 18 motnhs - Financial Sponsors Coverage F/M - New York (H/F)</strong> · NATIXIS · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** NATIXIS
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil présente de solides compétences en finance et en anglais, ainsi qu'un niveau d'études adéquat, mais l'expérience du candidat est axée sur le contrôle de gestion en PME industrielle plutôt que sur la banque d'investissement, le crédit ou la couverture de fonds d'investissement (Financial Sponsors) requis pour ce poste à New York.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247599](https://mon-vie-via.businessfrance.fr/offres/247599)
+
+**Description du poste**
+
+The Financial Sponsors Coverage team, based in New York, covers global sponsor clients across numerous investment verticals.
+
+The team is both sector and product-agnostic, with primary objective to continue building a diversified book of business across many Global Market products and Investment Banking business lines.
+
+The VIE will focus most of their time supporting senior members of the Financial Sponsors origination team by preparing marketing materials, coordinating the origination efforts with different product partners of the bank, executing vanilla financing solutions, and providing support on ongoing portfolio management, as well as KYC and compliance requirements.
+
+Responsibilities include developing knowledge of various sponsor clients, ability to create detailed coverage memos and credit applications, provide comprehensive business and credit risk analysis of customers and prospects, manage processes independently and build relationships with other stakeholders within the bank.
+
+Deal origination support
+
+Support senior members of the team in the origination efforts by preparing briefing memos, marketing materials;
+Manage origination pipeline to track deal activities from different groups;
+Run profitability metrics on incoming transactions.
+Transaction execution
+
+Take active role in the execution of financing transactions by preparing credit applications, credit analysis, financial modeling, coordination of legal documentation review, vetting of counterparties;
+Write internal memos for senior management on clients and transactions;
+Gain expertise in internal policies and procedures as well as internal systems, including credit approval workflow, counterparty rating, compliance/conflict check, KYC, etc.
+The VIE will play a key role in the build-up of the Financial Sponsors Coverage in the Americas. Collaboration with Senior Bankers, salespersons, and product specialists will give the candidate opportunity to perform a broad variety of missions. The incumbent will directly contribute to the increase in business in the Americas with key sector clients through the development of M&A-IB deals, corporate banking solutions and other products.
+
+**Profil recherché**
+
+Master’s degree in Finance or related.
+
+Prior experience in a commercial/investment bank or financial institution with exposure to corporate finance, debt, capital markets or M&A preferred.
+
+Interest in Private Equity / Credit markets.
+
+Solid finance / credit analysis knowledge.
+
+Fluent in English, French a plus.
+
+Strong organizational, analytical, and interpersonal skills.
+
+Client-focused; ability to effectively and quickly build relationships and to establish trust, respect, competence, and confidence.
+
+Curious, strategic, global, and entrepreneurial mindset.
+
+Ability to manipulate quantitative and qualitative data to formulate meaningful business ideas.
+
+Advanced skills in Excel and PowerPoint and data providers (S&P Capital IQ, Merger Market).
+
+Ability to manage simultaneous projects and meet deadlines.
+
+Strong communication (written and spoken) and presentation skills.
+
+</details>
+
+<details>
+<summary><strong>V.I.E. 12 months - Credit Analyst F/M - Milan (H/F)</strong> · NATIXIS · MILAN, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** NATIXIS
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan présente de solides compétences en analyse financière et reporting, ce qui correspond aux attentes techniques du poste. Cependant, l'offre s'oriente vers l'analyse de risque crédit en banque d'investissement et exige la maîtrise de l'italien, langue que le candidat ne maîtrise pas encore.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247598](https://mon-vie-via.businessfrance.fr/offres/247598)
+
+**Description du poste**
+
+For this position, you will be providing support to the Head of Italy Portfolio and more specifically: 
+Assessing the credit risk of potential and existing Italian Corporate clients through a qualitative and quantitative analysis of all financial data (annual reports, financial statements, business plans, credit/equity researches, etc..) oriented to draft credit applications and propose/revise internal ratings;
+Providing an independent and written credit analysis to support credit process and Origination teams;
+Line by line management of the whole corporate portfolio, both for cash financings and other bank’s products by carrying annual reviews, covenants management, waivers or amendments, watchlists (in due time); 
+Assisting in Portfolio Opinions on new proposed cash financings into ESG trajectory, with strong focus on the portfolio greenification strategy of the bank, scarce resources management into Basel 4 and portfolio metrics’ assessment; 
+Credit monitoring with a risk anticipation/optimization approach via a proactive portfolio management (distribution via secondary sales and other alternatives solutions of credit recycling); 
+Periodic reporting on Global Italian Portfolio with a centralized insight on all the assets split by Business Lines, with complete analysis on key indicators on a current and forward-looking basis; 
+Support French Real Estate Portfolio team - based in Paris - on Italian Real Estate files.
+
+**Profil recherché**
+
+Bachelor’s degree/Master of Science degree in relevant field (Finance, Economics, etc..).
+Proficiency in IT applications (MS Office, Bloomberg, Thomson Reuters, FactSet, etc..).
+Fluency in English and a good knowledge of Italian, both written and spoken.
+Strong interpersonal and communication skills.
+Proactive attitude and natural inclination towards a cross-border/cross-functional team-based in a
+collaborative environment.
+
+</details>
 
 <details>
 <summary><strong>Analyste Trésorerie et process (H/F)</strong> · CARREFOUR MANAGEMENT · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
@@ -4340,64 +4585,6 @@ Soft skills:
 •	Accountable: shows proactivity and concentrates on priorities
 •	Achiever: strives for results and performance and shows professionalism and perseverance
 •	Team player: promotes cooperation, collaboration and team spirit
-
-</details>
-
-<details>
-<summary><strong>FP&A EMEA COFFEE (H/F)</strong> · LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS · KAMPALA, OUGANDA · 3 062,48 €/mois</summary>
-
-- **Entreprise :** LOUIS DREYFUS COMPANY DISTRIBUTION FRANCE SAS
-- **Lieu :** KAMPALA, OUGANDA
-- **Indemnité :** 3 062,48 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 30/09/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux exigences techniques du poste en FP&A, avec une excellente maîtrise d'Excel, un très bon niveau d'anglais et une solide expérience en contrôle de gestion. Le seul écart réside dans la localisation (Ouganda au lieu de l'Espagne souhaitée) et le secteur des matières premières, mais son autonomie prouvée compense largement.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244826](https://mon-vie-via.businessfrance.fr/offres/244826)
-
-**Description du poste**
-
-Louis Dreyfus Company (LDC) has been a key player in the global coffee industry for more than 30 years. We specialize in all major Arabica and Robusta coffee qualities, serving a diverse customer base worldwide, ranging from specialty roasters to multinational food and beverage companies.
-
-We are looking for a highly motivated and analytical individual to join our Coffee Financial Planning & Analysis (FP&A) team, reporting to the FP&A Manager for the Coffee Platform in EMEA.
-
-In this role, you will support the FP&A Manager in delivering recurring monthly performance analysis, coordinating budgeting and forecasting activities, and contributing to a range of ad hoc, cross-functional projects. You will work closely with multiple teams across the EMEA region, gaining exposure to the commercial, operational, and financial aspects of the coffee business.
-
-This position offers a unique opportunity to develop your FP&A skills within a dynamic and international environment. Based in Kampala, Uganda, LDC's largest coffee origination platform in EMEA, you will gain unique exposure to the coffee supply chain, from origin to destination markets. This role offers the opportunity to work closely with commercial, operational, and finance teams while developing a solid foundation in business partnering, financial analysis, and commodity markets. For motivated individuals, it represents an excellent entry point into LDC and a strong platform from which to pursue future career opportunities across Finance, Commercial, Operations, or other functions within the Group.
-Financial performance & reporting 
-
-•	Deliver comprehensive monthly performance analysis, comparing reported numbers to the budget, while clearly identifying and explaining key variances and underlying business drivers.
-•	Contribute to the preparation of the Monthly Performance Review (MPR), including analytical files and presentation materials, ensuring accuracy, consistency, and clear financial messaging.
-•	Support the FP&A Manager in delivering ad hoc financial analyses for management and business stakeholders, including profitability reviews, OPEX deep-dives, trend analysis, and scenario modeling.
-Business Partnering & Decision Support
-
-•	Contribute to budget, forecast, and landing exercises by challenging assumptions and assessing associated risks and opportunities.
-•	Participate in discussions with commercial and finance teams to understand the financial performance of the Coffee Platform and the drivers of profitability.
-•	Develop financial models and scenario analyses to evaluate business performance, operational initiatives, and market developments.
-
-Process Improvement & Digitalization
-•	Identify opportunities to improve reporting processes, data quality, and analytical tools through automation and simplification initiatives. 
-•	Act as a key liaison between Finance, IT, and business teams to enhance reporting systems and strengthen data integrity.
-The scope is the LDC EMEA Coffee Platform.
-
-**Profil recherché**
-
-Education :
-•	Top-class business or engineering school graduate
-•	Master's degree in Finance
-Experience :
-•	Corporate finance (audit, transaction services, financial department of a big Corporate)
-Knowledge/Technical & Functional skills :
-•	Strong appetite for financial analysis and corporate finance topics
-•	Proficiency with excel modeling and powerpoint (knowledge of PBI and AI applications for finance is a plus)
-•	Understanding of commodities valuation and mechanism 
-•	Ability to quickly master Finance IT tools (OneStream, SAP…) 
-Soft skills:
-•	We would like someone willing to learn and grow in a passionate and varied environment
-•	We want someone autonomous, able to take initiatives. Even though you will be managed and helped anytime, high pressure and constant need to prioritize tasks will require those skills
-•	We would like you to manage complex multiple information and to adapt to multiple stakeholders
-•	We imagine you: proactive, energetic, highly motivated, hard-worker, adventurous and rigorous
-•	Flexibility in work and multi-tasking abilities
-•	Fluent written and verbal English skills
 
 </details>
 
