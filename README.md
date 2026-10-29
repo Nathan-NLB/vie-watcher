@@ -8,11 +8,189 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **29/10/2026 08:10:46**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **29/10/2026 15:25:02**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>FINANCIAL CONTROLLER - BARCELONA (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes du poste de Financial Controller à Barcelone, grâce à sa formation en contrôle de gestion, son expérience significative en PME et sa maîtrise d'Excel et Power BI. Ses compétences linguistiques en anglais et en espagnol (B1) complètent très bien ce profil, malgré l'attente d'un espagnol courant par l'entreprise.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247710](https://mon-vie-via.businessfrance.fr/offres/247710)
+
+**Description du poste**
+
+Envie de lancer votre carrière dans un environnement international et stimulant ?
+Rejoignez SII et vivez une expérience humaine et technologique unique !
+
+🚀 VOS MISSIONS: 
+En tant que Financial Controller vous serez intégré(e) à l’équipe financière internationale et participerez au suivi opérationnel et à l’analyse des activités financières.
+Votre rôle sera organisé en deux volets principaux :
+1.	CONTRÔLE FINANCIER 
+Gestion des clotures 
+•	Collecte, fiabilisation et analyse mensuelle et trimestrielle de l’activité (P&L)
+•	Elaboration et fiabilisation des Budgets annuels et trimestriels
+•	Analyses de performance et mise en place de mesures correctives (Activité, Facturation, Coût, Marge, Prévisions, Trésorerie)
+•	Synthèse et communication mensuelle des résultats à la Direction
+•	Coordination avec les équipes comptables du groupe et les équipes supports des filiales (ADV, Paie, Business, IT,…)
+Analyses 
+•	Analyse de la performance des entités et mise en place de mesures d’amélioration
+•	Suivi et contrôle du CA, FAE, FNP, marges, OPEX, CAPEX
+•	Réalisation d'audits de coûts des filiales
+•	Suivi du BFR, DSO, trésorerie et de l’endettement de la filiale
+
+2.	CONTRÔLE OPERATIONNEL 
+Amélioration continue
+•	Responsable de la fiabilité des données extra financières (ex. Suivi des effectifs)
+•	Production et amélioration des modèles de rapports financiers (résultats, prévisions, trésorerie)
+•	Elaboration de rapports et développement d’indicateurs clés de performance (KPIs)
+•	Responsable du suivi et du bon déploiement de nouveaux outils d’analyse (marges, performance), notamment via Power BI
+Contributions ad hoc
+•	Contribution aux projets transverses et aux initiatives d’amélioration de la zone internationale
+•	Participation dans des projets d’acquisition
+•	Participation à des audits ponctuels (P&L et Bilan)
+
+**Profil recherché**
+
+👤 VOTRE PROFIL
+•	Une formation Bac+5 (école de commerce ou master CCA ou DSCG) 
+•	Une excellente maîtrise de l’anglais, et de l’espagnol à l’oral comme à l’écrit
+•	Une première expérience en audit ou en controle de gestion
+•	Un sens prononcé de l’écoute et de l’organisation
+•	De l’engagement, du dynamisme, de la rigueur, de l’ambition et de la réactivité
+
+🌍 POURQUOI NOUS REJOINDRE ?
+•	Expérience confirmée en management financier et en pilotage de transformations pour soutenir la scalabilité du groupe dans la région.
+•	Un tremplin pour évoluer rapidement
+•	L’intégration dans une équipe dynamique, bienveillante et certifiée Great Place To Work
+Prêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !
+
+🔎 LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !
+Si votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !
+
+🏢 QUI SOMMES-NOUS ?
+Le groupe SII est au cœur de l’innovation technologique, accompagnant de grands comptes dans des secteurs d’ingénierie variés.
+Rejoindre SII, c’est s’engager dans une aventure collective : Let’s Tech Together !
+Cette promesse incarne notre ambition commune : construire ensemble le futur technologique, dans un cadre où autonomie, innovation et épanouissement professionnel vont de pair.
+Alors si ces valeurs vous parlent, rejoignez-nous !
+
+</details>
+
+<details>
+<summary><strong>AUDIT/ contrôle de gestion /  Financements et modèles économiques (H/F)</strong> · 9S58 · ABIDJAN, COTE D'IVOIRE · 2 541,92 €/mois</summary>
+
+- **Entreprise :** 9S58
+- **Lieu :** ABIDJAN, COTE D'IVOIRE
+- **Indemnité :** 2 541,92 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à sa formation en contrôle de gestion, ses compétences en outils financiers et son expérience significative en optimisation budgétaire et reporting. Seul un léger décalage géographique est à noter, le candidat ciblant initialement l'Espagne, bien qu'il soit ouvert à l'international.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247688](https://mon-vie-via.businessfrance.fr/offres/247688)
+
+**Description du poste**
+
+Contexte de la mission : 
+Winwin Afrique est une entreprise qui fait  du sport et de la culture des leviers pour le développement économique et social en Afrique.  
+En Côte d’Ivoire, nous opérons pour le compte du gouvernement, dans le cadre d’un contrat de coopération franco-ivoirien, un projet développement d’infrastructures socio sportives qui se présente autour de 3 grands axes :
+- Un programme de construction qui vise à bâtir des complexes sportifs multifonctionnels sur 91 communes réparties sur tout le pays.
+- Un programme de développement autour des thématiques de la santé, de l’innovation sociale et du développement durable où les acteurs locaux, associations et ONG sont appelés à animer les espaces qui leur sont réservés
+- Un système d’exploitation autonome qui développe des activités génératrices de revenus. 
+
+Le premier centre a été inauguré en 2019, à Abidjan sur la commune de Koumassi, par le Président Macron et le vice-président Duncan avec de nombreuses autorités françaises et ivoiriennes. Trois autres complexes ont été inaugurés en 2024. Les AGORAS sont exploitées par notre filiale ivoirienne, Ivoire AGORA. 
+
+4 autres complexes sortiront de terre entre décembre 2026 et avril 2027. L’entreprise doublera de taille durant cette période passant de 80 à plus de 120 collaborateurs. Pour poursuivre la montée en puissance du programme et structurer l’organisation et le fonctionnement commun de ces AGORAS, WWA recherche un.e auditeur chargé du contrôle de gestion, des modèles économiques et du suivi des financements.
+
+
+
+
+Missions principales
+
+
+Audit et de contrôle et de gestion :
+
+- Analyser les processus administratifs et financiers existants.
+- Optimiser les procédures et outils existants  (doublement des sites en exploitation / développement sur toute la Côte d’Ivoire)  
+- Contrôle budgétaire 
+- Suivi des indicateurs de performance sur chacun des sites (de 4 à 8 en 2026, puis 11 en 2027).
+- Mise en place et formation des équipes d’audit et de contrôle de gestion 
+
+
+Développement du modèle économique 
+- Stratégie de développement des revenus et ressources des AGORAS 
+- Suivi et développement des investissements et des partenariats 
+
+Reporting et suivi des financements :
+- Consolidation des données administratives et financières pour alimenter les rapports destinés au Trésor/ Bercy et aux partenaires.
+- Ouverture à  des modèles de financement complémentaires pour la construction d’une nouvelle tranche de 10 AGORAS
+
+**Profil recherché**
+
+Formation : Bac+5 en gestion, audit, finance, administration des entreprises ou équivalent.
+Expérience : Une première expérience en gestion administrative ou financière
+Compétences techniques :
+Excellente maîtrise d’Excel et des outils de gestion.
+Connaissances en comptabilité, suivi budgétaire et contrôle de gestion.
+Qualités personnelles :
+Rigueur, organisation et esprit d’analyse
+Capacité à travailler avec une équipe multiculturelle 
+Sens de l’initiative et adaptabilité
+Langues : Français courant
+
+</details>
+
+<details>
+<summary><strong>Analyst — North American Infrastructure Credit (H/F)</strong> · RIVAGE INVESTMENT · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** RIVAGE INVESTMENT
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est axé sur le contrôle de gestion opérationnel et la comptabilité d'entreprise, tandis que cette offre cible des compétences en finance de marché, analyse de crédit infrastructure et modélisation de fonds (CLO/dette). Bien que son niveau d'anglais et sa rigueur soient adaptés à un contexte international à New York, son manque d'expérience en analyse de crédit et finance structurée constitue un écart significatif.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247654](https://mon-vie-via.businessfrance.fr/offres/247654)
+
+**Description du poste**
+
+The Analyst will support the investment team across the full lifecycle of the managed portfolios and funds, including:
+■	Conducting credit analysis on transactions eligible for inclusion in the managed portfolios
+■	Building and maintaining financial models for prospective and existing investments
+■	Assisting in the preparation of investment committee memoranda and marketing materials
+■	Screening and underwriting broadly syndicated infrastructure loans for the CLO collateral pool with a focus on credit quality, relative value, eligibility criteria, and portfolio-level constraints (e.g., rating, spread, tenor, industry / obligor concentration limitations)
+■	Supporting portfolio construction across the ramp and reinvestment periods, modeling trade impact on collateral quality and coverage tests, arbitrage economics, and equity returns
+■	Maintaining internal databases and tools with transaction data and fund cash flows
+■	Monitoring compliance with portfolio ratios and risk limits
+■	Contributing to business development in the debt sector, including investor and prospect presentations and responses to requests for proposals
+■	Supporting the implementation and ongoing monitoring of transactions and projects
+■	Performing U.S. infrastructure market research to support the development of new investment theses
+■	Participating in the continuous improvement of the Company’s management and analytical tools and ensuring their effective use
+■	Performing all other tasks related to the Analyst’s mission
+We are looking for a rigorous and motivated candidate, eager to develop a solid expertise in infrastructure credit within a demanding international environment.
+
+**Profil recherché**
+
+■	Strong grounding in corporate finance, credit analysis and financial mathematics; understanding of project finance structures (cash flow waterfall, DSCR / LLCR, covenants, security package)
+■	Advanced Excel and financial modeling skills (cash flow models, sensitivity and scenario analysis); knowledge of VBA, Python or SQL is a plus
+■	Knowledge of syndicated loan and CLO markets (ratings, spreads, collateral quality and coverage tests), or the ability to master them quickly
+■	Strong interest in energy transition and digital infrastructure (solar, battery storage, renewable natural gas, geothermal, data centers, fiber) and in the U.S. market
+■	Excellent writing skills, with the ability to produce clear and concise investment memoranda and presentation materials (PowerPoint)
+■	Familiarity with financial databases and market data tools (e.g., Bloomberg, S&P Capital IQ, PitchBook) is appreciated
+
+■	Rigor: disciplined thinking, accuracy and strong attention to detail
+■	Curiosity: intellectual curiosity and a genuine willingness to learn and deepen technical knowledge
+■	Entrepreneurial mindset: autonomy, proactivity and a sense of ownership on live transactions
+■	Collaboration: team player, able to work closely with a small senior team in New York and with the Paris investment, risk and investor relations teams across time zones
+■	Organization: ability to manage multiple priorities and tight deadlines while maintaining quality
+■	Communication: clear and professional communication, both written and oral, with internal teams, investors and partners
+■	Humility and adaptability: open-mindedness, ability to challenge one’s own assumptions and to adapt to an international environment
+
+</details>
 
 <details>
 <summary><strong>V.I.E. - 12 months - Junior Asset Manager F/M - Düsseldorf (H/F)</strong> · AEW · DUSSELDORF, ALLEMAGNE · 3 027,63 €/mois</summary>
@@ -256,6 +434,42 @@ Fluency in English and a good knowledge of Italian, both written and spoken.
 Strong interpersonal and communication skills.
 Proactive attitude and natural inclination towards a cross-border/cross-functional team-based in a
 collaborative environment.
+
+</details>
+
+<details>
+<summary><strong>Business analyst Commodity markets (H/F)</strong> · ACE ORGA LAB · GENEVE, SUISSE · 4 157,65 €/mois</summary>
+
+- **Entreprise :** ACE ORGA LAB
+- **Lieu :** GENEVE, SUISSE
+- **Indemnité :** 4 157,65 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 29/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244645](https://mon-vie-via.businessfrance.fr/offres/244645)
+
+**Description du poste**
+
+As an intermediate Business analyst in the functional IT practice, you will be responsible for:
+- Understanding the activity of our clients: financial markets, Gas and power market
+- Knowing front, middle and back-office software as a user
+- Following clients’ workshops
+- Proposing IT specifications on new activities, new deals or regulations and delivering those specifications to the IT developing team
+- Controlling new versions and testing results
+- Dealing with reporting duties both for the clients and the firm
+- Participating to functional transversal meetings and finding new IT solutions with managers
+
+**Profil recherché**
+
+What do You have?
+
+• Ideally an engineering degree in a European School or University
+• Financial Mathematics expertise, Kwowledge of financial markets and Greeks
+• An experience of IT Project on the functional side
+• Expertise in IT methods such as Scrum method or UML
+• Some knowledge of French would be an advantage
+• Excellent interpersonal and communication skills, both oral and written in English
+• Excellent organisation and planning skills
+• A keen ability to resolve issues and meet tight deadlines
 
 </details>
 
@@ -1337,63 +1551,6 @@ At Avertim, we value talent and mindset. No difference will be made during the r
 A Quality Engineer is a detail-oriented professional responsible for ensuring that products, processes, and systems consistently meet regulatory requirements, industry standards, and customer expectations. Acting at the intersection of engineering, operations, and compliance, the Quality Engineer drives continuous improvement by identifying risks, resolving quality issues, and implementing robust quality management systems.
 In regulated environments such as Life Sciences, the role is critical in maintaining compliance with standards such as GMP and ISO, supporting audits, and ensuring inspection readiness.
 The Quality Engineer collaborates closely with cross-functional teams (e.g., Operations, QA, QC, Engineering) to analyze deviations, perform root cause analysis, and implement corrective and preventive actions (CAPA). They play a key role in improving product reliability, reducing defects, and enhancing overall operational performance.
-
-</details>
-
-<details>
-<summary><strong>Finance, Administration & People Operations Assistant (H/F)</strong> · RIVOLIER PERE ET FS ARMURERIE · OGDEN  -UT-, ETATS-UNIS · 3 430,07 €/mois</summary>
-
-- **Entreprise :** RIVOLIER PERE ET FS ARMURERIE
-- **Lieu :** OGDEN  -UT-, ETATS-UNIS
-- **Indemnité :** 3 430,07 €/mois
-- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
-- **Publiée le :** 23/10/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, son expérience significative en PME incluant le reporting, le forecasting et l'analyse de rentabilité, ainsi que son excellent niveau d'anglais (TOEIC 925). Seul léger écart, l'offre implique un peu de RH et d'administration en plus de la finance, mais cela reste très cohérent avec sa polyvalence démontrée.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247395](https://mon-vie-via.businessfrance.fr/offres/247395)
-
-**Description du poste**
-
-V.I.E. Finance, Administration & RH, États-Unis
-
-Rejoignez une filiale américaine en pleine croissance, au plus près de la direction.
-
-Votre mission : 
-RSD Outdoor accélère aux États-Unis. Rattaché(e) au dirigeant local et en lien direct avec le Secrétariat Général du Groupe, vous l’accompagnez dans la structuration des fonctions finance, administration et RH de la filiale. Vous êtes le relais opérationnel entre les équipes américaines et le siège français, avec une exposition quotidienne à la direction générale. Vous voyez comment une filiale se construit et comment les décisions se prennent.
-
-Vos missions au quotidien : 
-Finance et pilotage
-* Contribuer à l’élaboration du reporting mensuel US : chiffre d’affaires, marge, EBITDA, BFR, stocks, créances, dettes fournisseurs et forecast.
-* Appuyer le processus budgétaire et les reforecasts, en préparant les analyses d’écarts.
-* Participer à la clôture mensuelle et à la remontée d’informations au Groupe, avec le cabinet comptable local et la direction financière.
-* Contribuer au suivi de trésorerie : cash forecast à 10 semaines, prévisions de BFR, conformité des paiements.
-* Assister le suivi des stocks : rotation, provisionnement, inventaires, rapprochements physique/comptable.
-* Préparer les analyses de rentabilité par client, canal, produit et marque.
-
-Procédures et contrôle
-* Contribuer à la mise en place et à la documentation des procédures : achats, notes de frais, facturation, encaissements, paiements, délégations de pouvoir.
-
-Administration, RH et partenaires locaux
-* Assurer l’interface opérationnelle avec les partenaires locaux : CPA, avocat, paie, assurances, banque, fiscaliste.
-* Soutenir l’administration du personnel : onboarding, suivi des effectifs, calendrier de paie, conformité documentaire.
-
-Projets transverses
-* Participer aux projets ERP, BI/reporting et aux procédures Groupe.
-* Faciliter la circulation de l’information entre RSD Outdoor US et le siège.
-
-Ce que cette mission vous apporte :
-- Une vision complète du fonctionnement d’une filiale : finance, RH, juridique, fiscalité, relations bancaires.
-- Une proximité immédiate avec la direction et le Secrétariat Général du Groupe.
-- Une expérience internationale valorisante, dans un environnement en croissance.
-- Une immersion dans les pratiques américaines (comptabilité US, paie, conformité), avec des interlocuteurs locaux variés.
-- Un rôle concret dans des projets structurants (ERP, BI, gouvernance), avec de vraies responsabilités.
-
-**Profil recherché**
-
-Profil recherché
-Formation Bac+4/5 en finance, contrôle de gestion, gestion ou école de commerce.
-Rigueur, sens de l’organisation et goût pour les chiffres.
-Aisance relationnelle et bon niveau d’anglais.
-Curiosité, autonomie et envie de s’investir dans une structure en croissance.
 
 </details>
 

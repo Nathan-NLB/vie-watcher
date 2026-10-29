@@ -571,5 +571,10 @@
   },
   "entreprise|aew|luxembourg|luxembourg": null,
   "entreprise|natixis investment managers|boston          -ma-|etats-unis": null,
-  "entreprise|natixis|milan|italie": null
+  "entreprise|natixis|milan|italie": null,
+  "entreprise|9s58|abidjan|cote d'ivoire": {
+    "lat": 5.320357,
+    "lon": -4.016107
+  },
+  "entreprise|rivage investment|new york  -ny-|etats-unis": null
 }
