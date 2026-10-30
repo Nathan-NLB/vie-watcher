@@ -8,11 +8,52 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/10/2026 11:38:25**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **30/10/2026 17:49:38**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Distribution Support Officer (H/F)</strong> · AMUNDI ASSET MANAGEMENT · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** AMUNDI ASSET MANAGEMENT
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier, tandis que l'offre chez Amundi est axée sur le support commercial, la gestion de contrats de distribution et l'onboarding client dans l'asset management. Bien que ses compétences analytiques, son niveau d'anglais et son ouverture à l'international correspondent aux attentes, le cœur de métier de l'offre s'éloigne sensiblement de son expertise en FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247765](https://mon-vie-via.businessfrance.fr/offres/247765)
+
+**Description du poste**
+
+Within Amundi Luxembourg’s Business and Products Division, the VIE will contribute to the cross-boarder commercial development of Private Assets investment solutions within the Amundi Group.
+The role will contribute to the preparation and coordination of cross-border commercial initiatives, the follow-up of existing clients and funds, and the smooth execution of internal processes linked to product launches, client requests and cross-functional coordination, with a specific focus on Private Assets products and on the onboarding of clients into this asset class.
+
+Responsibilities of the role include but are not limited to:: 
+
+In coordination with Sales, the relevant client service officer and internal departments (legal, compliance, middle office, etc.…), support the set-up of contracts relating to distribution activities performed by distributors acting as fund sellers, users, or both, monitoring of requests to amend or set up brand new contracts 
+-Make sure contractual obligations, particularly all aspects regarding remuneration and Client reporting needs are in line with internal processes and procedures and products regulatory requirements; 
+-Respond to requests from both internal stakeholders, such as Sales and Product Specialists, and external clients, such as distributors.
+-Support the handling and follow-up of client requests in coordination with the relevant client service officer/local teams.
+-Contribute to the preparation of periodic reporting, presentations and ad hoc deliverables, notably in support of client onboarding in this new asset class.
+-Contribute to the coordination of cross-functional projects and internal initiatives.
+-Assist with meeting preparation, agenda setting, minute taking and action tracking.
+-Support the standardization and improvement of business support processes.
+-Ensure consistency with internal governance, procedures and Group standards.
+
+**Profil recherché**
+
+-	Excellent communication, problem-solving and analytical skills.
+-	Rigorous, reliable and service-oriented mindset.
+-	Good project management skills.
+-	Strong motivation and intellectual curiosity.
+-	Familiarity with asset management products, particularly Private Assets, fund structures or distribution processes, would be a plus.
+-	Comfortable working in an international environment.
+-	Ability to interact with senior management in a matrix organization.
+-	Team spirit, proactivity and adaptability.
+
+</details>
 
 <details>
 <summary><strong>Business Controller (H/F)</strong> · LABORATOIRES URGO HEALTHCARE · BOLOGNE, ITALIE · 3 003,87 €/mois</summary>
@@ -50,6 +91,162 @@ Connaissances des ERP (SAP serait un plus).
 Excellentes capacités analytiques et esprit de synthèse.
 Rigueur, autonomie et sens de l'organisation.
 Bon relationnel et capacité à travailler dans un environnement international.
+
+</details>
+
+<details>
+<summary><strong>Business Controller / Finance Transformation (H/F)</strong> · LEGRAND FRANCE · SOEST, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** LEGRAND FRANCE
+- **Lieu :** SOEST, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond fortement aux attentes grâce à son expérience réussie en contrôle de gestion, sa maîtrise d'Excel et de la data (Power BI), ainsi qu'à son excellent niveau d'anglais. Le principal écart réside dans le pays de mission (Allemagne vs préférence pour l'Espagne) et l'absence mentionnée d'expérience sur SAP.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247727](https://mon-vie-via.businessfrance.fr/offres/247727)
+
+**Description du poste**
+
+Dans un contexte de transformation et de digitalisation de la fonction Finance, vous contribuerez activement à l'amélioration des outils de pilotage, des processus financiers et du contrôle de gestion au sein de la zone Allemagne / Autriche.
+Rattaché(e) au Directeur Administratif et Financier, vous accompagnerez les équipes Finance et Opérations dans l'exploitation des nouveaux outils issus du déploiement de SAP et participerez à l'harmonisation des processus de reporting et de contrôle de gestion.
+Une attention particulière sera portée au développement de nouveaux dashboards de pilotage, à l'amélioration de la qualité des données et au renforcement du contrôle de gestion industriel, notamment dans le cadre de la mise en place du module SAP PS (Project System) sur le site de production de Modulan.
+Cette mission s'inscrit dans la continuité des activités de reporting, de business controlling et d'amélioration du contrôle interne.
+PRINCIPALES ACTIVITES : 
+1. Digitalisation Finance & Business Intelligence
+· Accompagner la transformation digitale du département Finance.
+· Concevoir et déployer de nouveaux dashboards et outils de pilotage à partir des données SAP.
+· Participer à l'évolution et à l'optimisation des reportings financiers et opérationnels.
+· Contribuer à l'amélioration de la qualité, de la disponibilité et de la fiabilité des données.
+· Accompagner les utilisateurs dans l'adoption des nouveaux outils et indicateurs de performance.
+2. Contrôle de gestion & Performance
+· Participer aux clôtures mensuelles et à l'analyse de la performance économique.
+· Accompagner les équipes dans le pilotage économique des activités.
+· Contribuer à l'harmonisation des méthodes de calcul et des processus de contrôle de gestion entre les différentes entités de la zone.
+· Développer des analyses permettant d'améliorer le pilotage de la rentabilité et des activités opérationnelles.
+· Identifier des opportunités d'amélioration de la performance et être force de proposition.
+3. Audit interne – Contrôle interne
+· Contribution à l’amélioration des dispositifs de Contrôle Interne
+· Participation au processus annuel d’auto-évaluation
+· Assurer le suivi des plans d'actions associés.
+
+**Profil recherché**
+
+De formation supérieure (école de commerce ou universitaire) avec une première expérience significative en Finance, idéalement dans un environnement international,
+· Connaissances approfondies en comptabilité et dans l’établissement d’analyses et rapports économiques,
+· Aptitude et gout à travailler avec les applications informatiques telles que MS-office (dont a minima Excel- niveau avancé), système ERP et Office 365
+· Anglais professionnel obligatoire, l'allemand est un vrai plus
+Qualités attendues :
+· Esprit analytique et orientation résultats.
+· Curiosité pour les systèmes d'information et la data.
+· Autonomie, initiative et proactivité.
+· Capacité à travailler dans un environnement international et transversal.
+· Sens de l'organisation et de la communication.
+· Goût pour le changement et l'amélioration continue.
+Que proposons-nous ?
+· Une mission au cœur de la transformation Finance et de la digitalisation des processus.
+· Une forte exposition aux projets SAP et aux outils associés.
+· Une expérience combinant finance, data et contrôle de gestion industrielle.
+· Un environnement international dynamique au sein du Groupe Legrand.
+· La possibilité de contribuer à des projets stratégiques dans une zone en croissance.
+
+</details>
+
+<details>
+<summary><strong>Spécialiste Analyse Financière Europe de l’Ouest (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** SIBELCO FRANCE
+- **Lieu :** BILBAO, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/10/2026
+- **Compatibilité avec ton profil :** 95 % — Le profil de Nathan correspond parfaitement à l'offre : il possède 2 ans d'expérience solide en contrôle de gestion, maîtrise le reporting et les prévisions, et a un excellent niveau d'anglais. De plus, sa volonté de s'expatrier en Espagne coïncide exactement avec le lieu du poste à Bilbao.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247237](https://mon-vie-via.businessfrance.fr/offres/247237)
+
+**Description du poste**
+
+À propos de Sibelco
+
+Sibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.
+
+Dans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.
+
+Rejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.
+
+Mission:
+
+Le/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. 
+Il/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. 
+En interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. 
+Cette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.
+
+**Profil recherché**
+
+Vous disposez idéalement d'une première expérience acquise lors d'un stage, d'une alternance ou d'un premier emploi dans les domaines du contrôle de gestion, de l'audit, de l'analyse financière ou du Financial Planning & Analysis (FP&A).
+Compétences recherchées :
+
+Solides capacités d'analyse et de synthèse.
+Bonne maîtrise d'Excel et des outils bureautiques.
+Intérêt marqué pour les chiffres, la performance financière et l'analyse de données.
+Capacité à travailler avec des interlocuteurs de différents pays et fonctions.
+Excellentes compétences de communication.
+Anglais courant, à l'écrit comme à l'oral.
+Qualités personnelles :
+
+Curiosité et envie d'apprendre.
+Rigueur et sens du détail.
+Esprit d'équipe et collaboration.
+Proactivité et autonomie.
+Capacité d'adaptation dans un environnement international et multiculturel.
+Cette mission s'adresse à un(e) candidat(e) souhaitant acquérir une expérience internationale en finance d'entreprise et développer une expertise en pilotage de la performance, budgétisation, prévisions financières et aide à la décision.
+
+</details>
+
+<details>
+<summary><strong>CONTROLEUR DE GESTION PROJETS (H/F)</strong> · COMPAGNIE INTERNATIONALE DE MAINTENANCE · PANAMA, PANAMA · 2 390,57 €/mois</summary>
+
+- **Entreprise :** COMPAGNIE INTERNATIONALE DE MAINTENANCE
+- **Lieu :** PANAMA, PANAMA
+- **Indemnité :** 2 390,57 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/10/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil correspond très bien aux missions techniques de contrôle de gestion (budgets, reporting, écarts) et le candidat apporte une solide expérience concrète. Cependant, l'espagnol du candidat (niveau B1) est un peu en deçà de la pratique courante exigée pour ce poste basé au Panama.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245118](https://mon-vie-via.businessfrance.fr/offres/245118)
+
+**Description du poste**
+
+Poste et missions:
+
+o Elaborer et actualiser les budgets de la filiale et du contrat de maintenance en cours
+o Analyser et expliquer les écarts budgétaires
+o Animer les suivis budgétaires auprès des opérationnels
+o Elaborer les prévisions de Chiffre d’affaires et de trésorerie
+o Superviser et contrôler les clôtures comptables
+o Vérifier les imputations analytiques
+o Déterminer les charges à recevoir, les reprises de provisions, et la reconnaissance du CA
+o Préparer les reporting mensuels de gestion
+o Préparer les éléments de la facturation
+o Suivre l’avancement des commandes achats en cours
+o Préparer et consolider les pointages personnels
+o Assurer le suivi des levées de caution
+o Participer aux chiffrages des offres commerciales
+o Participer aux travaux d’audit
+o Contribuer à l’amélioration des outils de suivi budgétaire
+o Diverses études Ad hoc
+
+**Profil recherché**
+
+De formation Bac+4/5 en gestion-finance
+- Pratique courante de l’espagnol et du français, l'anglais est un plus
+- Capacité à comprendre les enjeux techniques et spécifiques des contrats longs terme
+- Première expérience en contrôle de gestion ou en audit (y compris stage).
+- Un séjour professionnel ou pré-professionnel à l’étranger constituerait un atout supplémentaire
+- Esprit analytique et synthétique ;
+- Fiabilité et rigueur ;
+- Autonomie ;
+- Ouverture d’esprit ;
+- Diplomatie ;
+- Bon relationnel et esprit d'équipe
+- Potentiel d’évolution
 
 </details>
 
@@ -181,53 +378,6 @@ Rigueur, organisation et esprit d’analyse
 Capacité à travailler avec une équipe multiculturelle 
 Sens de l’initiative et adaptabilité
 Langues : Français courant
-
-</details>
-
-<details>
-<summary><strong>Analyst — North American Infrastructure Credit (H/F)</strong> · RIVAGE INVESTMENT · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
-
-- **Entreprise :** RIVAGE INVESTMENT
-- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
-- **Indemnité :** 5 088,87 €/mois
-- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
-- **Publiée le :** 29/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est axé sur le contrôle de gestion opérationnel et la comptabilité d'entreprise, tandis que cette offre cible des compétences en finance de marché, analyse de crédit infrastructure et modélisation de fonds (CLO/dette). Bien que son niveau d'anglais et sa rigueur soient adaptés à un contexte international à New York, son manque d'expérience en analyse de crédit et finance structurée constitue un écart significatif.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247654](https://mon-vie-via.businessfrance.fr/offres/247654)
-
-**Description du poste**
-
-The Analyst will support the investment team across the full lifecycle of the managed portfolios and funds, including:
-■	Conducting credit analysis on transactions eligible for inclusion in the managed portfolios
-■	Building and maintaining financial models for prospective and existing investments
-■	Assisting in the preparation of investment committee memoranda and marketing materials
-■	Screening and underwriting broadly syndicated infrastructure loans for the CLO collateral pool with a focus on credit quality, relative value, eligibility criteria, and portfolio-level constraints (e.g., rating, spread, tenor, industry / obligor concentration limitations)
-■	Supporting portfolio construction across the ramp and reinvestment periods, modeling trade impact on collateral quality and coverage tests, arbitrage economics, and equity returns
-■	Maintaining internal databases and tools with transaction data and fund cash flows
-■	Monitoring compliance with portfolio ratios and risk limits
-■	Contributing to business development in the debt sector, including investor and prospect presentations and responses to requests for proposals
-■	Supporting the implementation and ongoing monitoring of transactions and projects
-■	Performing U.S. infrastructure market research to support the development of new investment theses
-■	Participating in the continuous improvement of the Company’s management and analytical tools and ensuring their effective use
-■	Performing all other tasks related to the Analyst’s mission
-We are looking for a rigorous and motivated candidate, eager to develop a solid expertise in infrastructure credit within a demanding international environment.
-
-**Profil recherché**
-
-■	Strong grounding in corporate finance, credit analysis and financial mathematics; understanding of project finance structures (cash flow waterfall, DSCR / LLCR, covenants, security package)
-■	Advanced Excel and financial modeling skills (cash flow models, sensitivity and scenario analysis); knowledge of VBA, Python or SQL is a plus
-■	Knowledge of syndicated loan and CLO markets (ratings, spreads, collateral quality and coverage tests), or the ability to master them quickly
-■	Strong interest in energy transition and digital infrastructure (solar, battery storage, renewable natural gas, geothermal, data centers, fiber) and in the U.S. market
-■	Excellent writing skills, with the ability to produce clear and concise investment memoranda and presentation materials (PowerPoint)
-■	Familiarity with financial databases and market data tools (e.g., Bloomberg, S&P Capital IQ, PitchBook) is appreciated
-
-■	Rigor: disciplined thinking, accuracy and strong attention to detail
-■	Curiosity: intellectual curiosity and a genuine willingness to learn and deepen technical knowledge
-■	Entrepreneurial mindset: autonomy, proactivity and a sense of ownership on live transactions
-■	Collaboration: team player, able to work closely with a small senior team in New York and with the Paris investment, risk and investor relations teams across time zones
-■	Organization: ability to manage multiple priorities and tight deadlines while maintaining quality
-■	Communication: clear and professional communication, both written and oral, with internal teams, investors and partners
-■	Humility and adaptability: open-mindedness, ability to challenge one’s own assumptions and to adapt to an international environment
 
 </details>
 

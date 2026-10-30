@@ -43,6 +43,10 @@
     "score": 45,
     "raison": "Le profil de Nathan est fortement orienté vers le contrôle de gestion et le FP&A, tandis que cette offre concerne les achats IT et la négociation fournisseurs. Bien que la formation en gestion et l'appétence pour l'international correspondent, le cœur de métier de la mission s'éloigne de son expertise financière principale."
   },
+  "245118": {
+    "score": 75,
+    "raison": "Le profil correspond très bien aux missions techniques de contrôle de gestion (budgets, reporting, écarts) et le candidat apporte une solide expérience concrète. Cependant, l'espagnol du candidat (niveau B1) est un peu en deçà de la pratique courante exigée pour ce poste basé au Panama."
+  },
   "245128": {
     "score": 85,
     "raison": "Le profil correspond très bien grâce aux 2 ans d'expérience en contrôle de gestion, la maîtrise d'Excel et l'orientation analytique du candidat. Le principal écart réside dans le contexte géographique (États-Unis au lieu de l'Espagne souhaitée) et l'expérience spécifique en comptabilité analytique de fabrication (coûts standard)."
@@ -275,6 +279,10 @@
     "score": 85,
     "raison": "Le profil correspond parfaitement aux exigences techniques du poste avec 2 ans d'expérience en contrôle de gestion et un niveau d'anglais solide, bien que le candidat ait un niveau d'espagnol B1 inférieur au niveau C1 requis par l'entreprise."
   },
+  "247237": {
+    "score": 95,
+    "raison": "Le profil de Nathan correspond parfaitement à l'offre : il possède 2 ans d'expérience solide en contrôle de gestion, maîtrise le reporting et les prévisions, et a un excellent niveau d'anglais. De plus, sa volonté de s'expatrier en Espagne coïncide exactement avec le lieu du poste à Bilbao."
+  },
   "247243": {
     "score": 90,
     "raison": "Le profil de Nathan correspond parfaitement aux attentes avec son Master en finance, ses deux années d'expérience en contrôle de gestion et sa maîtrise d'Excel et de l'anglais. Le seul léger écart concerne la mobilité géographique, le candidat ciblant notamment l'Espagne tandis que l'offre est basée à Bruxelles."
@@ -399,8 +407,16 @@
     "score": 90,
     "raison": "Le profil de Nathan correspond parfaitement aux attentes du poste de Financial Controller à Barcelone, grâce à sa formation en contrôle de gestion, son expérience significative en PME et sa maîtrise d'Excel et Power BI. Ses compétences linguistiques en anglais et en espagnol (B1) complètent très bien ce profil, malgré l'attente d'un espagnol courant par l'entreprise."
   },
+  "247727": {
+    "score": 85,
+    "raison": "Le profil de Nathan correspond fortement aux attentes grâce à son expérience réussie en contrôle de gestion, sa maîtrise d'Excel et de la data (Power BI), ainsi qu'à son excellent niveau d'anglais. Le principal écart réside dans le pays de mission (Allemagne vs préférence pour l'Espagne) et l'absence mentionnée d'expérience sur SAP."
+  },
   "247759": {
     "score": 90,
     "raison": "Le profil de Nathan correspond parfaitement aux attentes avec son master en contrôle de gestion, ses deux ans d'expérience significative en finance et sa maîtrise d'Excel. Seul un léger écart géographique existe, l'offre étant située en Italie alors qu'il cible notamment l'Espagne, mais son niveau d'anglais courant compense largement."
+  },
+  "247765": {
+    "score": 45,
+    "raison": "Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier, tandis que l'offre chez Amundi est axée sur le support commercial, la gestion de contrats de distribution et l'onboarding client dans l'asset management. Bien que ses compétences analytiques, son niveau d'anglais et son ouverture à l'international correspondent aux attentes, le cœur de métier de l'offre s'éloigne sensiblement de son expertise en FP&A."
   }
 }

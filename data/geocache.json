@@ -581,5 +581,11 @@
   "ville|bologne|italie": {
     "lat": 44.4938203,
     "lon": 11.3426327
+  },
+  "entreprise|amundi asset management|luxembourg|luxembourg": null,
+  "entreprise|compagnie internationale de maintenance|panama|panama": null,
+  "ville|panama|panama": {
+    "lat": 8.9714493,
+    "lon": -79.5341802
   }
 }
