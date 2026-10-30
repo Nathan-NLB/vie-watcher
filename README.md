@@ -8,11 +8,50 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **30/10/2026 04:44:49**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **30/10/2026 11:38:25**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Business Controller (H/F)</strong> · LABORATOIRES URGO HEALTHCARE · BOLOGNE, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** LABORATOIRES URGO HEALTHCARE
+- **Lieu :** BOLOGNE, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes avec son master en contrôle de gestion, ses deux ans d'expérience significative en finance et sa maîtrise d'Excel. Seul un léger écart géographique existe, l'offre étant située en Italie alors qu'il cible notamment l'Espagne, mais son niveau d'anglais courant compense largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247759](https://mon-vie-via.businessfrance.fr/offres/247759)
+
+**Description du poste**
+
+Agave est une filiale du Groupe Urgo spécialisée dans les dispositifs médicaux à destination des professionnels de santé. Dans un contexte de croissance de l'activité et de transformation de ses outils de gestion, Agave renforce son équipe Finance et recherche un(e) V.I.E Business Controller pour accompagner les équipes locales sur des enjeux de pilotage de la performance et de transformation des processus financiers.
+Rattaché(e) à la Direction Finance d'Agave, vous accompagnez les équipes Finance et Contrôle de Gestion dans leurs activités quotidiennes ainsi que dans plusieurs projets structurants.
+
+Vos principales responsabilités seront les suivantes :
+
+Participer à la production et à l'analyse des reportings financiers mensuels.
+Contribuer au suivi des indicateurs de performance de l'entreprise.
+Accompagner le processus budgétaire et les exercices de prévisions.
+Réaliser des analyses ad hoc à destination des équipes Finance et de la Direction Générale.
+Participer au suivi des activités de contrôle interne et de conformité.
+Contribuer à l'amélioration continue des processus financiers.
+Accompagner les équipes dans le cadre du projet de transformation SAP et participer aux travaux préparatoires liés à son déploiement.
+Assurer un support transverse aux différentes fonctions de l'entreprise (Finance, Supply Chain, Commercial, Marketing).
+
+**Profil recherché**
+
+Diplômé(e) d'une école de commerce, d'ingénieur ou d'un Master Universitaire avec une spécialisation Finance, Contrôle de Gestion ou Audit.
+Première expérience (stage, alternance ou premier emploi) en contrôle de gestion, audit ou finance d'entreprise.
+Bonne maîtrise d'Excel et appétence pour les outils d'analyse de données.
+Connaissances des ERP (SAP serait un plus).
+Excellentes capacités analytiques et esprit de synthèse.
+Rigueur, autonomie et sens de l'organisation.
+Bon relationnel et capacité à travailler dans un environnement international.
+
+</details>
 
 <details>
 <summary><strong>FINANCIAL CONTROLLER - BARCELONA (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>

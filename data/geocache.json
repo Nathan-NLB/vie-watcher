@@ -576,5 +576,10 @@
     "lat": 5.320357,
     "lon": -4.016107
   },
-  "entreprise|rivage investment|new york  -ny-|etats-unis": null
+  "entreprise|rivage investment|new york  -ny-|etats-unis": null,
+  "entreprise|laboratoires urgo healthcare|bologne|italie": null,
+  "ville|bologne|italie": {
+    "lat": 44.4938203,
+    "lon": 11.3426327
+  }
 }
