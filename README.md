@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **31/10/2026 01:50:41**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **31/10/2026 07:30:14**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4664,52 +4664,6 @@ Your profile:
 •	You have a good human contact and a critical mindset, you are autonomous, rigorous, figures oriented, dynamic, with a very good synthesis spirit.
 •	You are looking for a challenging, demanding but rewarding position
 •	You have some financial knowledge (ie. P&L…).
-
-</details>
-
-<details>
-<summary><strong>Financial Planning & Analysis (H/F)</strong> · LESAFFRE INTERNATIONAL · MILWAUKEE    -WI-, ETATS-UNIS · 3 430,07 €/mois</summary>
-
-- **Entreprise :** LESAFFRE INTERNATIONAL
-- **Lieu :** MILWAUKEE    -WI-, ETATS-UNIS
-- **Indemnité :** 3 430,07 €/mois
-- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
-- **Publiée le :** 30/09/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, ses compétences avancées en Excel et en FP&A, ainsi qu'à son excellent niveau d'anglais (TOEIC 925). Seul un léger écart géographique est à noter, le candidat ciblant initialement l'Espagne bien que l'offre soit basée aux États-Unis.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246313](https://mon-vie-via.businessfrance.fr/offres/246313)
-
-**Description du poste**
-
-•	Demonstrate an unwavering commitment to Lesaffre's safety-first culture by strictly following all safety protocols and participating in required safety programs
-•	Assist in the development of quarterly rolling forecasts, including financial and business analysis
-•	Support evaluation of financial performance by comparing and analyzing actual results with prior year and rolling forecast
-•	Help in development of new analyses (i.e contribution margin analysis and open order trends/ projections – including partnering with other functions like supply chain and sales & marketing 
-•	Assist in developing and maintaining financial models through benchmarking and process analysis for decision support (e.g., Pricing, Manufacturing Capacity, and Profitability)
-•	Support the oversight of operating metrics (KPIs) that ensure optimal financial performance
-•	Analyzing and interpreting data that will be used for proposed recommendations to various areas of the company
-•	Development of using public data performance trends of competitors and customer to be shared with Exco 
-•	Analyze past results and perform variance analysis and identify trends
-•	Work closely with the accounting team to ensure accurate financial reporting
-•	Assist with cost analysis process 
-•	Gain exposure and work on cross functional projects with GL accounting, cost accounting, tax, or treasury teams
-
-**Profil recherché**
-
-•	Bachelor's degree (or equivalent) in Finance, Accounting, Economics, Business Administration, or related field
-•	Academic coursework or internship experience in finance, accounting, or business analysis preferred
-
-Hard skills: 
-•	Basic understanding of financial concepts and accounting principles
-•	Proficiency with MS Office, especially Excel and PowerPoint
-•	Basic to intermediate Excel skills (spreadsheets, formulas, data analysis)
-•	Ability to learn new software and financial systems quickly
-•	English proficiency required (written and verbal)
-
-Soft skills: 
-•	Open-minded: shows curiosity and openness and acts as an innovation, change agent
-•	Accountable: shows proactivity and concentrates on priorities
-•	Achiever: strives for results and performance and shows professionalism and perseverance
-•	Team player: promotes cooperation, collaboration and team spirit
 
 </details>
 

@@ -199,30 +199,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "10",
-      "17",
-      "259"
+      "[\"10\",\"17\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "10",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit Général",
-        "specializationLabelEn": "General Law"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Within Amundi Luxembourg’s Business and Products Division, the VIE will contribute to the cross-boarder commercial development of Private Assets investment solutions within the Amundi Group.\nThe role will contribute to the preparation and coordination of cross-border commercial initiatives, the follow-up of existing clients and funds, and the smooth execution of internal processes linked to product launches, client requests and cross-functional coordination, with a specific focus on Private Assets products and on the onboarding of clients into this asset class.\n\nResponsibilities of the role include but are not limited to:: \n\nIn coordination with Sales, the relevant client service officer and internal departments (legal, compliance, middle office, etc.…), support the set-up of contracts relating to distribution activities performed by distributors acting as fund sellers, users, or both, monitoring of requests to amend or set up brand new contracts \n-Make sure contractual obligations, particularly all aspects regarding remuneration and Client reporting needs are in line with internal processes and procedures and products regulatory requirements; \n-Respond to requests from both internal stakeholders, such as Sales and Product Specialists, and external clients, such as distributors.\n-Support the handling and follow-up of client requests in coordination with the relevant client service officer/local teams.\n-Contribute to the preparation of periodic reporting, presentations and ad hoc deliverables, notably in support of client onboarding in this new asset class.\n-Contribute to the coordination of cross-functional projects and internal initiatives.\n-Assist with meeting preparation, agenda setting, minute taking and action tracking.\n-Support the standardization and improvement of business support processes.\n-Ensure consistency with internal governance, procedures and Group standards.",
     "creationDate": "2026-10-30T11:58:08Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -283,16 +262,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Agave est une filiale du Groupe Urgo spécialisée dans les dispositifs médicaux à destination des professionnels de santé. Dans un contexte de croissance de l'activité et de transformation de ses outils de gestion, Agave renforce son équipe Finance et recherche un(e) V.I.E Business Controller pour accompagner les équipes locales sur des enjeux de pilotage de la performance et de transformation des processus financiers.\nRattaché(e) à la Direction Finance d'Agave, vous accompagnez les équipes Finance et Contrôle de Gestion dans leurs activités quotidiennes ainsi que dans plusieurs projets structurants.\n\nVos principales responsabilités seront les suivantes :\n\nParticiper à la production et à l'analyse des reportings financiers mensuels.\nContribuer au suivi des indicateurs de performance de l'entreprise.\nAccompagner le processus budgétaire et les exercices de prévisions.\nRéaliser des analyses ad hoc à destination des équipes Finance et de la Direction Générale.\nParticiper au suivi des activités de contrôle interne et de conformité.\nContribuer à l'amélioration continue des processus financiers.\nAccompagner les équipes dans le cadre du projet de transformation SAP et participer aux travaux préparatoires liés à son déploiement.\nAssurer un support transverse aux différentes fonctions de l'entreprise (Finance, Supply Chain, Commercial, Marketing).",
     "creationDate": "2026-10-30T10:03:18Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -493,16 +465,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "205"
+      "[\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Poste et missions:\n\no Elaborer et actualiser les budgets de la filiale et du contrat de maintenance en cours\no Analyser et expliquer les écarts budgétaires\no Animer les suivis budgétaires auprès des opérationnels\no Elaborer les prévisions de Chiffre d’affaires et de trésorerie\no Superviser et contrôler les clôtures comptables\no Vérifier les imputations analytiques\no Déterminer les charges à recevoir, les reprises de provisions, et la reconnaissance du CA\no Préparer les reporting mensuels de gestion\no Préparer les éléments de la facturation\no Suivre l’avancement des commandes achats en cours\no Préparer et consolider les pointages personnels\no Assurer le suivi des levées de caution\no Participer aux chiffrages des offres commerciales\no Participer aux travaux d’audit\no Contribuer à l’amélioration des outils de suivi budgétaire\no Diverses études Ad hoc",
     "creationDate": "2026-08-04T13:53:31Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1060,72 +1025,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "2",
-      "5",
-      "158",
-      "200",
-      "244",
-      "259",
-      "318",
-      "320",
-      "358"
+      "[\"2\",\"5\",\"158\",\"200\",\"244\",\"259\",\"318\",\"320\",\"358\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "358",
-        "specializationParentId": "24",
-        "specializationLabel": "ERP management",
-        "specializationLabelEn": "ERP management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "-Support the development and structuring of the company’s U.S. operations through improved financial, administrative, and operational processes.\n-Contribute to cost optimization initiatives related to procurement, travel, transportation, and logistics activities.\n-Strengthen administrative compliance and coordination with external partners, including banks, insurance providers, accountants, and logistics service providers.\n-Participate in the standardization and digitalization of internal processes to improve efficiency and scalability.\n-Develop and enhance reporting tools, dashboards, and KPIs to support business monitoring and decision-making.\n-Assist in implementing process improvement projects that support the company’s growth and operational performance in the U.S. market.",
     "creationDate": "2026-09-25T21:07:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1487,16 +1389,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We seek an ambitious, motivated and driven young graduate eager to gain a fundamental understanding of equity research during a 12 month assignment, intended to be prolonged to 24 months. This is an opportunity to join Austria's #1 Extel rated equity team and become part of ODDO BHF's growing equity platform.\n\nYour tasks will include:\n\n- Working on a wide range of equity research projects across various sectors\n- Support of analysts in the production of equity research reports and presentations\n- Compilation and presentation of company and sector specific data as well as competitor analysis\n- Financial modelling and perform corporate valuations\n- Interaction with Management and Investor Relations\n- Contribute to sustaining existing client relationships with the objective of ensuring strong relationships\n- Provide general administrative support to the research team",
     "creationDate": "2026-10-26T13:43:38Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1893,16 +1788,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are looking for a motivated and analytical VIE Finance Analyst to join our Finance team. The role offers broad exposure across different finance activities, with a primary focus on Management Control, Financial Performance Monitoring, and Internal Consolidation Reporting.\nWorking closely with Finance Business Partners, Controlling teams, and Group Finance stakeholders, the successful candidate will contribute to the production of management information, support financial analysis, and help ensure the quality and consistency of financial reporting delivered to management and headquarters.\nKey Responsibilities\nManagement Control\n•\tSupport monthly closing and management reporting activities.\n•\tAnalyze financial performance versus budget, forecast, and prior year results.\n•\tPrepare variance analyses and provide insights on key business drivers.\n•\tContribute to budgeting, forecasting, and long-term planning exercises.\n•\tMonitor financial and operational KPIs and assist in developing management dashboards.\n•\tSupport ad hoc financial analyses and business cases for management.\nInternal Consolidation & Reporting\n•\tParticipate in the preparation and validation of internal financial reporting packages.\n•\tSupport the consolidation process by collecting, reviewing, and reconciling financial data from different entities.\n•\tEnsure accuracy, completeness, and consistency of reported figures.\n•\tAssist in the preparation of reporting submissions to Group Finance.\n•\tMonitor reporting deadlines and follow up with stakeholders to ensure timely delivery.\n•\tSupport continuous improvement initiatives aimed at enhancing reporting processes and controls.\nCross-Functional Finance Support\n•\tCollaborate with Accounting, Treasury, Business Finance, and other Finance teams.\n•\tContribute to process documentation and internal control activities.\n•\tParticipate in finance transformation and automation projects.\n•\tHelp identify opportunities to improve reporting efficiency and data quality.",
     "creationDate": "2026-10-26T10:02:32Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3643,16 +3531,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "You will support the Finance Department by providing reliable financial and business analysis, ensuring accurate management reporting, and contributing to budgeting, forecasting, and monthly closing processes, to facilitate informed decision-making and effective business performance monitoring.\nAmong your key resposabilities, you will contribute in: \n- Managing the BPC reporting application,\n- Preparing sales analysis reports,\n- Supporting the preparation and consolidation of final budgets,\n- Supporting the preparation of quarterly forecasts,\n- Supporting monthly accounting and management control closing processes,\n- Preparing business analyses and reports related to sales and finance to support informed decision-making.",
     "creationDate": "2026-10-19T12:59:21Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -7200,76 +7081,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "",
-    "dateCandidature": null
-  },
-  {
-    "id": 246313,
-    "organizationName": "LESAFFRE INTERNATIONAL",
-    "missionTitle": "Financial Planning & Analysis (H/F)",
-    "missionDuration": 18,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "500",
-    "effectifConso": "50",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "MILWAUKEE    -WI-",
-    "cityNameEn": "MILWAUKEE    -WI-",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "318"
-    ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
-    "missionDescription": "•\tDemonstrate an unwavering commitment to Lesaffre's safety-first culture by strictly following all safety protocols and participating in required safety programs\n•\tAssist in the development of quarterly rolling forecasts, including financial and business analysis\n•\tSupport evaluation of financial performance by comparing and analyzing actual results with prior year and rolling forecast\n•\tHelp in development of new analyses (i.e contribution margin analysis and open order trends/ projections – including partnering with other functions like supply chain and sales & marketing \n•\tAssist in developing and maintaining financial models through benchmarking and process analysis for decision support (e.g., Pricing, Manufacturing Capacity, and Profitability)\n•\tSupport the oversight of operating metrics (KPIs) that ensure optimal financial performance\n•\tAnalyzing and interpreting data that will be used for proposed recommendations to various areas of the company\n•\tDevelopment of using public data performance trends of competitors and customer to be shared with Exco \n•\tAnalyze past results and perform variance analysis and identify trends\n•\tWork closely with the accounting team to ensure accurate financial reporting\n•\tAssist with cost analysis process \n•\tGain exposure and work on cross functional projects with GL accounting, cost accounting, tax, or treasury teams",
-    "creationDate": "2026-09-23T07:43:51Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-07-01T00:00:00",
-    "startBroadcastDate": "2026-09-30T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-10-30T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "•\tBachelor's degree (or equivalent) in Finance, Accounting, Economics, Business Administration, or related field\n•\tAcademic coursework or internship experience in finance, accounting, or business analysis preferred\n\nHard skills: \n•\tBasic understanding of financial concepts and accounting principles\n•\tProficiency with MS Office, especially Excel and PowerPoint\n•\tBasic to intermediate Excel skills (spreadsheets, formulas, data analysis)\n•\tAbility to learn new software and financial systems quickly\n•\tEnglish proficiency required (written and verbal)\n\nSoft skills: \n•\tOpen-minded: shows curiosity and openness and acts as an innovation, change agent\n•\tAccountable: shows proactivity and concentrates on priorities\n•\tAchiever: strives for results and performance and shows professionalism and perseverance\n•\tTeam player: promotes cooperation, collaboration and team spirit",
-    "countryId": "US",
-    "countryName": "ETATS-UNIS",
-    "countryNameEn": "UNITED STATES",
-    "reference": "VIE246313",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Apolline MATTON",
-    "indemnite": 3430.07,
-    "teleworkingAvailable": true,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "https://smrtr.io/B-yZN",
     "dateCandidature": null
   },
   {
