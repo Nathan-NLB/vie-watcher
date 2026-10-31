@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **31/10/2026 21:38:52**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **01/11/2026 00:42:49**, 80 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4309,133 +4309,6 @@ SOFT SKILLS :
 </details>
 
 <details>
-<summary><strong>CORPORATE FINANCE HF (H/F)</strong> · ALBIOMA · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
-
-- **Entreprise :** ALBIOMA
-- **Lieu :** SAO PAULO, BRESIL
-- **Indemnité :** 2 743,28 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 02/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245612](https://mon-vie-via.businessfrance.fr/offres/245612)
-
-**Description du poste**
-
-Présentation de la société :
-
-Albioma est engagé dans la transition énergétique grâce aux énergies renouvelables (biomasse, solaire et géothermie).
-
-Le Groupe est implanté en Outre-mer français, dans l'Hexagone, à Île Maurice, au Brésil, au Canada, en Australie et en Turquie. Il a développé depuis 30 ans un partenariat unique avec le monde sucrier pour produire de l'énergie renouvelable à partir de la bagasse, résidu fibreux de la canne à sucre.
-
-Albioma est aussi le premier producteur d'énergie photovoltaïque en Outre-mer où il construit et exploite des projets innovants avec stockage, ainsi que dans l'Hexagone.
-
-Depuis 2021, le Groupe se développe dans la géothermie, avec l'acquisition de deux centrales en Turquie.
-
-Poste et missions :
-
-Dans un contexte de fort développement de nos activités au Brésil, vos principales missions au sein de la Direction Financière à São Paulo seront les suivantes :
-
-- Assistance sur les projets de financement (élaboration des modèles avec les équipes projets, présentations aux banques, négociation des documentations de crédit) ;
-
-- Analyse stratégique et financière des projets de M&A ;
-
-- Exercices de modélisation financière et d’évaluation ;
-
-- Elaboration des dossiers d’investissement en contrôle financier ;
-
-- Modélisation et suivi des business plans à moyen terme ;
-
-- Elaboration du reporting mensuel d’activité et analyse des résultats ;
-
-- Suivi des investissements sur ses aspects financiers ;
-
-- Suivi de trésorerie et élaboration de prévisionnels ;
-
-- Analyses financières ponctuelles.
-
-**Profil recherché**
-
-- Vous êtes diplômé.e d’une école de commerce ou d’ingénieur avec une spécialité : Finance / Comptabilité / Contrôle de gestion ;
-
-- Vous avez idéalement une première expérience au sein d'une direction financière ;
-
-- Vous maitrisez la notion de compte de résultats ;
-
-- Vous êtes familier avec la modélisation d’un Business Plan ;
-
-- Vous parlez anglais couramment (oral, écrit) ; 
-
-- Vous avez un bon relationnel et aimez travailler en équipe ; 
-
-- Vous être rigoureux.se et très organisé.e.
-
-</details>
-
-<details>
-<summary><strong>VIE GERMANY - PRIVATE DEBT DACH (H/F)</strong> · ATALANTE · MUNICH, ALLEMAGNE · 3 381,57 €/mois</summary>
-
-- **Entreprise :** ATALANTE
-- **Lieu :** MUNICH, ALLEMAGNE
-- **Indemnité :** 3 381,57 €/mois
-- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
-- **Publiée le :** 01/10/2026
-- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan présente d'excellentes compétences en analyse financière et modélisation, qui correspondent aux besoins de reporting et d'analyse. Cependant, l'offre cible plutôt des profils issus de la dette privée ou du leveraged finance, et exige une maîtrise de l'allemand qui n'est pas mentionnée dans son profil.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246473](https://mon-vie-via.businessfrance.fr/offres/246473)
-
-**Description du poste**
-
-About CAPZA
-
-CAPZA(1) is an established European private investment platform focused on small and mid-cap companies, which is part of BNP Paribas Asset Management Alts, a leading European alternative investment platform with over €300bn in assets under management (2).
-
-With €10.5 billion of assets(3), CAPZA puts its experience and passion for investing at the service of investors in Europe and worldwide with its platform of 6 complementary areas of expertise: Growth Tech, Flex Equity, Flex Equity Mid-Market, Transition(4), Private Debt et Artemid(5).
-
-CAPZA offers financing solutions to small and mid-cap companies at every stage of their development. Its unique platform allows CAPZA to support companies over the long term by providing them with custom made financing solutions (majority equity, minority equity, subordinated debt, senior debt, etc.). CAPZA is a generalist but has built up strong expertise in supporting companies in the health, technology and services sectors.
-
-CAPZA Group has more than 120 employees based in Paris, Munich, Madrid, Milan and Amsterdam, and is part of AXA IM Alts, one of the world's leading alternative investment firms with €190 billion in assets under management5.
-
-More information: www.capza.co
-
- CAPZA in figures
-
-- 266 SMEs and mid-sized companies supported since 2004
-- Over 120 employees based in Paris (our headquarters), Munich, Madrid, Milan, and Amsterdam
-- €10.5 billion in assets under management
-
-Would you like to join a mid-sized company where you can truly make an impact on its development? We are looking for talented and motivated candidates to support the growth of our platform. Team spirit is deeply rooted in CAPZA’s entrepreneurial culture. Our employees are curious, pragmatic, and humble. They are passionate about their work and place excellence at the heart of everything they do.
-
-📌 CAPZA is committed to equal opportunity and positive action in employment. We are dedicated to recruiting talented and diverse individuals and to fostering an inclusive and collaborative culture, as we believe that multiple perspectives lead to better-informed decisions. We welcome candidates with diverse life experiences who are eager to bring fresh ideas and recognized expertise in their field.
-
-
-(1)CAPZA is the commercial name of Atalante SAS, portfolio management company approved on 11/29/2014 by the « Autorité des Marchés Financiers » under GP-04000065.(2)Source: BNP Paribas AM Alts as of 30/09/2025.(3)Including assets advised by Artemid SAS. Based on valuations as of 30/09/2025 and including funds raised until December 2026.(4) The funds of the CAPZA Transition range are managed by the asset management company CAPZA, and advised by CAPZA Transition SAS which has financial investment advisor status (CIF in France), is registered under the Orias under the number 18001601 since the 03/23/2018.(5) The funds of the Artemid range are managed by the asset management company CAPZA and advised by Artemid SAS, which is a subsidiary of CAPZA and has financial investment advisor status (CIF in France). Artemid SAS is registered by the Orias under the number 14003497 since the 05/28/2014.
-
-About CAPZA Private Debt
-
-CAPZA is a leading private debt investor with over 20 years of experience, actively investing across five core regions: France, Germany, Benelux, Spain, and Italy. With more than €5 billion in commitments and over 340 investments since 2004, CAPZA has built an exceptional long-term track record and is currently raising its seventh private debt fund. Through our regional offices, we maintain strong local relationships and networks to identify the most attractive investments opportunities, ranging from Unitranches and junior debt to equity-linked instruments. CAPZA is seeking a VIE in Munich for its Private Debt strategy to support the analysis and execution of investments across the DACH region.
-
-Key Responsibilities
-
-Our VIEs become fully integrated members of the investment team to take the following responsibilities:
--  Supporting the analysis and execution of potential private debt investments in mid-cap companies across the DACH region.
--  Screening investment opportunities by conducting detailed financial and commercial analysis for credit assessments which form the basis for decisions on new investments.
--  Preparing and reviewing LBO models to determine adequate debt capacities and structures.
--  Contributing to drafting investment memoranda on new opportunities for the Investment Committee.
--  Supporting the monitoring and reporting of existing investments in the portfolio.
--  Creating high-quality presentations and pitch materials for internal and external stakeholders.
--  Contributing to internal projects and related tasks to drive growth, efficiencies, and collaboration.
-
-**Profil recherché**
-
-Relevant internship experience in private debt, leveraged finance, or debt advisory.
-Initial understanding of credit analysis and risk assessment.
-Strong analytical, financial, and writing skills, with a rigorous and detail-oriented approach.
-Efficient process management skills, based on a highly organised and structured way of working.
-Ambitious, humble, and team-oriented mindset with a hands-on attitude and the ability to work independently and collaboratively in a fast-paced, entrepreneurial environment.
-Strong academic background in finance, economics, business administration, or a related field.
-Fluent in English (both written and spoken).
-
-</details>
-
-<details>
 <summary><strong>INVESTMENT ANALYST / ANALYSTE EN INVESTISSEMENT (H/F)</strong> · HELEXIA CORPORATE · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** HELEXIA CORPORATE
@@ -4485,48 +4358,6 @@ Une 1ère expérience en finance d’entreprise et/ou dans le secteur des Renouv
 Attrait particulier pour la transition énergétique et les énergies renouvelables
 Langues : Espagnol avancé (niveau B2/C1) & Anglais courant (niveau C1).
 Capacités requises : autonomie, analyse de données, appétence pour le travail en équipe, adaptabilité aux situations et aux interlocuteurs et capacités organisationnelles.
-
-</details>
-
-<details>
-<summary><strong>Business Controller & Analyst (H/F)</strong> · ALTEN · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** ALTEN
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 01/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245544](https://mon-vie-via.businessfrance.fr/offres/245544)
-
-**Description du poste**
-
-ALTEN group’s mission is to create customer satisfaction by developing tailor-made and innovative solutions for IT and Technology.
-Present in 30 countries, we propose IT Solutions and Engineering Consulting to the world’s largest companies. For more than 30 years, a passion for engineering has driven us: ALTEN today is a European leader in engineering consulting and advanced technologies.
-To follow our growth and development on the International perimeter (30 000 employees, turnover superior to 2 billion €), the ALTEN Group is looking for a:
-
-Business Controller & Analyst 
-Based in ALTEN BELGIUM, Brussels 
-
-You will report directly to the Head of the International Development Department.  Your assignment consists in consolidating and analysing the operational data from ALTEN in Benelux. 
-Your main tasks will be the following ones: 
-•	Producing weekly, monthly & quarterly operational reports for the Group as well as ad hoc analysis upon request
-•	Analysing with a critical eye the weekly operational indicators (KPIs)
-•	Providing the best quality reports and analysis for key deadlines such as:
-•	the monthly business review (MBR) with the Top Management & the COO 
-•	the Committee Career (CC) (biannual assessment of the commercial/management team based on operational data)
-•	Implementation of the Bonus System for the management team 
-•	Maintaining & creating various dashboards for the COO to drive the activity
-•	Improving the information flow from subsidiaries to headquarter
-•	Helping in the deployment of the ALTEN tools in the new subsidiaries
-
-**Profil recherché**
-
-Your profile: 
-•	Graduated from an engineering or business school, 
-•	You are an expert in the advanced commands of Microsoft Excel (vlookup, TCD, macros) 
-•	You have a good human contact and a critical mindset, you are autonomous, rigorous, figures oriented, dynamic, with a very good synthesis spirit.
-•	You are looking for a challenging, demanding but rewarding position
-•	You have some financial knowledge (ie. P&L…).
 
 </details>
 
