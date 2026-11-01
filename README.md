@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **01/11/2026 00:42:49**, 80 offre(s) actuellement en ligne.
+Dernière vérification : **01/11/2026 04:32:11**, 79 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4305,59 +4305,6 @@ SOFT SKILLS :
 •	Organizational talent and multitasking ability
 •	High level of communication and teamwork
 •	High degree of independence, initiative and teamwork
-
-</details>
-
-<details>
-<summary><strong>INVESTMENT ANALYST / ANALYSTE EN INVESTISSEMENT (H/F)</strong> · HELEXIA CORPORATE · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** HELEXIA CORPORATE
-- **Lieu :** MADRID, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 01/10/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond très bien aux missions de pilotage financier, de modélisation et de reporting, renforcé par son attrait pour l'Espagne et son solide bagage en contrôle de gestion. Toutefois, l'offre demande un niveau d'espagnol supérieur (B2/C1 contre B1 pour le candidat) et une orientation plus marquée vers le M&A et la finance d'investissement.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246260](https://mon-vie-via.businessfrance.fr/offres/246260)
-
-**Description du poste**
-
-Fondé en 2010 avec la volonté d’allier économies & écologie, Helexia est un acteur indépendant majeur du marché de la transition énergétique.
-L’entreprise, qui compte aujourd’hui plus de 350 collaborateurs présents dans 7 pays, offre à ses clients la possibilité de décarboner leur activité à travers la production d’énergie renouvelable sur site ainsi que des projets d’efficacité énergétique.
-S’inscrivant dans la stratégie d’expansion géographique du groupe, Helexia España a été créée en 2019 avec pour objectif de devenir un acteur incontournable du marché de la transition énergétique en Espagne. La filiale de 16 personnes compte déjà sur plus de 75 projets photovoltaïques en opération pour un total de 40 MW.
-
-Poste et missions :
-
-1/ Analyse de l’ensemble des éléments financiers et stratégiques des opportunités d’investissement sur des centrales solaires en toitures, ombrières ou au sol et sur des projets d’efficacité énergétique:
-o Réalisation du Business Plan en collaboration avec les équipes de la BU Espagne
-o Analyse du risque de contrepartie
-o Réalisation de sensibilités financières et extra-financières sur le Business Plan en fonction de l’opportunité et des risques identifiés
-o Préparation de la présentation interne pour le Comité d’investissement
-
-2/ Participation au pilotage financier de la filiale :
-o Reporting financier et commercial mensuel/trimestriel et analyse des écarts par rapport au budget ou aux prévisions
-o Implication dans le processus budgétaire et la planification financière
-o Analyse de la performance financière et suivi des opportunités post-investissement (Asset Management financier)
-
-3/ Réalisation d’études de marché
-o Veille concurrentielle
-o Analyse de tendances
-o Suivi de l’innovation et des nouvelles solutions
-
-4/ Participation aux opérations de financement des actifs espagnols en collaboration avec l’ensemble des parties prenantes (services juridique, technique et financier).
-
-5/ Implication aux différents niveaux du cycle des transactions M&A, en collaboration avec l’équipe d’investissement Groupe :
-o Screening de marché et analyse d’opportunités
-o Modélisation financière
-o Participation aux travaux d’audits
-o Soumission du projet aux forums de décision pertinents
-
-**Profil recherché**
-
-Issu(e) d'une Ecole de Commerce ou d’Ingénieur, Bac +5
-Une 1ère expérience en finance d’entreprise et/ou dans le secteur des Renouvelables ou de l’Infrastructure est souhaitée.
-Attrait particulier pour la transition énergétique et les énergies renouvelables
-Langues : Espagnol avancé (niveau B2/C1) & Anglais courant (niveau C1).
-Capacités requises : autonomie, analyse de données, appétence pour le travail en équipe, adaptabilité aux situations et aux interlocuteurs et capacités organisationnelles.
 
 </details>
 
