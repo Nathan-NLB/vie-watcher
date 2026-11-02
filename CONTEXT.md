@@ -198,6 +198,30 @@ des offres actives à `seen-ids.json` à chaque run, donc une offre publiée
 pendant la panne aurait simplement été détectée (et notifiée) en retard au
 run suivant qui a fonctionné, pas perdue.
 
+## Déclenchement externe (cron-job.org), mis en place le 2 novembre 2026
+
+Depuis le 23 octobre 2026, le planificateur de GitHub (cron `*/20`) ne lançait
+plus que 3 à 7 passages par jour au lieu de 40 à 60, avec des trous allant
+jusqu'à 10 heures. GitHub ne garantit pas l'heure des passages programmés. Les
+offres étaient donc notifiées en retard et en rafale (5 d'un coup le 2 novembre).
+Le robot et le code n'étaient pas en cause.
+
+Solution : un service externe gratuit, **cron-job.org** (compte de Nathan),
+appelle GitHub toutes les **15 minutes** pour lancer le workflow de veille
+(`workflow_dispatch` sur `watch-vie-offers.yml`, branche
+`claude/vie-finance-notifications-j770x1`). Le cron GitHub reste en place comme
+secours : pas de doublon de notification, car le robot ignore les offres déjà
+vues et le workflow empêche deux passages simultanés.
+
+- L'appel utilise une clé d'accès GitHub (fine-grained token, limitée au dépôt
+  vie-watcher, permission Actions en lecture/écriture). **Sa valeur est stockée
+  uniquement dans cron-job.org, jamais dans le dépôt.** Si elle expire ou est
+  révoquée, il faut en créer une nouvelle et la remplacer dans la tâche
+  cron-job.org (onglet Avancé, en-tête `Authorization`).
+- cron-job.org envoie un e-mail à Nathan après 3 échecs d'affilée.
+- Symptôme d'un retour du problème : moins de 4 passages par heure dans l'historique
+  du dépôt, ou des notifications qui arrivent en rafale.
+
 ## Préférences de Nathan à respecter
 
 - Ne sait pas coder du tout : tout expliquer simplement, étape par étape,
