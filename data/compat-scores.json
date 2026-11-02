@@ -367,6 +367,10 @@
     "score": 35,
     "raison": "Le profil de Nathan est fortement orienté vers le contrôle de gestion traditionnel et la finance d'entreprise (Master en cours, expérience en PME), tandis que l'offre de VIE chez Amundi recherche un profil aux compétences techniques marquées en IA, transformation opérationnelle, développement et gestion de projets digitaux. Malgré la bonne localisation en Espagne et la maîtrise des chiffres, l'écart sur le plan technologique et informatique est important."
   },
+  "247568": {
+    "score": 85,
+    "raison": "Le profil de Nathan correspond très bien aux exigences financières et de reporting du poste grâce à son expérience solide en contrôle de gestion et son niveau avancé en Excel. Bien que le poste exige un espagnol courant (niveau B1 pour le candidat) et inclue des tâches administratives et RH variées, sa forte autonomie financière et son appétence pour l'international compensent largement."
+  },
   "247572": {
     "score": 65,
     "raison": "Le candidat possède un excellent niveau d'anglais et un Master en finance adapté, mais son expérience se concentre sur le contrôle de gestion en PME industrielle et non sur l'audit bancaire requis pour ce poste chez Natixis à New York."
@@ -415,6 +419,14 @@
     "score": 85,
     "raison": "Le profil de Nathan correspond fortement aux attentes grâce à son expérience réussie en contrôle de gestion, sa maîtrise d'Excel et de la data (Power BI), ainsi qu'à son excellent niveau d'anglais. Le principal écart réside dans le pays de mission (Allemagne vs préférence pour l'Espagne) et l'absence mentionnée d'expérience sur SAP."
   },
+  "247753": {
+    "score": 75,
+    "raison": "Le profil de Nathan correspond bien aux attentes financières et linguistiques (anglais courant) de l'offre, avec de solides compétences en Excel et Power BI. Cependant, l'offre est axée sur l'audit interne, les contrôles internes et l'IA, alors que l'expérience de Nathan est plus orientée vers le contrôle de gestion pur."
+  },
+  "247756": {
+    "score": 75,
+    "raison": "Le profil financier et analytique de Nathan correspond bien aux attentes en contrôle et analyse de données, avec un fort niveau d'anglais et une appétence pour l'international. Cependant, l'offre exige la maîtrise du portugais et se focalise sur l'audit interne et l'IA, ce qui diffère légèrement de son cœur de métier en contrôle de gestion."
+  },
   "247759": {
     "score": 90,
     "raison": "Le profil de Nathan correspond parfaitement aux attentes avec son master en contrôle de gestion, ses deux ans d'expérience significative en finance et sa maîtrise d'Excel. Seul un léger écart géographique existe, l'offre étant située en Italie alors qu'il cible notamment l'Espagne, mais son niveau d'anglais courant compense largement."
@@ -422,5 +434,13 @@
   "247765": {
     "score": 45,
     "raison": "Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier, tandis que l'offre chez Amundi est axée sur le support commercial, la gestion de contrats de distribution et l'onboarding client dans l'asset management. Bien que ses compétences analytiques, son niveau d'anglais et son ouverture à l'international correspondent aux attentes, le cœur de métier de l'offre s'éloigne sensiblement de son expertise en FP&A."
+  },
+  "247827": {
+    "score": 75,
+    "raison": "Le profil de Nathan correspond bien aux attentes en termes de formation (Bac+5 en finance) et de compétences techniques (maîtrise d'Excel, rigueur, analyse financière, anglais courant). Cependant, son expérience est axée sur le contrôle de gestion opérationnel en PME plutôt que sur la comptabilité bancaire ou le reporting réglementaire spécifique au secteur bancaire exigé par BNP Paribas."
+  },
+  "247832": {
+    "score": 65,
+    "raison": "Le profil du candidat en contrôle de gestion et analyse financière s'aligne bien avec les compétences analytiques et de reporting demandées par l'offre. Cependant, le poste de Sales Management orienté vers le pilotage commercial en banque privée à Hong Kong s'éloigne de son objectif initial en FP&A et de sa préférence géographique pour l'Espagne."
   }
 }

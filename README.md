@@ -8,11 +8,412 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/11/2026 07:21:27**, 78 offre(s) actuellement en ligne.
+Dernière vérification : **02/11/2026 17:30:19**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Internal Audit, Controls & AI Analyst (H/F)</strong> · M&L DISTRIBUTION (FRANCE) S.A.R.L. · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
+
+- **Entreprise :** M&L DISTRIBUTION (FRANCE) S.A.R.L.
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 743,28 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil financier et analytique de Nathan correspond bien aux attentes en contrôle et analyse de données, avec un fort niveau d'anglais et une appétence pour l'international. Cependant, l'offre exige la maîtrise du portugais et se focalise sur l'audit interne et l'IA, ce qui diffère légèrement de son cœur de métier en contrôle de gestion.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247756](https://mon-vie-via.businessfrance.fr/offres/247756)
+
+**Description du poste**
+
+CONTEXT & MISSION: 
+
+The L’OCCITANE Group Internal Audit team is looking for a VIE to join us in São Paulo, embedded within our Brazilian organization. 
+You will support the deployment of internal controls and the transformation of Internal Audit through data analytics and Artificial Intelligence. 
+ 
+The role provides a unique opportunity to gain exposure to a fast-growing international business while working directly with Group Internal Audit on strategic initiatives across multiple brands, including L’Occitane au Brésil and L’Occitane en Provence. 
+
+working directly with Group Internal Audit on strategic initiatives across multiple brands, including Sol de Janeiro and L'Occitane. 
+
+Ready to start your international career at the intersection of business, risk, data and AI? 
+
+KEY RESPONSIBILITIES: 
+
+Internal Controls: support the improvement of the Internal Control System (ICS) in Brazil and support the deployment and testing of the Group GRC (governance risk and control) software for our Brands operating in Sao Paulo 
+
+Internal Audit: contribute to Group audit assignments across brands and countries worldwide 
+
+AI & Audit Innovation: challenge and validate AI-enabled audit work (prompt and then verify loops with Group Internal Audit Senior Managers), using all Microsoft 365 tools (MS365, Excel, Power BI) available, our internal AI and external AI models 
+
+
+WHAT YOU WILL GAIN: 
+
+Work directly with senior leaders from Group Internal Audit 
+
+Contribute to the transformation of Internal Audit through AI and analytics 
+
+Gain exposure to a fast-growing international business 
+
+Develop expertise in internal controls, governance and risk management 
+
+Learn to apply AI responsibly within audit activities 
+
+Build a strong foundation for future careers in Internal Audit, Internal Controls, Risk Management, Data Analytics or Governance
+
+**Profil recherché**
+
+You do not need to be an audit expert. We are looking for an honest, smart, curious, motivated, well organized and service-oriented individual who enjoys learning every day and understanding how businesses work, how information flows, and how technology improves internal audit and controls. If you are passionate about AI, data and technology, risk and business operations, we would like to hear from you. 
+
+Master's degree (or equivalent) in Business, Engineering, Finance, Audit, Information Systems, Data Analytics or a related field 
+
+Initial experience in audit, internal controls, consulting, finance, technology or data analytics 
+
+Fluent in Portuguese, French and English  
+
+Demonstrated interest in Artificial Intelligence, automation and business transformation (at ease with Copilot, Claude, MS365, Excel with Python, ERP Systems etc.)  
+
+Strong analytical and problem-solving skills 
+
+Proactive and eager to learn 
+
+Ability to challenge information constructively and communicate clearly with stakeholders 
+
+Curiosity about how organizations operate, how decisions are made, and how data flows across processes 
+
+Demonstrate integrity, professionalism and sound judgement 
+
+Enjoy working in multicultural environments 
+
+Comfortable engaging with Internal Controls owners and building positive working relationships
+
+</details>
+
+<details>
+<summary><strong>Internal Audit, Controls & AI Analyst (H/F)</strong> · M&L DISTRIBUTION (FRANCE) S.A.R.L. · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** M&L DISTRIBUTION (FRANCE) S.A.R.L.
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes financières et linguistiques (anglais courant) de l'offre, avec de solides compétences en Excel et Power BI. Cependant, l'offre est axée sur l'audit interne, les contrôles internes et l'IA, alors que l'expérience de Nathan est plus orientée vers le contrôle de gestion pur.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247753](https://mon-vie-via.businessfrance.fr/offres/247753)
+
+**Description du poste**
+
+CONTEXT & MISSION: 
+
+The L’OCCITANE Group Internal Audit team is looking for a VIE to join us in New York City, embedded within our North American organization. 
+You will support the deployment of internal controls and the transformation of Internal Audit through data analytics and Artificial Intelligence. 
+ 
+The role provides a unique opportunity to gain exposure to a fast-growing international business while working directly with Group Internal Audit on strategic initiatives across multiple brands, including Sol de Janeiro and L'Occitane en Provence. 
+
+Ready to start your international career at the intersection of business, risk, data and AI? 
+
+KEY RESPONSIBILITIES: 
+
+Internal Controls: support the improvement of the Internal Control System (ICS) and support the deployment & testing of the Group GRC (governance risk and control) software for our Brands operating in North America 
+
+Internal Audit: contribute to Group audit assignments across brands and countries worldwide 
+
+AI & Audit Innovation: challenge and validate AI-enabled audit work (prompt and then verify loops with Group Internal Audit Senior Managers), using all Microsoft 365 tools (MS365, Excel, Power BI) available, our internal AI and external AI models 
+
+WHAT YOU WILL GAIN: 
+
+Work directly with senior leaders from Group Internal Audit 
+
+Contribute to the transformation of Internal Audit through AI and analytics 
+
+Gain exposure to a fast-growing international business 
+
+Develop expertise in internal controls, governance and risk management 
+
+Learn to apply AI responsibly within audit activities 
+
+Build a strong foundation for future careers in Internal Audit, Internal Controls, Risk Management, Data Analytics or Governance
+
+**Profil recherché**
+
+You do not need to be an audit expert. We are looking for an honest, smart, curious, motivated, well organized and service-oriented individual who enjoys learning every day and understanding how businesses work, how information flows, and how technology improves internal audit and controls. If you are passionate about AI, data and technology, risk and business operations, we would like to hear from you. 
+
+Master's degree (or equivalent) in Business, Engineering, Finance, Audit, Information Systems, Data Analytics or a related field 
+
+Initial experience in audit, internal controls, consulting, finance, technology or data analytics 
+
+Fluent in English and French 
+
+Demonstrated interest in Artificial Intelligence, automation and business transformation (at ease with Copilot, Claude, MS365, Excel with Python, ERP Systems etc.)  
+
+Strong analytical and problem-solving skills 
+
+Proactive and eager to learn 
+
+Ability to challenge information constructively and communicate clearly with stakeholders 
+
+Curiosity about how organizations operate, how decisions are made, and how data flows across processes 
+
+Demonstrate strong integrity, professionalism and sound judgement 
+
+Enjoy working in multicultural environments  
+
+Comfortable engaging with Internal Controls owners and building positive working relationships
+
+</details>
+
+<details>
+<summary><strong>Finance and Administration Manager (H/F)</strong> · KLB · MEXICO, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** KLB
+- **Lieu :** MEXICO, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux exigences financières et de reporting du poste grâce à son expérience solide en contrôle de gestion et son niveau avancé en Excel. Bien que le poste exige un espagnol courant (niveau B1 pour le candidat) et inclue des tâches administratives et RH variées, sa forte autonomie financière et son appétence pour l'international compensent largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247568](https://mon-vie-via.businessfrance.fr/offres/247568)
+
+**Description du poste**
+
+Reporting directly to the Group CFO and working closely with the country BU Directors, the V.I.E will support Finance & Administration (F&A) activities for our Mexico and São Paulo subsidiaries.
+ 
+Based in our Mexico City office, the V.I.E will also provide remote support for activities related to São Paulo. The mission will mainly cover the following areas:
+ 
+1) FINANCE COORDINATION & SUPPORT
+•	Work closely with the Finance teams in Mexico and São Paulo and facilitate coordination with Group Finance.
+•	Liaise with external accounting providers regarding annual financial statements, tax declarations and other accounting matters.
+•	Support the coordination and preparation of information required for annual audits.
+•	Facilitate communication between local teams, external providers and Corporate F&A.
+ 
+2) REPORTING & CONTROL
+•	Prepare financial reporting and analysis for monthly closing, forecasting and planning.
+•	Perform consistency checks on financial and accounting data and highlight discrepancies to the relevant local or Group stakeholders.
+•	Support reconciliation between accounting and reporting.
+•	Prepare cash-control information, including bank reconciliations, and support payment preparation and follow-up in accordance with the company’s established approval procedures.
+•	Support the implementation and monitoring of KLB policies and procedures.
+ 
+3) TRANSACTION SUPPORT & MONITORING
+•	Support Accounts Receivable and Accounts Payable processes, including invoice preparation, cash-collection follow-up and supplier-account monitoring.
+•	Coordinate the transmission of financial information to external accountants and contribute to the review of monthly and yearly accounting deliverables.
+•	Review expense documentation and flag potential discrepancies or compliance issues to the relevant responsible stakeholders.
+•	Support the preparation and follow-up of exchanges with tax administrations, under the responsibility of the relevant local or Group representatives.
+ 
+4) HR ADMINISTRATION SUPPORT
+•	Provide administrative support for the preparation of employment documentation and the maintenance of employee files and records.
+•	Coordinate the collection and transmission of information required for bi-weekly payroll processing with the external service provider.
+•	Support HR administrative processes throughout the employee lifecycle.
+ 
+5) CONTRACT & LEGAL SUPPORT
+•	Support the administrative review and coordination of contracts prior to signature by the authorized company representatives.
+•	Prepare and compile information and documentation required for potential legal matters, in coordination with external lawyers and the relevant company representatives.
+•	Facilitate follow-up between internal stakeholders and external legal advisers.
+ 
+6) PROJECTS & GENERAL ADMINISTRATION
+•	Support office and general administration activities, including premises, IT, insurance, company cars and mobile phones.
+•	Provide support to Corporate F&A and contribute to Group projects in coordination with F&A representatives in other countries.
+•	Contribute to the improvement of financial and administrative processes and reporting tools.
+
+**Profil recherché**
+
+- Accounting / Finance Controling certificate 
+- Excel at advanced level
+- Excellent, fluent command of French, Spanish and English language, both written and spoken (Portuguese a Plus)
+- Able to work independently or as part of a team.
+- Ability to take instruction for various exercises/ processes working towards deadlines
+
+The candidate must be reliable, confident and independent. Communication and interpersonal skills are essential to have day-to-day communication with both internal and external clients over the phone.
+
+</details>
+
+<details>
+<summary><strong>Responsable Administratif et Financier (H/F)</strong> · FRIEDLANDER · GEORGETOWN, GUYANA · 3 183,43 €/mois</summary>
+
+- **Entreprise :** FRIEDLANDER
+- **Lieu :** GEORGETOWN, GUYANA
+- **Indemnité :** 3 183,43 €/mois
+- **Durée de la mission :** 12 mois (Du 1 avr. 2027 au 1 avr. 2028)
+- **Publiée le :** 02/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246319](https://mon-vie-via.businessfrance.fr/offres/246319)
+
+**Description du poste**
+
+Votre quotidien à nos côtés ?
+
+La société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Responsable Administratif et Financier en VIE.
+Rattaché à Thomas, Directeur d’Agence, votre objectif est d’accompagner l’agence dans sa gestion administrative et financière. Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international.
+Votre poste est basé à George Town, Guyana.
+
+
+Vos missions clés consisteront notamment à : 
+•	Gestion administrative et financière des filiales Friedlander et Friedlander Energie Guyana, en collaboration avec les services du Siège
+•	Participer Révision de la comptabilité Générale et analytique 
+•	Préparer Clôture mensuelle de gestion et reporting
+•	Participer à la Clôture Trimestrielle Comptable
+•	S’assurer du Contrôle du respect des procédures Groupe
+•	Contribuer au suivi de Gestion de la trésorerie
+•	Accompagnement de la croissance & structuration interne
+•	Soutien au support des relations avec les conseils fiscaux, comptables
+
+
+Ces missions n’ont pas de secret pour vous ? Nous vous offrons les outils et les moyens à la hauteur de vos ambitions !
+Une intégration personnalisée avec Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international durant 2 semaines au sein du siège, à Aix-En-Provence. Tous deux vous formeront sur les process, les outils, le périmètre et ses spécificités et effectuerons un suivi de l’intégration en local.
+Il ne manque plus que vous - pour apporter votre contribution personnelle - à cette belle organisation.
+
+Regardons un peu plus loin, quel futur ?  
+Chez Ortec, nous considérons que chaque collaborateur doit pouvoir déployer son talent et ses compétences, et donner du sens à son poste. Plus tard, cela se traduit aussi par des opportunités au sein de la Direction Administrative Financière ou dans l’équipe de Direction d’une agence d’exploitation.
+
+**Profil recherché**
+
+Parlons de vous ! Qui êtes-vous ?
+
+Issu(e) d'une formation Bac +5 en Comptabilité/Finance, avec une bonne base en Gestion et Comptabilité, vous souhaitez donner un élan international à votre carrière et intégrer un groupe avec de fortes valeurs.
+Vous êtes reconnu(e) pour votre sens du relationnel & êtes apte à interagir avec une multitude d’interlocuteurs (opérationnels, clients, DAF...).
+
+Vous souhaitez partir à l'international ?
+Vous avez envie de responsabilités ? Vous êtes proactif(ve), autonome et curieux(se)?
+Vous êtes motivé(e) et aimez les challenges ?
+Vous maîtrisez les outils informatiques (plus particulièrement Microsoft Excel / Power BI) & avez un très bon niveau d'anglais (écrit & oral)?
+
+Et maintenant, quelle suite pour votre candidature ?
+Si nous poursuivons l’aventure ensemble, vous me rencontrerez au sein de notre siège social basé à Aix-En-Provence : Elodie, Chargée de Recrutement puis Philippe, Responsable de la Comptabilité International, accompagné de Benoit, Responsable du Contrôle de Gestion Internationale.
+
+</details>
+
+<details>
+<summary><strong>SAP Controlling Analyst (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** VINCI CONSTRUCTION SI
+- **Lieu :** BOTTROP, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 02/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245657](https://mon-vie-via.businessfrance.fr/offres/245657)
+
+**Description du poste**
+
+WHO ARE WE?
+
+Joining VINCI Construction SI means contributing to the Group's digital transformation to support users worldwide.
+
+Our mission is to modernize management tools and business applications, enhance cybersecurity and develop IT infrastructures. We also work on driving user adoption of our solutions while helping shape the digital future through technologies such as AI, BIM, and IoT.
+
+If you would like to learn more about us, visit and follow our LinkedIn page!
+
+YOUR MISSIONS AND CHALLENGES AT VINCI CONSTRUCTION SI
+
+As part of the IT Department in Germany, reporting to Andrea Wienand from the Transformation & Applications team, you will join a dynamic team of 13 people for a 24-month V.I.E. assignment.
+You will be based at our Bauknechtquartier site on the VINCI Construction campus in Bottrop, Germany, near Düsseldorf, following a 6-month training period at VINCI Construction SI in Nanterre-Préfecture (France).
+
+You will contribute to a key challenge for the Group: ensuring efficient management of construction projects by providing IT solutions related to the Finance & Controlling domain, including:
+•	General Ledger Accounting (GL)
+•	Accounts Payable (AP)
+•	Accounts Receivable (AR)
+•	Treasury Management
+•	Asset Accounting
+•	Construction project controlling and corporate controlling
+•	Budgeting processes
+•	Revenue and cost integration and monitoring
+•	Profitability analysis
+•	Monthly closing activities
+
+Your responsibilities will include:
+•	Participating in the analysis of business requirements and implementing appropriate technical solutions to enhance our processes
+•	Managing interactions with other business domains, including Logistics, Finance, Human Resources and operational applications
+•	Providing support, maintenance and training activities related to our solutions for users in Germany, as well as internationally, on cross-functional topics to facilitate adoption
+•	Developing expertise on SAP environment, learning project management best practices and facilitating workshops with internal clients
+
+Location: L'Archipel, VINCI Head Office at Nanterre-Préfecture (France) | Bottrop, GERMANY
+
+Contract type: V.I.E. (International Corporate Volunteer Program)
+
+What we offer: A varied and stimulating role | International collaboration | Integration into a team with a true spirit of equal partnership | A long-term working relationship built on trust | A high level of responsibility and autonomy | Access to personalized continuous learning opportunities
+
+WHY JOIN US?
+
+By joining our IT Department, you will become part of a dynamic and innovative team that leverages the latest technologies to meet the needs of our Business Units and customers.
+You will benefit from close collaboration with VINCI Construction SI, enabling you to share knowledge and contribute to cross-functional projects. In doing so, you will actively support the digital transformation of the VINCI Construction Group.
+
+We place great importance on the Employee Experience, which we consider a key success factor for our company. We offer a personalized onboarding program, individual and collective support, as well as training and mobility opportunities within VINCI Construction SI and VINCI Group.
+Throughout your assignment, you will develop your technical, linguistic, managerial and interpersonal skills while strengthening your sense of responsibility and commitment to safety.
+
+RECRUITMENT PROCESS:
+
+1.	To apply for this opportunity, simply submit your CV
+2.	If your profile matches our expectations, a member of the Talents Team will contact you for an interview on Teams
+3.	If successful, you will meet Steven Cousin, the Hiring Manager.
+4.	You will then meet the IT Department Director
+5.	If your application is approved, you will receive a verbal offer, followed by a formal written offer
+6.	We will then prepare your onboarding and integration into VINCI Construction SI 😊
+
+Build Better Together
+
+**Profil recherché**
+
+COULD IT BE YOU?
+
+In your final year of a Master's degree or Bac+5 (engineering school, business school, university, or IT-related studies), or already graduated with one or more years of professional experience, you have:
+•	The ability to understand, analyze and summarize business challenges, adapt your communication style to different audiences and interact effectively with internal clients
+•	Experience gained through an internship, personal project or academic project in an IT/Digital environment on SAP S/4HANA Controlling (CO) as a Functional Analysist would be an advantage
+•	Strong written and verbal communication skills in both French and English, enabling effective collaboration with end users, VINCI Construction management and other IT teams (Infrastructure, Networks, Support, etc.)
+•	Professional fluency in English
+•	Basic knowledge of German
+
+SOFT SKILLS AND TECHNICAL COMPETENCIES:
+
+•	Strong team spirit, customer-oriented mindset, curiosity, attention to detail, analytical and synthesis skills, excellent interpersonal abilities, organizational skills and a results-driven approach 
+•	An educational background in Controlling, Construction Engineering or Information Systems would be appreciated 
+•	A first experience as a SAP S/4HANA Controlling (CO) Functional Analyst would be a plus 
+•	Willingness to undertake occasional business travel as part of the role
+
+</details>
+
+<details>
+<summary><strong>CONTROLEUR DE GESTION PROJETS INDUSTRIELS (H/F)</strong> · COMPAGNIE INTERNATIONALE DE MAINTENANCE · PANAMA, PANAMA · 2 390,57 €/mois</summary>
+
+- **Entreprise :** COMPAGNIE INTERNATIONALE DE MAINTENANCE
+- **Lieu :** PANAMA, PANAMA
+- **Indemnité :** 2 390,57 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil correspond très bien aux missions techniques de contrôle de gestion (budgets, reporting, écarts) et le candidat apporte une solide expérience concrète. Cependant, l'espagnol du candidat (niveau B1) est un peu en deçà de la pratique courante exigée pour ce poste basé au Panama.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245118](https://mon-vie-via.businessfrance.fr/offres/245118)
+
+**Description du poste**
+
+Poste et missions:
+
+o Elaborer et actualiser les budgets de la filiale et du contrat de maintenance en cours
+o Analyser et expliquer les écarts budgétaires
+o Animer les suivis budgétaires auprès des opérationnels
+o Elaborer les prévisions de Chiffre d’affaires et de trésorerie
+o Superviser et contrôler les clôtures comptables
+o Vérifier les imputations analytiques
+o Déterminer les charges à recevoir, les reprises de provisions, et la reconnaissance du CA
+o Préparer les reporting mensuels de gestion
+o Préparer les éléments de la facturation
+o Suivre l’avancement des commandes achats en cours
+o Préparer et consolider les pointages personnels
+o Assurer le suivi des levées de caution
+o Participer aux chiffrages des offres commerciales
+o Participer aux travaux d’audit
+o Contribuer à l’amélioration des outils de suivi budgétaire
+o Diverses études Ad hoc
+
+**Profil recherché**
+
+De formation Bac+4/5 en gestion-finance
+- Pratique courante de l’espagnol et du français, l'anglais est un plus
+- Capacité à comprendre les enjeux techniques et spécifiques des contrats longs terme
+- Première expérience en contrôle de gestion ou en audit (y compris stage).
+- Un séjour professionnel ou pré-professionnel à l’étranger constituerait un atout supplémentaire
+- Esprit analytique et synthétique ;
+- Fiabilité et rigueur ;
+- Autonomie ;
+- Ouverture d’esprit ;
+- Diplomatie ;
+- Bon relationnel et esprit d'équipe
+- Potentiel d’évolution
+
+</details>
 
 <details>
 <summary><strong>Chargé(e) de projet performance Usine (H/F)</strong> · MILLET MOUNTAIN GROUP SAS · SAHLINE, TUNISIE · 1 743,46 €/mois</summary>
@@ -45,6 +446,119 @@ De formation supérieure type ingénieur, vous avez une première expérience en
 Votre curiosité et votre tempérament sociable feront de vous un allier précieux des opérationnels. Force de proposition, vous avez le goût du terrain afin de mener à bien des missions transverses.
 
 Le respect des délais et la discrétion sont essentiels pour réussir dans ce poste. Autonome et rigoureux(se), vous êtes force de proposition dans votre quotidien (proposition de nouveaux indicateurs) et êtes à l'aise avec les outils informatiques et bureautiques (Excel, outil de consolidation, ...).
+
+</details>
+
+<details>
+<summary><strong>Sales Manager (H/F)</strong> · BNP PARIBAS · HONG KONG, HONG KONG · 3 196,80 €/mois</summary>
+
+- **Entreprise :** BNP PARIBAS
+- **Lieu :** HONG KONG, HONG KONG
+- **Indemnité :** 3 196,80 €/mois
+- **Durée de la mission :** 12 mois (Du 1 avr. 2027 au 1 avr. 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil du candidat en contrôle de gestion et analyse financière s'aligne bien avec les compétences analytiques et de reporting demandées par l'offre. Cependant, le poste de Sales Management orienté vers le pilotage commercial en banque privée à Hong Kong s'éloigne de son objectif initial en FP&A et de sa préférence géographique pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247832](https://mon-vie-via.businessfrance.fr/offres/247832)
+
+**Description du poste**
+
+BNP Paribas Wealth Management est la première banque privée de la zone euro et un acteur de référence de la gestion de fortune à l’échelle internationale. Présente en Europe et en Asie, elle accompagne une clientèle fortunée, entrepreneuriale et familiale dans la préservation, le développement et la transmission de son patrimoine. Au sein de la région Asie-Pacifique, vous rejoindrez l’équipe Sales Management basée à Hong Kong, un centre financier majeur de la région offrant un environnement international et stratégique.
+ 
+Au quotidien, ça donne quoi ?
+
+En tant que Sales Manager, vous intégrerez l’équipe Sales Management de Wealth Management et contribuerez activement au pilotage commercial de la région Asie-Pacifique. Vous évoluerez au sein d’une équipe à taille humaine répartie entre Hong Kong et Singapour, reconnue pour son esprit de collaboration, son autonomie et sa proximité avec les métiers commerciaux. Le bureau est situé à Quarry Bay, quartier d’affaires en plein développement bénéficiant d’excellentes connexions aux transports publics. 
+
+Au quotidien, vous participerez au développement d’une culture de discipline commerciale en accompagnant les équipes Front Office dans l’utilisation des outils de pilotage de la performance et des tableaux de bord. Vous contribuerez également à l’amélioration de la qualité des opportunités commerciales et au suivi des pipelines de prospection. Vous appuierez les équipes dans les sujets liés à la politique tarifaire des services bancaires. 
+
+Vous prendrez part à l’animation commerciale en participant à la conception et au déploiement des campagnes de vente. À ce titre, vous contribuerez à la coordination des livrables, à la création de supports de communication et à l’évaluation de la performance des campagnes et événements marketing. 
+
+Vous contribuerez également aux activités de reporting et d’aide à la décision en produisant des analyses régulières sur les initiatives stratégiques, en identifiant les tendances clés et en répondant aux demandes ponctuelles de reporting des différentes parties prenantes. 
+
+Et après ?
+
+Cette mission vous permettra d’acquérir une vision globale du métier de la banque privée et des enjeux de pilotage commercial dans un environnement international. Vous développerez une solide expertise sur les sujets liés au Sales Management tout en renforçant vos capacités d’analyse, votre compréhension des indicateurs de performance et votre aptitude à interagir avec des interlocuteurs variés. 
+
+Grâce aux nombreuses interactions avec des managers expérimentés et des équipes basées dans différents pays de la région Asie-Pacifique, vous développerez également votre réseau professionnel, vos compétences relationnelles ainsi que votre capacité à évoluer dans un contexte multiculturel. Le parcours d’intégration et la formation opérationnelle de 12 mois vous permettront d’apprendre en continu et de construire des compétences recherchées au sein du Groupe. Des opportunités d’évolution pourront être envisagées en fonction de votre performance, de votre projet professionnel et des opportunités disponibles au sein de BNP Paribas. 
+
+ Les avantages à nous rejoindre
+
+Et la rémunération ?
+
+Fixée par arrêté ministériel, elle est versée mensuellement et se compose de deux éléments :
+
+Une indemnité commune, identique pour tous les jeunes en mission.
+Une indemnité géographique, variable selon le pays (et parfois la ville) de destination. Cette indemnité est recalculée chaque trimestre.
+Retrouvez plus d’informations sur le site de Business France. Rejoignez un Groupe engagé auprès de ses clients et de la société, et contribuez activement à notre transformation en faveur d’un monde plus durable. Impliquez-vous à nos côtés, sur votre temps professionnel, grâce à notre programme One Million Hours To Help.
+
+**Profil recherché**
+
+Vous êtes diplômé d’un Bac+5 en commerce, finance, gestion, économie, data analyse en école de commerce ou équivalent universitaire. 
+
+Vous justifiez d’au moins une première expérience professionnelle, stages et alternances compris, dans les domaines de l’analyse de données, du développement commercial, du marketing ou du pilotage de la performance.
+
+Vous possédez de solides capacités d’analyse et êtes à l’aise avec l’exploitation et l’interprétation de volumes importants de données. Vous savez transformer les informations recueillies en recommandations pertinentes pour accompagner la prise de décision. Vous faites preuve d’une grande rigueur et d’un fort sens du détail afin d’identifier des tendances et opportunités à forte valeur ajoutée. 
+
+Vous appréciez le travail en équipe et savez collaborer efficacement avec des interlocuteurs variés dans un environnement international. Votre communication est claire et adaptée à vos différents interlocuteurs. Organisé(e), vous êtes capable de gérer plusieurs sujets simultanément et de respecter les échéances fixées. Vous démontrez également une forte capacité d’adaptation pour évoluer dans un environnement dynamique en constante évolution. 
+
+Une bonne maîtrise de l’anglais est attendue afin d’évoluer dans un contexte international.
+
+</details>
+
+<details>
+<summary><strong>Analyste Reporting Financier (H/F)</strong> · BNP PARIBAS · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** BNP PARIBAS
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en termes de formation (Bac+5 en finance) et de compétences techniques (maîtrise d'Excel, rigueur, analyse financière, anglais courant). Cependant, son expérience est axée sur le contrôle de gestion opérationnel en PME plutôt que sur la comptabilité bancaire ou le reporting réglementaire spécifique au secteur bancaire exigé par BNP Paribas.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247827](https://mon-vie-via.businessfrance.fr/offres/247827)
+
+**Description du poste**
+
+Au sein de la fonction Finance, vous rejoindrez l'équipe Financial Accounting & Reporting, dont la mission est de produire, contrôler et expliquer l'information comptable, financière et réglementaire de la Banque, ainsi que de produire et analyser les indicateurs de solvabilité et de liquidité à destination du management, du Groupe et des régulateurs. Cette équipe couvre notamment les activités d'Accounting, Reporting Fiscal, Reporting Groupe, Reporting Direction, Reporting Réglementaire, Solvency & Liquidity et Transversal Analyses & Solutions.
+
+Au quotidien, ça donne quoi ?
+
+En tant que VIE - Analyste Reporting Financier, vous intégrerez l'équipe Solvency & Liquidity et contribuerez à la production, au contrôle et à l'analyse des indicateurs de solvabilité et de liquidité de la Banque. Vous participerez activement à la fiabilité des données réglementaires et financières, essentielles au pilotage de l'activité bancaire et au respect des exigences des autorités de supervision.
+
+Concrètement, vous serez amené(e) à :
+
+Produire, contrôler et analyser les indicateurs financiers, réglementaires et prudentiels de la Banque.
+Rassembler, traiter, fiabiliser et restituer les données dans le respect des délais impartis.
+Participer à l'automatisation et à l'optimisation des processus de reporting afin d'améliorer l'efficacité opérationnelle.
+Contribuer à la production et à la transmission des reportings réglementaires.
+Assurer la cohérence, la qualité et la fiabilité des données utilisées dans les différents reportings.
+Accompagner les équipes dans les projets de transformation, de conduite du changement et d'amélioration continue.
+Partager vos connaissances et collaborer avec de multiples interlocuteurs au sein de la Banque.
+Vous évoluerez au sein d'une équipe d'une trentaine de collaborateurs basée dans le bâtiment Sekoia et travaillerez en étroite interaction avec de nombreux partenaires internes. Un plan de formation personnalisé sera défini dès votre arrivée afin de favoriser votre montée en compétences progressive. Le poste est également éligible au télétravail selon les règles en vigueur au sein de la Banque.
+
+Et après ?
+
+Cette expérience vous permettra d'acquérir une vision transverse du fonctionnement d'une banque internationale et des enjeux liés au reporting financier, réglementaire, à la solvabilité et à la liquidité. Vous développerez une solide expertise dans l'analyse des données financières, le contrôle réglementaire et l'amélioration des processus au sein d'un environnement exigeant et stimulant.
+
+Au cours de votre mission, vous renforcerez votre capacité d'analyse, votre rigueur, votre esprit de synthèse ainsi que votre aptitude à travailler sur des sujets variés en autonomie tout en bénéficiant de l'appui d'experts. Vous participerez également à des projets réglementaires et de transformation à forte visibilité pour l'organisation.
+
+Cette expérience constituera un excellent tremplin vers des fonctions en finance, reporting réglementaire, contrôle financier, gestion des risques ou transformation au sein de BNP Paribas ou plus largement dans le secteur financier. Des opportunités de renouvellement ou d'évolution pourront être envisagées selon les besoins de l'organisation, les opportunités existantes et la qualité de la collaboration.
+
+Les avantages à nous rejoindre
+
+Et la rémunération ?
+
+Fixée par arrêté ministériel, elle est versée mensuellement et se compose de deux éléments :
+
+Une indemnité commune, identique pour tous les jeunes en mission ;
+Une indemnité géographique, variable selon le pays (et parfois la ville) de destination. Cette indemnité est recalculée chaque trimestre.
+Retrouvez plus d'informations sur le site de Business France.
+
+**Profil recherché**
+
+Vous êtes diplômé(e) d'un Bac+5 obtenu en école de commerce, école d'ingénieur ou équivalent universitaire avec une spécialisation en finance, comptabilité, contrôle de gestion, audit, gestion des risques ou data appliquée à la finance.
+Vous avez idéalement acquis une première expérience à travers des stages, une alternance ou des projets académiques en reporting financier, comptabilité, contrôle financier, audit, gestion des risques ou analyse de données.
+Vous disposez de bonnes connaissances en analyse financière, comptabilité bancaire, reporting réglementaire et manipulation de données. La maîtrise d'Excel est indispensable et une connaissance des outils de reporting ou d'analyse de données constituera un atout.
+La maîtrise du français est indispensable. Un bon niveau d'anglais vous permettra d'évoluer efficacement dans un environnement international.
+Vous êtes reconnu(e) pour votre collaboration active, votre sens de l'organisation, votre aisance en communication, votre capacité d'analyse et votre adaptabilité. Votre rigueur, votre curiosité, votre autonomie et votre goût pour l'amélioration continue seront des atouts majeurs pour réussir dans cette mission.
 
 </details>
 
@@ -232,55 +746,6 @@ Esprit d'équipe et collaboration.
 Proactivité et autonomie.
 Capacité d'adaptation dans un environnement international et multiculturel.
 Cette mission s'adresse à un(e) candidat(e) souhaitant acquérir une expérience internationale en finance d'entreprise et développer une expertise en pilotage de la performance, budgétisation, prévisions financières et aide à la décision.
-
-</details>
-
-<details>
-<summary><strong>CONTROLEUR DE GESTION PROJETS (H/F)</strong> · COMPAGNIE INTERNATIONALE DE MAINTENANCE · PANAMA, PANAMA · 2 390,57 €/mois</summary>
-
-- **Entreprise :** COMPAGNIE INTERNATIONALE DE MAINTENANCE
-- **Lieu :** PANAMA, PANAMA
-- **Indemnité :** 2 390,57 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 30/10/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil correspond très bien aux missions techniques de contrôle de gestion (budgets, reporting, écarts) et le candidat apporte une solide expérience concrète. Cependant, l'espagnol du candidat (niveau B1) est un peu en deçà de la pratique courante exigée pour ce poste basé au Panama.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245118](https://mon-vie-via.businessfrance.fr/offres/245118)
-
-**Description du poste**
-
-Poste et missions:
-
-o Elaborer et actualiser les budgets de la filiale et du contrat de maintenance en cours
-o Analyser et expliquer les écarts budgétaires
-o Animer les suivis budgétaires auprès des opérationnels
-o Elaborer les prévisions de Chiffre d’affaires et de trésorerie
-o Superviser et contrôler les clôtures comptables
-o Vérifier les imputations analytiques
-o Déterminer les charges à recevoir, les reprises de provisions, et la reconnaissance du CA
-o Préparer les reporting mensuels de gestion
-o Préparer les éléments de la facturation
-o Suivre l’avancement des commandes achats en cours
-o Préparer et consolider les pointages personnels
-o Assurer le suivi des levées de caution
-o Participer aux chiffrages des offres commerciales
-o Participer aux travaux d’audit
-o Contribuer à l’amélioration des outils de suivi budgétaire
-o Diverses études Ad hoc
-
-**Profil recherché**
-
-De formation Bac+4/5 en gestion-finance
-- Pratique courante de l’espagnol et du français, l'anglais est un plus
-- Capacité à comprendre les enjeux techniques et spécifiques des contrats longs terme
-- Première expérience en contrôle de gestion ou en audit (y compris stage).
-- Un séjour professionnel ou pré-professionnel à l’étranger constituerait un atout supplémentaire
-- Esprit analytique et synthétique ;
-- Fiabilité et rigueur ;
-- Autonomie ;
-- Ouverture d’esprit ;
-- Diplomatie ;
-- Bon relationnel et esprit d'équipe
-- Potentiel d’évolution
 
 </details>
 
@@ -1516,69 +1981,6 @@ Votre personnalité :
 - Organisé(e) : vous savez prioriser et garantir un suivi rigoureux des missions.
 - Proactif(ve) : vous êtes capable de prendre des initiatives et de proposer des solutions pour améliorer les processus.
 - Esprit d’équipe : vous appréciez travailler avec des équipes multiculturelles et internationales.
-
-</details>
-
-<details>
-<summary><strong>ANALYSTE FONCTIONNEL SI CONTROLLING (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** VINCI CONSTRUCTION SI
-- **Lieu :** BOTTROP, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 26/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245657](https://mon-vie-via.businessfrance.fr/offres/245657)
-
-**Description du poste**
-
-QUI SOMMES-NOUS ? 
-
-Rejoindre les équipes de VINCI Construction SI, c’est participer à la transformation digitale du Groupe au service des utilisateurs. 
-
-Nos missions sont de moderniser nos outils de gestion, nos applications métiers, améliorer la cybersécurité et nos infrastructures IT. Nous travaillons sur l’adoption de nos outils par les utilisateurs et souhaitons construire le futur numérique (IA, BIM, IOT…).
-
-VOS MISSIONS ET VOS CHALLENGES CHEZ VINCI CONSTRUCTION SI :
-
-Intégré(e) à l’équipe DSI en Allemagne, sous la direction d’Andrea Wienand pour la partie Transformation & Applications, vous rejoindrez une équipe dynamique de 13 personnes pour une mission de 24 mois en V.I.E. Vous serez basé(e) sur notre site allemand « Bauknechtquartier » au campus de VINCI Construction à Bottrop, près de Düsseldorf, après une formation d’environ 6 mois au sein de VINCI Construction SI à Nanterre-Préfecture. 
-
-Vous répondrez à un enjeu essentiel pour le groupe sur la bonne gestion des chantiers, en proposant des solutions IT sur les sujets liés au domaine “Finance and Controlling” :  
-•	Comptabilité générale, comptabilité fournisseur, comptabilité client, trésorerie et immobilisation 
-•	Contrôle de gestion des chantiers et de l’entreprise, processus budgétaire, intégration / suivi des recettes et dépenses, calcul de la rentabilité, clôture mensuelle, etc.  
-
-Vos principales missions sont :
-•	Participer à l’analyse des besoins des utilisateurs et mettre en œuvre les solutions techniques adéquates afin d’enrichir nos processus 
-•	Gérer les interactions avec les autres domaines Logistique, Finance, RH et les applications opérationnelles 
-•	Prendre en charge les activités de support, de maintenance et de formation liées à notre solution auprès des utilisateurs en Allemagne, ainsi qu’à l’international sur des sujets transverses, afin de faciliter son adoption 
-•	Appréhender la maîtrise d’un ERP de type SAP, évaluer l’apprentissage des bonnes pratiques de gestion de projet et se confronter à l’animation des ateliers avec nos clients internes 
-
-Localisation : L’Archipel Campus de VINCI / Nanterre-Préfecture | Bottrop, ALLEMAGNE
-
-Contrat : V.I.E.
-
-Les + : Une activité variée et stimulante | Collaboration à l’internationale | Intégration dans une équipe avec une collaboration d'égal à égal | Une relation de travail à long terme, fondée sur la confiance | Un travail responsable et autonome | Accès à des formations continues personnalisées
-
-POURQUOI NOUS REJOINDRE ?
-
-En rejoignant la direction IT, vous intégrez une équipe dynamique et innovante, qui utilise les technologies les plus récentes pour répondre aux besoins de nos Business Units et de nos clients. Vous bénéficiez d'une proximité avec VINCI Construction SI, qui vous permet de partager vos connaissances et de participer à des projets transverses. Vous contribuez ainsi à la transformation digitale du groupe VINCI Construction.
-
-Nous accordons une importance particulière à l'Expérience Collaborateur, qui est un facteur clé de succès pour notre entreprise. Nous vous proposons un parcours d'intégration personnalisé, un accompagnement individuel et collectif, et des opportunités de formation et de mobilité au sein de VINCI Construction SI et du groupe VINCI. Vous développez vos compétences techniques, linguistiques, managériales et relationnelles, tout en renforçant votre sens de la sécurité et de la responsabilité.
-
-**Profil recherché**
-
-ET SI C’ETAIT VOUS ?
-
-En dernière année de formation Bac+5 (école d’ingénieurs, de commerce, à l’université ou en informatique) ou déjà diplômé avec une ou plusieurs années d’expérience professionnelle, vous avez :
-•	Une capacité à comprendre et synthétiser une problématique, adapter votre langage en fonction de l’interlocuteur et interagir avec nos clients internes 
-•	Une expérience acquise lors d’un stage/projet personnel/projet scolaire sur un sujet IT/Digital en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus 
-•	Des facultés d'expression orale et écrite (français et anglais) : votre écoute vous permettra de travailler en collaboration avec des utilisateurs finaux, le management du groupe VINCI Construction et les autres équipes de la DSI (infrastructures, réseaux, support…) 
-•	Une maîtrise de l’anglais courant 
-•	Une connaissance des bases en allemand 
-
-QUALITÉS HUMAINES ET COMPÉTENCES :
-•	Forte capacité à travailler en équipe, sens du service, curiosité, rigueur, esprit d’analyse et de synthèse, bon relationnel, sens de l’organisation et une culture de résultat 
-•	Une formation axée sur le Contrôle de gestion et/ou BTP et/ou Systèmes d’Information est un plus 
-•	Une 1ère expérience en tant qu’Analyste fonctionnel(le) Controlling (CO) sur SAP S/4 HANA est également un plus
-•	Dans le cadre de vos missions, vous serez amené à faire des déplacements ponctuels
 
 </details>
 

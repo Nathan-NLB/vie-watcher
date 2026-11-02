@@ -592,5 +592,17 @@
   "ville|sahline|tunisie": {
     "lat": 35.7413735,
     "lon": 10.7219503
+  },
+  "entreprise|m&l distribution (france) s.a.r.l.|sao paulo|bresil": null,
+  "entreprise|m&l distribution (france) s.a.r.l.|new york  -ny-|etats-unis": null,
+  "entreprise|klb|mexico|mexique": null,
+  "entreprise|bnp paribas|hong kong|hong kong": null,
+  "ville|hong kong|hong kong": {
+    "lat": 22.2818333,
+    "lon": 114.1582831
+  },
+  "entreprise|bnp paribas|luxembourg|luxembourg": {
+    "lat": 49.6117825,
+    "lon": 6.1324283
   }
 }
