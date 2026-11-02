@@ -8,11 +8,83 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/11/2026 17:30:19**, 84 offre(s) actuellement en ligne.
+Dernière vérification : **02/11/2026 19:29:54**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>FP&A Manager (H/F)</strong> · FRESH SAS · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** FRESH SAS
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan correspond aux compétences techniques en FP&A et reporting, mais le poste exige un profil senior avec au moins 7 ans d'expérience, alors que Nathan a seulement 2 ans d'expérience et est étudiant en Master.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247842](https://mon-vie-via.businessfrance.fr/offres/247842)
+
+**Description du poste**
+
+The Senior Manager, FP&A, leads financial planning, analysis, and reporting for Fresh across North America, driving business growth across all channels. This role provides strategic financial guidance and support, contributing to the evaluation and execution of business plans. This position serves as a key communicator between Central and North America leadership, and partners cross-functionally on strategic initiatives, ensuring financial performance aligns with company objectives.
+
+Essential Duties and Responsibilities
+•	Manage and prepare the monthly close review process and reporting, with a dedicated focus on US, Canada and Mexico.
+o	Analyze, manage and review monthly P&L results and variance explanations, preparing comments against budget and prior year for all markets in NA, suggesting corrective measures if needed.  
+o	Develop and present P&L commentary for respective businesses within the US, Canada and Mexico, inclusive of P&L by retailer
+o	Work closely with A/R, Sales Admin and Marketing teams within the US, Canada and Mexico, following up all sorts of chargebacks from retailers monthly.
+o	Work closely with the Accounting team ensuring the accuracy of the books.
+•	Prepare monthly Net Sales/P&L comments by channel for US, Canada and Mexico for top Management.
+•	Develop scorecards that will provide insightful information to executive team (such as, but not limited to AR/DSO sales trend analysis by channel and door - wholesale vs retail and weeks of supply, etc.).
+•	Prepare monthly Sales Outlook (forecasted sales of the next 4 months), in coordination with Sales and Digital teams, providing a consolidated view and analysis of the performance in North America to Top management (US and Global).
+•	Manage the delivery of all performance commitments and reporting requests from Global Finance, fulfilling the deadlines established. Coordinate all key parts to make sure that all requests are answered on time and in accurate manner.
+•	Manage short- and long-term financial planning Budgets / Forecasts (R1, R2, Budget) process with the Heads of Departments of US (Marketing, Digital, Sales…): review and challenge main assumptions, provide recommendations.
+•	Oversee all aspects of the P&L for Fresh.com in the North American market
+•	Departmental Partnership
+o	Serve as the key finance partner to all US, Canada and Mexico functional departments involved in the wholesale business, inclusive of Marketing, E-Retail, and Sales Administration
+o	Own entire Visual Merchandising and Store Design budget communication for all North America to ensure alignment across channels
+o	Lead meetings with US, Canada and Mexico departmental leaders in order to analyze how their respective budget is trending on a monthly basis as well as during key review periods
+o	Identify risks and opportunities for each department in order to make well informed decisions in forecasting future budgeting
+o	Fulfill ad-hoc financial reporting requests from the CFO, CCO, VP of Sales, as well as department heads.
+•	Review and prepare capital expenditures requests for US, Canada, Mexico and Global Markets and provide recommendation following the approval processes in place at Fresh and in LVMH. 
+•	Prepare ad hoc reports and analysis as required and as necessary.
+•	Ensure quality and timeliness of key deliverables that meet expectations while balancing business needs 
+•	Develop process improvements
+
+What you will learn in the first 6 months: 
+•	 Financial reporting and planning processes, tools, and critical metrics at Fresh central, regional, and market level.
+•	Business and financial goals of Fresh North America and global markets, inclusive of both the long-term vision and mid-term/short-term goals.
+•	Market knowledge and Fresh strategy and approaches in a diversified, dynamic, and highly driven region
+What you will achieve in 12 months:
+•	 Gain global exposure to markets’ performance and organize monthly review.
+•	Become a highly trusted partner to all cross-functional incumbents. 
+•	Provide key financial information and recommendations to top management that will ultimately help steer the North America and Global financial strategy. 
+
+Physical Requirements: 
+•	Must be able to remain in a stationary position on average of 7.5 hours/day. 
+•	Light to moderate lifting may be required. 
+•	While performing the duties of this job, the employee may be regularly required to stand, sit, reach, stoop, kneel, and operate a computer, telephone, and keyboard.
+
+**Profil recherché**
+
+•	You have at least 7 Years of Experience in Finance, FP&A, and Controlling and Reporting.
+•	You ideally have experience in the retail, consumer goods, or beauty industry. 
+•	You are highly analytical, detail-oriented, and organized. 
+
+•	You are: 
+o	Consumer Centric: Build relationships with Consumers through heartfelt generosity 
+o	Agile: Anticipate and champion change 
+o	Collaborative: Communicate and dream with others 
+o	Growth Minded: Seek opportunities that offer the chance to be a curious creator
+o	Accountable: Take ownership of actions and responsibilities 
+o	A Strategic Thinker: Implement new ideas from data and insights to create the unexpected 
+o	Driven for Results: A relentless pursuit to achieve business objectives, drive revenue and contribute to organizational success 
+o	Optimistic: Maintain a “Sky’s the Limit” mindset 
+•	You are proficient in Excel and Power Point. Experience with Syrus (or a similar reporting tool) in AX and Cognos is a plus. 
+•	You have a BS in Finance or Accounting, MBA preferred.
+
+</details>
 
 <details>
 <summary><strong>Internal Audit, Controls & AI Analyst (H/F)</strong> · M&L DISTRIBUTION (FRANCE) S.A.R.L. · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
