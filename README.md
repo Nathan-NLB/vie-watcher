@@ -8,11 +8,45 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **02/11/2026 01:17:31**, 78 offre(s) actuellement en ligne.
+Dernière vérification : **02/11/2026 07:21:27**, 78 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Chargé(e) de projet performance Usine (H/F)</strong> · MILLET MOUNTAIN GROUP SAS · SAHLINE, TUNISIE · 1 743,46 €/mois</summary>
+
+- **Entreprise :** MILLET MOUNTAIN GROUP SAS
+- **Lieu :** SAHLINE, TUNISIE
+- **Indemnité :** 1 743,46 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mai 2027 au 1 mai 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil correspond bien sur les aspects de contrôle de gestion industriel, de reporting et de relation avec le siège, avec une forte appétence pour l'international. Cependant, le profil est davantage orienté finance/gestion pure que gestion de projets industriels purs (profil type ingénieur demandé), et la destination (Tunisie) diffère de sa préférence initiale pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/208880](https://mon-vie-via.businessfrance.fr/offres/208880)
+
+**Description du poste**
+
+Missions principale : 
+- Coordination projets et suivi des projets transformation digitale de l’usine avec le siège (lien siège/usine pour faire avancer les projets usine)
+ - Projet de mise en place de la GPAO
+- Assistance de l’équipe de Direction de l’usine sur les sujets de performance : renforcement de la polyvalence, adaptabilité/réactivité de l’organisation industrielle
+- Mise en place nouvelle ligne de production polyvalente
+- Chiffrage des systèmes de rémunération et compensation adaptés
+- Collecte de datas « terrain » pour consolidation reporting, Challenger les KPIS industriels
+- Consolidation de l’ensemble de reporting et tableaux de bord industriels : production – consommations tissus – flux polyvalence atelier 
+- Consolidation reporting P&L mensuel et analyse des principaux écarts vs objectifs
+- Lien terrain CDG (Business partner) avec le siège également donc interaction comptabilité Tunisienne avec notre cabinet local
+
+**Profil recherché**
+
+De formation supérieure type ingénieur, vous avez une première expérience en gestion de projets industriels (y compris un apprentissage ou stage de césure). Vous maîtrisez les outils du contrôle de gestion et de contrôle budgétaire.
+
+Votre curiosité et votre tempérament sociable feront de vous un allier précieux des opérationnels. Force de proposition, vous avez le goût du terrain afin de mener à bien des missions transverses.
+
+Le respect des délais et la discrétion sont essentiels pour réussir dans ce poste. Autonome et rigoureux(se), vous êtes force de proposition dans votre quotidien (proposition de nouveaux indicateurs) et êtes à l'aise avec les outils informatiques et bureautiques (Excel, outil de consolidation, ...).
+
+</details>
 
 <details>
 <summary><strong>Distribution Support Officer (H/F)</strong> · AMUNDI ASSET MANAGEMENT · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
@@ -4211,54 +4245,6 @@ Soft skills :
 Note: 
 ●	Starting date: ASAP.
 ●	High exposure to local and global management.
-
-</details>
-
-<details>
-<summary><strong>VIE CONTRÔLEUR DE GESTION TOGO F/H (H/F)</strong> · BESSAC · LOME, TOGO · 2 349,20 €/mois</summary>
-
-- **Entreprise :** BESSAC
-- **Lieu :** LOME, TOGO
-- **Indemnité :** 2 349,20 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 02/10/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes techniques grâce à ses 2 ans d'expérience en contrôle budgétaire et sa maîtrise d'Excel, ce qui lui permettra de gérer efficacement le suivi des coûts du projet au Togo. Ses compétences en anglais et son ouverture à l'international sont de réels atouts, bien que le secteur du BTP et l'expérience sur ERP constituent de légers écarts par rapport aux préférences de l'offre.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246648](https://mon-vie-via.businessfrance.fr/offres/246648)
-
-**Description du poste**
-
-Forte de ses 50 ans d’existence, BESSAC réalise des travaux de tunnels et microtunnels destinés aux métros, aux ouvrages pour l’eau et l’assainissement ainsi qu’aux galeries techniques (gaz, câbles, chauffage urbain…) et conçoit et fabrique ses propres tunneliers.
-BESSAC est une filiale de SOLETANCHE BACHY et fait partie du Groupe VINCI.
-Avec un chiffre d’affaires de près de 160 millions d'euros, 2/3 de son activité est réalisée à l'international avec des projets en cours notamment en au Canada, en Australie, à Singapour, en Côte d’Ivoire, au Sénégal, en Colombie, au Panama, …
-Plus de 300 collaborateurs directs contribuent aujourd’hui au développement de l’entreprise.
-L’expertise technique est reconnue de tous et fait de BESSAC un cadre idéal pour intégrer le monde des travaux souterrains. Un véritable esprit de famille règne chez BESSAC, porté par des équipes expérimentées, une forte ancienneté et des collaborateurs habitués à travailler ensemble, offrant ainsi un environnement où chacun peut se projeter et évoluer.
-
-
-Nous recherchons un(e) contrôleur de gestion pour accompagner l’équipe travaux basée à Lomé au Togo.
-Vous serez rattaché(e) hiérarchiquement au chef de projet et le RAF de la zone Afrique basé en Côte d’Ivoire vous accompagnera dans la réussite de vos missions. Vous rejoignez une petite équipe passionnée composée d’ingénieurs travaux et une équipe de production.
-•	Suivi budgétaire :
--	Élaborer et suivre les budgets prévisionnels du projet
--	Analyser les écarts entre prévisionnel et réalisé.
--	Mettre en place des tableaux de bord de suivi.
-•	Contrôle des coûts :
--	Contrôler les dépenses engagées sur le chantier.
--	Valider les factures fournisseurs et sous-traitants.
--	Identifier les dérives et proposer des actions correctives.
-•	Optimisation :
--	Rechercher des leviers d’optimisation des coûts.
--	Participer à l’amélioration des processus de gestion.
-•	Support opérationnel :
--	Collaborer avec les chefs de chantier, conducteurs de travaux et services achats.
--	Assurer le lien entre l’équipe projet et la direction financière de Bessac Afrique
-C’est un programme challengeant qui vous attend mais vous ne serez pas seul. L’équipe en place, le RAF de la zone Afrique ainsi que le service RH France vous accompagneront au besoin pour mener à bien vos différentes missions. C’est l’opportunité idéale pour allier responsabilités et accompagnement !
-
-**Profil recherché**
-
-Vous êtes la personne idéale si vous avez ces compétences…
-
-•	Les personnes qui occupent ce poste ont en général suivi des formations de niveau bac+5 en Finance, Contrôle de gestion ou équivalent. 
-•	Vous avez déjà une expérience en contrôle de gestion ou en audit que ce soit en stage de fin d’études ou lors d’un premier emploi et avez également de bonnes notions de comptabilité. Une expérience dans le BTP ou sur un projet géré via la méthode d’avancement par les coûts serait un plus tout comme une première expérience à l’international.
-•	Vous avez une appétence pour les outils informatiques et avez déjà travaillé sur des outils tels que des ERP.
 
 </details>
 

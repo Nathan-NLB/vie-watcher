@@ -587,5 +587,10 @@
   "ville|panama|panama": {
     "lat": 8.9714493,
     "lon": -79.5341802
+  },
+  "entreprise|millet mountain group sas|sahline|tunisie": null,
+  "ville|sahline|tunisie": {
+    "lat": 35.7413735,
+    "lon": 10.7219503
   }
 }
