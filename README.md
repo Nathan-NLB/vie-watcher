@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **03/11/2026 21:31:07**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **03/11/2026 21:45:46**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -61,60 +61,6 @@ Vous disposez d’une première expérience en gestion de projet : Organisation 
 Vous maîtrisez des outils de reporting (Excel, Power BI).
 Relationnel et pédagogie font partie intégrante de votre personnalité : Aptitude à sensibiliser les collaborateurs (RGPD, contrôle interne) et à travailler en mode transverse.
 Vous êtes adaptable et curieux : Appétence pour la veille réglementaire et l’innovation dans un secteur en mutation (assurance-vie, digitalisation).
-
-</details>
-
-<details>
-<summary><strong>Contrôleur Financier junior (H/F)</strong> · COLAS RAIL · TORONTO, CANADA · 3 265,74 €/mois</summary>
-
-- **Entreprise :** COLAS RAIL
-- **Lieu :** TORONTO, CANADA
-- **Indemnité :** 3 265,74 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 03/11/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes grâce à ses deux ans d'expérience en finance, son excellente maîtrise de l'anglais et son autonomie prouvée en PME. Bien que le poste comporte une part importante de comptabilité, de fiscalité et de tâches administratives locales s'éloignant légèrement du pur FP&A, son profil global reste hautement compatible.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247815](https://mon-vie-via.businessfrance.fr/offres/247815)
-
-**Description du poste**
-
-Au Canada, l’activité s’appuie sur une structure agile basée à Toronto et intervenant sur des projets situés dans plusieurs provinces. Cette organisation implique de travailler au quotidien avec de nombreux interlocuteurs à distance et offre un environnement particulièrement transversal, où autonomie, coordination et collaboration sont essentielles.
-Le contrôleur financier junior sera responsable à la fois de la gestion de la comptabilité, de la trésorerie, du contrôle des coûts, de la fiscalité ainsi que du reporting interne de l'entreprise. Il participera également à divers sujets administratifs tels que les ressources humaines ou les affaires juridiques, en coordination avec les spécialistes du groupe.
-
-Rattachement hiérarchique : RAF pays
-
-
-Responsabilités : 
-
-Comptabilité, trésorerie et fiscalité
-•	Comptabiliser les opérations dans l’ERP et dans le logiciel de gestion des notes de frais.
-•	Effectuer les rapprochements mensuels (banques, comptes clients, etc.).
-•	Saisir les liasses comptables trimestrielles dans l’outil de consolidation du groupe.
-•	Préparer les revues comptables trimestrielles à destination du siège social.
-•	Préparer les états financiers annuels en coordination avec le cabinet comptable (CPA) de l’entité locale.
-•	Préparer les paiements et déclarations des différentes taxes (TPS/TVH, impôt sur les sociétés, etc.) en coordination avec le CPA lorsque nécessaire.
-
-Reporting
-•	Préparer les rapports mensuels dans l’outil de consolidation du groupe.
-•	Produire différents rapports relatifs aux projets en cours de l’entité locale.
-•	Préparer les rapports mensuels destinés au département Trésorerie du siège social.
-
-Contrôle des coûts
-•	Assurer le suivi des coûts des projets en cours.
-•	Réaliser des analyses ponctuelles à la demande de la direction.
-
-Autres sujets administratifs
-•	Collaborer avec les spécialistes de la paie à l’élaboration des paies mensuelles et gérer les dossiers de paie des employés.
-•	Superviser le paiement et le rapprochement des programmes d’avantages sociaux et de retraite.
-•	Agir en tant que point de contact pour les employés de la filiale, notamment en assurant la gestion de l’ensemble des éléments de rémunération des expatriés.Assurer le suivi de la conformité réglementaire dans les provinces où l’entité locale exerce ses activités.
-•	Assurer le suivi des obligations d’assurance de l’entité locale.
-
-**Profil recherché**
-
-•	De 1 à 3 ans d’expérience au sein d’un département comptable et financier, d’un cabinet d’audit financier ou d’un cabinet d’expertise comptable (CPA).
-•	Connaissance en comptabilité et en fiscalité.
-•	Maîtrise du français et de l’anglais, à l’écrit comme à l’oral.
-•	Esprit d’équipe, bonnes capacités de coordination et de communication, autonomie et sens de l’initiative.
-•	Autonomie, proactivité et sens des responsabilités
 
 </details>
 
