@@ -2698,58 +2698,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "199",
-      "200",
-      "201",
-      "205"
+      "[\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Rejoignez-nous et boostez votre carrière !\n\nNous recrutons un **Contrôleur de Gestion Opérationnel International** pour renforcer notre équipe au siège situé à Madrid. Dans ce rôle stratégique, vous travaillerez en étroite collaboration avec nos équipes locales et internationales pour soutenir la croissance continue du groupe. Vous aurez l'opportunité de déployer des outils de gestion et de contrôle pour plusieurs périmètres internationaux dans un environnement dynamique et en constante évolution.\n\nVotre mission : Contribuer à l’expansion internationale du groupe !\n\nEn tant que Contrôleur de Gestion Opérationnel International, vos principales missions seront :\n\n- Participer à l’élaboration des KPIs hebdomadaires pour différents pays et régions.\n- Créer et déployer des tableaux de bord pour mesurer la performance dans de nouveaux marchés internationaux.\n- Rédiger et formaliser des processus opérationnels afin d'optimiser les performances des équipes.\n- Déployer et administrer notre CRM dans de nouveaux périmètres internationaux.\n- Fournir un support, accompagnement et formation aux équipes locales dans différents pays.\n- Réaliser des analyses et contrôles divers sur les performances internationales et proposer des solutions d’amélioration.\n\nCe que nous offrons :\n\n- Un rôle stratégique, avec une forte exposition internationale.\n- Un environnement innovant et stimulant, au sein d’un groupe en pleine croissance.\n- Des possibilités d’évolution rapide dans un contexte de forte dynamique.\n\nNotre entreprise est un acteur majeur dans son secteur, avec une présence internationale croissante. Nous sommes en forte expansion et recherchons des talents pour accompagner cette croissance.",
     "creationDate": "2026-10-19T12:10:10Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5939,16 +5890,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Valeo’s VIE Program?\n\nThe Valeo VIE Program is available to citizens of the European Economic Area (EU + Norway, Liechtenstein and Iceland) aged between 18 and 28. This program is to work for one of our subsidiaries around the world!\nBusiness France, the French agency for international business development, is in charge of all the administrative procedures of your assignment. Make sure you meet Business France's eligibility criteria to apply for a VIE : https://mon-vievia.businessfrance.fr/\nPLEASE NOTE: Your application must be submitted in English to be considered by our non-French speaking teams partners at Valeo worldwide. \nPLEASE NOTE: As part of your international development, you cannot apply to a VIE assignment in the country of your citizenship\n***\nJoin our teams mobilized to meet the challenge of accelerating electrification!\n\nAt the heart of electric mobility, Valeo Power brings together expertise in thermal management systems and propulsion systems. This division develops innovations that contribute to the mobility of tomorrow by reducing pollutant emissions and maximizing vehicle autonomy.\n\nThe site of Erlangen based in Germany belongs to the POWER Division. We are looking for a VIE Business Management Controller for 24 months within the team.\n\nYour challenges?\n\n- You will work in close collaboration with the Project Manager and the project team as a full team member, ensuring the reliability of the project’s economics from the RFQ / P1 phase until series production.\n- You will build and maintain the project’s provisional P&L, investment plan, and cash flow projections.\n- You will ensure the consistency of the industrial and economic scenario, including volumes, inflation balance, investments, and R&D costs.\n- You will provide the Project Manager with a comprehensive understanding of production costs, including standard times, hourly rates, and fixed cost allocations.\n- You will prepare clear syntheses and presentations for upper management, transparently explaining whether and under which conditions a business is profitable.\n- You will follow up on project costs (R&D, investments, prices) and key KPIs throughout the complete development phase.\n- You will track and manage customer contributions, subsidies, and tooling sales across cash flow, P&L, and balance sheet perspectives.",
     "creationDate": "2026-10-08T09:12:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
