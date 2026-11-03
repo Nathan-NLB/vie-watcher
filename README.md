@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **03/11/2026 12:01:10**, 86 offre(s) actuellement en ligne.
+Dernière vérification : **03/11/2026 12:15:43**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1204,67 +1204,6 @@ In addition to excellent interpersonal skills and very good listening abilities:
 - You possess real analytical, synthesis, and writing skills;
 - You are rigorous about the quality of your work;
 - You know how to demonstrate discretion and ethics when handling confidential information.
-
-</details>
-
-<details>
-<summary><strong>V.I.E. - 18 motnhs - Financial Sponsors Coverage F/M - New York (H/F)</strong> · NATIXIS · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
-
-- **Entreprise :** NATIXIS
-- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
-- **Indemnité :** 5 088,87 €/mois
-- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
-- **Publiée le :** 29/10/2026
-- **Compatibilité avec ton profil :** 65 % — Le profil présente de solides compétences en finance et en anglais, ainsi qu'un niveau d'études adéquat, mais l'expérience du candidat est axée sur le contrôle de gestion en PME industrielle plutôt que sur la banque d'investissement, le crédit ou la couverture de fonds d'investissement (Financial Sponsors) requis pour ce poste à New York.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247599](https://mon-vie-via.businessfrance.fr/offres/247599)
-
-**Description du poste**
-
-The Financial Sponsors Coverage team, based in New York, covers global sponsor clients across numerous investment verticals.
-
-The team is both sector and product-agnostic, with primary objective to continue building a diversified book of business across many Global Market products and Investment Banking business lines.
-
-The VIE will focus most of their time supporting senior members of the Financial Sponsors origination team by preparing marketing materials, coordinating the origination efforts with different product partners of the bank, executing vanilla financing solutions, and providing support on ongoing portfolio management, as well as KYC and compliance requirements.
-
-Responsibilities include developing knowledge of various sponsor clients, ability to create detailed coverage memos and credit applications, provide comprehensive business and credit risk analysis of customers and prospects, manage processes independently and build relationships with other stakeholders within the bank.
-
-Deal origination support
-
-Support senior members of the team in the origination efforts by preparing briefing memos, marketing materials;
-Manage origination pipeline to track deal activities from different groups;
-Run profitability metrics on incoming transactions.
-Transaction execution
-
-Take active role in the execution of financing transactions by preparing credit applications, credit analysis, financial modeling, coordination of legal documentation review, vetting of counterparties;
-Write internal memos for senior management on clients and transactions;
-Gain expertise in internal policies and procedures as well as internal systems, including credit approval workflow, counterparty rating, compliance/conflict check, KYC, etc.
-The VIE will play a key role in the build-up of the Financial Sponsors Coverage in the Americas. Collaboration with Senior Bankers, salespersons, and product specialists will give the candidate opportunity to perform a broad variety of missions. The incumbent will directly contribute to the increase in business in the Americas with key sector clients through the development of M&A-IB deals, corporate banking solutions and other products.
-
-**Profil recherché**
-
-Master’s degree in Finance or related.
-
-Prior experience in a commercial/investment bank or financial institution with exposure to corporate finance, debt, capital markets or M&A preferred.
-
-Interest in Private Equity / Credit markets.
-
-Solid finance / credit analysis knowledge.
-
-Fluent in English, French a plus.
-
-Strong organizational, analytical, and interpersonal skills.
-
-Client-focused; ability to effectively and quickly build relationships and to establish trust, respect, competence, and confidence.
-
-Curious, strategic, global, and entrepreneurial mindset.
-
-Ability to manipulate quantitative and qualitative data to formulate meaningful business ideas.
-
-Advanced skills in Excel and PowerPoint and data providers (S&P Capital IQ, Merger Market).
-
-Ability to manage simultaneous projects and meet deadlines.
-
-Strong communication (written and spoken) and presentation skills.
 
 </details>
 
