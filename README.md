@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **03/11/2026 11:01:19**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **03/11/2026 11:15:40**, 86 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -3312,34 +3312,6 @@ De formation ingénieur ou équivalente, vous justifiez d’au moins une premiè
 Vous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.
 
 Vous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.
-
-</details>
-
-<details>
-<summary><strong>Business Analyst (H/F)</strong> · B.G. · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** B.G.
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 16/10/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil correspond très bien aux attentes grâce à la formation en gestion du candidat, sa maîtrise d'Excel et Power BI, ainsi que son niveau d'anglais. L'écart principal réside dans la spécialisation de l'offre orientée vers la trésorerie et la finance corporate, tandis que l'expérience de Nathan est davantage axée sur le contrôle de gestion opérationnel.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247125](https://mon-vie-via.businessfrance.fr/offres/247125)
-
-**Description du poste**
-
-Au sein des départements Back Office et Trésorerie, le Business Analyst sera rattaché fonctionnellement aux responsables des équipes concernées. Cette mission lui permettra d’acquérir une vision transverse des activités financières et de trésorerie du Groupe, tout en contribuant à la transformation et à l’amélioration des processus existants. Il participera à la conception, à la refonte et à l’automatisation des reportings financiers et des outils d’aide à la décision, principalement sous Power BI et Excel. Ces outils couvriront notamment le suivi du cash pooling, des prévisions de trésorerie, des paiements, de l’endettement Groupe et des risques financiers.
-
-**Profil recherché**
-
--  niveau d'étude : Bac + 4/5
-- filière d'étude : Finance / Ecole de commerce / Gestion
-- expérience : débutant /Une 1ère expérience en finance serait un atout
-- domaine de compétences : Reportings financiers / Analyse financière / Finance / Trésorerie
-- niveau linguistique : Français, anglais courant.
-- compétences professionnelles : Finance de marché, finance corporate, dérivés financiers, trésorerie, automatisation, promptage IA, data management.
-- compétences personnelles : Sociable, curieux, rigoureux, team-player.
-- logiciels bureautiques : Suite Office, Power Query, Power-BI, langage programmation (i.e DAX, M, VBA), IA.
 
 </details>
 

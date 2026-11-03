@@ -1172,16 +1172,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "322"
+      "[\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À propos de Sibelco\r\n\r\nSibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.\r\n\r\nDans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.\r\n\r\nRejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.\r\n\r\nMission:\r\n\r\nLe/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. \r\nIl/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. \r\nEn interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. \r\nCette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.",
     "creationDate": "2026-10-19T13:15:35Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5159,76 +5152,6 @@
     "dateCandidature": null
   },
   {
-    "id": 247125,
-    "organizationName": "B.G.",
-    "missionTitle": "Business Analyst (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "500",
-    "effectifConso": "500",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "BRUXELLES",
-    "cityNameEn": "BRUXELLES",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "320"
-    ],
-    "specializations": [
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
-    "missionDescription": "Au sein des départements Back Office et Trésorerie, le Business Analyst sera rattaché fonctionnellement aux responsables des équipes concernées. Cette mission lui permettra d’acquérir une vision transverse des activités financières et de trésorerie du Groupe, tout en contribuant à la transformation et à l’amélioration des processus existants. Il participera à la conception, à la refonte et à l’automatisation des reportings financiers et des outils d’aide à la décision, principalement sous Power BI et Excel. Ces outils couvriront notamment le suivi du cash pooling, des prévisions de trésorerie, des paiements, de l’endettement Groupe et des risques financiers.",
-    "creationDate": "2026-10-15T15:55:32Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-16T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-11-15T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "-  niveau d'étude : Bac + 4/5\n- filière d'étude : Finance / Ecole de commerce / Gestion\n- expérience : débutant /Une 1ère expérience en finance serait un atout\n- domaine de compétences : Reportings financiers / Analyse financière / Finance / Trésorerie\n- niveau linguistique : Français, anglais courant.\n- compétences professionnelles : Finance de marché, finance corporate, dérivés financiers, trésorerie, automatisation, promptage IA, data management.\n- compétences personnelles : Sociable, curieux, rigoureux, team-player.\n- logiciels bureautiques : Suite Office, Power Query, Power-BI, langage programmation (i.e DAX, M, VBA), IA.",
-    "countryId": "BE",
-    "countryName": "BELGIQUE",
-    "countryNameEn": "BELGIUM",
-    "reference": "VIE247125",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Charlotte FESSLER",
-    "indemnite": 2978.53,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "charlotte.fessler@savencia.com",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
-    "dateCandidature": null
-  },
-  {
     "id": 245470,
     "organizationName": "CLEEVEN ND",
     "missionTitle": "DATA ANALYST - DATA SCIENTIST - DATA ENGINEER H/F (H/F)",
@@ -5596,16 +5519,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are CACEIS \nWe are an asset servicing banking group of Crédit Agricole  dedicated to asset managers, insurance companies, pension funds, banks, private equity and real estate funds, brokers and corporate clients. Through offices across Europe, North and South America and Asia, CACEIS offers a broad range of services covering execution, clearing, forex, securities lending, custody, depositary and fund administration, fund distribution support, middle office outsourcing and issuer services. \nWith assets under custody of €4.6 trillion and assets under administration of €2.2 trillion, we are a European leader in asset servicing and one of the major players worldwide. \n\nWhat is the opportunity? \n\nThe Fund Accountant t will be responsible for oversight checks and controls of daily NAV valuations completed by the FA production team, ensuring the timeliness and accuracy of the final NAV.  The successful will be involved with client reporting across the Fund Accounting team to produce daily, weekly and ad hoc reporting.  They will provide support to the Team Manager in a client centric team. \n\nWhat will you do? \n- Organise and own personal daily work schedule of allocated funds and reporting. This will include balancing NAV oversight responsibilities with reporting deliverables    \n- Provide Fund Accounting support to allocated clients \n- Supervise the accuracy, timeliness and completeness of all processes \n- Monitors key quality, productivity and risk measures and ensure that they are met or exceeded \n- Adhere to comprehensive operating procedures that ensure the accuracy, timeliness and completeness of all processes \n- Support team manager with project and client requests \n- Minimise processing errors and financial losses \n- Documentation of business support procedures \n- Coordinate and administer assignments and maintain schedules \n- Demonstrate awareness of technical requirements for accounting products \n- Build a cohesive team spirit within the Fund Accounting team that will foster a clear client service focus, operational efficiency and an error free environment. \n\nWhat do you need to succeed? \nMust-have \n- Post-secondary education in accounting/finance or equivalent \n- Previous financial services industry experience in an operations environment \n- Teamwork and cooperation oriented mindset \n- Good communication skills \n- Good business acumen  \n- Proven analytical thinking skills \n- Risk management and mitigation focus \n- Proven organisational and time management skills. \n\nNice-to-have \n- Industry, accounting or other recognised accredited program would be an asset \n- Client-facing experience  \n- Good presentation skills. \n\nWhy join CACEIS? \nWe thrive on the challenge to be our best - progressive thinking to keep growing and working together to deliver trusted advice to help our clients thrive and communities prosper.  We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual. \n- Leaders who support your development through coaching and managing opportunities \n- Opportunities to work with the best in the field \n- Ability to make a difference and lasting impact \n- Work in a dynamic, collaborative, progressive, and high-performing team \n- A world-class training program in financial services \n- Flexible working options fully supported.",
     "creationDate": "2026-10-14T16:25:24Z",
     "missionStartDate": "2027-01-01T00:00:00",
