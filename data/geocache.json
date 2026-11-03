@@ -605,5 +605,14 @@
     "lat": 49.6117825,
     "lon": 6.1324283
   },
-  "entreprise|fresh sas|new york  -ny-|etats-unis": null
+  "entreprise|fresh sas|new york  -ny-|etats-unis": null,
+  "entreprise|acm|luxembourg|luxembourg": {
+    "lat": 49.6961383,
+    "lon": 5.76789
+  },
+  "entreprise|colas rail|toronto|canada": null,
+  "ville|toronto|canada": {
+    "lat": 43.6534817,
+    "lon": -79.3839347
+  }
 }
