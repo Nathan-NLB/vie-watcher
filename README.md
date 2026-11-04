@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **04/11/2026 19:15:41**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **04/11/2026 19:30:56**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -3552,85 +3552,6 @@ Strong Excel skills; knowledge of Power BI is an advantage
 English and French fluent
 Ability to work autonomously, take initiative, and drive financial improvements
 Experience with generative AI tools such as OpenAI for improving day-to-day productivity
-
-</details>
-
-<details>
-<summary><strong>Fund Accountant (H/F)</strong> · CACEIS · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
-
-- **Entreprise :** CACEIS
-- **Lieu :** DUBLIN, IRLANDE
-- **Indemnité :** 3 520,38 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 15/10/2026
-- **Compatibilité avec ton profil :** 60 % — Le profil de Nathan présente de solides bases en comptabilité et finance ainsi qu'un excellent niveau d'anglais, ce qui correspond aux attentes. Cependant, l'offre concerne un poste de Fund Accountant en milieu bancaire/fonds d'investissement à Dublin, alors que le candidat recherche plutôt un poste de contrôleur de gestion / FP&A, de préférence en Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247086](https://mon-vie-via.businessfrance.fr/offres/247086)
-
-**Description du poste**
-
-We are CACEIS 
-We are an asset servicing banking group of Crédit Agricole  dedicated to asset managers, insurance companies, pension funds, banks, private equity and real estate funds, brokers and corporate clients. Through offices across Europe, North and South America and Asia, CACEIS offers a broad range of services covering execution, clearing, forex, securities lending, custody, depositary and fund administration, fund distribution support, middle office outsourcing and issuer services. 
-With assets under custody of €4.6 trillion and assets under administration of €2.2 trillion, we are a European leader in asset servicing and one of the major players worldwide. 
-
-What is the opportunity? 
-
-The Fund Accountant t will be responsible for oversight checks and controls of daily NAV valuations completed by the FA production team, ensuring the timeliness and accuracy of the final NAV.  The successful will be involved with client reporting across the Fund Accounting team to produce daily, weekly and ad hoc reporting.  They will provide support to the Team Manager in a client centric team. 
-
-What will you do? 
-- Organise and own personal daily work schedule of allocated funds and reporting. This will include balancing NAV oversight responsibilities with reporting deliverables    
-- Provide Fund Accounting support to allocated clients 
-- Supervise the accuracy, timeliness and completeness of all processes 
-- Monitors key quality, productivity and risk measures and ensure that they are met or exceeded 
-- Adhere to comprehensive operating procedures that ensure the accuracy, timeliness and completeness of all processes 
-- Support team manager with project and client requests 
-- Minimise processing errors and financial losses 
-- Documentation of business support procedures 
-- Coordinate and administer assignments and maintain schedules 
-- Demonstrate awareness of technical requirements for accounting products 
-- Build a cohesive team spirit within the Fund Accounting team that will foster a clear client service focus, operational efficiency and an error free environment. 
-
-What do you need to succeed? 
-Must-have 
-- Post-secondary education in accounting/finance or equivalent 
-- Previous financial services industry experience in an operations environment 
-- Teamwork and cooperation oriented mindset 
-- Good communication skills 
-- Good business acumen  
-- Proven analytical thinking skills 
-- Risk management and mitigation focus 
-- Proven organisational and time management skills. 
-
-Nice-to-have 
-- Industry, accounting or other recognised accredited program would be an asset 
-- Client-facing experience  
-- Good presentation skills. 
-
-Why join CACEIS? 
-We thrive on the challenge to be our best - progressive thinking to keep growing and working together to deliver trusted advice to help our clients thrive and communities prosper.  We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual. 
-- Leaders who support your development through coaching and managing opportunities 
-- Opportunities to work with the best in the field 
-- Ability to make a difference and lasting impact 
-- Work in a dynamic, collaborative, progressive, and high-performing team 
-- A world-class training program in financial services 
-- Flexible working options fully supported.
-
-**Profil recherché**
-
-What do you need to succeed? 
-Must-have 
-- Post-secondary education in accounting/finance or equivalent 
-- Previous financial services industry experience in an operations environment 
-- Teamwork and cooperation oriented mindset 
-- Good communication skills 
-- Good business acumen  
-- Proven analytical thinking skills 
-- Risk management and mitigation focus 
-- Proven organisational and time management skills. 
-
-Nice-to-have 
-- Industry, accounting or other recognised accredited program would be an asset 
-- Client-facing experience  
-- Good presentation skills.
 
 </details>
 
