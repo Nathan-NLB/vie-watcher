@@ -614,5 +614,6 @@
   "ville|toronto|canada": {
     "lat": 43.6534817,
     "lon": -79.3839347
-  }
+  },
+  "entreprise|banque federative du credit mutuel|dusseldorf|allemagne": null
 }

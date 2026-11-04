@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **04/11/2026 11:01:42**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **04/11/2026 11:15:51**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -155,6 +155,41 @@ Dans un contexte de fort développement de nos activités au Brésil, vos princi
 - Vous avez un bon relationnel et aimez travailler en équipe ; 
 
 - Vous être rigoureux.se et très organisé.e.
+
+</details>
+
+<details>
+<summary><strong>Specialist Asset Management & Pension Fund (H/F)</strong> · BANQUE FEDERATIVE DU CREDIT MUTUEL · DUSSELDORF, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** BANQUE FEDERATIVE DU CREDIT MUTUEL
+- **Lieu :** DUSSELDORF, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 04/11/2026
+- **Compatibilité avec ton profil :** 55 % — Le candidat possède de solides compétences en analyse financière et modélisation (Excel, Power BI) ainsi qu'un excellent niveau d'anglais, ce qui correspond aux attentes. Cependant, son profil est orienté vers le contrôle de gestion en PME industrielle plutôt que vers la gestion d'actifs, les marchés financiers et les fonds de pension requis pour ce poste en Allemagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247838](https://mon-vie-via.businessfrance.fr/offres/247838)
+
+**Description du poste**
+
+Au sein du département Programmes stratégiques, vous rejoindrez l’équipe « Gestion d’actifs et retraite », composée de deux personnes. Cette équipe prend en charge l’ensemble des tâches opérationnelles et analytiques liées à la méthodologie de gestion d’actifs et aux régimes de retraite d’entreprise. 
+
+À ce poste, vous serez chargé(e) de :
+Participer à l’élaboration de rapports, d’évaluations et de présentations réguliers destinés à la direction, aux comités et aux équipes commerciales
+Développer et assurer la mise à jour des rapports réguliers sur le portefeuille de notre fonds de pension, depuis la collecte des données jusqu’aux rapports finaux
+Contribuer au développement des méthodologies d’investissement au sein de la division Banque privée et Gestion de patrimoine
+Participer au développement et à la maintenance de modèles quantitatifs, y compris la préparation des données, les contrôles de plausibilité et la documentation
+Apporter votre expertise pour les investissements en capital dans les régimes de retraite d’entreprise, pour l’intégration de gestionnaires d’actifs externes et pour les processus internes de gestion des prestataires de la banque
+
+**Profil recherché**
+
+Qu'est-ce qui nous plaira chez vous ?
+
+Diplôme en économie, finance, mathématiques ou dans un domaine connexe (maîtrise souhaitée)
+Connaissance des marchés des capitaux et financiers ainsi que de leurs instruments, acquise par le biais de formations ou d'une expérience pratique
+Première expérience pratique dans la gestion d'actifs, les marchés des capitaux ou des domaines connexes
+Intérêt pour l'analyse de données et la modélisation ; idéalement, une première expérience des langages de programmation et des outils de BI ; excellente maîtrise de MS Office, en particulier Excel et PowerPoint
+Le fait d'avoir entamé ou obtenu une qualification professionnelle telle que CFA, CIIA ou FRM est un atout.
+Esprit analytique, méthode de travail structurée et rigoureuse, solides compétences en communication et en travail d'équipe, maîtrise de l'anglais ; la maîtrise de l'allemand est un atout.
 
 </details>
 
