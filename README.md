@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **04/11/2026 09:45:41**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **04/11/2026 10:01:12**, 86 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -39,6 +39,68 @@ Au sein des départements Back Office et Trésorerie, le Business Analyst sera r
 - compétences professionnelles : Finance de marché, finance corporate, dérivés financiers, trésorerie, automatisation, promptage IA, data management.
 - compétences personnelles : Sociable, curieux, rigoureux, team-player.
 - logiciels bureautiques : Suite Office, Power Query, Power-BI, langage programmation (i.e DAX, M, VBA), IA.
+
+</details>
+
+<details>
+<summary><strong>CORPORATE FINANCE HF (H/F)</strong> · ALBIOMA · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
+
+- **Entreprise :** ALBIOMA
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 743,28 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 04/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245612](https://mon-vie-via.businessfrance.fr/offres/245612)
+
+**Description du poste**
+
+Présentation de la société :
+
+Albioma est engagé dans la transition énergétique grâce aux énergies renouvelables (biomasse, solaire et géothermie).
+
+Le Groupe est implanté en Outre-mer français, dans l'Hexagone, à Île Maurice, au Brésil, au Canada, en Australie et en Turquie. Il a développé depuis 30 ans un partenariat unique avec le monde sucrier pour produire de l'énergie renouvelable à partir de la bagasse, résidu fibreux de la canne à sucre.
+
+Albioma est aussi le premier producteur d'énergie photovoltaïque en Outre-mer où il construit et exploite des projets innovants avec stockage, ainsi que dans l'Hexagone.
+
+Depuis 2021, le Groupe se développe dans la géothermie, avec l'acquisition de deux centrales en Turquie.
+
+Poste et missions :
+
+Dans un contexte de fort développement de nos activités au Brésil, vos principales missions au sein de la Direction Financière à São Paulo seront les suivantes :
+
+- Assistance sur les projets de financement (élaboration des modèles avec les équipes projets, présentations aux banques, négociation des documentations de crédit) ;
+
+- Analyse stratégique et financière des projets de M&A ;
+
+- Exercices de modélisation financière et d’évaluation ;
+
+- Elaboration des dossiers d’investissement en contrôle financier ;
+
+- Modélisation et suivi des business plans à moyen terme ;
+
+- Elaboration du reporting mensuel d’activité et analyse des résultats ;
+
+- Suivi des investissements sur ses aspects financiers ;
+
+- Suivi de trésorerie et élaboration de prévisionnels ;
+
+- Analyses financières ponctuelles.
+
+**Profil recherché**
+
+- Vous êtes diplômé.e d’une école de commerce ou d’ingénieur avec une spécialité : Finance / Comptabilité / Contrôle de gestion ;
+
+- Vous avez idéalement une première expérience au sein d'une direction financière ;
+
+- Vous maitrisez la notion de compte de résultats ;
+
+- Vous êtes familier avec la modélisation d’un Business Plan ;
+
+- Vous parlez anglais couramment (oral, écrit) ; 
+
+- Vous avez un bon relationnel et aimez travailler en équipe ; 
+
+- Vous être rigoureux.se et très organisé.e.
 
 </details>
 
