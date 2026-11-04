@@ -615,5 +615,10 @@
     "lat": 43.6534817,
     "lon": -79.3839347
   },
-  "entreprise|banque federative du credit mutuel|dusseldorf|allemagne": null
+  "entreprise|banque federative du credit mutuel|dusseldorf|allemagne": null,
+  "entreprise|direction generale du tresor|riyadh|arabie saoudite": null,
+  "ville|riyadh|arabie saoudite": {
+    "lat": 24.638916,
+    "lon": 46.7160104
+  }
 }

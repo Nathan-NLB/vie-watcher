@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **04/11/2026 15:30:56**, 86 offre(s) actuellement en ligne.
+Dernière vérification : **04/11/2026 15:46:04**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -162,6 +162,59 @@ Première expérience pratique dans la gestion d'actifs, les marchés des capita
 Intérêt pour l'analyse de données et la modélisation ; idéalement, une première expérience des langages de programmation et des outils de BI ; excellente maîtrise de MS Office, en particulier Excel et PowerPoint
 Le fait d'avoir entamé ou obtenu une qualification professionnelle telle que CFA, CIIA ou FRM est un atout.
 Esprit analytique, méthode de travail structurée et rigoureuse, solides compétences en communication et en travail d'équipe, maîtrise de l'anglais ; la maîtrise de l'allemand est un atout.
+
+</details>
+
+<details>
+<summary><strong>Attaché(e) économique à Riyad (H/F)</strong> · DIRECTION GENERALE DU TRESOR · RIYADH, ARABIE SAOUDITE · 3 078,17 €/mois</summary>
+
+- **Entreprise :** DIRECTION GENERALE DU TRESOR
+- **Lieu :** RIYADH, ARABIE SAOUDITE
+- **Indemnité :** 3 078,17 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 04/11/2026
+- **Compatibilité avec ton profil :** 65 % — Le candidat possède un excellent niveau d'anglais, des compétences financières solides et une ouverture à l'international, ce qui correspond bien au contexte institutionnel. Cependant, son profil est axé sur le contrôle de gestion en entreprise (FP&A) plutôt que sur l'analyse macroéconomique et financière exigée par cette offre de la DG Trésor.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247929](https://mon-vie-via.businessfrance.fr/offres/247929)
+
+**Description du poste**
+
+Le Service économique (SE) de l’Ambassade de France en à Riyad appartient au réseau international de la Direction générale du Trésor du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique. Compétent sur l’Arabie Saoudite et le Yémen, il est constitué de trois agents expatriés, de deux VIA et de deux agents locaux. Il a pour mission d’analyser la situation économique et financière, de suivre l’actualité et les réformes économiques, d’accompagner les entreprises françaises dans leurs projets de développement dans le pays et de contribuer à l’attractivité de la France pour les investissements étrangers.  
+
+Le/la VIA sera particulièrement chargé(e), sous l’autorité du Chef de service économique et de son adjointe, des missions suivantes :
+
+•	suivi et analyse de la situation macroéconomique et financière de l’Arabie saoudite et du Yémen ; 
+•	suivi et analyse des secteurs institutions financières (banques, fonds d’investissement), stratégie d’investissement, relations commerciales ;
+•	rédaction de notes portant notamment sur le secteur financier (banques, assurances, bourse, capital-investissement, finance islamique, etc.) ;
+•	préparation des entretiens avec les institutions financières françaises et saoudiennes ;
+•	contribution à l’organisation d’événements économiques portés par l’Ambassade ;
+•	soutien au développement des entreprises françaises, participation aux activités d’animation de la communauté d’affaires française.
+
+Plus largement, le/la VIA devra faire preuve de souplesse et de polyvalence afin de contribuer à l’ensemble des activités du service en fonction des besoins.
+
+PROFIL :
+
+Formation supérieure de type Master : niveau Master 2 en  économie (université, grande école d’ingénieur ou de commerce avec un parcours économie), IEP avec une spécialisation en sciences économiques / finances.
+
+COMPETENCES REQUISES :
+
+•	rigueur dans l’analyse et l’expression écrite (rédaction de notes synthétiques relatives aux secteurs suivis) ;
+•	sens du contact et capacité à développer et à entretenir un réseau (nombreux contacts avec les entreprises et les administrations saoudiennes) ;
+•	esprit d’initiative (capacité à animer un réseau de relations et à mettre en relation entreprises et donneurs d’ordres potentiels) ; 
+•	capacité à travailler en équipe ;
+•	adaptabilité à un environnement de travail exigeant ;
+•	anglais obligatoire. 
+
+DIVERS :
+
+Le/la VIA bénéficie d’un logement propriété de l’Etat français dans le quartier diplomatique de Riyad (retenue 10% sur indemnité).
+
+**Profil recherché**
+
+Formation supérieure de type Master : niveau Master 2 en  économie (université, grande école d’ingénieur ou de commerce avec un parcours économie), IEP avec une spécialisation en sciences économiques / finances.
+
+Anglais niveau C2 obligatoire
+
+Merci d'envoyer VOS CV UNIQUEMENT en français
 
 </details>
 
