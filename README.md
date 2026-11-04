@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **04/11/2026 15:15:41**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **04/11/2026 15:30:56**, 86 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1619,64 +1619,6 @@ Your tasks will include:
 - Strong analytical and problem-solving skills with attention to detail
 - Ability to work independently and as part of a team
 - Highly motivated, proactive, and eager to learn
-
-</details>
-
-<details>
-<summary><strong>VIE - Corporate Coverage Associate - Francfort - H/F (H/F)</strong> · BNP PARIBAS · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** BNP PARIBAS
-- **Lieu :** FRANCFORT, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 28/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247641](https://mon-vie-via.businessfrance.fr/offres/247641)
-
-**Description du poste**
-
-Au quotidien, ça donne quoi ?
-
-En tant que V.I.E Corporate Coverage Associate, vous contribuerez au suivi et au développement de la relation avec de grandes entreprises internationales et des entreprises de taille intermédiaire. Vous participerez au suivi des opportunités commerciales, aux revues stratégiques de l’activité ainsi qu’à la préparation des budgets.
-
-Vous travaillerez en coordination avec les banquiers Corporate Coverage du réseau BNP Paribas à travers le monde. Vous préparerez et contribuerez aux rendez-vous et échanges avec les clients, aux côtés de spécialistes de différents métiers tels que le Corporate Finance, les marchés de capitaux de dette, le Cash Management ou encore les solutions de commerce international.
-
-Vous jouerez également un rôle important dans l’analyse du risque de crédit. Vous réaliserez les analyses financières des prospects et des clients et préparerez les dossiers nécessaires aux décisions de crédit. Vous assurerez le suivi du risque de crédit d'un portefeuille de clients et contribuerez à la structuration ainsi qu’à la documentation des opérations de financement.
-
-Vous participerez par ailleurs à la mise en œuvre des transactions et au suivi de leur cycle de vie. Vous veillerez à la qualité et à l’actualisation des informations dans l’outil de gestion de la relation client et contribuerez à la mise en place des plans d’actions clients avec les différentes lignes métiers.
-
-Enfin, vous coordonnerez les processus réglementaires liés à l’entrée en relation et à la mise à jour des dossiers clients et veillerez à l’application des politiques et procédures de BNP Paribas en matière environnementale, sociale et de responsabilité d’entreprise.
-
-Et après ?
-
-Cette expérience vous permettra de développer une connaissance approfondie de la banque de financement et d’investissement ainsi qu’une vision transverse de la relation avec les entreprises dans un environnement international.
-
-Vous renforcerez vos compétences en analyse financière et crédit, en gestion de la relation client, en structuration et suivi de financements ainsi qu’en coordination avec de nombreux métiers et implantations du Groupe.
-
-Cette expérience pourra ainsi constituer un tremplin vers différentes fonctions au sein de la banque de financement et d’investissement et de la couverture Corporate.
-
-Les avantages à nous rejoindre
-
-Et la rémunération ?
-
-Fixée par arrêté ministériel, elle est versée mensuellement et se compose de deux éléments :
-
-Une indemnité commune, identique pour tous les jeunes en mission ;
-Une indemnité géographique, variable selon le pays, et parfois la ville, de destination.
-Cette indemnité est recalculée chaque trimestre.
-
-Retrouvez plus d’informations sur le site de Business France.
-
-**Profil recherché**
-
-Êtes-vous notre prochain ou notre prochaine V.I.E – Corporate Coverage Associate – Francfort H/F ?
-
-À vous de nous convaincre !
-
-Diplômé d’un Bac+5 minimum en école de commerce, université ou équivalent universitaire, avec une spécialisation en finance, économie, comptabilité ou domaine équivalent, vous disposez idéalement d’une première expérience professionnelle en Corporate Banking ou Investment Banking, notamment sur des fonctions d’analyste. Vous possédez de solides connaissances en analyse financière et en comptabilité.
-
-Vous maîtrisez l’allemand et l’anglais à un niveau professionnel (C1) et êtes à l’aise avec les outils Microsoft Office, notamment Excel et PowerPoint. Votre orientation client et votre attention aux détails seront également essentielles pour réussir dans vos missions.
-
-Votre réussite sur ce poste reposera enfin sur les compétences comportementales particulièrement attendues : collaboration active, organisation, communication, capacité d’analyse et adaptabilité, qui vous permettront d’évoluer efficacement avec de nombreux interlocuteurs dans un environnement bancaire international.
 
 </details>
 
