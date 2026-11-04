@@ -836,16 +836,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "205"
+      "[\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Poste et missions:\n\no Elaborer et actualiser les budgets de la filiale et du contrat de maintenance en cours\no Analyser et expliquer les écarts budgétaires\no Animer les suivis budgétaires auprès des opérationnels\no Elaborer les prévisions de Chiffre d’affaires et de trésorerie\no Superviser et contrôler les clôtures comptables\no Vérifier les imputations analytiques\no Déterminer les charges à recevoir, les reprises de provisions, et la reconnaissance du CA\no Préparer les reporting mensuels de gestion\no Préparer les éléments de la facturation\no Suivre l’avancement des commandes achats en cours\no Préparer et consolider les pointages personnels\no Assurer le suivi des levées de caution\no Participer aux chiffrages des offres commerciales\no Participer aux travaux d’audit\no Contribuer à l’amélioration des outils de suivi budgétaire\no Diverses études Ad hoc",
     "creationDate": "2026-08-04T13:53:31Z",
     "missionStartDate": "2027-01-01T00:00:00",
