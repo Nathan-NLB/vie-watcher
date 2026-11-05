@@ -8,11 +8,235 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/11/2026 10:45:43**, 86 offre(s) actuellement en ligne.
+Dernière vérification : **05/11/2026 11:01:59**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE ALM / STRUCTURED FUNDING SPECIALIST (H/F)</strong> · CA CONSUMER FINANCE · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** CA CONSUMER FINANCE
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan correspond bien en termes de niveau d'études, d'anglais courant, d'espagnol et d'appétence géographique pour Madrid. Cependant, l'offre est très spécialisée en ALM, gestion actif-passif bancaire, titrisation et produits dérivés, ce qui s'éloigne de son expertise principale en contrôle de gestion d'entreprise.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247967](https://mon-vie-via.businessfrance.fr/offres/247967)
+
+**Description du poste**
+
+We are seeking a highly skilled ALM & Structured Funding professional with strong expertise in securitisation (SRT), derivatives management, regulatory frameworks and project management.
+
+The candidate will play a key role to support ALM & Treasury activities especially focused on securitisation, liquidity, interest rate risk and solvency topics. The role combines technical expertise with project delivery and a focus on innovation and continuous improvement.
+________________________________________
+Key Responsibilities
+•	Monitor securitisation transactions, including SRT deals.
+•	Monitor derivatives and hedging strategies (IRS and back-to-back swaps).
+•	Support on regulatory and strategic projects (internal and at group level)
+•	Ensure compliance with regulatory and accounting requirements.
+•	Manage and optimize liquidity, IRR and solvency topics.
+•	Liaise with regulators, auditors, investors and rating agencies.
+
+**Profil recherché**
+
+•	Master’s degree in Finance, Economics, Engineering, Mathematics, Statistics or another quantitative field.
+•	0–2 years of experience, including internships or work-study assignments, in Finance, ALM, Treasury, Risk, Audit or Consulting.
+•	Strong analytical and quantitative skills, with attention to data accuracy and consistency.
+•	Good understanding of banking financial statements and basic ALM, liquidity, funding or market risk concepts.
+•	Advanced Excel and PowerPoint proficiency; knowledge of SQL, Python or VBA is a plus.
+•	Innovative mindset with the ability to challenge existing processes and drive improvements.
+
+As a plus:
+•	Experience with securitisation/ liquidity / interest rate risk management.
+•	Experience on cross-functional strategic projects. 
+•	Good knowledge of COREP (namely LCR, NSFR, IRRBB, Own Funds and Leverage) and regulatory requirements.
+
+Key Focus Areas
+•	ALM •  Securitisation (SRT) • Derivatives & Hedging • Liquidity • IRR • Capital • Process improvement and innovation
+________________________________________
+Soft Skills
+•	Strong analytical and problem-solving mindset
+•	Ability to interact with senior stakeholders (ExCo, regulators)
+•	High level of autonomy and ownership
+•	Structured and detail-oriented
+________________________________________
+
+Languages
+•	English (fluent, mandatory)
+•	Spanish (strongly preferred)
+•	Portuguese & French are a plus
+
+________________________________________
+Nice to Have
+•	Experience in auto loan / consumer finance portfolios
+•	Exposure to ESG considerations in securitisation
+•	Prior interaction with ECB / Banco de Spain / rating agencies
+________________________________________
+
+</details>
+
+<details>
+<summary><strong>VIE ALM & Structured Funding Analyst (Securitisation & Derivatives) (H/F)</strong> · CA CONSUMER FINANCE · LISBONNE, PORTUGAL · 2 677,43 €/mois</summary>
+
+- **Entreprise :** CA CONSUMER FINANCE
+- **Lieu :** LISBONNE, PORTUGAL
+- **Indemnité :** 2 677,43 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247944](https://mon-vie-via.businessfrance.fr/offres/247944)
+
+**Description du poste**
+
+JOB PURPOSE 
+Support ALM and Treasury activities, with a particular focus on securitisation, liquidity, interest-rate risk and solvency. The role combines technical expertise in structured funding, derivatives and regulatory frameworks with project delivery, innovation and continuous improvement.
+
+RESPONSIBILITIES 
+• Monitor securitisation transactions, including Significant Risk Transfer (SRT) deals.
+• Monitor derivatives and hedging strategies, including interest rate swaps (IRS) and back-to-back swaps.
+• Support regulatory and strategic projects, both internally and at Group level.
+• Ensure compliance with applicable regulatory and accounting requirements.
+• Manage and optimise liquidity, interest-rate risk (IRR) and solvency topics.
+• Liaise with regulators, auditors, investors and rating agencies.
+• Contribute to process improvement, innovation and the delivery of cross-functional initiatives.
+
+**Profil recherché**
+
+• Master's degree in Finance, Economics, Engineering, Mathematics, Statistics or another quantitative field.
+• 0-2 years of experience, including internships or work-study assignments, in Finance, ALM, Treasury, Risk, Audit or Consulting.
+• Strong analytical and quantitative skills, with close attention to data accuracy and consistency.
+• Good understanding of banking financial statements and basic ALM, liquidity, funding or market-risk concepts.
+• Advanced proficiency in Excel and PowerPoint; SQL, Python or VBA is an advantage.
+• Fluent English is mandatory; Portuguese is strongly preferred; Spanish and French are advantages.
+• Additional assets: securitisation, liquidity or interest-rate risk management; cross-functional strategic projects; COREP knowledge, including LCR, NSFR, IRRBB, Own Funds and Leverage; auto-loan or consumer-finance portfolios; ESG considerations in securitisation; interaction with the ECB, Banco de Portugal or rating agencies.
+• Strong analytical and problem-solving mindset.
+• Ability to interact effectively with senior stakeholders, including Executive Committee members and regulators.
+• High level of autonomy, ownership and accountability.
+• Structured, detail-oriented and improvement-focused approach.
+• Innovative mindset, with the ability to challenge existing processes and drive improvements.
+
+</details>
+
+<details>
+<summary><strong>ETF Investor Client Services Officer (H/F)</strong> · CACEIS · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
+
+- **Entreprise :** CACEIS
+- **Lieu :** DUBLIN, IRLANDE
+- **Indemnité :** 3 520,38 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le candidat possède un Master pertinent et une bonne maîtrise d'Excel, mais son expérience est axée sur le contrôle de gestion en entreprise (FP&A) plutôt que sur les opérations de marché et les services aux investisseurs (fonds, custody, ETF) requis pour ce poste en banque dépositaire.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247939](https://mon-vie-via.businessfrance.fr/offres/247939)
+
+**Description du poste**
+
+What is the opportunity?
+
+The ETF (Exchange-Traded Funds) Service Department develops investment solutions to 
+help clients reach their financial goals. This position will:
+
+•	Be a member of the ETF Business Line and be part of the operational teams interacting with Authorised Participants and Client Capital Market teams.
+•	Maintain strong cooperation with all the stakeholders of CACEIS to deliver operational 
+excellence and best-in-class solutions. 
+
+What will you do?
+
+ETF Operations
+•	Manage the end-to-end processing of ETF primary market creation and redemption orders, ensuring accuracy, timeliness and adherence to service level agreements.
+•	Prepare and calculate Primary Market Trading Components (PMTC/Actual Cost), including the review of component securities, quantities and pricing.
+•	Produce ETF cash confirmations.
+•	Knowledge of Portfolio Composition File (PCF) and its importance for ETFs (preferable but not mandatory) ETF issuance models (ICSD, ICSD+ and Local CSD) and settlement processes to support operational needs.
+•	Ensure all transactions are processed accurately and in accordance with internal controls, regulatory requirements and operational procedures.
+
+Client & Stakeholder Management
+•	Operational contact for Authorised Participants (APs), ETF issuers and Capital Markets teams.
+•	Build and maintain strong working relationships with internal and external stakeholders to deliver a high standard of client service.
+•	Investigate and resolve operational queries, exceptions and settlement issues in a timely manner.
+•	Involvement in operational and client service review meetings and support discussions relating to service enhancements and operational improvements.
+
+Operational Excellence
+•	Monitor operational quality, productivity and risk metrics.
+•	Ensure appropriate operational controls are followed.
+•	Identify opportunities to improve processes, reduce operational risk and enhance efficiency.
+
+Collaboration & Technical Expertise
+•	Share knowledge and best practice to support team capability and consistency.
+•	Collaborate effectively with cross-functional teams to deliver operational excellence and successful client outcomes.
+•	Contribute to projects
+
+**Profil recherché**
+
+What do you need to succeed?
+
+Qualifications and experience
+•	A master’s degree in relevant area 
+•	1+ years’ experience - Transfer Agency, Fund Accounting, Custody experience preferably with a leading ETF Service provider (Apprenticeship, internship and Work/Study placement included)
+•	Understanding of ETF Capital Market requirements (preferable but not mandatory)
+•	Knowledge of ETF funds services and processes (preferable but not mandatory)
+•	Self-starter 
+
+Technical skills
+•	Proficiency in Microsoft Excel and the Microsoft Office suite.
+•	Strong analytical and problem-solving skills
+
+Professional competencies
+•	Client-focused with a commitment to delivering exceptional service.
+•	Excellent interpersonal, communication and stakeholder management skills.
+•	Ability to build effective relationships and collaborate across teams and functions.
+•	Ability to manage competing deadlines.
+•	Self-motivated with the ability to work independently and use initiative.
+•	Results-driven with a continuous improvement mindset.
+
+Additional requirements
+•	Willingness to travel occasionally, primarily to Luxembourg and Paris, as business needs require.
+
+</details>
+
+<details>
+<summary><strong>AUDITOR - GENERAL INSPECTION (H/F)</strong> · CACEIS · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
+
+- **Entreprise :** CACEIS
+- **Lieu :** DUBLIN, IRLANDE
+- **Indemnité :** 3 520,38 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en termes de formation (Master en cours), de compétences financières et d'anglais courant. Cependant, l'offre relève de l'audit interne bancaire (Inspection Générale) alors que son expérience et ses aspirations se situent plutôt en contrôle de gestion et FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247936](https://mon-vie-via.businessfrance.fr/offres/247936)
+
+**Description du poste**
+
+Within CACEIS, the General Inspection function is an integral part of the internal control framework. General Inspection is a single business line bringing together teams based in Paris, Ireland, Luxembourg, Munich, Milan, Amsterdam, Kuala Lumpur and Madrid. It conducts periodic control missions within CACEIS. These missions aim to ensure that external and internal rules are complied with, to assess the level of risk management and operational effectiveness of processes within the Bank. General Inspection identifies areas for improvement and issues recommendations for action in the inspection report published at the end of each mission. It then monitors their complete and timely implementation throughout the year.
+
+In this context, the VIE will join the General Inspection team of CACEIS Bank Ireland Branch to carry out Group missions, working with a team junior and experienced staff located internationally (France, Ireland, Luxembourg, Germany, the Netherlands, Spain, Italy, Malaysia).
+
+Your missions
+You will be an integral part of the General Inspection team as a VIE and will contribute to missions carried out in Ireland and abroad, under the supervision of a lead inspector.
+
+You will be involved in the entire audit process, from the planning phase through to the issuance of the audit report. In this context, you will be in position to: 
+-	Participate and lead initial meetings with auditees to define the scope of work, performing investigation tests in line with internal audit methodologies, drafting documented reports and travels to other CACEIS locations abroad. 
+-	Contribute to the preparation of recommendations designed to strengthen the Bank’s internal control framework and to the follow up of these recommendations, ensuring that the risk mitigation measures identified during the missions are fully and timely implemented.
+-	Prepare Internal Audit reporting and related documentation for local management and relevant governance committees, supporting clear communication of key findings, risks and recommended actions.
+-	Support and lead discussion of the results with both auditees and the managers in a clear and convincing manner.
+-	Be part of the continuous audit monitoring process at local level, supporting the General Inspection team
+
+This role provides an opportunity to develop auditing expertise and risk management, through the application of the audit methodology to abroad range of business line and support functions across the bank, fostering specialized knowledge in areas such as asset servicing, IT, or banking regulation.
+
+**Profil recherché**
+
+What do you need to succeed?
+•	0-2 year's experience in Audit, Finance, Data
+•	Masters degree - specialising in audit, legal, law, finance, risk management
+•	Excellent English skills - Interact in written and spoken English with stakeholders within and/or outside the organisation
+•	Organized, methodical, rigorous, reliable and Team oriented
+•	High level of curiosity to gain first or further knowledge of audit techniques., self-confidence and assertiveness
+•	Ability to anticipate, own-initiative, and work under pressure
+•	Strong communication skills
+•	Willingness to travel
+•	In‑depth knowledge of advanced office software functionalities (e.g. macro development), particularly spreadsheets (Excel) or database managers (Access). SQL and/or Python knowledge is a plus.
+•	English and (French) required; a third language is a plus
+
+</details>
 
 <details>
 <summary><strong>Business Operations Analyst (H/F)</strong> · HEETCH · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
