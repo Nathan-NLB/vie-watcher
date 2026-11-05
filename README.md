@@ -8,11 +8,61 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/11/2026 10:16:19**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **05/11/2026 10:31:19**, 86 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Business Operations Analyst (H/F)</strong> · HEETCH · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** HEETCH
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil correspond très bien pour la localisation (Barcelone), les compétences en Excel, Power BI, le reporting et l'anglais courant, en plus de l'appétence du candidat pour l'Espagne. Cependant, l'offre requiert des compétences en SQL et une orientation purement Business Operations / Data Analysis, là où le profil de Nathan est davantage axé sur le contrôle de gestion pur et la finance.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247900](https://mon-vie-via.businessfrance.fr/offres/247900)
+
+**Description du poste**
+
+Heetch met en relation chauffeurs et passagers sur plusieurs marchés. Après une profonde restructuration, nous sommes aujourd’hui une petite équipe resserrée et agile, avec un seul objectif : remettre l’entreprise sur une trajectoire durable. Ce ne sera pas facile. Mais rares sont les endroits où vous pourrez avoir autant d’impact aussi tôt.
+
+Nos valeurs :
+
+Jouer collectif
+Faire bouger les choses (l’impact avant tout)
+Être bienveillant (nous sommes conscients des enjeux sociaux et nous nous écoutons les uns les autres)
+Penser différemment
+
+Vous serez notre référent(e) en Business Analysis et en données business. Vous serez rattaché(e) directement au CEO et serez le bras droit des General Managers, des Growth Managers et du/de la Head of Customer Service.
+
+Vous aurez un accès complet à nos données et la liberté de construire vos propres routines. Vos interlocuteurs vous feront part de leurs retours et de leurs intuitions. Votre mission sera d'aider à les transformer en problématiques qui comptent vraiment, de remonter jusqu’à la cause racine et d’élaborer des solutions avec les équipes concernées.
+
+Ce poste s’adresse à quelqu’un qui est à l’aise avec l’ambiguïté et qui veut voir son travail se refléter dans les résultats de l’entreprise. Et les sujets à améliorer ne manquent pas.
+
+Que ferez-vous ?
+
+Marketplace & pricing : suivre de près l’offre, la demande et la fiabilité, et d'aider à traduire vos observations en recommandations claires sur le pricing et les paramètres de la marketplace.
+Growth :aider à analyser en profondeur les funnels d’acquisition et la rétention, identifier les plus grosses opportunités et mesurer ce qui fonctionne, des nouvelles initiatives à nos actions récurrentes d’acquisition et de CRM.
+Service client : aider le/la Head of Customer Service à définir la stratégie et la roadmap projets, suivre les KPI, construire des dashboards et optimiser nos outils et automatisations.
+Trust & Safety : aider à suivre le comportement des chauffeurs et des passagers et son impact sur la marketplace, puis ajuster nos processus disciplinaires et nos automatisations pour maintenir l’équilibre.
+Automatisation : aider à automatiser des processus pour les équipes Growth, Produit et Service client, grâce à des workflows automatisés et des outils d’IA comme Claude.
+
+**Profil recherché**
+
+Vous parlez couramment français et anglais, et êtes éligible au VIE
+Vous êtes débrouillard(e) : quand vous êtes bloqué(e), vous trouvez une solution
+Vous êtes proactif(ve) : vous proposez des idées et vous les mettez en œuvre
+Vous aimez passer d’une requête SQL à un workflow Zendesk puis à un deck pour le CEO, le tout dans la même journée
+Vous maîtrisez Excel et SQL et êtes à l’aise avec les outils de data visualisation
+Vous utilisez l’IA au quotidien, et avec rigueur
+Vous restez calme et vous livrez, même dans l’incertitude
+
+Encore mieux si vous connaissez le secteur de la mobilité et que vous êtes un(e) utilisateur(rice) régulier(ère) de Heetch !
+
+</details>
 
 <details>
 <summary><strong>Contrôleur Financier junior (H/F)</strong> · COLAS RAIL · TORONTO, CANADA · 3 265,74 €/mois</summary>
