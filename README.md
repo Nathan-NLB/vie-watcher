@@ -8,11 +8,96 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/11/2026 16:15:49**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **05/11/2026 16:31:22**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE - Market Risk Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248001](https://mon-vie-via.businessfrance.fr/offres/248001)
+
+**Description du poste**
+
+Within the EC Risk, the EGM Market Risk Team is dedicated to the monitoring of EGM activities ensuring the compliance with regulated standards. The team is in charge of:   
+
+- Building risk frameworks aligned with EGM strategy. 
+- Providing comprehensive risk views and implement risk frameworks. 
+- Delivering regular risk analysis reports and suggest action plans. 
+- Reviewing and adjusting risk assessment frameworks. 
+- Ensuring adequacy with capital requirements 
+- Maintaining efficient relationships with supervision bodies (ACPR, external and internal auditors). 
+- Providing risk support to other Global Business Units of Engie 
+
+  
+Role: 
+
+ 
+
+On a daily basis, you will: 
+
+- Produce, certify and analyze the different risk indicators of EGM while monitoring and reporting the breaches, 
+- Produce detailed analysis on exposures evolutions, 
+- Challenge Front Office strategies 
+- Adress limits extension 
+- Work on ad-hoc projects to improve risk monitoring
+
+**Profil recherché**
+
+Hard Skills: 
+
+ 
+
+Understanding of financial derivatives, 
+
+Understanding of risk metrics (VaR , Stress Tests,…) 
+
+Proficiency in risk assessment modelling 
+
+Ability to code in Python 
+
+Knowledge of energy markets 
+
+ 
+
+Soft Skills: 
+
+ 
+
+Excellent communication skills, both written and verbally 
+
+Effective problem solving abilities 
+
+High integrity and ethical conduct 
+
+Team player 
+
+ 
+
+ 
+
+Education and professional background: 
+
+ 
+
+ Education level: Master degree 
+
+ 
+
+Language: 
+
+You are fluent in English; 
+
+French or Dutch is a plus
+
+</details>
 
 <details>
 <summary><strong>RISK OVERSIGHT (H/F)</strong> · STELLANTIS BANK · VIENNE, AUTRICHE · 3 024,47 €/mois</summary>
@@ -64,6 +149,51 @@ Experience in audit, risk, operational risk management or control is an advantag
 Experience with data analysis, business intelligence tools, or reporting solutions (e.g., Power BI)
 Interest in process improvement, automation and system development
 Knowledge of banking, lending, or financial services is beneficial but not essential
+
+</details>
+
+<details>
+<summary><strong>Compliance Officer (H/F)</strong> · CA INDOSUEZ · GENEVE, SUISSE · 4 157,65 €/mois</summary>
+
+- **Entreprise :** CA INDOSUEZ
+- **Lieu :** GENEVE, SUISSE
+- **Indemnité :** 4 157,65 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 05/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247995](https://mon-vie-via.businessfrance.fr/offres/247995)
+
+**Description du poste**
+
+Dans le cadre des activités Banque Privée de notre Banque, le VIE sera intégré au sein du département Compliance dans le pôle Regulatory et aura les principales responsabilités suivantes :
+
+
+- Développer les outils informatiques (via les codes VBA, python, ...) pour extraire les informations nécessaires de l'outil WeComply afin d’effectuer les contrôles de niveau compliance ;
+- Maintenir les dashboards nécessaires pour le suivi de Wecomply ;
+- Effectuer les contrôles liés à la gestion des conflits d'intérêts concernant la déontologie des collaborateurs (cadeaux, mandats, comptes titres, transactions personnelles, ...) ;
+- Effectuer les contrôles liés aux abus de marchés et maintenir à jour le dashboard ;
+- Participer aux formations nécessaires liées aux abus de marché et à la déontologie des collaborateurs.
+
+**Profil recherché**
+
+Niveau d'études minimum
+Bac + 5 / M2 et plus
+Formation / Spécialisation
+Formation universitaire ou Grande école de Commerce de préférence avec une spécialisation en droit bancaire et financier, économie ou finance. 
+
+Niveau d'expérience minimum
+0 - 2 ans
+Expérience
+Expérience en Compliance et/ou Audit, un plus
+
+Compétences recherchées
+Capacité d’analyse, flexibilité, rigueur, fiabilité, intègre, proactivité, sens de l’alerte et de la communication, esprit de synthèse, bonne gestion du stress, organisé, esprit d’équipe, autonomie.
+
+
+Outils informatiques
+Connaissances bureautiques (Excel/Access/VBA/SQL) et gestion de bases de données un plus.
+
+Langues
+Français et Anglais. Espagnol et/ou Portugais un plus.
 
 </details>
 
