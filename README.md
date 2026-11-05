@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/11/2026 04:01:09**, 86 offre(s) actuellement en ligne.
+Dernière vérification : **05/11/2026 04:15:42**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4664,61 +4664,6 @@ Cette mission offre une forte exposition internationale et l'opportunité de con
 Diplômé(e) d'une formation supérieure en comptabilité, finance, contrôle de gestion ou équivalent, le/la candidat(e) justifie d'une première expérience réussie en environnement administratif, comptable ou financier.
 Rigoureux(se), autonome et doté(e) d'un bon esprit d'analyse, il/elle est capable d'évoluer dans un environnement international et multiculturel.
 Une excellente maîtrise du français et un bon niveau d'anglais sont indispensables. La connaissance d'un ERP, idéalement Odoo, constitue un atout.
-
-</details>
-
-<details>
-<summary><strong>Analyste en économie et modélisation financière (H/F) – Émirats Arabes Unis, Dubaï</strong> · TOTALENERGIES SE · DUBAI, EMIRATS ARABES UNIS · 2 641,75 €/mois</summary>
-
-- **Entreprise :** TOTALENERGIES SE
-- **Lieu :** DUBAI, EMIRATS ARABES UNIS
-- **Indemnité :** 2 641,75 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 05/10/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes financières et aux compétences en modélisation Excel demandées par TotalEnergies. Cependant, l'offre exige un niveau d'anglais C1 (contre 925 TOEIC) et se situe aux Émirats Arabes Unis, alors que le candidat cible plutôt l'Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246663](https://mon-vie-via.businessfrance.fr/offres/246663)
-
-**Description du poste**
-
-Rejoignez la branche Gas, Renewables & Power (GRP) de TotalEnergies et contribuez au développement de projets énergétiques à forte valeur ajoutée.  
-
-Directement intégré à la nouvelle équipe Economics basée à Dubaï, vous participez à l'évaluation économique et financière des projets renouvelables de la Compagnie au Moyen-Orient.  
-
-Merci de candidater en anglais.  
-
-Le logement sera fourni par la filiale.   
-
-
-Dans le cadre de cette mission, vous consacrez environ 70 % de votre temps à des activités de modélisation financière et d'analyse de projets, et 30 % à des sujets d'économie de projet, de planification long terme et de support aux processus budgétaires. 
-
-Vos principales missions : 
-- Construire et mettre à jour des modèles financiers pour les projets renouvelables.  
-- Réaliser des analyses de sensibilité et différents scénarios économiques.  
-- Collecter et consolider les hypothèses auprès des équipes projets.  
-- Vérifier la cohérence et la fiabilité des modèles financiers.  
-- Analyser les résultats financiers et formuler des recommandations.  
-- Préparer les présentations destinées aux comités décisionnaires.  
-- Accompagner les équipes Business Development et Structured Finance.  
-- Participer aux exercices de budget et de planification long terme.  
-- Contribuer à l'amélioration continue des modèles et bonnes pratiques.
-
-**Profil recherché**
-
-Vous êtes diplômé d’un Bac+5 minimum (école de commerce ou formation universitaire) avec une spécialisation en finance ou en économie. Un diplôme d'ingénieur avec une spécialisation ou une exposition à la finance pourra également être considéré. 
-
-Vous disposez d’une première expérience en modélisation financière ou en analyse financière, acquise à travers une expérience professionnelle, un stage ou une alternance. 
-
-Vous maîtrisez les outils suivants : 
-- Excel (niveau avancé) ; 
-- Power Point. 
-
-La connaissance de VBA constitue un atout.  
-
-Un niveau d'anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.  
-
-
-POURQUOI NOUS REJOINDRE 
-La branche Gas, Renewables & Power (GRP) de TotalEnergies regroupe la production d’électricité, son stockage, son négoce ainsi que sa distribution. Elle couvre aussi l’ensemble de la chaîne du gaz et du gaz naturel liquéfié (GNL), et développe les activités biogaz et hydrogène. Avec environ 10 000 collaborateurs dans plus de 50 pays, la branche GRP est un pilier majeur de la transition énergétique de la Compagnie. Son objectif : construire un modèle intégré de l’électricité, notamment renouvelable, tout en garantissant l’approvisionnement en gaz dont le monde a besoin aujourd’hui.
 
 </details>
 
