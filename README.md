@@ -8,11 +8,74 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/11/2026 17:15:58**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **05/11/2026 17:31:06**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE Contrôleur financier H/F – Emirats Arabes Unis (H/F)</strong> · TOTALENERGIES SE · DUBAI, EMIRATS ARABES UNIS · 2 641,75 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES SE
+- **Lieu :** DUBAI, EMIRATS ARABES UNIS
+- **Indemnité :** 2 641,75 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 05/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248004](https://mon-vie-via.businessfrance.fr/offres/248004)
+
+**Description du poste**
+
+Directement intégré à la filiale de TotalEnergies GRP aux Émirats arabes unis, à Dubaï, vos principales responsabilités sont de contribuer au pilotage de la performance financière, de participer aux exercices budgétaires et d'accompagner la production d'analyses financières nécessaires à la prise de décision.
+
+L'entité développe les activités renouvelables de TotalEnergies au Moyen-Orient depuis Dubaï. Vous travaillez en étroite collaboration avec l'équipe finance et les équipes opérationnelles sur deux business units.
+
+Vérifiez votre éligibilité au programme VIE ainsi que les spécificités pays sur le site internet https://mon-vie-via.businessfrance.fr/qu-est-ce-que-le-volontariat-international.
+
+Merci de candidater en anglais.
+
+Le logement sera fourni par la filiale.
+Vos principales missions :
+
+Participer aux clôtures mensuelles et à la préparation des provisions.
+Analyser les écarts entre le réalisé, le budget et les prévisions.
+Contribuer à la préparation des reforecasts financiers.
+Participer à l'élaboration du budget annuel et du plan à long terme.
+Recueillir et consolider les hypothèses auprès des équipes opérationnelles.
+Préparer les comptes de résultat prévisionnels.
+Élaborer les supports de présentation destinés au management et au COMEX.
+Réaliser des extractions et des saisies dans les outils de reporting.
+Répondre à des demandes d'analyses financières ponctuelles.
+Contribuer à l'automatisation des reportings et tableaux de bord financiers.
+
+**Profil recherché**
+
+Diplômé d'un Bac+5 minimum école de commerce ou université dans le domaine de la finance, contrôle de gestion, comptabilité ou domaine équivalent.
+
+Vous bénéficiez d'une première expérience en finance, contrôle de gestion, audit ou comptabilité. Une alternance ou des stages significatifs constituent également une base pertinente.
+
+Vous disposez de compétences en :
+
+Contrôle de gestion ;
+Analyse financière ;
+Budget et forecast ;
+Reporting de performance ;
+Comptabilité et provisions.
+Vous maîtrisez les outils du Pack Office, notamment :
+
+Excel avancé ;
+PowerPoint.
+La connaissance d'un ERP tel que SAP ou MBC sera fortement appréciée.
+
+La connaissance de Power BI constitue un atout.
+
+Un niveau d'anglais B2 minimum est requis. Un niveau de français C1 minimum est également demandé.
+
+
+
+La branche Gas, Renewables & Power (GRP) de TotalEnergies regroupe la production d’électricité, son stockage, son négoce ainsi que sa distribution. Elle couvre aussi l’ensemble de la chaîne du gaz et du gaz naturel liquéfié (GNL), et développe les activités biogaz et hydrogène. Avec environ 10 000 collaborateurs dans plus de 50 pays, la branche GRP est un pilier majeur de la transition énergétique de la Compagnie. Son objectif : construire un modèle intégré de l’électricité, notamment renouvelable, tout en garantissant l’approvisionnement en gaz dont le monde a besoin aujourd’hui.
+
+</details>
 
 <details>
 <summary><strong>VIE - Market Risk Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
