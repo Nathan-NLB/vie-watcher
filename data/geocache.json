@@ -622,5 +622,9 @@
     "lon": 46.7160104
   },
   "entreprise|heetch|barcelone|espagne": null,
-  "entreprise|ca consumer finance|lisbonne|portugal": null
+  "entreprise|ca consumer finance|lisbonne|portugal": null,
+  "entreprise|stellantis bank|vienne|autriche": {
+    "lat": 48.1832221,
+    "lon": 16.3200188
+  }
 }

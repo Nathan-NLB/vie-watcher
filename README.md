@@ -8,11 +8,64 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/11/2026 14:45:44**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **05/11/2026 15:02:06**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>RISK OVERSIGHT (H/F)</strong> · STELLANTIS BANK · VIENNE, AUTRICHE · 3 024,47 €/mois</summary>
+
+- **Entreprise :** STELLANTIS BANK
+- **Lieu :** VIENNE, AUTRICHE
+- **Indemnité :** 3 024,47 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 05/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247997](https://mon-vie-via.businessfrance.fr/offres/247997)
+
+**Description du poste**
+
+Description of the mission
+
+Risk Oversight is responsible for operational risk management and control in Stellantis Financial Services in Germany and Austria. It acts as second line of defense (LoD2) on the operational risk management and permanent control framework. It coordinates maintenance of operational risk framework among different stakeholders within Stellantis Financial Services and the BNPP group.
+
+The main team’s responsibilities encompass definition of the general framework, advisory and support of its implementation at the first line of defense (LoD1) and oversight via dedicated governance bodies. The team provides independent challenge of the LoD1 control framework, risk mitigants and self-assessment of risks and controls (RCSA). The team also assures accurance of information shared by LoD1 and reported to supervisory bodies. 
+
+
+
+Key Responsibilities
+
+Assist in the preparation of regular or ad-hoc reports for local committees
+Regular monitoring of LoD1 processes - control execution, action plans execution, operational incidents gathering
+Developing operational risk KPIs and Tableaus
+Improve efficiency of team's processes and coordination with stakeholders
+Independent testing of LoD1 control framework
+challenge of accurrance of action plans and operational incidents
+Location is flexible: Neu-Isenburg, Potsdam, Vienna
+
+**Profil recherché**
+
+Your Profile
+Required Qualifications
+
+Bachelor's degree in Finance, Economics, Business Administration, Risk Management, Data Analytics, Information Systems, or a related field
+Strong analytical and problem-solving skills with an interest in financial services and risk management
+Critical thinking and ability to challenge status-quo
+Excellent written and verbal communication skills in English
+Ability to work effectively in an international and multicultural environment
+Self-starter, able to operate independently as well as a team
+Knowledge in Microsoft Office applications, particularly Excel and PowerPoint
+Ability to actively handle multiple deliverables and changing priorities
+Preferred Qualifications
+
+German language skills are an advantage
+Experience in audit, risk, operational risk management or control is an advantage
+Experience with data analysis, business intelligence tools, or reporting solutions (e.g., Power BI)
+Interest in process improvement, automation and system development
+Knowledge of banking, lending, or financial services is beneficial but not essential
+
+</details>
 
 <details>
 <summary><strong>VIE ALM / STRUCTURED FUNDING SPECIALIST (H/F)</strong> · CA CONSUMER FINANCE · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
