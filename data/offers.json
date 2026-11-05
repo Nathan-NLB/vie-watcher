@@ -402,51 +402,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "10",
-      "109",
-      "181",
-      "246",
-      "326",
-      "348"
+      "[\"10\",\"109\",\"181\",\"246\",\"326\",\"348\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "10",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit Général",
-        "specializationLabelEn": "General Law"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "181",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit Bancaire",
-        "specializationLabelEn": "Banking Law"
-      },
-      {
-        "specializationId": "246",
-        "specializationParentId": "24",
-        "specializationLabel": "Cybersecurité - protection des données",
-        "specializationLabelEn": "IT security"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      },
-      {
-        "specializationId": "348",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit de l'innovation - technologies - numérique",
-        "specializationLabelEn": "Droit de l'innovation - technologies - numérique"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Ce que vous allez vivre chez ICM Life\r\nFiliale des Assurances du Crédit Mutuel, ICM Life se spécialise dans les solutions d’assurance-vie sur-mesure pour une clientèle internationale, tirant parti de l’attractivité du Luxembourg. Son modèle repose sur des contrats en unités de compte et fonds en euros, distribués via les réseaux bancaires du groupe Crédit Mutuel Alliance Fédérale.\r\nLe Luxembourg, 2ᵉ marché mondial de l’assurance-vie, offre un cadre idéal : conformité stricte, flexibilité produit et clientèle diversifiée. ICM Life mise sur l’innovation et l’expertise réglementaire pour répondre aux enjeux transfrontaliers.\r\nPour un VIE, c’est l’occasion de maîtriser les mécanismes de l’assurance-vie internationale, travailler avec des experts en produits d’assurance et conformité, et contribuer à des projets structurants dans un environnement dynamique. Un tremplin pour allier assurance, challenge et dimension internationale.\r\n\r\nAu cours de votre contrat VIE\r\nVous développerez vos connaissances et votre expertise des métiers du contrôle et de la sécurité financière dans la branche de l’assurance. \r\nVous intégrerez une entreprise à taille humaine membre d’un groupe international fort, offrant des perspectives de carrière. \r\nCette expérience vous permettra de gagner en autonomie, sur des sujets complexes en lien avec le Commissariat aux Assurances, sous la supervision directe du Directeur. \r\nA l’issue de votre VIE, vous serez aurez développé une expertise sur les sujets de conformité et réglementaires, et disposerez d’une solide compréhension des enjeux de l’assurance vie. \r\n\r\nVotre mission\r\nDirectement rattaché au dirigeant vous serez amené·e à : \r\nActualiser les procédures de contrôle interne (souscription, gestion des sinistres) et les cartographies de risques.\r\nParticiper à la préparation des audits (collecte de preuves, analyse des écarts) et suivre les plans d’action correctifs.\r\nMettre à jour le registre des traitements RGPD et vérifier la conformité des clauses contractuelles.\r\nTraiter les demandes d’exercice de droits (accès, rectification, effacement) et contribuer aux analyses d’impact.\r\nCartographier les risques cyber pour la conformité DORA.\r\nParticiper aux tests de résilience et documenter les procédures d’incident.\r\nSuivre les évolutions réglementaires et adapter les processus en conséquence.\r\nParticiper à la gestion des tâches courantes de l’entreprise.\r\nÉlaborer des tableaux de bord pour le suivi des non-conformités et des actions correctives.\r\nSensibiliser les équipes aux bonnes pratiques (RGPD, cybersécurité, contrôle interne)",
     "creationDate": "2026-11-02T10:33:53Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1340,16 +1298,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans un contexte de transformation et de digitalisation de la fonction Finance, vous contribuerez activement à l'amélioration des outils de pilotage, des processus financiers et du contrôle de gestion au sein de la zone Allemagne / Autriche.\nRattaché(e) au Directeur Administratif et Financier, vous accompagnerez les équipes Finance et Opérations dans l'exploitation des nouveaux outils issus du déploiement de SAP et participerez à l'harmonisation des processus de reporting et de contrôle de gestion.\nUne attention particulière sera portée au développement de nouveaux dashboards de pilotage, à l'amélioration de la qualité des données et au renforcement du contrôle de gestion industriel, notamment dans le cadre de la mise en place du module SAP PS (Project System) sur le site de production de Modulan.\nCette mission s'inscrit dans la continuité des activités de reporting, de business controlling et d'amélioration du contrôle interne.\nPRINCIPALES ACTIVITES : \n1. Digitalisation Finance & Business Intelligence\n· Accompagner la transformation digitale du département Finance.\n· Concevoir et déployer de nouveaux dashboards et outils de pilotage à partir des données SAP.\n· Participer à l'évolution et à l'optimisation des reportings financiers et opérationnels.\n· Contribuer à l'amélioration de la qualité, de la disponibilité et de la fiabilité des données.\n· Accompagner les utilisateurs dans l'adoption des nouveaux outils et indicateurs de performance.\n2. Contrôle de gestion & Performance\n· Participer aux clôtures mensuelles et à l'analyse de la performance économique.\n· Accompagner les équipes dans le pilotage économique des activités.\n· Contribuer à l'harmonisation des méthodes de calcul et des processus de contrôle de gestion entre les différentes entités de la zone.\n· Développer des analyses permettant d'améliorer le pilotage de la rentabilité et des activités opérationnelles.\n· Identifier des opportunités d'amélioration de la performance et être force de proposition.\n3. Audit interne – Contrôle interne\n· Contribution à l’amélioration des dispositifs de Contrôle Interne\n· Participation au processus annuel d’auto-évaluation\n· Assurer le suivi des plans d'actions associés.",
     "creationDate": "2026-10-29T15:47:09Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1410,16 +1361,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "322"
+      "[\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À propos de Sibelco\r\n\r\nSibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.\r\n\r\nDans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.\r\n\r\nRejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.\r\n\r\nMission:\r\n\r\nLe/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. \r\nIl/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. \r\nEn interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. \r\nCette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.",
     "creationDate": "2026-10-19T13:15:35Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1550,23 +1494,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8"
+      "[\"5\",\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Contexte de la mission : \r\nWinwin Afrique est une entreprise qui fait  du sport et de la culture des leviers pour le développement économique et social en Afrique.  \r\nEn Côte d’Ivoire, nous opérons pour le compte du gouvernement, dans le cadre d’un contrat de coopération franco-ivoirien, un projet développement d’infrastructures socio sportives qui se présente autour de 3 grands axes :\r\n- Un programme de construction qui vise à bâtir des complexes sportifs multifonctionnels sur 91 communes réparties sur tout le pays.\r\n- Un programme de développement autour des thématiques de la santé, de l’innovation sociale et du développement durable où les acteurs locaux, associations et ONG sont appelés à animer les espaces qui leur sont réservés\r\n- Un système d’exploitation autonome qui développe des activités génératrices de revenus. \r\n\r\nLe premier centre a été inauguré en 2019, à Abidjan sur la commune de Koumassi, par le Président Macron et le vice-président Duncan avec de nombreuses autorités françaises et ivoiriennes. Trois autres complexes ont été inaugurés en 2024. Les AGORAS sont exploitées par notre filiale ivoirienne, Ivoire AGORA. \r\n\r\n4 autres complexes sortiront de terre entre décembre 2026 et avril 2027. L’entreprise doublera de taille durant cette période passant de 80 à plus de 120 collaborateurs. Pour poursuivre la montée en puissance du programme et structurer l’organisation et le fonctionnement commun de ces AGORAS, WWA recherche un.e auditeur chargé du contrôle de gestion, des modèles économiques et du suivi des financements.\r\n\r\n\r\n\r\n\r\nMissions principales\r\n\r\n\r\nAudit et de contrôle et de gestion :\r\n\r\n- Analyser les processus administratifs et financiers existants.\r\n- Optimiser les procédures et outils existants  (doublement des sites en exploitation / développement sur toute la Côte d’Ivoire)  \r\n- Contrôle budgétaire \r\n- Suivi des indicateurs de performance sur chacun des sites (de 4 à 8 en 2026, puis 11 en 2027).\r\n- Mise en place et formation des équipes d’audit et de contrôle de gestion \r\n\r\n\r\nDéveloppement du modèle économique \r\n- Stratégie de développement des revenus et ressources des AGORAS \r\n- Suivi et développement des investissements et des partenariats \r\n\r\nReporting et suivi des financements :\r\n- Consolidation des données administratives et financières pour alimenter les rapports destinés au Trésor/ Bercy et aux partenaires.\r\n- Ouverture à  des modèles de financement complémentaires pour la construction d’une nouvelle tranche de 10 AGORAS",
     "creationDate": "2026-10-29T08:52:36Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -2334,16 +2264,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We seek an ambitious, motivated and driven young graduate eager to gain a fundamental understanding of equity research during a 12 month assignment, intended to be prolonged to 24 months. This is an opportunity to join Austria's #1 Extel rated equity team and become part of ODDO BHF's growing equity platform.\n\nYour tasks will include:\n\n- Working on a wide range of equity research projects across various sectors\n- Support of analysts in the production of equity research reports and presentations\n- Compilation and presentation of company and sector specific data as well as competitor analysis\n- Financial modelling and perform corporate valuations\n- Interaction with Management and Investor Relations\n- Contribute to sustaining existing client relationships with the objective of ensuring strong relationships\n- Provide general administrative support to the research team",
     "creationDate": "2026-10-26T13:43:38Z",
     "missionStartDate": "2027-02-01T00:00:00",
