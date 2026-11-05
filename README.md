@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **05/11/2026 18:15:48**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **05/11/2026 18:31:14**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -257,6 +257,35 @@ Connaissances bureautiques (Excel/Access/VBA/SQL) et gestion de bases de donnée
 
 Langues
 Français et Anglais. Espagnol et/ou Portugais un plus.
+
+</details>
+
+<details>
+<summary><strong>Analyste Senior - Brand Integration (H/F)</strong> · PERNOD RICARD · MEXICO, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** PERNOD RICARD
+- **Lieu :** MEXICO, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 05/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil correspond bien aux exigences académiques (Master) et techniques du poste avec une forte maîtrise financière, d'Excel et de l'anglais. Cependant, le candidat a 2 ans d'expérience au lieu des 3 ans requis, et le poste est basé au Mexique alors que le candidat cible plutôt l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247986](https://mon-vie-via.businessfrance.fr/offres/247986)
+
+**Description du poste**
+
+Intégration des marques partenaires dans les méthodes de travail de House of Tequila : intégration des entités contrôlées dans les processus de reporting, dans JDE et dans le dispositif de contrôle interne ; suivi de la performance ; suivi de la performance des entités non consolidées à travers la revue des situations financières mensuelles et des prévisions (forecasting) ; participation active aux conseils d’administration et rôle de liaison clé avec les sociétés partenaires.
+
+**Profil recherché**
+
+- Vous êtes titulaire d’un diplôme de niveau Master (Bac+5) en sciences de gestion et/ou en ingénierie, ou d’une formation équivalente.
+- Vous justifiez d’au moins 3 ans d’expérience en finance, stratégie de marque ou conseil, idéalement dans le secteur des biens de grande consommation (FMCG), avec une expérience de collaboration avec les équipes commerciales et marketing.
+
+* Vous êtes un professionnel expérimenté disposant de solides connaissances en finance, business et stratégie.
+* Vous excellez dans l’analyse de données et avez une vision globale des enjeux business. Vous savez identifier les principaux leviers de performance et formuler des recommandations pertinentes à travers une communication financière claire et impactante.
+* Vous êtes autonome tout en appréciant le travail en équipe et le rôle de business partner. Vous savez influencer, collaborer et communiquer efficacement dans un environnement transverse, afin de fédérer les différentes parties prenantes, y compris les membres de la direction.
+* Vous avez un état d’esprit positif et dynamique. Vous appréciez la gestion de plusieurs projets en parallèle et savez identifier de manière proactive les enjeux business et contribuer à la mise en œuvre de solutions adaptées.
+* Vous maîtrisez Excel et PowerPoint. Une expérience en analyse de données et création de tableaux de bord (Power BI) constitue un atout.
+* Vous maîtrisez couramment l’anglais et l’espagnol et disposez d’excellentes capacités de communication pour évoluer dans un environnement international et multiculturel.
 
 </details>
 
