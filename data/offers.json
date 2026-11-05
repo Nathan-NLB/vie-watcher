@@ -1102,23 +1102,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9"
+      "[\"8\",\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Votre quotidien à nos côtés ?\r\n\r\nLa société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Responsable Administratif et Financier en VIE.\r\nRattaché à Thomas, Directeur d’Agence, votre objectif est d’accompagner l’agence dans sa gestion administrative et financière. Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international.\r\nVotre poste est basé à George Town, Guyana.\r\n\r\n\r\nVos missions clés consisteront notamment à : \r\n•\tGestion administrative et financière des filiales Friedlander et Friedlander Energie Guyana, en collaboration avec les services du Siège\r\n•\tParticiper Révision de la comptabilité Générale et analytique \r\n•\tPréparer Clôture mensuelle de gestion et reporting\r\n•\tParticiper à la Clôture Trimestrielle Comptable\r\n•\tS’assurer du Contrôle du respect des procédures Groupe\r\n•\tContribuer au suivi de Gestion de la trésorerie\r\n•\tAccompagnement de la croissance & structuration interne\r\n•\tSoutien au support des relations avec les conseils fiscaux, comptables\r\n\r\n\r\nCes missions n’ont pas de secret pour vous ? Nous vous offrons les outils et les moyens à la hauteur de vos ambitions !\r\nUne intégration personnalisée avec Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international durant 2 semaines au sein du siège, à Aix-En-Provence. Tous deux vous formeront sur les process, les outils, le périmètre et ses spécificités et effectuerons un suivi de l’intégration en local.\r\nIl ne manque plus que vous - pour apporter votre contribution personnelle - à cette belle organisation.\r\n\r\nRegardons un peu plus loin, quel futur ?  \r\nChez Ortec, nous considérons que chaque collaborateur doit pouvoir déployer son talent et ses compétences, et donner du sens à son poste. Plus tard, cela se traduit aussi par des opportunités au sein de la Direction Administrative Financière ou dans l’équipe de Direction d’une agence d’exploitation.",
     "creationDate": "2026-09-23T09:11:37Z",
     "missionStartDate": "2027-04-01T00:00:00",
@@ -1263,16 +1249,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "205"
+      "[\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Poste et missions:\n\no Elaborer et actualiser les budgets de la filiale et du contrat de maintenance en cours\no Analyser et expliquer les écarts budgétaires\no Animer les suivis budgétaires auprès des opérationnels\no Elaborer les prévisions de Chiffre d’affaires et de trésorerie\no Superviser et contrôler les clôtures comptables\no Vérifier les imputations analytiques\no Déterminer les charges à recevoir, les reprises de provisions, et la reconnaissance du CA\no Préparer les reporting mensuels de gestion\no Préparer les éléments de la facturation\no Suivre l’avancement des commandes achats en cours\no Préparer et consolider les pointages personnels\no Assurer le suivi des levées de caution\no Participer aux chiffrages des offres commerciales\no Participer aux travaux d’audit\no Contribuer à l’amélioration des outils de suivi budgétaire\no Diverses études Ad hoc",
     "creationDate": "2026-08-04T13:53:31Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3188,58 +3167,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "199",
-      "200",
-      "201",
-      "205"
+      "[\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Rejoignez-nous et boostez votre carrière !\n\nNous recrutons un **Contrôleur de Gestion Opérationnel International** pour renforcer notre équipe au siège situé à Madrid. Dans ce rôle stratégique, vous travaillerez en étroite collaboration avec nos équipes locales et internationales pour soutenir la croissance continue du groupe. Vous aurez l'opportunité de déployer des outils de gestion et de contrôle pour plusieurs périmètres internationaux dans un environnement dynamique et en constante évolution.\n\nVotre mission : Contribuer à l’expansion internationale du groupe !\n\nEn tant que Contrôleur de Gestion Opérationnel International, vos principales missions seront :\n\n- Participer à l’élaboration des KPIs hebdomadaires pour différents pays et régions.\n- Créer et déployer des tableaux de bord pour mesurer la performance dans de nouveaux marchés internationaux.\n- Rédiger et formaliser des processus opérationnels afin d'optimiser les performances des équipes.\n- Déployer et administrer notre CRM dans de nouveaux périmètres internationaux.\n- Fournir un support, accompagnement et formation aux équipes locales dans différents pays.\n- Réaliser des analyses et contrôles divers sur les performances internationales et proposer des solutions d’amélioration.\n\nCe que nous offrons :\n\n- Un rôle stratégique, avec une forte exposition internationale.\n- Un environnement innovant et stimulant, au sein d’un groupe en pleine croissance.\n- Des possibilités d’évolution rapide dans un contexte de forte dynamique.\n\nNotre entreprise est un acteur majeur dans son secteur, avec une présence internationale croissante. Nous sommes en forte expansion et recherchons des talents pour accompagner cette croissance.",
     "creationDate": "2026-10-19T12:10:10Z",
     "missionStartDate": "2027-01-01T00:00:00",
