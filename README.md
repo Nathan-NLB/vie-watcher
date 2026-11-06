@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **07/11/2026 00:01:12**, 95 offre(s) actuellement en ligne.
+Dernière vérification : **07/11/2026 00:15:42**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5098,67 +5098,6 @@ Apply by attaching your updated CV, regardless of your gender.
 ENGIE Supply & Energy Management is committed to creating a gender-neutral environment that unlocks the potential of everyone and provides equal employment opportunities for all individuals. 
  
 All our positions are open to people with disabilities, please let your recruiter know if you need reasonable accommodation to be able to take part in the recruitment process, they will be happy to assist you.
-
-</details>
-
-<details>
-<summary><strong>Analyste Risk & Financial Control (H/F)</strong> · AMETHIS ADVISORY · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
-
-- **Entreprise :** AMETHIS ADVISORY
-- **Lieu :** LUXEMBOURG, LUXEMBOURG
-- **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
-- **Publiée le :** 07/10/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil correspond bien par la formation financière de niveau Master, la maîtrise d'Excel et un bon niveau d'anglais. Cependant, l'offre est axée sur la gestion des risques, la conformité et l'administration de fonds d'investissement au Luxembourg, ce qui s'éloigne légèrement du parcours purement contrôle de gestion et FP&A recherché par le candidat.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246796](https://mon-vie-via.businessfrance.fr/offres/246796)
-
-**Description du poste**
-
-I – Description du groupe Amethis
-Le groupe Amethis est un gestionnaire de fonds d’investissement dédié au continent africain & la région MENA. Amethis investit en capital-développement dans des entreprises en forte croissance dans une diversité de secteurs. Amethis a investi dans des sociétés présentes dans plus de 20 pays et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.
-
-II – Contexte AIFM (Aspect règlementaire)
-Amethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissement alternatifs (GFIA). Créée en 2017, elle est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg.
-
-III – Rôle / Mission
-Le poste sera rattaché au Finance & Risk Manager, avec une exposition régulière au comité exécutif de l’AIFM, aux équipes d’investissement, aux investisseurs, aux auditeurs et aux prestataires des fonds.
-Missions principales :
-Risk Management
-Investment process : rédaction des notes de risque pour chaque opération présentée en comité d’investissement, puis suivi du risque de chaque participation jusqu’à la sortie.
-Conformité et limites : contrôle ex ante et ex post de la conformité des opérations aux documents des fonds (PPM, LPA) et aux limites de risque (concentration pays, secteur et émetteur, devise, levier, liquidité).
-Risk Report : élaboration du Risk Report semestriel couvrant l’ensemble des fonds, et des supports risk présentés au comité exécutif et au Conseil d’administration de l’AIFM.
-Réglementaire : contribution aux reportings réglementaires.
-
-Fund administration
-
-Opérations des fonds : préparation des appels de fonds et des distributions (calculs par investisseur, notices, suivi des encaissements).
-NAV et performance : revue des NAV trimestrielles produites par l’administrateur et suivi des indicateurs de performance (TVPI, DPI, TRI).
-Reporting investisseurs : préparation du reporting trimestriel aux investisseurs et réponses à leurs demandes ponctuelles.
-Trésorerie : suivi de la trésorerie des fonds et des prévisions de cash.
-Prestataires : coordination avec l’administrateur, le dépositaire, les banques et les auditeurs ; participation à l’audit annuel des fonds.
-Aide au développements d’outils internes de pilotage de la performance financière / digitalisation / cost monitoring.
-
-Corporate scope
-Arrêtés trimestriels : appui à l’arrêté des entités du groupe (AIFM, GP, holdings et bureaux de Paris, Luxembourg, Casablanca, Nairobi, Abidjan, Le Caire et Le Cap).
-Pilotage : suivi du cash, des budgets et des atterrissages, avec analyse des écarts.
-Intragroupe : suivi des refacturations intragroupe et appui aux audits des sociétés du groupe.
-
-**Profil recherché**
-
-•
-Bac+5 (école de commerce, d’ingénieur ou master universitaire) en finance, audit ou gestion des risques, une première expérience en audit, en gestion des risques, en administration de fonds ou en private equity est un plus.
-•
-Bonne maîtrise des états financiers et des principes comptables.
-•
-Français et anglais courants, à l’écrit comme à l’oral.
-•
-Rigueur, sens du détail et esprit méthodique ; capacité à mener plusieurs sujets dans un environnement évolutif.
-•
-Autonomie, sens de l’initiative et discrétion sur des données confidentielles.
-•
-Bon relationnel, esprit d’équipe et intérêt pour le private equity en Afrique et dans la région MENA.
-•
-Maitrise du Pack office (Excel, Word, PowerPoint).
 
 </details>
 
