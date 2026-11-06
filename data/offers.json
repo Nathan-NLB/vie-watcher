@@ -360,16 +360,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Description of the mission\n\nRisk Oversight is responsible for operational risk management and control in Stellantis Financial Services in Germany and Austria. It acts as second line of defense (LoD2) on the operational risk management and permanent control framework. It coordinates maintenance of operational risk framework among different stakeholders within Stellantis Financial Services and the BNPP group.\n\nThe main team’s responsibilities encompass definition of the general framework, advisory and support of its implementation at the first line of defense (LoD1) and oversight via dedicated governance bodies. The team provides independent challenge of the LoD1 control framework, risk mitigants and self-assessment of risks and controls (RCSA). The team also assures accurance of information shared by LoD1 and reported to supervisory bodies. \n\n\n\nKey Responsibilities\n\nAssist in the preparation of regular or ad-hoc reports for local committees\nRegular monitoring of LoD1 processes - control execution, action plans execution, operational incidents gathering\nDeveloping operational risk KPIs and Tableaus\nImprove efficiency of team's processes and coordination with stakeholders\nIndependent testing of LoD1 control framework\nchallenge of accurrance of action plans and operational incidents\nLocation is flexible: Neu-Isenburg, Potsdam, Vienna",
     "creationDate": "2026-11-05T13:35:53Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -843,44 +836,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "17",
-      "21",
-      "320",
-      "327"
+      "[\"6\",\"17\",\"21\",\"320\",\"327\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "327",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique et Sciences des Données",
-        "specializationLabelEn": "Informatique et Sciences des Données"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Heetch met en relation chauffeurs et passagers sur plusieurs marchés. Après une profonde restructuration, nous sommes aujourd’hui une petite équipe resserrée et agile, avec un seul objectif : remettre l’entreprise sur une trajectoire durable. Ce ne sera pas facile. Mais rares sont les endroits où vous pourrez avoir autant d’impact aussi tôt.\r\n\r\nNos valeurs :\r\n\r\nJouer collectif\r\nFaire bouger les choses (l’impact avant tout)\r\nÊtre bienveillant (nous sommes conscients des enjeux sociaux et nous nous écoutons les uns les autres)\r\nPenser différemment\r\n\r\nVous serez notre référent(e) en Business Analysis et en données business. Vous serez rattaché(e) directement au CEO et serez le bras droit des General Managers, des Growth Managers et du/de la Head of Customer Service.\r\n\r\nVous aurez un accès complet à nos données et la liberté de construire vos propres routines. Vos interlocuteurs vous feront part de leurs retours et de leurs intuitions. Votre mission sera d'aider à les transformer en problématiques qui comptent vraiment, de remonter jusqu’à la cause racine et d’élaborer des solutions avec les équipes concernées.\r\n\r\nCe poste s’adresse à quelqu’un qui est à l’aise avec l’ambiguïté et qui veut voir son travail se refléter dans les résultats de l’entreprise. Et les sujets à améliorer ne manquent pas.\r\n\r\nQue ferez-vous ?\r\n\r\nMarketplace & pricing : suivre de près l’offre, la demande et la fiabilité, et d'aider à traduire vos observations en recommandations claires sur le pricing et les paramètres de la marketplace.\r\nGrowth :aider à analyser en profondeur les funnels d’acquisition et la rétention, identifier les plus grosses opportunités et mesurer ce qui fonctionne, des nouvelles initiatives à nos actions récurrentes d’acquisition et de CRM.\r\nService client : aider le/la Head of Customer Service à définir la stratégie et la roadmap projets, suivre les KPI, construire des dashboards et optimiser nos outils et automatisations.\r\nTrust & Safety : aider à suivre le comportement des chauffeurs et des passagers et son impact sur la marketplace, puis ajuster nos processus disciplinaires et nos automatisations pour maintenir l’équilibre.\r\nAutomatisation : aider à automatiser des processus pour les équipes Growth, Produit et Service client, grâce à des workflows automatisés et des outils d’IA comme Claude.",
     "creationDate": "2026-11-03T15:45:33Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1235,16 +1193,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The Senior Manager, FP&A, leads financial planning, analysis, and reporting for Fresh across North America, driving business growth across all channels. This role provides strategic financial guidance and support, contributing to the evaluation and execution of business plans. This position serves as a key communicator between Central and North America leadership, and partners cross-functionally on strategic initiatives, ensuring financial performance aligns with company objectives.\r\n\r\nEssential Duties and Responsibilities\r\n•\tManage and prepare the monthly close review process and reporting, with a dedicated focus on US, Canada and Mexico.\r\no\tAnalyze, manage and review monthly P&L results and variance explanations, preparing comments against budget and prior year for all markets in NA, suggesting corrective measures if needed.  \r\no\tDevelop and present P&L commentary for respective businesses within the US, Canada and Mexico, inclusive of P&L by retailer\r\no\tWork closely with A/R, Sales Admin and Marketing teams within the US, Canada and Mexico, following up all sorts of chargebacks from retailers monthly.\r\no\tWork closely with the Accounting team ensuring the accuracy of the books.\r\n•\tPrepare monthly Net Sales/P&L comments by channel for US, Canada and Mexico for top Management.\r\n•\tDevelop scorecards that will provide insightful information to executive team (such as, but not limited to AR/DSO sales trend analysis by channel and door - wholesale vs retail and weeks of supply, etc.).\r\n•\tPrepare monthly Sales Outlook (forecasted sales of the next 4 months), in coordination with Sales and Digital teams, providing a consolidated view and analysis of the performance in North America to Top management (US and Global).\r\n•\tManage the delivery of all performance commitments and reporting requests from Global Finance, fulfilling the deadlines established. Coordinate all key parts to make sure that all requests are answered on time and in accurate manner.\r\n•\tManage short- and long-term financial planning Budgets / Forecasts (R1, R2, Budget) process with the Heads of Departments of US (Marketing, Digital, Sales…): review and challenge main assumptions, provide recommendations.\r\n•\tOversee all aspects of the P&L for Fresh.com in the North American market\r\n•\tDepartmental Partnership\r\no\tServe as the key finance partner to all US, Canada and Mexico functional departments involved in the wholesale business, inclusive of Marketing, E-Retail, and Sales Administration\r\no\tOwn entire Visual Merchandising and Store Design budget communication for all North America to ensure alignment across channels\r\no\tLead meetings with US, Canada and Mexico departmental leaders in order to analyze how their respective budget is trending on a monthly basis as well as during key review periods\r\no\tIdentify risks and opportunities for each department in order to make well informed decisions in forecasting future budgeting\r\no\tFulfill ad-hoc financial reporting requests from the CFO, CCO, VP of Sales, as well as department heads.\r\n•\tReview and prepare capital expenditures requests for US, Canada, Mexico and Global Markets and provide recommendation following the approval processes in place at Fresh and in LVMH. \r\n•\tPrepare ad hoc reports and analysis as required and as necessary.\r\n•\tEnsure quality and timeliness of key deliverables that meet expectations while balancing business needs \r\n•\tDevelop process improvements\r\n\r\nWhat you will learn in the first 6 months: \r\n•\t Financial reporting and planning processes, tools, and critical metrics at Fresh central, regional, and market level.\r\n•\tBusiness and financial goals of Fresh North America and global markets, inclusive of both the long-term vision and mid-term/short-term goals.\r\n•\tMarket knowledge and Fresh strategy and approaches in a diversified, dynamic, and highly driven region\r\nWhat you will achieve in 12 months:\r\n•\t Gain global exposure to markets’ performance and organize monthly review.\r\n•\tBecome a highly trusted partner to all cross-functional incumbents. \r\n•\tProvide key financial information and recommendations to top management that will ultimately help steer the North America and Global financial strategy. \r\n\r\nPhysical Requirements: \r\n•\tMust be able to remain in a stationary position on average of 7.5 hours/day. \r\n•\tLight to moderate lifting may be required. \r\n•\tWhile performing the duties of this job, the employee may be regularly required to stand, sit, reach, stoop, kneel, and operate a computer, telephone, and keyboard.",
     "creationDate": "2026-11-02T16:38:43Z",
     "missionStartDate": "2027-02-01T00:00:00",
