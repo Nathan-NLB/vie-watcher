@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **06/11/2026 15:15:43**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **06/11/2026 15:31:01**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -98,6 +98,86 @@ Your tasks will include:
 - Strong analytical and problem-solving skills with attention to detail
 - Ability to work independently and as part of a team
 - Highly motivated, proactive, and eager to learn
+
+</details>
+
+<details>
+<summary><strong>VIE Analyst M&A | Latin America (Portuguese speaking) (H/F)</strong> · EURO LATINA FINANCE · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
+
+- **Entreprise :** EURO LATINA FINANCE
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 743,28 €/mois
+- **Durée de la mission :** 9 mois (Du 1 févr. 2027 au 1 nov. 2027)
+- **Publiée le :** 06/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245372](https://mon-vie-via.businessfrance.fr/offres/245372)
+
+**Description du poste**
+
+VIE Analyst M&A | Latin America (Portuguese speaking)
+
+
+
+Role Overview:
+ 
+
+Euro Latina Finance is seeking an M&A Analyst to join its execution team in São Paulo. This role offers the opportunity to work on high-profile transactions in Latin America, primarily Brazil and Colombia in a wide array of sectors. He/shell will work with our senior teams across different countries and will play a pivotal role in supporting deal execution, managing intern(s), and contributing to business development efforts.
+
+This position is suited for an execution driven M&A professional who thrives in a fast paced, entrepreneurial environment and is keen to grow in a truly multicultural team.
+
+Key Responsibilities:
+
+1. Financial Analysis & Modeling
+•	Analyze companies’ financial statements
+•	Build and maintain detailed financial models 
+
+2. Transaction Execution
+•	Support execution across different phases of M&A transactions
+•	Prepare core transaction materials, including Teasers, CIMs, Management Presentations, Pitch Books, and investor/buyer lists.
+•	Conduct financial, strategic, and market analyses to support positioning and valuation
+•	Coordinate due diligence processes, manage data rooms, and track Q&A with internal and external stakeholders.
+
+3. Client & Business Development Support
+•	Assist in the preparation of proposals, pitch materials, and presentations for existing clients and prospects.
+•	Contribute to sector research, market updates, and strategic analyses to support origination efforts.
+
+Management of Interns
+•	Supervise and review intern(s)’ work, providing guidance and quality control
+
+Why Join Euro Latina Finance?
+
+
+•	Global and multicultural team based in three different locations across Latin America and Europe and led by its founder & CEO
+•	Growing company with a solid pipeline and deal flow perspective
+•	Vast array of sectors and mandates 
+•	Opportunity to work within a collegial culture that puts people first
+•	Possibility to move to different offices within the firm in the future
+
+Company description
+Established in 2010, Euro Latina Finance is an independent financial advisory firm specialized in cross-border transactions between Europe and Latin America.
+Headquartered in Paris, with offices in São Paulo and Bogotá, Euro Latina Finance provides tailor-made M&A and strategic advice to a portfolio of blue-chip clients. The firm specializes in cross-border M&A transactions across a wide array of sectors between Europe/US and Latin America with values ranging from US$100mm – US$1bn+. 
+Since its inception, Euro Latina Finance has advised c.30 successful transactions out of a total of c. 80 M&A projects.
+More information: https://www.eurolatinafinance.com/ and https://www.eurolatinafinance.com/career
+
+**Profil recherché**
+
+Required:
+
+•	2-4 year prior experience in M&A, preferably from a top-tier investment bank, a leading PE fund or a Transaction Services firm
+•	Top academic performance in a leading Business or Engineering school
+•	Fluency in Portuguese, English and French
+•	Excellent written and verbal communication skills
+•	Excellent Excel / Power Point / Word skills
+
+Preferred:
+•	Prior exposure to Latin America
+•	Fluency in Spanish
+
+Personal Attributes
+
+•	Highly motivated and proactive
+•	Strong intellectual curiosity, attention to detail, and willingness to learn in a demanding environment.
+•	Solid analytical thinking and with a strong sense of ownership
+•	Team oriented and able to thrive in Euro Latina Finance’s collaborative culture
 
 </details>
 
@@ -4432,86 +4512,6 @@ Le profil que nous recherchons :
 • Esprit d'équipe et aptitude à collaborer efficacement avec différents intervenants,
 • Bonne capacité d'analyse et de synthèse,
 • Orientation service à la clientèle.
-
-</details>
-
-<details>
-<summary><strong>VIE Analyst M&A | Latin America (Portuguese speaking) (H/F)</strong> · EURO LATINA FINANCE · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
-
-- **Entreprise :** EURO LATINA FINANCE
-- **Lieu :** SAO PAULO, BRESIL
-- **Indemnité :** 2 743,28 €/mois
-- **Durée de la mission :** 9 mois (Du 1 févr. 2027 au 1 nov. 2027)
-- **Publiée le :** 13/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245372](https://mon-vie-via.businessfrance.fr/offres/245372)
-
-**Description du poste**
-
-VIE Analyst M&A | Latin America (Portuguese speaking)
-
-
-
-Role Overview:
- 
-
-Euro Latina Finance is seeking an M&A Analyst to join its execution team in São Paulo. This role offers the opportunity to work on high-profile transactions in Latin America, primarily Brazil and Colombia in a wide array of sectors. He/shell will work with our senior teams across different countries and will play a pivotal role in supporting deal execution, managing intern(s), and contributing to business development efforts.
-
-This position is suited for an execution driven M&A professional who thrives in a fast paced, entrepreneurial environment and is keen to grow in a truly multicultural team.
-
-Key Responsibilities:
-
-1. Financial Analysis & Modeling
-•	Analyze companies’ financial statements
-•	Build and maintain detailed financial models 
-
-2. Transaction Execution
-•	Support execution across different phases of M&A transactions
-•	Prepare core transaction materials, including Teasers, CIMs, Management Presentations, Pitch Books, and investor/buyer lists.
-•	Conduct financial, strategic, and market analyses to support positioning and valuation
-•	Coordinate due diligence processes, manage data rooms, and track Q&A with internal and external stakeholders.
-
-3. Client & Business Development Support
-•	Assist in the preparation of proposals, pitch materials, and presentations for existing clients and prospects.
-•	Contribute to sector research, market updates, and strategic analyses to support origination efforts.
-
-Management of Interns
-•	Supervise and review intern(s)’ work, providing guidance and quality control
-
-Why Join Euro Latina Finance?
-
-
-•	Global and multicultural team based in three different locations across Latin America and Europe and led by its founder & CEO
-•	Growing company with a solid pipeline and deal flow perspective
-•	Vast array of sectors and mandates 
-•	Opportunity to work within a collegial culture that puts people first
-•	Possibility to move to different offices within the firm in the future
-
-Company description
-Established in 2010, Euro Latina Finance is an independent financial advisory firm specialized in cross-border transactions between Europe and Latin America.
-Headquartered in Paris, with offices in São Paulo and Bogotá, Euro Latina Finance provides tailor-made M&A and strategic advice to a portfolio of blue-chip clients. The firm specializes in cross-border M&A transactions across a wide array of sectors between Europe/US and Latin America with values ranging from US$100mm – US$1bn+. 
-Since its inception, Euro Latina Finance has advised c.30 successful transactions out of a total of c. 80 M&A projects.
-More information: https://www.eurolatinafinance.com/ and https://www.eurolatinafinance.com/career
-
-**Profil recherché**
-
-Required:
-
-•	2-4 year prior experience in M&A, preferably from a top-tier investment bank, a leading PE fund or a Transaction Services firm
-•	Top academic performance in a leading Business or Engineering school
-•	Fluency in Portuguese, English and French
-•	Excellent written and verbal communication skills
-•	Excellent Excel / Power Point / Word skills
-
-Preferred:
-•	Prior exposure to Latin America
-•	Fluency in Spanish
-
-Personal Attributes
-
-•	Highly motivated and proactive
-•	Strong intellectual curiosity, attention to detail, and willingness to learn in a demanding environment.
-•	Solid analytical thinking and with a strong sense of ownership
-•	Team oriented and able to thrive in Euro Latina Finance’s collaborative culture
 
 </details>
 
