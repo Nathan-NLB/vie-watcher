@@ -1172,51 +1172,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "10",
-      "109",
-      "181",
-      "246",
-      "326",
-      "348"
+      "[\"10\",\"109\",\"181\",\"246\",\"326\",\"348\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "10",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit Général",
-        "specializationLabelEn": "General Law"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "181",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit Bancaire",
-        "specializationLabelEn": "Banking Law"
-      },
-      {
-        "specializationId": "246",
-        "specializationParentId": "24",
-        "specializationLabel": "Cybersecurité - protection des données",
-        "specializationLabelEn": "IT security"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      },
-      {
-        "specializationId": "348",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit de l'innovation - technologies - numérique",
-        "specializationLabelEn": "Droit de l'innovation - technologies - numérique"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Ce que vous allez vivre chez ICM Life\r\nFiliale des Assurances du Crédit Mutuel, ICM Life se spécialise dans les solutions d’assurance-vie sur-mesure pour une clientèle internationale, tirant parti de l’attractivité du Luxembourg. Son modèle repose sur des contrats en unités de compte et fonds en euros, distribués via les réseaux bancaires du groupe Crédit Mutuel Alliance Fédérale.\r\nLe Luxembourg, 2ᵉ marché mondial de l’assurance-vie, offre un cadre idéal : conformité stricte, flexibilité produit et clientèle diversifiée. ICM Life mise sur l’innovation et l’expertise réglementaire pour répondre aux enjeux transfrontaliers.\r\nPour un VIE, c’est l’occasion de maîtriser les mécanismes de l’assurance-vie internationale, travailler avec des experts en produits d’assurance et conformité, et contribuer à des projets structurants dans un environnement dynamique. Un tremplin pour allier assurance, challenge et dimension internationale.\r\n\r\nAu cours de votre contrat VIE\r\nVous développerez vos connaissances et votre expertise des métiers du contrôle et de la sécurité financière dans la branche de l’assurance. \r\nVous intégrerez une entreprise à taille humaine membre d’un groupe international fort, offrant des perspectives de carrière. \r\nCette expérience vous permettra de gagner en autonomie, sur des sujets complexes en lien avec le Commissariat aux Assurances, sous la supervision directe du Directeur. \r\nA l’issue de votre VIE, vous serez aurez développé une expertise sur les sujets de conformité et réglementaires, et disposerez d’une solide compréhension des enjeux de l’assurance vie. \r\n\r\nVotre mission\r\nDirectement rattaché au dirigeant vous serez amené·e à : \r\nActualiser les procédures de contrôle interne (souscription, gestion des sinistres) et les cartographies de risques.\r\nParticiper à la préparation des audits (collecte de preuves, analyse des écarts) et suivre les plans d’action correctifs.\r\nMettre à jour le registre des traitements RGPD et vérifier la conformité des clauses contractuelles.\r\nTraiter les demandes d’exercice de droits (accès, rectification, effacement) et contribuer aux analyses d’impact.\r\nCartographier les risques cyber pour la conformité DORA.\r\nParticiper aux tests de résilience et documenter les procédures d’incident.\r\nSuivre les évolutions réglementaires et adapter les processus en conséquence.\r\nParticiper à la gestion des tâches courantes de l’entreprise.\r\nÉlaborer des tableaux de bord pour le suivi des non-conformités et des actions correctives.\r\nSensibiliser les équipes aux bonnes pratiques (RGPD, cybersécurité, contrôle interne)",
     "creationDate": "2026-11-02T10:33:53Z",
     "missionStartDate": "2027-02-01T00:00:00",
