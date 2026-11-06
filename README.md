@@ -8,11 +8,98 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **06/11/2026 12:15:43**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **06/11/2026 12:31:08**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Clearing Operations Derivatives Analyst (VIE) (H/F)</strong> · EURONEXT PARIS SA · ROME, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** EURONEXT PARIS SA
+- **Lieu :** ROME, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 06/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le candidat possède de solides compétences financières et en Excel, ainsi qu'un profil international adapté au VIE. Cependant, l'offre concerne les opérations de compensation (Clearing Operations) sur les produits dérivés en Italie, ce qui s'éloigne de son cœur de métier en contrôle de gestion et FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248039](https://mon-vie-via.businessfrance.fr/offres/248039)
+
+**Description du poste**
+
+Join us as a Clearing Operations Derivatives Analyst in our International Graduate Programme (V.I.E)!
+
+
+
+We are looking for a Clearing Operations Derivatives Analyst (VIE) to join our team in Rome, starting on 1 February 2026, for an initial period of 12 months. This position is part of our International Graduate Programme (VIE) within Euronext Clearing. You will report to the ECO Derivatives Manager.
+
+This is an excellent opportunity to launch your career with the leading pan-European market infrastructure. You will work closely with colleagues across different units and stakeholders, gaining hands-on experience in daily derivatives operations and contributing to projects that expand our product offering and improve our clearing processes.
+
+You will be primarily responsible for:
+
+Delivering daily post-trade services for derivatives, ensuring accuracy, timeliness and quality. This includes trade capture, post-trade operations, position management, exercise/assignment and expiry management, trade and instrument reconciliations, premium and variation margin oversight, cash settlement and power derivatives cascading management.
+Managing corporate actions across derivatives products, ensuring precise execution and clear communication with clients.
+Overseeing physical delivery expiries on commodities products, monitoring matching, reconciliations, reporting and escalating breaches to safeguard business rules.
+Acting as the primary liaison for clearing members and internal teams to ensure seamless communication and operational excellence.
+Performing daily reconciliations between internal systems and external sources, investigating and resolving discrepancies promptly.
+Providing expert client advisory as a second-level point of contact for clearing members, collaborating with internal teams to resolve queries efficiently.
+Contributing to operational growth by supporting projects, testing and process enhancements to streamline workflows and support business expansion and new product initiatives.
+Supporting default management activities as a derivatives expert.
+Performing additional operational tasks as required to maintain service excellence
+
+**Profil recherché**
+
+Your profile:
+
+Bachelor’s degree in finance, economics, statistics or a related field.
+At least one successful internship or work experience in the financial industry, strategy consulting or a fast-growing business.
+Strong interest in clearing operations, with a focus on derivatives and commodities products.
+Analytical mindset and problem-solving attitude.
+Excellent client relationship and communication skills.
+Able to work accurately and effectively under pressure.
+Fluent in English; Italian is an advantage.
+Excellent knowledge of Excel; knowledge of SQL and Python is a plus.
+Fast learner with a proactive and entrepreneurial approach.
+Ability to multitask and manage priorities.
+
+</details>
+
+<details>
+<summary><strong>V.I.E - EQUITY RESEARCH - VIENNA (AUSTRIA) (H/F)</strong> · ODDO BHF SCA · VIENNE, AUTRICHE · 3 024,47 €/mois</summary>
+
+- **Entreprise :** ODDO BHF SCA
+- **Lieu :** VIENNE, AUTRICHE
+- **Indemnité :** 3 024,47 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 06/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier (FP&A), alors que cette offre concerne l'analyse financière de marché (Equity Research). Bien que ses compétences en Excel et son niveau d'anglais soient adaptés, son expérience et sa formation manquent d'ancrage en marchés de capitaux et valorisation d'entreprise.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247521](https://mon-vie-via.businessfrance.fr/offres/247521)
+
+**Description du poste**
+
+We seek an ambitious, motivated and driven young graduate eager to gain a fundamental understanding of equity research during a 12 month assignment, intended to be prolonged to 24 months. This is an opportunity to join Austria's #1 Extel rated equity team and become part of ODDO BHF's growing equity platform.
+
+Your tasks will include:
+
+- Working on a wide range of equity research projects across various sectors
+- Support of analysts in the production of equity research reports and presentations
+- Compilation and presentation of company and sector specific data as well as competitor analysis
+- Financial modelling and perform corporate valuations
+- Interaction with Management and Investor Relations
+- Contribute to sustaining existing client relationships with the objective of ensuring strong relationships
+- Provide general administrative support to the research team
+
+**Profil recherché**
+
+- Strong academic background with a demonstrated interest in capital markets and investment banking
+- Demonstrate an understanding of capital markets and a desire to develop that understanding further
+- Excellent English communication (written and verbal), German desirable, Eastern European language an advantage
+- Proficiency in Microsoft Office, particularly Excel and PowerPoint
+- Strong analytical and problem-solving skills with attention to detail
+- Ability to work independently and as part of a team
+- Highly motivated, proactive, and eager to learn
+
+</details>
 
 <details>
 <summary><strong>VIE Contrôleur financier H/F – Emirats Arabes Unis (H/F)</strong> · TOTALENERGIES SE · DUBAI, EMIRATS ARABES UNIS · 2 641,75 €/mois</summary>

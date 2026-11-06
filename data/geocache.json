@@ -630,5 +630,10 @@
   "entreprise|pernod ricard|mexico|mexique": {
     "lat": 19.4322927,
     "lon": -99.1707151
+  },
+  "entreprise|euronext paris sa|rome|italie": null,
+  "ville|rome|italie": {
+    "lat": 41.8933203,
+    "lon": 12.4829321
   }
 }
