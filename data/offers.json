@@ -2173,16 +2173,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "322"
+      "[\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À propos de Sibelco\r\n\r\nSibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.\r\n\r\nDans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.\r\n\r\nRejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.\r\n\r\nMission:\r\n\r\nLe/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. \r\nIl/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. \r\nEn interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. \r\nCette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.",
     "creationDate": "2026-10-19T13:15:35Z",
     "missionStartDate": "2027-01-01T00:00:00",
