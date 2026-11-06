@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **06/11/2026 12:01:12**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **06/11/2026 12:15:43**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2216,43 +2216,6 @@ Strong working knowledge of analytical and AI tools .
 </details>
 
 <details>
-<summary><strong>V.I.E - EQUITY RESEARCH - VIENNA (AUSTRIA) (H/F)</strong> · ODDO BHF SCA · VIENNE, AUTRICHE · 3 024,47 €/mois</summary>
-
-- **Entreprise :** ODDO BHF SCA
-- **Lieu :** VIENNE, AUTRICHE
-- **Indemnité :** 3 024,47 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 28/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier (FP&A), alors que cette offre concerne l'analyse financière de marché (Equity Research). Bien que ses compétences en Excel et son niveau d'anglais soient adaptés, son expérience et sa formation manquent d'ancrage en marchés de capitaux et valorisation d'entreprise.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247521](https://mon-vie-via.businessfrance.fr/offres/247521)
-
-**Description du poste**
-
-We seek an ambitious, motivated and driven young graduate eager to gain a fundamental understanding of equity research during a 12 month assignment, intended to be prolonged to 24 months. This is an opportunity to join Austria's #1 Extel rated equity team and become part of ODDO BHF's growing equity platform.
-
-Your tasks will include:
-
-- Working on a wide range of equity research projects across various sectors
-- Support of analysts in the production of equity research reports and presentations
-- Compilation and presentation of company and sector specific data as well as competitor analysis
-- Financial modelling and perform corporate valuations
-- Interaction with Management and Investor Relations
-- Contribute to sustaining existing client relationships with the objective of ensuring strong relationships
-- Provide general administrative support to the research team
-
-**Profil recherché**
-
-- Strong academic background with a demonstrated interest in capital markets and investment banking
-- Demonstrate an understanding of capital markets and a desire to develop that understanding further
-- Excellent English communication (written and verbal), German desirable, Eastern European language an advantage
-- Proficiency in Microsoft Office, particularly Excel and PowerPoint
-- Strong analytical and problem-solving skills with attention to detail
-- Ability to work independently and as part of a team
-- Highly motivated, proactive, and eager to learn
-
-</details>
-
-<details>
 <summary><strong>VIE - Operations Transformation & AI Support Analyst (H/F)</strong> · AMUNDI ASSET MANAGEMENT · SANT CUGAT DEL VALLES, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** AMUNDI ASSET MANAGEMENT
@@ -3759,41 +3722,6 @@ Advanced Excel; Power BI is a plus
 Master's degree in Business School, Finance, Financial Engineering, or equivalent
 English fluent. French is a plus.
 You demonstrate rigour, analytical mindset, critical thinking, and proactivity
-
-</details>
-
-<details>
-<summary><strong>Risk Officer (H/F)</strong> · CACEIS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** CACEIS
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 19/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246277](https://mon-vie-via.businessfrance.fr/offres/246277)
-
-**Description du poste**
-
-Au sein de CACEIS Bank, Belgium Branch, le VIE rejoindra l'équipe des Risques.
-
-Les missions principales du département sont les suivantes:
-
-Risque Opérationnel et Contrôles Permanents : Pilotage du processus de contrôle interne, ainsi que de la maîtrise des risques opérationnels (détection, mesures de préventions, cartographie, contrôles),
-Risque de Contrepartie : Instruction, suivi et surveillance de toutes les opérations engendrant un risque de contrepartie ou un risque de marché (risque de crédit, risque de change…)
-Comités : Animation et secrétariat du Comité Risk et Compliance et du Control Executive Committee.
-Tâches principales du VIE:
-
-Assister le Risk Officer dans ses tâches de contrôle :
-Risques opérationnels :
-   - Réaliser les contrôles selon le plan de contrôle du département,
-   - Analyser et suivre les risques opérationnels à travers notamment du suivi des incidents et de la mise en place d'actions correctives avec les services concernés,
-Risques de contrepartie :
-    - Contrôle quotidien du respect des limites de contrepartie et analyse  des demandes de lignes de découvert et de lignes de change.
-
-**Profil recherché**
-
-o   Compétences métiers : Sensibilité et intérêts aux activités de contrôle
-o   Compétences comportementales : Rigueur, organisation, curiosité, sens du travail en équipe, analytique, respect de la déontologie
 
 </details>
 
