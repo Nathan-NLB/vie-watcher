@@ -8,11 +8,642 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **06/11/2026 01:01:11**, 28 offre(s) actuellement en ligne.
+Dernière vérification : **06/11/2026 01:15:43**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE Contrôleur financier H/F – Emirats Arabes Unis (H/F)</strong> · TOTALENERGIES SE · DUBAI, EMIRATS ARABES UNIS · 2 641,75 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES SE
+- **Lieu :** DUBAI, EMIRATS ARABES UNIS
+- **Indemnité :** 2 641,75 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 05/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248004](https://mon-vie-via.businessfrance.fr/offres/248004)
+
+**Description du poste**
+
+Directement intégré à la filiale de TotalEnergies GRP aux Émirats arabes unis, à Dubaï, vos principales responsabilités sont de contribuer au pilotage de la performance financière, de participer aux exercices budgétaires et d'accompagner la production d'analyses financières nécessaires à la prise de décision.
+
+L'entité développe les activités renouvelables de TotalEnergies au Moyen-Orient depuis Dubaï. Vous travaillez en étroite collaboration avec l'équipe finance et les équipes opérationnelles sur deux business units.
+
+Vérifiez votre éligibilité au programme VIE ainsi que les spécificités pays sur le site internet https://mon-vie-via.businessfrance.fr/qu-est-ce-que-le-volontariat-international.
+
+Merci de candidater en anglais.
+
+Le logement sera fourni par la filiale.
+Vos principales missions :
+
+Participer aux clôtures mensuelles et à la préparation des provisions.
+Analyser les écarts entre le réalisé, le budget et les prévisions.
+Contribuer à la préparation des reforecasts financiers.
+Participer à l'élaboration du budget annuel et du plan à long terme.
+Recueillir et consolider les hypothèses auprès des équipes opérationnelles.
+Préparer les comptes de résultat prévisionnels.
+Élaborer les supports de présentation destinés au management et au COMEX.
+Réaliser des extractions et des saisies dans les outils de reporting.
+Répondre à des demandes d'analyses financières ponctuelles.
+Contribuer à l'automatisation des reportings et tableaux de bord financiers.
+
+**Profil recherché**
+
+Diplômé d'un Bac+5 minimum école de commerce ou université dans le domaine de la finance, contrôle de gestion, comptabilité ou domaine équivalent.
+
+Vous bénéficiez d'une première expérience en finance, contrôle de gestion, audit ou comptabilité. Une alternance ou des stages significatifs constituent également une base pertinente.
+
+Vous disposez de compétences en :
+
+Contrôle de gestion ;
+Analyse financière ;
+Budget et forecast ;
+Reporting de performance ;
+Comptabilité et provisions.
+Vous maîtrisez les outils du Pack Office, notamment :
+
+Excel avancé ;
+PowerPoint.
+La connaissance d'un ERP tel que SAP ou MBC sera fortement appréciée.
+
+La connaissance de Power BI constitue un atout.
+
+Un niveau d'anglais B2 minimum est requis. Un niveau de français C1 minimum est également demandé.
+
+
+
+La branche Gas, Renewables & Power (GRP) de TotalEnergies regroupe la production d’électricité, son stockage, son négoce ainsi que sa distribution. Elle couvre aussi l’ensemble de la chaîne du gaz et du gaz naturel liquéfié (GNL), et développe les activités biogaz et hydrogène. Avec environ 10 000 collaborateurs dans plus de 50 pays, la branche GRP est un pilier majeur de la transition énergétique de la Compagnie. Son objectif : construire un modèle intégré de l’électricité, notamment renouvelable, tout en garantissant l’approvisionnement en gaz dont le monde a besoin aujourd’hui.
+
+</details>
+
+<details>
+<summary><strong>VIE - Market Risk Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248001](https://mon-vie-via.businessfrance.fr/offres/248001)
+
+**Description du poste**
+
+Within the EC Risk, the EGM Market Risk Team is dedicated to the monitoring of EGM activities ensuring the compliance with regulated standards. The team is in charge of:   
+
+- Building risk frameworks aligned with EGM strategy. 
+- Providing comprehensive risk views and implement risk frameworks. 
+- Delivering regular risk analysis reports and suggest action plans. 
+- Reviewing and adjusting risk assessment frameworks. 
+- Ensuring adequacy with capital requirements 
+- Maintaining efficient relationships with supervision bodies (ACPR, external and internal auditors). 
+- Providing risk support to other Global Business Units of Engie 
+
+  
+Role: 
+
+ 
+
+On a daily basis, you will: 
+
+- Produce, certify and analyze the different risk indicators of EGM while monitoring and reporting the breaches, 
+- Produce detailed analysis on exposures evolutions, 
+- Challenge Front Office strategies 
+- Adress limits extension 
+- Work on ad-hoc projects to improve risk monitoring
+
+**Profil recherché**
+
+Hard Skills: 
+
+ 
+
+Understanding of financial derivatives, 
+
+Understanding of risk metrics (VaR , Stress Tests,…) 
+
+Proficiency in risk assessment modelling 
+
+Ability to code in Python 
+
+Knowledge of energy markets 
+
+ 
+
+Soft Skills: 
+
+ 
+
+Excellent communication skills, both written and verbally 
+
+Effective problem solving abilities 
+
+High integrity and ethical conduct 
+
+Team player 
+
+ 
+
+ 
+
+Education and professional background: 
+
+ 
+
+ Education level: Master degree 
+
+ 
+
+Language: 
+
+You are fluent in English; 
+
+French or Dutch is a plus
+
+</details>
+
+<details>
+<summary><strong>RISK OVERSIGHT (H/F)</strong> · STELLANTIS BANK · VIENNE, AUTRICHE · 3 024,47 €/mois</summary>
+
+- **Entreprise :** STELLANTIS BANK
+- **Lieu :** VIENNE, AUTRICHE
+- **Indemnité :** 3 024,47 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 05/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247997](https://mon-vie-via.businessfrance.fr/offres/247997)
+
+**Description du poste**
+
+Description of the mission
+
+Risk Oversight is responsible for operational risk management and control in Stellantis Financial Services in Germany and Austria. It acts as second line of defense (LoD2) on the operational risk management and permanent control framework. It coordinates maintenance of operational risk framework among different stakeholders within Stellantis Financial Services and the BNPP group.
+
+The main team’s responsibilities encompass definition of the general framework, advisory and support of its implementation at the first line of defense (LoD1) and oversight via dedicated governance bodies. The team provides independent challenge of the LoD1 control framework, risk mitigants and self-assessment of risks and controls (RCSA). The team also assures accurance of information shared by LoD1 and reported to supervisory bodies. 
+
+
+
+Key Responsibilities
+
+Assist in the preparation of regular or ad-hoc reports for local committees
+Regular monitoring of LoD1 processes - control execution, action plans execution, operational incidents gathering
+Developing operational risk KPIs and Tableaus
+Improve efficiency of team's processes and coordination with stakeholders
+Independent testing of LoD1 control framework
+challenge of accurrance of action plans and operational incidents
+Location is flexible: Neu-Isenburg, Potsdam, Vienna
+
+**Profil recherché**
+
+Your Profile
+Required Qualifications
+
+Bachelor's degree in Finance, Economics, Business Administration, Risk Management, Data Analytics, Information Systems, or a related field
+Strong analytical and problem-solving skills with an interest in financial services and risk management
+Critical thinking and ability to challenge status-quo
+Excellent written and verbal communication skills in English
+Ability to work effectively in an international and multicultural environment
+Self-starter, able to operate independently as well as a team
+Knowledge in Microsoft Office applications, particularly Excel and PowerPoint
+Ability to actively handle multiple deliverables and changing priorities
+Preferred Qualifications
+
+German language skills are an advantage
+Experience in audit, risk, operational risk management or control is an advantage
+Experience with data analysis, business intelligence tools, or reporting solutions (e.g., Power BI)
+Interest in process improvement, automation and system development
+Knowledge of banking, lending, or financial services is beneficial but not essential
+
+</details>
+
+<details>
+<summary><strong>Compliance Officer (H/F)</strong> · CA INDOSUEZ · GENEVE, SUISSE · 4 157,65 €/mois</summary>
+
+- **Entreprise :** CA INDOSUEZ
+- **Lieu :** GENEVE, SUISSE
+- **Indemnité :** 4 157,65 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 05/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247995](https://mon-vie-via.businessfrance.fr/offres/247995)
+
+**Description du poste**
+
+Dans le cadre des activités Banque Privée de notre Banque, le VIE sera intégré au sein du département Compliance dans le pôle Regulatory et aura les principales responsabilités suivantes :
+
+
+- Développer les outils informatiques (via les codes VBA, python, ...) pour extraire les informations nécessaires de l'outil WeComply afin d’effectuer les contrôles de niveau compliance ;
+- Maintenir les dashboards nécessaires pour le suivi de Wecomply ;
+- Effectuer les contrôles liés à la gestion des conflits d'intérêts concernant la déontologie des collaborateurs (cadeaux, mandats, comptes titres, transactions personnelles, ...) ;
+- Effectuer les contrôles liés aux abus de marchés et maintenir à jour le dashboard ;
+- Participer aux formations nécessaires liées aux abus de marché et à la déontologie des collaborateurs.
+
+**Profil recherché**
+
+Niveau d'études minimum
+Bac + 5 / M2 et plus
+Formation / Spécialisation
+Formation universitaire ou Grande école de Commerce de préférence avec une spécialisation en droit bancaire et financier, économie ou finance. 
+
+Niveau d'expérience minimum
+0 - 2 ans
+Expérience
+Expérience en Compliance et/ou Audit, un plus
+
+Compétences recherchées
+Capacité d’analyse, flexibilité, rigueur, fiabilité, intègre, proactivité, sens de l’alerte et de la communication, esprit de synthèse, bonne gestion du stress, organisé, esprit d’équipe, autonomie.
+
+
+Outils informatiques
+Connaissances bureautiques (Excel/Access/VBA/SQL) et gestion de bases de données un plus.
+
+Langues
+Français et Anglais. Espagnol et/ou Portugais un plus.
+
+</details>
+
+<details>
+<summary><strong>Analyste Senior - Brand Integration (H/F)</strong> · PERNOD RICARD · MEXICO, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** PERNOD RICARD
+- **Lieu :** MEXICO, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 05/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil correspond bien aux exigences académiques (Master) et techniques du poste avec une forte maîtrise financière, d'Excel et de l'anglais. Cependant, le candidat a 2 ans d'expérience au lieu des 3 ans requis, et le poste est basé au Mexique alors que le candidat cible plutôt l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247986](https://mon-vie-via.businessfrance.fr/offres/247986)
+
+**Description du poste**
+
+Intégration des marques partenaires dans les méthodes de travail de House of Tequila : intégration des entités contrôlées dans les processus de reporting, dans JDE et dans le dispositif de contrôle interne ; suivi de la performance ; suivi de la performance des entités non consolidées à travers la revue des situations financières mensuelles et des prévisions (forecasting) ; participation active aux conseils d’administration et rôle de liaison clé avec les sociétés partenaires.
+
+**Profil recherché**
+
+- Vous êtes titulaire d’un diplôme de niveau Master (Bac+5) en sciences de gestion et/ou en ingénierie, ou d’une formation équivalente.
+- Vous justifiez d’au moins 3 ans d’expérience en finance, stratégie de marque ou conseil, idéalement dans le secteur des biens de grande consommation (FMCG), avec une expérience de collaboration avec les équipes commerciales et marketing.
+
+* Vous êtes un professionnel expérimenté disposant de solides connaissances en finance, business et stratégie.
+* Vous excellez dans l’analyse de données et avez une vision globale des enjeux business. Vous savez identifier les principaux leviers de performance et formuler des recommandations pertinentes à travers une communication financière claire et impactante.
+* Vous êtes autonome tout en appréciant le travail en équipe et le rôle de business partner. Vous savez influencer, collaborer et communiquer efficacement dans un environnement transverse, afin de fédérer les différentes parties prenantes, y compris les membres de la direction.
+* Vous avez un état d’esprit positif et dynamique. Vous appréciez la gestion de plusieurs projets en parallèle et savez identifier de manière proactive les enjeux business et contribuer à la mise en œuvre de solutions adaptées.
+* Vous maîtrisez Excel et PowerPoint. Une expérience en analyse de données et création de tableaux de bord (Power BI) constitue un atout.
+* Vous maîtrisez couramment l’anglais et l’espagnol et disposez d’excellentes capacités de communication pour évoluer dans un environnement international et multiculturel.
+
+</details>
+
+<details>
+<summary><strong>VIE ALM / STRUCTURED FUNDING SPECIALIST (H/F)</strong> · CA CONSUMER FINANCE · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** CA CONSUMER FINANCE
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan correspond bien en termes de niveau d'études, d'anglais courant, d'espagnol et d'appétence géographique pour Madrid. Cependant, l'offre est très spécialisée en ALM, gestion actif-passif bancaire, titrisation et produits dérivés, ce qui s'éloigne de son expertise principale en contrôle de gestion d'entreprise.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247967](https://mon-vie-via.businessfrance.fr/offres/247967)
+
+**Description du poste**
+
+We are seeking a highly skilled ALM & Structured Funding professional with strong expertise in securitisation (SRT), derivatives management, regulatory frameworks and project management.
+
+The candidate will play a key role to support ALM & Treasury activities especially focused on securitisation, liquidity, interest rate risk and solvency topics. The role combines technical expertise with project delivery and a focus on innovation and continuous improvement.
+________________________________________
+Key Responsibilities
+•	Monitor securitisation transactions, including SRT deals.
+•	Monitor derivatives and hedging strategies (IRS and back-to-back swaps).
+•	Support on regulatory and strategic projects (internal and at group level)
+•	Ensure compliance with regulatory and accounting requirements.
+•	Manage and optimize liquidity, IRR and solvency topics.
+•	Liaise with regulators, auditors, investors and rating agencies.
+
+**Profil recherché**
+
+•	Master’s degree in Finance, Economics, Engineering, Mathematics, Statistics or another quantitative field.
+•	0–2 years of experience, including internships or work-study assignments, in Finance, ALM, Treasury, Risk, Audit or Consulting.
+•	Strong analytical and quantitative skills, with attention to data accuracy and consistency.
+•	Good understanding of banking financial statements and basic ALM, liquidity, funding or market risk concepts.
+•	Advanced Excel and PowerPoint proficiency; knowledge of SQL, Python or VBA is a plus.
+•	Innovative mindset with the ability to challenge existing processes and drive improvements.
+
+As a plus:
+•	Experience with securitisation/ liquidity / interest rate risk management.
+•	Experience on cross-functional strategic projects. 
+•	Good knowledge of COREP (namely LCR, NSFR, IRRBB, Own Funds and Leverage) and regulatory requirements.
+
+Key Focus Areas
+•	ALM •  Securitisation (SRT) • Derivatives & Hedging • Liquidity • IRR • Capital • Process improvement and innovation
+________________________________________
+Soft Skills
+•	Strong analytical and problem-solving mindset
+•	Ability to interact with senior stakeholders (ExCo, regulators)
+•	High level of autonomy and ownership
+•	Structured and detail-oriented
+________________________________________
+
+Languages
+•	English (fluent, mandatory)
+•	Spanish (strongly preferred)
+•	Portuguese & French are a plus
+
+________________________________________
+Nice to Have
+•	Experience in auto loan / consumer finance portfolios
+•	Exposure to ESG considerations in securitisation
+•	Prior interaction with ECB / Banco de Spain / rating agencies
+________________________________________
+
+</details>
+
+<details>
+<summary><strong>VIE ALM & Structured Funding Analyst (Securitisation & Derivatives) (H/F)</strong> · CA CONSUMER FINANCE · LISBONNE, PORTUGAL · 2 677,43 €/mois</summary>
+
+- **Entreprise :** CA CONSUMER FINANCE
+- **Lieu :** LISBONNE, PORTUGAL
+- **Indemnité :** 2 677,43 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247944](https://mon-vie-via.businessfrance.fr/offres/247944)
+
+**Description du poste**
+
+JOB PURPOSE 
+Support ALM and Treasury activities, with a particular focus on securitisation, liquidity, interest-rate risk and solvency. The role combines technical expertise in structured funding, derivatives and regulatory frameworks with project delivery, innovation and continuous improvement.
+
+RESPONSIBILITIES 
+• Monitor securitisation transactions, including Significant Risk Transfer (SRT) deals.
+• Monitor derivatives and hedging strategies, including interest rate swaps (IRS) and back-to-back swaps.
+• Support regulatory and strategic projects, both internally and at Group level.
+• Ensure compliance with applicable regulatory and accounting requirements.
+• Manage and optimise liquidity, interest-rate risk (IRR) and solvency topics.
+• Liaise with regulators, auditors, investors and rating agencies.
+• Contribute to process improvement, innovation and the delivery of cross-functional initiatives.
+
+**Profil recherché**
+
+• Master's degree in Finance, Economics, Engineering, Mathematics, Statistics or another quantitative field.
+• 0-2 years of experience, including internships or work-study assignments, in Finance, ALM, Treasury, Risk, Audit or Consulting.
+• Strong analytical and quantitative skills, with close attention to data accuracy and consistency.
+• Good understanding of banking financial statements and basic ALM, liquidity, funding or market-risk concepts.
+• Advanced proficiency in Excel and PowerPoint; SQL, Python or VBA is an advantage.
+• Fluent English is mandatory; Portuguese is strongly preferred; Spanish and French are advantages.
+• Additional assets: securitisation, liquidity or interest-rate risk management; cross-functional strategic projects; COREP knowledge, including LCR, NSFR, IRRBB, Own Funds and Leverage; auto-loan or consumer-finance portfolios; ESG considerations in securitisation; interaction with the ECB, Banco de Portugal or rating agencies.
+• Strong analytical and problem-solving mindset.
+• Ability to interact effectively with senior stakeholders, including Executive Committee members and regulators.
+• High level of autonomy, ownership and accountability.
+• Structured, detail-oriented and improvement-focused approach.
+• Innovative mindset, with the ability to challenge existing processes and drive improvements.
+
+</details>
+
+<details>
+<summary><strong>ETF Investor Client Services Officer (H/F)</strong> · CACEIS · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
+
+- **Entreprise :** CACEIS
+- **Lieu :** DUBLIN, IRLANDE
+- **Indemnité :** 3 520,38 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le candidat possède un Master pertinent et une bonne maîtrise d'Excel, mais son expérience est axée sur le contrôle de gestion en entreprise (FP&A) plutôt que sur les opérations de marché et les services aux investisseurs (fonds, custody, ETF) requis pour ce poste en banque dépositaire.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247939](https://mon-vie-via.businessfrance.fr/offres/247939)
+
+**Description du poste**
+
+What is the opportunity?
+
+The ETF (Exchange-Traded Funds) Service Department develops investment solutions to 
+help clients reach their financial goals. This position will:
+
+•	Be a member of the ETF Business Line and be part of the operational teams interacting with Authorised Participants and Client Capital Market teams.
+•	Maintain strong cooperation with all the stakeholders of CACEIS to deliver operational 
+excellence and best-in-class solutions. 
+
+What will you do?
+
+ETF Operations
+•	Manage the end-to-end processing of ETF primary market creation and redemption orders, ensuring accuracy, timeliness and adherence to service level agreements.
+•	Prepare and calculate Primary Market Trading Components (PMTC/Actual Cost), including the review of component securities, quantities and pricing.
+•	Produce ETF cash confirmations.
+•	Knowledge of Portfolio Composition File (PCF) and its importance for ETFs (preferable but not mandatory) ETF issuance models (ICSD, ICSD+ and Local CSD) and settlement processes to support operational needs.
+•	Ensure all transactions are processed accurately and in accordance with internal controls, regulatory requirements and operational procedures.
+
+Client & Stakeholder Management
+•	Operational contact for Authorised Participants (APs), ETF issuers and Capital Markets teams.
+•	Build and maintain strong working relationships with internal and external stakeholders to deliver a high standard of client service.
+•	Investigate and resolve operational queries, exceptions and settlement issues in a timely manner.
+•	Involvement in operational and client service review meetings and support discussions relating to service enhancements and operational improvements.
+
+Operational Excellence
+•	Monitor operational quality, productivity and risk metrics.
+•	Ensure appropriate operational controls are followed.
+•	Identify opportunities to improve processes, reduce operational risk and enhance efficiency.
+
+Collaboration & Technical Expertise
+•	Share knowledge and best practice to support team capability and consistency.
+•	Collaborate effectively with cross-functional teams to deliver operational excellence and successful client outcomes.
+•	Contribute to projects
+
+**Profil recherché**
+
+What do you need to succeed?
+
+Qualifications and experience
+•	A master’s degree in relevant area 
+•	1+ years’ experience - Transfer Agency, Fund Accounting, Custody experience preferably with a leading ETF Service provider (Apprenticeship, internship and Work/Study placement included)
+•	Understanding of ETF Capital Market requirements (preferable but not mandatory)
+•	Knowledge of ETF funds services and processes (preferable but not mandatory)
+•	Self-starter 
+
+Technical skills
+•	Proficiency in Microsoft Excel and the Microsoft Office suite.
+•	Strong analytical and problem-solving skills
+
+Professional competencies
+•	Client-focused with a commitment to delivering exceptional service.
+•	Excellent interpersonal, communication and stakeholder management skills.
+•	Ability to build effective relationships and collaborate across teams and functions.
+•	Ability to manage competing deadlines.
+•	Self-motivated with the ability to work independently and use initiative.
+•	Results-driven with a continuous improvement mindset.
+
+Additional requirements
+•	Willingness to travel occasionally, primarily to Luxembourg and Paris, as business needs require.
+
+</details>
+
+<details>
+<summary><strong>AUDITOR - GENERAL INSPECTION (H/F)</strong> · CACEIS · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
+
+- **Entreprise :** CACEIS
+- **Lieu :** DUBLIN, IRLANDE
+- **Indemnité :** 3 520,38 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en termes de formation (Master en cours), de compétences financières et d'anglais courant. Cependant, l'offre relève de l'audit interne bancaire (Inspection Générale) alors que son expérience et ses aspirations se situent plutôt en contrôle de gestion et FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247936](https://mon-vie-via.businessfrance.fr/offres/247936)
+
+**Description du poste**
+
+Within CACEIS, the General Inspection function is an integral part of the internal control framework. General Inspection is a single business line bringing together teams based in Paris, Ireland, Luxembourg, Munich, Milan, Amsterdam, Kuala Lumpur and Madrid. It conducts periodic control missions within CACEIS. These missions aim to ensure that external and internal rules are complied with, to assess the level of risk management and operational effectiveness of processes within the Bank. General Inspection identifies areas for improvement and issues recommendations for action in the inspection report published at the end of each mission. It then monitors their complete and timely implementation throughout the year.
+
+In this context, the VIE will join the General Inspection team of CACEIS Bank Ireland Branch to carry out Group missions, working with a team junior and experienced staff located internationally (France, Ireland, Luxembourg, Germany, the Netherlands, Spain, Italy, Malaysia).
+
+Your missions
+You will be an integral part of the General Inspection team as a VIE and will contribute to missions carried out in Ireland and abroad, under the supervision of a lead inspector.
+
+You will be involved in the entire audit process, from the planning phase through to the issuance of the audit report. In this context, you will be in position to: 
+-	Participate and lead initial meetings with auditees to define the scope of work, performing investigation tests in line with internal audit methodologies, drafting documented reports and travels to other CACEIS locations abroad. 
+-	Contribute to the preparation of recommendations designed to strengthen the Bank’s internal control framework and to the follow up of these recommendations, ensuring that the risk mitigation measures identified during the missions are fully and timely implemented.
+-	Prepare Internal Audit reporting and related documentation for local management and relevant governance committees, supporting clear communication of key findings, risks and recommended actions.
+-	Support and lead discussion of the results with both auditees and the managers in a clear and convincing manner.
+-	Be part of the continuous audit monitoring process at local level, supporting the General Inspection team
+
+This role provides an opportunity to develop auditing expertise and risk management, through the application of the audit methodology to abroad range of business line and support functions across the bank, fostering specialized knowledge in areas such as asset servicing, IT, or banking regulation.
+
+**Profil recherché**
+
+What do you need to succeed?
+•	0-2 year's experience in Audit, Finance, Data
+•	Masters degree - specialising in audit, legal, law, finance, risk management
+•	Excellent English skills - Interact in written and spoken English with stakeholders within and/or outside the organisation
+•	Organized, methodical, rigorous, reliable and Team oriented
+•	High level of curiosity to gain first or further knowledge of audit techniques., self-confidence and assertiveness
+•	Ability to anticipate, own-initiative, and work under pressure
+•	Strong communication skills
+•	Willingness to travel
+•	In‑depth knowledge of advanced office software functionalities (e.g. macro development), particularly spreadsheets (Excel) or database managers (Access). SQL and/or Python knowledge is a plus.
+•	English and (French) required; a third language is a plus
+
+</details>
+
+<details>
+<summary><strong>Business Operations Analyst (H/F)</strong> · HEETCH · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** HEETCH
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 05/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil correspond très bien pour la localisation (Barcelone), les compétences en Excel, Power BI, le reporting et l'anglais courant, en plus de l'appétence du candidat pour l'Espagne. Cependant, l'offre requiert des compétences en SQL et une orientation purement Business Operations / Data Analysis, là où le profil de Nathan est davantage axé sur le contrôle de gestion pur et la finance.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247900](https://mon-vie-via.businessfrance.fr/offres/247900)
+
+**Description du poste**
+
+Heetch met en relation chauffeurs et passagers sur plusieurs marchés. Après une profonde restructuration, nous sommes aujourd’hui une petite équipe resserrée et agile, avec un seul objectif : remettre l’entreprise sur une trajectoire durable. Ce ne sera pas facile. Mais rares sont les endroits où vous pourrez avoir autant d’impact aussi tôt.
+
+Nos valeurs :
+
+Jouer collectif
+Faire bouger les choses (l’impact avant tout)
+Être bienveillant (nous sommes conscients des enjeux sociaux et nous nous écoutons les uns les autres)
+Penser différemment
+
+Vous serez notre référent(e) en Business Analysis et en données business. Vous serez rattaché(e) directement au CEO et serez le bras droit des General Managers, des Growth Managers et du/de la Head of Customer Service.
+
+Vous aurez un accès complet à nos données et la liberté de construire vos propres routines. Vos interlocuteurs vous feront part de leurs retours et de leurs intuitions. Votre mission sera d'aider à les transformer en problématiques qui comptent vraiment, de remonter jusqu’à la cause racine et d’élaborer des solutions avec les équipes concernées.
+
+Ce poste s’adresse à quelqu’un qui est à l’aise avec l’ambiguïté et qui veut voir son travail se refléter dans les résultats de l’entreprise. Et les sujets à améliorer ne manquent pas.
+
+Que ferez-vous ?
+
+Marketplace & pricing : suivre de près l’offre, la demande et la fiabilité, et d'aider à traduire vos observations en recommandations claires sur le pricing et les paramètres de la marketplace.
+Growth :aider à analyser en profondeur les funnels d’acquisition et la rétention, identifier les plus grosses opportunités et mesurer ce qui fonctionne, des nouvelles initiatives à nos actions récurrentes d’acquisition et de CRM.
+Service client : aider le/la Head of Customer Service à définir la stratégie et la roadmap projets, suivre les KPI, construire des dashboards et optimiser nos outils et automatisations.
+Trust & Safety : aider à suivre le comportement des chauffeurs et des passagers et son impact sur la marketplace, puis ajuster nos processus disciplinaires et nos automatisations pour maintenir l’équilibre.
+Automatisation : aider à automatiser des processus pour les équipes Growth, Produit et Service client, grâce à des workflows automatisés et des outils d’IA comme Claude.
+
+**Profil recherché**
+
+Vous parlez couramment français et anglais, et êtes éligible au VIE
+Vous êtes débrouillard(e) : quand vous êtes bloqué(e), vous trouvez une solution
+Vous êtes proactif(ve) : vous proposez des idées et vous les mettez en œuvre
+Vous aimez passer d’une requête SQL à un workflow Zendesk puis à un deck pour le CEO, le tout dans la même journée
+Vous maîtrisez Excel et SQL et êtes à l’aise avec les outils de data visualisation
+Vous utilisez l’IA au quotidien, et avec rigueur
+Vous restez calme et vous livrez, même dans l’incertitude
+
+Encore mieux si vous connaissez le secteur de la mobilité et que vous êtes un(e) utilisateur(rice) régulier(ère) de Heetch !
+
+</details>
+
+<details>
+<summary><strong>Contrôleur Financier junior (H/F)</strong> · COLAS RAIL · TORONTO, CANADA · 3 265,74 €/mois</summary>
+
+- **Entreprise :** COLAS RAIL
+- **Lieu :** TORONTO, CANADA
+- **Indemnité :** 3 265,74 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 04/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes grâce à ses deux ans d'expérience en finance, son excellente maîtrise de l'anglais et son autonomie prouvée en PME. Bien que le poste comporte une part importante de comptabilité, de fiscalité et de tâches administratives locales s'éloignant légèrement du pur FP&A, son profil global reste hautement compatible.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247815](https://mon-vie-via.businessfrance.fr/offres/247815)
+
+**Description du poste**
+
+Au Canada, l’activité s’appuie sur une structure agile basée à Toronto et intervenant sur des projets situés dans plusieurs provinces. Cette organisation implique de travailler au quotidien avec de nombreux interlocuteurs à distance et offre un environnement particulièrement transversal, où autonomie, coordination et collaboration sont essentielles.
+Le contrôleur financier junior sera responsable à la fois de la gestion de la comptabilité, de la trésorerie, du contrôle des coûts, de la fiscalité ainsi que du reporting interne de l'entreprise. Il participera également à divers sujets administratifs tels que les ressources humaines ou les affaires juridiques, en coordination avec les spécialistes du groupe.
+
+Rattachement hiérarchique : RAF pays
+
+
+Responsabilités : 
+
+Comptabilité, trésorerie et fiscalité
+•	Comptabiliser les opérations dans l’ERP et dans le logiciel de gestion des notes de frais.
+•	Effectuer les rapprochements mensuels (banques, comptes clients, etc.).
+•	Saisir les liasses comptables trimestrielles dans l’outil de consolidation du groupe.
+•	Préparer les revues comptables trimestrielles à destination du siège social.
+•	Préparer les états financiers annuels en coordination avec le cabinet comptable (CPA) de l’entité locale.
+•	Préparer les paiements et déclarations des différentes taxes (TPS/TVH, impôt sur les sociétés, etc.) en coordination avec le CPA lorsque nécessaire.
+
+Reporting
+•	Préparer les rapports mensuels dans l’outil de consolidation du groupe.
+•	Produire différents rapports relatifs aux projets en cours de l’entité locale.
+•	Préparer les rapports mensuels destinés au département Trésorerie du siège social.
+
+Contrôle des coûts
+•	Assurer le suivi des coûts des projets en cours.
+•	Réaliser des analyses ponctuelles à la demande de la direction.
+
+Autres sujets administratifs
+•	Collaborer avec les spécialistes de la paie à l’élaboration des paies mensuelles et gérer les dossiers de paie des employés.
+•	Superviser le paiement et le rapprochement des programmes d’avantages sociaux et de retraite.
+•	Agir en tant que point de contact pour les employés de la filiale, notamment en assurant la gestion de l’ensemble des éléments de rémunération des expatriés.Assurer le suivi de la conformité réglementaire dans les provinces où l’entité locale exerce ses activités.
+•	Assurer le suivi des obligations d’assurance de l’entité locale.
+
+**Profil recherché**
+
+•	De 1 à 3 ans d’expérience au sein d’un département comptable et financier, d’un cabinet d’audit financier ou d’un cabinet d’expertise comptable (CPA).
+•	Connaissance en comptabilité et en fiscalité.
+•	Maîtrise du français et de l’anglais, à l’écrit comme à l’oral.
+•	Esprit d’équipe, bonnes capacités de coordination et de communication, autonomie et sens de l’initiative.
+•	Autonomie, proactivité et sens des responsabilités
+
+</details>
+
+<details>
+<summary><strong>Business Analyst (H/F)</strong> · B.G. · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** B.G.
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 04/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil correspond très bien aux attentes grâce à la formation en gestion du candidat, sa maîtrise d'Excel et Power BI, ainsi que son niveau d'anglais. L'écart principal réside dans la spécialisation de l'offre orientée vers la trésorerie et la finance corporate, tandis que l'expérience de Nathan est davantage axée sur le contrôle de gestion opérationnel.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247125](https://mon-vie-via.businessfrance.fr/offres/247125)
+
+**Description du poste**
+
+Au sein des départements Back Office et Trésorerie, le Business Analyst sera rattaché fonctionnellement aux responsables des équipes concernées. Cette mission lui permettra d’acquérir une vision transverse des activités financières et de trésorerie du Groupe, tout en contribuant à la transformation et à l’amélioration des processus existants. Il participera à la conception, à la refonte et à l’automatisation des reportings financiers et des outils d’aide à la décision, principalement sous Power BI et Excel. Ces outils couvriront notamment le suivi du cash pooling, des prévisions de trésorerie, des paiements, de l’endettement Groupe et des risques financiers.
+
+**Profil recherché**
+
+-  niveau d'étude : Bac + 4/5
+- filière d'étude : Finance / Ecole de commerce / Gestion
+- expérience : débutant /Une 1ère expérience en finance serait un atout
+- domaine de compétences : Reportings financiers / Analyse financière / Finance / Trésorerie
+- niveau linguistique : Français, anglais courant.
+- compétences professionnelles : Finance de marché, finance corporate, dérivés financiers, trésorerie, automatisation, promptage IA, data management.
+- compétences personnelles : Sociable, curieux, rigoureux, team-player.
+- logiciels bureautiques : Suite Office, Power Query, Power-BI, langage programmation (i.e DAX, M, VBA), IA.
+
+</details>
 
 <details>
 <summary><strong>CORPORATE FINANCE HF (H/F)</strong> · ALBIOMA · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
@@ -73,6 +704,426 @@ Dans un contexte de fort développement de nos activités au Brésil, vos princi
 - Vous avez un bon relationnel et aimez travailler en équipe ; 
 
 - Vous être rigoureux.se et très organisé.e.
+
+</details>
+
+<details>
+<summary><strong>Specialist Asset Management & Pension Fund (H/F)</strong> · BANQUE FEDERATIVE DU CREDIT MUTUEL · DUSSELDORF, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** BANQUE FEDERATIVE DU CREDIT MUTUEL
+- **Lieu :** DUSSELDORF, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 04/11/2026
+- **Compatibilité avec ton profil :** 55 % — Le candidat possède de solides compétences en analyse financière et modélisation (Excel, Power BI) ainsi qu'un excellent niveau d'anglais, ce qui correspond aux attentes. Cependant, son profil est orienté vers le contrôle de gestion en PME industrielle plutôt que vers la gestion d'actifs, les marchés financiers et les fonds de pension requis pour ce poste en Allemagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247838](https://mon-vie-via.businessfrance.fr/offres/247838)
+
+**Description du poste**
+
+Au sein du département Programmes stratégiques, vous rejoindrez l’équipe « Gestion d’actifs et retraite », composée de deux personnes. Cette équipe prend en charge l’ensemble des tâches opérationnelles et analytiques liées à la méthodologie de gestion d’actifs et aux régimes de retraite d’entreprise. 
+
+À ce poste, vous serez chargé(e) de :
+Participer à l’élaboration de rapports, d’évaluations et de présentations réguliers destinés à la direction, aux comités et aux équipes commerciales
+Développer et assurer la mise à jour des rapports réguliers sur le portefeuille de notre fonds de pension, depuis la collecte des données jusqu’aux rapports finaux
+Contribuer au développement des méthodologies d’investissement au sein de la division Banque privée et Gestion de patrimoine
+Participer au développement et à la maintenance de modèles quantitatifs, y compris la préparation des données, les contrôles de plausibilité et la documentation
+Apporter votre expertise pour les investissements en capital dans les régimes de retraite d’entreprise, pour l’intégration de gestionnaires d’actifs externes et pour les processus internes de gestion des prestataires de la banque
+
+**Profil recherché**
+
+Qu'est-ce qui nous plaira chez vous ?
+
+Diplôme en économie, finance, mathématiques ou dans un domaine connexe (maîtrise souhaitée)
+Connaissance des marchés des capitaux et financiers ainsi que de leurs instruments, acquise par le biais de formations ou d'une expérience pratique
+Première expérience pratique dans la gestion d'actifs, les marchés des capitaux ou des domaines connexes
+Intérêt pour l'analyse de données et la modélisation ; idéalement, une première expérience des langages de programmation et des outils de BI ; excellente maîtrise de MS Office, en particulier Excel et PowerPoint
+Le fait d'avoir entamé ou obtenu une qualification professionnelle telle que CFA, CIIA ou FRM est un atout.
+Esprit analytique, méthode de travail structurée et rigoureuse, solides compétences en communication et en travail d'équipe, maîtrise de l'anglais ; la maîtrise de l'allemand est un atout.
+
+</details>
+
+<details>
+<summary><strong>Attaché(e) économique à Riyad (H/F)</strong> · DIRECTION GENERALE DU TRESOR · RIYADH, ARABIE SAOUDITE · 3 078,17 €/mois</summary>
+
+- **Entreprise :** DIRECTION GENERALE DU TRESOR
+- **Lieu :** RIYADH, ARABIE SAOUDITE
+- **Indemnité :** 3 078,17 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 04/11/2026
+- **Compatibilité avec ton profil :** 65 % — Le candidat possède un excellent niveau d'anglais, des compétences financières solides et une ouverture à l'international, ce qui correspond bien au contexte institutionnel. Cependant, son profil est axé sur le contrôle de gestion en entreprise (FP&A) plutôt que sur l'analyse macroéconomique et financière exigée par cette offre de la DG Trésor.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247929](https://mon-vie-via.businessfrance.fr/offres/247929)
+
+**Description du poste**
+
+Le Service économique (SE) de l’Ambassade de France en à Riyad appartient au réseau international de la Direction générale du Trésor du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique. Compétent sur l’Arabie Saoudite et le Yémen, il est constitué de trois agents expatriés, de deux VIA et de deux agents locaux. Il a pour mission d’analyser la situation économique et financière, de suivre l’actualité et les réformes économiques, d’accompagner les entreprises françaises dans leurs projets de développement dans le pays et de contribuer à l’attractivité de la France pour les investissements étrangers.  
+
+Le/la VIA sera particulièrement chargé(e), sous l’autorité du Chef de service économique et de son adjointe, des missions suivantes :
+
+•	suivi et analyse de la situation macroéconomique et financière de l’Arabie saoudite et du Yémen ; 
+•	suivi et analyse des secteurs institutions financières (banques, fonds d’investissement), stratégie d’investissement, relations commerciales ;
+•	rédaction de notes portant notamment sur le secteur financier (banques, assurances, bourse, capital-investissement, finance islamique, etc.) ;
+•	préparation des entretiens avec les institutions financières françaises et saoudiennes ;
+•	contribution à l’organisation d’événements économiques portés par l’Ambassade ;
+•	soutien au développement des entreprises françaises, participation aux activités d’animation de la communauté d’affaires française.
+
+Plus largement, le/la VIA devra faire preuve de souplesse et de polyvalence afin de contribuer à l’ensemble des activités du service en fonction des besoins.
+
+PROFIL :
+
+Formation supérieure de type Master : niveau Master 2 en  économie (université, grande école d’ingénieur ou de commerce avec un parcours économie), IEP avec une spécialisation en sciences économiques / finances.
+
+COMPETENCES REQUISES :
+
+•	rigueur dans l’analyse et l’expression écrite (rédaction de notes synthétiques relatives aux secteurs suivis) ;
+•	sens du contact et capacité à développer et à entretenir un réseau (nombreux contacts avec les entreprises et les administrations saoudiennes) ;
+•	esprit d’initiative (capacité à animer un réseau de relations et à mettre en relation entreprises et donneurs d’ordres potentiels) ; 
+•	capacité à travailler en équipe ;
+•	adaptabilité à un environnement de travail exigeant ;
+•	anglais obligatoire. 
+
+DIVERS :
+
+Le/la VIA bénéficie d’un logement propriété de l’Etat français dans le quartier diplomatique de Riyad (retenue 10% sur indemnité).
+
+**Profil recherché**
+
+Formation supérieure de type Master : niveau Master 2 en  économie (université, grande école d’ingénieur ou de commerce avec un parcours économie), IEP avec une spécialisation en sciences économiques / finances.
+
+Anglais niveau C2 obligatoire
+
+Merci d'envoyer VOS CV UNIQUEMENT en français
+
+</details>
+
+<details>
+<summary><strong>Référent.e risques & conformité (H/F)</strong> · ACM · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** ACM
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 03/11/2026
+- **Compatibilité avec ton profil :** 62 % — Le profil de Nathan correspond par sa formation financière, son appétence pour l'international et la maîtrise d'outils comme Excel et Power BI. Cependant, l'offre est axée sur les risques, la conformité réglementaire (RGPD, DORA) et le contrôle interne en assurance, ce qui s'éloigne de son cœur de métier en contrôle de gestion et FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247816](https://mon-vie-via.businessfrance.fr/offres/247816)
+
+**Description du poste**
+
+Ce que vous allez vivre chez ICM Life
+Filiale des Assurances du Crédit Mutuel, ICM Life se spécialise dans les solutions d’assurance-vie sur-mesure pour une clientèle internationale, tirant parti de l’attractivité du Luxembourg. Son modèle repose sur des contrats en unités de compte et fonds en euros, distribués via les réseaux bancaires du groupe Crédit Mutuel Alliance Fédérale.
+Le Luxembourg, 2ᵉ marché mondial de l’assurance-vie, offre un cadre idéal : conformité stricte, flexibilité produit et clientèle diversifiée. ICM Life mise sur l’innovation et l’expertise réglementaire pour répondre aux enjeux transfrontaliers.
+Pour un VIE, c’est l’occasion de maîtriser les mécanismes de l’assurance-vie internationale, travailler avec des experts en produits d’assurance et conformité, et contribuer à des projets structurants dans un environnement dynamique. Un tremplin pour allier assurance, challenge et dimension internationale.
+
+Au cours de votre contrat VIE
+Vous développerez vos connaissances et votre expertise des métiers du contrôle et de la sécurité financière dans la branche de l’assurance. 
+Vous intégrerez une entreprise à taille humaine membre d’un groupe international fort, offrant des perspectives de carrière. 
+Cette expérience vous permettra de gagner en autonomie, sur des sujets complexes en lien avec le Commissariat aux Assurances, sous la supervision directe du Directeur. 
+A l’issue de votre VIE, vous serez aurez développé une expertise sur les sujets de conformité et réglementaires, et disposerez d’une solide compréhension des enjeux de l’assurance vie. 
+
+Votre mission
+Directement rattaché au dirigeant vous serez amené·e à : 
+Actualiser les procédures de contrôle interne (souscription, gestion des sinistres) et les cartographies de risques.
+Participer à la préparation des audits (collecte de preuves, analyse des écarts) et suivre les plans d’action correctifs.
+Mettre à jour le registre des traitements RGPD et vérifier la conformité des clauses contractuelles.
+Traiter les demandes d’exercice de droits (accès, rectification, effacement) et contribuer aux analyses d’impact.
+Cartographier les risques cyber pour la conformité DORA.
+Participer aux tests de résilience et documenter les procédures d’incident.
+Suivre les évolutions réglementaires et adapter les processus en conséquence.
+Participer à la gestion des tâches courantes de l’entreprise.
+Élaborer des tableaux de bord pour le suivi des non-conformités et des actions correctives.
+Sensibiliser les équipes aux bonnes pratiques (RGPD, cybersécurité, contrôle interne)
+
+**Profil recherché**
+
+Nous apprécierons chez vous : 
+Vous êtes titulaire d’un master en droit, en finances ou diplôme équivalent
+Vous apportez idéalement quelques connaissances réglementaires : Solvabilité II, RGPD, DORA
+Vous êtes reconnu pour votre capacité d’analyse et votre rigueur : Capacité à auditer des processus, identifier des risques et proposer des solutions pragmatiques (contrôle interne, conformité).
+Vous disposez d’une première expérience en gestion de projet : Organisation et suivi de plans d’action correctifs, coordination avec les équipes IT, juridique et métiers.
+Vous maîtrisez des outils de reporting (Excel, Power BI).
+Relationnel et pédagogie font partie intégrante de votre personnalité : Aptitude à sensibiliser les collaborateurs (RGPD, contrôle interne) et à travailler en mode transverse.
+Vous êtes adaptable et curieux : Appétence pour la veille réglementaire et l’innovation dans un secteur en mutation (assurance-vie, digitalisation).
+
+</details>
+
+<details>
+<summary><strong>FP&A Manager (H/F)</strong> · FRESH SAS · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** FRESH SAS
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan correspond aux compétences techniques en FP&A et reporting, mais le poste exige un profil senior avec au moins 7 ans d'expérience, alors que Nathan a seulement 2 ans d'expérience et est étudiant en Master.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247842](https://mon-vie-via.businessfrance.fr/offres/247842)
+
+**Description du poste**
+
+The Senior Manager, FP&A, leads financial planning, analysis, and reporting for Fresh across North America, driving business growth across all channels. This role provides strategic financial guidance and support, contributing to the evaluation and execution of business plans. This position serves as a key communicator between Central and North America leadership, and partners cross-functionally on strategic initiatives, ensuring financial performance aligns with company objectives.
+
+Essential Duties and Responsibilities
+•	Manage and prepare the monthly close review process and reporting, with a dedicated focus on US, Canada and Mexico.
+o	Analyze, manage and review monthly P&L results and variance explanations, preparing comments against budget and prior year for all markets in NA, suggesting corrective measures if needed.  
+o	Develop and present P&L commentary for respective businesses within the US, Canada and Mexico, inclusive of P&L by retailer
+o	Work closely with A/R, Sales Admin and Marketing teams within the US, Canada and Mexico, following up all sorts of chargebacks from retailers monthly.
+o	Work closely with the Accounting team ensuring the accuracy of the books.
+•	Prepare monthly Net Sales/P&L comments by channel for US, Canada and Mexico for top Management.
+•	Develop scorecards that will provide insightful information to executive team (such as, but not limited to AR/DSO sales trend analysis by channel and door - wholesale vs retail and weeks of supply, etc.).
+•	Prepare monthly Sales Outlook (forecasted sales of the next 4 months), in coordination with Sales and Digital teams, providing a consolidated view and analysis of the performance in North America to Top management (US and Global).
+•	Manage the delivery of all performance commitments and reporting requests from Global Finance, fulfilling the deadlines established. Coordinate all key parts to make sure that all requests are answered on time and in accurate manner.
+•	Manage short- and long-term financial planning Budgets / Forecasts (R1, R2, Budget) process with the Heads of Departments of US (Marketing, Digital, Sales…): review and challenge main assumptions, provide recommendations.
+•	Oversee all aspects of the P&L for Fresh.com in the North American market
+•	Departmental Partnership
+o	Serve as the key finance partner to all US, Canada and Mexico functional departments involved in the wholesale business, inclusive of Marketing, E-Retail, and Sales Administration
+o	Own entire Visual Merchandising and Store Design budget communication for all North America to ensure alignment across channels
+o	Lead meetings with US, Canada and Mexico departmental leaders in order to analyze how their respective budget is trending on a monthly basis as well as during key review periods
+o	Identify risks and opportunities for each department in order to make well informed decisions in forecasting future budgeting
+o	Fulfill ad-hoc financial reporting requests from the CFO, CCO, VP of Sales, as well as department heads.
+•	Review and prepare capital expenditures requests for US, Canada, Mexico and Global Markets and provide recommendation following the approval processes in place at Fresh and in LVMH. 
+•	Prepare ad hoc reports and analysis as required and as necessary.
+•	Ensure quality and timeliness of key deliverables that meet expectations while balancing business needs 
+•	Develop process improvements
+
+What you will learn in the first 6 months: 
+•	 Financial reporting and planning processes, tools, and critical metrics at Fresh central, regional, and market level.
+•	Business and financial goals of Fresh North America and global markets, inclusive of both the long-term vision and mid-term/short-term goals.
+•	Market knowledge and Fresh strategy and approaches in a diversified, dynamic, and highly driven region
+What you will achieve in 12 months:
+•	 Gain global exposure to markets’ performance and organize monthly review.
+•	Become a highly trusted partner to all cross-functional incumbents. 
+•	Provide key financial information and recommendations to top management that will ultimately help steer the North America and Global financial strategy. 
+
+Physical Requirements: 
+•	Must be able to remain in a stationary position on average of 7.5 hours/day. 
+•	Light to moderate lifting may be required. 
+•	While performing the duties of this job, the employee may be regularly required to stand, sit, reach, stoop, kneel, and operate a computer, telephone, and keyboard.
+
+**Profil recherché**
+
+•	You have at least 7 Years of Experience in Finance, FP&A, and Controlling and Reporting.
+•	You ideally have experience in the retail, consumer goods, or beauty industry. 
+•	You are highly analytical, detail-oriented, and organized. 
+
+•	You are: 
+o	Consumer Centric: Build relationships with Consumers through heartfelt generosity 
+o	Agile: Anticipate and champion change 
+o	Collaborative: Communicate and dream with others 
+o	Growth Minded: Seek opportunities that offer the chance to be a curious creator
+o	Accountable: Take ownership of actions and responsibilities 
+o	A Strategic Thinker: Implement new ideas from data and insights to create the unexpected 
+o	Driven for Results: A relentless pursuit to achieve business objectives, drive revenue and contribute to organizational success 
+o	Optimistic: Maintain a “Sky’s the Limit” mindset 
+•	You are proficient in Excel and Power Point. Experience with Syrus (or a similar reporting tool) in AX and Cognos is a plus. 
+•	You have a BS in Finance or Accounting, MBA preferred.
+
+</details>
+
+<details>
+<summary><strong>Internal Audit, Controls & AI Analyst (H/F)</strong> · M&L DISTRIBUTION (FRANCE) S.A.R.L. · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
+
+- **Entreprise :** M&L DISTRIBUTION (FRANCE) S.A.R.L.
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 743,28 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil financier et analytique de Nathan correspond bien aux attentes en contrôle et analyse de données, avec un fort niveau d'anglais et une appétence pour l'international. Cependant, l'offre exige la maîtrise du portugais et se focalise sur l'audit interne et l'IA, ce qui diffère légèrement de son cœur de métier en contrôle de gestion.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247756](https://mon-vie-via.businessfrance.fr/offres/247756)
+
+**Description du poste**
+
+CONTEXT & MISSION: 
+
+The L’OCCITANE Group Internal Audit team is looking for a VIE to join us in São Paulo, embedded within our Brazilian organization. 
+You will support the deployment of internal controls and the transformation of Internal Audit through data analytics and Artificial Intelligence. 
+ 
+The role provides a unique opportunity to gain exposure to a fast-growing international business while working directly with Group Internal Audit on strategic initiatives across multiple brands, including L’Occitane au Brésil and L’Occitane en Provence. 
+
+working directly with Group Internal Audit on strategic initiatives across multiple brands, including Sol de Janeiro and L'Occitane. 
+
+Ready to start your international career at the intersection of business, risk, data and AI? 
+
+KEY RESPONSIBILITIES: 
+
+Internal Controls: support the improvement of the Internal Control System (ICS) in Brazil and support the deployment and testing of the Group GRC (governance risk and control) software for our Brands operating in Sao Paulo 
+
+Internal Audit: contribute to Group audit assignments across brands and countries worldwide 
+
+AI & Audit Innovation: challenge and validate AI-enabled audit work (prompt and then verify loops with Group Internal Audit Senior Managers), using all Microsoft 365 tools (MS365, Excel, Power BI) available, our internal AI and external AI models 
+
+
+WHAT YOU WILL GAIN: 
+
+Work directly with senior leaders from Group Internal Audit 
+
+Contribute to the transformation of Internal Audit through AI and analytics 
+
+Gain exposure to a fast-growing international business 
+
+Develop expertise in internal controls, governance and risk management 
+
+Learn to apply AI responsibly within audit activities 
+
+Build a strong foundation for future careers in Internal Audit, Internal Controls, Risk Management, Data Analytics or Governance
+
+**Profil recherché**
+
+You do not need to be an audit expert. We are looking for an honest, smart, curious, motivated, well organized and service-oriented individual who enjoys learning every day and understanding how businesses work, how information flows, and how technology improves internal audit and controls. If you are passionate about AI, data and technology, risk and business operations, we would like to hear from you. 
+
+Master's degree (or equivalent) in Business, Engineering, Finance, Audit, Information Systems, Data Analytics or a related field 
+
+Initial experience in audit, internal controls, consulting, finance, technology or data analytics 
+
+Fluent in Portuguese, French and English  
+
+Demonstrated interest in Artificial Intelligence, automation and business transformation (at ease with Copilot, Claude, MS365, Excel with Python, ERP Systems etc.)  
+
+Strong analytical and problem-solving skills 
+
+Proactive and eager to learn 
+
+Ability to challenge information constructively and communicate clearly with stakeholders 
+
+Curiosity about how organizations operate, how decisions are made, and how data flows across processes 
+
+Demonstrate integrity, professionalism and sound judgement 
+
+Enjoy working in multicultural environments 
+
+Comfortable engaging with Internal Controls owners and building positive working relationships
+
+</details>
+
+<details>
+<summary><strong>Internal Audit, Controls & AI Analyst (H/F)</strong> · M&L DISTRIBUTION (FRANCE) S.A.R.L. · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** M&L DISTRIBUTION (FRANCE) S.A.R.L.
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes financières et linguistiques (anglais courant) de l'offre, avec de solides compétences en Excel et Power BI. Cependant, l'offre est axée sur l'audit interne, les contrôles internes et l'IA, alors que l'expérience de Nathan est plus orientée vers le contrôle de gestion pur.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247753](https://mon-vie-via.businessfrance.fr/offres/247753)
+
+**Description du poste**
+
+CONTEXT & MISSION: 
+
+The L’OCCITANE Group Internal Audit team is looking for a VIE to join us in New York City, embedded within our North American organization. 
+You will support the deployment of internal controls and the transformation of Internal Audit through data analytics and Artificial Intelligence. 
+ 
+The role provides a unique opportunity to gain exposure to a fast-growing international business while working directly with Group Internal Audit on strategic initiatives across multiple brands, including Sol de Janeiro and L'Occitane en Provence. 
+
+Ready to start your international career at the intersection of business, risk, data and AI? 
+
+KEY RESPONSIBILITIES: 
+
+Internal Controls: support the improvement of the Internal Control System (ICS) and support the deployment & testing of the Group GRC (governance risk and control) software for our Brands operating in North America 
+
+Internal Audit: contribute to Group audit assignments across brands and countries worldwide 
+
+AI & Audit Innovation: challenge and validate AI-enabled audit work (prompt and then verify loops with Group Internal Audit Senior Managers), using all Microsoft 365 tools (MS365, Excel, Power BI) available, our internal AI and external AI models 
+
+WHAT YOU WILL GAIN: 
+
+Work directly with senior leaders from Group Internal Audit 
+
+Contribute to the transformation of Internal Audit through AI and analytics 
+
+Gain exposure to a fast-growing international business 
+
+Develop expertise in internal controls, governance and risk management 
+
+Learn to apply AI responsibly within audit activities 
+
+Build a strong foundation for future careers in Internal Audit, Internal Controls, Risk Management, Data Analytics or Governance
+
+**Profil recherché**
+
+You do not need to be an audit expert. We are looking for an honest, smart, curious, motivated, well organized and service-oriented individual who enjoys learning every day and understanding how businesses work, how information flows, and how technology improves internal audit and controls. If you are passionate about AI, data and technology, risk and business operations, we would like to hear from you. 
+
+Master's degree (or equivalent) in Business, Engineering, Finance, Audit, Information Systems, Data Analytics or a related field 
+
+Initial experience in audit, internal controls, consulting, finance, technology or data analytics 
+
+Fluent in English and French 
+
+Demonstrated interest in Artificial Intelligence, automation and business transformation (at ease with Copilot, Claude, MS365, Excel with Python, ERP Systems etc.)  
+
+Strong analytical and problem-solving skills 
+
+Proactive and eager to learn 
+
+Ability to challenge information constructively and communicate clearly with stakeholders 
+
+Curiosity about how organizations operate, how decisions are made, and how data flows across processes 
+
+Demonstrate strong integrity, professionalism and sound judgement 
+
+Enjoy working in multicultural environments  
+
+Comfortable engaging with Internal Controls owners and building positive working relationships
+
+</details>
+
+<details>
+<summary><strong>Finance and Administration Manager (H/F)</strong> · KLB · MEXICO, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** KLB
+- **Lieu :** MEXICO, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux exigences financières et de reporting du poste grâce à son expérience solide en contrôle de gestion et son niveau avancé en Excel. Bien que le poste exige un espagnol courant (niveau B1 pour le candidat) et inclue des tâches administratives et RH variées, sa forte autonomie financière et son appétence pour l'international compensent largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247568](https://mon-vie-via.businessfrance.fr/offres/247568)
+
+**Description du poste**
+
+Reporting directly to the Group CFO and working closely with the country BU Directors, the V.I.E will support Finance & Administration (F&A) activities for our Mexico and São Paulo subsidiaries.
+ 
+Based in our Mexico City office, the V.I.E will also provide remote support for activities related to São Paulo. The mission will mainly cover the following areas:
+ 
+1) FINANCE COORDINATION & SUPPORT
+•	Work closely with the Finance teams in Mexico and São Paulo and facilitate coordination with Group Finance.
+•	Liaise with external accounting providers regarding annual financial statements, tax declarations and other accounting matters.
+•	Support the coordination and preparation of information required for annual audits.
+•	Facilitate communication between local teams, external providers and Corporate F&A.
+ 
+2) REPORTING & CONTROL
+•	Prepare financial reporting and analysis for monthly closing, forecasting and planning.
+•	Perform consistency checks on financial and accounting data and highlight discrepancies to the relevant local or Group stakeholders.
+•	Support reconciliation between accounting and reporting.
+•	Prepare cash-control information, including bank reconciliations, and support payment preparation and follow-up in accordance with the company’s established approval procedures.
+•	Support the implementation and monitoring of KLB policies and procedures.
+ 
+3) TRANSACTION SUPPORT & MONITORING
+•	Support Accounts Receivable and Accounts Payable processes, including invoice preparation, cash-collection follow-up and supplier-account monitoring.
+•	Coordinate the transmission of financial information to external accountants and contribute to the review of monthly and yearly accounting deliverables.
+•	Review expense documentation and flag potential discrepancies or compliance issues to the relevant responsible stakeholders.
+•	Support the preparation and follow-up of exchanges with tax administrations, under the responsibility of the relevant local or Group representatives.
+ 
+4) HR ADMINISTRATION SUPPORT
+•	Provide administrative support for the preparation of employment documentation and the maintenance of employee files and records.
+•	Coordinate the collection and transmission of information required for bi-weekly payroll processing with the external service provider.
+•	Support HR administrative processes throughout the employee lifecycle.
+ 
+5) CONTRACT & LEGAL SUPPORT
+•	Support the administrative review and coordination of contracts prior to signature by the authorized company representatives.
+•	Prepare and compile information and documentation required for potential legal matters, in coordination with external lawyers and the relevant company representatives.
+•	Facilitate follow-up between internal stakeholders and external legal advisers.
+ 
+6) PROJECTS & GENERAL ADMINISTRATION
+•	Support office and general administration activities, including premises, IT, insurance, company cars and mobile phones.
+•	Provide support to Corporate F&A and contribute to Group projects in coordination with F&A representatives in other countries.
+•	Contribute to the improvement of financial and administrative processes and reporting tools.
+
+**Profil recherché**
+
+- Accounting / Finance Controling certificate 
+- Excel at advanced level
+- Excellent, fluent command of French, Spanish and English language, both written and spoken (Portuguese a Plus)
+- Able to work independently or as part of a team.
+- Ability to take instruction for various exercises/ processes working towards deadlines
+
+The candidate must be reliable, confident and independent. Communication and interpersonal skills are essential to have day-to-day communication with both internal and external clients over the phone.
 
 </details>
 
@@ -302,6 +1353,621 @@ Le respect des délais et la discrétion sont essentiels pour réussir dans ce p
 </details>
 
 <details>
+<summary><strong>Sales Manager (H/F)</strong> · BNP PARIBAS · HONG KONG, HONG KONG · 3 196,80 €/mois</summary>
+
+- **Entreprise :** BNP PARIBAS
+- **Lieu :** HONG KONG, HONG KONG
+- **Indemnité :** 3 196,80 €/mois
+- **Durée de la mission :** 12 mois (Du 1 avr. 2027 au 1 avr. 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil du candidat en contrôle de gestion et analyse financière s'aligne bien avec les compétences analytiques et de reporting demandées par l'offre. Cependant, le poste de Sales Management orienté vers le pilotage commercial en banque privée à Hong Kong s'éloigne de son objectif initial en FP&A et de sa préférence géographique pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247832](https://mon-vie-via.businessfrance.fr/offres/247832)
+
+**Description du poste**
+
+BNP Paribas Wealth Management est la première banque privée de la zone euro et un acteur de référence de la gestion de fortune à l’échelle internationale. Présente en Europe et en Asie, elle accompagne une clientèle fortunée, entrepreneuriale et familiale dans la préservation, le développement et la transmission de son patrimoine. Au sein de la région Asie-Pacifique, vous rejoindrez l’équipe Sales Management basée à Hong Kong, un centre financier majeur de la région offrant un environnement international et stratégique.
+ 
+Au quotidien, ça donne quoi ?
+
+En tant que Sales Manager, vous intégrerez l’équipe Sales Management de Wealth Management et contribuerez activement au pilotage commercial de la région Asie-Pacifique. Vous évoluerez au sein d’une équipe à taille humaine répartie entre Hong Kong et Singapour, reconnue pour son esprit de collaboration, son autonomie et sa proximité avec les métiers commerciaux. Le bureau est situé à Quarry Bay, quartier d’affaires en plein développement bénéficiant d’excellentes connexions aux transports publics. 
+
+Au quotidien, vous participerez au développement d’une culture de discipline commerciale en accompagnant les équipes Front Office dans l’utilisation des outils de pilotage de la performance et des tableaux de bord. Vous contribuerez également à l’amélioration de la qualité des opportunités commerciales et au suivi des pipelines de prospection. Vous appuierez les équipes dans les sujets liés à la politique tarifaire des services bancaires. 
+
+Vous prendrez part à l’animation commerciale en participant à la conception et au déploiement des campagnes de vente. À ce titre, vous contribuerez à la coordination des livrables, à la création de supports de communication et à l’évaluation de la performance des campagnes et événements marketing. 
+
+Vous contribuerez également aux activités de reporting et d’aide à la décision en produisant des analyses régulières sur les initiatives stratégiques, en identifiant les tendances clés et en répondant aux demandes ponctuelles de reporting des différentes parties prenantes. 
+
+Et après ?
+
+Cette mission vous permettra d’acquérir une vision globale du métier de la banque privée et des enjeux de pilotage commercial dans un environnement international. Vous développerez une solide expertise sur les sujets liés au Sales Management tout en renforçant vos capacités d’analyse, votre compréhension des indicateurs de performance et votre aptitude à interagir avec des interlocuteurs variés. 
+
+Grâce aux nombreuses interactions avec des managers expérimentés et des équipes basées dans différents pays de la région Asie-Pacifique, vous développerez également votre réseau professionnel, vos compétences relationnelles ainsi que votre capacité à évoluer dans un contexte multiculturel. Le parcours d’intégration et la formation opérationnelle de 12 mois vous permettront d’apprendre en continu et de construire des compétences recherchées au sein du Groupe. Des opportunités d’évolution pourront être envisagées en fonction de votre performance, de votre projet professionnel et des opportunités disponibles au sein de BNP Paribas. 
+
+ Les avantages à nous rejoindre
+
+Et la rémunération ?
+
+Fixée par arrêté ministériel, elle est versée mensuellement et se compose de deux éléments :
+
+Une indemnité commune, identique pour tous les jeunes en mission.
+Une indemnité géographique, variable selon le pays (et parfois la ville) de destination. Cette indemnité est recalculée chaque trimestre.
+Retrouvez plus d’informations sur le site de Business France. Rejoignez un Groupe engagé auprès de ses clients et de la société, et contribuez activement à notre transformation en faveur d’un monde plus durable. Impliquez-vous à nos côtés, sur votre temps professionnel, grâce à notre programme One Million Hours To Help.
+
+**Profil recherché**
+
+Vous êtes diplômé d’un Bac+5 en commerce, finance, gestion, économie, data analyse en école de commerce ou équivalent universitaire. 
+
+Vous justifiez d’au moins une première expérience professionnelle, stages et alternances compris, dans les domaines de l’analyse de données, du développement commercial, du marketing ou du pilotage de la performance.
+
+Vous possédez de solides capacités d’analyse et êtes à l’aise avec l’exploitation et l’interprétation de volumes importants de données. Vous savez transformer les informations recueillies en recommandations pertinentes pour accompagner la prise de décision. Vous faites preuve d’une grande rigueur et d’un fort sens du détail afin d’identifier des tendances et opportunités à forte valeur ajoutée. 
+
+Vous appréciez le travail en équipe et savez collaborer efficacement avec des interlocuteurs variés dans un environnement international. Votre communication est claire et adaptée à vos différents interlocuteurs. Organisé(e), vous êtes capable de gérer plusieurs sujets simultanément et de respecter les échéances fixées. Vous démontrez également une forte capacité d’adaptation pour évoluer dans un environnement dynamique en constante évolution. 
+
+Une bonne maîtrise de l’anglais est attendue afin d’évoluer dans un contexte international.
+
+</details>
+
+<details>
+<summary><strong>Analyste Reporting Financier (H/F)</strong> · BNP PARIBAS · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** BNP PARIBAS
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 02/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en termes de formation (Bac+5 en finance) et de compétences techniques (maîtrise d'Excel, rigueur, analyse financière, anglais courant). Cependant, son expérience est axée sur le contrôle de gestion opérationnel en PME plutôt que sur la comptabilité bancaire ou le reporting réglementaire spécifique au secteur bancaire exigé par BNP Paribas.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247827](https://mon-vie-via.businessfrance.fr/offres/247827)
+
+**Description du poste**
+
+Au sein de la fonction Finance, vous rejoindrez l'équipe Financial Accounting & Reporting, dont la mission est de produire, contrôler et expliquer l'information comptable, financière et réglementaire de la Banque, ainsi que de produire et analyser les indicateurs de solvabilité et de liquidité à destination du management, du Groupe et des régulateurs. Cette équipe couvre notamment les activités d'Accounting, Reporting Fiscal, Reporting Groupe, Reporting Direction, Reporting Réglementaire, Solvency & Liquidity et Transversal Analyses & Solutions.
+
+Au quotidien, ça donne quoi ?
+
+En tant que VIE - Analyste Reporting Financier, vous intégrerez l'équipe Solvency & Liquidity et contribuerez à la production, au contrôle et à l'analyse des indicateurs de solvabilité et de liquidité de la Banque. Vous participerez activement à la fiabilité des données réglementaires et financières, essentielles au pilotage de l'activité bancaire et au respect des exigences des autorités de supervision.
+
+Concrètement, vous serez amené(e) à :
+
+Produire, contrôler et analyser les indicateurs financiers, réglementaires et prudentiels de la Banque.
+Rassembler, traiter, fiabiliser et restituer les données dans le respect des délais impartis.
+Participer à l'automatisation et à l'optimisation des processus de reporting afin d'améliorer l'efficacité opérationnelle.
+Contribuer à la production et à la transmission des reportings réglementaires.
+Assurer la cohérence, la qualité et la fiabilité des données utilisées dans les différents reportings.
+Accompagner les équipes dans les projets de transformation, de conduite du changement et d'amélioration continue.
+Partager vos connaissances et collaborer avec de multiples interlocuteurs au sein de la Banque.
+Vous évoluerez au sein d'une équipe d'une trentaine de collaborateurs basée dans le bâtiment Sekoia et travaillerez en étroite interaction avec de nombreux partenaires internes. Un plan de formation personnalisé sera défini dès votre arrivée afin de favoriser votre montée en compétences progressive. Le poste est également éligible au télétravail selon les règles en vigueur au sein de la Banque.
+
+Et après ?
+
+Cette expérience vous permettra d'acquérir une vision transverse du fonctionnement d'une banque internationale et des enjeux liés au reporting financier, réglementaire, à la solvabilité et à la liquidité. Vous développerez une solide expertise dans l'analyse des données financières, le contrôle réglementaire et l'amélioration des processus au sein d'un environnement exigeant et stimulant.
+
+Au cours de votre mission, vous renforcerez votre capacité d'analyse, votre rigueur, votre esprit de synthèse ainsi que votre aptitude à travailler sur des sujets variés en autonomie tout en bénéficiant de l'appui d'experts. Vous participerez également à des projets réglementaires et de transformation à forte visibilité pour l'organisation.
+
+Cette expérience constituera un excellent tremplin vers des fonctions en finance, reporting réglementaire, contrôle financier, gestion des risques ou transformation au sein de BNP Paribas ou plus largement dans le secteur financier. Des opportunités de renouvellement ou d'évolution pourront être envisagées selon les besoins de l'organisation, les opportunités existantes et la qualité de la collaboration.
+
+Les avantages à nous rejoindre
+
+Et la rémunération ?
+
+Fixée par arrêté ministériel, elle est versée mensuellement et se compose de deux éléments :
+
+Une indemnité commune, identique pour tous les jeunes en mission ;
+Une indemnité géographique, variable selon le pays (et parfois la ville) de destination. Cette indemnité est recalculée chaque trimestre.
+Retrouvez plus d'informations sur le site de Business France.
+
+**Profil recherché**
+
+Vous êtes diplômé(e) d'un Bac+5 obtenu en école de commerce, école d'ingénieur ou équivalent universitaire avec une spécialisation en finance, comptabilité, contrôle de gestion, audit, gestion des risques ou data appliquée à la finance.
+Vous avez idéalement acquis une première expérience à travers des stages, une alternance ou des projets académiques en reporting financier, comptabilité, contrôle financier, audit, gestion des risques ou analyse de données.
+Vous disposez de bonnes connaissances en analyse financière, comptabilité bancaire, reporting réglementaire et manipulation de données. La maîtrise d'Excel est indispensable et une connaissance des outils de reporting ou d'analyse de données constituera un atout.
+La maîtrise du français est indispensable. Un bon niveau d'anglais vous permettra d'évoluer efficacement dans un environnement international.
+Vous êtes reconnu(e) pour votre collaboration active, votre sens de l'organisation, votre aisance en communication, votre capacité d'analyse et votre adaptabilité. Votre rigueur, votre curiosité, votre autonomie et votre goût pour l'amélioration continue seront des atouts majeurs pour réussir dans cette mission.
+
+</details>
+
+<details>
+<summary><strong>Distribution Support Officer (H/F)</strong> · AMUNDI ASSET MANAGEMENT · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** AMUNDI ASSET MANAGEMENT
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier, tandis que l'offre chez Amundi est axée sur le support commercial, la gestion de contrats de distribution et l'onboarding client dans l'asset management. Bien que ses compétences analytiques, son niveau d'anglais et son ouverture à l'international correspondent aux attentes, le cœur de métier de l'offre s'éloigne sensiblement de son expertise en FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247765](https://mon-vie-via.businessfrance.fr/offres/247765)
+
+**Description du poste**
+
+Within Amundi Luxembourg’s Business and Products Division, the VIE will contribute to the cross-boarder commercial development of Private Assets investment solutions within the Amundi Group.
+The role will contribute to the preparation and coordination of cross-border commercial initiatives, the follow-up of existing clients and funds, and the smooth execution of internal processes linked to product launches, client requests and cross-functional coordination, with a specific focus on Private Assets products and on the onboarding of clients into this asset class.
+
+Responsibilities of the role include but are not limited to:: 
+
+In coordination with Sales, the relevant client service officer and internal departments (legal, compliance, middle office, etc.…), support the set-up of contracts relating to distribution activities performed by distributors acting as fund sellers, users, or both, monitoring of requests to amend or set up brand new contracts 
+-Make sure contractual obligations, particularly all aspects regarding remuneration and Client reporting needs are in line with internal processes and procedures and products regulatory requirements; 
+-Respond to requests from both internal stakeholders, such as Sales and Product Specialists, and external clients, such as distributors.
+-Support the handling and follow-up of client requests in coordination with the relevant client service officer/local teams.
+-Contribute to the preparation of periodic reporting, presentations and ad hoc deliverables, notably in support of client onboarding in this new asset class.
+-Contribute to the coordination of cross-functional projects and internal initiatives.
+-Assist with meeting preparation, agenda setting, minute taking and action tracking.
+-Support the standardization and improvement of business support processes.
+-Ensure consistency with internal governance, procedures and Group standards.
+
+**Profil recherché**
+
+-	Excellent communication, problem-solving and analytical skills.
+-	Rigorous, reliable and service-oriented mindset.
+-	Good project management skills.
+-	Strong motivation and intellectual curiosity.
+-	Familiarity with asset management products, particularly Private Assets, fund structures or distribution processes, would be a plus.
+-	Comfortable working in an international environment.
+-	Ability to interact with senior management in a matrix organization.
+-	Team spirit, proactivity and adaptability.
+
+</details>
+
+<details>
+<summary><strong>Business Controller (H/F)</strong> · LABORATOIRES URGO HEALTHCARE · BOLOGNE, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** LABORATOIRES URGO HEALTHCARE
+- **Lieu :** BOLOGNE, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes avec son master en contrôle de gestion, ses deux ans d'expérience significative en finance et sa maîtrise d'Excel. Seul un léger écart géographique existe, l'offre étant située en Italie alors qu'il cible notamment l'Espagne, mais son niveau d'anglais courant compense largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247759](https://mon-vie-via.businessfrance.fr/offres/247759)
+
+**Description du poste**
+
+Agave est une filiale du Groupe Urgo spécialisée dans les dispositifs médicaux à destination des professionnels de santé. Dans un contexte de croissance de l'activité et de transformation de ses outils de gestion, Agave renforce son équipe Finance et recherche un(e) V.I.E Business Controller pour accompagner les équipes locales sur des enjeux de pilotage de la performance et de transformation des processus financiers.
+Rattaché(e) à la Direction Finance d'Agave, vous accompagnez les équipes Finance et Contrôle de Gestion dans leurs activités quotidiennes ainsi que dans plusieurs projets structurants.
+
+Vos principales responsabilités seront les suivantes :
+
+Participer à la production et à l'analyse des reportings financiers mensuels.
+Contribuer au suivi des indicateurs de performance de l'entreprise.
+Accompagner le processus budgétaire et les exercices de prévisions.
+Réaliser des analyses ad hoc à destination des équipes Finance et de la Direction Générale.
+Participer au suivi des activités de contrôle interne et de conformité.
+Contribuer à l'amélioration continue des processus financiers.
+Accompagner les équipes dans le cadre du projet de transformation SAP et participer aux travaux préparatoires liés à son déploiement.
+Assurer un support transverse aux différentes fonctions de l'entreprise (Finance, Supply Chain, Commercial, Marketing).
+
+**Profil recherché**
+
+Diplômé(e) d'une école de commerce, d'ingénieur ou d'un Master Universitaire avec une spécialisation Finance, Contrôle de Gestion ou Audit.
+Première expérience (stage, alternance ou premier emploi) en contrôle de gestion, audit ou finance d'entreprise.
+Bonne maîtrise d'Excel et appétence pour les outils d'analyse de données.
+Connaissances des ERP (SAP serait un plus).
+Excellentes capacités analytiques et esprit de synthèse.
+Rigueur, autonomie et sens de l'organisation.
+Bon relationnel et capacité à travailler dans un environnement international.
+
+</details>
+
+<details>
+<summary><strong>Business Controller / Finance Transformation (H/F)</strong> · LEGRAND FRANCE · SOEST, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** LEGRAND FRANCE
+- **Lieu :** SOEST, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond fortement aux attentes grâce à son expérience réussie en contrôle de gestion, sa maîtrise d'Excel et de la data (Power BI), ainsi qu'à son excellent niveau d'anglais. Le principal écart réside dans le pays de mission (Allemagne vs préférence pour l'Espagne) et l'absence mentionnée d'expérience sur SAP.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247727](https://mon-vie-via.businessfrance.fr/offres/247727)
+
+**Description du poste**
+
+Dans un contexte de transformation et de digitalisation de la fonction Finance, vous contribuerez activement à l'amélioration des outils de pilotage, des processus financiers et du contrôle de gestion au sein de la zone Allemagne / Autriche.
+Rattaché(e) au Directeur Administratif et Financier, vous accompagnerez les équipes Finance et Opérations dans l'exploitation des nouveaux outils issus du déploiement de SAP et participerez à l'harmonisation des processus de reporting et de contrôle de gestion.
+Une attention particulière sera portée au développement de nouveaux dashboards de pilotage, à l'amélioration de la qualité des données et au renforcement du contrôle de gestion industriel, notamment dans le cadre de la mise en place du module SAP PS (Project System) sur le site de production de Modulan.
+Cette mission s'inscrit dans la continuité des activités de reporting, de business controlling et d'amélioration du contrôle interne.
+PRINCIPALES ACTIVITES : 
+1. Digitalisation Finance & Business Intelligence
+· Accompagner la transformation digitale du département Finance.
+· Concevoir et déployer de nouveaux dashboards et outils de pilotage à partir des données SAP.
+· Participer à l'évolution et à l'optimisation des reportings financiers et opérationnels.
+· Contribuer à l'amélioration de la qualité, de la disponibilité et de la fiabilité des données.
+· Accompagner les utilisateurs dans l'adoption des nouveaux outils et indicateurs de performance.
+2. Contrôle de gestion & Performance
+· Participer aux clôtures mensuelles et à l'analyse de la performance économique.
+· Accompagner les équipes dans le pilotage économique des activités.
+· Contribuer à l'harmonisation des méthodes de calcul et des processus de contrôle de gestion entre les différentes entités de la zone.
+· Développer des analyses permettant d'améliorer le pilotage de la rentabilité et des activités opérationnelles.
+· Identifier des opportunités d'amélioration de la performance et être force de proposition.
+3. Audit interne – Contrôle interne
+· Contribution à l’amélioration des dispositifs de Contrôle Interne
+· Participation au processus annuel d’auto-évaluation
+· Assurer le suivi des plans d'actions associés.
+
+**Profil recherché**
+
+De formation supérieure (école de commerce ou universitaire) avec une première expérience significative en Finance, idéalement dans un environnement international,
+· Connaissances approfondies en comptabilité et dans l’établissement d’analyses et rapports économiques,
+· Aptitude et gout à travailler avec les applications informatiques telles que MS-office (dont a minima Excel- niveau avancé), système ERP et Office 365
+· Anglais professionnel obligatoire, l'allemand est un vrai plus
+Qualités attendues :
+· Esprit analytique et orientation résultats.
+· Curiosité pour les systèmes d'information et la data.
+· Autonomie, initiative et proactivité.
+· Capacité à travailler dans un environnement international et transversal.
+· Sens de l'organisation et de la communication.
+· Goût pour le changement et l'amélioration continue.
+Que proposons-nous ?
+· Une mission au cœur de la transformation Finance et de la digitalisation des processus.
+· Une forte exposition aux projets SAP et aux outils associés.
+· Une expérience combinant finance, data et contrôle de gestion industrielle.
+· Un environnement international dynamique au sein du Groupe Legrand.
+· La possibilité de contribuer à des projets stratégiques dans une zone en croissance.
+
+</details>
+
+<details>
+<summary><strong>Spécialiste Analyse Financière Europe de l’Ouest (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** SIBELCO FRANCE
+- **Lieu :** BILBAO, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 30/10/2026
+- **Compatibilité avec ton profil :** 95 % — Le profil de Nathan correspond parfaitement à l'offre : il possède 2 ans d'expérience solide en contrôle de gestion, maîtrise le reporting et les prévisions, et a un excellent niveau d'anglais. De plus, sa volonté de s'expatrier en Espagne coïncide exactement avec le lieu du poste à Bilbao.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247237](https://mon-vie-via.businessfrance.fr/offres/247237)
+
+**Description du poste**
+
+À propos de Sibelco
+
+Sibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.
+
+Dans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.
+
+Rejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.
+
+Mission:
+
+Le/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. 
+Il/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. 
+En interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. 
+Cette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.
+
+**Profil recherché**
+
+Vous disposez idéalement d'une première expérience acquise lors d'un stage, d'une alternance ou d'un premier emploi dans les domaines du contrôle de gestion, de l'audit, de l'analyse financière ou du Financial Planning & Analysis (FP&A).
+Compétences recherchées :
+
+Solides capacités d'analyse et de synthèse.
+Bonne maîtrise d'Excel et des outils bureautiques.
+Intérêt marqué pour les chiffres, la performance financière et l'analyse de données.
+Capacité à travailler avec des interlocuteurs de différents pays et fonctions.
+Excellentes compétences de communication.
+Anglais courant, à l'écrit comme à l'oral.
+Qualités personnelles :
+
+Curiosité et envie d'apprendre.
+Rigueur et sens du détail.
+Esprit d'équipe et collaboration.
+Proactivité et autonomie.
+Capacité d'adaptation dans un environnement international et multiculturel.
+Cette mission s'adresse à un(e) candidat(e) souhaitant acquérir une expérience internationale en finance d'entreprise et développer une expertise en pilotage de la performance, budgétisation, prévisions financières et aide à la décision.
+
+</details>
+
+<details>
+<summary><strong>FINANCIAL CONTROLLER - BARCELONA (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes du poste de Financial Controller à Barcelone, grâce à sa formation en contrôle de gestion, son expérience significative en PME et sa maîtrise d'Excel et Power BI. Ses compétences linguistiques en anglais et en espagnol (B1) complètent très bien ce profil, malgré l'attente d'un espagnol courant par l'entreprise.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247710](https://mon-vie-via.businessfrance.fr/offres/247710)
+
+**Description du poste**
+
+Envie de lancer votre carrière dans un environnement international et stimulant ?
+Rejoignez SII et vivez une expérience humaine et technologique unique !
+
+🚀 VOS MISSIONS: 
+En tant que Financial Controller vous serez intégré(e) à l’équipe financière internationale et participerez au suivi opérationnel et à l’analyse des activités financières.
+Votre rôle sera organisé en deux volets principaux :
+1.	CONTRÔLE FINANCIER 
+Gestion des clotures 
+•	Collecte, fiabilisation et analyse mensuelle et trimestrielle de l’activité (P&L)
+•	Elaboration et fiabilisation des Budgets annuels et trimestriels
+•	Analyses de performance et mise en place de mesures correctives (Activité, Facturation, Coût, Marge, Prévisions, Trésorerie)
+•	Synthèse et communication mensuelle des résultats à la Direction
+•	Coordination avec les équipes comptables du groupe et les équipes supports des filiales (ADV, Paie, Business, IT,…)
+Analyses 
+•	Analyse de la performance des entités et mise en place de mesures d’amélioration
+•	Suivi et contrôle du CA, FAE, FNP, marges, OPEX, CAPEX
+•	Réalisation d'audits de coûts des filiales
+•	Suivi du BFR, DSO, trésorerie et de l’endettement de la filiale
+
+2.	CONTRÔLE OPERATIONNEL 
+Amélioration continue
+•	Responsable de la fiabilité des données extra financières (ex. Suivi des effectifs)
+•	Production et amélioration des modèles de rapports financiers (résultats, prévisions, trésorerie)
+•	Elaboration de rapports et développement d’indicateurs clés de performance (KPIs)
+•	Responsable du suivi et du bon déploiement de nouveaux outils d’analyse (marges, performance), notamment via Power BI
+Contributions ad hoc
+•	Contribution aux projets transverses et aux initiatives d’amélioration de la zone internationale
+•	Participation dans des projets d’acquisition
+•	Participation à des audits ponctuels (P&L et Bilan)
+
+**Profil recherché**
+
+👤 VOTRE PROFIL
+•	Une formation Bac+5 (école de commerce ou master CCA ou DSCG) 
+•	Une excellente maîtrise de l’anglais, et de l’espagnol à l’oral comme à l’écrit
+•	Une première expérience en audit ou en controle de gestion
+•	Un sens prononcé de l’écoute et de l’organisation
+•	De l’engagement, du dynamisme, de la rigueur, de l’ambition et de la réactivité
+
+🌍 POURQUOI NOUS REJOINDRE ?
+•	Expérience confirmée en management financier et en pilotage de transformations pour soutenir la scalabilité du groupe dans la région.
+•	Un tremplin pour évoluer rapidement
+•	L’intégration dans une équipe dynamique, bienveillante et certifiée Great Place To Work
+Prêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !
+
+🔎 LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !
+Si votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !
+
+🏢 QUI SOMMES-NOUS ?
+Le groupe SII est au cœur de l’innovation technologique, accompagnant de grands comptes dans des secteurs d’ingénierie variés.
+Rejoindre SII, c’est s’engager dans une aventure collective : Let’s Tech Together !
+Cette promesse incarne notre ambition commune : construire ensemble le futur technologique, dans un cadre où autonomie, innovation et épanouissement professionnel vont de pair.
+Alors si ces valeurs vous parlent, rejoignez-nous !
+
+</details>
+
+<details>
+<summary><strong>AUDIT/ contrôle de gestion /  Financements et modèles économiques (H/F)</strong> · 9S58 · ABIDJAN, COTE D'IVOIRE · 2 541,92 €/mois</summary>
+
+- **Entreprise :** 9S58
+- **Lieu :** ABIDJAN, COTE D'IVOIRE
+- **Indemnité :** 2 541,92 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à sa formation en contrôle de gestion, ses compétences en outils financiers et son expérience significative en optimisation budgétaire et reporting. Seul un léger décalage géographique est à noter, le candidat ciblant initialement l'Espagne, bien qu'il soit ouvert à l'international.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247688](https://mon-vie-via.businessfrance.fr/offres/247688)
+
+**Description du poste**
+
+Contexte de la mission : 
+Winwin Afrique est une entreprise qui fait  du sport et de la culture des leviers pour le développement économique et social en Afrique.  
+En Côte d’Ivoire, nous opérons pour le compte du gouvernement, dans le cadre d’un contrat de coopération franco-ivoirien, un projet développement d’infrastructures socio sportives qui se présente autour de 3 grands axes :
+- Un programme de construction qui vise à bâtir des complexes sportifs multifonctionnels sur 91 communes réparties sur tout le pays.
+- Un programme de développement autour des thématiques de la santé, de l’innovation sociale et du développement durable où les acteurs locaux, associations et ONG sont appelés à animer les espaces qui leur sont réservés
+- Un système d’exploitation autonome qui développe des activités génératrices de revenus. 
+
+Le premier centre a été inauguré en 2019, à Abidjan sur la commune de Koumassi, par le Président Macron et le vice-président Duncan avec de nombreuses autorités françaises et ivoiriennes. Trois autres complexes ont été inaugurés en 2024. Les AGORAS sont exploitées par notre filiale ivoirienne, Ivoire AGORA. 
+
+4 autres complexes sortiront de terre entre décembre 2026 et avril 2027. L’entreprise doublera de taille durant cette période passant de 80 à plus de 120 collaborateurs. Pour poursuivre la montée en puissance du programme et structurer l’organisation et le fonctionnement commun de ces AGORAS, WWA recherche un.e auditeur chargé du contrôle de gestion, des modèles économiques et du suivi des financements.
+
+
+
+
+Missions principales
+
+
+Audit et de contrôle et de gestion :
+
+- Analyser les processus administratifs et financiers existants.
+- Optimiser les procédures et outils existants  (doublement des sites en exploitation / développement sur toute la Côte d’Ivoire)  
+- Contrôle budgétaire 
+- Suivi des indicateurs de performance sur chacun des sites (de 4 à 8 en 2026, puis 11 en 2027).
+- Mise en place et formation des équipes d’audit et de contrôle de gestion 
+
+
+Développement du modèle économique 
+- Stratégie de développement des revenus et ressources des AGORAS 
+- Suivi et développement des investissements et des partenariats 
+
+Reporting et suivi des financements :
+- Consolidation des données administratives et financières pour alimenter les rapports destinés au Trésor/ Bercy et aux partenaires.
+- Ouverture à  des modèles de financement complémentaires pour la construction d’une nouvelle tranche de 10 AGORAS
+
+**Profil recherché**
+
+Formation : Bac+5 en gestion, audit, finance, administration des entreprises ou équivalent.
+Expérience : Une première expérience en gestion administrative ou financière
+Compétences techniques :
+Excellente maîtrise d’Excel et des outils de gestion.
+Connaissances en comptabilité, suivi budgétaire et contrôle de gestion.
+Qualités personnelles :
+Rigueur, organisation et esprit d’analyse
+Capacité à travailler avec une équipe multiculturelle 
+Sens de l’initiative et adaptabilité
+Langues : Français courant
+
+</details>
+
+<details>
+<summary><strong>V.I.E. - 12 months - Junior Asset Manager F/M - Düsseldorf (H/F)</strong> · AEW · DUSSELDORF, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** AEW
+- **Lieu :** DUSSELDORF, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan correspond bien sur la partie analyse financière, reporting et maîtrise d'Excel, ainsi que sur l'appétence internationale. Cependant, l'offre cible un profil Junior Asset Manager avec une spécialisation en immobilier et exige une parfaite maîtrise de l'allemand, ce qui constitue un écart important.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247606](https://mon-vie-via.businessfrance.fr/offres/247606)
+
+**Description du poste**
+
+You will join the team as a Junior Asset Manager.
+
+Main responsabilities :
+Consolidate the German Asset Management, Development and leasing activities,
+Support in consolidating the Asset Management, Development and leasing activities,
+Prepare consolidated reporting and financial analysis.
+ 
+
+As a Junior Asset Manager you participate in:
+Regular asset management & fund reporting together with the responsible Asset Manager,
+Regular business plan updates for local asset managers, as well as ad hoc updates to evaluate alternatives in lease negotiations,
+Preparation of asset reviews allowing our senior management to have a condensed strategic view on the properties & portfolio,
+Support the asset managers on project level with the follow-up of developments (especially cash flows and cash forecasts on monthly basis) as well as steering of the property managers.
+ 
+You will work in an international environment, within a community of experts who place excellence, impact and collective action at the heart of everything they do.
+
+**Profil recherché**
+
+You have a Finance or/and Real estate degree, with focus on real estate and project management and a minimum 1 year of professional experience in finance or/and real estate.
+You have an excellent level with Excel and ability to understand valuation of essential real estate key data on asset level and improvement.
+You are motivated to work in an international environment and with high grade of communication, diplomacy. Independent and with cash flow modelling skills.
+And last, but not least you are perfectly fluent in English and German.
+
+This position is only open to candidates eligible for the V.I.E program 
+- Proficiency in Excel and all basic MS Office applications is crucial for success in this role.
+- Fluency in English is required; knowledge of German is a valuable bonus.
+
+</details>
+
+<details>
+<summary><strong>V.I.E. - 12 mois- Contrôle interne et compliance F/H - Luxembourg (H/F)</strong> · AEW · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** AEW
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 65 % — Nathan possède le niveau d'études requis et un excellent niveau d'anglais adapté à un cadre international. Cependant, son profil est fortement orienté vers le contrôle de gestion opérationnel et financier, tandis que l'offre cible spécifiquement le contrôle interne, la conformité et la gestion des risques.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247603](https://mon-vie-via.businessfrance.fr/offres/247603)
+
+**Description du poste**
+
+Vous rejoignez notre équipe Risk, Compliance & Internal Control, qui recherche un Contrôle Interne et Compliance.
+
+Le VIE Contrôle Interne et Compliance a pour mission et pour objectif principal de vérifier le respect de l’ensemble des politiques et procédures internes de l’AIFM et d’en évaluer régulièrement l’adéquation par rapport à la structure organisationnelle et opérationnelle de la Société encadrés par le Compliance Officer.
+
+A dimension européenne, la fonction Conformité consiste notamment à intervenir dans les activités suivantes :
+
+Fournir aux instances dirigeantes des rapports afin d’améliorer les process opérationnels
+Fournir aux instances dirigeantes des avis pour assurer une gestion efficace, saine et prudente des activités de la société
+Contrôler l’existence, la conception et la réalisation du dispositif de contrôle
+Evaluer l’efficacité du dispositif de contrôles
+Piloter le reporting trimestriel aux investisseurs
+Veiller au respect des normes légales et réglementaires dans chaque pays ou la Société exerce une activité
+Développer l’activité de contrôle via l'identification des meilleures pratiques, ainsi qu'à l'accompagnement au changement dans le cadre du renforcement du dispositif de contrôle interne
+ 
+
+Activités  principales :
+
+Contrôle Interne
+Echantillonnage : Sélectionner selon certains critères définis lors de l'élaboration du plan de contrôle un échantillon de dossiers/items/process à contrôler.
+Détermination des points de contrôle : identifier les points de contrôle les plus pertinents en fonction du type de contrôle à réaliser.
+Collecte de l'information : Solliciter les différents services opérationnels et fonctionnels afin de collecter l'information et les documents nécessaires aux contrôles.
+Contrôle des processus :Participer à la réalisation du plan de contrôle sur l'ensemble des activités en veillant au respect des procédures internes et à la réglementation.
+Analyse des résultats : Analyser les résultats des contrôles effectués et préparer les reportings en vue d'une présentation au Comité Conformité. Risque et Contrôle Interne.
+Revue de la cartographie de risque de non-conformité.
+Securité financiere
+Traitement des alertes PEP, Sanctions internationales.
+Assistance dans la réalisation des dossiers KYC.
+Contribuer aux projets et initiatives de renforcement du dispositif.
+Ethique et Déontologie
+S’assurer le bon encadrement des risques de non-conformité liés à l’éthique du personnel et la déontologie.
+Suivi des dispositifs de contrôles spécifiques (conflits d’intérêts personnels, transactions personnelles, cadeaux, mandats et activités extérieurs, circulation des informations confidentielles et privilégiées etc…).
+ESG
+Analyse et développement d’indicateurs de suivi des risques ESG lors des processus d’investissement.
+Mise en place de point de contrôle de second niveau.
+Assister dans la revue et le développement du dispositif ESG.
+Travailler avec les équipes de premier niveau pour revoir la collecte de données, l'analyse et la documentation des documents relatifs à l’ESG reçus lors des investissements.
+Reporting
+Participation aux différents Comité.
+Assistance dans la rédaction des rapports réglementaires.
+
+**Profil recherché**
+
+Etudiant de niveau Bac+5, vous avez préparé un diplôme d'École de commerce ou d'Université avec une spécialisation en Finance.
+Vous avez une 1ère expérience significative dans le secteur gestion pour compte de tiers / financier, idéalement immobilier au sein d’un service Conformité, Audit ou Contrôle Interne.
+Vous êtes rigoureux, dynamique et autonome
+Vous vous adaptez rapidement et facilement à toute situation
+Vous êtes doté.e d'une bonne aisance relationnelle
+Vous avez capable d’analyser et d’anticiper
+Vous avez un intérêt pour l’immobilier
+And last but not least, you are perfectly fluent in English.
+Vous serez contacté par l’un de nos recruteurs avant de rencontrer nos experts métier.
+Un moment d’échange idéal pour mettre en avant votre personnalité ainsi que votre projet.
+
+</details>
+
+<details>
+<summary><strong>V.I.E. - 18 months - Global Holding Controller F/M - Boston (H/F)</strong> · NATIXIS INVESTMENT MANAGERS · BOSTON          -MA-, ETATS-UNIS · 4 108,83 €/mois</summary>
+
+- **Entreprise :** NATIXIS INVESTMENT MANAGERS
+- **Lieu :** BOSTON          -MA-, ETATS-UNIS
+- **Indemnité :** 4 108,83 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux exigences du poste grâce à son Master en contrôle de gestion, ses deux années d'expérience significative en finance d'entreprise et son excellent niveau d'anglais. Le seul léger écart réside dans la destination (Boston au lieu de l'Espagne souhaitée), mais cela reste en adéquation totale avec son objectif international.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247601](https://mon-vie-via.businessfrance.fr/offres/247601)
+
+**Description du poste**
+
+You will join the Financial Management team at Natixis Investment Managers. You will assist the Senior Management Controller of the Global Holding based in Paris.
+
+On a daily basis, your mission will include:
+
+Monitoring the operating expenses (opex) of the core functions of the Global Holding (General Management, Risk, Compliance, Human Resources, Finance, Legal, Internal Audit, Communication, etc.);
+Participating in the closing process (reconciliation of intra- and inter-company accounts, recording of manual management entries, accounting-management reconciliation), in partnership with the accounting teams in Paris and Boston;
+Producing complete P&L reports (Net Banking Income, payroll, operating expenses) for various reports and analyses intended for the BPCE group, along with monitoring financial KPIs;
+Producing monthly, quarterly, and annual operational reports for department heads, with a follow-up on variances compared to the previous year, budget, and revised figures;
+Participating in the budgeting process (1 Budget and 3 Revisions per year).
+In addition to this non-exhaustive list, you will be involved in the continuous improvement of processes and the production of ad hoc analyses. You will also be expected to participate in Finance projects (implementation of management support tools, digitalization of the function, etc.).
+
+**Profil recherché**
+
+With a background from a business school or university, holding a Master’s degree in Finance or Management Control, with at least 1 year of professional experience in management control positions.
+
+You are familiar with general accounting and analytical accounting.
+
+Your English is operational, and you have a good knowledge of the Office suite.
+
+Knowledge of SAP 4HANA, SAP FC, and Power BI is an advantage.
+
+In addition to excellent interpersonal skills and very good listening abilities:
+- You possess real analytical, synthesis, and writing skills;
+- You are rigorous about the quality of your work;
+- You know how to demonstrate discretion and ethics when handling confidential information.
+
+</details>
+
+<details>
+<summary><strong>V.I.E. 12 months - Credit Analyst F/M - Milan (H/F)</strong> · NATIXIS · MILAN, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** NATIXIS
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 29/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan présente de solides compétences en analyse financière et reporting, ce qui correspond aux attentes techniques du poste. Cependant, l'offre s'oriente vers l'analyse de risque crédit en banque d'investissement et exige la maîtrise de l'italien, langue que le candidat ne maîtrise pas encore.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247598](https://mon-vie-via.businessfrance.fr/offres/247598)
+
+**Description du poste**
+
+For this position, you will be providing support to the Head of Italy Portfolio and more specifically: 
+Assessing the credit risk of potential and existing Italian Corporate clients through a qualitative and quantitative analysis of all financial data (annual reports, financial statements, business plans, credit/equity researches, etc..) oriented to draft credit applications and propose/revise internal ratings;
+Providing an independent and written credit analysis to support credit process and Origination teams;
+Line by line management of the whole corporate portfolio, both for cash financings and other bank’s products by carrying annual reviews, covenants management, waivers or amendments, watchlists (in due time); 
+Assisting in Portfolio Opinions on new proposed cash financings into ESG trajectory, with strong focus on the portfolio greenification strategy of the bank, scarce resources management into Basel 4 and portfolio metrics’ assessment; 
+Credit monitoring with a risk anticipation/optimization approach via a proactive portfolio management (distribution via secondary sales and other alternatives solutions of credit recycling); 
+Periodic reporting on Global Italian Portfolio with a centralized insight on all the assets split by Business Lines, with complete analysis on key indicators on a current and forward-looking basis; 
+Support French Real Estate Portfolio team - based in Paris - on Italian Real Estate files.
+
+**Profil recherché**
+
+Bachelor’s degree/Master of Science degree in relevant field (Finance, Economics, etc..).
+Proficiency in IT applications (MS Office, Bloomberg, Thomson Reuters, FactSet, etc..).
+Fluency in English and a good knowledge of Italian, both written and spoken.
+Strong interpersonal and communication skills.
+Proactive attitude and natural inclination towards a cross-border/cross-functional team-based in a
+collaborative environment.
+
+</details>
+
+<details>
 <summary><strong>Business Operations (H/F)</strong> · LIM FRANCE · WELLINGTON   -FL-, ETATS-UNIS · 4 268,89 €/mois</summary>
 
 - **Entreprise :** LIM FRANCE
@@ -368,6 +2034,312 @@ What do You have?
 • Excellent interpersonal and communication skills, both oral and written in English
 • Excellent organisation and planning skills
 • A keen ability to resolve issues and meet tight deadlines
+
+</details>
+
+<details>
+<summary><strong>Analyste Trésorerie et process (H/F)</strong> · CARREFOUR MANAGEMENT · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
+
+- **Entreprise :** CARREFOUR MANAGEMENT
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 743,28 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 28/10/2026
+- **Compatibilité avec ton profil :** 82 % — Le profil de Nathan correspond fortement aux attentes techniques et financières de l'offre grâce à ses compétences avancées en Excel, Power BI, gestion du BFR et analyse de données, ainsi qu'à son solide parcours en contrôle de gestion. Les principaux écarts résident dans la spécialisation initiale en trésorerie pure et la langue du pays d'affectation (Brésil), bien que son anglais courant et sa forte agilité internationale atténuent ce décalage.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247629](https://mon-vie-via.businessfrance.fr/offres/247629)
+
+**Description du poste**
+
+V.I.E Analyste Trésorerie et process (F/H) - Brésil 
+
+📍Date : Mars 2027 
+🌎Pays : São Paulo, Brésil 
+⏱️Durée : 12 mois renouvelables (24 mois au total) 
+
+Participer à l’aventure d’un groupe en pleine transformation, ça te tente ?
+
+Créateur de l’hypermarché, deuxième distributeur mondial et premier en Europe, Carrefour reste fidèle à ses racines mais se réinvente pour permettre à chacun, chaque jour, de manger mieux : plus sain, plus local, plus responsable.
+Nos atouts pour y parvenir ? Un réseau multiformat de magasins, la création de services et d'une offre digitale de référence, une coopération renforcée avec les acteurs du monde agricole, de la chaîne alimentaire, de la Tech… et des collaborateurs passionnés, qui s’engagent, challengent leur métier et grandissent ensemble pour réussir la transition alimentaire pour tous ! 
+
+Le groupe Carrefour est également engagé dans une ambitieuse transformation pour devenir une Digital Retail Company, qui place le digital et la data au cœur de toutes ses opérations et de son modèle de création de valeur. Conçu pour développer nos futurs leaders à l’international, le V.I.E Program Talent Carrefour permet d’accéder à des missions à forte valeur ajoutée pour accompagner ton développement et accélérer la transformation de Carrefour. Nous recherchons des candidat(e)s ayant une réelle motivation et un goût prononcé pour le challenge et l’innovation !
+
+TA FILIALE :
+Depuis 50 ans, Carrefour Brésil est un pionnier de la distribution sur le marché brésilien, avec une présence quotidienne dans la vie de millions de consommateurs grâce à son vaste réseau et le défi d'améliorer la qualité des aliments à un prix accessible pour des milliers de foyers brésiliens.
+Carrefour est le premier distributeur alimentaire au Brésil, présent dans plus de 150 villes des 26 États brésiliens et dans le district fédéral. Notre réseau s'appuie sur la force de nos marques Atacadão (plus de 400 magasins), Carrefour et Sam's Club. Ces marques sont parmi les plus reconnues dans le secteur de la vente en gros et des hypermarchés au Brésil. Pour soutenir cette présence unique, nous opérons un réseau logistique puissant composé de plus de 40 centres de distribution stratégiquement répartis, garantissant l'approvisionnement de plus de 900 points de vente.
+
+Il y a cinq formats de magasins au Brésil : 
+- Cash & carry et commerce de gros (tous deux sous la marque Atacadão) 
+- Hypermarchés (sous la marque Carrefour, dont des pharmacies et stations essence)
+- Supermarchés (sous les marques Carrefour Bairro et Carrefour Market) 
+- Magasins de proximité (sous la marque Carrefour Express)
+
+TON ENVIRONNEMENT DE TRAVAIL : 
+Au sein de la Trésorerie Groupe, et plus particulièrement de l’équipe en charge de la gestion de la trésorerie et des moyens de paiement (Corporate Treasury / Cash and Means of Payment).
+Tu seras amené(e) à échanger avec :
+- Comptabilité et FP&A : Collaborer au suivi des flux financiers et à la fiabilité des données comptables et prévisionnelles.
+- Contrôle de gestion et équipes Back Office : Coordonner les opérations de trésorerie et de paiement avec les équipes opérationnelles et les centres de services.
+- Audit et contrôle interne : Contribuer à la maîtrise des risques, au respect des procédures et à la sécurisation des opérations.
+- Juridique et Fiscalité : Travailler en collaboration sur les enjeux réglementaires, contractuels et fiscaux liés aux activités de trésorerie et aux moyens de paiement.
+
+TES MISSIONS : 
+Tu seras  amené(e) à : 
+- Développer une compréhension approfondie des processus de trésorerie du Groupe Carrefour Brésil, notamment la gestion des flux de trésorerie, les placements, les prévisions financières et les instruments de couverture (hedging).
+- Soutenir le développement et l'automatisation des processus récurrents.
+- Créer des tableaux de bord et appuyer les analyses de données permettant à la direction de prendre des décisions plus rapides et plus précises sur des sujets tels que : les variations des flux de trésorerie, les charges financières, le besoin en fonds de roulement (BFR / Working capital), l'évolution et les tendances des règlements / paiements.
+
+Tes objectifs sont les suivants : 
+- Travailler avec des volumes importants de données financières, en structurant des bases d'informations fiables pour les analyses récurrentes de la Trésorerie.
+- Identifier les opportunités d'amélioration des processus existants en proposant des solutions fondées sur l'automatisation, la modélisation de données et la digitalisation.
+- Appuyer l'équipe Trésorerie dans la préparation des analyses financières et des rapports de gestion destinés à éclairer les prises de décision.
+
+AVANTAGES DU VIE TALENT PROGRAM CARREFOUR : 
+Nous rejoindre, c’est bénéficier d’un accompagnement signature : 
+- Prise en charge du voyage A/R et aide au logement.
+- Cours de langue en portugais (40h) pour t’accompagner lors de tes premiers pas. 
+- Programme de formation sur mesure pour développer tes soft et hard skills.
+- Un suivi individuel, par le Groupe et le Brésil, avec un accompagnement carrière en fin de mission.
+
+**Profil recherché**
+
+LE PROFIL :
+De formation supérieure bac+5 (M2), tu es diplômé(e) d’une école de commerce, d’ingénieurs ou d’une université avec une spécialité financière (en trésorerie est un plus).
+
+Qualités recherchées :
+
+Compétences techniques (Technical Skills) :
+- Solides capacités d'analyse et compétences quantitatives, avec la capacité de traiter de grands volumes de données financières.
+- Connaissance des concepts de trésorerie d'entreprise, notamment la gestion des flux de trésorerie, le besoin en fonds de roulement (BFR) et les moyens de paiement.
+- Expérience pratique des outils d'analyse et de visualisation de données (ex. : fonctions avancées d'Excel, Power BI, Tableau ou équivalent).
+- Compréhension de base des flux de trésorerie et des moyens de paiement.
+- Connaissance de l'automatisation et de la structuration de données (ex. : VBA, Python, SQL ou outils similaires constituent un plus).
+- Capacité à structurer et maintenir des bases de données financières fiables.
+
+Compréhension financière & Business (Business & Financial Understanding) :
+- Compréhension de la finance d'entreprise et des opérations de trésorerie.
+- Capacité à traduire des données financières en enseignements stratégiques (insights) pour éclairer les prises de décision de la direction.
+
+Compétences relationnelles (Soft Skills) :
+- Capacités de résolution de problèmes et esprit critique.
+- État d'esprit proactif axé sur l'amélioration continue et l'automatisation des processus.
+- Sens de l'organisation et rigueur / souci du détail.
+- Capacité à travailler dans un environnement transversal et international.
+
+Langues : 
+Anglais : niveau courant requis
+Portugais : la maîtrise est un plus
+
+</details>
+
+<details>
+<summary><strong>Financial Analyst (H/F)</strong> · TRANSDEV GROUP · LOMBARD  -IL-, ETATS-UNIS · 3 813,78 €/mois</summary>
+
+- **Entreprise :** TRANSDEV GROUP
+- **Lieu :** LOMBARD  -IL-, ETATS-UNIS
+- **Indemnité :** 3 813,78 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 28/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, ses compétences en FP&A, en reporting et sa maîtrise d'Excel. Son niveau d'anglais (TOEIC 925) répond pleinement aux exigences de ce VIE aux États-Unis, malgré sa préférence initiale pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247575](https://mon-vie-via.businessfrance.fr/offres/247575)
+
+**Description du poste**
+
+Transdev is hiring a Financial Analyst (V.I.E)  M/F
+
+As part of a replacement, Transdev North America is looking for a Financial Analyst for an 18-month V.I.E assignment within its Finance team. Reporting to the Director of FP&A and working closely with the Finance & Accounting teams, you will support a wide range of financial planning, analysis and accounting activities.
+
+Your mission
+Budgeting, Forecasting & Analysis
+- Assist in the preparation of budgets and forecasts to support corporate strategic planning initiatives
+- Provide variance analysis to identify trends, opportunities and risks, gathering the relevant data from cross-functional teams (IT, HR, safety, operations)
+Accounting Close & Reporting
+- Conduct accounting close operations, including balance sheet reconciliations and journal entries
+- Prepare presentations and reports for senior management and stakeholders
+Corporate Finance Projects & Process Improvement
+- Project-manage the overall corporate finance goals and objectives, and support ad-hoc financial projects and initiatives aimed at increasing company-wide efficiencies
+
+**Profil recherché**
+
+Your profile
+- Business school graduate, specialized in Accounting / Audit
+- Strong command of Excel and some technical accounting knowledge
+- Proactive, motivated and curious, you like asking questions and are eager to learn and grow
+- Genuine interest in American culture
+- Proficient English
+
+Your destination
+Transdev North America is the largest private operator and integrator of multiple modes of public transportation in the United States, including bus, paratransit, rail, NEMT, microtransit, shuttle and autonomous vehicles.
+
+ Leading cities, counties, airports, private companies and universities contract with Transdev to operate and maintain their transportation systems. You will join the Corporate Finance / FP&A team within the Finance department, in a collaborative and growth-oriented environment, and report directly to the Director of FP&A.
+
+This role offers hands-on experience in budgeting and forecasting, data analysis, internal controls, financial reporting and accounting close.
+
+Location: Lombard, Illinois (USA)
+
+Specifics: 18-month V.I.E assignment starting Q1 2027, occasional travel
+
+</details>
+
+<details>
+<summary><strong>V.I.E. - 18 months - Internal Auditor F/M - New York (H/F)</strong> · NATIXIS · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** NATIXIS
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 28/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le candidat possède un excellent niveau d'anglais et un Master en finance adapté, mais son expérience se concentre sur le contrôle de gestion en PME industrielle et non sur l'audit bancaire requis pour ce poste chez Natixis à New York.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247572](https://mon-vie-via.businessfrance.fr/offres/247572)
+
+**Description du poste**
+
+The VIE Internal Auditor will work alongside a team of audit professionals, to review, test and validate that the first and second lines of defense are performing their tasks in accordance with Bank Policy and regulatory standards. He/she/they will highlight key weaknesses and provide strong recommendations that will address those weaknesses while strengthening the system of internal controls. Additionally, presentations will be prepared and made to all levels of management within the CIB Americas platform.
+
+The VIE Internal Auditor position is an audit team role within Natixis CIB Internal Audit to support the audit missions of business lines as well as the associated support functions and control environment. 
+
+Assist Senior Auditors and Mission Managers in the pre-diagnosis, diagnosis, and closure phases of each assigned audit.
+Evaluate the risk and results measurement system.
+Check the effectiveness of the internal control framework and compliance with applicable regulations and industry standards.
+Assess the robustness and optimization of business processes.
+Provide an opinion on the organization and governance of the entity.
+Make hierarchical recommendations according to the degree of risk.
+Documentation of Audit Programs, Workpapers,  and Audit Reports consistent with Natixis CIB Audit Guidelines, regulatory guidelines, and industry best practices (i.e., IIA Global Audit Standards).
+Perform Recommendation Validation and Sustainability Testing for outstanding Audit Recommendations.
+
+**Profil recherché**
+
+Master's degree in Internal Auditing, Banking, Finance or other Master Degree equivalent (DESS, Mastere of "Grande Ecole").
+First experience in the banking industry within the big four or an Internal audit department of a top French bank will be appreciated.
+International experience in an English spoken country.
+Proficient in Excel and Word.
+Strong working knowledge of analytical and AI tools .
+
+</details>
+
+<details>
+<summary><strong>V.I.E - EQUITY RESEARCH - VIENNA (AUSTRIA) (H/F)</strong> · ODDO BHF SCA · VIENNE, AUTRICHE · 3 024,47 €/mois</summary>
+
+- **Entreprise :** ODDO BHF SCA
+- **Lieu :** VIENNE, AUTRICHE
+- **Indemnité :** 3 024,47 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 28/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel et financier (FP&A), alors que cette offre concerne l'analyse financière de marché (Equity Research). Bien que ses compétences en Excel et son niveau d'anglais soient adaptés, son expérience et sa formation manquent d'ancrage en marchés de capitaux et valorisation d'entreprise.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247521](https://mon-vie-via.businessfrance.fr/offres/247521)
+
+**Description du poste**
+
+We seek an ambitious, motivated and driven young graduate eager to gain a fundamental understanding of equity research during a 12 month assignment, intended to be prolonged to 24 months. This is an opportunity to join Austria's #1 Extel rated equity team and become part of ODDO BHF's growing equity platform.
+
+Your tasks will include:
+
+- Working on a wide range of equity research projects across various sectors
+- Support of analysts in the production of equity research reports and presentations
+- Compilation and presentation of company and sector specific data as well as competitor analysis
+- Financial modelling and perform corporate valuations
+- Interaction with Management and Investor Relations
+- Contribute to sustaining existing client relationships with the objective of ensuring strong relationships
+- Provide general administrative support to the research team
+
+**Profil recherché**
+
+- Strong academic background with a demonstrated interest in capital markets and investment banking
+- Demonstrate an understanding of capital markets and a desire to develop that understanding further
+- Excellent English communication (written and verbal), German desirable, Eastern European language an advantage
+- Proficiency in Microsoft Office, particularly Excel and PowerPoint
+- Strong analytical and problem-solving skills with attention to detail
+- Ability to work independently and as part of a team
+- Highly motivated, proactive, and eager to learn
+
+</details>
+
+<details>
+<summary><strong>VIE - Operations Transformation & AI Support Analyst (H/F)</strong> · AMUNDI ASSET MANAGEMENT · SANT CUGAT DEL VALLES, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** AMUNDI ASSET MANAGEMENT
+- **Lieu :** SANT CUGAT DEL VALLES, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 27/10/2026
+- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion traditionnel et la finance d'entreprise (Master en cours, expérience en PME), tandis que l'offre de VIE chez Amundi recherche un profil aux compétences techniques marquées en IA, transformation opérationnelle, développement et gestion de projets digitaux. Malgré la bonne localisation en Espagne et la maîtrise des chiffres, l'écart sur le plan technologique et informatique est important.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247559](https://mon-vie-via.businessfrance.fr/offres/247559)
+
+**Description du poste**
+
+We are looking for a VIE to join the OST department at Sabadell Asset Management to support the Operational and technological model transformation of SabAM.
+
+The main mission of the VIE will be to support the transformation of operational and technological current model  by combining technical, functional and demand-management skills, helping to implement a more efficient, digital and data-driven operating model.
+
+**Profil recherché**
+
+University degree, preferably in one of the following areas: •	Computer Engineering / Telecommunications Engineering   •	Mathematics / Statistics / Data Science  •	Business Administration / Economics / Finance with a strong technological orientation •	Equivalent qualification with a strong technical  component.
+Previous experience will be valued, even if only through internships, in any of the following areas: •	Process automation •	Python and/or Java development • Data processing and SQL / PL-SQL queries • Participation in AI-related projects • Functional or technical support in investment, funds or operational environments  • Use of tools such as JIRA and documentation platforms such as Confluence • Experience in transformation, process improvement or digitalization projects will be especially valued.
+Functional business knowledge: •	Knowledge of the investment funds business • Understanding of operational  processes on Asset Management industry • Ability to interpret functional and operational requirements 
+Demand management and support: •	User request management • Handling of JIRA ticketing systems • Follow-up of incidents, tasks and requirements • Documentation and collaboration • Updating and maintaining team information in Confluence • Strong documentation, synthesis and structuring skills 
+Personal competencies: • Analytical and problem-solving skills •	Proactivity and results orientation • Fast learner • Accuracy and attention to detail •	Teamwork and good communication • Ability to adapt to a changing environment
+
+</details>
+
+<details>
+<summary><strong>FP&A Analyst (H/F)</strong> · KYKA GROUP · MOKA, MAURICE · 1 879,79 €/mois</summary>
+
+- **Entreprise :** KYKA GROUP
+- **Lieu :** MOKA, MAURICE
+- **Indemnité :** 1 879,79 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 27/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil correspond parfaitement aux attentes avec un Master en contrôle de gestion, 2 ans d'expérience solide en multi-entités, un excellent niveau d'anglais et une maîtrise des outils de modélisation et de reporting (Excel/Power BI). Seul léger écart, le secteur immobilier de l'offre diffère de son expérience précédente, mais ses compétences en FP&A et en analyse de rentabilité compensent largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247493](https://mon-vie-via.businessfrance.fr/offres/247493)
+
+**Description du poste**
+
+Vous êtes le moteur analytique de la Direction Financière : construire, maintenir et challenger les modèles de prévision multi-entités du groupe sur un horizon 12-24 mois, et transformer les données financières en insights décisionnels pour la Direction Générale.
+
+Forecasting & Modélisation
+- Construire et piloter le modèle de forecast intégré groupe (P&L, cash-flow, bilan) sur horizon 12-24 mois
+- Structurer les schémas de projection par entité et par activité (Marchand de biens, travaux, architecture, conciergerie, etc.) avec granularité projet / agrégat
+- Modéliser les opérations de marchand de biens : plan de financement, courbe de décaissement, simulations de TRI et de marge nette
+- Produire des analyses de sensibilité et des scénarios (base / optimiste / stress) pour chaque horizon de décision
+- Mettre en place et faire évoluer le processus budgétaire annuel et les reforecasts trimestriels
+
+Reporting & Analyse
+- Concevoir le tableau de bord mensuel Groupe (KPIs opérationnels + financiers) à destination du COMEX
+- Assurer, en lien avec le contrôle de gestion, le suivi des écarts budget / réel avec analyse de causes racines et recommandations correctrices
+-Alimenter et challenger la vision cash-flow en lien avec le cash manager
+- Structurer les reportings ad hoc pour les banques, investisseurs ou partenaires stratégiques
+
+Systèmes & Data
+- Structurer et automatiser les flux de données entre les outils comptables, CRM et les modèles de pilotage
+- Prendre en main les outils FP&A du groupe
+- Documenter les méthodologies et construire une bibliothèque de modèles réutilisables
+
+Stratégie & Transverse
+- Contribuer aux analyses de profitabilité par activité, projet ou client pour éclairer les choix de développement
+- Participer aux présentations DG / COMEX avec production de supports synthétiques orientés décision
+- Challenger les hypothèses opérationnelles avec le Managing Director de chaque filiale
+
+**Profil recherché**
+
+Formation
+- Bac+5 : Grande école de commerce, Master Finance / Contrôle de gestion, ou école d’ingénieur avec spécialisation finance
+
+Expérience
+- 2 à 3 ans d’expérience, idéalement dans un parcours FP&A, Audit / M&A ou Contrôle de gestion dans un environnement multi-entités
+- Expérience en modélisation financière complexe : modèles intégrés (P&L + BFR + cash), simulations, analyses de sensibilité
+- Exposition à l’immobilier, au private equity immobilier ou à un secteur projet (promotion, infrastructure, luxe) est un vrai plus
+
+Compétences techniques
+- Excel expert : modélisation dynamique, VBA ou Power Query, audit de formules
+- Maîtrise des 3 états financiers et de leurs interdépendances (P&L / Bilan / Cash-flow)
+- Capacité à construire des modèles projet avec TRI, VAN, analyse de sensibilité
+- Notion d’outils BI ou FP&A (Power BI, Tableau, Agicap, Pigment ou équivalent) appréciée
+- SQL ou Python pour l’automatisation des flux de données : un vrai plus
+
+Soft skills
+- Rigueur analytique et capacité à travailler sur des problématiques ambiguës avec des données imparfaites
+- Autonomie forte : vous structurez votre scope, vous ne l’attendez pas
+- Communication synthétique : transformer un modèle complexe en 3 lignes clés pour le CEO
+- Curiosité sectorielle : vous aimez comprendre les métiers pour mieux les modéliser
+- Goût du terrain : vous challengez les opérationnels, vous ne vous contentez pas des chiffres transmis
 
 </details>
 
@@ -444,6 +2416,355 @@ Plus:
 • Master in Finance 
 • Knowledge of analytical tools such as SAS or basics in database models 
 • Written and spoken German
+
+</details>
+
+<details>
+<summary><strong>V.I.E - Financial Controller - F/M (H/F)</strong> · TECHNIP ENERGIES FRANCE · DOHA, QATAR · 2 721,83 €/mois</summary>
+
+- **Entreprise :** TECHNIP ENERGIES FRANCE
+- **Lieu :** DOHA, QATAR
+- **Indemnité :** 2 721,83 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa formation en contrôle de gestion, ses compétences solides en Excel et reporting, et son excellent niveau d'anglais (TOEIC 925). Seul léger écart : son expérience est orientée PME industrielle et non en finance de projet grand compte, et la destination (Qatar) diffère de son appétence initiale pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247527](https://mon-vie-via.businessfrance.fr/offres/247527)
+
+**Description du poste**
+
+Liste des Tâches confiées au V.I.E. 
+
+Participer au suivi financier global du projet (revenus, coûts, marge et cash-flow).
+
+Préparer les clôtures mensuelles et les reportings financiers à destination du management local et du siège.
+
+Analyser les écarts entre le budget, les prévisions et les réalisations. 
+
+Participer à l'élaboration des forecasts financiers et des revues de performance du projet.
+
+Contribuer au contrôle des engagements, des risques et des opportunités financières.
+
+Suivre les encaissements clients et les indicateurs de trésorerie.
+
+Accompagner les équipes opérationnelles dans l'amélioration de la performance financière et le respect des objectifs de rentabilité.
+
+Participer aux audits externes.
+
+**Profil recherché**
+
+Votre profil:
+
+ 
+
+Diplômé(e) d'une école de commerce, d'ingénieur ou d'un Master 2 en Finance, Contrôle de Gestion ou Comptabilité. Expérience attendue : Première expérience en contrôle de gestion, audit ou finance de projet (stage ou alternance significatifs acceptés).
+
+Vous maitrisez l'Excel et des outils d'analyse financière.
+
+Vous connaissez des principes comptables et du contrôle de gestion.
+
+La connaissance d'ERP tels que SAP constitue un atout.
+
+Capacité à analyser et synthétiser des données financières complexes.
+
+ Sens de l'organisation, rigueur et esprit d'équipe.
+
+ Anglais professionnel impératif (oral et écrit).
+
+</details>
+
+<details>
+<summary><strong>VIE Finance Analyst – Management Control & Internal Consolidation Reporting (H/F)</strong> · CA CONSUMER FINANCE · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** CA CONSUMER FINANCE
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 95 % — Le profil correspond parfaitement aux attentes avec un Master en cours en contrôle de gestion, une forte expérience pratique en reporting et analyse financière, ainsi qu'un excellent niveau d'anglais. Le candidat coche toutes les cases, y compris l'attrait pour l'Espagne, avec seulement une maîtrise de l'espagnol un peu en deçà (niveau B1).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247510](https://mon-vie-via.businessfrance.fr/offres/247510)
+
+**Description du poste**
+
+We are looking for a motivated and analytical VIE Finance Analyst to join our Finance team. The role offers broad exposure across different finance activities, with a primary focus on Management Control, Financial Performance Monitoring, and Internal Consolidation Reporting.
+Working closely with Finance Business Partners, Controlling teams, and Group Finance stakeholders, the successful candidate will contribute to the production of management information, support financial analysis, and help ensure the quality and consistency of financial reporting delivered to management and headquarters.
+Key Responsibilities
+Management Control
+•	Support monthly closing and management reporting activities.
+•	Analyze financial performance versus budget, forecast, and prior year results.
+•	Prepare variance analyses and provide insights on key business drivers.
+•	Contribute to budgeting, forecasting, and long-term planning exercises.
+•	Monitor financial and operational KPIs and assist in developing management dashboards.
+•	Support ad hoc financial analyses and business cases for management.
+Internal Consolidation & Reporting
+•	Participate in the preparation and validation of internal financial reporting packages.
+•	Support the consolidation process by collecting, reviewing, and reconciling financial data from different entities.
+•	Ensure accuracy, completeness, and consistency of reported figures.
+•	Assist in the preparation of reporting submissions to Group Finance.
+•	Monitor reporting deadlines and follow up with stakeholders to ensure timely delivery.
+•	Support continuous improvement initiatives aimed at enhancing reporting processes and controls.
+Cross-Functional Finance Support
+•	Collaborate with Accounting, Treasury, Business Finance, and other Finance teams.
+•	Contribute to process documentation and internal control activities.
+•	Participate in finance transformation and automation projects.
+•	Help identify opportunities to improve reporting efficiency and data quality.
+
+**Profil recherché**
+
+•	Master's degree in Finance, Accounting, Economics, Business Administration, or a related field.
+•	0–2 years of experience, including internships or work-study assignments, in Finance, ALM, Treasury, Risk, Audit or Consulting.
+•	Eligible for the VIE program.
+•	Strong interest in financial analysis, controlling, and corporate reporting.
+•	Advanced Excel skills; knowledge of Power BI, SAP, or consolidation/reporting tools is a plus.
+•	Strong analytical and problem-solving skills.
+•	High level of attention to detail and data accuracy.
+•	Ability to work in a multicultural and international environment.
+•	Proactive mindset with strong organizational skills.
+Languages
+•	Fluent English (written and spoken).
+•	French and/or Spanish would be an advantage.
+
+</details>
+
+<details>
+<summary><strong>Group PMO Transformation (H/F)</strong> · LYNXEO FRANCE · LIMITO DI PIOLTELLO, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** LYNXEO FRANCE
+- **Lieu :** LIMITO DI PIOLTELLO, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion pur (FP&A, reporting, analyse financière) alors que l'offre concerne un poste de PMO (Project Management Office) axé sur la gestion de projets et la transformation. Bien que le cadre international et le profil junior correspondent, les compétences techniques requises s'écartent significativement de son expertise financière.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247503](https://mon-vie-via.businessfrance.fr/offres/247503)
+
+**Description du poste**
+
+Within the Lynxeo Group transformation program nexT, the purpose of this junior PMO role is to support international rollout projects while being part of a structured talent development journey. 
+The position aims to contribute to nexT deployment activities as a PMO support resource, while progressively developing project management, coordination, and change facilitation skills in an international environment. 
+This role is also designed to support the creation of an international PMO talent pool, combining operational contribution to projects and long‑term employability within the Group.
+
+**Profil recherché**
+
+Within the Lynxeo Group transformation program nexT, the purpose of this junior PMO role is to support international rollout projects while being part of a structured talent development journey. 
+The position aims to contribute to nexT deployment activities as a PMO support resource, while progressively developing project management, coordination, and change facilitation skills in an international environment. 
+This role is also designed to support the creation of an international PMO talent pool, combining operational contribution to projects and long‑term employability within the Group.
+
+</details>
+
+<details>
+<summary><strong>Consultant en contrôle de gestion, IA et BI (H/F)</strong> · PRODEVA · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** PRODEVA
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux exigences techniques du poste avec son master en contrôle de gestion, ses deux ans d'expérience réussie et sa maîtrise d'Excel et de Power BI. Ses compétences linguistiques (anglais courant) et son autonomie s'intègrent très bien dans ce projet de VIE, même si l'offre est basée à Bruxelles plutôt qu'en Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247492](https://mon-vie-via.businessfrance.fr/offres/247492)
+
+**Description du poste**
+
+Vous avez une première expérience solide en contrôle de gestion, l'IA et les nouvelles technologies vous passionnent, et vous voulez donner une longueur d'avance à votre carrière ?
+
+Chez DataVizX, nous améliorons la performance des entreprises par des approches modernes et novatrices : tableaux de bord de nouvelle génération, agents IA, revues de gestion automatisées. Forts de notre savoir-faire, nous vous apprendrons à maîtriser ces outils à un niveau avancé, à les mettre au service de nos clients et à communiquer avec des directeurs généraux, des directeurs financiers, des directions métiers et des conseils d'administration. Votre expertise en contrôle de gestion pour socle, l'IA au cœur, les fondamentaux de la BI en appui : vous réunirez le meilleur des trois mondes.
+
+• V.I.E de 12 mois, renouvelable une fois (24 mois au maximum), à partir du 1er février 2027
+• Possibilité de CDI à l'issue du V.I.E
+• Bruxelles, dans les locaux de TotalEnergies
+• Équipement fourni : ordinateur portable, téléphone portable et tous les outils nécessaires à votre mission
+• Télétravail possible, selon des conditions à négocier après le premier mois
+
+LE POSTE
+
+Vous êtes le référent finance de nos projets, spécialiste des nouvelles technologies : vous mettez votre maîtrise du contrôle de gestion et de nos outils d'IA et de BI au service de la performance de nos clients.
+
+• Présentation et validation : vous présentez nos solutions à nos clients et vous validez avec eux, et avec nos équipes, la justesse des totaux et des indicateurs.
+• L'IA appliquée à la finance : vous utilisez l'IA au quotidien dans votre travail, vous faites la démonstration de nos solutions d'automatisation IA et d'analyse BI à nos clients et vous apportez votre regard métier pour les rendre toujours plus pertinentes.
+• Garant de la qualité : rien ne part chez un client sans votre contrôle.
+• Formateur : vous formez des équipes financières à l'IA et à la BI, en visio, dans le cadre de notre certification Qualiopi.
+• Bâtisseur : vous nous aidez à définir les indicateurs pertinents pour chaque métier, et vos idées d'analyses enrichissent nos solutions au service de tous nos clients.
+
+Vous êtes épaulé au quotidien : notre équipe technique prend en charge les développements avancés, et vous apportez la connaissance métier, le sens des chiffres et la relation client.
+
+CE QUI REND CE POSTE UNIQUE
+
+Dans un grand groupe, un V.I.E en contrôle de gestion suit souvent une seule entité et un seul reporting. Chez nous, vous travaillez pour de nombreuses entreprises, face à leurs dirigeants, avec des outils d'IA que très peu de financiers utilisent encore.
+
+De la suite Office à Power BI, en passant par une pratique maîtrisée et certifiée de l'IA, vous apprendrez à automatiser et à sécuriser les tâches de votre métier. Ce qui prend des jours à beaucoup de contrôleurs, vous saurez le faire en quelques heures, avec des chiffres vérifiés.
+
+• Une entreprise à la pointe de la technologie : assistants d'analyse multilingues, données des clients croisées avec des données publiques, une quinzaine de solutions prêtes à l'emploi, lisibles sur ordinateur, tablette et téléphone. Nous livrons un tableau de bord complet en quelques jours, là où il faut habituellement un mois.
+• Le CES de Las Vegas : après Accountex 2025 et le CES 2026, nous serons de nouveau à Las Vegas en janvier 2027. Vous pourrez nous accompagner pour l'édition 2028.
+• Le fondateur en direct : vous échangez chaque jour avec le fondateur de DataVizX et apprenez au plus près de celui qui conçoit nos solutions.
+• Des secteurs très variés : automobile, aviation, promotion immobilière, mandataires, industrie, dispositifs fiscaux, location, magasins, salles de sport, bailleurs sociaux. Vos connaissances y seront précieuses, et vous découvrirez une diversité de métiers rare en début de carrière.
+• Des missions dès votre arrivée : vous intervenez sur des projets clients dès les premières semaines, accompagné par nos équipes, puis vous gagnez rapidement en autonomie et prenez en charge votre propre portefeuille de clients. Votre formation se poursuit au fil des projets.
+• Au terme de votre mission : une triple compétence en finance, IA et BI, des certifications Claude, OpenAI, Microsoft et Sage prises en charge par DataVizX, et un profil rare, recherché par les directions financières comme par les cabinets de conseil internationaux.
+
+BRUXELLES, UN TREMPLIN EUROPÉEN
+
+• Hébergé chez TotalEnergies : grâce à notre partenariat avec le groupe, vous travaillez dans un cadre moderne et cosmopolite, au contact d'équipes du monde entier.
+• Au cœur de l'Europe : la capitale des institutions européennes, où français, néerlandais et anglais se côtoient, à quelques heures de train de Paris, Londres et Amsterdam.
+• Notre représentant en Belgique : formations, présentations, premiers clients belges, vous incarnez notre développement local.
+
+À PROPOS DE DATAVIZX
+
+Depuis 2022, DataVizX a accompagné 40 entreprises en France, en Espagne et aux Antilles. Organisme de formation certifié Qualiopi, nous intervenons auprès des directions générales et financières, de la conception de leurs tableaux de bord à l'automatisation de leurs analyses. Notre fondateur, Serge Barros Chaves, porte l'innovation de DataVizX et la relation avec nos clients.
+
+CE QUI FAIT RÉUSSIR CHEZ NOUS
+
+Nous sommes une équipe internationale et exigeante : le fondateur partage son temps entre la Guadeloupe et Bordeaux, notre équipe technique travaille en anglais. Ce que nous attendons, concrètement :
+
+• Des résultats, pas de la présence : nous jugeons sur ce qui est livré, dans les délais annoncés. Un délai est un engagement, pas une indication.
+• La rigueur : un chiffre présenté à un client est vérifié et rapproché de sa source. Un document qui part est relu, sans approximation.
+• L'initiative : face à un problème, vous cherchez, vous testez, avec nos outils d'IA en premier, et vous arrivez avec une solution plutôt qu'avec une question.
+• La transparence : chaque jour, un point écrit sur ce qui est fait, ce qui bloque et ce qui suit. Un sujet bloqué se signale le jour même, pas trois semaines plus tard.
+• L'autonomie : sans manager sur place, vous organisez vos journées, vous allez chercher l'information et vous tenez vos engagements.
+• L'exigence de qualité : nos clients reçoivent des livrables haut de gamme. Un travail « à peu près » est un travail à refaire.
+• Une image professionnelle : tenue professionnelle et caméra allumée en visio. Face à des dirigeants, vous êtes le visage de DataVizX.
+
+Ce poste n'est pas fait pour vous si vous attendez des consignes détaillées pour avancer, si vous préférez la réflexion à la livraison, ou si vous voyez la qualité comme une option.
+
+COMMENT NOUS REJOINDRE
+
+Notre processus est court et concret : il vous permet de découvrir le poste autant qu'il nous permet de vous connaître.
+
+1. Votre candidature sur la plateforme V.I.E de Business France : votre CV et une lettre de motivation qui explique en quoi votre expérience correspond au poste proposé.
+2. Un premier échange avec le fondateur : en visio, ou en personne à Bordeaux selon le calendrier.
+3. Une mise en situation sur un cas réel anonymisé : vous présentez votre analyse comme vous le feriez devant un client, puis vous la résumez par écrit.
+
+Au cours du processus, vous recevrez une démonstration de nos solutions. Chaque candidature reçoit une réponse, et notre décision est prise au plus tard fin novembre 2026.
+
+**Profil recherché**
+
+Vous avez une première expérience solide en contrôle de gestion, en audit ou en finance d'entreprise, et vous voulez la mettre au service de projets innovants. Vous savez lire un compte de résultat, analyser un écart et défendre un chiffre. L'IA et la BI vous attirent : nous vous formons à nos outils.
+
+Profils visés : contrôleur de gestion, auditeur, analyste financier, consultant en finance.
+
+Indispensable :
+• Formation en contrôle de gestion, finance ou audit (Bac+4 ou Bac+5)
+• Deux ans d'expérience dans ces métiers, alternance comprise
+• Français courant, à l'écrit comme à l'oral
+• Anglais professionnel, langue de travail de notre équipe technique
+• Excel solide
+
+Un plus :
+• Power BI ou un autre outil de BI, SQL
+• Pratique des outils d'IA
+• Espagnol, allemand, italien ou arabe
+• Expérience en cabinet de conseil ou en mission auprès de clients
+
+Votre personnalité fera la différence :
+• Rigueur : vous vérifiez chaque chiffre avant de le présenter.
+• Autonomie : vous organisez votre travail sans manager sur place et vous tenez vos délais.
+• Curiosité : vous cherchez, vous testez, vous proposez.
+• Aisance orale : vous savez présenter et convaincre face à des dirigeants.
+• Pédagogie : vous aimez transmettre et former.
+
+Poste ouvert aux candidats éligibles au V.I.E : 18 à 28 ans, ressortissants de l'Espace économique européen.
+
+</details>
+
+<details>
+<summary><strong>Assistant Support aux Opérations Terrain (H/F) – Danemark</strong> · TOTALENERGIES SE · ESBJERG, DANEMARK · 3 662,65 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES SE
+- **Lieu :** ESBJERG, DANEMARK
+- **Indemnité :** 3 662,65 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil présente de solides compétences en contrôle de gestion, Power BI et analyse de données en phase avec le volet budgétaire et reporting du poste. Cependant, l'offre cible plutôt un profil ingénieur avec une spécialisation HSE/génie des procédés et requiert un anglais C1 (contre 925 au TOEIC), tandis que le candidat recherche prioritairement l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247435](https://mon-vie-via.businessfrance.fr/offres/247435)
+
+**Description du poste**
+
+Rejoignez les équipes Field Operations de TotalEnergies au Danemark et contribuez à l'amélioration de la performance opérationnelle et de la sécurité des activités offshore. 
+Au sein des départements Field Operations Support et Operational Safety, vous contribuez au développement d'outils de pilotage, au suivi budgétaire, à la préparation des audits réglementaires et à l'amélioration des processus internes. 
+
+Merci de candidater en anglais.
+Un logement sera fourni pas la filiale.
+
+Vous intervenez auprès de deux équipes distinctes, le support aux opérations et la sécurité opérationnelle. Au-delà des missions propres à chaque activité, vous participez à des projets transverses d'amélioration continue, de reporting et de transformation des modes de travail, vous offrant une vision élargie des activités Field Operations.
+Vos principales missions :
+•	Développer et améliorer des reportings automatisés à destination des équipes opérationnelles. 
+•	Construire et faire évoluer des tableaux de bord Power BI. 
+•	Produire des indicateurs de performance et des analyses de données. 
+•	Participer au suivi budgétaire et à la consolidation des données de coûts. 
+•	Mettre à jour les données organisationnelles et les organigrammes. 
+•	Préparer les audits réglementaires et coordonner les actions associées. 
+•	Contribuer au suivi des sujets HSE et aux analyses de causes racines. 
+•	Préparer des présentations et supports destinés au management. 
+•	Identifier des pistes d'amélioration et proposer des solutions innovantes.
+
+**Profil recherché**
+
+Vous diplômé d’un BAC+5 minimum, d’une école d'ingénieurs ou équivalent avec une spécialisation en génie des procédés, génie chimique, HSE ou gestion des risques.
+
+Vous bénéficiez d’une première expérience (stage, alternance ou expérience professionnelle) intégrant de l'analyse de données, suivi des coûts, du reporting ou de la gestion de projet.
+
+Une expérience sur des sujets HSE, audits ou gestion des risques dans le secteur de l’industrie ou de l’énergie constitue un atout.
+
+Une expérience sur le développement d’outils digitaux est appréciée.
+
+Vous maîtrisez les outils du Pack Office, notamment :
+•	Excel ;
+•	PowerPoint ;
+•	Power BI (pour la visualisation de données.)
+
+Un niveau d’anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.
+
+</details>
+
+<details>
+<summary><strong>CGO INTERNATIONAL (H/F)</strong> · (GROUPE) ASTEK · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** (GROUPE) ASTEK
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 6 mois (Du 1 janv. 2027 au 1 juil. 2027)
+- **Publiée le :** 26/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à son expérience solide en contrôle de gestion, son niveau d'anglais et son attrait pour l'Espagne. Le seul léger écart réside dans l'espagnol (niveau B1 demandé comme indispensable) et sa formation universitaire en gestion plutôt qu'en école de commerce ou d'ingénieur.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247231](https://mon-vie-via.businessfrance.fr/offres/247231)
+
+**Description du poste**
+
+Rejoignez-nous et boostez votre carrière !
+
+Nous recrutons un **Contrôleur de Gestion Opérationnel International** pour renforcer notre équipe au siège situé à Madrid. Dans ce rôle stratégique, vous travaillerez en étroite collaboration avec nos équipes locales et internationales pour soutenir la croissance continue du groupe. Vous aurez l'opportunité de déployer des outils de gestion et de contrôle pour plusieurs périmètres internationaux dans un environnement dynamique et en constante évolution.
+
+Votre mission : Contribuer à l’expansion internationale du groupe !
+
+En tant que Contrôleur de Gestion Opérationnel International, vos principales missions seront :
+
+- Participer à l’élaboration des KPIs hebdomadaires pour différents pays et régions.
+- Créer et déployer des tableaux de bord pour mesurer la performance dans de nouveaux marchés internationaux.
+- Rédiger et formaliser des processus opérationnels afin d'optimiser les performances des équipes.
+- Déployer et administrer notre CRM dans de nouveaux périmètres internationaux.
+- Fournir un support, accompagnement et formation aux équipes locales dans différents pays.
+- Réaliser des analyses et contrôles divers sur les performances internationales et proposer des solutions d’amélioration.
+
+Ce que nous offrons :
+
+- Un rôle stratégique, avec une forte exposition internationale.
+- Un environnement innovant et stimulant, au sein d’un groupe en pleine croissance.
+- Des possibilités d’évolution rapide dans un contexte de forte dynamique.
+
+Notre entreprise est un acteur majeur dans son secteur, avec une présence internationale croissante. Nous sommes en forte expansion et recherchons des talents pour accompagner cette croissance.
+
+**Profil recherché**
+
+Votre profil :
+
+- Vous êtes diplômé(e) d’un Bac+5 (école d’ingénieur ou grande école de commerce).
+- Vous disposez d’une expérience en contrôle de gestion opérationnel et êtes passionné(e) par les chiffres et l’analyse de données.
+- Vous avez de solides compétences dans l’élaboration de tableaux de bord, le paramétrage de CRM et la rédaction de processus.
+- Vous êtes rigoureux(se), autonome et capable de gérer plusieurs projets en parallèle.
+- La maîtrise de l’anglais et de l'espagnol est indispensable.
+- Vous êtes dynamique, organisé(e) et avez un sens aigu du service client pour accompagner les équipes opérationnelles.
+
+Votre personnalité :
+
+- Structuré(e) : vous êtes clair et efficace dans vos communications.
+- Organisé(e) : vous savez prioriser et garantir un suivi rigoureux des missions.
+- Proactif(ve) : vous êtes capable de prendre des initiatives et de proposer des solutions pour améliorer les processus.
+- Esprit d’équipe : vous appréciez travailler avec des équipes multiculturelles et internationales.
 
 </details>
 
@@ -677,6 +2998,56 @@ The Quality Engineer collaborates closely with cross-functional teams (e.g., Ope
 </details>
 
 <details>
+<summary><strong>V.I.E - Chargé(e) de conformité (H/F)</strong> · SOGECAP · HAMBOURG, ALLEMAGNE · 3 027,96 €/mois</summary>
+
+- **Entreprise :** SOGECAP
+- **Lieu :** HAMBOURG, ALLEMAGNE
+- **Indemnité :** 3 027,96 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 23/10/2026
+- **Compatibilité avec ton profil :** 55 % — Le candidat possède une formation en gestion et une bonne expérience en contrôle budgétaire, mais le poste proposé est orienté vers le risque, la conformité et le contrôle interne en Allemagne, un domaine assez éloigné de sa spécialité en FP&A et de son souhait pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246720](https://mon-vie-via.businessfrance.fr/offres/246720)
+
+**Description du poste**
+
+Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.
+
+En étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.
+
+Le/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.
+
+Vous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :
+Coordonner l'amélioration continue du dispositif de contrôle interne.
+Participer au processus d'identification et d'évaluation des risques.
+Maintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.
+Coordonner les campagnes de contrôle trimestrielles.
+Accompagner les collaborateurs dans la réalisation des contrôles.
+Assurer le suivi des plans d'action et des mesures correctrices.
+Être l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.
+Contribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.
+
+Vous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :
+
+La sécurité financière et le traitement des alertes relatives aux sanctions internationales.
+Les procédures d'évaluation des partenaires (Know Your Partner - KYP).
+La gouvernance des produits (Product Governance).
+
+**Profil recherché**
+
+Nous recherchons un(e) candidat(e) présentant le profil suivant :
+
+Diplôme en administration des affaires, économie, finance, gestion des risques, droit ou dans un domaine connexe.
+Une première expérience dans les services financiers, le contrôle interne et/ou la gestion des risques, acquise dans le cadre d'un premier emploi ou de stages, constitue un atout.
+Esprit d'analyse et approche méthodique du travail.
+Grande rigueur et sens du détail.
+Excellentes compétences en communication et relationnelles.
+Très bonne capacité d'organisation.
+Personne proactive, fiable et capable de gérer plusieurs priorités dans un environnement exigeant.
+Maîtrise courante de l'anglais ; la connaissance de l'allemand constitue un avantage.
+
+</details>
+
+<details>
 <summary><strong>Comptable international Multi-pays (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
@@ -727,6 +3098,276 @@ Les Avantages
 </details>
 
 <details>
+<summary><strong>Assistant Chef de Projet Contrôle Interne (H/F) – République tchèque</strong> · TOTALENERGIES MARKETING SERVICES · PRAGUE, TCHEQUIE / REPUBLIQUE TCHEQUE · 2 640,11 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES MARKETING SERVICES
+- **Lieu :** PRAGUE, TCHEQUIE / REPUBLIQUE TCHEQUE
+- **Indemnité :** 2 640,11 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 22/10/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en matière de formation financière et d'expérience en gestion, avec un excellent niveau d'anglais. Cependant, l'offre est axée sur le contrôle interne et l'audit plutôt que sur le contrôle de gestion pur, et la destination (République tchèque) s'éloigne de son souhait initial pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247383](https://mon-vie-via.businessfrance.fr/offres/247383)
+
+**Description du poste**
+
+Rejoignez la branche Marketing & Services de TotalEnergies à Prague, en République tchèque, et contribuez au renforcement du contrôle interne au sein d’un hub régional couvrant la République tchèque, la Slovaquie et la Hongrie.
+Vous participez à la préparation d’un audit interne régional et contribuez à la fiabilisation des processus, au suivi des contrôles et à l’amélioration continue des pratiques.
+
+Merci de candidater en anglais.
+
+Vos principales missions :
+•	Analyser les résultats des revues de contrôle interne et les plans d’actions associés.
+•	Comprendre les processus des entités couvrant trois pays.
+•	Coordonner les actions de préparation aux audits internes.
+•	Vérifier l’application des procédures et des règles de la Compagnie.
+•	Contrôler la disponibilité et la conformité de la documentation.
+•	Identifier les écarts, retards et points de vigilance.
+•	Accompagner les équipes dans la préparation des audits.
+•	Faciliter la coordination entre les équipes locales et les interlocuteurs du siège.
+•	Structurer le suivi des actions correctives après audit.
+•	Contribuer à l’intégration des exigences de contrôle interne au sein d’une nouvelle entité.
+
+**Profil recherché**
+
+Vous êtes diplômé d’un BAC+5 minimum (master universitaire ou école de commerce) avec une spécialisation en audit, contrôle interne, gestion des risques ou finance.
+Vous bénéficiez d’une première expérience dans un de ces domaines.
+Une expérience dans un secteur différent de celui de l’énergie représenterait un atout, en favorisant l’apport de nouvelles approches et de bonnes pratiques transposables à notre activité.
+Vous maîtrisez les outils du Pack Office, notamment :
+•	Excel ;
+•	PowerPoint ;
+•	Word.
+La connaissance de SAP constitue un atout.
+Un niveau d’anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.
+
+</details>
+
+<details>
+<summary><strong>Finance Manager (RAF) (H/F)</strong> · WESYPE · LISBONNE, PORTUGAL · 2 677,43 €/mois</summary>
+
+- **Entreprise :** WESYPE
+- **Lieu :** LISBONNE, PORTUGAL
+- **Indemnité :** 2 677,43 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 22/10/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en termes d'expérience (2 ans) et de compétences en contrôle de gestion, pilotage financier et optimisation des coûts. Cependant, l'offre met un accent plus opérationnel sur la comptabilité générale, la facturation et l'administration RH, et le poste est basé à Lisbonne alors qu'il cible plutôt l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247377](https://mon-vie-via.businessfrance.fr/offres/247377)
+
+**Description du poste**
+
+# À propos de Wesype
+
+Wesype accompagne les PMEs et ETIs à intégrer l’IA dans leurs métiers. Wesype est spécialisé en déploiement de plateforme agentique (Dust, Claude, Copilot …). 
+
+La société connaît une croissance très soutenue (+20 % par mois), est rentable et accompagne plus de 200 clients dans des industries variées (tech, fonds d'investissement, immobilier, cabinet de conseil, retail, notaires, avocats, experts-comptables).
+
+# L’équipe
+
+Wesype est fondé par l'ancien fondateur de Cajoo et un ancien dirigeant de Spendesk (licorne française). Une équipe de 40 personnes entre Paris et Lisbonne, dynamique, ambitieuse et passionnée par la révolution GenAI que nous vivons. 
+
+# Ton rôle
+
+Tu assures la fiabilité de la gestion administrative, comptable et financière de Wesype. Tu travailles au quotidien avec les fondateurs, les cabinets comptables, les équipes opérationnelles et les conseils externes.
+
+### **1. Facturation, encaissements et contrats**
+
+- Tu prépares les devis et factures liés aux prestations de conseil, licences, commissions, partenariats et formations.
+- Tu suis les encaissements, les relances clients, les avoirs.
+
+### **2. Comptabilité et fiscalité**
+
+- Tu coordonnes les cabinets d’expertise comptable, rassembles les pièces et prépares les clôtures.
+- Tu contrôles les rapprochements bancaires, les comptes clients et fournisseurs et les principales écritures comptables.
+- Tu suis le calendrier des obligations fiscales et administratives des sociétés opérationnelles.
+
+### **3. Trésorerie et pilotage financier**
+
+- Tu mets à jour la trésorerie, les prévisions à court terme et le suivi des paiements à venir.
+- Tu contribues au budget, au suivi du réalisé par rapport au prévisionnel et à l’analyse des écarts.
+- Tu produis des reportings réguliers pour les fondateurs, incluant chiffre d’affaires, marge, coûts
+
+### **4. Dépenses, achats et fournisseurs**
+
+- Tu contrôles les notes de frais, justificatifs, dépenses engagées et demandes de paiement.
+- Tu suis les fournisseurs, abonnements, renouvellements et échéances importantes.
+- Tu structures les règles d’engagement et d’approbation des dépenses et identifies les leviers d’optimisation des coûts.
+
+### **5. Juridique, contrats et conformité**
+
+- Tu assures le suivi administratif des contrats clients, partenaires, revendeurs et fournisseurs.
+- Tu contribues à la mise à jour des CGV, documents légaux, assurances, Kbis et obligations corporate.
+- Tu accompagnes les sujets de financement, de dette ou d’évolution des structures juridiques.
+
+### **6. Administration RH et organisme de formation**
+
+- Tu coordonnes la paie, les dossiers administratifs des collaborateurs et les avantages sociaux.
+- Tu assures le suivi administratif des formations, conventions, émargements, formateurs externes et justificatifs Qualiopi.
+- Tu veilles au respect des processus liés à la formation, à la veille réglementaire et aux audits.
+
+### **7. Processus, outils**
+
+- Tu structures et documentes les processus financiers et administratifs, puis identifies les tâches à simplifier ou automatiser.
+
+**Profil recherché**
+
+# Profil recherché
+
+- 2 à 3 ans d’expérience en finance d’entreprise, comptabilité, contrôle financier ou gestion administrative et financière
+- Expérience en startup, PME en croissance, cabinet comptable ou environnement de conseil
+- Rigueur, sens de l’organisation et attention aux détails
+- Autonomie, esprit d’initiative et capacité à faire avancer les sujets jusqu’à leur résolution
+- Appétence pour la structuration de processus et l’automatisation des tâches
+- Français courant. Anglais professionnel.
+
+</details>
+
+<details>
+<summary><strong>Product Engineering Officer (H/F)</strong> · SOCIETE GENERALE · MILAN, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** SOCIETE GENERALE
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 22/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le candidat possède de solides compétences en finance et en gestion de projet, mais l'offre exige une maîtrise de la langue italienne et une spécialisation en services titres (Securities Services) que le profil ne démontre pas. De plus, le poste est orienté vers l'ingénierie produit et non strictement vers le contrôle de gestion recherché.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247372](https://mon-vie-via.businessfrance.fr/offres/247372)
+
+**Description du poste**
+
+The Product Engineering Office is responsible for the design, development and implementation of products, solutions and services supporting SGSS business development objectives. 
+As part of the Commercial Department, the Office works in close collaboration with the Commercial and Marketing teams to support SGSS Italy business development, identify client and market needs, and translate them into client-focused solutions. 
+It also partners with Operations and IT teams to design and implement scalable, efficient and compliant products, services and operating models, addressing complex client requirements and contributing to the continuous enhancement of SGSS’s service offering.
+
+The successful candidate will work closely with the Product Engineering team and support the delivery of new products, solutions and services throughout their lifecycle, from analysis and design to implementation and client onboarding.
+
+Key responsibilities include:
+
+Supporting product and solution development projects;
+Gathering and documenting business requirements;
+Assisting in feasibility studies with Operations, IT, Risk and Compliance teams;
+Contributing to the design of operational solutions and target operating models;
+Preparing documentation for governance committees and project follow-up;
+Supporting the preparation of onboarding documentation, KPIs and SLAs;
+Maintaining product documentation and service descriptions;
+Assisting with implementation activities and client onboarding;
+Participating in client requests, RFP responses and commercial initiatives when required.
+In addition, the candidate will support transversal Product Engineering Office activities, including budget monitoring, pricing database maintenance, internal benchmarking and the preparation of management dashboards.
+
+A questionnaire will be provided to you in order to check your VIE (Société Générale and Business France) eligibility. For an efficient analysis of your application, please make sure to truthfully answer all the questions.
+
+Please note that it is mandatory to communicate us a formal proof of your M2 diploma validation at least 2 weeks before the assignment start. No VIE mission will start without this document. *Grade sheets are not accepted as justification of diploma.
+
+**Profil recherché**
+
+PLEASE NOTE that since this program is primarily an international development program, candidates cannot apply to a VIE assignment in their own country of citizenship.
+
+To facilitate the examination of your application by our English-speaking managers, we thank you for applying in English.
+
+Studies & experience:
+
+Graduate with a Master degree from Business/Engineering School or University with a specialization in Economics, Finance or a related field
+
+ 
+
+Language skills:
+
+Fluent in English (B2-C1)
+Italian: B2 (Upper Intermediate) - C1 (Advanced / Skilled)
+Operational, technical & soft skills:
+
+Good command of Microsoft Office tools, especially Excel and PowerPoint
+
+Knowledge of financial markets and Securities Services activities
+
+Understanding of project management and business analysis concepts
+
+Good analytical and organizational skills
+
+Client-oriented approach
+
+Strong communication and presentation skills, with the ability to clearly articulate concepts and information to different stakeholders;
+High attention to detail and a rigorous approach to work, ensuring accuracy, consistency and compliance with high-quality standards;
+Analytical mindset and problem-solving capabilities, with the ability to assess complex situations and identify effective, data-driven solutions;
+Inquisitive attitude and strong motivation to learn, with a proactive approach to professional development;
+Collaborative and proactive team player, able to contribute effectively in a structured and multi-disciplinary environment;
+Highly adaptable, well-organised, motivated and able to manage multiple tasks and priorities simultaneously.
+
+</details>
+
+<details>
+<summary><strong>TECHNICAL SOLUTIONS ENGINEER—SALES SUPPORT (FINTECH) - M/F (H/F)</strong> · WEEFIN · LONDRES, ROYAUME-UNI · 3 815,75 €/mois</summary>
+
+- **Entreprise :** WEEFIN
+- **Lieu :** LONDRES, ROYAUME-UNI
+- **Indemnité :** 3 815,75 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 22/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de contrôleur de gestion de Nathan correspond au secteur financier demandé et son niveau d'anglais est excellent. Cependant, l'offre requiert un rôle technique orienté pré-vente, ingénierie logicielle et développement d'algorithmes (Python, VBA), ce qui s'éloigne de son expertise financière pure.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247337](https://mon-vie-via.businessfrance.fr/offres/247337)
+
+**Description du poste**
+
+As a Technical Solutions Engineer, you will mainly support our Pre-sales team on Proofs of Concept (POCs) for prospects . You will serve as both a technical expert and a commercial ambassador, working closely with clients to understand their needs, provide tailored solutions, and ensure they get the maximum value from our platform. Your role will also involve presenting new features to clients, contributing directly to the business development strategy. 
+You will also support pre-sales activities by partnering with the Sales team to qualify technical requirements, deliver product demos, contribute to tailored solution design, and articulate the platform’s technical value proposition to prospective clients.
+Additionally, you will be responsible for developing tactical solutions and algorithms to meet specific client demands, bridging the gap between technical development and business needs.
+
+UK Office Overview: You’ll be joining WeeFin’s UK team of 12 people, based in a co-working space in Aldgate, at the heart of the City of London. The space offers access to a full range of facilities, including meeting rooms, lounges, kitchens, and an on-site coffee shop. There’s also a rooftop terrace and an in-house gym—perfect for lunch breaks and after-work gatherings with the team.
+
+Key Responsibilities:
+- Pre-sales support: work hand in hand with the Pre-sales team to understand prospects’ needs, qualify technical requirements and contribute to tailored solution design, RFPs and POCs.- Product demonstrations: help prepare and deliver product demos, learning to translate technical functionalities into clear business benefits for clients and prospects.
+- Technical expertise: support technical discussions and help answer client questions, building your expertise on the platform and its data.
+- Tactical solution development: design and build algorithms or tools tailored to client requirements, ensuring the platform meets specific financial or operational needs.
+
+- Client onboarding: occasionally support the Ops team on new client implementations when additional capacity is needed. 
+- Client Training: Conduct training sessions and workshops to educate clients on the effective use of our platform, empowering them to utilise it to its fullest potential.
+
+- Feedback Loop: Gather client feedback on our solution, identify areas for improvement, and work closely with our product and development teams to enhance the user experience.- Partner with Sales to understand prospects’ needs, qualify technical requirements, design tailored solutions, and deliver compelling product demos
+- Lead technical discussions, address client questions, support RFPs and POCs when needed
+- Client relationships: support the Account Executives in building strong client relationships, contributing to client satisfaction and success with our solution. All client engagement is coordinated with the AE in charge of the account. 
+
+What to expect from this experience
+- Step into the FinTech space to discover one of the most dynamic industries
+- At WeeFin, you’ll work at the intersection of technology, finance, and sustainability, gaining hands-on experience with cutting-edge tools and real-world client challenges.
+- You’ll join a close-knit and supportive team in London while staying connected to our Paris headquarters, allowing you to build an international network from day one.
+- Participate in making an impact and making finance more sustainable and transparent
+- Expect a steep learning curve, ownership of your projects, and the freedom to propose and implement your ideas.
+- You’ll also gain deep exposure to ESG and sustainable finance, equipping you with a unique and highly relevant skill set for the future of the financial industry.
+
+
+WeeFin Growth
+- Seed round: 2m€ in 2022
+- Series A round: 7m€ at the end of 2023 with 4 investment funds: Asterion Ventures, Investir&+, Iris Capital and Ring Capital
+- Series B round: 25m€ in 2025, led by BlackFin
+- More than 100 employees across the Paris & London offices
+
+Support to start your life in the UK & onboarding
+- We’ll support you throughout your relocation, including guidance to help you find suitable accommodation. From the outset, you’ll be in close contact with your team, who will be available to answer your questions about living in the UK—whether it’s finding a place to live, settling in, or discovering the best spots to visit and shop.
+- You’ll also benefit from regular check-ins with both the UK and French teams to ensure a smooth and well-supported transition.
+
+**Profil recherché**
+
+Educational Background: Bachelor’s or Master’s degree in Engineering, Computer Science, Finance, or a related field.
+
+Experience: Experience in a technical client-facing role, preferably within the Finance, FinTech or SaaS industry.
+
+Technical Skills: Strong proficiency in algorithm development, scripting (Python, VBA, or similar), and data structuring. A strong analytical mindset with the ability to create tactical solutions for financial applications.
+
+Communication Skills: Excellent verbal and written communication skills in English; proficiency in French is a plus.
+
+Client-Focused: A passion for working with clients, with the ability to understand their needs and provide solutions that drive value.
+
+Knowledge in Market Finance is a plus: A strong understanding of financial markets, financial products, and risk management principles would be a plus.
+
+Adaptability: Ability to thrive in a fast-paced, startup environment and adapt to changing priorities.
+
+Other
+
+The admin tasks to participate in a VIE programme can take up to 3 months overall, which can alter the start period.
+
+We’re receiving a large number of applications; we’ll get back to you as soon as possible.
+
+</details>
+
+<details>
 <summary><strong>Customer Operations & Supply Chain Specialist (H/F)</strong> · PRODUCT DEVELOPMENT EMPLOYENEURSHIP · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** PRODUCT DEVELOPMENT EMPLOYENEURSHIP
@@ -753,6 +3394,72 @@ Fluency in English and French; Dutch proficiency is considered an advantage.
 Strong proficiency in Microsoft Excel and the Microsoft Office suite.
 Excellent analytical, organizational, problem-solving, and customer service skills.
 Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG environments is beneficial.
+
+</details>
+
+<details>
+<summary><strong>Finance Controller (H/F)</strong> · OPMOBILITY EXTERIOR SERVICES · SILAO-GUANAJUATO, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** OPMOBILITY EXTERIOR SERVICES
+- **Lieu :** SILAO-GUANAJUATO, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 21/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa solide expérience en contrôle de gestion, son niveau d'anglais validé et sa maîtrise d'Excel. Les principaux écarts résident dans l'absence mentionnée des logiciels SAP et Oracle HFM, ainsi que de l'espagnol courant (niveau B1 indiqué).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247344](https://mon-vie-via.businessfrance.fr/offres/247344)
+
+**Description du poste**
+
+As a Central Finance Controller, you will be a part of the core team in our site in Silao. You will be the main link between the different plants in Mexico and the BG team. Your main missions will be:
+- Control and consolidation information level Mexico
+- Support the preparation of financial programs milestones.
+- Support Research & Development as well as a Project Controllers
+- Manage the cash of the project prepare and update the cash flow of the projects
+- Create and prepare monthly reports required locally or at Division level as well as improving current processes
+- Supporting hourly booking processes in our internal project software (PAMS)
+- Prepare required projects information for Strategic Plan, Budget, Forecast and monthly closing.
+- Take part to the closing process and insure the availability, quality of the information, respect of the timing and accuracy of postings.
+
+**Profil recherché**
+
+Profile 
+- You are a highly motivated young graduate from a Business School or University with a strong interest for a finance and controlling. As part of your studies, you have already undertaken an international curriculum (e.g., one semester or year outside your home country).
+- You are a team player, a self-learner and have good organizational and time management skills. You are familiar with the software SAP and have an advance knowledge of Excel. You also have experience with Oracle HFM Plus.
+- You are open minded and with a serious desire to learn and work in a team, as well as a clear willingness to embark on an international career.
+- A first experience or internship in the automotive sector or in project management can be a plus.
+- Your English and Spanish are fluent.
+
+</details>
+
+<details>
+<summary><strong>Program & R&D Controller (H/F)</strong> · OPMOBILITY EXTERIOR SERVICES · MONTERREY, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** OPMOBILITY EXTERIOR SERVICES
+- **Lieu :** MONTERREY, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 21/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247294](https://mon-vie-via.businessfrance.fr/offres/247294)
+
+**Description du poste**
+
+As a Program & RD controller, you will be a part of the core team on our site in Monterrey, working on different projects in development while learning about budgets and control tools. Your main missions will be:
+- Master the project finance model and continuously improve the tool to better serve project
+- Support the preparation of financial programs milestones
+- Create and prepare monthly reports required locally or at Division level as well as improving current processes/tools
+- Cost center budget monitoring (Headcount & expenses)
+- Supporting hourly booking processes in our ERP software
+- Communicate financial concepts and requirements clearly to non-financial people
+- Share with technical management teams monthly financials, analysis and be a driver/counselor for improvement
+
+**Profil recherché**
+
+Profile
+- You are an initiative-taking young graduate from a Business School or University with a strong interest for finance and controlling. As part of your studies, you have already undertaken an international curriculum (e.g., one semester or year outside your home country)
+- You are a collaborator, a self-learner and have good organizational and time management skills. You are familiar with the software SAP and have an advanced knowledge of Excel. You also have experience with Oracle HFM Plus
+- You are open-minded and with a sincere desire to learn and work in a team, as well as a clear willingness to embark on an international career
+- A first experience or internship in the automotive sector or in project management can be a plus
+- You are fluent in English (required), and proficiency in Spanish would be a plus
 
 </details>
 
@@ -832,6 +3539,226 @@ Success Metrics for the Role
 •	Exposure to standard costing and variance analysis required.
 •	Experience with ERP systems (Business Central, Navision, SAP, Oracle, Dynamics, etc.) preferred. 
 •	Strong Excel skills (pivot tables, data analysis).
+
+</details>
+
+<details>
+<summary><strong>Market Analyst Western and Central Europe (VIE) (H/F)</strong> · EURONEXT PARIS SA · MILAN, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** EURONEXT PARIS SA
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 20/10/2026
+- **Compatibilité avec ton profil :** 65 % — Le candidat possède de solides compétences financières, une maîtrise de Power BI et un excellent niveau d'anglais qui correspondent aux attentes. Cependant, l'offre est axée sur l'analyse de marché et le développement commercial dans le secteur de l'énergie (Milan) plutôt que sur un rôle pur de contrôle de gestion.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247265](https://mon-vie-via.businessfrance.fr/offres/247265)
+
+**Description du poste**
+
+You will be primarily responsible for:
+
+Helping the team grow Nord Pool’s presence in Western and Central (WCE) Europe.
+
+Help the Market Manager expand their presence and grow their business
+
+Perform market, market participant and other type of analyses for the team
+
+Perform back office work for the team (such as data management)
+
+Help in event organization and participation
+
+Possibly participate in external forums, trade fairs and conferences
+
+Work with customers and external stakeholders to understand their demands and industry trends to be able to shape an innovative and competitive offering in the region
+
+Work closely with internal stakeholders such as the Operations team and Product Management
+
+**Profil recherché**
+
+Your Profile:
+
+You have experience or a strong interest in energy or financial markets and have a degree in business or engineering.
+
+Fluent in English. Other languages such as French or German are appreciated.
+
+Innovative, energetic, optimistic, ambitious but not aggressive, structured and with attention to analysis and details, independent and with great communication and relational skills, describe you best.
+
+You work well with Microsoft Office and Power BI and can quickly learn other software.
+
+</details>
+
+<details>
+<summary><strong>Junior Controller (H/F)</strong> · BIOMERIEUX SA · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** BIOMERIEUX SA
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 19/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes avec son Master en finance, ses deux années d'expérience en contrôle de gestion et sa maîtrise d'Excel et de l'anglais. Le seul léger écart concerne la mobilité géographique, le candidat ciblant notamment l'Espagne tandis que l'offre est basée à Bruxelles.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247243](https://mon-vie-via.businessfrance.fr/offres/247243)
+
+**Description du poste**
+
+Position Purpose
+
+The Junior Controller will support the CFO Benelux & Nordics (BenNor) in providing accurate financial information, analysis and insights to support business decision-making across the cluster.
+
+Working closely with the CFO, Senior Controllers and business teams, the Junior Controller will contribute to financial data reliability, monthly closing and reporting, budgeting and forecasting, while progressively developing a strong understanding of bioMérieux’s business, financial processes and controlling tools.
+
+
+Key Responsibilities
+
+Financial Analysis & Business Support
+
+Support the CFO and controlling team in preparing regular and ad hoc financial analyses to inform business and management decisions.
+
+Analyse key business indicators, including sales performance, product margins, selling prices and price evolution, deal profitability, and installed base performance.
+
+Identify significant variances and trends and contribute to explanations and recommendations.
+
+
+Closing & Reporting
+
+Participate in the monthly closing process and prepare management reporting for the BenNor cluster.
+
+Support controllers in ensuring the accuracy and consistency of financial information through data checks and reconciliations across systems.
+
+Help improve reporting processes and the efficiency of recurring controlling activities.
+
+
+Budget & Forecasting
+
+Participate in the annual budget and periodic forecasting processes.
+
+Support the consolidation and analysis of financial assumptions provided by countries and functions.
+
+Contribute to the coordination of the sales forecasting process.
+
+Monitor actual performance against budget and forecast.
+ 
+
+Data Quality & Internal Control
+
+Support the CFO and controlling team in maintaining high-quality financial data across systems.
+
+Contribute to the application and monitoring of internal control requirements at cluster level.
+
+Help identify inconsistencies, risks and opportunities for improvement, and support the documentation and standardisation of finance processes.
+
+
+Cluster Coordination & Projects
+
+Work closely with local Finance teams across Benelux and the Nordics, supporting the CFO in coordinating controlling activities and finance initiatives.
+
+Participate in local, EMEA and global finance projects, including the implementation and continuous improvement of finance tools, processes and reporting.
+
+Help represent BenNor business requirements in interactions with EMEA Finance, Corporate Finance and Information Systems teams.
+
+**Profil recherché**
+
+Your profile
+
+
+Bachelor’s or Master’s degree in Finance, Accounting, Business Administration, Economics or a related field.
+
+Ideally 1–3 years of experience in controlling, financial analysis, audit or a similar finance position. Strong graduates with relevant internships may also be considered.
+
+Good understanding of financial and management accounting principles.
+
+Strong analytical skills, with attention to accuracy and data quality.
+
+Very good Excel skills; experience with financial reporting or ERP systems is an advantage.
+
+Motivation to learn bioMérieux finance tools, including OPERA, COFIS and PRISM.
+
+Good communication and interpersonal skills, with the ability to collaborate across countries and functions.
+A proactive, solution-oriented approach.
+
+Comfort working in an international and evolving environment.
+
+Fluent in English; knowledge of another Benelux or Nordic language is an advantage.
+ 
+
+Development Opportunity
+
+
+This VIE offers broad exposure to the BenNor Finance organisation and an opportunity to develop within an international finance environment.
+
+Working directly with the CFO and experienced controllers, the Junior Controller will progressively gain autonomy in financial analysis, forecasting, reporting and business partnering. The role will help build a strong understanding of the financial and operational dimensions of the business, preparing for future controlling or finance business partnering responsibilities within bioMérieux.
+
+</details>
+
+<details>
+<summary><strong>MANAGEMENT CONTROL ANALYST (H/F)</strong> · LEGRAND FRANCE · LIMA, PEROU · 2 440,62 €/mois</summary>
+
+- **Entreprise :** LEGRAND FRANCE
+- **Lieu :** LIMA, PEROU
+- **Indemnité :** 2 440,62 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 19/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil correspond parfaitement aux exigences techniques du poste avec 2 ans d'expérience en contrôle de gestion et un niveau d'anglais solide, bien que le candidat ait un niveau d'espagnol B1 inférieur au niveau C1 requis par l'entreprise.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247234](https://mon-vie-via.businessfrance.fr/offres/247234)
+
+**Description du poste**
+
+You will support the Finance Department by providing reliable financial and business analysis, ensuring accurate management reporting, and contributing to budgeting, forecasting, and monthly closing processes, to facilitate informed decision-making and effective business performance monitoring.
+Among your key resposabilities, you will contribute in: 
+- Managing the BPC reporting application,
+- Preparing sales analysis reports,
+- Supporting the preparation and consolidation of final budgets,
+- Supporting the preparation of quarterly forecasts,
+- Supporting monthly accounting and management control closing processes,
+- Preparing business analyses and reports related to sales and finance to support informed decision-making.
+
+**Profil recherché**
+
+Graduated from a Master’s degree or equivalent professional qualification in Finance with at least 2 years of experience in management control, financial planning and analysis, accounting, budgeting, or similar finance-related position,
+Mastery of Spanish/English and French (level C1),
+Advanced proficiency in Microsoft tools (esp. Excel),
+Knowledge of reporting and financial planning systems,
+Experience with data visualisation and business intelligence tools is desirable,
+Analytical thinking, attention to detail and accuracy, planning and organisational skills, results orientation, business acumen, effective communication, collaboration and teamwork, proactivity and continuous improvement mindset.
+
+</details>
+
+<details>
+<summary><strong>Corporate Finance & Treasury Analyst (H/F)</strong> · AMARIS FRANCE SAS · PORTO, PORTUGAL · 2 677,43 €/mois</summary>
+
+- **Entreprise :** AMARIS FRANCE SAS
+- **Lieu :** PORTO, PORTUGAL
+- **Indemnité :** 2 677,43 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 19/10/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa formation en finance, sa maîtrise d'Excel et de Power BI, ainsi que son niveau d'anglais courant. Ses 2 ans d'expérience en contrôle de gestion et analyse financière font écho aux missions demandées, bien que l'offre soit davantage orientée finance d'entreprise et trésorerie.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246778](https://mon-vie-via.businessfrance.fr/offres/246778)
+
+**Description du poste**
+
+Job Description : 
+
+You will join the Corporate Financing & Treasury department within Mantu Group, playing a central role in corporate finance and treasury analysis. As a true cross-functional point of contact, you will interact daily with the group's banking partners and multiple internal teams, including accounting, FP&A, HR & Payroll, suppliers, and executive management.
+
+ 
+Your Missions :
+
+Support and monitor Group financing projects and build financial models
+Prepare recurring financial reporting and analyses for senior management
+Coordinate banking relationships and support financing execution
+Supervise off-balance sheet commitments and cash collateral
+Contribute to process improvement and automation projects
+Monitor excess cash and analyse investment solutions
+Perform client credit risk assessments
+Support ESG analysis and integration into finance projects
+
+**Profil recherché**
+
+Experience in corporate finance, financial analysis, credit risk assessment, or treasury (1–3 years)
+Advanced financial analysis and modelling skills
+Advanced Excel; Power BI is a plus
+Master's degree in Business School, Finance, Financial Engineering, or equivalent
+English fluent. French is a plus.
+You demonstrate rigour, analytical mindset, critical thinking, and proactivity
 
 </details>
 
@@ -1133,6 +4060,130 @@ A first experience in compliance, internal audit, or financial crime prevention 
 </details>
 
 <details>
+<summary><strong>FP&A Business Partner (H/F)</strong> · AMARIS FRANCE SAS · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** AMARIS FRANCE SAS
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 15/10/2026
+- **Compatibilité avec ton profil :** 60 % — Le profil correspond bien sur le plan technique (compétences en FP&A, Excel, Power BI, bilinguisme français-anglais) et géographique (Barcelone). Cependant, l'offre requiert une expérience en management d'équipe (lead a team) et un niveau de séniorité stratégique plus élevé que les 2 ans d'expérience opérationnelle en PME du candidat.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247114](https://mon-vie-via.businessfrance.fr/offres/247114)
+
+**Description du poste**
+
+You will join our finance team, playing a key role in financial strategy and performance. Reporting to the FP&A Head-of, you will structure and drive the financial planning process while supporting operational teams in optimizing business performance. You will lead a team and act as a strategic partner to senior leadership, providing insights to support decision-making.
+
+Your missions:
+
+- Act as a trusted advisor to the CFO and FP&A Head-of, providing strategic financial insights and decision support
+- Guide and coach the FP&A team, fostering a high-performance culture
+- Align financial planning processes with business objectives, ensuring strategic coherence
+- Prepare reports and presentations for senior leadership, offering clear and actionable insights
+- Oversee budgeting, forecasting, and financial modeling to ensure data-driven decision-making
+- Analyze business performance, identify risks and opportunities, and drive corrective actions
+- Develop and refine reporting tools to improve data visualization and financial storytelling
+- Translate financial insights into strategic recommendations for non-financial stakeholders
+- Work closely with data and finance teams to optimize reporting tools and automate key processes
+- Support major transformation initiatives by ensuring financial alignment with company strategy
+- Drive continuous improvement in financial systems, leveraging digital tools for efficiency gains
+- Collaborate with IT and other business functions to enhance financial reporting capabilities
+- Partner with other finance teams across different locations to maintain consistency in reporting and compliance
+
+**Profil recherché**
+
+Experience in FP&A, financial audit, or a similar role (2-3 years)
+Strong leadership and interpersonal skills for guiding the FP&A team
+Excellent communication skills, with the ability to make financial data accessible to diverse stakeholders
+Analytical mindset with a proactive and problem-solving approach
+Ability to work with multiple deadlines in a fast-paced setting
+Strong Excel skills; knowledge of Power BI is an advantage
+English and French fluent
+Ability to work autonomously, take initiative, and drive financial improvements
+Experience with generative AI tools such as OpenAI for improving day-to-day productivity
+
+</details>
+
+<details>
+<summary><strong>Junior Underwriter / Actuarial Analyst (H/F)</strong> · GIE AXA · CHICAGO         -IL-, ETATS-UNIS · 3 813,78 €/mois</summary>
+
+- **Entreprise :** GIE AXA
+- **Lieu :** CHICAGO         -IL-, ETATS-UNIS
+- **Indemnité :** 3 813,78 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 15/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est axé sur le contrôle de gestion généraliste et la finance d'entreprise, tandis que l'offre chez AXA cible spécifiquement un rôle d'analyste actuariel et de souscription d'assurance aux États-Unis. Bien que ses compétences en analyse financière et Excel correspondent, l'absence de formation ou d'expérience en actuariat constitue un écart important.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247082](https://mon-vie-via.businessfrance.fr/offres/247082)
+
+**Description du poste**
+
+We are seeking a highly motivated and detail-oriented Junior Underwriter / Actuarial Analyst to join our Underwriting team. This entry-level role is designed for a professional with 1-3 years of experience who is eager to learn and contribute to the assessment, analysis, and management of risks associated with travel Assistance and insurance products, with a foundational understanding of actuarial principles. The ideal candidate will support senior underwriters and the business in ensuring profitability, regulatory compliance, and pricing exercise.
+
+Dimensions of the role
+•	The Underwriter will report to the Underwriting Manager
+•	He/she will interact with Commercial department, Operation/Work force management, Finance, Data, Product, Legal, Captive Manager and other UWs.
+•	Support Pricing activity, Actuarial, Underwriting and Reinsurance
+•	Preparing analysis, evaluating Assistance, Insurance and reinsurance quotes. 
+•	Work to approve the coverages requested within specified underwriting authority, either as submitted or on a modified basis, or decline the risk in its entirety; refer to recommended action if risk exceeds underwriting authority.
+•	Identify and suggest creative underwriting solutions through knowledge of various options, Reference Based Pricing vendors.
+•	Prepare pricing models according to guidelines and operating procedures
+
+Key responsibilities
+Risk Assessment & Underwriting Support:
+	Assist in evaluating travel insurance applications, collecting data, and supporting risk exposure assessment.
+	Help analyze financial, medical, and travel-related information to inform underwriting decisions.
+	Learn and apply underwriting guidelines consistently under supervision.
+Policy Management Support:
+•	Support the issuance, renewal, and modification of travel insurance policies.
+•	Assist in monitoring claims trends and loss ratios, providing data for underwriting strategy adjustments.
+•	Collaborate with claims and actuarial teams to gather data for optimizing pricing and coverage.
+
+Actuarial Analysis Support:
+•	Assist the actuarial team with data collection, validation, and preliminary analysis for pricing and reserving.
+•	Support the development and maintenance of actuarial models under guidance.
+•	Contribute to experience studies and profitability analysis for travel insurance products.
+
+Compliance & Regulatory Adherence Support:
+•	Learn and assist in ensuring all underwriting activities comply with regulatory and legal requirements in relevant markets.
+•	Stay informed about changes in insurance regulations and support the team in adjusting underwriting practices.
+•	Participate in data gathering for audits and compliance reporting.
+
+Market Analysis & Product Development Support:
+•	Assist in gathering data on market trends and competitor offerings to identify opportunities for product enhancements.
+•	Support the analysis of insights and recommendations for developing new travel insurance products and features.
+•	Contribute to the development of underwriting strategies to maintain a competitive edge.
+
+Process Improvement:
+•	Identify and suggest minor areas for operational efficiencies and contribute to process improvements within the underwriting and actuarial functions.
+•	Learn to leverage technology and data analytics to enhance underwriting accuracy and speed.
+
+Organisational Summary 
+ 
+AXA Partners is AXA’s global entity dedicated to co-building and distributing with partners simple, customer-centric, and innovative solutions that combine insurance, assistance, and other value-added services.
+As an integral part of the Group Innovation unit, AXA Partners also plays a key role in the deployment of disruptive solutions emerging from this innovation ecosystem. 
+The combination of both missions’ positions AXA Partners today as a key pillar of AXA’s Payer-to-Partner strategy. 
+With the support of operating units established in 39 countries, our more than 9,000 employees are at the service of our customers anywhere, anytime.
+In 2020, AXA Partners’ revenues reached €2.98 billion.
+
+**Profil recherché**
+
+Qualifications & Experience:
+•	Bachelor’s degree in Actuarial Science, Mathematics, Statistics, Finance, Business, or a related quantitative field.
+•	1-2 years of experience in an insurance, underwriting, or actuarial support role, or a related field.
+•	Foundational understanding of travel insurance products, policies, and market dynamics, or a strong willingness to learn.
+•	Familiarity with data analysis tools (e.g., Excel, Power BI) and an eagerness to learn underwriting/actuarial software.
+•	Awareness of regulatory compliance principles and best practices.
+
+Key Competencies:
+•	Excellent analytical and decision-making skills.
+•	Strong negotiation and relationship-building abilities.
+•	Effective communication and presentation skills.
+•	High attention to detail and organizational skills.
+•	Ability to work independently and as part of a team in a fast-paced environment.
+
+</details>
+
+<details>
 <summary><strong>Consultant(e) Métier Bancaire (H/F)</strong> · BK CONSULTING FRANCE · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
 
 - **Entreprise :** BK CONSULTING FRANCE
@@ -1319,6 +4370,57 @@ Proactive and results-driven
 </details>
 
 <details>
+<summary><strong>Analyste financier (H/F)</strong> · SAFRAN HELICOPTER ENGINES · MIRABEL -QC, CANADA · 2 649,28 €/mois</summary>
+
+- **Entreprise :** SAFRAN HELICOPTER ENGINES
+- **Lieu :** MIRABEL -QC, CANADA
+- **Indemnité :** 2 649,28 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 13/10/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246998](https://mon-vie-via.businessfrance.fr/offres/246998)
+
+**Description du poste**
+
+Rejoignez Safran Helicopter Engines à Mirabel, au Canada, en tant qu'Analyste Financier VIE et contribuez à la performance financière d'un leader mondial de la propulsion hélicoptère.
+
+Relevant du Directeur financier, l'Analyste financier V.I.E. est le support à la comptabilité journalière. Il supporte à la fois l'analyste financier et l'analyste prix de revient dans leurs diverses tâches.
+
+Les missions proposées sont les suivantes :
+• Assister l'équipe financière dans les processus de comptabilité générale, fin de période comptable, contrôle de gestion et de contrôle interne.
+• Participer activement à la campagne de Contrôle Interne et réalisation de tests
+• Suivre le déploiement des plans d'action de Contrôle Interne
+• Assister l'équipe Finance lors de l'élaboration et du suivi budgétaire
+• Assister l'équipe Finance dans la gestion des comptes fournisseurs et clients (AP & AR)
+• Réconcilier et analyser des comptes de bilan ainsi que les comptes de résultat
+• Participer aux inventaires de stock et des CAPEX
+• Participer au processus de fin de période comptable
+• Réaliser des contrôles de fin de mois afin d'assurer la fiabilité des informations financières et de bonne gestion
+• Contribuer à divers projets et initiatives d'amélioration continue
+• Réaliser toutes autres tâches connexes
+
+Projets personnels :
+• Nettoyer les comptes clients et fournisseurs et éventuellement CAPEX.
+• Élaborer un dossier d'étude de Prix de Transfert « Template » et conduire l'analyse sur les années 2022, 2023, 2024, 2025 et 2026.
+• Travailler sur l'automatisation de rapports d'analyses afin d'accélérer les processus Finance.
+
+**Profil recherché**
+
+Le profil que nous recherchons :
+• 1-2 années d'expérience pertinente,
+• Bonne compréhension du cycle comptable complet et du contrôle interne,
+• Connaissance de SAP (un atout),
+• Bilinguisme français/anglais à l'oral et à l'écrit,
+• Bonne communication (écrite et verbale),
+• Maîtrise de la suite Microsoft Office,
+• Rigueur et souci du détail,
+• Bonne communication écrite et verbale,
+• Esprit d'équipe et aptitude à collaborer efficacement avec différents intervenants,
+• Bonne capacité d'analyse et de synthèse,
+• Orientation service à la clientèle.
+
+</details>
+
+<details>
 <summary><strong>VIE Analyst M&A | Latin America (Portuguese speaking) (H/F)</strong> · EURO LATINA FINANCE · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
 
 - **Entreprise :** EURO LATINA FINANCE
@@ -1399,6 +4501,101 @@ Personal Attributes
 </details>
 
 <details>
+<summary><strong>Chargé(e) Back Office - Settlement/Transfert H/F (H/F)</strong> · ARKEA PROCAPITAL SERVICES · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** ARKEA PROCAPITAL SERVICES
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 09/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion et le FP&A d'entreprise, tandis que cette offre concerne le back-office titres et la finance de marché (settlement). Bien que le niveau d'études et la localisation internationale correspondent, les compétences techniques requises diffèrent sensiblement de son expérience.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246860](https://mon-vie-via.businessfrance.fr/offres/246860)
+
+**Description du poste**
+
+Présentation de la société :
+ProCapital (membre d’Euronext, LCH Clearnet et Euroclear), filiale du Groupe Crédit Mutuel Arkéa, est un Prestataire de Services d’Investissement aujourd’hui leader dans le domaine des services de front et back-office Titres à destination des établissements financiers pour la gestion et le traitement des comptes de leurs clients particuliers.
+
+Poste et missions :
+Procapital propose des prestations de sous-traitance de négociation, conservation et tenue de comptes titres pour des clients institutionnels en Belgique.
+
+Rattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, notamment, aux missions suivantes :
+- Initiation des dossiers de transferts de titres entrants et sortants avec les contreparties
+- Gestion des transferts internes
+- Mise en place des instructions de transfert sur le marché
+- Suivi du dénouement des transferts
+- Traitement des réconciliations titres
+- Traitement des demandes clients
+- Participation à des réflexions ayants pour but l’amélioration de l’efficacité et productivité interne (amélioration de procédures, identification d’automatisations complémentaires…)
+
+**Profil recherché**
+
+De formation Bac +4/5, type Ecole de Commerce, de Gestion ou équivalent universitaire Master 1 ou 2 avec option finance de marché, vous maîtrisez les logiciels Microsoft office, l’anglais et êtes intéressé(e) par les marchés financiers et Internet.
+Votre rigueur, votre réactivité, votre autonomie ainsi que votre sens relationnel vous permettront d’évoluer dans un environnement réactif et exigeant.
+
+</details>
+
+<details>
+<summary><strong>VIE Business Management Controller (H/F)</strong> · VALEO ELECTRIFICATION · ERLANGEN, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** VALEO ELECTRIFICATION
+- **Lieu :** ERLANGEN, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 09/10/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en management, son expérience solide en contrôle de gestion industriel et sa maîtrise d'Excel. Ses compétences en analyse financière et son niveau d'anglais courant (TOEIC 925) compensent l'absence de mention de l'outil SAP, faisant de ce poste à Erlangen une excellente opportunité.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246839](https://mon-vie-via.businessfrance.fr/offres/246839)
+
+**Description du poste**
+
+Valeo’s VIE Program?
+
+The Valeo VIE Program is available to citizens of the European Economic Area (EU + Norway, Liechtenstein and Iceland) aged between 18 and 28. This program is to work for one of our subsidiaries around the world!
+Business France, the French agency for international business development, is in charge of all the administrative procedures of your assignment. Make sure you meet Business France's eligibility criteria to apply for a VIE : https://mon-vievia.businessfrance.fr/
+PLEASE NOTE: Your application must be submitted in English to be considered by our non-French speaking teams partners at Valeo worldwide. 
+PLEASE NOTE: As part of your international development, you cannot apply to a VIE assignment in the country of your citizenship
+***
+Join our teams mobilized to meet the challenge of accelerating electrification!
+
+At the heart of electric mobility, Valeo Power brings together expertise in thermal management systems and propulsion systems. This division develops innovations that contribute to the mobility of tomorrow by reducing pollutant emissions and maximizing vehicle autonomy.
+
+The site of Erlangen based in Germany belongs to the POWER Division. We are looking for a VIE Business Management Controller for 24 months within the team.
+
+Your challenges?
+
+- You will work in close collaboration with the Project Manager and the project team as a full team member, ensuring the reliability of the project’s economics from the RFQ / P1 phase until series production.
+- You will build and maintain the project’s provisional P&L, investment plan, and cash flow projections.
+- You will ensure the consistency of the industrial and economic scenario, including volumes, inflation balance, investments, and R&D costs.
+- You will provide the Project Manager with a comprehensive understanding of production costs, including standard times, hourly rates, and fixed cost allocations.
+- You will prepare clear syntheses and presentations for upper management, transparently explaining whether and under which conditions a business is profitable.
+- You will follow up on project costs (R&D, investments, prices) and key KPIs throughout the complete development phase.
+- You will track and manage customer contributions, subsidies, and tooling sales across cash flow, P&L, and balance sheet perspectives.
+
+**Profil recherché**
+
+Let’s talk about you…
+
+- You hold a Master’s degree in Management or Business administration
+- You already have experience in Controlling in an industrial environment
+- You have a fluent level of English
+- Good Excel skills are mandatory
+- You have good communication skills, have an international mindset and are open-minded to new cultures and new ways of working and thinking
+- You are humble, listening, positive attitude oriented, professional, and have the sense of diplomacy 
+- Knowledge of SAP is a plus
+
+Please, don't forget to apply in English to facilitate the process with our managers. 
+
+Why Valeo?
+
+To join a competitive group, a French pioneer in automotive innovation
+For a dynamic career with possibilities for national or international mobility, adapted to your aspirations
+To contribute to the development of greener mobility
+
+Valeo places great importance on recruiting diverse profiles: we are open to all talents and we promote an inclusive and multicultural environment.
+
+</details>
+
+<details>
 <summary><strong>Contrôleur de gestion junior (H/F)</strong> · FLEXITECH EUROPE · SAN LUIS POTOSI, MEXIQUE · 3 221,54 €/mois</summary>
 
 - **Entreprise :** FLEXITECH EUROPE
@@ -1450,6 +4647,449 @@ Qualités Personnelles
 • Dynamique et curieux, capable de relever des défis en contexte international
 • Autonome et collaboratif : bon relationnel avec les équipes opérationnelles et financières
 • Persévérant dans la mise en place de processus et de reportings, avec une bonne tolérance aux premières étapes non optimisées
+
+</details>
+
+<details>
+<summary><strong>VIE Credit Risk Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** MADRID, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 82 % — Le profil correspond très bien grâce aux compétences en analyse financière, maîtrise d'Excel, bilinguisme français/anglais et attrait pour l'Espagne. L'écart réside dans l'orientation du poste vers le risque de crédit et les marchés de l'énergie plutôt que le pur contrôle de gestion.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246859](https://mon-vie-via.businessfrance.fr/offres/246859)
+
+**Description du poste**
+
+About ENGIE and Supply & Energy Management
+
+ENGIE is a leading global group in low-carbon energy and services. Together with our employees, customers, partners and stakeholders, we are committed every day to accelerating the transition towards a carbon-neutral world through more energy-efficient and environmentally friendly solutions.
+
+Guided by our purpose, we combine economic performance with a positive impact on people and the planet, leveraging our core businesses, including gas, renewable energies and services, to provide competitive solutions to our customers.
+
+Supply & Energy Management (S&EM) is ENGIE’s Global Business Unit dedicated to delivering reliable, sustainable and affordable energy solutions. The business unit optimizes both ENGIE’s and its clients’ assets while designing tailor-made energy solutions for more than 200,000 professional clients and 15 million consumers.
+
+Operating in 20 countries and bringing together more than 10,000 experts, S&EM leverages ENGIE’s asset portfolio and market expertise to deliver decarbonized electricity 24/7, supporting customers in their energy transition journey.
+
+Joining Supply & Energy Management means becoming part of an international team of passionate professionals committed to shaping a greener and more efficient energy future.
+
+Context
+
+As part of the Credit Risk Analysis team, you will play a key role in assessing the creditworthiness of counterparties and ensuring effective management of credit risk exposure across S&EM's activities.
+
+Reporting to the Head of Credit Risk Analysis, you will work closely with Front Office, Legal, KYC/AML and Risk stakeholders in a dynamic and international trading environment.
+
+What You Will Do
+Current Portfolio Management
+Monitor and analyze existing counterparties' credit exposure and risk evolution.
+Manage and review credit limits.
+Assess and approve Front Office transactions and contractual agreements from a credit risk perspective.
+Ensure continuous monitoring of portfolio risk and identify mitigation actions where necessary.
+Counterparty Onboarding & Risk Assessment
+Support business development activities before contract execution.
+Analyze prospects' financial situation, business model and regulatory environment.
+Evaluate creditworthiness and determine appropriate risk limits.
+Prepare recommendations for Credit Risk Management and Credit Committees.
+Credit Documentation & Negotiation
+Negotiate credit-related documentation and netting agreements with counterparties.
+Collaborate closely with Legal teams to ensure appropriate contractual protections.
+Digitalization & Continuous Improvement
+Contribute to the development and enhancement of risk management tools.
+Participate in digital transformation initiatives in partnership with Credit Reporting and IT teams.
+Support process optimization and automation projects.
+Business Support Activities
+Produce daily risk reports.
+Respond to urgent Front Office requests regarding transaction impacts on exposure levels.
+Provide timely trading approvals based on risk assessments.
+Key Stakeholders
+Internal Interfaces
+Front Office
+Credit Reporting Team
+KYC / AML Team
+Legal Department
+IT Support
+External Interfaces
+Clients and counterparties
+Business development teams
+Legal advisors
+Financial institutions and lenders
+
+**Profil recherché**
+
+Education & Qualifications
+Master's degree in Finance, Economics, Accounting, Business Administration or a related discipline.
+Previous experience in Credit Risk Analysis, Corporate Finance, Financial Analysis, Audit or Accounting.
+Experience in trading, commodities, energy markets or banking environments would be highly valued.
+Skills & Experience
+Technical Skills
+Strong financial analysis capabilities.
+Solid understanding of credit risk assessment methodologies.
+Knowledge of Project Finance structures.
+Advanced Excel skills, including the ability to review and audit financial models.
+Interest in digital transformation and data-driven risk management tools.
+Languages
+Fluent French (written and spoken).
+Professional proficiency in English (written and spoken).
+Spanish would be considered a strong asset.
+Personal Attributes
+
+We are looking for a professional who demonstrates:
+
+Strong analytical and problem-solving skills.
+Excellent communication and interpersonal abilities.
+Ability to influence and convince stakeholders.
+Negotiation skills.
+Team spirit and collaborative mindset.
+Strong organizational and planning capabilities.
+Resilience in a fast-paced and demanding environment.
+Initiative and continuous improvement mindset.
+Curiosity, adaptability and openness to innovation.
+Why Join Us?
+
+At ENGIE, every talent contributes to accelerating the energy transition. Joining S&EM means working in an international environment at the heart of global energy markets while contributing to building sustainable solutions for the future.
+
+You will have the opportunity to develop your expertise, work alongside recognized professionals and build a career path aligned with your ambitions.
+
+Additional Information
+
+Location: S&EM Campus, La Garenne-Colombes, France
+
+Contract: Full-time position
+
+Remote Working: Hybrid working arrangements available in accordance with applicable company policies.
+
+</details>
+
+<details>
+<summary><strong>Middle Officer (H/F)</strong> · CA INDOSUEZ · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** CA INDOSUEZ
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan est fortement axé sur le contrôle de gestion, le reporting et l'analyse financière en entreprise, alors que l'offre de Middle Officer chez CA Indosuez concerne les opérations bancaires, la réconciliation de fonds et le support aux gérants. Bien que le niveau d'anglais soit adéquat et l'environnement international présent, l'expérience et les compétences techniques du candidat ne correspondent pas au cœur du poste recherché.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246848](https://mon-vie-via.businessfrance.fr/offres/246848)
+
+**Description du poste**
+
+Au sein de l'entité Indosuez Fund Solutions, il vous sera demandé de fournir une vue complète des fonds gérés et supervisés par CAIFS dans les outils adéquats pour les gérants et les Risk managers, en lien avec la Banque dépositaire. Vous accompagnerez le gérant dans le traitement de ses opérations et ses différentes missions.
+
+ 
+
+Vos missions détaillées :
+
+ 
+
+Réconciliation quotidienne des positions des fonds supervisés par CAIFS dans Bloomberg avec analyse des écarts et ajustements
+Encodage des ordres pré-trade transmis par les gérants externes pour les fonds délégués, ainsi que suivi dans le temps de leur bonne exécution, en coordination avec les équipes concernées.
+Encodage des recommandations d’investissement des conseillers, sur base de la validation du gérant CAIFS, en veillant au respect de la stratégie et des critères d’éligibilité.
+Traitement des opérations sur titres (OST).
+Traitement des standing instructions.
+Encodage des ordres reçus des gérants externes en post-trade dans les outils de la banque dépositaire, avec suivi de leur bonne exécution dans le temps.
+Création et suivi de nouveaux comptes dans l’outil de gestion, ainsi que paramétrage associé.
+Participation au suivi, à l’optimisation et à l’adaptation des procédures et des processus.
+
+**Profil recherché**
+
+Expérience dans des activités opérationnelles dans le secteur bancaire, idéalement avec une expérience Back Office et/ou sur les marchés financiers.
+Orientation client
+Orientation respect des procédures et règlements légaux
+Capacité d’adaptation dans la gestion des priorités
+Maitrise de la communication écrite et orale
+Faire preuve d’autonomie et d’initiative
+Capacité de travailler en équipe
+Solution-oriented
+
+</details>
+
+<details>
+<summary><strong>V.I.E - MARKETING ÉVÉNEMENTIEL CORPORATE ACCESS - H/F (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** ODDO BHF SCA
+- **Lieu :** FRANCFORT, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 30 % — Le profil de Nathan est spécialisé en contrôle de gestion et FP&A, alors que l'offre concerne le marketing événementiel et la relation investisseurs (Corporate Access). Bien que l'environnement international et le secteur financier correspondent, les compétences techniques et les missions attendues sont très éloignées de son expérience.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246833](https://mon-vie-via.businessfrance.fr/offres/246833)
+
+**Description du poste**
+
+Le Corporate Access est un service intégré au sein des salles des marchés d'ODDO BHF Securities et destiné à mettre en relation des sociétés cotées européennes avec des investisseurs institutionnels français et étrangers. Cela prend la forme de roadshows, composés de meetings (One-to-One, One-to-Few, Group meetings) entre sociétés de gestion et des sociétés cotées, de road trip, de visites de site, de forums.
+Au sein de l'organisation globale des opérations d’ODDO BHF Corporates &amp; Markets sur les marchés Equity, vos principales missions seront les suivantes : 
+•Organisation des roadshows (emailings, contacts avec des Corporates et la base clients, mise à jour de base de données (CRM))
+•Organisation des événements avec nos analystes (roadshow des analystes, visioconférence thématiques hebdomadaires).
+Selon le sérieux et la fiabilité du volontaire, possibilités d’évolution et de prises de responsabilité.
+•Aide à l’organisation des forums (création de save-the-date/invitations, relation avec les prestataires, gestion de la base de données et des relations clients, statistiques)
+Votre équipe et votre environnement
+Vous serez basé(e) à Francfort et intégrerez une équipe jeune et dynamique présente en France (Paris et Lyon), à Francfort, à Amsterdam et à New York. Au regard du champ d’application du poste, vous serez également amené à échanger fréquemment avec des interlocuteurs présents dans toutes nos plateformes Equity (Tunisie, Allemagne, Pays-Bas, Espagne, Etats-Unis).
+En tant que collaborateur au sein de l’équipe Corporate Access, vous intégrerez l’organisation d’un intermédiaire de marché et serez :
+- d’une part au contact des investisseurs institutionnels (que comprends notamment ODDO BHF AM et ODDO BHF BP), nos clients pris en charge par nos équipes de vente,
+- d’autre part au contact des managements et équipes des Relations Investisseurs des sociétés cotées, couverte par nos analystes sell-side.
+Cette double exposition vous permettra d’appréhender les différents métiers qui composent le brokerage et de comprendre leur apport et leur besoin
+
+**Profil recherché**
+
+- Vous  êtes Etudiant(e) en Grande école de commerce ou équivalent universitaire 
+- Une Expérience(s) en marketing, événementiel et/ou communication est la bienvenue 
+- Vous avez un intérêt pour les métiers de la finance Grande rigueur, réactivité, adaptabilité, organisation, maîtrise de soi dans un environnement actif, excellente aisance rédactionnelle et relationnelle 
+- Excellente maîtrise du Pack Office Anglais et français courants, l'allemand serait un plus.
+
+</details>
+
+<details>
+<summary><strong>VIE Supply Portfolio & Grid Manager in SPM Germany H/F (H/F)</strong> · ENGIE GLOBAL MARKETS · BERLIN, ALLEMAGNE · 3 248,43 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** BERLIN, ALLEMAGNE
+- **Indemnité :** 3 248,43 €/mois
+- **Durée de la mission :** 24 mois (Du 1 déc. 2026 au 1 déc. 2028)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 50 % — Le candidat possède d'excellentes compétences analytiques et un bon niveau d'anglais, mais son profil est orienté pur contrôle de gestion et non vers les marchés de l'énergie et le trading. De plus, l'offre exige un niveau d'allemand (B2) que le candidat ne possède pas, l'espagnol ne correspondant pas au pays de destination (Allemagne).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246810](https://mon-vie-via.businessfrance.fr/offres/246810)
+
+**Description du poste**
+
+Context:
+
+As one of Engie S&EM’s front divisions (Supply & Energy Management), the mission of Supply Portfolio Management (SPM) is to manage energy risks for Engie Energy Supply activities worldwide. As part of Germany business platform, the Supply Portfolio Management team (SPM) is at the heart of energy management of Engie’s german B2B portfolio.
+
+The SPM team interacts with several internal teams such as: sales teams, other SPM’s teams, Trading, IT, Finance, Risk, Back Office…
+
+SPM Germany is currently looking for young motivated Suppply Portfolio and Grid managers ready to dig into SPM operations and support our growth ambitions. The mission is intended for 2 years, with a start in January 2027.
+
+Role:
+
+As a supply portfolio & grid manager in SPM Germany, you will gradually perform the following tasks:
+
+•	You support the sales offering activity, structure and price standard and non-standard offers: by identifying potential risks and ensuring use of adequate and up to date costing models, risk bricks and data availability;
+•	You actively assess and manage commodity risks linked to the dynamics of a sales portfolio, for all its commodities – Power, Natural gas, Certificates - meaning operate and optimize costing, forecasting, sourcing, and hedging strategies, within a defined mandate;
+•	You operate various strategies to reduce, internalize or externalize risks, towards and in collaboration with stakeholders (Trading, other BUs);
+•	In collaboration with forecasting experts, you monitor and regularly review the expected consumption of your portfolio.
+•	You report the portfolio financials linked to the energy management results and performance to the business platform;
+•	You manage the market communication with Transport & Distribution network operators for balancing and metering: declaration of our customer’s connection points, scheduling of nominations, retrieval and control of official metering data.
+•	You use and challenge data, models, processes & tools to answers supplier’s vision and ambition;  
+•	You are involved in the development of the tools, models, process, and portfolio/data representation of all commercial offer's portfolio;
+•	You manage contacts with multiple stakeholders to which you present and explain pricing and energy management.
+
+**Profil recherché**
+
+•	Must have:
+o	Elevated level of numeracy and strong analytical skills, combined with a hands-on approach
+
+•	Good to have:
+o	Knowledge on financial products
+o	Understanding of trading and risk management business
+o	Knowledge on energy systems and markets
+o	Digital & Data proficiency: Python, APIs, Agents,…
+
+
+Soft skills:
+
+•	Must have:
+o	Willing to work in a front position with direct impact on Group’s and BU’s P&L
+o	Team player
+o	Highly resilient
+o	Result-oriented practical thinker
+o	Rigorous and accurate
+o	Autonomous
+o	Communication and presentation skills
+o	Customer focus
+o	Proactive and accountable
+
+Education and professional background:
+
+•	Engineering degree or business school, master
+ 
+Languages:
+•	German (B2) and English (B2)
+Travels:
+•	The job is based in Berlin, travels to Brussels or Paris occasionally
+
+</details>
+
+<details>
+<summary><strong>Data Analyst - Marketing Analytics (H/F)</strong> · SEB DEVELOPPEMENT · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** SEB DEVELOPPEMENT
+- **Lieu :** FRANCFORT, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
+- **Publiée le :** 08/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion financier (FP&A) et non vers la data science marketing exigée par l'offre. S'il possède de bonnes bases en analyse de données et outils de BI, il lui manque les compétences techniques clés telles que Python, SQL et l'expérience des environnements cloud (AWS, Snowflake).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246807](https://mon-vie-via.businessfrance.fr/offres/246807)
+
+**Description du poste**
+
+As a V.I.E Data Analyst for a 12-month assignment renewable for an additional 12 months, you will join the Data Analytics team within the Marketing organization and contribute to the development of advanced analytical solutions supporting business growth.
+
+Your responsibilities will include:
+
+Collecting, validating, transforming and integrating data provided by retail customers (sell-out, market shares, stocks, traffic, etc.) as well as internal and external data sources (CRM, media and other business data).
+Creating and maintaining dashboards in Qlik Sense and delivering ad-hoc analyses to support business decisions.
+Continuously improving existing dashboards through automation and development of new KPIs.
+Automating data processes within AWS and Snowflake environments and developing data pipelines using Python when required.
+Translating analyses into actionable recommendations and business insights.
+Collaborating closely with Key Account Management, Marketing, Supply Chain and Finance teams.
+Working alongside global Data Engineering and Data Governance teams.
+Leading workshops and providing training to business users.
+Evaluating the ROI of category projects, promotional campaigns and other commercial activation initiatives.
+Promoting a data-driven mindset and actively supporting the company's ongoing transformation.
+
+**Profil recherché**
+
+Bring your competencies
+Master's degree (Business School, University or equivalent) with a specialization in Data Analytics, Business Analytics, Marketing Analytics, Applied Mathematics or Business Intelligence.
+First experience in data analysis, business controlling, category management, marketing analytics or business intelligence through internships or apprenticeships.
+Strong analytical mindset with knowledge of SQL, Python and data visualization tools such as Qlik Sense.
+Exposure to cloud environments (AWS, Snowflake) and experience with reporting, dashboards or database queries would be an advantage.
+Fluent English required (minimum C1 level). German language skills are a plus
+
+</details>
+
+<details>
+<summary><strong>VIE Supply Portfolio & Grid Manager in SPM Germany H/F (H/F)</strong> · ENGIE GLOBAL MARKETS · BERLIN, ALLEMAGNE · 3 248,43 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** BERLIN, ALLEMAGNE
+- **Indemnité :** 3 248,43 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 07/10/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan présente de solides compétences analytiques et financières, mais l'offre relève du secteur de l'énergie (Supply Portfolio & Grid Management) et exige impérativement la maîtrise de l'allemand ainsi que des compétences techniques en data (Python) non mentionnées chez le candidat.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246809](https://mon-vie-via.businessfrance.fr/offres/246809)
+
+**Description du poste**
+
+Context:
+
+As one of Engie S&EM’s front divisions (Supply & Energy Management), the mission of Supply Portfolio Management (SPM) is to manage energy risks for Engie Energy Supply activities worldwide. As part of Germany business platform, the Supply Portfolio Management team (SPM) is at the heart of energy management of Engie’s german B2B portfolio.
+
+The SPM team interacts with several internal teams such as: sales teams, other SPM’s teams, Trading, IT, Finance, Risk, Back Office…
+
+SPM Germany is currently looking for young motivated Suppply Portfolio and Grid managers ready to dig into SPM operations and support our growth ambitions. The mission is intended for 2 years, with a start in January 2027.
+
+Role:
+
+As a supply portfolio & grid manager in SPM Germany, you will gradually perform the following tasks:
+
+•	You support the sales offering activity, structure and price standard and non-standard offers: by identifying potential risks and ensuring use of adequate and up to date costing models, risk bricks and data availability;
+•	You actively assess and manage commodity risks linked to the dynamics of a sales portfolio, for all its commodities – Power, Natural gas, Certificates - meaning operate and optimize costing, forecasting, sourcing, and hedging strategies, within a defined mandate;
+•	You operate various strategies to reduce, internalize or externalize risks, towards and in collaboration with stakeholders (Trading, other BUs);
+•	In collaboration with forecasting experts, you monitor and regularly review the expected consumption of your portfolio.
+•	You report the portfolio financials linked to the energy management results and performance to the business platform;
+•	You manage the market communication with Transport & Distribution network operators for balancing and metering: declaration of our customer’s connection points, scheduling of nominations, retrieval and control of official metering data.
+•	You use and challenge data, models, processes & tools to answers supplier’s vision and ambition;  
+•	You are involved in the development of the tools, models, process, and portfolio/data representation of all commercial offer's portfolio;
+•	You manage contacts with multiple stakeholders to which you present and explain pricing and energy management.
+
+**Profil recherché**
+
+Hard skills:
+•	Must have:
+o	Elevated level of numeracy and strong analytical skills, combined with a hands-on approach
+
+•	Good to have:
+o	Knowledge on financial products
+o	Understanding of trading and risk management business
+o	Knowledge on energy systems and markets
+o	Digital & Data proficiency: Python, APIs, Agents,…
+
+
+Soft skills:
+
+•	Must have:
+o	Willing to work in a front position with direct impact on Group’s and BU’s P&L
+o	Team player
+o	Highly resilient
+o	Result-oriented practical thinker
+o	Rigorous and accurate
+o	Autonomous
+o	Communication and presentation skills
+o	Customer focus
+o	Proactive and accountable
+
+Education and professional background:
+
+•	Engineering degree or business school, master
+ 
+Languages:
+•	German (B2) and English (B2)
+Travels:
+•	The job is based in Berlin, travels to Brussels or Paris occasionally
+
+
+
+
+If you meet these requirements, then you are the talent we are looking for. Do not waste time! 
+Apply by attaching your updated CV, regardless of your gender.
+
+ENGIE Supply & Energy Management is committed to creating a gender-neutral environment that unlocks the potential of everyone and provides equal employment opportunities for all individuals. 
+ 
+All our positions are open to people with disabilities, please let your recruiter know if you need reasonable accommodation to be able to take part in the recruitment process, they will be happy to assist you.
+
+</details>
+
+<details>
+<summary><strong>Analyste Risk & Financial Control (H/F)</strong> · AMETHIS ADVISORY · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** AMETHIS ADVISORY
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 07/10/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil correspond bien par la formation financière de niveau Master, la maîtrise d'Excel et un bon niveau d'anglais. Cependant, l'offre est axée sur la gestion des risques, la conformité et l'administration de fonds d'investissement au Luxembourg, ce qui s'éloigne légèrement du parcours purement contrôle de gestion et FP&A recherché par le candidat.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246796](https://mon-vie-via.businessfrance.fr/offres/246796)
+
+**Description du poste**
+
+I – Description du groupe Amethis
+Le groupe Amethis est un gestionnaire de fonds d’investissement dédié au continent africain & la région MENA. Amethis investit en capital-développement dans des entreprises en forte croissance dans une diversité de secteurs. Amethis a investi dans des sociétés présentes dans plus de 20 pays et a renforcé sa présence locale à travers l’ouverture de bureaux dans 7 pays différents.
+
+II – Contexte AIFM (Aspect règlementaire)
+Amethis Investment Fund Manager S.A. est un gestionnaire de fonds d’investissement alternatifs (GFIA). Créée en 2017, elle est réglementée par la Commission de Surveillance du Secteur Financier (CSSF) au Luxembourg.
+
+III – Rôle / Mission
+Le poste sera rattaché au Finance & Risk Manager, avec une exposition régulière au comité exécutif de l’AIFM, aux équipes d’investissement, aux investisseurs, aux auditeurs et aux prestataires des fonds.
+Missions principales :
+Risk Management
+Investment process : rédaction des notes de risque pour chaque opération présentée en comité d’investissement, puis suivi du risque de chaque participation jusqu’à la sortie.
+Conformité et limites : contrôle ex ante et ex post de la conformité des opérations aux documents des fonds (PPM, LPA) et aux limites de risque (concentration pays, secteur et émetteur, devise, levier, liquidité).
+Risk Report : élaboration du Risk Report semestriel couvrant l’ensemble des fonds, et des supports risk présentés au comité exécutif et au Conseil d’administration de l’AIFM.
+Réglementaire : contribution aux reportings réglementaires.
+
+Fund administration
+
+Opérations des fonds : préparation des appels de fonds et des distributions (calculs par investisseur, notices, suivi des encaissements).
+NAV et performance : revue des NAV trimestrielles produites par l’administrateur et suivi des indicateurs de performance (TVPI, DPI, TRI).
+Reporting investisseurs : préparation du reporting trimestriel aux investisseurs et réponses à leurs demandes ponctuelles.
+Trésorerie : suivi de la trésorerie des fonds et des prévisions de cash.
+Prestataires : coordination avec l’administrateur, le dépositaire, les banques et les auditeurs ; participation à l’audit annuel des fonds.
+Aide au développements d’outils internes de pilotage de la performance financière / digitalisation / cost monitoring.
+
+Corporate scope
+Arrêtés trimestriels : appui à l’arrêté des entités du groupe (AIFM, GP, holdings et bureaux de Paris, Luxembourg, Casablanca, Nairobi, Abidjan, Le Caire et Le Cap).
+Pilotage : suivi du cash, des budgets et des atterrissages, avec analyse des écarts.
+Intragroupe : suivi des refacturations intragroupe et appui aux audits des sociétés du groupe.
+
+**Profil recherché**
+
+•
+Bac+5 (école de commerce, d’ingénieur ou master universitaire) en finance, audit ou gestion des risques, une première expérience en audit, en gestion des risques, en administration de fonds ou en private equity est un plus.
+•
+Bonne maîtrise des états financiers et des principes comptables.
+•
+Français et anglais courants, à l’écrit comme à l’oral.
+•
+Rigueur, sens du détail et esprit méthodique ; capacité à mener plusieurs sujets dans un environnement évolutif.
+•
+Autonomie, sens de l’initiative et discrétion sur des données confidentielles.
+•
+Bon relationnel, esprit d’équipe et intérêt pour le private equity en Afrique et dans la région MENA.
+•
+Maitrise du Pack office (Excel, Word, PowerPoint).
 
 </details>
 
