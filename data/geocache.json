@@ -635,5 +635,10 @@
   "ville|rome|italie": {
     "lat": 41.8933203,
     "lon": 12.4829321
+  },
+  "entreprise|stmicroelectronics rousset sas|ang mo kio|singapour": null,
+  "ville|ang mo kio|singapour": {
+    "lat": 1.3800939,
+    "lon": 103.8420975
   }
 }

@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **06/11/2026 16:45:46**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **06/11/2026 17:01:24**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -61,6 +61,105 @@ Fluent in English; Italian is an advantage.
 Excellent knowledge of Excel; knowledge of SQL and Python is a plus.
 Fast learner with a proactive and entrepreneurial approach.
 Ability to multitask and manage priorities.
+
+</details>
+
+<details>
+<summary><strong>VIE - SINGAPOUR - Spécialiste Contrôle de Gestion (H/F)</strong> · STMICROELECTRONICS ROUSSET SAS · ANG MO KIO, SINGAPOUR · 4 063,89 €/mois</summary>
+
+- **Entreprise :** STMICROELECTRONICS ROUSSET SAS
+- **Lieu :** ANG MO KIO, SINGAPOUR
+- **Indemnité :** 4 063,89 €/mois
+- **Durée de la mission :** 24 mois (Du 1 mars 2027 au 1 mars 2029)
+- **Publiée le :** 06/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil correspond très bien aux attentes de l'offre grâce à la formation en contrôle de gestion, la maîtrise d'Excel et de Power BI, ainsi que l'expérience significative en analyse financière et optimisation des coûts. L'anglais courant du candidat est également un atout fort, bien que l'offre soit basée à Singapour alors que le candidat manifeste une préférence pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247964](https://mon-vie-via.businessfrance.fr/offres/247964)
+
+**Description du poste**
+
+Le spécialiste du contrôle des activités soutient le contrôle des coûts de fret de bout en bout, la comptabilité et le reporting au sein de l’organisation Global Supply Chain.
+
+Rattaché au Team Manager, ce poste garantit que les coûts de fret sont correctement enregistrés, maîtrisés et reportés de manière transparente dans SAP. Vous fournissez des analyses et des tableaux de bord fondés sur les données afin d’appuyer la prise de décision et de contribuer aux objectifs prioritaires de l’organisation.
+
+Ce poste travaille en étroite collaboration avec les équipes Supply Chain, Corporate Finance et Procurement, et aura pour missions de :
+
+Soutenir les activités de clôture mensuelle, notamment les provisions de fret, les rapprochements et l’analyse des écarts.
+Suivre les principaux facteurs de coûts de fret et les tendances associées (par exemple : lignes, modes de transport, surcharges) et identifier des opportunités d’optimisation des coûts et d’amélioration des processus.
+Préparer et maintenir des rapports/tableaux de bord standards et ad hoc dans Power BI et Excel afin d’offrir une visibilité claire sur les dépenses et la performance du fret.
+Effectuer des contrôles de données et des rapprochements entre SAP, les factures de fret et les données opérationnelles afin de garantir leur exactitude et leur exhaustivité.
+Contribuer à la standardisation et à la documentation des processus de contrôle et de reporting du fret dans les différentes régions.
+Collaborer avec Procurement et Supply Chain sur les appels d’offres, les revues de performance des transporteurs et le suivi des économies, en fournissant des analyses financières et des éclairages.
+
+**Profil recherché**
+
+Diplôme de master en finance, comptabilité, business, supply chain, économie ou dans un domaine connexe.
+Une certification professionnelle telle que CMA, ACCA, CPA ou une qualification comptable équivalente reconnue est souhaitée mais non obligatoire.
+0 à 2 ans d’expérience en contrôle de gestion, comptabilité, analyse métier ou logistique.
+Maîtrise de SAP, Power BI, MS Excel et MS Access, avec la capacité de travailler avec précision sur de grands volumes de données et de développer des rapports et analyses fiables.
+Solides compétences analytiques, de résolution de problèmes et de prise de décision.
+Excellentes compétences en communication et en relations interpersonnelles.
+Approche proactive et autonome, axée sur l’amélioration continue et la prise d’initiative.
+Capacité à travailler dans un environnement dynamique et à rythme soutenu.
+
+</details>
+
+<details>
+<summary><strong>Treasury/Cash Officer (H/F)</strong> · AMARIS FRANCE SAS · PORTO, PORTUGAL · 2 677,43 €/mois</summary>
+
+- **Entreprise :** AMARIS FRANCE SAS
+- **Lieu :** PORTO, PORTUGAL
+- **Indemnité :** 2 677,43 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 06/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est orienté vers le contrôle de gestion et le FP&A, alors que l'offre concerne spécifiquement la trésorerie et la gestion de caisse opérationnelle (Treasury Officer). Bien que l'anglais et la formation financière correspondent, le candidat manque d'expérience spécifique en trésorerie d'entreprise et sur les outils dédiés comme le TMS Kyriba requis pour ce poste.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247937](https://mon-vie-via.businessfrance.fr/offres/247937)
+
+**Description du poste**
+
+Job Description:
+Join our Corporate Financing & Treasury department and play a senior operational role in the day-to-day of group treasury. As Treasury Officer, you will act as the primary owner of a defined entity perimeter, ensuring the full cycle of cash — from payment preparation to banking relationship — while driving process reliability and continuous improvement. You will collaborate closely with the Head of Corporate Financing & Treasury and serve as the main point of contact for banking partners, accounting teams, and group entities within your scope.
+
+
+++Our missions:++
+Prepare and submit payment files to banks through our Treasury System (TMS)
+Monitor and maintain the group cash forecast, including daily cash position, direct debit tracking, and payment calendar
+Ensure day-to-day liquidity coverage and produce accurate short-term cash forecasts
+Ensure timely execution of all payments within the assigned entity perimeter, including suppliers, payroll, tax, and intercompany payments
+Track and resolve payment incidents by coordinating with relevant teams
+Act as the primary operational contact for banking relationship contacts within the assigned perimeter
+Attend and coordinate KYC meetings with banking partners
+Handle bank account opening and closing processes, ensuring technical connectivity is completed
+Maintain up-to-date bank mandates, user access lists, and account conventions
+Serve as the Treasury point of contact for Accounting, HR and Payroll, and supplier teams within the perimeter
+Suggest and implement process improvements to reduce manual workload and improve cash tracking accuracy
+Participate in cross-functional treasury projects and support the digital transformation of treasury operations
+Monitor and control all group banking fees, perform regular fee audits, and negotiate fee reductions where applicable
+Execute foreign exchange transactions at group level and monitor FX exposures
+Oversee surplus cash placements and identify suitable short-term investment solutions
+Maintain TMS user access lists and bank account signatory lists, ensuring compliance and accuracy
+Prepare and support internal and external audits covering the treasury perimeter
+Ensure KYC and AML compliance for all bank accounts within the perimeter
+Lead the design, implementation, and maintenance of the Treasury System (TMS), including connectivity with banks, ERPs, and payment platforms
+Oversee banking connectivity channels, including SWIFT, APIs, SFTP, and web portals, ensuring secure and reliable data and payment flows
+Configure and maintain treasury interfaces, bank account reporting, payment workflows, and electronic bank statements, including ISO 20022, MT940/MT942, and CAMT formats
+Lead connectivity projects with banks and internal stakeholders, from requirements gathering and solution design through testing, deployment, and post-go-live support
+Act as the subject-matter expert and key point of contact for Treasury, Finance, IT, banks, and external technology providers
+
+**Profil recherché**
+
+Master’s degree in Finance or equivalent; a specialised Treasury Master’s programme is a significant plus
+3 to 5 years of experience in corporate treasury, banking operations, or cash operations, including at least 2 years handling banking relationships directly
+Previous experience in a team leadership role is a significant plus
+Proficiency in Kyriba TMS is essential; advanced Excel skills and familiarity with banking platforms are required; Power BI is a plus
+Proficiency in SWIFT message formats used over SWIFTNet, including MT101, MT940, and ISO 20022 XML formats such as camt.053 and camt.086
+Fluent English and French, written and spoken
+Strong sense of ownership and accountability
+Rigour and precision
+Strong banking relationship skills
+Initiative and ownership
+Autonomy and a structured working approach
+Excellent organisational skills
+Collaborative and cross-functional mindset
 
 </details>
 
