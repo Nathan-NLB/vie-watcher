@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **06/11/2026 19:01:16**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **06/11/2026 19:15:45**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -478,51 +478,6 @@ Experience in audit, risk, operational risk management or control is an advantag
 Experience with data analysis, business intelligence tools, or reporting solutions (e.g., Power BI)
 Interest in process improvement, automation and system development
 Knowledge of banking, lending, or financial services is beneficial but not essential
-
-</details>
-
-<details>
-<summary><strong>Compliance Officer (H/F)</strong> · CA INDOSUEZ · GENEVE, SUISSE · 4 157,65 €/mois</summary>
-
-- **Entreprise :** CA INDOSUEZ
-- **Lieu :** GENEVE, SUISSE
-- **Indemnité :** 4 157,65 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 05/11/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247995](https://mon-vie-via.businessfrance.fr/offres/247995)
-
-**Description du poste**
-
-Dans le cadre des activités Banque Privée de notre Banque, le VIE sera intégré au sein du département Compliance dans le pôle Regulatory et aura les principales responsabilités suivantes :
-
-
-- Développer les outils informatiques (via les codes VBA, python, ...) pour extraire les informations nécessaires de l'outil WeComply afin d’effectuer les contrôles de niveau compliance ;
-- Maintenir les dashboards nécessaires pour le suivi de Wecomply ;
-- Effectuer les contrôles liés à la gestion des conflits d'intérêts concernant la déontologie des collaborateurs (cadeaux, mandats, comptes titres, transactions personnelles, ...) ;
-- Effectuer les contrôles liés aux abus de marchés et maintenir à jour le dashboard ;
-- Participer aux formations nécessaires liées aux abus de marché et à la déontologie des collaborateurs.
-
-**Profil recherché**
-
-Niveau d'études minimum
-Bac + 5 / M2 et plus
-Formation / Spécialisation
-Formation universitaire ou Grande école de Commerce de préférence avec une spécialisation en droit bancaire et financier, économie ou finance. 
-
-Niveau d'expérience minimum
-0 - 2 ans
-Expérience
-Expérience en Compliance et/ou Audit, un plus
-
-Compétences recherchées
-Capacité d’analyse, flexibilité, rigueur, fiabilité, intègre, proactivité, sens de l’alerte et de la communication, esprit de synthèse, bonne gestion du stress, organisé, esprit d’équipe, autonomie.
-
-
-Outils informatiques
-Connaissances bureautiques (Excel/Access/VBA/SQL) et gestion de bases de données un plus.
-
-Langues
-Français et Anglais. Espagnol et/ou Portugais un plus.
 
 </details>
 
