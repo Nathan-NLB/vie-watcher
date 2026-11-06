@@ -1536,37 +1536,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9",
-      "200",
-      "259",
-      "320"
+      "[\"9\",\"200\",\"259\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Reporting directly to the Group CFO and working closely with the country BU Directors, the V.I.E will support Finance & Administration (F&A) activities for our Mexico and São Paulo subsidiaries.\r\n \r\nBased in our Mexico City office, the V.I.E will also provide remote support for activities related to São Paulo. The mission will mainly cover the following areas:\r\n \r\n1) FINANCE COORDINATION & SUPPORT\r\n•\tWork closely with the Finance teams in Mexico and São Paulo and facilitate coordination with Group Finance.\r\n•\tLiaise with external accounting providers regarding annual financial statements, tax declarations and other accounting matters.\r\n•\tSupport the coordination and preparation of information required for annual audits.\r\n•\tFacilitate communication between local teams, external providers and Corporate F&A.\r\n \r\n2) REPORTING & CONTROL\r\n•\tPrepare financial reporting and analysis for monthly closing, forecasting and planning.\r\n•\tPerform consistency checks on financial and accounting data and highlight discrepancies to the relevant local or Group stakeholders.\r\n•\tSupport reconciliation between accounting and reporting.\r\n•\tPrepare cash-control information, including bank reconciliations, and support payment preparation and follow-up in accordance with the company’s established approval procedures.\r\n•\tSupport the implementation and monitoring of KLB policies and procedures.\r\n \r\n3) TRANSACTION SUPPORT & MONITORING\r\n•\tSupport Accounts Receivable and Accounts Payable processes, including invoice preparation, cash-collection follow-up and supplier-account monitoring.\r\n•\tCoordinate the transmission of financial information to external accountants and contribute to the review of monthly and yearly accounting deliverables.\r\n•\tReview expense documentation and flag potential discrepancies or compliance issues to the relevant responsible stakeholders.\r\n•\tSupport the preparation and follow-up of exchanges with tax administrations, under the responsibility of the relevant local or Group representatives.\r\n \r\n4) HR ADMINISTRATION SUPPORT\r\n•\tProvide administrative support for the preparation of employment documentation and the maintenance of employee files and records.\r\n•\tCoordinate the collection and transmission of information required for bi-weekly payroll processing with the external service provider.\r\n•\tSupport HR administrative processes throughout the employee lifecycle.\r\n \r\n5) CONTRACT & LEGAL SUPPORT\r\n•\tSupport the administrative review and coordination of contracts prior to signature by the authorized company representatives.\r\n•\tPrepare and compile information and documentation required for potential legal matters, in coordination with external lawyers and the relevant company representatives.\r\n•\tFacilitate follow-up between internal stakeholders and external legal advisers.\r\n \r\n6) PROJECTS & GENERAL ADMINISTRATION\r\n•\tSupport office and general administration activities, including premises, IT, insurance, company cars and mobile phones.\r\n•\tProvide support to Corporate F&A and contribute to Group projects in coordination with F&A representatives in other countries.\r\n•\tContribute to the improvement of financial and administrative processes and reporting tools.",
     "creationDate": "2026-10-27T15:07:28Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -7311,23 +7283,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "259"
+      "[\"180\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Corporate Access est un service intégré au sein des salles des marchés d'ODDO BHF Securities et destiné à mettre en relation des sociétés cotées européennes avec des investisseurs institutionnels français et étrangers. Cela prend la forme de roadshows, composés de meetings (One-to-One, One-to-Few, Group meetings) entre sociétés de gestion et des sociétés cotées, de road trip, de visites de site, de forums.\r\nAu sein de l'organisation globale des opérations d’ODDO BHF Corporates &amp; Markets sur les marchés Equity, vos principales missions seront les suivantes : \r\n•Organisation des roadshows (emailings, contacts avec des Corporates et la base clients, mise à jour de base de données (CRM))\r\n•Organisation des événements avec nos analystes (roadshow des analystes, visioconférence thématiques hebdomadaires).\r\nSelon le sérieux et la fiabilité du volontaire, possibilités d’évolution et de prises de responsabilité.\r\n•Aide à l’organisation des forums (création de save-the-date/invitations, relation avec les prestataires, gestion de la base de données et des relations clients, statistiques)\r\nVotre équipe et votre environnement\r\nVous serez basé(e) à Francfort et intégrerez une équipe jeune et dynamique présente en France (Paris et Lyon), à Francfort, à Amsterdam et à New York. Au regard du champ d’application du poste, vous serez également amené à échanger fréquemment avec des interlocuteurs présents dans toutes nos plateformes Equity (Tunisie, Allemagne, Pays-Bas, Espagne, Etats-Unis).\r\nEn tant que collaborateur au sein de l’équipe Corporate Access, vous intégrerez l’organisation d’un intermédiaire de marché et serez :\r\n- d’une part au contact des investisseurs institutionnels (que comprends notamment ODDO BHF AM et ODDO BHF BP), nos clients pris en charge par nos équipes de vente,\r\n- d’autre part au contact des managements et équipes des Relations Investisseurs des sociétés cotées, couverte par nos analystes sell-side.\r\nCette double exposition vous permettra d’appréhender les différents métiers qui composent le brokerage et de comprendre leur apport et leur besoin",
     "creationDate": "2026-10-08T07:14:56Z",
     "missionStartDate": "2027-01-01T00:00:00",
