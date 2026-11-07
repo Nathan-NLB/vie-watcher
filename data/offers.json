@@ -199,16 +199,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "325"
+      "[\"325\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "325",
-        "specializationParentId": "19",
-        "specializationLabel": "Risk Management",
-        "specializationLabelEn": "Risk Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Join us as a Clearing Operations Derivatives Analyst in our International Graduate Programme (V.I.E)!\n\n\n\nWe are looking for a Clearing Operations Derivatives Analyst (VIE) to join our team in Rome, starting on 1 February 2026, for an initial period of 12 months. This position is part of our International Graduate Programme (VIE) within Euronext Clearing. You will report to the ECO Derivatives Manager.\n\nThis is an excellent opportunity to launch your career with the leading pan-European market infrastructure. You will work closely with colleagues across different units and stakeholders, gaining hands-on experience in daily derivatives operations and contributing to projects that expand our product offering and improve our clearing processes.\n\nYou will be primarily responsible for:\n\nDelivering daily post-trade services for derivatives, ensuring accuracy, timeliness and quality. This includes trade capture, post-trade operations, position management, exercise/assignment and expiry management, trade and instrument reconciliations, premium and variation margin oversight, cash settlement and power derivatives cascading management.\nManaging corporate actions across derivatives products, ensuring precise execution and clear communication with clients.\nOverseeing physical delivery expiries on commodities products, monitoring matching, reconciliations, reporting and escalating breaches to safeguard business rules.\nActing as the primary liaison for clearing members and internal teams to ensure seamless communication and operational excellence.\nPerforming daily reconciliations between internal systems and external sources, investigating and resolving discrepancies promptly.\nProviding expert client advisory as a second-level point of contact for clearing members, collaborating with internal teams to resolve queries efficiently.\nContributing to operational growth by supporting projects, testing and process enhancements to streamline workflows and support business expansion and new product initiatives.\nSupporting default management activities as a derivatives expert.\nPerforming additional operational tasks as required to maintain service excellence",
     "creationDate": "2026-11-06T09:48:20Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -864,16 +857,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are seeking a highly skilled ALM & Structured Funding professional with strong expertise in securitisation (SRT), derivatives management, regulatory frameworks and project management.\n\nThe candidate will play a key role to support ALM & Treasury activities especially focused on securitisation, liquidity, interest rate risk and solvency topics. The role combines technical expertise with project delivery and a focus on innovation and continuous improvement.\n________________________________________\nKey Responsibilities\n•\tMonitor securitisation transactions, including SRT deals.\n•\tMonitor derivatives and hedging strategies (IRS and back-to-back swaps).\n•\tSupport on regulatory and strategic projects (internal and at group level)\n•\tEnsure compliance with regulatory and accounting requirements.\n•\tManage and optimize liquidity, IRR and solvency topics.\n•\tLiaise with regulators, auditors, investors and rating agencies.",
     "creationDate": "2026-11-05T09:24:43Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3706,16 +3692,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are looking for a motivated and analytical VIE Finance Analyst to join our Finance team. The role offers broad exposure across different finance activities, with a primary focus on Management Control, Financial Performance Monitoring, and Internal Consolidation Reporting.\nWorking closely with Finance Business Partners, Controlling teams, and Group Finance stakeholders, the successful candidate will contribute to the production of management information, support financial analysis, and help ensure the quality and consistency of financial reporting delivered to management and headquarters.\nKey Responsibilities\nManagement Control\n•\tSupport monthly closing and management reporting activities.\n•\tAnalyze financial performance versus budget, forecast, and prior year results.\n•\tPrepare variance analyses and provide insights on key business drivers.\n•\tContribute to budgeting, forecasting, and long-term planning exercises.\n•\tMonitor financial and operational KPIs and assist in developing management dashboards.\n•\tSupport ad hoc financial analyses and business cases for management.\nInternal Consolidation & Reporting\n•\tParticipate in the preparation and validation of internal financial reporting packages.\n•\tSupport the consolidation process by collecting, reviewing, and reconciling financial data from different entities.\n•\tEnsure accuracy, completeness, and consistency of reported figures.\n•\tAssist in the preparation of reporting submissions to Group Finance.\n•\tMonitor reporting deadlines and follow up with stakeholders to ensure timely delivery.\n•\tSupport continuous improvement initiatives aimed at enhancing reporting processes and controls.\nCross-Functional Finance Support\n•\tCollaborate with Accounting, Treasury, Business Finance, and other Finance teams.\n•\tContribute to process documentation and internal control activities.\n•\tParticipate in finance transformation and automation projects.\n•\tHelp identify opportunities to improve reporting efficiency and data quality.",
     "creationDate": "2026-10-26T10:02:32Z",
     "missionStartDate": "2027-01-01T00:00:00",
