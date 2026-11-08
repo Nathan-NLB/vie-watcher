@@ -843,16 +843,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are seeking a highly skilled ALM & Structured Funding professional with strong expertise in securitisation (SRT), derivatives management, regulatory frameworks and project management.\n\nThe candidate will play a key role to support ALM & Treasury activities especially focused on securitisation, liquidity, interest rate risk and solvency topics. The role combines technical expertise with project delivery and a focus on innovation and continuous improvement.\n________________________________________\nKey Responsibilities\n•\tMonitor securitisation transactions, including SRT deals.\n•\tMonitor derivatives and hedging strategies (IRS and back-to-back swaps).\n•\tSupport on regulatory and strategic projects (internal and at group level)\n•\tEnsure compliance with regulatory and accounting requirements.\n•\tManage and optimize liquidity, IRR and solvency topics.\n•\tLiaise with regulators, auditors, investors and rating agencies.",
     "creationDate": "2026-11-05T09:24:43Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -2299,16 +2292,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "322"
+      "[\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À propos de Sibelco\r\n\r\nSibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.\r\n\r\nDans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.\r\n\r\nRejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.\r\n\r\nMission:\r\n\r\nLe/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. \r\nIl/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. \r\nEn interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. \r\nCette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.",
     "creationDate": "2026-10-19T13:15:35Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4469,16 +4455,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8"
+      "[\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "# À propos de Wesype\n\nWesype accompagne les PMEs et ETIs à intégrer l’IA dans leurs métiers. Wesype est spécialisé en déploiement de plateforme agentique (Dust, Claude, Copilot …). \n\nLa société connaît une croissance très soutenue (+20 % par mois), est rentable et accompagne plus de 200 clients dans des industries variées (tech, fonds d'investissement, immobilier, cabinet de conseil, retail, notaires, avocats, experts-comptables).\n\n# L’équipe\n\nWesype est fondé par l'ancien fondateur de Cajoo et un ancien dirigeant de Spendesk (licorne française). Une équipe de 40 personnes entre Paris et Lisbonne, dynamique, ambitieuse et passionnée par la révolution GenAI que nous vivons. \n\n# Ton rôle\n\nTu assures la fiabilité de la gestion administrative, comptable et financière de Wesype. Tu travailles au quotidien avec les fondateurs, les cabinets comptables, les équipes opérationnelles et les conseils externes.\n\n### **1. Facturation, encaissements et contrats**\n\n- Tu prépares les devis et factures liés aux prestations de conseil, licences, commissions, partenariats et formations.\n- Tu suis les encaissements, les relances clients, les avoirs.\n\n### **2. Comptabilité et fiscalité**\n\n- Tu coordonnes les cabinets d’expertise comptable, rassembles les pièces et prépares les clôtures.\n- Tu contrôles les rapprochements bancaires, les comptes clients et fournisseurs et les principales écritures comptables.\n- Tu suis le calendrier des obligations fiscales et administratives des sociétés opérationnelles.\n\n### **3. Trésorerie et pilotage financier**\n\n- Tu mets à jour la trésorerie, les prévisions à court terme et le suivi des paiements à venir.\n- Tu contribues au budget, au suivi du réalisé par rapport au prévisionnel et à l’analyse des écarts.\n- Tu produis des reportings réguliers pour les fondateurs, incluant chiffre d’affaires, marge, coûts\n\n### **4. Dépenses, achats et fournisseurs**\n\n- Tu contrôles les notes de frais, justificatifs, dépenses engagées et demandes de paiement.\n- Tu suis les fournisseurs, abonnements, renouvellements et échéances importantes.\n- Tu structures les règles d’engagement et d’approbation des dépenses et identifies les leviers d’optimisation des coûts.\n\n### **5. Juridique, contrats et conformité**\n\n- Tu assures le suivi administratif des contrats clients, partenaires, revendeurs et fournisseurs.\n- Tu contribues à la mise à jour des CGV, documents légaux, assurances, Kbis et obligations corporate.\n- Tu accompagnes les sujets de financement, de dette ou d’évolution des structures juridiques.\n\n### **6. Administration RH et organisme de formation**\n\n- Tu coordonnes la paie, les dossiers administratifs des collaborateurs et les avantages sociaux.\n- Tu assures le suivi administratif des formations, conventions, émargements, formateurs externes et justificatifs Qualiopi.\n- Tu veilles au respect des processus liés à la formation, à la veille réglementaire et aux audits.\n\n### **7. Processus, outils**\n\n- Tu structures et documentes les processus financiers et administratifs, puis identifies les tâches à simplifier ou automatiser.",
     "creationDate": "2026-10-22T09:07:34Z",
     "missionStartDate": "2027-01-01T00:00:00",
