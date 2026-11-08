@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/11/2026 00:01:13**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **09/11/2026 00:15:43**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4488,66 +4488,6 @@ Rattaché(e) à l’équipe Back-Office Titres à Bruxelles, vous participerez, 
 
 De formation Bac +4/5, type Ecole de Commerce, de Gestion ou équivalent universitaire Master 1 ou 2 avec option finance de marché, vous maîtrisez les logiciels Microsoft office, l’anglais et êtes intéressé(e) par les marchés financiers et Internet.
 Votre rigueur, votre réactivité, votre autonomie ainsi que votre sens relationnel vous permettront d’évoluer dans un environnement réactif et exigeant.
-
-</details>
-
-<details>
-<summary><strong>VIE Business Management Controller (H/F)</strong> · VALEO ELECTRIFICATION · ERLANGEN, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** VALEO ELECTRIFICATION
-- **Lieu :** ERLANGEN, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 09/10/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en management, son expérience solide en contrôle de gestion industriel et sa maîtrise d'Excel. Ses compétences en analyse financière et son niveau d'anglais courant (TOEIC 925) compensent l'absence de mention de l'outil SAP, faisant de ce poste à Erlangen une excellente opportunité.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246839](https://mon-vie-via.businessfrance.fr/offres/246839)
-
-**Description du poste**
-
-Valeo’s VIE Program?
-
-The Valeo VIE Program is available to citizens of the European Economic Area (EU + Norway, Liechtenstein and Iceland) aged between 18 and 28. This program is to work for one of our subsidiaries around the world!
-Business France, the French agency for international business development, is in charge of all the administrative procedures of your assignment. Make sure you meet Business France's eligibility criteria to apply for a VIE : https://mon-vievia.businessfrance.fr/
-PLEASE NOTE: Your application must be submitted in English to be considered by our non-French speaking teams partners at Valeo worldwide. 
-PLEASE NOTE: As part of your international development, you cannot apply to a VIE assignment in the country of your citizenship
-***
-Join our teams mobilized to meet the challenge of accelerating electrification!
-
-At the heart of electric mobility, Valeo Power brings together expertise in thermal management systems and propulsion systems. This division develops innovations that contribute to the mobility of tomorrow by reducing pollutant emissions and maximizing vehicle autonomy.
-
-The site of Erlangen based in Germany belongs to the POWER Division. We are looking for a VIE Business Management Controller for 24 months within the team.
-
-Your challenges?
-
-- You will work in close collaboration with the Project Manager and the project team as a full team member, ensuring the reliability of the project’s economics from the RFQ / P1 phase until series production.
-- You will build and maintain the project’s provisional P&L, investment plan, and cash flow projections.
-- You will ensure the consistency of the industrial and economic scenario, including volumes, inflation balance, investments, and R&D costs.
-- You will provide the Project Manager with a comprehensive understanding of production costs, including standard times, hourly rates, and fixed cost allocations.
-- You will prepare clear syntheses and presentations for upper management, transparently explaining whether and under which conditions a business is profitable.
-- You will follow up on project costs (R&D, investments, prices) and key KPIs throughout the complete development phase.
-- You will track and manage customer contributions, subsidies, and tooling sales across cash flow, P&L, and balance sheet perspectives.
-
-**Profil recherché**
-
-Let’s talk about you…
-
-- You hold a Master’s degree in Management or Business administration
-- You already have experience in Controlling in an industrial environment
-- You have a fluent level of English
-- Good Excel skills are mandatory
-- You have good communication skills, have an international mindset and are open-minded to new cultures and new ways of working and thinking
-- You are humble, listening, positive attitude oriented, professional, and have the sense of diplomacy 
-- Knowledge of SAP is a plus
-
-Please, don't forget to apply in English to facilitate the process with our managers. 
-
-Why Valeo?
-
-To join a competitive group, a French pioneer in automotive innovation
-For a dynamic career with possibilities for national or international mobility, adapted to your aspirations
-To contribute to the development of greener mobility
-
-Valeo places great importance on recruiting diverse profiles: we are open to all talents and we promote an inclusive and multicultural environment.
 
 </details>
 
