@@ -6681,16 +6681,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "3"
+      "[\"3\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "3",
-        "specializationParentId": "19",
-        "specializationLabel": "Actuariat",
-        "specializationLabelEn": "Actuarial activities"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are seeking a highly motivated and detail-oriented Junior Underwriter / Actuarial Analyst to join our Underwriting team. This entry-level role is designed for a professional with 1-3 years of experience who is eager to learn and contribute to the assessment, analysis, and management of risks associated with travel Assistance and insurance products, with a foundational understanding of actuarial principles. The ideal candidate will support senior underwriters and the business in ensuring profitability, regulatory compliance, and pricing exercise.\n\nDimensions of the role\n•\tThe Underwriter will report to the Underwriting Manager\n•\tHe/she will interact with Commercial department, Operation/Work force management, Finance, Data, Product, Legal, Captive Manager and other UWs.\n•\tSupport Pricing activity, Actuarial, Underwriting and Reinsurance\n•\tPreparing analysis, evaluating Assistance, Insurance and reinsurance quotes. \n•\tWork to approve the coverages requested within specified underwriting authority, either as submitted or on a modified basis, or decline the risk in its entirety; refer to recommended action if risk exceeds underwriting authority.\n•\tIdentify and suggest creative underwriting solutions through knowledge of various options, Reference Based Pricing vendors.\n•\tPrepare pricing models according to guidelines and operating procedures\n\nKey responsibilities\nRisk Assessment & Underwriting Support:\n\tAssist in evaluating travel insurance applications, collecting data, and supporting risk exposure assessment.\n\tHelp analyze financial, medical, and travel-related information to inform underwriting decisions.\n\tLearn and apply underwriting guidelines consistently under supervision.\nPolicy Management Support:\n•\tSupport the issuance, renewal, and modification of travel insurance policies.\n•\tAssist in monitoring claims trends and loss ratios, providing data for underwriting strategy adjustments.\n•\tCollaborate with claims and actuarial teams to gather data for optimizing pricing and coverage.\n\nActuarial Analysis Support:\n•\tAssist the actuarial team with data collection, validation, and preliminary analysis for pricing and reserving.\n•\tSupport the development and maintenance of actuarial models under guidance.\n•\tContribute to experience studies and profitability analysis for travel insurance products.\n\nCompliance & Regulatory Adherence Support:\n•\tLearn and assist in ensuring all underwriting activities comply with regulatory and legal requirements in relevant markets.\n•\tStay informed about changes in insurance regulations and support the team in adjusting underwriting practices.\n•\tParticipate in data gathering for audits and compliance reporting.\n\nMarket Analysis & Product Development Support:\n•\tAssist in gathering data on market trends and competitor offerings to identify opportunities for product enhancements.\n•\tSupport the analysis of insights and recommendations for developing new travel insurance products and features.\n•\tContribute to the development of underwriting strategies to maintain a competitive edge.\n\nProcess Improvement:\n•\tIdentify and suggest minor areas for operational efficiencies and contribute to process improvements within the underwriting and actuarial functions.\n•\tLearn to leverage technology and data analytics to enhance underwriting accuracy and speed.\n\nOrganisational Summary \n \nAXA Partners is AXA’s global entity dedicated to co-building and distributing with partners simple, customer-centric, and innovative solutions that combine insurance, assistance, and other value-added services.\nAs an integral part of the Group Innovation unit, AXA Partners also plays a key role in the deployment of disruptive solutions emerging from this innovation ecosystem. \nThe combination of both missions’ positions AXA Partners today as a key pillar of AXA’s Payer-to-Partner strategy. \nWith the support of operating units established in 39 countries, our more than 9,000 employees are at the service of our customers anywhere, anytime.\nIn 2020, AXA Partners’ revenues reached €2.98 billion.",
     "creationDate": "2026-10-14T14:46:05Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -7305,97 +7298,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "",
-    "dateCandidature": null
-  },
-  {
-    "id": 247827,
-    "organizationName": "BNP PARIBAS",
-    "missionTitle": "Analyste Reporting Financier (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "37513",
-    "effectifInd": "50",
-    "effectifConso": "500",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "LUXEMBOURG",
-    "cityNameEn": "LUXEMBOURG",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "5",
-      "8",
-      "9",
-      "259"
-    ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
-    "missionDescription": "Au sein de la fonction Finance, vous rejoindrez l'équipe Financial Accounting & Reporting, dont la mission est de produire, contrôler et expliquer l'information comptable, financière et réglementaire de la Banque, ainsi que de produire et analyser les indicateurs de solvabilité et de liquidité à destination du management, du Groupe et des régulateurs. Cette équipe couvre notamment les activités d'Accounting, Reporting Fiscal, Reporting Groupe, Reporting Direction, Reporting Réglementaire, Solvency & Liquidity et Transversal Analyses & Solutions.\n\nAu quotidien, ça donne quoi ?\n\nEn tant que VIE - Analyste Reporting Financier, vous intégrerez l'équipe Solvency & Liquidity et contribuerez à la production, au contrôle et à l'analyse des indicateurs de solvabilité et de liquidité de la Banque. Vous participerez activement à la fiabilité des données réglementaires et financières, essentielles au pilotage de l'activité bancaire et au respect des exigences des autorités de supervision.\n\nConcrètement, vous serez amené(e) à :\n\nProduire, contrôler et analyser les indicateurs financiers, réglementaires et prudentiels de la Banque.\nRassembler, traiter, fiabiliser et restituer les données dans le respect des délais impartis.\nParticiper à l'automatisation et à l'optimisation des processus de reporting afin d'améliorer l'efficacité opérationnelle.\nContribuer à la production et à la transmission des reportings réglementaires.\nAssurer la cohérence, la qualité et la fiabilité des données utilisées dans les différents reportings.\nAccompagner les équipes dans les projets de transformation, de conduite du changement et d'amélioration continue.\nPartager vos connaissances et collaborer avec de multiples interlocuteurs au sein de la Banque.\nVous évoluerez au sein d'une équipe d'une trentaine de collaborateurs basée dans le bâtiment Sekoia et travaillerez en étroite interaction avec de nombreux partenaires internes. Un plan de formation personnalisé sera défini dès votre arrivée afin de favoriser votre montée en compétences progressive. Le poste est également éligible au télétravail selon les règles en vigueur au sein de la Banque.\n\nEt après ?\n\nCette expérience vous permettra d'acquérir une vision transverse du fonctionnement d'une banque internationale et des enjeux liés au reporting financier, réglementaire, à la solvabilité et à la liquidité. Vous développerez une solide expertise dans l'analyse des données financières, le contrôle réglementaire et l'amélioration des processus au sein d'un environnement exigeant et stimulant.\n\nAu cours de votre mission, vous renforcerez votre capacité d'analyse, votre rigueur, votre esprit de synthèse ainsi que votre aptitude à travailler sur des sujets variés en autonomie tout en bénéficiant de l'appui d'experts. Vous participerez également à des projets réglementaires et de transformation à forte visibilité pour l'organisation.\n\nCette expérience constituera un excellent tremplin vers des fonctions en finance, reporting réglementaire, contrôle financier, gestion des risques ou transformation au sein de BNP Paribas ou plus largement dans le secteur financier. Des opportunités de renouvellement ou d'évolution pourront être envisagées selon les besoins de l'organisation, les opportunités existantes et la qualité de la collaboration.\n\nLes avantages à nous rejoindre\n\nEt la rémunération ?\n\nFixée par arrêté ministériel, elle est versée mensuellement et se compose de deux éléments :\n\nUne indemnité commune, identique pour tous les jeunes en mission ;\nUne indemnité géographique, variable selon le pays (et parfois la ville) de destination. Cette indemnité est recalculée chaque trimestre.\nRetrouvez plus d'informations sur le site de Business France.",
-    "creationDate": "2026-11-02T13:09:08Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-11-02T00:00:00",
-    "durationBroadcast": 5,
-    "endBroadcastDate": "2026-11-07T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Vous êtes diplômé(e) d'un Bac+5 obtenu en école de commerce, école d'ingénieur ou équivalent universitaire avec une spécialisation en finance, comptabilité, contrôle de gestion, audit, gestion des risques ou data appliquée à la finance.\nVous avez idéalement acquis une première expérience à travers des stages, une alternance ou des projets académiques en reporting financier, comptabilité, contrôle financier, audit, gestion des risques ou analyse de données.\nVous disposez de bonnes connaissances en analyse financière, comptabilité bancaire, reporting réglementaire et manipulation de données. La maîtrise d'Excel est indispensable et une connaissance des outils de reporting ou d'analyse de données constituera un atout.\nLa maîtrise du français est indispensable. Un bon niveau d'anglais vous permettra d'évoluer efficacement dans un environnement international.\nVous êtes reconnu(e) pour votre collaboration active, votre sens de l'organisation, votre aisance en communication, votre capacité d'analyse et votre adaptabilité. Votre rigueur, votre curiosité, votre autonomie et votre goût pour l'amélioration continue seront des atouts majeurs pour réussir dans cette mission.",
-    "countryId": "LU",
-    "countryName": "LUXEMBOURG",
-    "countryNameEn": "LUXEMBOURG",
-    "reference": "VIE247827",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Chanaz KOUBAKJI",
-    "indemnite": 3152.69,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "https://bwelcome.hr.bnpparibas/fr_FR/externalcareers/JobDetails?jobId=113471",
     "dateCandidature": null
   },
   {

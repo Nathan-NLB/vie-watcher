@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **08/11/2026 03:01:07**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **08/11/2026 03:15:41**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1570,64 +1570,6 @@ De formation supérieure type ingénieur, vous avez une première expérience en
 Votre curiosité et votre tempérament sociable feront de vous un allier précieux des opérationnels. Force de proposition, vous avez le goût du terrain afin de mener à bien des missions transverses.
 
 Le respect des délais et la discrétion sont essentiels pour réussir dans ce poste. Autonome et rigoureux(se), vous êtes force de proposition dans votre quotidien (proposition de nouveaux indicateurs) et êtes à l'aise avec les outils informatiques et bureautiques (Excel, outil de consolidation, ...).
-
-</details>
-
-<details>
-<summary><strong>Analyste Reporting Financier (H/F)</strong> · BNP PARIBAS · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
-
-- **Entreprise :** BNP PARIBAS
-- **Lieu :** LUXEMBOURG, LUXEMBOURG
-- **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 02/11/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en termes de formation (Bac+5 en finance) et de compétences techniques (maîtrise d'Excel, rigueur, analyse financière, anglais courant). Cependant, son expérience est axée sur le contrôle de gestion opérationnel en PME plutôt que sur la comptabilité bancaire ou le reporting réglementaire spécifique au secteur bancaire exigé par BNP Paribas.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247827](https://mon-vie-via.businessfrance.fr/offres/247827)
-
-**Description du poste**
-
-Au sein de la fonction Finance, vous rejoindrez l'équipe Financial Accounting & Reporting, dont la mission est de produire, contrôler et expliquer l'information comptable, financière et réglementaire de la Banque, ainsi que de produire et analyser les indicateurs de solvabilité et de liquidité à destination du management, du Groupe et des régulateurs. Cette équipe couvre notamment les activités d'Accounting, Reporting Fiscal, Reporting Groupe, Reporting Direction, Reporting Réglementaire, Solvency & Liquidity et Transversal Analyses & Solutions.
-
-Au quotidien, ça donne quoi ?
-
-En tant que VIE - Analyste Reporting Financier, vous intégrerez l'équipe Solvency & Liquidity et contribuerez à la production, au contrôle et à l'analyse des indicateurs de solvabilité et de liquidité de la Banque. Vous participerez activement à la fiabilité des données réglementaires et financières, essentielles au pilotage de l'activité bancaire et au respect des exigences des autorités de supervision.
-
-Concrètement, vous serez amené(e) à :
-
-Produire, contrôler et analyser les indicateurs financiers, réglementaires et prudentiels de la Banque.
-Rassembler, traiter, fiabiliser et restituer les données dans le respect des délais impartis.
-Participer à l'automatisation et à l'optimisation des processus de reporting afin d'améliorer l'efficacité opérationnelle.
-Contribuer à la production et à la transmission des reportings réglementaires.
-Assurer la cohérence, la qualité et la fiabilité des données utilisées dans les différents reportings.
-Accompagner les équipes dans les projets de transformation, de conduite du changement et d'amélioration continue.
-Partager vos connaissances et collaborer avec de multiples interlocuteurs au sein de la Banque.
-Vous évoluerez au sein d'une équipe d'une trentaine de collaborateurs basée dans le bâtiment Sekoia et travaillerez en étroite interaction avec de nombreux partenaires internes. Un plan de formation personnalisé sera défini dès votre arrivée afin de favoriser votre montée en compétences progressive. Le poste est également éligible au télétravail selon les règles en vigueur au sein de la Banque.
-
-Et après ?
-
-Cette expérience vous permettra d'acquérir une vision transverse du fonctionnement d'une banque internationale et des enjeux liés au reporting financier, réglementaire, à la solvabilité et à la liquidité. Vous développerez une solide expertise dans l'analyse des données financières, le contrôle réglementaire et l'amélioration des processus au sein d'un environnement exigeant et stimulant.
-
-Au cours de votre mission, vous renforcerez votre capacité d'analyse, votre rigueur, votre esprit de synthèse ainsi que votre aptitude à travailler sur des sujets variés en autonomie tout en bénéficiant de l'appui d'experts. Vous participerez également à des projets réglementaires et de transformation à forte visibilité pour l'organisation.
-
-Cette expérience constituera un excellent tremplin vers des fonctions en finance, reporting réglementaire, contrôle financier, gestion des risques ou transformation au sein de BNP Paribas ou plus largement dans le secteur financier. Des opportunités de renouvellement ou d'évolution pourront être envisagées selon les besoins de l'organisation, les opportunités existantes et la qualité de la collaboration.
-
-Les avantages à nous rejoindre
-
-Et la rémunération ?
-
-Fixée par arrêté ministériel, elle est versée mensuellement et se compose de deux éléments :
-
-Une indemnité commune, identique pour tous les jeunes en mission ;
-Une indemnité géographique, variable selon le pays (et parfois la ville) de destination. Cette indemnité est recalculée chaque trimestre.
-Retrouvez plus d'informations sur le site de Business France.
-
-**Profil recherché**
-
-Vous êtes diplômé(e) d'un Bac+5 obtenu en école de commerce, école d'ingénieur ou équivalent universitaire avec une spécialisation en finance, comptabilité, contrôle de gestion, audit, gestion des risques ou data appliquée à la finance.
-Vous avez idéalement acquis une première expérience à travers des stages, une alternance ou des projets académiques en reporting financier, comptabilité, contrôle financier, audit, gestion des risques ou analyse de données.
-Vous disposez de bonnes connaissances en analyse financière, comptabilité bancaire, reporting réglementaire et manipulation de données. La maîtrise d'Excel est indispensable et une connaissance des outils de reporting ou d'analyse de données constituera un atout.
-La maîtrise du français est indispensable. Un bon niveau d'anglais vous permettra d'évoluer efficacement dans un environnement international.
-Vous êtes reconnu(e) pour votre collaboration active, votre sens de l'organisation, votre aisance en communication, votre capacité d'analyse et votre adaptabilité. Votre rigueur, votre curiosité, votre autonomie et votre goût pour l'amélioration continue seront des atouts majeurs pour réussir dans cette mission.
 
 </details>
 
