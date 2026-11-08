@@ -1361,51 +1361,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "10",
-      "109",
-      "181",
-      "246",
-      "326",
-      "348"
+      "[\"10\",\"109\",\"181\",\"246\",\"326\",\"348\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "10",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit Général",
-        "specializationLabelEn": "General Law"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "181",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit Bancaire",
-        "specializationLabelEn": "Banking Law"
-      },
-      {
-        "specializationId": "246",
-        "specializationParentId": "24",
-        "specializationLabel": "Cybersecurité - protection des données",
-        "specializationLabelEn": "IT security"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      },
-      {
-        "specializationId": "348",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit de l'innovation - technologies - numérique",
-        "specializationLabelEn": "Droit de l'innovation - technologies - numérique"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Ce que vous allez vivre chez ICM Life\r\nFiliale des Assurances du Crédit Mutuel, ICM Life se spécialise dans les solutions d’assurance-vie sur-mesure pour une clientèle internationale, tirant parti de l’attractivité du Luxembourg. Son modèle repose sur des contrats en unités de compte et fonds en euros, distribués via les réseaux bancaires du groupe Crédit Mutuel Alliance Fédérale.\r\nLe Luxembourg, 2ᵉ marché mondial de l’assurance-vie, offre un cadre idéal : conformité stricte, flexibilité produit et clientèle diversifiée. ICM Life mise sur l’innovation et l’expertise réglementaire pour répondre aux enjeux transfrontaliers.\r\nPour un VIE, c’est l’occasion de maîtriser les mécanismes de l’assurance-vie internationale, travailler avec des experts en produits d’assurance et conformité, et contribuer à des projets structurants dans un environnement dynamique. Un tremplin pour allier assurance, challenge et dimension internationale.\r\n\r\nAu cours de votre contrat VIE\r\nVous développerez vos connaissances et votre expertise des métiers du contrôle et de la sécurité financière dans la branche de l’assurance. \r\nVous intégrerez une entreprise à taille humaine membre d’un groupe international fort, offrant des perspectives de carrière. \r\nCette expérience vous permettra de gagner en autonomie, sur des sujets complexes en lien avec le Commissariat aux Assurances, sous la supervision directe du Directeur. \r\nA l’issue de votre VIE, vous serez aurez développé une expertise sur les sujets de conformité et réglementaires, et disposerez d’une solide compréhension des enjeux de l’assurance vie. \r\n\r\nVotre mission\r\nDirectement rattaché au dirigeant vous serez amené·e à : \r\nActualiser les procédures de contrôle interne (souscription, gestion des sinistres) et les cartographies de risques.\r\nParticiper à la préparation des audits (collecte de preuves, analyse des écarts) et suivre les plans d’action correctifs.\r\nMettre à jour le registre des traitements RGPD et vérifier la conformité des clauses contractuelles.\r\nTraiter les demandes d’exercice de droits (accès, rectification, effacement) et contribuer aux analyses d’impact.\r\nCartographier les risques cyber pour la conformité DORA.\r\nParticiper aux tests de résilience et documenter les procédures d’incident.\r\nSuivre les évolutions réglementaires et adapter les processus en conséquence.\r\nParticiper à la gestion des tâches courantes de l’entreprise.\r\nÉlaborer des tableaux de bord pour le suivi des non-conformités et des actions correctives.\r\nSensibiliser les équipes aux bonnes pratiques (RGPD, cybersécurité, contrôle interne)",
     "creationDate": "2026-11-02T10:33:53Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1466,16 +1424,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The Senior Manager, FP&A, leads financial planning, analysis, and reporting for Fresh across North America, driving business growth across all channels. This role provides strategic financial guidance and support, contributing to the evaluation and execution of business plans. This position serves as a key communicator between Central and North America leadership, and partners cross-functionally on strategic initiatives, ensuring financial performance aligns with company objectives.\r\n\r\nEssential Duties and Responsibilities\r\n•\tManage and prepare the monthly close review process and reporting, with a dedicated focus on US, Canada and Mexico.\r\no\tAnalyze, manage and review monthly P&L results and variance explanations, preparing comments against budget and prior year for all markets in NA, suggesting corrective measures if needed.  \r\no\tDevelop and present P&L commentary for respective businesses within the US, Canada and Mexico, inclusive of P&L by retailer\r\no\tWork closely with A/R, Sales Admin and Marketing teams within the US, Canada and Mexico, following up all sorts of chargebacks from retailers monthly.\r\no\tWork closely with the Accounting team ensuring the accuracy of the books.\r\n•\tPrepare monthly Net Sales/P&L comments by channel for US, Canada and Mexico for top Management.\r\n•\tDevelop scorecards that will provide insightful information to executive team (such as, but not limited to AR/DSO sales trend analysis by channel and door - wholesale vs retail and weeks of supply, etc.).\r\n•\tPrepare monthly Sales Outlook (forecasted sales of the next 4 months), in coordination with Sales and Digital teams, providing a consolidated view and analysis of the performance in North America to Top management (US and Global).\r\n•\tManage the delivery of all performance commitments and reporting requests from Global Finance, fulfilling the deadlines established. Coordinate all key parts to make sure that all requests are answered on time and in accurate manner.\r\n•\tManage short- and long-term financial planning Budgets / Forecasts (R1, R2, Budget) process with the Heads of Departments of US (Marketing, Digital, Sales…): review and challenge main assumptions, provide recommendations.\r\n•\tOversee all aspects of the P&L for Fresh.com in the North American market\r\n•\tDepartmental Partnership\r\no\tServe as the key finance partner to all US, Canada and Mexico functional departments involved in the wholesale business, inclusive of Marketing, E-Retail, and Sales Administration\r\no\tOwn entire Visual Merchandising and Store Design budget communication for all North America to ensure alignment across channels\r\no\tLead meetings with US, Canada and Mexico departmental leaders in order to analyze how their respective budget is trending on a monthly basis as well as during key review periods\r\no\tIdentify risks and opportunities for each department in order to make well informed decisions in forecasting future budgeting\r\no\tFulfill ad-hoc financial reporting requests from the CFO, CCO, VP of Sales, as well as department heads.\r\n•\tReview and prepare capital expenditures requests for US, Canada, Mexico and Global Markets and provide recommendation following the approval processes in place at Fresh and in LVMH. \r\n•\tPrepare ad hoc reports and analysis as required and as necessary.\r\n•\tEnsure quality and timeliness of key deliverables that meet expectations while balancing business needs \r\n•\tDevelop process improvements\r\n\r\nWhat you will learn in the first 6 months: \r\n•\t Financial reporting and planning processes, tools, and critical metrics at Fresh central, regional, and market level.\r\n•\tBusiness and financial goals of Fresh North America and global markets, inclusive of both the long-term vision and mid-term/short-term goals.\r\n•\tMarket knowledge and Fresh strategy and approaches in a diversified, dynamic, and highly driven region\r\nWhat you will achieve in 12 months:\r\n•\t Gain global exposure to markets’ performance and organize monthly review.\r\n•\tBecome a highly trusted partner to all cross-functional incumbents. \r\n•\tProvide key financial information and recommendations to top management that will ultimately help steer the North America and Global financial strategy. \r\n\r\nPhysical Requirements: \r\n•\tMust be able to remain in a stationary position on average of 7.5 hours/day. \r\n•\tLight to moderate lifting may be required. \r\n•\tWhile performing the duties of this job, the employee may be regularly required to stand, sit, reach, stoop, kneel, and operate a computer, telephone, and keyboard.",
     "creationDate": "2026-11-02T16:38:43Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -2992,37 +2943,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "21",
-      "202",
-      "259"
+      "[\"5\",\"21\",\"202\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As an intermediate Business analyst in the functional IT practice, you will be responsible for:\r\n- Understanding the activity of our clients: financial markets, Gas and power market\r\n- Knowing front, middle and back-office software as a user\r\n- Following clients’ workshops\r\n- Proposing IT specifications on new activities, new deals or regulations and delivering those specifications to the IT developing team\r\n- Controlling new versions and testing results\r\n- Dealing with reporting duties both for the clients and the firm\r\n- Participating to functional transversal meetings and finding new IT solutions with managers",
     "creationDate": "2026-07-16T14:32:11Z",
     "missionStartDate": "2027-01-01T00:00:00",
