@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **08/11/2026 04:01:12**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **08/11/2026 04:15:41**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4603,84 +4603,6 @@ Qualités Personnelles
 • Dynamique et curieux, capable de relever des défis en contexte international
 • Autonome et collaboratif : bon relationnel avec les équipes opérationnelles et financières
 • Persévérant dans la mise en place de processus et de reportings, avec une bonne tolérance aux premières étapes non optimisées
-
-</details>
-
-<details>
-<summary><strong>Middle Officer (H/F)</strong> · CA INDOSUEZ · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
-
-- **Entreprise :** CA INDOSUEZ
-- **Lieu :** LUXEMBOURG, LUXEMBOURG
-- **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 08/10/2026
-- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan est fortement axé sur le contrôle de gestion, le reporting et l'analyse financière en entreprise, alors que l'offre de Middle Officer chez CA Indosuez concerne les opérations bancaires, la réconciliation de fonds et le support aux gérants. Bien que le niveau d'anglais soit adéquat et l'environnement international présent, l'expérience et les compétences techniques du candidat ne correspondent pas au cœur du poste recherché.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246848](https://mon-vie-via.businessfrance.fr/offres/246848)
-
-**Description du poste**
-
-Au sein de l'entité Indosuez Fund Solutions, il vous sera demandé de fournir une vue complète des fonds gérés et supervisés par CAIFS dans les outils adéquats pour les gérants et les Risk managers, en lien avec la Banque dépositaire. Vous accompagnerez le gérant dans le traitement de ses opérations et ses différentes missions.
-
- 
-
-Vos missions détaillées :
-
- 
-
-Réconciliation quotidienne des positions des fonds supervisés par CAIFS dans Bloomberg avec analyse des écarts et ajustements
-Encodage des ordres pré-trade transmis par les gérants externes pour les fonds délégués, ainsi que suivi dans le temps de leur bonne exécution, en coordination avec les équipes concernées.
-Encodage des recommandations d’investissement des conseillers, sur base de la validation du gérant CAIFS, en veillant au respect de la stratégie et des critères d’éligibilité.
-Traitement des opérations sur titres (OST).
-Traitement des standing instructions.
-Encodage des ordres reçus des gérants externes en post-trade dans les outils de la banque dépositaire, avec suivi de leur bonne exécution dans le temps.
-Création et suivi de nouveaux comptes dans l’outil de gestion, ainsi que paramétrage associé.
-Participation au suivi, à l’optimisation et à l’adaptation des procédures et des processus.
-
-**Profil recherché**
-
-Expérience dans des activités opérationnelles dans le secteur bancaire, idéalement avec une expérience Back Office et/ou sur les marchés financiers.
-Orientation client
-Orientation respect des procédures et règlements légaux
-Capacité d’adaptation dans la gestion des priorités
-Maitrise de la communication écrite et orale
-Faire preuve d’autonomie et d’initiative
-Capacité de travailler en équipe
-Solution-oriented
-
-</details>
-
-<details>
-<summary><strong>V.I.E - MARKETING ÉVÉNEMENTIEL CORPORATE ACCESS - H/F (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** ODDO BHF SCA
-- **Lieu :** FRANCFORT, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 08/10/2026
-- **Compatibilité avec ton profil :** 30 % — Le profil de Nathan est spécialisé en contrôle de gestion et FP&A, alors que l'offre concerne le marketing événementiel et la relation investisseurs (Corporate Access). Bien que l'environnement international et le secteur financier correspondent, les compétences techniques et les missions attendues sont très éloignées de son expérience.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246833](https://mon-vie-via.businessfrance.fr/offres/246833)
-
-**Description du poste**
-
-Le Corporate Access est un service intégré au sein des salles des marchés d'ODDO BHF Securities et destiné à mettre en relation des sociétés cotées européennes avec des investisseurs institutionnels français et étrangers. Cela prend la forme de roadshows, composés de meetings (One-to-One, One-to-Few, Group meetings) entre sociétés de gestion et des sociétés cotées, de road trip, de visites de site, de forums.
-Au sein de l'organisation globale des opérations d’ODDO BHF Corporates &amp; Markets sur les marchés Equity, vos principales missions seront les suivantes : 
-•Organisation des roadshows (emailings, contacts avec des Corporates et la base clients, mise à jour de base de données (CRM))
-•Organisation des événements avec nos analystes (roadshow des analystes, visioconférence thématiques hebdomadaires).
-Selon le sérieux et la fiabilité du volontaire, possibilités d’évolution et de prises de responsabilité.
-•Aide à l’organisation des forums (création de save-the-date/invitations, relation avec les prestataires, gestion de la base de données et des relations clients, statistiques)
-Votre équipe et votre environnement
-Vous serez basé(e) à Francfort et intégrerez une équipe jeune et dynamique présente en France (Paris et Lyon), à Francfort, à Amsterdam et à New York. Au regard du champ d’application du poste, vous serez également amené à échanger fréquemment avec des interlocuteurs présents dans toutes nos plateformes Equity (Tunisie, Allemagne, Pays-Bas, Espagne, Etats-Unis).
-En tant que collaborateur au sein de l’équipe Corporate Access, vous intégrerez l’organisation d’un intermédiaire de marché et serez :
-- d’une part au contact des investisseurs institutionnels (que comprends notamment ODDO BHF AM et ODDO BHF BP), nos clients pris en charge par nos équipes de vente,
-- d’autre part au contact des managements et équipes des Relations Investisseurs des sociétés cotées, couverte par nos analystes sell-side.
-Cette double exposition vous permettra d’appréhender les différents métiers qui composent le brokerage et de comprendre leur apport et leur besoin
-
-**Profil recherché**
-
-- Vous  êtes Etudiant(e) en Grande école de commerce ou équivalent universitaire 
-- Une Expérience(s) en marketing, événementiel et/ou communication est la bienvenue 
-- Vous avez un intérêt pour les métiers de la finance Grande rigueur, réactivité, adaptabilité, organisation, maîtrise de soi dans un environnement actif, excellente aisance rédactionnelle et relationnelle 
-- Excellente maîtrise du Pack Office Anglais et français courants, l'allemand serait un plus.
 
 </details>
 
