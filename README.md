@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/11/2026 08:32:08**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **09/11/2026 08:46:51**, 81 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -61,45 +61,6 @@ Fluent in English; Italian is an advantage.
 Excellent knowledge of Excel; knowledge of SQL and Python is a plus.
 Fast learner with a proactive and entrepreneurial approach.
 Ability to multitask and manage priorities.
-
-</details>
-
-<details>
-<summary><strong>VIE - SINGAPOUR - Spécialiste Contrôle de Gestion (H/F)</strong> · STMICROELECTRONICS ROUSSET SAS · ANG MO KIO, SINGAPOUR · 4 063,89 €/mois</summary>
-
-- **Entreprise :** STMICROELECTRONICS ROUSSET SAS
-- **Lieu :** ANG MO KIO, SINGAPOUR
-- **Indemnité :** 4 063,89 €/mois
-- **Durée de la mission :** 24 mois (Du 1 mars 2027 au 1 mars 2029)
-- **Publiée le :** 06/11/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil correspond très bien aux attentes de l'offre grâce à la formation en contrôle de gestion, la maîtrise d'Excel et de Power BI, ainsi que l'expérience significative en analyse financière et optimisation des coûts. L'anglais courant du candidat est également un atout fort, bien que l'offre soit basée à Singapour alors que le candidat manifeste une préférence pour l'Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247964](https://mon-vie-via.businessfrance.fr/offres/247964)
-
-**Description du poste**
-
-Le spécialiste du contrôle des activités soutient le contrôle des coûts de fret de bout en bout, la comptabilité et le reporting au sein de l’organisation Global Supply Chain.
-
-Rattaché au Team Manager, ce poste garantit que les coûts de fret sont correctement enregistrés, maîtrisés et reportés de manière transparente dans SAP. Vous fournissez des analyses et des tableaux de bord fondés sur les données afin d’appuyer la prise de décision et de contribuer aux objectifs prioritaires de l’organisation.
-
-Ce poste travaille en étroite collaboration avec les équipes Supply Chain, Corporate Finance et Procurement, et aura pour missions de :
-
-Soutenir les activités de clôture mensuelle, notamment les provisions de fret, les rapprochements et l’analyse des écarts.
-Suivre les principaux facteurs de coûts de fret et les tendances associées (par exemple : lignes, modes de transport, surcharges) et identifier des opportunités d’optimisation des coûts et d’amélioration des processus.
-Préparer et maintenir des rapports/tableaux de bord standards et ad hoc dans Power BI et Excel afin d’offrir une visibilité claire sur les dépenses et la performance du fret.
-Effectuer des contrôles de données et des rapprochements entre SAP, les factures de fret et les données opérationnelles afin de garantir leur exactitude et leur exhaustivité.
-Contribuer à la standardisation et à la documentation des processus de contrôle et de reporting du fret dans les différentes régions.
-Collaborer avec Procurement et Supply Chain sur les appels d’offres, les revues de performance des transporteurs et le suivi des économies, en fournissant des analyses financières et des éclairages.
-
-**Profil recherché**
-
-Diplôme de master en finance, comptabilité, business, supply chain, économie ou dans un domaine connexe.
-Une certification professionnelle telle que CMA, ACCA, CPA ou une qualification comptable équivalente reconnue est souhaitée mais non obligatoire.
-0 à 2 ans d’expérience en contrôle de gestion, comptabilité, analyse métier ou logistique.
-Maîtrise de SAP, Power BI, MS Excel et MS Access, avec la capacité de travailler avec précision sur de grands volumes de données et de développer des rapports et analyses fiables.
-Solides compétences analytiques, de résolution de problèmes et de prise de décision.
-Excellentes compétences en communication et en relations interpersonnelles.
-Approche proactive et autonome, axée sur l’amélioration continue et la prise d’initiative.
-Capacité à travailler dans un environnement dynamique et à rythme soutenu.
 
 </details>
 
@@ -1013,56 +974,6 @@ Formation supérieure de type Master : niveau Master 2 en  économie (universit�
 Anglais niveau C2 obligatoire
 
 Merci d'envoyer VOS CV UNIQUEMENT en français
-
-</details>
-
-<details>
-<summary><strong>Référent.e risques & conformité (H/F)</strong> · ACM · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
-
-- **Entreprise :** ACM
-- **Lieu :** LUXEMBOURG, LUXEMBOURG
-- **Indemnité :** 3 152,69 €/mois
-- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
-- **Publiée le :** 03/11/2026
-- **Compatibilité avec ton profil :** 62 % — Le profil de Nathan correspond par sa formation financière, son appétence pour l'international et la maîtrise d'outils comme Excel et Power BI. Cependant, l'offre est axée sur les risques, la conformité réglementaire (RGPD, DORA) et le contrôle interne en assurance, ce qui s'éloigne de son cœur de métier en contrôle de gestion et FP&A.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247816](https://mon-vie-via.businessfrance.fr/offres/247816)
-
-**Description du poste**
-
-Ce que vous allez vivre chez ICM Life
-Filiale des Assurances du Crédit Mutuel, ICM Life se spécialise dans les solutions d’assurance-vie sur-mesure pour une clientèle internationale, tirant parti de l’attractivité du Luxembourg. Son modèle repose sur des contrats en unités de compte et fonds en euros, distribués via les réseaux bancaires du groupe Crédit Mutuel Alliance Fédérale.
-Le Luxembourg, 2ᵉ marché mondial de l’assurance-vie, offre un cadre idéal : conformité stricte, flexibilité produit et clientèle diversifiée. ICM Life mise sur l’innovation et l’expertise réglementaire pour répondre aux enjeux transfrontaliers.
-Pour un VIE, c’est l’occasion de maîtriser les mécanismes de l’assurance-vie internationale, travailler avec des experts en produits d’assurance et conformité, et contribuer à des projets structurants dans un environnement dynamique. Un tremplin pour allier assurance, challenge et dimension internationale.
-
-Au cours de votre contrat VIE
-Vous développerez vos connaissances et votre expertise des métiers du contrôle et de la sécurité financière dans la branche de l’assurance. 
-Vous intégrerez une entreprise à taille humaine membre d’un groupe international fort, offrant des perspectives de carrière. 
-Cette expérience vous permettra de gagner en autonomie, sur des sujets complexes en lien avec le Commissariat aux Assurances, sous la supervision directe du Directeur. 
-A l’issue de votre VIE, vous serez aurez développé une expertise sur les sujets de conformité et réglementaires, et disposerez d’une solide compréhension des enjeux de l’assurance vie. 
-
-Votre mission
-Directement rattaché au dirigeant vous serez amené·e à : 
-Actualiser les procédures de contrôle interne (souscription, gestion des sinistres) et les cartographies de risques.
-Participer à la préparation des audits (collecte de preuves, analyse des écarts) et suivre les plans d’action correctifs.
-Mettre à jour le registre des traitements RGPD et vérifier la conformité des clauses contractuelles.
-Traiter les demandes d’exercice de droits (accès, rectification, effacement) et contribuer aux analyses d’impact.
-Cartographier les risques cyber pour la conformité DORA.
-Participer aux tests de résilience et documenter les procédures d’incident.
-Suivre les évolutions réglementaires et adapter les processus en conséquence.
-Participer à la gestion des tâches courantes de l’entreprise.
-Élaborer des tableaux de bord pour le suivi des non-conformités et des actions correctives.
-Sensibiliser les équipes aux bonnes pratiques (RGPD, cybersécurité, contrôle interne)
-
-**Profil recherché**
-
-Nous apprécierons chez vous : 
-Vous êtes titulaire d’un master en droit, en finances ou diplôme équivalent
-Vous apportez idéalement quelques connaissances réglementaires : Solvabilité II, RGPD, DORA
-Vous êtes reconnu pour votre capacité d’analyse et votre rigueur : Capacité à auditer des processus, identifier des risques et proposer des solutions pragmatiques (contrôle interne, conformité).
-Vous disposez d’une première expérience en gestion de projet : Organisation et suivi de plans d’action correctifs, coordination avec les équipes IT, juridique et métiers.
-Vous maîtrisez des outils de reporting (Excel, Power BI).
-Relationnel et pédagogie font partie intégrante de votre personnalité : Aptitude à sensibiliser les collaborateurs (RGPD, contrôle interne) et à travailler en mode transverse.
-Vous êtes adaptable et curieux : Appétence pour la veille réglementaire et l’innovation dans un secteur en mutation (assurance-vie, digitalisation).
 
 </details>
 
