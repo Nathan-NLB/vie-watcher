@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/11/2026 15:15:50**, 85 offre(s) actuellement en ligne.
+Dernière vérification : **09/11/2026 15:31:05**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1888,7 +1888,7 @@ Que proposons-nous ?
 </details>
 
 <details>
-<summary><strong>Spécialiste Analyse Financière Europe de l’Ouest (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 688,86 €/mois</summary>
+<summary><strong>Spécialiste Analyse Financière et contrôle de gestion Europe de l’Ouest (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** SIBELCO FRANCE
 - **Lieu :** BILBAO, ESPAGNE
