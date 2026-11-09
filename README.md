@@ -8,11 +8,116 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/11/2026 11:30:59**, 81 offre(s) actuellement en ligne.
+Dernière vérification : **09/11/2026 11:45:55**, 83 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Data Analyst - Marketing Analytics (H/F)</strong> · SEB DEVELOPPEMENT · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** SEB DEVELOPPEMENT
+- **Lieu :** FRANCFORT, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 09/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion financier (FP&A) et non vers la data science marketing exigée par l'offre. S'il possède de bonnes bases en analyse de données et outils de BI, il lui manque les compétences techniques clés telles que Python, SQL et l'expérience des environnements cloud (AWS, Snowflake).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246807](https://mon-vie-via.businessfrance.fr/offres/246807)
+
+**Description du poste**
+
+As a V.I.E Data Analyst for a 12-month assignment renewable for an additional 12 months, you will join the Data Analytics team within the Marketing organization and contribute to the development of advanced analytical solutions supporting business growth.
+
+Your responsibilities will include:
+
+Collecting, validating, transforming and integrating data provided by retail customers (sell-out, market shares, stocks, traffic, etc.) as well as internal and external data sources (CRM, media and other business data).
+Creating and maintaining dashboards in Qlik Sense and delivering ad-hoc analyses to support business decisions.
+Continuously improving existing dashboards through automation and development of new KPIs.
+Automating data processes within AWS and Snowflake environments and developing data pipelines using Python when required.
+Translating analyses into actionable recommendations and business insights.
+Collaborating closely with Key Account Management, Marketing, Supply Chain and Finance teams.
+Working alongside global Data Engineering and Data Governance teams.
+Leading workshops and providing training to business users.
+Evaluating the ROI of category projects, promotional campaigns and other commercial activation initiatives.
+Promoting a data-driven mindset and actively supporting the company's ongoing transformation.
+
+**Profil recherché**
+
+Bring your competencies
+Master's degree (Business School, University or equivalent) with a specialization in Data Analytics, Business Analytics, Marketing Analytics, Applied Mathematics or Business Intelligence.
+First experience in data analysis, business controlling, category management, marketing analytics or business intelligence through internships or apprenticeships.
+Strong analytical mindset with knowledge of SQL, Python and data visualization tools such as Qlik Sense.
+Exposure to cloud environments (AWS, Snowflake) and experience with reporting, dashboards or database queries would be an advantage.
+Fluent English required (minimum C1 level). German language skills are a plus
+
+</details>
+
+<details>
+<summary><strong>Sales Performance Analyst (H/F)</strong> · SOCIETE AIR FRANCE · ATLANTA       -GA-, ETATS-UNIS · 3 068,61 €/mois</summary>
+
+- **Entreprise :** SOCIETE AIR FRANCE
+- **Lieu :** ATLANTA       -GA-, ETATS-UNIS
+- **Indemnité :** 3 068,61 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 09/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil présente d'excellentes compétences en analyse financière, reporting, Excel et Power BI, ainsi qu'un très bon niveau d'anglais, ce qui correspond bien aux attentes analytiques du poste chez Air France à Atlanta. Toutefois, l'orientation initiale du candidat est plutôt orientée vers le contrôle de gestion pur (FP&A) que vers la performance des ventes et le revenue management, et la maîtrise de l'anglais requise est d'un niveau C1 strict avec certificat.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248066](https://mon-vie-via.businessfrance.fr/offres/248066)
+
+**Description du poste**
+
+Présentation du contexte
+Air France-KLM est un groupe aérien mondial de premier plan dans le transport de passagers, le fret et la maintenance.
+
+Avec Air France, KLM et Transavia, il dessert plus de 320 destinations grâce à ses hubs de Paris et Amsterdam, et exploite près de 600 appareils.
+
+Son programme de fidélité Flying Blue compte plus de 30 millions de membres. Membre de SkyTeam, le Groupe s’appuie aussi sur une joint-venture transatlantique avec Delta et Virgin Atlantic. Il investit dans l’expérience client, le numérique, le renouvellement de sa flotte et une aviation plus durable.
+
+Description de la mission
+Le Sales Performance Analyst est responsable de l’analyse de la performance du marché américain et de la Joint-Venture afin d’identifier les opportunités commerciales, de diagnostiquer les écarts de performance et de recommander des actions permettant d’améliorer le chiffre d’affaires d’Air France-KLM et la part de marché de la Joint-Venture.
+
+Le poste combine veille marché, analyse de la performance et résolution de problématiques commerciales, en étroite collaboration avec les équipes Sales, la direction commerciale, Pricing et Revenue Management.
+
+ 
+
+Les principales missions sont :
+
+1. Analyser la performance commerciale
+
+Suivre le chiffre d’affaires, les réservations, les parts de marché, les capacités et les tendances concurrentielles sur le marché américain et les routes.
+Identifier les écarts de performance, leurs causes et les opportunités de croissance à partir de données internes et externes.
+Présenter des analyses et recommandations lors des Route Performance Monthly (RPM US), puis suivre l’impact des actions engagées.
+ 
+2. Suivre la compétitivité de la Joint-Venture
+
+Analyser les tarifs, les disponibilités et les pratiques des concurrents.
+Repérer les enjeux de compétitivité susceptibles d’affecter la performance d’Air France-KLM et de la Joint-Venture.
+Partager les conclusions avec les équipes commerciales, Pricing et Revenue Management.
+ 
+3. Développer l’usage de l’IA et de l’automatisation
+
+Identifier les tâches et processus d’analyse ou de reporting pouvant être simplifiés ou automatisés.
+Tester des cas d’usage de l’IA et de l’analyse avancée pour améliorer la productivité, la connaissance du marché et la prise de décision.
+Collaborer avec les équipes métiers et technologiques pour transformer les opportunités identifiées en solutions concrètes et évolutives.
+Ses principaux interlocuteurs sont : 
+
+Équipes commerciales Air France et KLM en Amérique du Nord
+Équipes Pricing et Revenue Management
+Équipes Sales de la Joint-Venture Air France-KLM, Delta Air Lines et Virgin Atlantic
+
+**Profil recherché**
+
+Diplôme de niveau Bac+5 dans les domaines du commerce, de l'économie, de la finance, de la data analytics.
+Expérience en analyse commerciale, performance des ventes, revenue management, pricing, stratégie ou dans une fonction analytique similaire.
+• Capacité à travailler avec des jeux de données volumineux et complexes tout en identifiant les informations les plus pertinentes pour répondre à une problématique business
+• Excellente maîtrise d'Excel.
+• Une expérience avec des outils de BI et de visualisation de données tels que Power BI est souhaitée.
+• Connaissance pratique des outils d'IA et de leur utilisation dans l'analyse commerciale, le reporting, la recherche ou l'optimisation des processus.
+• Capacité à identifier les possibilités d'utiliser l'IA et l'automatisation pour simplifier les méthodes de travail, réduire les tâches manuelles et générer des gains d'efficacité durables.
+Anglais courant, niveau C1 minimum (fournir un certificat)
+Permis de conduire valide
+
+</details>
 
 <details>
 <summary><strong>Clearing Operations Derivatives Analyst (VIE) (H/F)</strong> · EURONEXT PARIS SA · ROME, ITALIE · 3 003,87 €/mois</summary>

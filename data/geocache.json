@@ -640,5 +640,10 @@
   "ville|ang mo kio|singapour": {
     "lat": 1.3800939,
     "lon": 103.8420975
+  },
+  "entreprise|societe air france|atlanta       -ga-|etats-unis": null,
+  "ville|atlanta       -ga-|etats-unis": {
+    "lat": 33.742017,
+    "lon": -84.5965489
   }
 }
