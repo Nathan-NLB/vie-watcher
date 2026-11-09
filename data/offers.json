@@ -409,23 +409,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259",
-      "318"
+      "[\"259\",\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "VIE Analyst M&A | Latin America (Portuguese speaking)\r\n\r\n\r\n\r\nRole Overview:\r\n \r\n\r\nEuro Latina Finance is seeking an M&A Analyst to join its execution team in São Paulo. This role offers the opportunity to work on high-profile transactions in Latin America, primarily Brazil and Colombia in a wide array of sectors. He/shell will work with our senior teams across different countries and will play a pivotal role in supporting deal execution, managing intern(s), and contributing to business development efforts.\r\n\r\nThis position is suited for an execution driven M&A professional who thrives in a fast paced, entrepreneurial environment and is keen to grow in a truly multicultural team.\r\n\r\nKey Responsibilities:\r\n\r\n1. Financial Analysis & Modeling\r\n•\tAnalyze companies’ financial statements\r\n•\tBuild and maintain detailed financial models \r\n\r\n2. Transaction Execution\r\n•\tSupport execution across different phases of M&A transactions\r\n•\tPrepare core transaction materials, including Teasers, CIMs, Management Presentations, Pitch Books, and investor/buyer lists.\r\n•\tConduct financial, strategic, and market analyses to support positioning and valuation\r\n•\tCoordinate due diligence processes, manage data rooms, and track Q&A with internal and external stakeholders.\r\n\r\n3. Client & Business Development Support\r\n•\tAssist in the preparation of proposals, pitch materials, and presentations for existing clients and prospects.\r\n•\tContribute to sector research, market updates, and strategic analyses to support origination efforts.\r\n\r\nManagement of Interns\r\n•\tSupervise and review intern(s)’ work, providing guidance and quality control\r\n\r\nWhy Join Euro Latina Finance?\r\n\r\n\r\n•\tGlobal and multicultural team based in three different locations across Latin America and Europe and led by its founder & CEO\r\n•\tGrowing company with a solid pipeline and deal flow perspective\r\n•\tVast array of sectors and mandates \r\n•\tOpportunity to work within a collegial culture that puts people first\r\n•\tPossibility to move to different offices within the firm in the future\r\n\r\nCompany description\r\nEstablished in 2010, Euro Latina Finance is an independent financial advisory firm specialized in cross-border transactions between Europe and Latin America.\r\nHeadquartered in Paris, with offices in São Paulo and Bogotá, Euro Latina Finance provides tailor-made M&A and strategic advice to a portfolio of blue-chip clients. The firm specializes in cross-border M&A transactions across a wide array of sectors between Europe/US and Latin America with values ranging from US$100mm – US$1bn+. \r\nSince its inception, Euro Latina Finance has advised c.30 successful transactions out of a total of c. 80 M&A projects.\r\nMore information: https://www.eurolatinafinance.com/ and https://www.eurolatinafinance.com/career",
     "creationDate": "2026-08-24T11:55:10Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1256,37 +1242,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9",
-      "200",
-      "259"
+      "[\"8\",\"9\",\"200\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nAlbioma est engagé dans la transition énergétique grâce aux énergies renouvelables (biomasse, solaire et géothermie).\n\nLe Groupe est implanté en Outre-mer français, dans l'Hexagone, à Île Maurice, au Brésil, au Canada, en Australie et en Turquie. Il a développé depuis 30 ans un partenariat unique avec le monde sucrier pour produire de l'énergie renouvelable à partir de la bagasse, résidu fibreux de la canne à sucre.\n\nAlbioma est aussi le premier producteur d'énergie photovoltaïque en Outre-mer où il construit et exploite des projets innovants avec stockage, ainsi que dans l'Hexagone.\n\nDepuis 2021, le Groupe se développe dans la géothermie, avec l'acquisition de deux centrales en Turquie.\n\nPoste et missions :\n\nDans un contexte de fort développement de nos activités au Brésil, vos principales missions au sein de la Direction Financière à São Paulo seront les suivantes :\n\n- Assistance sur les projets de financement (élaboration des modèles avec les équipes projets, présentations aux banques, négociation des documentations de crédit) ;\n\n- Analyse stratégique et financière des projets de M&A ;\n\n- Exercices de modélisation financière et d’évaluation ;\n\n- Elaboration des dossiers d’investissement en contrôle financier ;\n\n- Modélisation et suivi des business plans à moyen terme ;\n\n- Elaboration du reporting mensuel d’activité et analyse des résultats ;\n\n- Suivi des investissements sur ses aspects financiers ;\n\n- Suivi de trésorerie et élaboration de prévisionnels ;\n\n- Analyses financières ponctuelles.",
     "creationDate": "2026-09-04T07:43:53Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1620,37 +1578,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9",
-      "200",
-      "259",
-      "320"
+      "[\"9\",\"200\",\"259\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Reporting directly to the Group CFO and working closely with the country BU Directors, the V.I.E will support Finance & Administration (F&A) activities for our Mexico and São Paulo subsidiaries.\r\n \r\nBased in our Mexico City office, the V.I.E will also provide remote support for activities related to São Paulo. The mission will mainly cover the following areas:\r\n \r\n1) FINANCE COORDINATION & SUPPORT\r\n•\tWork closely with the Finance teams in Mexico and São Paulo and facilitate coordination with Group Finance.\r\n•\tLiaise with external accounting providers regarding annual financial statements, tax declarations and other accounting matters.\r\n•\tSupport the coordination and preparation of information required for annual audits.\r\n•\tFacilitate communication between local teams, external providers and Corporate F&A.\r\n \r\n2) REPORTING & CONTROL\r\n•\tPrepare financial reporting and analysis for monthly closing, forecasting and planning.\r\n•\tPerform consistency checks on financial and accounting data and highlight discrepancies to the relevant local or Group stakeholders.\r\n•\tSupport reconciliation between accounting and reporting.\r\n•\tPrepare cash-control information, including bank reconciliations, and support payment preparation and follow-up in accordance with the company’s established approval procedures.\r\n•\tSupport the implementation and monitoring of KLB policies and procedures.\r\n \r\n3) TRANSACTION SUPPORT & MONITORING\r\n•\tSupport Accounts Receivable and Accounts Payable processes, including invoice preparation, cash-collection follow-up and supplier-account monitoring.\r\n•\tCoordinate the transmission of financial information to external accountants and contribute to the review of monthly and yearly accounting deliverables.\r\n•\tReview expense documentation and flag potential discrepancies or compliance issues to the relevant responsible stakeholders.\r\n•\tSupport the preparation and follow-up of exchanges with tax administrations, under the responsibility of the relevant local or Group representatives.\r\n \r\n4) HR ADMINISTRATION SUPPORT\r\n•\tProvide administrative support for the preparation of employment documentation and the maintenance of employee files and records.\r\n•\tCoordinate the collection and transmission of information required for bi-weekly payroll processing with the external service provider.\r\n•\tSupport HR administrative processes throughout the employee lifecycle.\r\n \r\n5) CONTRACT & LEGAL SUPPORT\r\n•\tSupport the administrative review and coordination of contracts prior to signature by the authorized company representatives.\r\n•\tPrepare and compile information and documentation required for potential legal matters, in coordination with external lawyers and the relevant company representatives.\r\n•\tFacilitate follow-up between internal stakeholders and external legal advisers.\r\n \r\n6) PROJECTS & GENERAL ADMINISTRATION\r\n•\tSupport office and general administration activities, including premises, IT, insurance, company cars and mobile phones.\r\n•\tProvide support to Corporate F&A and contribute to Group projects in coordination with F&A representatives in other countries.\r\n•\tContribute to the improvement of financial and administrative processes and reporting tools.",
     "creationDate": "2026-10-27T15:07:28Z",
     "missionStartDate": "2027-03-01T00:00:00",
