@@ -8,11 +8,85 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/11/2026 15:01:11**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **09/11/2026 15:15:50**, 85 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE - Power Market Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 09/11/2026
+- **Compatibilité avec ton profil :** 30 % — Le profil du candidat est axé sur le contrôle de gestion financier (FP&A, comptabilité, budget), alors que l'offre recherche un profil très quantitatif et technique en modélisation énergétique (Master en ingénierie, mathématiques ou data science, programmation Python). Bien que l'anglais et les compétences analytiques soient solides, il y a un décalage majeur entre l'expertise financière du candidat et les compétences techniques requises pour ce poste d'analyste de marché.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248144](https://mon-vie-via.businessfrance.fr/offres/248144)
+
+**Description du poste**
+
+Context :
+
+Market Analysis (ECMA) is an Expertise Center within ENGIE Supply & Energy Management (S&EM), which delivers a broad spectrum of services related to energy markets including supply and demand analysis and meteorological forecasts, investment economics, strategic studies, regulatory advisory and ESG requirements.
+
+Within ECMA, the Long-Term Power & Grid Modelling team provides insights to several clients within the ENGIE Group by developing or leveraging advanced quantitative forecasting models. The transversality of the work leads to a comprehensive overview of power markets across all relevant horizons:
+•	0-5 years: Support S&EM trading activities in Central Western Europe (spot & forward along liquid curve) 
+•	5-10 years: Provide insights on grid congestion risk to portfolio managers across European markets in order to optimize mid-term risk mitigation decisions 
+•	<25 years: In charge of the Group’s Corporate Scenarios which deliver long-term views on power prices, technological mix and investment profitability for key ENGIE geographies (EU, USA, Brazil,…)
+
+
+
+
+You will be part of the Long-Term Power: Europe team, focusing on projects for the longer-term in Europe.
+Role: Power Market Analyst 
+In order to bring the highest standard of analytical services to ECMA’s clients, we are looking to expand our team with a new V.I.E based in Brussels (Belgium):
+
+In the LT Power Europe team, you will be part of a transversal team delivering quantitative projects for multiple internal ENGIE clients such as the global Strategy Department, Renewable & Flexibility project developers, portfolio managers or energy traders. You will be working alongside passionate experts with multi-faceted backgrounds who like to be challenged on complex energy-related questions.
+
+Together with your project team, your primary goal will be to support ENGIE’s functional and operational entities across multiple geographies in better understanding the transformation of the energy landscape in increasingly complex and uncertain environments. Concretely in this role, you will: 
+
+•	Work on the long-term power price projections for Europe, used widely in the Group.
+
+•	Operate & improve large-scale optimization models to evaluate the long-term evolution of the energy sectors (technology mix, actors & competition, regulation, carbon footprint, costs…) across multiple power systems – mainly EU.
+
+•	Support ENGIE’s entities on specific questions concerning strategic, regulatory and market challenges to achieve the societal & Group decarbonization ambition. Evaluate macro-trends and perform techno-economic analyses (regional/country level).
+
+•	Understand how to translate the specificities of each market and timeframe into appropriate modelling requirements. Actively participate to the reputation and relevance of the department by ensuring consistency across client & timeframe, and by challenging existing practices.
+
+•	Communicate your findings to different stakeholders within the Group.
+
+This is an excellent opportunity for someone eager to kickstart their career in energy markets within a Group committed to the ecological transition.
+
+**Profil recherché**
+
+Profile
+Education and Background:
+•	Master’s degree (BAC +5) in Engineering, Mathematics, Physics or Data Science.
+•	Eligible to a V.I.E contract
+
+Soft Skills :
+•	Practical thinker with the ability to work autonomously and take initiative.
+•	Adaptable and eager to grow in an agile and fast-paced environment.
+•	Excellent communicator, capable of simplifying complex problem & analyses into concise conclusions
+
+•	Capability to build relationships with clients and colleagues from multi-cultural backgrounds, team spirit
+
+Hard Skills :
+•	Excellent analytical mindset, enthusiastic about working on quantitative questions
+
+•	Solid understanding of the energy business and the functioning of wholesale power markets
+
+•	Prior exposure to programming (python), optimization, modelling or data science. Ability to adapt to multiple energy system models (commercial softwares such as Plexos® or in-house algorithms).
+
+•	Ability to create clear visualisations and presentations to synthetize conclusions for clients 
+
+•	Familiarity with cloud-based tools (e.g., AWS) and code versioning practices (Git, Azure DevOsp..) is a plus
+Languages :
+•	English (+ French or Dutch is a nice to have)
+
+</details>
 
 <details>
 <summary><strong>Chargé Administratif et Financier (H/F)</strong> · FRIEDLANDER · ACCRA, GHANA · 3 427,85 €/mois</summary>
@@ -48,6 +122,56 @@ Vos missions clés consisteront notamment à :
 - Votre esprit d'analyse et de synthèse vous permet d'interpréter les données financières et d'accompagner la prise de décision.
 - Doté(e) d'un excellent relationnel, vous appréciez le travail en équipe et savez interagir avec des interlocuteurs variés dans un contexte multiculturel. Enfin, vous maîtrisez les outils bureautiques, notamment Excel, et êtes à l'aise avec les systèmes d'information financiers.
 - La maîtrise de l'anglais professionnel est indispensable pour évoluer dans un environnement international.
+
+</details>
+
+<details>
+<summary><strong>Compliance Officer (H/F)</strong> · CA INDOSUEZ · GENEVE, SUISSE · 4 157,65 €/mois</summary>
+
+- **Entreprise :** CA INDOSUEZ
+- **Lieu :** GENEVE, SUISSE
+- **Indemnité :** 4 157,65 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 09/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247995](https://mon-vie-via.businessfrance.fr/offres/247995)
+
+**Description du poste**
+
+Au sein de l’équipe Compliance, vous contribuerez au développement des activités en conformité avec la réglementation suisse, internationale et les règles internes du Groupe et assurerez un rôle clé dans la prévention des risques de non-conformité, la protection de la clientèle et d’intégrité des marché, et l’application des règles cross-border. Vous agirez en tant que partenaire des équipes opérationnelles et des fonctions support, contribuerez à la maîtrise des risques et à la réputation de la Banque, et participerez à l’évolution des dispositifs de conformité.
+
+ 
+
+Plus particulièrement, votre role consistera sur le périmètre Regulatory & Crossborder à :
+
+- Participer à la prévention et à la gestion des risques transfrontières et du dispostif regulatory de la Banque et des Entités du groupe CAIS
+- Participer à la mise en oeuvre du dispositif Compliance du Groupe CAIS
+- Participer aux projets transverses, à l’évolution des normes, méthodes et processus liés aux diverses tâches du Groupe CAIS
+- Contribuer à la diffusion de la culture conformité dans le cadre des interractions avec les différents métiers de la Banque
+- Participer à la préparation et à la mise à jour des textes de gouvernance Cross border & Regulatory
+- Contribuer aux échanges avec les autorités, les auditeurs, les maisons mère du Groupe Credit Agricole
+- Intervenir en soutient aux activités du DPO.
+
+**Profil recherché**
+
+Niveau d'études minimum
+Bac + 5 / M2 et plus
+Formation / Spécialisation
+Formation universitaire ou Grande école de Commerce de préférence avec une spécialisation en droit bancaire et financier, économie ou finance. 
+
+Niveau d'expérience minimum
+0 - 2 ans
+Expérience
+Expérience en Compliance et/ou Audit, un plus
+
+Compétences recherchées
+Capacité d’analyse, flexibilité, rigueur, fiabilité, intègre, proactivité, sens de l’alerte et de la communication, esprit de synthèse, bonne gestion du stress, organisé, esprit d’équipe, autonomie.
+
+
+Outils informatiques
+Connaissances bureautiques (Excel/Access/VBA/SQL) et gestion de bases de données un plus.
+
+Langues
+Français et Anglais. Espagnol et/ou Portugais un plus.
 
 </details>
 
