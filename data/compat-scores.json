@@ -506,5 +506,13 @@
   "248144": {
     "score": 30,
     "raison": "Le profil du candidat est axé sur le contrôle de gestion financier (FP&A, comptabilité, budget), alors que l'offre recherche un profil très quantitatif et technique en modélisation énergétique (Master en ingénierie, mathématiques ou data science, programmation Python). Bien que l'anglais et les compétences analytiques soient solides, il y a un décalage majeur entre l'expertise financière du candidat et les compétences techniques requises pour ce poste d'analyste de marché."
+  },
+  "248147": {
+    "score": 85,
+    "raison": "Le profil de Nathan correspond fortement aux attentes du poste grâce à ses compétences solides en contrôle de gestion, reporting et analyse des écarts, ainsi qu'à son bilinguisme en français et en anglais. Le principal écart réside dans son profil financier pur, là où l'entreprise mentionne initialement un diplôme en ingénierie, mais son expérience industrielle chez KOAD Industries compense largement ce point."
+  },
+  "248150": {
+    "score": 65,
+    "raison": "Le profil de Nathan présente de solides compétences en finance, reporting et gestion de projets, ce qui correspond au contexte international de l'offre. Cependant, son parcours est très orienté vers le contrôle de gestion et non vers les achats (Procurement), et son niveau d'espagnol (B1) est insuffisant face à l'exigence de maîtrise totale de la langue demandée pour Buenos Aires."
   }
 }

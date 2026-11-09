@@ -650,5 +650,15 @@
   "ville|accra|ghana": {
     "lat": 5.5571096,
     "lon": -0.2012376
+  },
+  "entreprise|servier international|buenos aires|argentine": null,
+  "ville|buenos aires|argentine": {
+    "lat": -34.6095579,
+    "lon": -58.3887904
+  },
+  "entreprise|mecachrome france|tanger|maroc": null,
+  "ville|tanger|maroc": {
+    "lat": 35.7694908,
+    "lon": -5.8044679
   }
 }

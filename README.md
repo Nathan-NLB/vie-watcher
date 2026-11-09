@@ -8,11 +8,122 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/11/2026 17:01:16**, 86 offre(s) actuellement en ligne.
+Dernière vérification : **09/11/2026 17:16:03**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>PROCUREMENT ANALYST (H/F)</strong> · SERVIER INTERNATIONAL · BUENOS AIRES, ARGENTINE · 2 837,98 €/mois</summary>
+
+- **Entreprise :** SERVIER INTERNATIONAL
+- **Lieu :** BUENOS AIRES, ARGENTINE
+- **Indemnité :** 2 837,98 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 09/11/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan présente de solides compétences en finance, reporting et gestion de projets, ce qui correspond au contexte international de l'offre. Cependant, son parcours est très orienté vers le contrôle de gestion et non vers les achats (Procurement), et son niveau d'espagnol (B1) est insuffisant face à l'exigence de maîtrise totale de la langue demandée pour Buenos Aires.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248150](https://mon-vie-via.businessfrance.fr/offres/248150)
+
+**Description du poste**
+
+Leading French independent pharmaceutical Company, specialised in ethical medicinal products. 92% of Servier’s sales are achieved internationally, with several subsidiary companies abroad. We are looking for V.I.E’s, for our subsidiary in ARGENTINA
+Description of the mission: 
+	Centralized Management: Single point of contact for all procurement activities for the Argentina affiliate.
+	Sourcing & Negotiation: Lead bidding processes (RFQs/RFPs) and negotiate contracts to optimize costs and quality.
+	Supplier Relationship Management (SRM): Evaluate risks and monitor the performance of strategic suppliers.
+	Business Partnership: Advise internal departments (Finance, Marketing, Medical, etc.) on their specific procurement needs.
+	Compliance & Reporting: Ensure adherence to global policies and report key performance indicators (KPIs).
+
+Duration of the mission: 12 months renewable
+
+**Profil recherché**
+
+•	Academic Background: Bachelor’s degree in Industrial Engineering, Business Administration, Economics, or related field. Procurement background at Kedge Business School in France is a plus. Procurement / Supply Chain certification (CIPS, CPSM) valued.
+
+•	Expertise: Experience in a multinational company. Pharma / life sciences industry background. Familiarity with SAP MM or equivalent ERP procurement module.
+
+•	Language Proficiency: Spanish: fluency is mandatory. English: fluent.
+
+•	Professional Experience: 1-2 years of experience in indirect procurement, purchasing, or strategic sourcing.
+
+•	Technical Skills: Strategic sourcing & negotiation techniques. Knowledge of AI and digital tools. Contract management (drafting, SLAs, KPIs). Advanced Microsoft Office (Excel, PowerPoint).
+
+</details>
+
+<details>
+<summary><strong>Controleur de gestion industriel (H/F)</strong> · MECACHROME FRANCE · TANGER, MAROC · 1 962,71 €/mois</summary>
+
+- **Entreprise :** MECACHROME FRANCE
+- **Lieu :** TANGER, MAROC
+- **Indemnité :** 1 962,71 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 09/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond fortement aux attentes du poste grâce à ses compétences solides en contrôle de gestion, reporting et analyse des écarts, ainsi qu'à son bilinguisme en français et en anglais. Le principal écart réside dans son profil financier pur, là où l'entreprise mentionne initialement un diplôme en ingénierie, mais son expérience industrielle chez KOAD Industries compense largement ce point.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248147](https://mon-vie-via.businessfrance.fr/offres/248147)
+
+**Description du poste**
+
+Acteur incontournable des pièces élémentaires et sous-ensembles de structure à forte valeur ajoutée, le Groupe Mecachrome accompagne depuis 80 ans les équipementiers et industriels dans les domaines de l’aéronautique, de l’automobile, du sport automobile, de la défense et de l’énergie. S'appuyant sur des systèmes industriels robustes, à la pointe de la technologie, Mecachrome apporte à ses clients des solutions clés en main afin de concrétiser leurs projets les plus ambitieux.
+
+Chez Mecachrome, leader mondial dans la Mécanique de Haute Précision, nous avons à cœur d’aider les jeunes qui nous rejoignent dans la construction de leur projet professionnel en leur confiant une véritable mission qui aura du sens pour eux et pour l’entreprise.
+
+Vous rejoindrez nos 5000 collaborateurs passionnés, présents sur nos 22 sites en France et à l’étranger, qui contribuent chaque jour à inventer une industrie robuste, sûre et plus durable. Entreprise responsable, le groupe Mecachrome s’engage dans le respect des critères environnementaux et sociaux pour un monde meilleur demain.
+
+Mecachrome recrute pour son site industriel situé à Tanger au Maroc : un (-e) Contrôleur de Gestion Industriel (VIE).  Rattaché au contrôleur de gestion pays, le controleur de gestion exercera les missions et activités suivantes : 
+
+Intervenir en support sur MK Aero et sur les entités marocaines sans contrôleur de gestion (Ausare, UGV Maroc, UMPM) :
+•	Être le garant des règles et procédures finance
+•	Assurer le reporting à la direction au niveau du contrôle de gestion industriel et budgétaire;
+•	Mettre en œuvre les analyses et le support nécessaires pour atteindre les objectifs définis par la direction.
+•	Participer à la restructuration de nos entités au Maroc
+•	Contribuer à l’amélioration des outils et des processus sur ce périmètre
+ 
+Activité et taches du poste :
+ 
+Assurer les clôtures mensuelles et les analyses qui en découlent :
+•	Participer aux taches de clôture mensuelle des comptes et s’assurer de la justesse des comptes
+•	Analyse des écarts vs budget, N-1 et rolling forecast (P&L, Capex, effectifs, stocks)
+•	 Analyse de la rentabilité des produits vendus
+•	Reporting au siège des données et des analyses demandées
+•	Participation à la préparation de la présentation des résultats à destination de la direction du site et du siège
+
+Support à la construction du Budget et des prévisions :
+•	Construire les budgets avec les responsables de service
+•	Produire les rolling forecast ou business plans
+•	S’assurer de la cohérence et du réalisme des prévision avec des plans d’action construit
+
+Mettre à jour les bilans de rentabilité des pièces fabriquées et s’assurer de la pertinence des prix de transfert
+
+Être le business partner de la fonction finance vis-à-vis des opérationnels du site
+•	Vous êtes le garant des règles financières et de l’application stricte des procédures et processus
+•	Vous êtes le point de contact finance dans l’usine, c’est à vous de sensibiliser les opérationnels
+•	Vous sensibilisez chaque responsable à la tenue de son budget, de ses KPI et de sa performance
+•	Définition ou mise à jour et mise en œuvre des indicateurs pertinents au niveau du site
+
+Support aux projets d’amélioration des outils de reporting :
+•	Optimisation des outils d’analyse
+•	 Support sur les projets groupe pour mettre en place des reporting harmonisés et plus opérationnels
+
+**Profil recherché**
+
+Diplômé en ingénierie, vous justifiez d’une expérience métier ou généraliste préalable sur un site de production industrielle. Vous êtes curieux et avez à cœur d’enrichir votre expérience au sein d’un environnement culturel différent du vôtre.
+
+Anglais et français courant tant à l’oral qu’à l’écrit.
+
+Vous avez un sens aigu de l’analyse et de la synthèse, une rigueur absolue, un véritable sens de l’organisation et de la planification.
+
+Vous êtes proactif(ve), dynamique, curieux(se), et surtout vous avez une aisance avec les outils informatiques et Excel. Intérêt pour le monde industriel et souhait de poursuivre en contrôle de gestion industriel.
+
+Pourquoi nous rejoindre ?
+•	Des missions riches et responsabilisantes avec la possibilité de contribuer à différents projets d’envergure
+•	Un environnement interculturel auprès d’équipes dynamiques et conviviales
+•	Un parcours d’accompagnement adapté à vos besoins et au développement de vos compétences
+•	Une expérience professionnelle et personnelle formatrice…et autant d’opportunités à saisir !  
+
+ Le Groupe Mecachrome est convaincu que la diversité et l’inclusion sont des éléments essentiels de sa performance et s’engage à recruter sans discrimination.
+
+</details>
 
 <details>
 <summary><strong>VIE - Power Market Analyst (H/F)</strong> · ENGIE GLOBAL MARKETS · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
