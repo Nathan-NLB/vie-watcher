@@ -8,11 +8,48 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **09/11/2026 11:45:55**, 83 offre(s) actuellement en ligne.
+Dernière vérification : **09/11/2026 11:49:42**, 84 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Chargé Administratif et Financier (H/F)</strong> · FRIEDLANDER · ACCRA, GHANA · 3 427,85 €/mois</summary>
+
+- **Entreprise :** FRIEDLANDER
+- **Lieu :** ACCRA, GHANA
+- **Indemnité :** 3 427,85 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 09/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à sa formation en contrôle de gestion, ses compétences en reporting et analyse financière, ainsi que son niveau d'anglais courant (TOEIC 925). Son expérience solide en PME démontre une forte autonomie, idéale pour ce poste au Ghana, bien que sa préférence géographique initiale fût l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248054](https://mon-vie-via.businessfrance.fr/offres/248054)
+
+**Description du poste**
+
+Envie d’une expérience internationale alliant autonomie, responsabilités et proximité opérationnelle ?
+Rejoignez Orsam Ghana, filiale du Groupe Ortec spécialisée dans les travaux de maintenance et de construction industrielles, et contribuez au développement d’une structure en pleine croissance au cœur de l’Afrique de l’Ouest.
+Basé(e) à Accra (Ghana), vous occupez un rôle clé dans le pilotage administratif et financier de la filiale. Véritable partenaire de l’exploitation, vous assurez le suivi des indicateurs financiers, de la trésorerie et des processus de gestion, tout en accompagnant les équipes locales dans leurs enjeux quotidiens.
+Rattaché(e) à Kofi, Directeur d’Agence, vous travaillez en étroite collaboration avec les experts financiers du siège d’Aix-en-Provence, notamment Philippe, Responsable de la Comptabilité Internationale, et Benoît, Responsable du Contrôle de Gestion International.
+
+Vos missions clés consisteront notamment à :
+- Assurer la tenue et le suivi de la comptabilité générale et analytique ;
+- Piloter la trésorerie de la filiale et suivre les flux financiers ;
+- Réaliser les clôtures mensuelles de gestion et participer à l'élaboration des reportings financiers ;
+- Contrôler la bonne application des procédures administratives, financières et comptables du Groupe ;
+- Analyser les résultats et produire les indicateurs nécessaires au pilotage de l'activité ;
+- Collaborer avec les différents services du siège (Finance, Contrôle de gestion, Comptabilité, Trésorerie) ;
+- Participer à l'amélioration continue des processus administratifs et financiers.
+
+**Profil recherché**
+
+- Diplômé(e) d'une formation supérieure en Comptabilité, Finance, Contrôle de gestion ou Audit, vous souhaitez évoluer dans un environnement international stimulant.
+- Rigoureux(se) et organisé(e), vous êtes capable de gérer vos priorités en toute autonomie tout en respectant les échéances.
+- Votre esprit d'analyse et de synthèse vous permet d'interpréter les données financières et d'accompagner la prise de décision.
+- Doté(e) d'un excellent relationnel, vous appréciez le travail en équipe et savez interagir avec des interlocuteurs variés dans un contexte multiculturel. Enfin, vous maîtrisez les outils bureautiques, notamment Excel, et êtes à l'aise avec les systèmes d'information financiers.
+- La maîtrise de l'anglais professionnel est indispensable pour évoluer dans un environnement international.
+
+</details>
 
 <details>
 <summary><strong>Data Analyst - Marketing Analytics (H/F)</strong> · SEB DEVELOPPEMENT · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>

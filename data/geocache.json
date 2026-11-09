@@ -645,5 +645,10 @@
   "ville|atlanta       -ga-|etats-unis": {
     "lat": 33.742017,
     "lon": -84.5965489
+  },
+  "entreprise|friedlander|accra|ghana": null,
+  "ville|accra|ghana": {
+    "lat": 5.5571096,
+    "lon": -0.2012376
   }
 }
