@@ -1165,16 +1165,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "320"
+      "[\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Au sein des départements Back Office et Trésorerie, le Business Analyst sera rattaché fonctionnellement aux responsables des équipes concernées. Cette mission lui permettra d’acquérir une vision transverse des activités financières et de trésorerie du Groupe, tout en contribuant à la transformation et à l’amélioration des processus existants. Il participera à la conception, à la refonte et à l’automatisation des reportings financiers et des outils d’aide à la décision, principalement sous Power BI et Excel. Ces outils couvriront notamment le suivi du cash pooling, des prévisions de trésorerie, des paiements, de l’endettement Groupe et des risques financiers.",
     "creationDate": "2026-10-15T15:55:32Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3426,16 +3419,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are looking for a motivated and analytical VIE Finance Analyst to join our Finance team. The role offers broad exposure across different finance activities, with a primary focus on Management Control, Financial Performance Monitoring, and Internal Consolidation Reporting.\nWorking closely with Finance Business Partners, Controlling teams, and Group Finance stakeholders, the successful candidate will contribute to the production of management information, support financial analysis, and help ensure the quality and consistency of financial reporting delivered to management and headquarters.\nKey Responsibilities\nManagement Control\n•\tSupport monthly closing and management reporting activities.\n•\tAnalyze financial performance versus budget, forecast, and prior year results.\n•\tPrepare variance analyses and provide insights on key business drivers.\n•\tContribute to budgeting, forecasting, and long-term planning exercises.\n•\tMonitor financial and operational KPIs and assist in developing management dashboards.\n•\tSupport ad hoc financial analyses and business cases for management.\nInternal Consolidation & Reporting\n•\tParticipate in the preparation and validation of internal financial reporting packages.\n•\tSupport the consolidation process by collecting, reviewing, and reconciling financial data from different entities.\n•\tEnsure accuracy, completeness, and consistency of reported figures.\n•\tAssist in the preparation of reporting submissions to Group Finance.\n•\tMonitor reporting deadlines and follow up with stakeholders to ensure timely delivery.\n•\tSupport continuous improvement initiatives aimed at enhancing reporting processes and controls.\nCross-Functional Finance Support\n•\tCollaborate with Accounting, Treasury, Business Finance, and other Finance teams.\n•\tContribute to process documentation and internal control activities.\n•\tParticipate in finance transformation and automation projects.\n•\tHelp identify opportunities to improve reporting efficiency and data quality.",
     "creationDate": "2026-10-26T10:02:32Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -6821,23 +6807,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "322"
+      "[\"17\",\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le Service économique (SE) de l’Ambassade de France en à Riyad appartient au réseau international de la Direction générale du Trésor du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique. Compétent sur l’Arabie Saoudite et le Yémen, il est constitué de trois agents expatriés, de deux VIA et de deux agents locaux. Il a pour mission d’analyser la situation économique et financière, de suivre l’actualité et les réformes économiques, d’accompagner les entreprises françaises dans leurs projets de développement dans le pays et de contribuer à l’attractivité de la France pour les investissements étrangers.  \n\nLe/la VIA sera particulièrement chargé(e), sous l’autorité du Chef de service économique et de son adjointe, des missions suivantes :\n\n•\tsuivi et analyse de la situation macroéconomique et financière de l’Arabie saoudite et du Yémen ; \n•\tsuivi et analyse des secteurs institutions financières (banques, fonds d’investissement), stratégie d’investissement, relations commerciales ;\n•\trédaction de notes portant notamment sur le secteur financier (banques, assurances, bourse, capital-investissement, finance islamique, etc.) ;\n•\tpréparation des entretiens avec les institutions financières françaises et saoudiennes ;\n•\tcontribution à l’organisation d’événements économiques portés par l’Ambassade ;\n•\tsoutien au développement des entreprises françaises, participation aux activités d’animation de la communauté d’affaires française.\n\nPlus largement, le/la VIA devra faire preuve de souplesse et de polyvalence afin de contribuer à l’ensemble des activités du service en fonction des besoins.\n\nPROFIL :\n\nFormation supérieure de type Master : niveau Master 2 en  économie (université, grande école d’ingénieur ou de commerce avec un parcours économie), IEP avec une spécialisation en sciences économiques / finances.\n\nCOMPETENCES REQUISES :\n\n•\trigueur dans l’analyse et l’expression écrite (rédaction de notes synthétiques relatives aux secteurs suivis) ;\n•\tsens du contact et capacité à développer et à entretenir un réseau (nombreux contacts avec les entreprises et les administrations saoudiennes) ;\n•\tesprit d’initiative (capacité à animer un réseau de relations et à mettre en relation entreprises et donneurs d’ordres potentiels) ; \n•\tcapacité à travailler en équipe ;\n•\tadaptabilité à un environnement de travail exigeant ;\n•\tanglais obligatoire. \n\nDIVERS :\n\nLe/la VIA bénéficie d’un logement propriété de l’Etat français dans le quartier diplomatique de Riyad (retenue 10% sur indemnité).",
     "creationDate": "2026-11-04T14:30:34Z",
     "missionStartDate": "2027-01-01T00:00:00",
