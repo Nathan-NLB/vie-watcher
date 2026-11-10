@@ -1529,16 +1529,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5"
+      "[\"5\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Within CACEIS, the General Inspection function is an integral part of the internal control framework. General Inspection is a single business line bringing together teams based in Paris, Ireland, Luxembourg, Munich, Milan, Amsterdam, Kuala Lumpur and Madrid. It conducts periodic control missions within CACEIS. These missions aim to ensure that external and internal rules are complied with, to assess the level of risk management and operational effectiveness of processes within the Bank. General Inspection identifies areas for improvement and issues recommendations for action in the inspection report published at the end of each mission. It then monitors their complete and timely implementation throughout the year.\n\nIn this context, the VIE will join the General Inspection team of CACEIS Bank Ireland Branch to carry out Group missions, working with a team junior and experienced staff located internationally (France, Ireland, Luxembourg, Germany, the Netherlands, Spain, Italy, Malaysia).\n\nYour missions\nYou will be an integral part of the General Inspection team as a VIE and will contribute to missions carried out in Ireland and abroad, under the supervision of a lead inspector.\n\nYou will be involved in the entire audit process, from the planning phase through to the issuance of the audit report. In this context, you will be in position to: \n-\tParticipate and lead initial meetings with auditees to define the scope of work, performing investigation tests in line with internal audit methodologies, drafting documented reports and travels to other CACEIS locations abroad. \n-\tContribute to the preparation of recommendations designed to strengthen the Bank’s internal control framework and to the follow up of these recommendations, ensuring that the risk mitigation measures identified during the missions are fully and timely implemented.\n-\tPrepare Internal Audit reporting and related documentation for local management and relevant governance committees, supporting clear communication of key findings, risks and recommended actions.\n-\tSupport and lead discussion of the results with both auditees and the managers in a clear and convincing manner.\n-\tBe part of the continuous audit monitoring process at local level, supporting the General Inspection team\n\nThis role provides an opportunity to develop auditing expertise and risk management, through the application of the audit methodology to abroad range of business line and support functions across the bank, fostering specialized knowledge in areas such as asset servicing, IT, or banking regulation.",
     "creationDate": "2026-11-04T17:06:42Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3412,37 +3405,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "21",
-      "202",
-      "259"
+      "[\"5\",\"21\",\"202\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As an intermediate Business analyst in the functional IT practice, you will be responsible for:\r\n- Understanding the activity of our clients: financial markets, Gas and power market\r\n- Knowing front, middle and back-office software as a user\r\n- Following clients’ workshops\r\n- Proposing IT specifications on new activities, new deals or regulations and delivering those specifications to the IT developing team\r\n- Controlling new versions and testing results\r\n- Dealing with reporting duties both for the clients and the firm\r\n- Participating to functional transversal meetings and finding new IT solutions with managers",
     "creationDate": "2026-07-16T14:32:11Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4182,30 +4147,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "9",
-      "318"
+      "[\"5\",\"9\",\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Vous avez une première expérience solide en contrôle de gestion, l'IA et les nouvelles technologies vous passionnent, et vous voulez donner une longueur d'avance à votre carrière ?\n\nChez DataVizX, nous améliorons la performance des entreprises par des approches modernes et novatrices : tableaux de bord de nouvelle génération, agents IA, revues de gestion automatisées. Forts de notre savoir-faire, nous vous apprendrons à maîtriser ces outils à un niveau avancé, à les mettre au service de nos clients et à communiquer avec des directeurs généraux, des directeurs financiers, des directions métiers et des conseils d'administration. Votre expertise en contrôle de gestion pour socle, l'IA au cœur, les fondamentaux de la BI en appui : vous réunirez le meilleur des trois mondes.\n\n• V.I.E de 12 mois, renouvelable une fois (24 mois au maximum), à partir du 1er février 2027\n• Possibilité de CDI à l'issue du V.I.E\n• Bruxelles, dans les locaux de TotalEnergies\n• Équipement fourni : ordinateur portable, téléphone portable et tous les outils nécessaires à votre mission\n• Télétravail possible, selon des conditions à négocier après le premier mois\n\nLE POSTE\n\nVous êtes le référent finance de nos projets, spécialiste des nouvelles technologies : vous mettez votre maîtrise du contrôle de gestion et de nos outils d'IA et de BI au service de la performance de nos clients.\n\n• Présentation et validation : vous présentez nos solutions à nos clients et vous validez avec eux, et avec nos équipes, la justesse des totaux et des indicateurs.\n• L'IA appliquée à la finance : vous utilisez l'IA au quotidien dans votre travail, vous faites la démonstration de nos solutions d'automatisation IA et d'analyse BI à nos clients et vous apportez votre regard métier pour les rendre toujours plus pertinentes.\n• Garant de la qualité : rien ne part chez un client sans votre contrôle.\n• Formateur : vous formez des équipes financières à l'IA et à la BI, en visio, dans le cadre de notre certification Qualiopi.\n• Bâtisseur : vous nous aidez à définir les indicateurs pertinents pour chaque métier, et vos idées d'analyses enrichissent nos solutions au service de tous nos clients.\n\nVous êtes épaulé au quotidien : notre équipe technique prend en charge les développements avancés, et vous apportez la connaissance métier, le sens des chiffres et la relation client.\n\nCE QUI REND CE POSTE UNIQUE\n\nDans un grand groupe, un V.I.E en contrôle de gestion suit souvent une seule entité et un seul reporting. Chez nous, vous travaillez pour de nombreuses entreprises, face à leurs dirigeants, avec des outils d'IA que très peu de financiers utilisent encore.\n\nDe la suite Office à Power BI, en passant par une pratique maîtrisée et certifiée de l'IA, vous apprendrez à automatiser et à sécuriser les tâches de votre métier. Ce qui prend des jours à beaucoup de contrôleurs, vous saurez le faire en quelques heures, avec des chiffres vérifiés.\n\n• Une entreprise à la pointe de la technologie : assistants d'analyse multilingues, données des clients croisées avec des données publiques, une quinzaine de solutions prêtes à l'emploi, lisibles sur ordinateur, tablette et téléphone. Nous livrons un tableau de bord complet en quelques jours, là où il faut habituellement un mois.\n• Le CES de Las Vegas : après Accountex 2025 et le CES 2026, nous serons de nouveau à Las Vegas en janvier 2027. Vous pourrez nous accompagner pour l'édition 2028.\n• Le fondateur en direct : vous échangez chaque jour avec le fondateur de DataVizX et apprenez au plus près de celui qui conçoit nos solutions.\n• Des secteurs très variés : automobile, aviation, promotion immobilière, mandataires, industrie, dispositifs fiscaux, location, magasins, salles de sport, bailleurs sociaux. Vos connaissances y seront précieuses, et vous découvrirez une diversité de métiers rare en début de carrière.\n• Des missions dès votre arrivée : vous intervenez sur des projets clients dès les premières semaines, accompagné par nos équipes, puis vous gagnez rapidement en autonomie et prenez en charge votre propre portefeuille de clients. Votre formation se poursuit au fil des projets.\n• Au terme de votre mission : une triple compétence en finance, IA et BI, des certifications Claude, OpenAI, Microsoft et Sage prises en charge par DataVizX, et un profil rare, recherché par les directions financières comme par les cabinets de conseil internationaux.\n\nBRUXELLES, UN TREMPLIN EUROPÉEN\n\n• Hébergé chez TotalEnergies : grâce à notre partenariat avec le groupe, vous travaillez dans un cadre moderne et cosmopolite, au contact d'équipes du monde entier.\n• Au cœur de l'Europe : la capitale des institutions européennes, où français, néerlandais et anglais se côtoient, à quelques heures de train de Paris, Londres et Amsterdam.\n• Notre représentant en Belgique : formations, présentations, premiers clients belges, vous incarnez notre développement local.\n\nÀ PROPOS DE DATAVIZX\n\nDepuis 2022, DataVizX a accompagné 40 entreprises en France, en Espagne et aux Antilles. Organisme de formation certifié Qualiopi, nous intervenons auprès des directions générales et financières, de la conception de leurs tableaux de bord à l'automatisation de leurs analyses. Notre fondateur, Serge Barros Chaves, porte l'innovation de DataVizX et la relation avec nos clients.\n\nCE QUI FAIT RÉUSSIR CHEZ NOUS\n\nNous sommes une équipe internationale et exigeante : le fondateur partage son temps entre la Guadeloupe et Bordeaux, notre équipe technique travaille en anglais. Ce que nous attendons, concrètement :\n\n• Des résultats, pas de la présence : nous jugeons sur ce qui est livré, dans les délais annoncés. Un délai est un engagement, pas une indication.\n• La rigueur : un chiffre présenté à un client est vérifié et rapproché de sa source. Un document qui part est relu, sans approximation.\n• L'initiative : face à un problème, vous cherchez, vous testez, avec nos outils d'IA en premier, et vous arrivez avec une solution plutôt qu'avec une question.\n• La transparence : chaque jour, un point écrit sur ce qui est fait, ce qui bloque et ce qui suit. Un sujet bloqué se signale le jour même, pas trois semaines plus tard.\n• L'autonomie : sans manager sur place, vous organisez vos journées, vous allez chercher l'information et vous tenez vos engagements.\n• L'exigence de qualité : nos clients reçoivent des livrables haut de gamme. Un travail « à peu près » est un travail à refaire.\n• Une image professionnelle : tenue professionnelle et caméra allumée en visio. Face à des dirigeants, vous êtes le visage de DataVizX.\n\nCe poste n'est pas fait pour vous si vous attendez des consignes détaillées pour avancer, si vous préférez la réflexion à la livraison, ou si vous voyez la qualité comme une option.\n\nCOMMENT NOUS REJOINDRE\n\nNotre processus est court et concret : il vous permet de découvrir le poste autant qu'il nous permet de vous connaître.\n\n1. Votre candidature sur la plateforme V.I.E de Business France : votre CV et une lettre de motivation qui explique en quoi votre expérience correspond au poste proposé.\n2. Un premier échange avec le fondateur : en visio, ou en personne à Bordeaux selon le calendrier.\n3. Une mise en situation sur un cas réel anonymisé : vous présentez votre analyse comme vous le feriez devant un client, puis vous la résumez par écrit.\n\nAu cours du processus, vous recevrez une démonstration de nos solutions. Chaque candidature reçoit une réponse, et notre décision est prise au plus tard fin novembre 2026.",
     "creationDate": "2026-10-26T04:19:14Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -4735,16 +4679,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "326"
+      "[\"326\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Sous la responsabilité hiérarchique du/de la Responsable Juridique et Conformité, le/la candidat(e) contribuera à la gestion des sujets liés à la conformité, à la gestion des risques et au contrôle interne.\r\n\r\nEn étroite collaboration avec les différents départements de l'entreprise, il/elle participera à des initiatives visant à assurer la protection et le développement durable de l'activité, tout en bénéficiant d'une vision transverse de l'organisation.\r\n\r\nLe/la candidat(e) intégrera un environnement collaboratif et profitera d'un parcours d'intégration complet ainsi que d'un accompagnement régulier favorisant son développement professionnel et sa bonne intégration au sein de l'équipe.\r\n\r\nVous accompagnerez le/la Responsable Contrôles et Risques Opérationnels dans les domaines suivants :\r\nCoordonner l'amélioration continue du dispositif de contrôle interne.\r\nParticiper au processus d'identification et d'évaluation des risques.\r\nMaintenir et développer la cartographie des contrôles au sein des différents outils utilisés par l'entreprise.\r\nCoordonner les campagnes de contrôle trimestrielles.\r\nAccompagner les collaborateurs dans la réalisation des contrôles.\r\nAssurer le suivi des plans d'action et des mesures correctrices.\r\nÊtre l'interlocuteur privilégié du siège sur les sujets liés au contrôle interne et aux risques.\r\nContribuer au suivi des prestations externalisées et veiller au respect des exigences réglementaires et des procédures internes.\r\n\r\nVous aurez également l'opportunité de participer à différents projets de conformité et d'acquérir une expérience sur des thématiques réglementaires clés telles que :\r\n\r\nLa sécurité financière et le traitement des alertes relatives aux sanctions internationales.\r\nLes procédures d'évaluation des partenaires (Know Your Partner - KYP).\r\nLa gouvernance des produits (Product Governance).",
     "creationDate": "2026-10-05T15:26:02Z",
     "missionStartDate": "2027-01-01T00:00:00",
