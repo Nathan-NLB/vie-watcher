@@ -262,16 +262,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Acteur incontournable des pièces élémentaires et sous-ensembles de structure à forte valeur ajoutée, le Groupe Mecachrome accompagne depuis 80 ans les équipementiers et industriels dans les domaines de l’aéronautique, de l’automobile, du sport automobile, de la défense et de l’énergie. S'appuyant sur des systèmes industriels robustes, à la pointe de la technologie, Mecachrome apporte à ses clients des solutions clés en main afin de concrétiser leurs projets les plus ambitieux.\r\n\r\nChez Mecachrome, leader mondial dans la Mécanique de Haute Précision, nous avons à cœur d’aider les jeunes qui nous rejoignent dans la construction de leur projet professionnel en leur confiant une véritable mission qui aura du sens pour eux et pour l’entreprise.\r\n\r\nVous rejoindrez nos 5000 collaborateurs passionnés, présents sur nos 22 sites en France et à l’étranger, qui contribuent chaque jour à inventer une industrie robuste, sûre et plus durable. Entreprise responsable, le groupe Mecachrome s’engage dans le respect des critères environnementaux et sociaux pour un monde meilleur demain.\r\n\r\nMecachrome recrute pour son site industriel situé à Tanger au Maroc : un (-e) Contrôleur de Gestion Industriel (VIE).  Rattaché au contrôleur de gestion pays, le controleur de gestion exercera les missions et activités suivantes : \r\n\r\nIntervenir en support sur MK Aero et sur les entités marocaines sans contrôleur de gestion (Ausare, UGV Maroc, UMPM) :\r\n•\tÊtre le garant des règles et procédures finance\r\n•\tAssurer le reporting à la direction au niveau du contrôle de gestion industriel et budgétaire;\r\n•\tMettre en œuvre les analyses et le support nécessaires pour atteindre les objectifs définis par la direction.\r\n•\tParticiper à la restructuration de nos entités au Maroc\r\n•\tContribuer à l’amélioration des outils et des processus sur ce périmètre\r\n \r\nActivité et taches du poste :\r\n \r\nAssurer les clôtures mensuelles et les analyses qui en découlent :\r\n•\tParticiper aux taches de clôture mensuelle des comptes et s’assurer de la justesse des comptes\r\n•\tAnalyse des écarts vs budget, N-1 et rolling forecast (P&L, Capex, effectifs, stocks)\r\n•\t Analyse de la rentabilité des produits vendus\r\n•\tReporting au siège des données et des analyses demandées\r\n•\tParticipation à la préparation de la présentation des résultats à destination de la direction du site et du siège\r\n\r\nSupport à la construction du Budget et des prévisions :\r\n•\tConstruire les budgets avec les responsables de service\r\n•\tProduire les rolling forecast ou business plans\r\n•\tS’assurer de la cohérence et du réalisme des prévision avec des plans d’action construit\r\n\r\nMettre à jour les bilans de rentabilité des pièces fabriquées et s’assurer de la pertinence des prix de transfert\r\n\r\nÊtre le business partner de la fonction finance vis-à-vis des opérationnels du site\r\n•\tVous êtes le garant des règles financières et de l’application stricte des procédures et processus\r\n•\tVous êtes le point de contact finance dans l’usine, c’est à vous de sensibiliser les opérationnels\r\n•\tVous sensibilisez chaque responsable à la tenue de son budget, de ses KPI et de sa performance\r\n•\tDéfinition ou mise à jour et mise en œuvre des indicateurs pertinents au niveau du site\r\n\r\nSupport aux projets d’amélioration des outils de reporting :\r\n•\tOptimisation des outils d’analyse\r\n•\t Support sur les projets groupe pour mettre en place des reporting harmonisés et plus opérationnels",
     "creationDate": "2026-11-09T12:51:19Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -1662,16 +1655,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "320"
+      "[\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Au sein des départements Back Office et Trésorerie, le Business Analyst sera rattaché fonctionnellement aux responsables des équipes concernées. Cette mission lui permettra d’acquérir une vision transverse des activités financières et de trésorerie du Groupe, tout en contribuant à la transformation et à l’amélioration des processus existants. Il participera à la conception, à la refonte et à l’automatisation des reportings financiers et des outils d’aide à la décision, principalement sous Power BI et Excel. Ces outils couvriront notamment le suivi du cash pooling, des prévisions de trésorerie, des paiements, de l’endettement Groupe et des risques financiers.",
     "creationDate": "2026-10-15T15:55:32Z",
     "missionStartDate": "2027-01-01T00:00:00",
