@@ -8,11 +8,76 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **10/11/2026 10:15:54**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **10/11/2026 10:32:03**, 89 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE - Credit Risk Officer (H/F)</strong> · CACEIS · MUNICH, ALLEMAGNE · 3 381,57 €/mois</summary>
+
+- **Entreprise :** CACEIS
+- **Lieu :** MUNICH, ALLEMAGNE
+- **Indemnité :** 3 381,57 €/mois
+- **Durée de la mission :** 24 mois (Du 1 mars 2027 au 1 mars 2029)
+- **Publiée le :** 10/11/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan correspond bien aux attentes académiques et aux compétences financières et analytiques requises (Master en finance, anglais courant, maîtrise d'Excel). Toutefois, son expérience est axée sur le contrôle de gestion et le FP&A plutôt que sur le risque de crédit bancaire, et l'offre nécessite idéalement une première expérience dans ce domaine ainsi que la maîtrise de l'allemand.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248153](https://mon-vie-via.businessfrance.fr/offres/248153)
+
+**Description du poste**
+
+The VIE contract in short:
+
+
+According Business France's eligibility conditions, the Volontariat International en
+Entreprise (VIE) is an assignment in a French company operating overseas for
+professionals between the age of 18 and 28 who are European Economic Area (EU + Norway, Iceland und Liechtenstein) nationals.
+
+
+For further information about the eligibility conditions to this program, we invite you to go to Business France website: https://mon-vie-via.businessfrance.fr/
+
+
+PLEASE NOTE: your application must be submitted in English (CV + cover letter) to be considered by our non-French speaking teams.
+
+ 
+
+In this context, your main missions will be:
+
+-Credit rating: the credit analyst performs a credit rating of any client or counterparty which is subject to credit risk, using methodologies at hand. Methodologies are developed further if required
+-Prepare credit application: the credit analyst is in charge to perform a credit application document assessing the client/ counterparty (e.g., financials, statistics), possibly also the country, industry, next to the idiosyncratic risk subject to credit risk
+-Vote & present: based on the analysis performed, the analyst performs a vote, prepares the decision paper for the risk and compliance committee (which ultimately takes the credit decision) and presents the file
+-Maintenance: the analyst and the credit risk team ensure and monitor the proper execution, documentation and communication of any credit decision taken in the risk and compliance committee
+-Monitoring: The analyst shall know the processes for intraday and overnight monitoring (incl. approval of payments) and be able to support the “reporting desk”
+-Reporting: the credit risk team is in charge to regularly reports (e.g., credit exposures) where the analyst can also support.
+-Methodologies: the team is in charge to develop new methodologies and processes or enhance existing methodologies and processes, linked to any credit risk topic
+-Simplification: generally, improvements are welcome which simplify any process
+
+**Profil recherché**
+
+Minimal education level:
+Postgraduate degree – MA/MSc/PhD/Doctorate or equivalent
+Academic qualification / Speciality:
+Studies in business administration, finance
+
+Level of minimal experience:
+0-2 years
+Experience:
+A practical experience in the field of financial institutions, within credit risk would be a plus
+
+Required skills:
+• Banking, Risk Management, Finance.
+• Self-motivated, self-responsible, pro-active, and rigorous working attitude.
+• Sound analytical skills.
+• Ability to work transversal and present results in front of international audience.
+
+Technical skills required:
+• MS Office with strong advanced MS Excel and PowerPoint
+
+Languages:
+English (fluent), German would be a plus
+
+</details>
 
 <details>
 <summary><strong>PROCUREMENT ANALYST (H/F)</strong> · SERVIER INTERNATIONAL · BUENOS AIRES, ARGENTINE · 2 837,98 €/mois</summary>
