@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **10/11/2026 17:45:48**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **10/11/2026 18:01:28**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -155,6 +155,81 @@ Tu assures la fiabilité de la gestion administrative, comptable et financière 
 - Autonomie, esprit d’initiative et capacité à faire avancer les sujets jusqu’à leur résolution
 - Appétence pour la structuration de processus et l’automatisation des tâches
 - Français courant. Anglais professionnel.
+
+</details>
+
+<details>
+<summary><strong>EXPERT-CONSEIL, SOLUTIONS PGI ET CRM (H/F)</strong> · BIG BANG ERP FRANCE · MOKA, MAURICE · 1 879,79 €/mois</summary>
+
+- **Entreprise :** BIG BANG ERP FRANCE
+- **Lieu :** MOKA, MAURICE
+- **Indemnité :** 1 879,79 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 10/11/2026
+- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion financier (FP&A) et l'analyse de rentabilité, alors que l'offre recherche un profil en TI/génie logiciel spécialisé dans l'intégration de solutions PGI (ERP) et CRM. Bien que Nathan possède de bonnes compétences en Excel et une excellente maîtrise des langues, les aspects techniques de programmation, de configuration de systèmes et d'ingénierie informatique requis font défaut.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247012](https://mon-vie-via.businessfrance.fr/offres/247012)
+
+**Description du poste**
+
+Présentation de la société :
+
+Big Bang est une société d’experts-conseils qui aide les organisations à optimiser et à simplifier les processus par la planification d’une stratégie numérique, par le déploiement de solutions d’affaires et par la réalisation d’harmonisation organisationnelle. Notre objectif est de créer de la valeur tangible pour nos clients en les aidant à rationaliser les systèmes opérationnels, notamment par l’interconnexion de l’information entre les systèmes, par l’unification de la stratégie et de la technologie, et par le soutien au développement de l’expertise organisationnelle. Nous avons pour vision d’offrir à chaque personne de chaque organisation un accès direct à l’information qui lui permet de faire le meilleur travail possible, et ce, en tout temps et n’importe où. Grâce à notre siège à Montréal (Canada) et à nos bureaux en France, à l’île Maurice, à Toronto et aux États-Unis, nous servons des entreprises de toutes tailles partout dans le monde.
+
+
+Poste et missions :
+
+ Rôle:
+Analyser les besoins d'affaires, les exigences et les processus et participer à la configuration des solutions infonuagiques pour combler et surpasser les attentes du client. Participer à l'implantation ou à l'intégration de différents systèmes tels que les plateformes de commerce électronique et de marketing, les logiciels de comptabilité et de paie et les solutions pour la gestion de la fabrication, de l'approvisionnement et de l'entreposage.
+
+Responsabilités principales:
+
+Opérations (70%)
+Analyser les besoins d'affaires, les requis, les flux de travaux, les processus et les applications des clients
+Définir, cadrer et documenter les solutions appropriées pour améliorer, automatiser et accélérer l'amélioration des processus
+Configurer, tester, déployer, soutenir et dépanner les systèmes applicatifs pour répondre aux exigences des processus d'affaires
+Analyser les exigences en production de rapports, faciliter le développement et la validation de rapports
+Communiquer régulièrement avec les gestionnaires de projet à propos de l'état d'avancement du travail en cours
+
+Service à la clientèle (15%)
+Assurer un service à la clientèle hors pair en respectant nos meilleures pratiques
+Agir en tant que soutien primaire pour les clients actuels
+Répondre aux appels des clients et fournir une aide immédiate pour les demandes urgentes
+
+Ventes (10%)
+Configurer les environnements de démonstration servant à la présentation des solutions infonuagiques aux clients potentiels
+Développer des fonctionnalités particulières selon les exigences spécifiques de clients potentiels et adapter des échantillons de données à leur industrie
+Documenter l'énoncé des travaux
+Donner des présentations aux clients potentiels à propos de solutions particulières ou de domaines d'expertise pointus
+
+Gestion des connaissances (5%)
+Élaborer des plans de formations basés sur les spécifications du client
+Assurer la formation des usagers durant les projets d'implémentation
+Coacher les collègues junior sur les solutions pourvues et supportées par l'organisation
+Préparer des présentations à l'interne à propos des leçons apprises lors de projets pour clients, des tendances et meilleures pratiques de l'industrie, trucs et astuces et nouvelles capabilités des systèmes
+Organiser et mener des séances de travail pour utilisateurs expérimentés
+
+**Profil recherché**
+
+Exigences particulières:
+
+Diplôme universitaire en génie logiciel, en technologie de l'information ou en toute autre discipline pertinente
+Excellente maîtrise de l'anglais et du français (bilingue)
+Familiarité avec les concepts relatifs aux processus d'affaires (essentiel)
+Expérience pour toutes les phases d'un projet : analyse, conception, développement, conversion, implantation, formation, soutien, intégration
+Connaissance pratique d'au moins une application PGI (Progiciel de Gestion Intégré), CRM (gestion de la relation client) ou de commerce électronique (un atout)
+Familiarité avec la programmation informatique : JavaScript, SQL ou une autre forme de rédaction de scripts
+Expérience avec le développement de solutions Salesforce.com, Apex et Visualforce (un atout)
+Suite Office, Google Docs et Lucidchart (un atout)
+
+Tempérament et aptitudes:
+
+Aisance pour la communication avec les clients
+Excellentes aptitudes pour la gestion de la clientèle et pour la collaboration avec les clients lors de l'exécution du plan d'implantation
+Capable de travailler en mode multitâche sans perdre de vue les échéanciers serrés
+Énergique, dynamique, bon esprit d'équipe
+Bon équilibre entre la pensée stratégique et une attitude « qui fait avancer les choses »
+Solides compétences en résolution de problèmes et en consultation
+Compétences pour la documentation et la communication écrite pour tout ce qui touche la documentation client
 
 </details>
 
