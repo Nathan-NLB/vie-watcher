@@ -1879,16 +1879,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The Senior Manager, FP&A, leads financial planning, analysis, and reporting for Fresh across North America, driving business growth across all channels. This role provides strategic financial guidance and support, contributing to the evaluation and execution of business plans. This position serves as a key communicator between Central and North America leadership, and partners cross-functionally on strategic initiatives, ensuring financial performance aligns with company objectives.\r\n\r\nEssential Duties and Responsibilities\r\n•\tManage and prepare the monthly close review process and reporting, with a dedicated focus on US, Canada and Mexico.\r\no\tAnalyze, manage and review monthly P&L results and variance explanations, preparing comments against budget and prior year for all markets in NA, suggesting corrective measures if needed.  \r\no\tDevelop and present P&L commentary for respective businesses within the US, Canada and Mexico, inclusive of P&L by retailer\r\no\tWork closely with A/R, Sales Admin and Marketing teams within the US, Canada and Mexico, following up all sorts of chargebacks from retailers monthly.\r\no\tWork closely with the Accounting team ensuring the accuracy of the books.\r\n•\tPrepare monthly Net Sales/P&L comments by channel for US, Canada and Mexico for top Management.\r\n•\tDevelop scorecards that will provide insightful information to executive team (such as, but not limited to AR/DSO sales trend analysis by channel and door - wholesale vs retail and weeks of supply, etc.).\r\n•\tPrepare monthly Sales Outlook (forecasted sales of the next 4 months), in coordination with Sales and Digital teams, providing a consolidated view and analysis of the performance in North America to Top management (US and Global).\r\n•\tManage the delivery of all performance commitments and reporting requests from Global Finance, fulfilling the deadlines established. Coordinate all key parts to make sure that all requests are answered on time and in accurate manner.\r\n•\tManage short- and long-term financial planning Budgets / Forecasts (R1, R2, Budget) process with the Heads of Departments of US (Marketing, Digital, Sales…): review and challenge main assumptions, provide recommendations.\r\n•\tOversee all aspects of the P&L for Fresh.com in the North American market\r\n•\tDepartmental Partnership\r\no\tServe as the key finance partner to all US, Canada and Mexico functional departments involved in the wholesale business, inclusive of Marketing, E-Retail, and Sales Administration\r\no\tOwn entire Visual Merchandising and Store Design budget communication for all North America to ensure alignment across channels\r\no\tLead meetings with US, Canada and Mexico departmental leaders in order to analyze how their respective budget is trending on a monthly basis as well as during key review periods\r\no\tIdentify risks and opportunities for each department in order to make well informed decisions in forecasting future budgeting\r\no\tFulfill ad-hoc financial reporting requests from the CFO, CCO, VP of Sales, as well as department heads.\r\n•\tReview and prepare capital expenditures requests for US, Canada, Mexico and Global Markets and provide recommendation following the approval processes in place at Fresh and in LVMH. \r\n•\tPrepare ad hoc reports and analysis as required and as necessary.\r\n•\tEnsure quality and timeliness of key deliverables that meet expectations while balancing business needs \r\n•\tDevelop process improvements\r\n\r\nWhat you will learn in the first 6 months: \r\n•\t Financial reporting and planning processes, tools, and critical metrics at Fresh central, regional, and market level.\r\n•\tBusiness and financial goals of Fresh North America and global markets, inclusive of both the long-term vision and mid-term/short-term goals.\r\n•\tMarket knowledge and Fresh strategy and approaches in a diversified, dynamic, and highly driven region\r\nWhat you will achieve in 12 months:\r\n•\t Gain global exposure to markets’ performance and organize monthly review.\r\n•\tBecome a highly trusted partner to all cross-functional incumbents. \r\n•\tProvide key financial information and recommendations to top management that will ultimately help steer the North America and Global financial strategy. \r\n\r\nPhysical Requirements: \r\n•\tMust be able to remain in a stationary position on average of 7.5 hours/day. \r\n•\tLight to moderate lifting may be required. \r\n•\tWhile performing the duties of this job, the employee may be regularly required to stand, sit, reach, stoop, kneel, and operate a computer, telephone, and keyboard.",
     "creationDate": "2026-11-02T16:38:43Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -5043,100 +5036,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "2",
-      "6",
-      "7",
-      "17",
-      "21",
-      "26",
-      "171",
-      "234",
-      "244",
-      "321",
-      "322",
-      "326",
-      "315"
+      "[\"2\",\"6\",\"7\",\"17\",\"21\",\"26\",\"171\",\"234\",\"244\",\"321\",\"322\",\"326\",\"315\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "26",
-        "specializationParentId": "216",
-        "specializationLabel": "Communication",
-        "specializationLabelEn": "Communication"
-      },
-      {
-        "specializationId": "171",
-        "specializationParentId": "227",
-        "specializationLabel": "Relations Internationales",
-        "specializationLabelEn": "International Relations"
-      },
-      {
-        "specializationId": "234",
-        "specializationParentId": "227",
-        "specializationLabel": "Affaires et études européennes",
-        "specializationLabelEn": "European affairs and studies"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "321",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance Verte et Responsable",
-        "specializationLabelEn": "Finance Verte et Responsable"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      },
-      {
-        "specializationId": "315",
-        "specializationParentId": "193",
-        "specializationLabel": "E-commerce",
-        "specializationLabelEn": "E-commerce"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "This role focuses on managing the complete Order-to-Cash process, ensuring customer orders are accurately processed from receipt through delivery and invoicing. It serves as the primary point of contact for customers regarding order status, deliveries, invoicing, returns, and claims. The position requires close collaboration with supply chain, logistics, sales, finance, marketing, and planning teams to ensure smooth operations and high service levels. It involves resolving delivery challenges, stock shortages, and customer issues while maintaining strong customer relationships. The role also contributes to continuous improvement initiatives aimed at enhancing customer service performance and operational efficiency.\n\nManage customer orders throughout the entire Order-to-Cash cycle, from order entry to invoicing.\nMonitor and communicate order, delivery, and invoice status to customers and internal stakeholders.\nResolve delivery issues, stock shortages, returns, refusals, and customer claims in a timely manner.\nCoordinate with logistics providers and internal teams to validate and release blocked orders.\nSupport customer service excellence and participate in process improvement and operational optimization projects.",
     "creationDate": "2026-09-15T14:11:59Z",
     "missionStartDate": "2027-01-01T00:00:00",
