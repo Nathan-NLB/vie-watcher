@@ -1879,16 +1879,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Au Canada, l’activité s’appuie sur une structure agile basée à Toronto et intervenant sur des projets situés dans plusieurs provinces. Cette organisation implique de travailler au quotidien avec de nombreux interlocuteurs à distance et offre un environnement particulièrement transversal, où autonomie, coordination et collaboration sont essentielles.\nLe contrôleur financier junior sera responsable à la fois de la gestion de la comptabilité, de la trésorerie, du contrôle des coûts, de la fiscalité ainsi que du reporting interne de l'entreprise. Il participera également à divers sujets administratifs tels que les ressources humaines ou les affaires juridiques, en coordination avec les spécialistes du groupe.\n\nRattachement hiérarchique : RAF pays\n\n\nResponsabilités : \n\nComptabilité, trésorerie et fiscalité\n•\tComptabiliser les opérations dans l’ERP et dans le logiciel de gestion des notes de frais.\n•\tEffectuer les rapprochements mensuels (banques, comptes clients, etc.).\n•\tSaisir les liasses comptables trimestrielles dans l’outil de consolidation du groupe.\n•\tPréparer les revues comptables trimestrielles à destination du siège social.\n•\tPréparer les états financiers annuels en coordination avec le cabinet comptable (CPA) de l’entité locale.\n•\tPréparer les paiements et déclarations des différentes taxes (TPS/TVH, impôt sur les sociétés, etc.) en coordination avec le CPA lorsque nécessaire.\n\nReporting\n•\tPréparer les rapports mensuels dans l’outil de consolidation du groupe.\n•\tProduire différents rapports relatifs aux projets en cours de l’entité locale.\n•\tPréparer les rapports mensuels destinés au département Trésorerie du siège social.\n\nContrôle des coûts\n•\tAssurer le suivi des coûts des projets en cours.\n•\tRéaliser des analyses ponctuelles à la demande de la direction.\n\nAutres sujets administratifs\n•\tCollaborer avec les spécialistes de la paie à l’élaboration des paies mensuelles et gérer les dossiers de paie des employés.\n•\tSuperviser le paiement et le rapprochement des programmes d’avantages sociaux et de retraite.\n•\tAgir en tant que point de contact pour les employés de la filiale, notamment en assurant la gestion de l’ensemble des éléments de rémunération des expatriés.Assurer le suivi de la conformité réglementaire dans les provinces où l’entité locale exerce ses activités.\n•\tAssurer le suivi des obligations d’assurance de l’entité locale.",
     "creationDate": "2026-11-02T10:14:56Z",
     "missionStartDate": "2027-02-01T00:00:00",
