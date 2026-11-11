@@ -1291,16 +1291,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Within the EC Risk, the EGM Market Risk Team is dedicated to the monitoring of EGM activities ensuring the compliance with regulated standards. The team is in charge of:   \n\n- Building risk frameworks aligned with EGM strategy. \n- Providing comprehensive risk views and implement risk frameworks. \n- Delivering regular risk analysis reports and suggest action plans. \n- Reviewing and adjusting risk assessment frameworks. \n- Ensuring adequacy with capital requirements \n- Maintaining efficient relationships with supervision bodies (ACPR, external and internal auditors). \n- Providing risk support to other Global Business Units of Engie \n\n  \nRole: \n\n \n\nOn a daily basis, you will: \n\n- Produce, certify and analyze the different risk indicators of EGM while monitoring and reporting the breaches, \n- Produce detailed analysis on exposures evolutions, \n- Challenge Front Office strategies \n- Adress limits extension \n- Work on ad-hoc projects to improve risk monitoring",
     "creationDate": "2026-11-05T15:06:12Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -2068,16 +2061,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The Senior Manager, FP&A, leads financial planning, analysis, and reporting for Fresh across North America, driving business growth across all channels. This role provides strategic financial guidance and support, contributing to the evaluation and execution of business plans. This position serves as a key communicator between Central and North America leadership, and partners cross-functionally on strategic initiatives, ensuring financial performance aligns with company objectives.\r\n\r\nEssential Duties and Responsibilities\r\n•\tManage and prepare the monthly close review process and reporting, with a dedicated focus on US, Canada and Mexico.\r\no\tAnalyze, manage and review monthly P&L results and variance explanations, preparing comments against budget and prior year for all markets in NA, suggesting corrective measures if needed.  \r\no\tDevelop and present P&L commentary for respective businesses within the US, Canada and Mexico, inclusive of P&L by retailer\r\no\tWork closely with A/R, Sales Admin and Marketing teams within the US, Canada and Mexico, following up all sorts of chargebacks from retailers monthly.\r\no\tWork closely with the Accounting team ensuring the accuracy of the books.\r\n•\tPrepare monthly Net Sales/P&L comments by channel for US, Canada and Mexico for top Management.\r\n•\tDevelop scorecards that will provide insightful information to executive team (such as, but not limited to AR/DSO sales trend analysis by channel and door - wholesale vs retail and weeks of supply, etc.).\r\n•\tPrepare monthly Sales Outlook (forecasted sales of the next 4 months), in coordination with Sales and Digital teams, providing a consolidated view and analysis of the performance in North America to Top management (US and Global).\r\n•\tManage the delivery of all performance commitments and reporting requests from Global Finance, fulfilling the deadlines established. Coordinate all key parts to make sure that all requests are answered on time and in accurate manner.\r\n•\tManage short- and long-term financial planning Budgets / Forecasts (R1, R2, Budget) process with the Heads of Departments of US (Marketing, Digital, Sales…): review and challenge main assumptions, provide recommendations.\r\n•\tOversee all aspects of the P&L for Fresh.com in the North American market\r\n•\tDepartmental Partnership\r\no\tServe as the key finance partner to all US, Canada and Mexico functional departments involved in the wholesale business, inclusive of Marketing, E-Retail, and Sales Administration\r\no\tOwn entire Visual Merchandising and Store Design budget communication for all North America to ensure alignment across channels\r\no\tLead meetings with US, Canada and Mexico departmental leaders in order to analyze how their respective budget is trending on a monthly basis as well as during key review periods\r\no\tIdentify risks and opportunities for each department in order to make well informed decisions in forecasting future budgeting\r\no\tFulfill ad-hoc financial reporting requests from the CFO, CCO, VP of Sales, as well as department heads.\r\n•\tReview and prepare capital expenditures requests for US, Canada, Mexico and Global Markets and provide recommendation following the approval processes in place at Fresh and in LVMH. \r\n•\tPrepare ad hoc reports and analysis as required and as necessary.\r\n•\tEnsure quality and timeliness of key deliverables that meet expectations while balancing business needs \r\n•\tDevelop process improvements\r\n\r\nWhat you will learn in the first 6 months: \r\n•\t Financial reporting and planning processes, tools, and critical metrics at Fresh central, regional, and market level.\r\n•\tBusiness and financial goals of Fresh North America and global markets, inclusive of both the long-term vision and mid-term/short-term goals.\r\n•\tMarket knowledge and Fresh strategy and approaches in a diversified, dynamic, and highly driven region\r\nWhat you will achieve in 12 months:\r\n•\t Gain global exposure to markets’ performance and organize monthly review.\r\n•\tBecome a highly trusted partner to all cross-functional incumbents. \r\n•\tProvide key financial information and recommendations to top management that will ultimately help steer the North America and Global financial strategy. \r\n\r\nPhysical Requirements: \r\n•\tMust be able to remain in a stationary position on average of 7.5 hours/day. \r\n•\tLight to moderate lifting may be required. \r\n•\tWhile performing the duties of this job, the employee may be regularly required to stand, sit, reach, stoop, kneel, and operate a computer, telephone, and keyboard.",
     "creationDate": "2026-11-02T16:38:43Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -4203,16 +4189,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Within the Lynxeo Group transformation program nexT, the purpose of this junior PMO role is to support international rollout projects while being part of a structured talent development journey. \nThe position aims to contribute to nexT deployment activities as a PMO support resource, while progressively developing project management, coordination, and change facilitation skills in an international environment. \nThis role is also designed to support the creation of an international PMO talent pool, combining operational contribution to projects and long‑term employability within the Group.",
     "creationDate": "2026-10-26T08:48:35Z",
     "missionStartDate": "2027-01-01T00:00:00",
