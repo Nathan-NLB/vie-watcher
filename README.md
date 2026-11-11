@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **11/11/2026 11:15:44**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **11/11/2026 11:30:58**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2326,75 +2326,6 @@ Cette mission s'adresse à un(e) candidat(e) souhaitant acquérir une expérienc
 </details>
 
 <details>
-<summary><strong>FINANCIAL CONTROLLER - BARCELONA (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 29/10/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes du poste de Financial Controller à Barcelone, grâce à sa formation en contrôle de gestion, son expérience significative en PME et sa maîtrise d'Excel et Power BI. Ses compétences linguistiques en anglais et en espagnol (B1) complètent très bien ce profil, malgré l'attente d'un espagnol courant par l'entreprise.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247710](https://mon-vie-via.businessfrance.fr/offres/247710)
-
-**Description du poste**
-
-Envie de lancer votre carrière dans un environnement international et stimulant ?
-Rejoignez SII et vivez une expérience humaine et technologique unique !
-
-🚀 VOS MISSIONS: 
-En tant que Financial Controller vous serez intégré(e) à l’équipe financière internationale et participerez au suivi opérationnel et à l’analyse des activités financières.
-Votre rôle sera organisé en deux volets principaux :
-1.	CONTRÔLE FINANCIER 
-Gestion des clotures 
-•	Collecte, fiabilisation et analyse mensuelle et trimestrielle de l’activité (P&L)
-•	Elaboration et fiabilisation des Budgets annuels et trimestriels
-•	Analyses de performance et mise en place de mesures correctives (Activité, Facturation, Coût, Marge, Prévisions, Trésorerie)
-•	Synthèse et communication mensuelle des résultats à la Direction
-•	Coordination avec les équipes comptables du groupe et les équipes supports des filiales (ADV, Paie, Business, IT,…)
-Analyses 
-•	Analyse de la performance des entités et mise en place de mesures d’amélioration
-•	Suivi et contrôle du CA, FAE, FNP, marges, OPEX, CAPEX
-•	Réalisation d'audits de coûts des filiales
-•	Suivi du BFR, DSO, trésorerie et de l’endettement de la filiale
-
-2.	CONTRÔLE OPERATIONNEL 
-Amélioration continue
-•	Responsable de la fiabilité des données extra financières (ex. Suivi des effectifs)
-•	Production et amélioration des modèles de rapports financiers (résultats, prévisions, trésorerie)
-•	Elaboration de rapports et développement d’indicateurs clés de performance (KPIs)
-•	Responsable du suivi et du bon déploiement de nouveaux outils d’analyse (marges, performance), notamment via Power BI
-Contributions ad hoc
-•	Contribution aux projets transverses et aux initiatives d’amélioration de la zone internationale
-•	Participation dans des projets d’acquisition
-•	Participation à des audits ponctuels (P&L et Bilan)
-
-**Profil recherché**
-
-👤 VOTRE PROFIL
-•	Une formation Bac+5 (école de commerce ou master CCA ou DSCG) 
-•	Une excellente maîtrise de l’anglais, et de l’espagnol à l’oral comme à l’écrit
-•	Une première expérience en audit ou en controle de gestion
-•	Un sens prononcé de l’écoute et de l’organisation
-•	De l’engagement, du dynamisme, de la rigueur, de l’ambition et de la réactivité
-
-🌍 POURQUOI NOUS REJOINDRE ?
-•	Expérience confirmée en management financier et en pilotage de transformations pour soutenir la scalabilité du groupe dans la région.
-•	Un tremplin pour évoluer rapidement
-•	L’intégration dans une équipe dynamique, bienveillante et certifiée Great Place To Work
-Prêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !
-
-🔎 LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !
-Si votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !
-
-🏢 QUI SOMMES-NOUS ?
-Le groupe SII est au cœur de l’innovation technologique, accompagnant de grands comptes dans des secteurs d’ingénierie variés.
-Rejoindre SII, c’est s’engager dans une aventure collective : Let’s Tech Together !
-Cette promesse incarne notre ambition commune : construire ensemble le futur technologique, dans un cadre où autonomie, innovation et épanouissement professionnel vont de pair.
-Alors si ces valeurs vous parlent, rejoignez-nous !
-
-</details>
-
-<details>
 <summary><strong>AUDIT/ contrôle de gestion /  Financements et modèles économiques (H/F)</strong> · 9S58 · ABIDJAN, COTE D'IVOIRE · 2 541,92 €/mois</summary>
 
 - **Entreprise :** 9S58
@@ -3680,56 +3611,6 @@ Excellentes compétences en communication et relationnelles.
 Très bonne capacité d'organisation.
 Personne proactive, fiable et capable de gérer plusieurs priorités dans un environnement exigeant.
 Maîtrise courante de l'anglais ; la connaissance de l'allemand constitue un avantage.
-
-</details>
-
-<details>
-<summary><strong>Comptable international Multi-pays (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 23/10/2026
-- **Compatibilité avec ton profil :** 68 % — Nathan possède le niveau d'études requis (Master), d'excellentes compétences sur Excel et correspond très bien aux critères géographiques (Barcelone) et linguistiques. Néanmoins, l'offre est fortement axée sur de la comptabilité générale et technique (saisie, lettrage, déclarations), ce qui diverge du parcours et des aspirations du candidat centrés sur le contrôle de gestion et le FP&A.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245978](https://mon-vie-via.businessfrance.fr/offres/245978)
-
-**Description du poste**
-
-Dans le cadre de notre développement et la structuration de notre activité à l’international, nous souhaitons recruter un VIE Comptable International au sein d’un share service center pour le groupe basé à Barcelone et en charge de la tenue comptable de plusieurs filiales dans le cadre du passage à un nouvel outil comptable.
-
-Mission à pourvoir asap.
-Localisation : Barcelone
-
-Vos missions : Réviser la saisie comptable pour plusieurs filiales du groupe dans le cadre de l’implémentation d’un nouveau logiciel et de la réinternalisation de la fonction comptable au sein d’un service partagé basé à Barcelone.
-
-Les missions principales dans ce cadre seront :
-- Révision de la saisie des écritures comptables pour les sociétés du groupe assignées, en respect des normes comptables applicables dans chaque pays.
-- Vérification des notes de frais,
-- Révision des rapprochements bancaires,
-- Préparation des fichiers de paiements fournisseur,
-- Révisions des comptes clients et fournisseurs, du lettrage et des autres comptes de bilan,
-- Clôtures comptables mensuelles : révision des comptes de bilan et compte de résultat et préparation des écritures de clôtures mensuelles (FNP, CCA, WIP ..)
-- Préparation des données nécessaires aux déclarations fiscales afin de les transmettre pour validation.
-- Préparation des fichiers de liasses sociales pour la consolidation groupe.
-
-Liste non exhaustive, les missions peuvent évoluer au cours de la période.
-
-
-Les Avantages
-- Entreprise dynamique, petite structure très horizontale malgré plus de 600 employés pour la filiale espagnole. Et une dynamique de croissance et de coopération avec le groupe et les autres filiales.
-- Ambiance de travail très agréable où il est facile de s’intégrer et de rapidement apporter (entreprise élue « great place to work »).
-
-- Groupe français et présent à l’international sur 3 continents avec de nombreuses nationalités représentées.
-- Interactions multiples avec au moins 2 filiales différentes.
-
-**Profil recherché**
-
-- Formation : Business school, Master, DSCG.
-- Français courant (impératif écrit/oral), espagnol et anglais niveau professionel (B2).
-- Maîtrise des outils Excel, expérience avec l’utilisation d’un ERP.
-- Expérience en comptabilité requise.
-- Prise d’initiative, curiosité, travail en équipe, esprit critique.
 
 </details>
 
