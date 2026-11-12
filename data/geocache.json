@@ -666,5 +666,10 @@
   "entreprise|airbus|singapour|singapour": {
     "lat": 1.4046963,
     "lon": 103.857537
+  },
+  "entreprise|societe pour l'informatique industrielle|augsburg|allemagne": null,
+  "ville|augsburg|allemagne": {
+    "lat": 48.3690341,
+    "lon": 10.8979522
   }
 }

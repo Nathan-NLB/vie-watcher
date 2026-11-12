@@ -8,11 +8,75 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **12/11/2026 15:01:09**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **12/11/2026 15:15:55**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>FINANCE TRANSFORMATION & DATA – ALLEMAGNE (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · AUGSBURG, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
+- **Lieu :** AUGSBURG, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 12/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248263](https://mon-vie-via.businessfrance.fr/offres/248263)
+
+**Description du poste**
+
+Envie de lancer votre carrière dans un environnement international et stimulant ?
+ Rejoignez SII et vivez une expérience humaine et technologique unique !
+
+🚀 LE CONTEXTE
+Au sein de l’équipe Finance de SII Allemagne, basée à Augsburg, vous accompagnez la transformation de la fonction finance.
+Votre objectif : réduire les tâches manuelles, automatiser les processus et améliorer la qualité des données, notamment grâce à Power BI et à l’IA. Vous travaillez en lien étroit avec le contrôle de gestion interne.
+Le poste sera basé à Augsburg, de préférence. Un poste basé à Munich est également possible, avec au moins un jour par semaine sur site à Augsbourg (à environ une heure de route de Munich).
+
+🎯 VOS MISSIONS
+1. Optimisation des processus finance
+· Améliorer les processus dans l’ERP IFS.
+· Optimiser les processus comptables.
+· Documenter et standardiser les procédures.
+
+2. Automatisation et reporting
+· Automatiser les contrôles financiers et les tâches manuelles liées au processus de clôture, en s'appuyant sur des outils tels que l'IA, Power Automate, etc.
+· Développer les outils de reporting et de pilotage sous Power BI et Microsoft Fabric.
+
+3. Qualité des données
+· Garantir la qualité et la cohérence des données entre les outils (HubSpot et outils internes).
+· [Mettre en place des contrôles de cohérence automatisés.]
+
+**Profil recherché**
+
+👤 VOTRE PROFIL
+· Une première expérience ou des compétences en IT, contrôle interne et/ou automatisation.
+· Un vrai intérêt pour l’amélioration des processus, les outils et la data.
+· Opérationnel(le), autonome et capable de vous adapter rapidement.
+· À l’aise dans un environnement encore peu structuré, où les procédures restent à formaliser.
+· Curieux(se), proactif(ve) et orienté(e) solutions.
+· Anglais professionnel indispensable, allemand apprécié.
+
+🌍 POURQUOI NOUS REJOINDRE ?
+· Une expérience internationale au sein d'un groupe présent dans plusieurs pays
+· Une forte autonomie et une montée en compétences rapide
+· Des responsabilités concrètes dès votre arrivée
+· L'opportunité d'être un acteur clé de la croissance du groupe
+· De réelles perspectives d'évolution pendant et après votre VIE
+
+Prêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !
+
+🔎 LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !
+Si votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !
+
+🏢 QUI SOMMES-NOUS ?
+Le groupe SII est au cœur de l’innovation technologique, accompagnant de grands comptes dans des secteurs d’ingénierie variés.
+Rejoindre SII, c’est s’engager dans une aventure collective : Let’s Tech Together !
+Cette promesse incarne notre ambition commune : construire ensemble le futur technologique, dans un cadre où autonomie, innovation et épanouissement professionnel vont de pair.
+Alors si ces valeurs vous parlent, rejoignez-nous !
+
+</details>
 
 <details>
 <summary><strong>Finance controlling/consolidation & Cross-functional projects (H/F)</strong> · AIRBUS · SINGAPOUR, SINGAPOUR · 4 063,89 €/mois</summary>
