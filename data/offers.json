@@ -3559,37 +3559,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "21",
-      "202",
-      "259"
+      "[\"5\",\"21\",\"202\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As an intermediate Business analyst in the functional IT practice, you will be responsible for:\r\n- Understanding the activity of our clients: financial markets, Gas and power market\r\n- Knowing front, middle and back-office software as a user\r\n- Following clients’ workshops\r\n- Proposing IT specifications on new activities, new deals or regulations and delivering those specifications to the IT developing team\r\n- Controlling new versions and testing results\r\n- Dealing with reporting duties both for the clients and the firm\r\n- Participating to functional transversal meetings and finding new IT solutions with managers",
     "creationDate": "2026-07-16T14:32:11Z",
     "missionStartDate": "2027-01-01T00:00:00",
