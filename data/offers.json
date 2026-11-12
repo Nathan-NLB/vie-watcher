@@ -1949,16 +1949,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "What is the opportunity?\n\nThe ETF (Exchange-Traded Funds) Service Department develops investment solutions to \nhelp clients reach their financial goals. This position will:\n\n•\tBe a member of the ETF Business Line and be part of the operational teams interacting with Authorised Participants and Client Capital Market teams.\n•\tMaintain strong cooperation with all the stakeholders of CACEIS to deliver operational \nexcellence and best-in-class solutions. \n\nWhat will you do?\n\nETF Operations\n•\tManage the end-to-end processing of ETF primary market creation and redemption orders, ensuring accuracy, timeliness and adherence to service level agreements.\n•\tPrepare and calculate Primary Market Trading Components (PMTC/Actual Cost), including the review of component securities, quantities and pricing.\n•\tProduce ETF cash confirmations.\n•\tKnowledge of Portfolio Composition File (PCF) and its importance for ETFs (preferable but not mandatory) ETF issuance models (ICSD, ICSD+ and Local CSD) and settlement processes to support operational needs.\n•\tEnsure all transactions are processed accurately and in accordance with internal controls, regulatory requirements and operational procedures.\n\nClient & Stakeholder Management\n•\tOperational contact for Authorised Participants (APs), ETF issuers and Capital Markets teams.\n•\tBuild and maintain strong working relationships with internal and external stakeholders to deliver a high standard of client service.\n•\tInvestigate and resolve operational queries, exceptions and settlement issues in a timely manner.\n•\tInvolvement in operational and client service review meetings and support discussions relating to service enhancements and operational improvements.\n\nOperational Excellence\n•\tMonitor operational quality, productivity and risk metrics.\n•\tEnsure appropriate operational controls are followed.\n•\tIdentify opportunities to improve processes, reduce operational risk and enhance efficiency.\n\nCollaboration & Technical Expertise\n•\tShare knowledge and best practice to support team capability and consistency.\n•\tCollaborate effectively with cross-functional teams to deliver operational excellence and successful client outcomes.\n•\tContribute to projects",
     "creationDate": "2026-11-04T17:33:14Z",
     "missionStartDate": "2027-01-01T00:00:00",
