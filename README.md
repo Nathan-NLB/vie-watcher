@@ -8,11 +8,73 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **12/11/2026 15:15:55**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **12/11/2026 15:31:04**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>FINANCE OPERATIONS & CONTROL – ALLEMAGNE (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · AUGSBURG, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
+- **Lieu :** AUGSBURG, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 12/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248264](https://mon-vie-via.businessfrance.fr/offres/248264)
+
+**Description du poste**
+
+Envie de lancer votre carrière dans un environnement international et stimulant ? 
+Rejoignez SII et vivez une expérience humaine et technologique unique !
+
+🚀 LE CONTEXTE
+Au sein de l’équipe Finance de SII Allemagne, basée à Augsburg, vous contribuez à fiabiliser et sécuriser les données financières et opérationnelles de l’entité. Dans une structure en pleine croissance, où les processus sont encore en construction, vous jouez un rôle clé dans la qualité des comptes et l’amélioration des pratiques.
+Le poste sera basé à Augsburg, de préférence. Un poste basé à Munich est également possible, avec au moins un jour par semaine sur site à Augsbourg (à environ une heure de route de Munich).
+
+🎯 VOS MISSIONS
+1. Clôtures comptables
+· Participer aux clôtures mensuelles et annuelles.
+· Analyser le bilan et le compte de résultat (BS & P&L review).
+
+2. Contrôles et réconciliations
+· Réaliser les contrôles et rapprochements comptables.
+· Contrôler le chiffre d’affaires, les encours (WIP) et la production.
+· Assurer les contrôles intercompany.
+
+3. Amélioration continue
+· Identifier les axes d’amélioration des processus et contribuer à leur mise en place.
+· Participer à la formalisation des procédures.
+
+**Profil recherché**
+
+👤 VOTRE PROFIL
+· au moins 1 an d’expérience en comptabilité, en cabinet comptable ou en audit.
+· Opérationnel(le), autonome et capable de vous adapter rapidement.
+· À l’aise dans un environnement encore peu structuré, où les procédures restent à formaliser.
+· Proactif(ve), ouvert(e) d’esprit et à la recherche de challenges.
+· Anglais professionnel indispensable, allemand apprécié.
+
+🌍 POURQUOI NOUS REJOINDRE ?
+· Une expérience internationale au sein d'un groupe présent dans plusieurs pays
+· Une forte autonomie et une montée en compétences rapide
+· Des responsabilités concrètes dès votre arrivée
+· L'opportunité d'être un acteur clé de la croissance du groupe
+· De réelles perspectives d'évolution pendant et après votre VIE
+Prêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !
+
+🔎 LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !
+Si votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !
+
+🏢 QUI SOMMES-NOUS ?
+Le groupe SII est au cœur de l’innovation technologique, accompagnant de grands comptes dans des secteurs d’ingénierie variés.
+Rejoindre SII, c’est s’engager dans une aventure collective : Let’s Tech Together !
+Cette promesse incarne notre ambition commune : construire ensemble le futur technologique, dans un cadre où autonomie, innovation et épanouissement professionnel vont de pair.
+
+Alors si ces valeurs vous parlent, rejoignez-nous !
+
+</details>
 
 <details>
 <summary><strong>FINANCE TRANSFORMATION & DATA – ALLEMAGNE (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · AUGSBURG, ALLEMAGNE · 3 027,63 €/mois</summary>
