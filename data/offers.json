@@ -1487,16 +1487,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Within the EC Risk, the EGM Market Risk Team is dedicated to the monitoring of EGM activities ensuring the compliance with regulated standards. The team is in charge of:   \n\n- Building risk frameworks aligned with EGM strategy. \n- Providing comprehensive risk views and implement risk frameworks. \n- Delivering regular risk analysis reports and suggest action plans. \n- Reviewing and adjusting risk assessment frameworks. \n- Ensuring adequacy with capital requirements \n- Maintaining efficient relationships with supervision bodies (ACPR, external and internal auditors). \n- Providing risk support to other Global Business Units of Engie \n\n  \nRole: \n\n \n\nOn a daily basis, you will: \n\n- Produce, certify and analyze the different risk indicators of EGM while monitoring and reporting the breaches, \n- Produce detailed analysis on exposures evolutions, \n- Challenge Front Office strategies \n- Adress limits extension \n- Work on ad-hoc projects to improve risk monitoring",
     "creationDate": "2026-11-05T15:06:12Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -2586,23 +2579,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9"
+      "[\"8\",\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Votre quotidien à nos côtés ?\r\n\r\nLa société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Responsable Administratif et Financier en VIE.\r\nRattaché à Thomas, Directeur d’Agence, votre objectif est d’accompagner l’agence dans sa gestion administrative et financière. Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international.\r\nVotre poste est basé à George Town, Guyana.\r\n\r\n\r\nVos missions clés consisteront notamment à : \r\n•\tGestion administrative et financière des filiales Friedlander et Friedlander Energie Guyana, en collaboration avec les services du Siège\r\n•\tParticiper Révision de la comptabilité Générale et analytique \r\n•\tPréparer Clôture mensuelle de gestion et reporting\r\n•\tParticiper à la Clôture Trimestrielle Comptable\r\n•\tS’assurer du Contrôle du respect des procédures Groupe\r\n•\tContribuer au suivi de Gestion de la trésorerie\r\n•\tAccompagnement de la croissance & structuration interne\r\n•\tSoutien au support des relations avec les conseils fiscaux, comptables\r\n\r\n\r\nCes missions n’ont pas de secret pour vous ? Nous vous offrons les outils et les moyens à la hauteur de vos ambitions !\r\nUne intégration personnalisée avec Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international durant 2 semaines au sein du siège, à Aix-En-Provence. Tous deux vous formeront sur les process, les outils, le périmètre et ses spécificités et effectuerons un suivi de l’intégration en local.\r\nIl ne manque plus que vous - pour apporter votre contribution personnelle - à cette belle organisation.\r\n\r\nRegardons un peu plus loin, quel futur ?  \r\nChez Ortec, nous considérons que chaque collaborateur doit pouvoir déployer son talent et ses compétences, et donner du sens à son poste. Plus tard, cela se traduit aussi par des opportunités au sein de la Direction Administrative Financière ou dans l’équipe de Direction d’une agence d’exploitation.",
     "creationDate": "2026-09-23T09:11:37Z",
     "missionStartDate": "2027-04-01T00:00:00",
