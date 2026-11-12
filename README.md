@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **12/11/2026 10:31:09**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **12/11/2026 10:45:43**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -262,6 +262,95 @@ Entreprise engagée et inclusive, SII est signataire de la Charte de la Diversit
 Nous sommes également Handi-accueillants et plaçons l’humain au cœur de nos projets.
 
 Alors si ces valeurs vous parlent, rejoignez-nous !
+
+</details>
+
+<details>
+<summary><strong>Quality Engineer Life Sciences (H/F)</strong> · AVERTIM FRANCE · AMSTERDAM, PAYS-BAS · 3 395,60 €/mois</summary>
+
+- **Entreprise :** AVERTIM FRANCE
+- **Lieu :** AMSTERDAM, PAYS-BAS
+- **Indemnité :** 3 395,60 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 12/11/2026
+- **Compatibilité avec ton profil :** 5 % — Incompatibilité totale entre le profil. Le candidat est un contrôleur de gestion spécialisé en finance et data, tandis que l'offre recherche un ingénieur qualité (Quality Engineer) spécialisé dans le secteur des sciences de la vie et des procédés industriels GMP.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/243004](https://mon-vie-via.businessfrance.fr/offres/243004)
+
+**Description du poste**
+
+Avertim Netherlands is currently looking for Quality Engineers able to assist in the continuous expansion of Avertim’s consulting activities in Life Sciences. Located in Amsterdam-Zuid, Avertim Netherlands is a trusted partner by the largest players in the Life Sciences sector.
+
+
+
+As a Quality Engineer, you will play a key role in ensuring GMP compliance by managing and resolving Non-Conformities (NCs) and driving continuous improvement in quality processes. You will collaborate closely with cross-functional teams to investigate deviations, implement corrective and preventive actions (CAPAs), and uphold regulatory standards.
+
+
+
+Key responsibilities:
+
+Lead the investigation, documentation, and resolution of NCs, ensuring timely and effective CAPA implementation, and manage change controls.
+Perform root cause analyses and risk assessments to prevent recurrence of deviations.
+Ensure compliance with GMP, FDA, EMA, and other regulatory requirements in all quality-related activities.
+Collaborate with production, quality control, and regulatory teams to drive improvements in GMP processes.
+Conduct internal audits and support external regulatory inspections.
+Maintain and improve SOPs, batch records, and other GMP documentation.
+Provide GMP training and guidance to operational teams to enhance compliance awareness.
+
+
+Your background:
+
+A Master’s Degree in Engineering, Pharmacy, Life Sciences or related field
+2 years of experience in Pharmaceuticals, Biotech or Medical Devices.
+Hands-on experience with NC management, CAPA implementation, change controls, and deviation investigations.
+Experience in cell & gene therapy is a plus.
+Planning & organization – Planning & organization plans and organizes own work(load) in an effective way by setting priorities and meeting deadlines;
+Communicating & influencing – Communicates with clarity, speaks and writes clearly and to the point; active listener;
+Proficiency in Lean and Six Sigma methodologies or Project Management
+Fluent in English
+
+
+As an Avertimer, you will get the opportunity to:
+
+Immerse yourself into a young, vibrant, fast-growing team at our modern office, located in the Amsterdam business district, de Zuidas
+Enjoy our events, like team activities and afterworks.
+Develop yourself in a place where individuals and ideas matter, in line with our company values:
+
+
+Be yourself
+
+Trust, ownership and respect
+
+Listen and act
+
+
+
+With offices in Brussels, Paris, Frankfurt and Amsterdam you will benefit from our international community. On top of that, we also support the opportunity to perform projects at multiple locations.
+Access various learning and development opportunities and an interesting career track.
+
+
+About Avertim:
+
+Avertim is a uniquely positioned Management Consulting Group that bridges the gap between Strategy and Operations. Our mission is to translate the strategy of our clients into actionable projects and enable the alignment between Business, Technology and Management. Founded in 2007, and headquartered on Brussels’ famous Louise Avenue, Avertim has grown into a European consultancy group with more than 300 consultants and offices in Belgium, France, Germany, and the Netherlands.
+
+
+
+
+
+Looking for a challenging and exciting new step in your career at a recognised international consultancy firm that works with the top players in the Life Sciences sector?
+
+Apply now!
+
+
+
+
+
+At Avertim, we value talent and mindset. No difference will be made during the recruitment process and applicants will receive consideration for employment whatever their gender, marital status, religion, age, color, sexual orientation, nationality or disability, …
+
+**Profil recherché**
+
+A Quality Engineer is a detail-oriented professional responsible for ensuring that products, processes, and systems consistently meet regulatory requirements, industry standards, and customer expectations. Acting at the intersection of engineering, operations, and compliance, the Quality Engineer drives continuous improvement by identifying risks, resolving quality issues, and implementing robust quality management systems.
+In regulated environments such as Life Sciences, the role is critical in maintaining compliance with standards such as GMP and ISO, supporting audits, and ensuring inspection readiness.
+The Quality Engineer collaborates closely with cross-functional teams (e.g., Operations, QA, QC, Engineering) to analyze deviations, perform root cause analysis, and implement corrective and preventive actions (CAPA). They play a key role in improving product reliability, reducing defects, and enhancing overall operational performance.
 
 </details>
 
@@ -3674,95 +3763,6 @@ Team player with the ability to work effectively in a dynamic and international 
 </details>
 
 <details>
-<summary><strong>Quality Engineer Life Sciences (H/F)</strong> · AVERTIM FRANCE · AMSTERDAM, PAYS-BAS · 3 395,60 €/mois</summary>
-
-- **Entreprise :** AVERTIM FRANCE
-- **Lieu :** AMSTERDAM, PAYS-BAS
-- **Indemnité :** 3 395,60 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 26/10/2026
-- **Compatibilité avec ton profil :** 5 % — Incompatibilité totale entre le profil. Le candidat est un contrôleur de gestion spécialisé en finance et data, tandis que l'offre recherche un ingénieur qualité (Quality Engineer) spécialisé dans le secteur des sciences de la vie et des procédés industriels GMP.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/243004](https://mon-vie-via.businessfrance.fr/offres/243004)
-
-**Description du poste**
-
-Avertim Netherlands is currently looking for Quality Engineers able to assist in the continuous expansion of Avertim’s consulting activities in Life Sciences. Located in Amsterdam-Zuid, Avertim Netherlands is a trusted partner by the largest players in the Life Sciences sector.
-
-
-
-As a Quality Engineer, you will play a key role in ensuring GMP compliance by managing and resolving Non-Conformities (NCs) and driving continuous improvement in quality processes. You will collaborate closely with cross-functional teams to investigate deviations, implement corrective and preventive actions (CAPAs), and uphold regulatory standards.
-
-
-
-Key responsibilities:
-
-Lead the investigation, documentation, and resolution of NCs, ensuring timely and effective CAPA implementation, and manage change controls.
-Perform root cause analyses and risk assessments to prevent recurrence of deviations.
-Ensure compliance with GMP, FDA, EMA, and other regulatory requirements in all quality-related activities.
-Collaborate with production, quality control, and regulatory teams to drive improvements in GMP processes.
-Conduct internal audits and support external regulatory inspections.
-Maintain and improve SOPs, batch records, and other GMP documentation.
-Provide GMP training and guidance to operational teams to enhance compliance awareness.
-
-
-Your background:
-
-A Master’s Degree in Engineering, Pharmacy, Life Sciences or related field
-2 years of experience in Pharmaceuticals, Biotech or Medical Devices.
-Hands-on experience with NC management, CAPA implementation, change controls, and deviation investigations.
-Experience in cell & gene therapy is a plus.
-Planning & organization – Planning & organization plans and organizes own work(load) in an effective way by setting priorities and meeting deadlines;
-Communicating & influencing – Communicates with clarity, speaks and writes clearly and to the point; active listener;
-Proficiency in Lean and Six Sigma methodologies or Project Management
-Fluent in English
-
-
-As an Avertimer, you will get the opportunity to:
-
-Immerse yourself into a young, vibrant, fast-growing team at our modern office, located in the Amsterdam business district, de Zuidas
-Enjoy our events, like team activities and afterworks.
-Develop yourself in a place where individuals and ideas matter, in line with our company values:
-
-
-Be yourself
-
-Trust, ownership and respect
-
-Listen and act
-
-
-
-With offices in Brussels, Paris, Frankfurt and Amsterdam you will benefit from our international community. On top of that, we also support the opportunity to perform projects at multiple locations.
-Access various learning and development opportunities and an interesting career track.
-
-
-About Avertim:
-
-Avertim is a uniquely positioned Management Consulting Group that bridges the gap between Strategy and Operations. Our mission is to translate the strategy of our clients into actionable projects and enable the alignment between Business, Technology and Management. Founded in 2007, and headquartered on Brussels’ famous Louise Avenue, Avertim has grown into a European consultancy group with more than 300 consultants and offices in Belgium, France, Germany, and the Netherlands.
-
-
-
-
-
-Looking for a challenging and exciting new step in your career at a recognised international consultancy firm that works with the top players in the Life Sciences sector?
-
-Apply now!
-
-
-
-
-
-At Avertim, we value talent and mindset. No difference will be made during the recruitment process and applicants will receive consideration for employment whatever their gender, marital status, religion, age, color, sexual orientation, nationality or disability, …
-
-**Profil recherché**
-
-A Quality Engineer is a detail-oriented professional responsible for ensuring that products, processes, and systems consistently meet regulatory requirements, industry standards, and customer expectations. Acting at the intersection of engineering, operations, and compliance, the Quality Engineer drives continuous improvement by identifying risks, resolving quality issues, and implementing robust quality management systems.
-In regulated environments such as Life Sciences, the role is critical in maintaining compliance with standards such as GMP and ISO, supporting audits, and ensuring inspection readiness.
-The Quality Engineer collaborates closely with cross-functional teams (e.g., Operations, QA, QC, Engineering) to analyze deviations, perform root cause analysis, and implement corrective and preventive actions (CAPA). They play a key role in improving product reliability, reducing defects, and enhancing overall operational performance.
-
-</details>
-
-<details>
 <summary><strong>V.I.E - Chargé(e) de conformité (H/F)</strong> · SOGECAP · HAMBOURG, ALLEMAGNE · 3 027,96 €/mois</summary>
 
 - **Entreprise :** SOGECAP
@@ -4916,61 +4916,6 @@ Le profil que nous recherchons :
 • Esprit d'équipe et aptitude à collaborer efficacement avec différents intervenants,
 • Bonne capacité d'analyse et de synthèse,
 • Orientation service à la clientèle.
-
-</details>
-
-<details>
-<summary><strong>Contrôleur de gestion junior (H/F)</strong> · FLEXITECH EUROPE · SAN LUIS POTOSI, MEXIQUE · 3 221,54 €/mois</summary>
-
-- **Entreprise :** FLEXITECH EUROPE
-- **Lieu :** SAN LUIS POTOSI, MEXIQUE
-- **Indemnité :** 3 221,54 €/mois
-- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
-- **Publiée le :** 08/10/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux attentes techniques et au niveau d'études requis pour ce VIE en contrôle de gestion industriel. Le principal point d'écart réside dans sa maîtrise de l'espagnol (niveau B1) alors que l'offre exige une langue opérationnelle, mais son niveau d'anglais courant et son expérience solide compensent largement.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245844](https://mon-vie-via.businessfrance.fr/offres/245844)
-
-**Description du poste**
-
-À propos de Flexitech
-
-Flexitech est un équipementier automobile international spécialisé dans la conception et la fabrication de systèmes de freinage et de gestion thermique. Présent dans 7 pays et fort de plus de 1 300 collaborateurs, nous accompagnons les principaux constructeurs automobiles mondiaux en développant des solutions innovantes répondant aux plus hauts standards de qualité, de sécurité et de performance. Rejoindre Flexitech, c'est intégrer un groupe industriel à taille humaine où l'innovation, l'excellence et la collaboration sont au cœur de notre développement.
-www.flexitech.com
-
-Venez nous accompagner à relever les challenges de demain sur notre site Mexicain dans le cadre d'un VIE.
-
-Flexitech renforce ses capacités de pilotage financier sur son site industriel mexicain. En tant que contrôleur de gestion junior, vous participerez à la construction d'une fonction de contrôle de gestion projets et serez en première ligne du déploiement des standards de gestion internalisés du Groupe.
-Ce rôle offre l’opportunité de développer une fonction en contexte international, au sein d'un environnement automobile sécurisé et structuré.
-
-1. Prévision et suivi du chiffre d’affaires
-Assurer la continuité du suivi de l'IHS (outil statistique) afin de fiabiliser les prévisions, d’anticiper les lancements de programmes et les fins de programmes.
-Assurer le suivi quotidien des ventes et fournir les analyses qui en découlent (effet volume, mix, prix, etc.).
-Participer à l’élaboration des forecasts et des budgets.
-2. Gestion des Données Clients & Support Commercial
-Mettre à jour et valider les prix de vente clients en collaboration avec l’équipe commerciale.
-Challenger et valider les données clients (raw material index.)
-3. Pilotage des Projets & Controlling Opérationnel (Priorité stratégique)
-Développer et structurer une fonction de contrôle projets (business case, analyse du ROI, suivi des écarts).
-Mettre en place un suivi des outillages (COT) et de leur rentabilité.
-Préparer les revues de contrôle projets avec les équipes opérationnelles et le Finance Manager
-4. Reporting Frais Généraux & Efficience Opérationnelle
-Structurer et déployer un reporting des frais généraux par fonction.
-Assurer le suivi des indicateurs de dépense locale (IDL), des frais généraux et des écarts par rapport au budget.
-
-**Profil recherché**
-
-Formation & Expérience
-• Master 2 (Bac+5) : école d'ingénieurs, école de commerce ou équivalent en gestion / finance
-• Une première expérience professionnelle en environnement industriel
-• Expérience internationale fortement souhaitée 
-Compétences Clés
-• Anglais et espagnol opérationnels (impératif)
-• Rigueur analytique et excellente organisation ; goût du détail et du terrain
-• Une expérience sur ERP (SAP ou équivalent) serait un plus
-Qualités Personnelles
-• Dynamique et curieux, capable de relever des défis en contexte international
-• Autonome et collaboratif : bon relationnel avec les équipes opérationnelles et financières
-• Persévérant dans la mise en place de processus et de reportings, avec une bonne tolérance aux premières étapes non optimisées
 
 </details>
 
