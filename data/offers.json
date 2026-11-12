@@ -395,65 +395,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "26",
-      "109",
-      "200",
-      "201",
-      "245",
-      "248",
-      "259"
+      "[\"8\",\"26\",\"109\",\"200\",\"201\",\"245\",\"248\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "26",
-        "specializationParentId": "216",
-        "specializationLabel": "Communication",
-        "specializationLabelEn": "Communication"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "245",
-        "specializationParentId": "24",
-        "specializationLabel": "Architecture des systèmes d'information",
-        "specializationLabelEn": "IT architecture / Cloud and virtualisation"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nBig Bang est une société d’experts-conseils qui aide les organisations à optimiser et à simplifier les processus par la planification d’une stratégie numérique, par le déploiement de solutions d’affaires et par la réalisation d’harmonisation organisationnelle. Notre objectif est de créer de la valeur tangible pour nos clients en les aidant à rationaliser les systèmes opérationnels, notamment par l’interconnexion de l’information entre les systèmes, par l’unification de la stratégie et de la technologie, et par le soutien au développement de l’expertise organisationnelle. Nous avons pour vision d’offrir à chaque personne de chaque organisation un accès direct à l’information qui lui permet de faire le meilleur travail possible, et ce, en tout temps et n’importe où. Grâce à notre siège à Montréal (Canada) et à nos bureaux en France, à l’île Maurice, à Toronto et aux États-Unis, nous servons des entreprises de toutes tailles partout dans le monde.\n\n\nPoste et missions :\n\n Rôle:\nAnalyser les besoins d'affaires, les exigences et les processus et participer à la configuration des solutions infonuagiques pour combler et surpasser les attentes du client. Participer à l'implantation ou à l'intégration de différents systèmes tels que les plateformes de commerce électronique et de marketing, les logiciels de comptabilité et de paie et les solutions pour la gestion de la fabrication, de l'approvisionnement et de l'entreposage.\n\nResponsabilités principales:\n\nOpérations (70%)\nAnalyser les besoins d'affaires, les requis, les flux de travaux, les processus et les applications des clients\nDéfinir, cadrer et documenter les solutions appropriées pour améliorer, automatiser et accélérer l'amélioration des processus\nConfigurer, tester, déployer, soutenir et dépanner les systèmes applicatifs pour répondre aux exigences des processus d'affaires\nAnalyser les exigences en production de rapports, faciliter le développement et la validation de rapports\nCommuniquer régulièrement avec les gestionnaires de projet à propos de l'état d'avancement du travail en cours\n\nService à la clientèle (15%)\nAssurer un service à la clientèle hors pair en respectant nos meilleures pratiques\nAgir en tant que soutien primaire pour les clients actuels\nRépondre aux appels des clients et fournir une aide immédiate pour les demandes urgentes\n\nVentes (10%)\nConfigurer les environnements de démonstration servant à la présentation des solutions infonuagiques aux clients potentiels\nDévelopper des fonctionnalités particulières selon les exigences spécifiques de clients potentiels et adapter des échantillons de données à leur industrie\nDocumenter l'énoncé des travaux\nDonner des présentations aux clients potentiels à propos de solutions particulières ou de domaines d'expertise pointus\n\nGestion des connaissances (5%)\nÉlaborer des plans de formations basés sur les spécifications du client\nAssurer la formation des usagers durant les projets d'implémentation\nCoacher les collègues junior sur les solutions pourvues et supportées par l'organisation\nPréparer des présentations à l'interne à propos des leçons apprises lors de projets pour clients, des tendances et meilleures pratiques de l'industrie, trucs et astuces et nouvelles capabilités des systèmes\nOrganiser et mener des séances de travail pour utilisateurs expérimentés",
     "creationDate": "2026-10-13T12:33:17Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -675,37 +619,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "68",
-      "144",
-      "180",
-      "365"
+      "[\"68\",\"144\",\"180\",\"365\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "365",
-        "specializationParentId": "255",
-        "specializationLabel": "Energies renouvelables",
-        "specializationLabelEn": "Energies renouvelables"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Context :\n\nMarket Analysis (ECMA) is an Expertise Center within ENGIE Supply & Energy Management (S&EM), which delivers a broad spectrum of services related to energy markets including supply and demand analysis and meteorological forecasts, investment economics, strategic studies, regulatory advisory and ESG requirements.\n\nWithin ECMA, the Long-Term Power & Grid Modelling team provides insights to several clients within the ENGIE Group by developing or leveraging advanced quantitative forecasting models. The transversality of the work leads to a comprehensive overview of power markets across all relevant horizons:\n•\t0-5 years: Support S&EM trading activities in Central Western Europe (spot & forward along liquid curve) \n•\t5-10 years: Provide insights on grid congestion risk to portfolio managers across European markets in order to optimize mid-term risk mitigation decisions \n•\t<25 years: In charge of the Group’s Corporate Scenarios which deliver long-term views on power prices, technological mix and investment profitability for key ENGIE geographies (EU, USA, Brazil,…)\n\n\n\n\nYou will be part of the Long-Term Power: Europe team, focusing on projects for the longer-term in Europe.\nRole: Power Market Analyst \nIn order to bring the highest standard of analytical services to ECMA’s clients, we are looking to expand our team with a new V.I.E based in Brussels (Belgium):\n\nIn the LT Power Europe team, you will be part of a transversal team delivering quantitative projects for multiple internal ENGIE clients such as the global Strategy Department, Renewable & Flexibility project developers, portfolio managers or energy traders. You will be working alongside passionate experts with multi-faceted backgrounds who like to be challenged on complex energy-related questions.\n\nTogether with your project team, your primary goal will be to support ENGIE’s functional and operational entities across multiple geographies in better understanding the transformation of the energy landscape in increasingly complex and uncertain environments. Concretely in this role, you will: \n\n•\tWork on the long-term power price projections for Europe, used widely in the Group.\n\n•\tOperate & improve large-scale optimization models to evaluate the long-term evolution of the energy sectors (technology mix, actors & competition, regulation, carbon footprint, costs…) across multiple power systems – mainly EU.\n\n•\tSupport ENGIE’s entities on specific questions concerning strategic, regulatory and market challenges to achieve the societal & Group decarbonization ambition. Evaluate macro-trends and perform techno-economic analyses (regional/country level).\n\n•\tUnderstand how to translate the specificities of each market and timeframe into appropriate modelling requirements. Actively participate to the reputation and relevance of the department by ensuring consistency across client & timeframe, and by challenging existing practices.\n\n•\tCommunicate your findings to different stakeholders within the Group.\n\nThis is an excellent opportunity for someone eager to kickstart their career in energy markets within a Group committed to the ecological transition.",
     "creationDate": "2026-11-09T11:49:54Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1851,44 +1767,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "17",
-      "21",
-      "320",
-      "327"
+      "[\"6\",\"17\",\"21\",\"320\",\"327\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "327",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique et Sciences des Données",
-        "specializationLabelEn": "Informatique et Sciences des Données"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Heetch met en relation chauffeurs et passagers sur plusieurs marchés. Après une profonde restructuration, nous sommes aujourd’hui une petite équipe resserrée et agile, avec un seul objectif : remettre l’entreprise sur une trajectoire durable. Ce ne sera pas facile. Mais rares sont les endroits où vous pourrez avoir autant d’impact aussi tôt.\r\n\r\nNos valeurs :\r\n\r\nJouer collectif\r\nFaire bouger les choses (l’impact avant tout)\r\nÊtre bienveillant (nous sommes conscients des enjeux sociaux et nous nous écoutons les uns les autres)\r\nPenser différemment\r\n\r\nVous serez notre référent(e) en Business Analysis et en données business. Vous serez rattaché(e) directement au CEO et serez le bras droit des General Managers, des Growth Managers et du/de la Head of Customer Service.\r\n\r\nVous aurez un accès complet à nos données et la liberté de construire vos propres routines. Vos interlocuteurs vous feront part de leurs retours et de leurs intuitions. Votre mission sera d'aider à les transformer en problématiques qui comptent vraiment, de remonter jusqu’à la cause racine et d’élaborer des solutions avec les équipes concernées.\r\n\r\nCe poste s’adresse à quelqu’un qui est à l’aise avec l’ambiguïté et qui veut voir son travail se refléter dans les résultats de l’entreprise. Et les sujets à améliorer ne manquent pas.\r\n\r\nQue ferez-vous ?\r\n\r\nMarketplace & pricing : suivre de près l’offre, la demande et la fiabilité, et d'aider à traduire vos observations en recommandations claires sur le pricing et les paramètres de la marketplace.\r\nGrowth :aider à analyser en profondeur les funnels d’acquisition et la rétention, identifier les plus grosses opportunités et mesurer ce qui fonctionne, des nouvelles initiatives à nos actions récurrentes d’acquisition et de CRM.\r\nService client : aider le/la Head of Customer Service à définir la stratégie et la roadmap projets, suivre les KPI, construire des dashboards et optimiser nos outils et automatisations.\r\nTrust & Safety : aider à suivre le comportement des chauffeurs et des passagers et son impact sur la marketplace, puis ajuster nos processus disciplinaires et nos automatisations pour maintenir l’équilibre.\r\nAutomatisation : aider à automatiser des processus pour les équipes Growth, Produit et Service client, grâce à des workflows automatisés et des outils d’IA comme Claude.",
     "creationDate": "2026-11-03T15:45:33Z",
     "missionStartDate": "2027-01-01T00:00:00",
