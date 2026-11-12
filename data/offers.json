@@ -1732,16 +1732,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5"
+      "[\"5\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Within CACEIS, the General Inspection function is an integral part of the internal control framework. General Inspection is a single business line bringing together teams based in Paris, Ireland, Luxembourg, Munich, Milan, Amsterdam, Kuala Lumpur and Madrid. It conducts periodic control missions within CACEIS. These missions aim to ensure that external and internal rules are complied with, to assess the level of risk management and operational effectiveness of processes within the Bank. General Inspection identifies areas for improvement and issues recommendations for action in the inspection report published at the end of each mission. It then monitors their complete and timely implementation throughout the year.\n\nIn this context, the VIE will join the General Inspection team of CACEIS Bank Ireland Branch to carry out Group missions, working with a team junior and experienced staff located internationally (France, Ireland, Luxembourg, Germany, the Netherlands, Spain, Italy, Malaysia).\n\nYour missions\nYou will be an integral part of the General Inspection team as a VIE and will contribute to missions carried out in Ireland and abroad, under the supervision of a lead inspector.\n\nYou will be involved in the entire audit process, from the planning phase through to the issuance of the audit report. In this context, you will be in position to: \n-\tParticipate and lead initial meetings with auditees to define the scope of work, performing investigation tests in line with internal audit methodologies, drafting documented reports and travels to other CACEIS locations abroad. \n-\tContribute to the preparation of recommendations designed to strengthen the Bank’s internal control framework and to the follow up of these recommendations, ensuring that the risk mitigation measures identified during the missions are fully and timely implemented.\n-\tPrepare Internal Audit reporting and related documentation for local management and relevant governance committees, supporting clear communication of key findings, risks and recommended actions.\n-\tSupport and lead discussion of the results with both auditees and the managers in a clear and convincing manner.\n-\tBe part of the continuous audit monitoring process at local level, supporting the General Inspection team\n\nThis role provides an opportunity to develop auditing expertise and risk management, through the application of the audit methodology to abroad range of business line and support functions across the bank, fostering specialized knowledge in areas such as asset servicing, IT, or banking regulation.",
     "creationDate": "2026-11-04T17:06:42Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1963,16 +1956,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "320"
+      "[\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Au sein des départements Back Office et Trésorerie, le Business Analyst sera rattaché fonctionnellement aux responsables des équipes concernées. Cette mission lui permettra d’acquérir une vision transverse des activités financières et de trésorerie du Groupe, tout en contribuant à la transformation et à l’amélioration des processus existants. Il participera à la conception, à la refonte et à l’automatisation des reportings financiers et des outils d’aide à la décision, principalement sous Power BI et Excel. Ces outils couvriront notamment le suivi du cash pooling, des prévisions de trésorerie, des paiements, de l’endettement Groupe et des risques financiers.",
     "creationDate": "2026-10-15T15:55:32Z",
     "missionStartDate": "2027-01-01T00:00:00",
