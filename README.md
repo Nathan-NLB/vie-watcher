@@ -8,11 +8,72 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **12/11/2026 10:15:42**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **12/11/2026 10:31:09**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Financial Controller & Comptable International - Barcelone (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
+- **Lieu :** BARCELONE, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 12/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248228](https://mon-vie-via.businessfrance.fr/offres/248228)
+
+**Description du poste**
+
+Envie de lancer votre carrière dans un environnement international et stimulant ?
+Rejoignez SII et vivez une expérience humaine et technologique unique !
+
+🚀 VOS MISSIONS
+Intégré(e) à l’équipe financière internationale basée à Barcelone, vous occuperez un poste hybride entre contrôle de gestion et comptabilité, au cœur de la structuration de notre back office.
+
+Votre rôle s’articulera autour de trois volets :
+1. CONTRÔLE FINANCIER – ESPAGNE 
+•	Financial controlling de la zone Espagne East : collecte, fiabilisation et analyse mensuelle du P&L
+•	Reporting consolidé de l’Espagne (East et West) et communication des résultats à la Direction
+•	Élaboration et suivi des budgets et prévisions (activité, facturation, coûts, marge, trésorerie)
+•	Suivi et contrôle du CA, FAE, FNP, marges, OPEX, BFR et DSO
+•	Développement de KPIs et de modèles de reporting, notamment via Power BI
+2. COMPTABILITÉ D’UNE FILIALE DU GROUPE
+•	Gestion de la comptabilité d’un pays du groupe, en supervisant un(e) comptable junior
+•	Révision des écritures comptables, des rapprochements bancaires et des comptes clients / fournisseurs
+•	Clôtures mensuelles : révision du bilan et du compte de résultat, écritures de clôture (FNP, CCA, WIP…)
+•	Préparation des données fiscales et des liasses pour la consolidation groupe
+3. STRUCTURATION DU SHARED SERVICE 
+•	Conception et mise en place d’un process écrit de suivi de la comptabilité au sein du shared service center
+•	Participation aux projets transverses et aux initiatives d’amélioration continue de la zone internationale
+
+**Profil recherché**
+
+👤 VOTRE PROFIL
+•	Formation Bac+5 : école de commerce, master CCA ou DSCG
+•	Une première expérience en audit, contrôle de gestion ou comptabilité
+•	Anglais et espagnol courants (B2 minimum, à l’oral comme à l’écrit)
+•	Bonne maîtrise d’Excel ; une expérience sur un ERP et/ou Power BI est un plus
+•	Rigueur, sens de l’organisation, esprit critique et goût pour l’amélioration des process
+
+🌍 POURQUOI NOUS REJOINDRE ?
+•	Un poste complet qui vous fera découvrir à la fois le contrôle de gestion, la comptabilité et la structuration d’une fonction finance
+•	De nombreuses interactions avec plusieurs filiales et cultures
+•	Un vrai tremplin pour évoluer rapidement
+•	Une équipe dynamique et certifiée Great Place To Work
+
+Prêt(e) à relever ce défi ? Rejoignez l’aventure !
+
+🔎 LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !
+Si votre CV est retenu, Juliane vous contactera pour échanger sur votre parcours et vos ambitions. Et ça, nous préférons le faire de vive voix !
+
+🏢 QUI SOMMES-NOUS ?
+Le groupe SII est au cœur de l’innovation technologique, accompagnant de grands comptes dans des secteurs d’ingénierie variés. 
+Rejoindre SII, c’est s’engager dans une aventure collective : Let’s Tech Together ! 
+Cette promesse incarne notre ambition commune : construire ensemble le futur technologique, dans un cadre où autonomie, innovation et épanouissement professionnel vont de pair.
+
+</details>
 
 <details>
 <summary><strong>CONTROLEUR DE GESTION (H/F)</strong> · COFIDIS · VARSOVIE, POLOGNE · 2 721,91 €/mois</summary>
@@ -69,6 +130,138 @@ Le saviez-vous ?
 Cofidis Group vient d'être certifié Best Workplace Europe ! Cette distinction témoigne de la qualité de notre environnement de travail et de la force de notre collectif.
 
 Pour candidater, merci d'envoyer votre CV et lettre de motivation en Français et en Anglais.
+
+</details>
+
+<details>
+<summary><strong>Analyst Medical Affairs (H/F)</strong> · BAXTER S.A.S · MARSA, MALTE · 2 225,20 €/mois</summary>
+
+- **Entreprise :** BAXTER S.A.S
+- **Lieu :** MARSA, MALTE
+- **Indemnité :** 2 225,20 €/mois
+- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
+- **Publiée le :** 12/11/2026
+- **Compatibilité avec ton profil :** 10 % — Le profil du candidat est purement financier (contrôleur de gestion, FP&A), tandis que l'offre recherche un profil scientifique et médical (Medical Affairs, conformité EU MDR, revue clinique). Il y a un décalage total entre les compétences du candidat et les exigences techniques du poste.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246536](https://mon-vie-via.businessfrance.fr/offres/246536)
+
+**Description du poste**
+
+Details of the mission: 
+The Medical Affairs Analyst is responsible for leading and coordinating Medical Affairs activities that support the safety, performance, and regulatory compliance of medical devices throughout their lifecycle. This role serves as both a scientific contributor and project leader, driving cross-functional initiatives related to EU MDR compliance, Clinical Evaluation, Post-Market Surveillance, and product lifecycle management.
+The position requires effective project management of MDR-related deliverables, coordination of global stakeholders, and leadership of programs aimed at maintaining regulatory compliance and continuous improvement of Medical Affairs processes. 
+
+Role and responsibilities:
+•	Provide medical and scientific support for assigned medical device portfolios throughout the product lifecycle.
+•	Conduct literature reviews, clinical data assessments, and state-of-the-art evaluations.
+•	Develop and maintain CEPs, CERs, and related clinical evidence documentation.
+•	Coordinate EU MDR clinical, PMS, PMCF, and PSUR deliverables across product families.
+•	Evaluate complaints, vigilance data, literature, and emerging safety signals to support risk and benefit-risk assessments.
+•	Support regulatory submissions, product lifecycle activities, audits, and interactions with Notified Bodies and Competent Authorities.
+•	Collaborate with Regulatory, Quality, R&D, Clinical, Risk Management, Toxicology, Biocompatibility, and Vigilance teams.
+•	Manage project plans, timelines, dependencies, risks, metrics, and stakeholder updates.
+•	Monitor regulatory and standards developments and contribute to process improvement and team knowledge-sharing.
+
+Benefits to join your team:
+•	Gain hands-on experience in global Medical Affairs and EU MDR activities across the medical device lifecycle.
+•	Work on meaningful projects that support patient safety, product performance, and regulatory compliance.
+•	Collaborate with experienced, cross-functional, and international teams.
+•	Build expertise in clinical evidence, post-market surveillance, risk management, and regulatory strategy.
+•	Develop project management, stakeholder engagement, and professional communication skills in a supportive team environment.
+
+**Profil recherché**
+
+Required skills: scientific and clinical literature review; critical appraisal and interpretation of clinical and post-market data; understanding of EU MDR, clinical evaluation, PMS, PMCF, PSUR, vigilance, and risk management; strong analytical and technical writing skills; project management and organizational skills; effective communication and stakeholder management; ability to collaborate in international, cross-functional teams; attention to detail and ability to manage multiple priorities; proficiency in Microsoft Office; fluent written and spoken English.
+
+
+A clinical background as a registered nurse or physician is a strong asset, ideally with practical hospital or clinical experience.
+
+</details>
+
+<details>
+<summary><strong>Contrôleur Financier International & Finance Transformation Analyst (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BUCAREST, ROUMANIE · 2 320,52 €/mois</summary>
+
+- **Entreprise :** SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE
+- **Lieu :** BUCAREST, ROUMANIE
+- **Indemnité :** 2 320,52 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 12/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes du poste grâce à sa formation en contrôle de gestion, son solide bagage technique sur Excel et ses deux années d'expérience en gestion financière. L'écart principal réside dans la localisation (Roumanie au lieu de l'Espagne souhaitée) et l'absence mentionnée d'expérience directe sur un ERP comme IFS, bien que ses compétences analytiques compensent largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246395](https://mon-vie-via.businessfrance.fr/offres/246395)
+
+**Description du poste**
+
+Envie de lancer votre carrière dans un environnement international et stimulant ?
+Rejoignez SII en VIE et vivez une expérience humaine et technologique unique !
+
+YOU MISSIONS :
+Rattaché(e) à la Responsable du Contrôle financier International, le/la Contrôleur Financier International contribue à la fiabilité du reporting financier des filiales internationales et au déploiement des projets de transformation de la fonction Finance. 
+Il/elle intervient principalement sur les activités de contrôle, d'analyse, de reporting et de maintien de la qualité des données financières. 
+
+ Votre rôle sera organisé en deux volets principaux :
+1.	CONTRÔLE DE GESTION ET REPORTING INTERNATIONAL
+Revue des reportings mensuels 
+•	Participer au processus de remontée des reporting mensuels 
+•	Contrôler la cohérence et l'exhaustivité des informations transmises par les filiales. 
+•	Réaliser des contrôles de cohérence entre les différents outils financiers. 
+•	Identifier les anomalies et assurer leur résolution avec les équipes locales. 
+Suivi des indicateurs de performance 
+•	Contrôler l'évolution des principaux KPIs  
+•	Analyser les ecarts, trouver les causes racines, presenter aux equipes dans le cadre des chantiers d'amelioration continue 
+
+2.	SUPPORT AU DEPLOIEMENT DE L’ERP GROUPE A TRAVERS LES FILIALES 
+Accompagnement des projets de migration 
+•	Participer aux phases de préparation des déploiements IFS comptabilité en lien avec l’équipe IT. 
+•	Réaliser les contrôles liés aux migrations de données. 
+•	Contribuer aux campagnes de tests utilisateurs. 
+•	Suivre les incidents et anomalies fonctionnelles. 
+Support utilisateurs 
+•	Assister les équipes Finance dans l'utilisation des nouveaux processus. 
+•	Participer à la rédaction de procédures et guides utilisateurs. 
+•	Contribuer aux actions de formation. 
+Contrôle des données de référence 
+•	Vérifier la qualité des données clients, fournisseurs, projets et collaborateurs. 
+•	Participer aux opérations de fiabilisation des bases de données.
+
+**Profil recherché**
+
+VOTRE PROFIL :
+Formation 
+•	Une formation Bac+5 (école de commerce ou master CCA ou DSCG)
+  
+Expérience 
+Au moins deux années d’expérience en comptabilité (cabinet ou entreprise) 
+Une première expérience dans le déploiement d’un outil constitue un véritable atout.  
+
+Compétences techniques 
+•	Excellente maîtrise d'Excel. 
+•	Base comptable solide  
+•	Connaissance d'un ERP (IFS, SAP, Oracle, Dynamics...).  
+
+Langues 
+Bon niveau de français et d’anglais  
+L’allemand est un plus  
+
+Qualités personnelles 
+•	Rigueur et sens du détail. 
+•	Esprit critique. 
+•	Autonomie. 
+•	Organisation et respect des délais. 
+
+POURQUOI NOUS REJOINDRE : 
+•	Une expérience internationale unique au cœur d’un environnement multiculturel
+•	Un tremplin pour évoluer rapidement
+•	L’intégration dans une équipe dynamique, bienveillante et certifiée Great Place To Work
+Prêt(e) à relever de nouveaux défis dans un environnement stimulant ? Rejoignez l’aventure !
+
+LA SUITE, ON EN PARLE AVEC NOTRE TALENT ACQUISITION PARTNER !
+Si votre CV est retenu, Juliane vous contactera pour discuter de votre parcours et de vos ambitions. Et ça nous préférons le faire de vive voix !
+
+QUI SOMMES-NOUS ?
+SII Group Roumanie est une filiale du groupe SII, composée d’une équipe dynamique et multiculturelle.
+Entreprise engagée et inclusive, SII est signataire de la Charte de la Diversité et de la Charte d’engagement LGBT+ avec l’association L’Autre Cercle.
+Nous sommes également Handi-accueillants et plaçons l’humain au cœur de nos projets.
+
+Alors si ces valeurs vous parlent, rejoignez-nous !
 
 </details>
 
