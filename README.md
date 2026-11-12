@@ -8,11 +8,136 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **12/11/2026 11:01:07**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **12/11/2026 11:15:33**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Finance controlling/consolidation & Cross-functional projects (H/F)</strong> · AIRBUS · SINGAPOUR, SINGAPOUR · 4 063,89 €/mois</summary>
+
+- **Entreprise :** AIRBUS
+- **Lieu :** SINGAPOUR, SINGAPOUR
+- **Indemnité :** 4 063,89 €/mois
+- **Durée de la mission :** 24 mois (Du 1 avr. 2027 au 1 avr. 2029)
+- **Publiée le :** 12/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux exigences du poste grâce à son expérience solide en contrôle de gestion, sa maîtrise d'Excel et de Power BI, ainsi qu'à son excellent niveau d'anglais (TOEIC 925). Seul un léger décalage géographique est à noter, le candidat étant initialement ouvert à l'Espagne alors que l'offre est basée à Singapour.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248252](https://mon-vie-via.businessfrance.fr/offres/248252)
+
+**Description du poste**
+
+Un poste en Contrôle de gestion, consolidation et projets transverses est à pourvoir au sein d’Airbus Singapore à Singapour. Vous rejoindrez le département Finance.
+
+Chez Airbus Singapore, vous travaillerez en étroite collaboration avec les équipes locales de contrôle de gestion et les partenaires commerciaux pour soutenir le pilotage financier, piloter la digitalisation des processus, optimiser la structure des coûts, consolider les activités d'Airbus Singapore et de la région APAC pour 2 divisions (Airbus Commercial et Airbus Defence and Space), et promouvoir l'adoption de solutions d'IA au sein des opérations financières.
+
+Missions et responsabilités :
+
+1- Contrôle de gestion et soutien mensuel des clôtures 
+
+Soutenir l'équipe locale de contrôle de gestion lors des clôtures financières mensuelles et annuelles,
+Préparer les packages financiers clés, feuilles de route financières, tableaux de bord de performance, analyses d'écarts (Réel vs Budget/Prévisions), présentations de direction, et
+Assister aux cycles de budgétisation et de prévisions en s'assurant de la cohérence des données.
+
+2- Optimisation et digitalisation des rapports
+
+Examiner et rationaliser les rapports financiers et le suivi des KPI existants,
+Piloter les initiatives de digitalisation en convertissant les tableurs existants en tableaux de bord automatisés et interactifs via des outils d'IA,
+Standardiser les flux de travail pour réduire les tâches manuelles.
+
+3- Suivi et optimisation des coûts
+
+Analyser les structures de coûts locales,
+Collaborer avec les chefs de département pour surveiller les dépenses, identifier des initiatives de réduction des coûts,
+Etablir des contrôles budgétaires et suivre l'impact financier des plans d'action sur le P&L.
+
+4- Consolidation financière
+
+Consolider les packages financiers clés, les feuilles de route financières, les tableaux de bord de performance, les analyses d'écarts et les présentations de direction pour Airbus Singapore et la région APAC.
+
+5- Intelligence artificielle & automatisation
+
+Agir comme catalyseur pour l'adoption de l'IA et de l'automatisation intelligente au sein du département financier.
+Soutenir les tests, le déploiement et l'intégration de solutions basées sur l'IA pour optimiser l'efficacité et la prise de décision.
+
+6-Requêtes Ad-hoc
+
+Réaliser des analyses financières ad hoc.
+Soutenir les membres de l'équipe sur les livrables clés.
+
+-
+
+A VIE for a Finance controlling/consolidation and cross-functional projects position has arisen within Airbus Singapore. You will join the Finance department.
+
+At Airbus Singapore, you will work closely with local controlling teams and business partners to support financial controlling, drive process digitalization, optimize cost base performance, consolidate both Airbus Singapore and the APAC Region for 2 Divisions (Airbus Commercial and Airbus Defense and Space) and champion the adoption of AI solutions across financial operations.
+
+Tasks & accountabilities
+
+1. Financial Controlling & Monthly Closing Support
+
+Support the local Controlling team during month-end and year-end financial closing activities.
+Prepare key financial packages, financial roadmaps, performance dashboards, variance analysis (Actuals vs. Budget/Forecast), and management presentations.
+Ensure data accuracy across reporting lines and assist in budgeting and forecasting cycles.
+2. Reporting Optimization & Digitalization
+
+Review and streamline existing financial reports and KPI tracking mechanisms.
+Drive digitization initiatives by converting legacy spreadsheets into automated, interactive dashboards using AI tools 
+Standardize workflows and implement automated reporting processes to reduce manual tasks and improve data reliability.
+3. Cost Base Monitoring & Optimization
+
+Analyze local cost structures across operational and administrative departments.
+Partner directly with Heads of Department (HoDs) to monitor expenditure, identify cost-saving initiatives, and establish lean budget controls.
+Track the execution of cost-reduction actions and quantify their financial impact on the overall P&L.
+
+4. Finance consolidation
+
+Consolidate key financial packages, financial roadmaps, performance dashboards, variance analysis (Actuals vs. Budget/Forecast), and management presentations.
+5. Finance AI & Automation Implementation
+
+Act as a catalyst for AI and smart automation adoption within the finance department.
+Support the team in testing, deploying, and embedding AI-driven solutions to optimize efficiency and decision-making capabilities.
+6. Ad-Hoc requests 
+
+Run financial analysis as per requests 
+Support team members on key deliverables
+
+**Profil recherché**
+
+Master (ou équivalent) dans le domaine de la finance, du contrôle de gestion, de l'administration des affaires, de l'analyse commerciale ou une discipline apparentée.
+Une première expérience en contrôle de gestion ou planification et analyse financières (FP&A) (apprentissages et stages compris).
+Solides compétences financières et comptables (principes de contrôle de gestion et de comptabilité).
+
+Outils informatiques : 
+
+Maîtrise avancée de Google Sheets.
+Bonne maîtrise des outils de visualisation de données (Power BI, Tableau).
+Notions en scripts/outils d'automatisation et intérêt pour l'intégration de l'IA/l'ingénierie de prompts.
+Une expérience pratique des ERP (ex. SAP) est un atout.
+
+En outre, vous êtes en mesure de démontrer les compétences suivantes :
+
+Excellent relationnel et compétences en partenariat commercial.
+Esprit proactif, axé sur la résolution de problèmes et l'innovation.
+Capacité d'adaptation et aptitude à évoluer dans un environnement aéronautique international.
+Niveau courant / avancé en anglais (écrit et oral).
+-
+
+Master’s Degree in Finance, Controlling, Business Administration, Business Analytics, or a related field.
+Prior internship or professional experience in Financial Controlling, Financial Planning & Analysis (FP&A).
+Technical & Digital Skills
+
+Financial Acumen: Strong grounding in financial controlling and accounting principles.
+Systems: Advanced Google Sheets skills; hands-on experience with ERPs (e.g., SAP) is a plus.
+Digital & BI: Proficiency in Data Visualization tools (Power BI, Tableau) and familiarity with automation scripts/tools.
+AI Knowledge: Practical interest in AI integration, prompt engineering, or automation technologies applied to business and finance.
+Soft Skills
+
+Excellent interpersonal skills to effectively liaise with Business Partners.
+Proactive mindset, problem-solving & innovation.
+Ability to thrive in an international, aerospace environment.
+Fluent English (written and spoken) is required.
+
+</details>
 
 <details>
 <summary><strong>Financial Controller & Comptable International - Barcelone (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
