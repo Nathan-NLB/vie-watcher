@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **13/11/2026 16:15:42**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **13/11/2026 16:31:07**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -317,6 +317,42 @@ Une expérience en ESN, cabinet de conseil, audit ou société de services B2B e
 Première expérience réussie d’encadrement (alternant, stagiaire, junior) ou de pilotage de prestataires
 Excel avancé (Power Query), Power BI ou équivalent, pratique d’un ERP et d’un outil de facturation ou CRM/PSA
 Anglais professionnel courant (C1) : réunions, relances et reporting ; le français est indispensable
+
+</details>
+
+<details>
+<summary><strong>FINANCE ANALYST (H/F)</strong> · RCI BANQUE · CURITIBA, BRESIL · 2 302,29 €/mois</summary>
+
+- **Entreprise :** RCI BANQUE
+- **Lieu :** CURITIBA, BRESIL
+- **Indemnité :** 2 302,29 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 13/11/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan correspond bien aux attentes de niveau d'études (Bac+5 en finance) et aux compétences en analyse financière et maîtrise d'Excel. Cependant, l'offre est axée sur la trésorerie et les risques financiers au Brésil, et exige la maîtrise du portugais, que le candidat ne possède pas (contrairement à l'espagnol).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246019](https://mon-vie-via.businessfrance.fr/offres/246019)
+
+**Description du poste**
+
+A l’écoute de tous nos clients, nous créons des services financiers innovants pour construire une mobilité durable pour tous.
+Rejoindre Mobilize Financial Services, c’est d’abord choisir d’intégrer un groupe international, filiale de Renault Group, une banque de financement solide, partenaire du constructeur Renault et d’autres marques du secteur automobile. Nos 4 000 collaborateurs présents dans 35 pays, agissent ensemble au service de nos clients.
+Nous proposons à nos clients - particuliers comme professionnels - les financements et les services les plus adaptés pour les véhicules neufs et d'occasion.
+Notre entreprise se "MOBILIZE" en faveur de la diversité culturelle, l'égalité hommes-femmes et l'intégration de personnes en situation de Handicap, au travers notamment de notre Chartre. Nous favorisons un environnement de travail où les différences individuelles sont reconnues, appréciées, respectées et valorisées, de façon à mettre à profit les talents et les forces de chacun.
+
+LES MISSIONS PRINCIPALES DU VIE CONSISTERONT :
+– Suivi des opérations de refinancement
+– Suivi du TRP (taux de refinancement prévisionnels) pour la construction de la tarification
+– Supporter la mise en place des alternatives de refinancement proposées par le trésorier
+– Suivi du flux de trésorerie réel par rapport à la projection
+– Supporter le contrôle et suivie des risques financiers (contrepartie, liquidité, risque de taux, LCR, etc.)
+– Supporter la mise à jour de présentations pour les banques et investisseurs
+– Supporter la mise à jour des rapport financiers
+– Supporter la préparation du comité financier filiale
+– Supporter le développement de projets au sein de la Trésorerie
+– Supporter la mise en place des outils de suivi des risques
+
+**Profil recherché**
+
+• Diplômé d’un Bac +5 dans le domaine de la finance<br />• Compétences Linguistiques : Anglais et Portugais<br />• Compétences Spécifiques : maitrise du Pack Office<br />• Connaissance du métier de la finance, économie et marché de capitaux<br />• Connaissance dans le domaine mathématique et logique<br />• Bonne capacité d’analyse<br />• Rigoureux, esprit d’équipe, dynamique<br />• Envie d’apprendre et progresser<br /><br />MERCI D'ADRESSER IMPERATIVEMENT VOTRE CV + LM EN FRANCAIS ET EN ANGLAIS en mentionnant la référence de l'annonce et le pays de destination.
 
 </details>
 

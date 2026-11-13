@@ -686,5 +686,10 @@
   "ville|subang jaya|malaisie": {
     "lat": 3.051487,
     "lon": 101.5823339
+  },
+  "entreprise|rci banque|curitiba|bresil": null,
+  "ville|curitiba|bresil": {
+    "lat": -25.4295963,
+    "lon": -49.2712724
   }
 }
