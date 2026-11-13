@@ -2089,16 +2089,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are seeking a highly skilled ALM & Structured Funding professional with strong expertise in securitisation (SRT), derivatives management, regulatory frameworks and project management.\n\nThe candidate will play a key role to support ALM & Treasury activities especially focused on securitisation, liquidity, interest rate risk and solvency topics. The role combines technical expertise with project delivery and a focus on innovation and continuous improvement.\n________________________________________\nKey Responsibilities\n•\tMonitor securitisation transactions, including SRT deals.\n•\tMonitor derivatives and hedging strategies (IRS and back-to-back swaps).\n•\tSupport on regulatory and strategic projects (internal and at group level)\n•\tEnsure compliance with regulatory and accounting requirements.\n•\tManage and optimize liquidity, IRR and solvency topics.\n•\tLiaise with regulators, auditors, investors and rating agencies.",
     "creationDate": "2026-11-05T09:24:43Z",
     "missionStartDate": "2027-01-01T00:00:00",
