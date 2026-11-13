@@ -941,79 +941,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "49",
-      "86",
-      "155",
-      "208",
-      "234",
-      "262",
-      "264",
-      "326",
-      "340",
-      "346"
+      "[\"49\",\"86\",\"155\",\"208\",\"234\",\"262\",\"264\",\"326\",\"340\",\"346\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "49",
-        "specializationParentId": "239",
-        "specializationLabel": "Sciences",
-        "specializationLabelEn": "Sciences"
-      },
-      {
-        "specializationId": "86",
-        "specializationParentId": "81",
-        "specializationLabel": "Pharmacie",
-        "specializationLabelEn": "Pharmaceutics"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "234",
-        "specializationParentId": "227",
-        "specializationLabel": "Affaires et études européennes",
-        "specializationLabelEn": "European affairs and studies"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      },
-      {
-        "specializationId": "340",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit des affaires",
-        "specializationLabelEn": "Droit des affaires"
-      },
-      {
-        "specializationId": "346",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit de la santé",
-        "specializationLabelEn": "Droit de la santé"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Details of the mission: \nThe Medical Affairs Analyst is responsible for leading and coordinating Medical Affairs activities that support the safety, performance, and regulatory compliance of medical devices throughout their lifecycle. This role serves as both a scientific contributor and project leader, driving cross-functional initiatives related to EU MDR compliance, Clinical Evaluation, Post-Market Surveillance, and product lifecycle management.\nThe position requires effective project management of MDR-related deliverables, coordination of global stakeholders, and leadership of programs aimed at maintaining regulatory compliance and continuous improvement of Medical Affairs processes. \n\nRole and responsibilities:\n•\tProvide medical and scientific support for assigned medical device portfolios throughout the product lifecycle.\n•\tConduct literature reviews, clinical data assessments, and state-of-the-art evaluations.\n•\tDevelop and maintain CEPs, CERs, and related clinical evidence documentation.\n•\tCoordinate EU MDR clinical, PMS, PMCF, and PSUR deliverables across product families.\n•\tEvaluate complaints, vigilance data, literature, and emerging safety signals to support risk and benefit-risk assessments.\n•\tSupport regulatory submissions, product lifecycle activities, audits, and interactions with Notified Bodies and Competent Authorities.\n•\tCollaborate with Regulatory, Quality, R&D, Clinical, Risk Management, Toxicology, Biocompatibility, and Vigilance teams.\n•\tManage project plans, timelines, dependencies, risks, metrics, and stakeholder updates.\n•\tMonitor regulatory and standards developments and contribute to process improvement and team knowledge-sharing.\n\nBenefits to join your team:\n•\tGain hands-on experience in global Medical Affairs and EU MDR activities across the medical device lifecycle.\n•\tWork on meaningful projects that support patient safety, product performance, and regulatory compliance.\n•\tCollaborate with experienced, cross-functional, and international teams.\n•\tBuild expertise in clinical evidence, post-market surveillance, risk management, and regulatory strategy.\n•\tDevelop project management, stakeholder engagement, and professional communication skills in a supportive team environment.",
     "creationDate": "2026-09-30T07:57:47Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1340,65 +1270,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "26",
-      "109",
-      "200",
-      "201",
-      "245",
-      "248",
-      "259"
+      "[\"8\",\"26\",\"109\",\"200\",\"201\",\"245\",\"248\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "26",
-        "specializationParentId": "216",
-        "specializationLabel": "Communication",
-        "specializationLabelEn": "Communication"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "245",
-        "specializationParentId": "24",
-        "specializationLabel": "Architecture des systèmes d'information",
-        "specializationLabelEn": "IT architecture / Cloud and virtualisation"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nBig Bang est une société d’experts-conseils qui aide les organisations à optimiser et à simplifier les processus par la planification d’une stratégie numérique, par le déploiement de solutions d’affaires et par la réalisation d’harmonisation organisationnelle. Notre objectif est de créer de la valeur tangible pour nos clients en les aidant à rationaliser les systèmes opérationnels, notamment par l’interconnexion de l’information entre les systèmes, par l’unification de la stratégie et de la technologie, et par le soutien au développement de l’expertise organisationnelle. Nous avons pour vision d’offrir à chaque personne de chaque organisation un accès direct à l’information qui lui permet de faire le meilleur travail possible, et ce, en tout temps et n’importe où. Grâce à notre siège à Montréal (Canada) et à nos bureaux en France, à l’île Maurice, à Toronto et aux États-Unis, nous servons des entreprises de toutes tailles partout dans le monde.\n\n\nPoste et missions :\n\n Rôle:\nAnalyser les besoins d'affaires, les exigences et les processus et participer à la configuration des solutions infonuagiques pour combler et surpasser les attentes du client. Participer à l'implantation ou à l'intégration de différents systèmes tels que les plateformes de commerce électronique et de marketing, les logiciels de comptabilité et de paie et les solutions pour la gestion de la fabrication, de l'approvisionnement et de l'entreposage.\n\nResponsabilités principales:\n\nOpérations (70%)\nAnalyser les besoins d'affaires, les requis, les flux de travaux, les processus et les applications des clients\nDéfinir, cadrer et documenter les solutions appropriées pour améliorer, automatiser et accélérer l'amélioration des processus\nConfigurer, tester, déployer, soutenir et dépanner les systèmes applicatifs pour répondre aux exigences des processus d'affaires\nAnalyser les exigences en production de rapports, faciliter le développement et la validation de rapports\nCommuniquer régulièrement avec les gestionnaires de projet à propos de l'état d'avancement du travail en cours\n\nService à la clientèle (15%)\nAssurer un service à la clientèle hors pair en respectant nos meilleures pratiques\nAgir en tant que soutien primaire pour les clients actuels\nRépondre aux appels des clients et fournir une aide immédiate pour les demandes urgentes\n\nVentes (10%)\nConfigurer les environnements de démonstration servant à la présentation des solutions infonuagiques aux clients potentiels\nDévelopper des fonctionnalités particulières selon les exigences spécifiques de clients potentiels et adapter des échantillons de données à leur industrie\nDocumenter l'énoncé des travaux\nDonner des présentations aux clients potentiels à propos de solutions particulières ou de domaines d'expertise pointus\n\nGestion des connaissances (5%)\nÉlaborer des plans de formations basés sur les spécifications du client\nAssurer la formation des usagers durant les projets d'implémentation\nCoacher les collègues junior sur les solutions pourvues et supportées par l'organisation\nPréparer des présentations à l'interne à propos des leçons apprises lors de projets pour clients, des tendances et meilleures pratiques de l'industrie, trucs et astuces et nouvelles capabilités des systèmes\nOrganiser et mener des séances de travail pour utilisateurs expérimentés",
     "creationDate": "2026-10-13T12:33:17Z",
     "missionStartDate": "2027-03-01T00:00:00",
