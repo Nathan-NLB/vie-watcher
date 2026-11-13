@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **13/11/2026 22:45:41**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **13/11/2026 23:01:04**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4064,31 +4064,6 @@ Cross-Functional Finance Support
 Languages
 •	Fluent English (written and spoken).
 •	French and/or Spanish would be an advantage.
-
-</details>
-
-<details>
-<summary><strong>Group PMO Transformation (H/F)</strong> · LYNXEO FRANCE · LIMITO DI PIOLTELLO, ITALIE · 3 003,87 €/mois</summary>
-
-- **Entreprise :** LYNXEO FRANCE
-- **Lieu :** LIMITO DI PIOLTELLO, ITALIE
-- **Indemnité :** 3 003,87 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 26/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion pur (FP&A, reporting, analyse financière) alors que l'offre concerne un poste de PMO (Project Management Office) axé sur la gestion de projets et la transformation. Bien que le cadre international et le profil junior correspondent, les compétences techniques requises s'écartent significativement de son expertise financière.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247503](https://mon-vie-via.businessfrance.fr/offres/247503)
-
-**Description du poste**
-
-Within the Lynxeo Group transformation program nexT, the purpose of this junior PMO role is to support international rollout projects while being part of a structured talent development journey. 
-The position aims to contribute to nexT deployment activities as a PMO support resource, while progressively developing project management, coordination, and change facilitation skills in an international environment. 
-This role is also designed to support the creation of an international PMO talent pool, combining operational contribution to projects and long‑term employability within the Group.
-
-**Profil recherché**
-
-Within the Lynxeo Group transformation program nexT, the purpose of this junior PMO role is to support international rollout projects while being part of a structured talent development journey. 
-The position aims to contribute to nexT deployment activities as a PMO support resource, while progressively developing project management, coordination, and change facilitation skills in an international environment. 
-This role is also designed to support the creation of an international PMO talent pool, combining operational contribution to projects and long‑term employability within the Group.
 
 </details>
 
