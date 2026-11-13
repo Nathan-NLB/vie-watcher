@@ -681,5 +681,10 @@
   "ville|melbourne|australie": {
     "lat": -37.8142454,
     "lon": 144.9631732
+  },
+  "entreprise|airbus helicopters|subang jaya|malaisie": null,
+  "ville|subang jaya|malaisie": {
+    "lat": 3.051487,
+    "lon": 101.5823339
   }
 }

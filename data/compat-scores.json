@@ -531,6 +531,10 @@
     "score": 90,
     "raison": "Le profil de Nathan correspond parfaitement aux exigences du poste grâce à son expérience solide en contrôle de gestion, sa maîtrise d'Excel et de Power BI, ainsi qu'à son excellent niveau d'anglais (TOEIC 925). Seul un léger décalage géographique est à noter, le candidat étant initialement ouvert à l'Espagne alors que l'offre est basée à Singapour."
   },
+  "248256": {
+    "score": 85,
+    "raison": "Le profil de Nathan correspond très bien aux attentes techniques (contrôle de gestion, FP&A, Excel/Power BI, anglais courant) grâce à ses 2 ans d'expérience réussie en autonomie chez KOAD Industries. Les principaux écarts résident dans l'expérience requise (3 à 5 ans demandés contre 2 ans) et l'absence d'expérience spécifique en ESN ou cabinet de conseil."
+  },
   "248273": {
     "score": 85,
     "raison": "Le candidat possède une excellente adéquation technique (maîtrise d'Excel et Power BI, compétences solides en contrôle budgétaire, reporting et analyse de rentabilité) et un niveau d'anglais courant (TOEIC 925). Le principal écart réside dans l'expérience requise (2 ans pour le candidat contre 3 à 4 ans demandés) et la non-mention explicite d'un ERP type SAP dans son profil actuel."
@@ -538,5 +542,9 @@
   "248298": {
     "score": 90,
     "raison": "Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à sa solide expérience en contrôle de gestion, sa maîtrise d'Excel et son niveau d'anglais courant. Le seul léger écart concerne la destination, l'offre étant basée en Slovénie alors que le candidat ciblait initialement l'Espagne."
+  },
+  "248309": {
+    "score": 90,
+    "raison": "Le profil correspond parfaitement aux attentes avec un Master en cours en contrôle de gestion, une forte expérience en FP&A, la maîtrise d'Excel et de Power BI, ainsi qu'un excellent niveau d'anglais (TOEIC 925). Seul un léger écart réside dans la localisation initiale visée par le candidat (Espagne) et la dimension IA/automatisation de l'offre, mais ses compétences techniques comblent largement ce besoin."
   }
 }

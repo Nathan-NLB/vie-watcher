@@ -8,11 +8,101 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **13/11/2026 15:15:41**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **13/11/2026 15:31:11**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Finance Controller & Digital Transformation (H/F)</strong> · AIRBUS HELICOPTERS · SUBANG JAYA, MALAISIE · 2 079,64 €/mois</summary>
+
+- **Entreprise :** AIRBUS HELICOPTERS
+- **Lieu :** SUBANG JAYA, MALAISIE
+- **Indemnité :** 2 079,64 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 13/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil correspond parfaitement aux attentes avec un Master en cours en contrôle de gestion, une forte expérience en FP&A, la maîtrise d'Excel et de Power BI, ainsi qu'un excellent niveau d'anglais (TOEIC 925). Seul un léger écart réside dans la localisation initiale visée par le candidat (Espagne) et la dimension IA/automatisation de l'offre, mais ses compétences techniques comblent largement ce besoin.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248309](https://mon-vie-via.businessfrance.fr/offres/248309)
+
+**Description du poste**
+
+As a Finance & Digital Transformation V.I.E. at Airbus Subang, Malaysia, you will work closely with local controlling teams and executive leadership to support financial controlling, drive process digitalization, optimize cost base performance, oversee Enterprise Risk Management (ERM), and champion the adoption of AI solutions across financial operations.
+
+
+Tasks & accountabilities 
+
+Your main tasks will include:
+
+
+1. Financial Controlling & Monthly Closing Support
+
+
+Support the local Controlling team during month-end and year-end financial closing activities.
+Prepare key financial packages, performance dashboards, variance analysis (Actuals vs. Budget/Forecast), and management presentations.
+Ensure data accuracy across reporting lines and assist in budgeting and forecasting cycles.
+
+2. Reporting Optimization & Digitalization
+
+
+Review and streamline existing financial reports and KPI tracking mechanisms.
+Drive digitalization initiatives by converting legacy spreadsheets into automated, interactive dashboards using AI tools 
+Standardize workflows and implement automated reporting processes to reduce manual tasks and improve data reliability.
+
+3. Cost Base Monitoring & Optimization
+
+
+Analyze local cost structures across operational and administrative departments.
+Partner directly with Heads of Department (HoDs) to monitor expenditure, identify cost-saving initiatives, and establish lean budget controls.
+Track the execution of cost-reduction actions and quantify their financial impact on the overall P&L.
+
+4. Enterprise Risk Management (ERM) Coordination
+
+
+Manage and coordinate the Enterprise Risk Management (ERM) process for Airbus Helicopters Malaysia.
+Update quarterly risk and opportunity (R&O) reports in alignment with regional and group standards.
+Act as the local focal point for ERM, liaising with the Region and Airbus Headquarters to ensure governance frameworks are strictly followed.
+
+5. Finance AI & Automation Implementation
+
+
+Act as a catalyst for AI and smart automation adoption within the finance department.
+Support the team in testing, deploying, and embedding AI-driven solutions to optimize efficiency and decision-making capabilities.
+
+**Profil recherché**
+
+Required Profile & Qualifications
+
+Education & Experience
+
+
+Master’s Degree in Finance, Controlling, Business Administration, Business Analytics, or a related field.
+Prior internship or professional experience in Financial Controlling, Financial Planning & Analysis (FP&A).
+
+Technical & Digital Skills
+
+
+
+Financial Acumen: Strong grounding in financial controlling, accounting principles, and risk management.
+Systems: Advanced MS Excel / Google Sheets skills; hands-on experience with ERPs (e.g., SAP) is a plus.
+Digital & BI: Proficiency in Data Visualization tools (Power BI, Tableau) and familiarity with automation scripts/tools.
+AI Knowledge: Practical interest in AI integration, prompt engineering, or automation technologies applied to business and finance.
+
+Soft Skills
+
+
+Business Partnering: Excellent interpersonal skills to effectively liaise with Heads of Department and Global Headquarters.
+Problem-Solving & Innovation: Proactive mindset with a drive to challenge existing processes and propose modern digital solutions.
+Adaptability: Ability to thrive in an international, fast-paced aerospace environment.
+
+Languages:
+
+
+Fluent English (advanced written and spoken) is required.
+French is a plus but not mandatory
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+</details>
 
 <details>
 <summary><strong>BUSINESS & FINANCIAL CONTROLLER (H/F)</strong> · RCI BANQUE · LJUBLJANA, SLOVENIE · 2 145,81 €/mois</summary>
@@ -89,6 +179,144 @@ Strong FP&A capabilities: budgeting, forecasting, variance analysis, financial m
 Clear, structured and critical thinker who can frame ambiguous problems, test assumptions, distinguish material issues from noise and reach practical conclusions. Strong analytical discipline and data-reconciliation skills, with high standards for accuracy, control and documentation. Excellent written and verbal communication skills, with the ability to explain complex analysis simply and produce high-quality PowerPoint presentations. Business-oriented, curious and proactive, comfortable working autonomously while building effective relationships across functions and cultures.
 
 Fluent English is required; French is an asset. Willingness to relocate to Melbourne and eligibility for a V.I.E assignment are required.
+
+</details>
+
+<details>
+<summary><strong>Gestionnaire Financier (H/F)</strong> · ALPINEO CONSULTING LYON · VERNIER, SUISSE · 4 135,75 €/mois</summary>
+
+- **Entreprise :** ALPINEO CONSULTING LYON
+- **Lieu :** VERNIER, SUISSE
+- **Indemnité :** 4 135,75 €/mois
+- **Durée de la mission :** 6 mois (Du 1 janv. 2027 au 1 juil. 2027)
+- **Publiée le :** 13/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes techniques (contrôle de gestion, FP&A, Excel/Power BI, anglais courant) grâce à ses 2 ans d'expérience réussie en autonomie chez KOAD Industries. Les principaux écarts résident dans l'expérience requise (3 à 5 ans demandés contre 2 ans) et l'absence d'expérience spécifique en ESN ou cabinet de conseil.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248256](https://mon-vie-via.businessfrance.fr/offres/248256)
+
+**Description du poste**
+
+Alpineo Consulting est un groupe de conseil IT indépendant d’environ 150 collaborateurs, présent en France (Lyon, Paris), en Suisse (Genève), en Belgique, au Luxembourg, au Portugal et prochainement en Espagne.
+
+Nos consultants accompagnent nos clients sur leurs projets IT les plus stratégiques. En pleine croissance, le groupe structure ses fonctions support et renforce aujourd’hui son équipe RH & Finance Groupe, basée à Genève.
+
+Le poste
+
+Vous êtes au cœur du pilotage financier du groupe et êtes le garant de la fiabilité, de la qualité et de la disponibilité des données financières.
+
+Votre rôle couvre l’ensemble des cycles financiers : facturation, encaissements, clôtures, trésorerie, reporting et forecast. Vous produisez les analyses permettant à la direction et aux Business Managers de disposer d’une vision claire de la performance et de prendre leurs décisions sur la base de données fiables.
+
+Il s’agit d’un poste très opérationnel et autonome, avec une forte dimension de construction. Vous aurez pour mission de structurer les processus financiers du groupe, d’harmoniser les pratiques entre les différents pays et de mettre en place des outils et automatisations permettant de gagner en fiabilité et en efficacité.
+
+Vous travaillez en lien étroit avec la Direction, les Business Managers, les équipes RH et les cabinets comptables externes des différents pays.
+
+Mission 1 — Facturation & encaissement — 30 %
+
+Vous devez veiller au bon fonctionnement du cycle de facturation et du suivi des encaissements.
+
+- Piloter le cycle de facturation, de la validation des temps prestés jusqu’à l’encaissement.
+- Construire et maintenir un calendrier mensuel de facturation par client, entité et pays.
+- Contrôler les temps saisis, bons de commande, tarifs et conditions contractuelles avant émission des factures.
+- Émettre, déposer et suivre les factures sur les portails clients.
+- Identifier et résoudre rapidement les factures rejetées, bloquées ou contestées.
+- Organiser et suivre les relances clients jusqu’à l’encaissement.
+- Suivre la balance âgée, le DSO et les prestations non facturées.
+- Identifier les risques d’impayés ou de retard et les communiquer rapidement à la Direction et aux Business Managers concernés.
+- Mettre en place des indicateurs permettant de suivre la qualité et la performance du cycle de facturation.
+
+Objectif : sécuriser et fluidifier le cycle de facturation et réduire durablement les délais entre prestation, facturation et encaissement.
+
+Mission 2 — Contrôle de gestion & FP&A — 25 %
+
+Vous produisez les analyses financières nécessaires au pilotage de l’activité du groupe.
+
+- Produire le reporting financier mensuel du groupe et de ses différentes entités.
+- Construire et analyser les P&L par entité, Business Manager, client et mission.
+- Suivre les principaux indicateurs économiques de l’activité de conseil :
+TJM
+taux d’activité
+intercontrat
+marge par consultant
+revenu par ETP
+backlog
+DSO
+- Identifier les écarts entre réalisé, budget et forecast et en analyser les causes.
+- Préparer les budgets et forecasts.
+- Réaliser des analyses de scénarios et de sensibilité.
+- Transformer les données financières en analyses et recommandations concrètes pour la Direction.
+- Construire avec l’équipe RH des indicateurs communs : effectifs, masse salariale, coûts chargés, revenu et rentabilité par ETP.
+- Fiabiliser progressivement les données et les méthodes de reporting entre les différents pays.
+
+Objectif : fournir chaque mois une vision financière claire, fiable et exploitable de la performance du groupe.
+
+Mission 3 — Comptabilité, clôtures & trésorerie — 20 %
+
+Vous assurez le suivi et la coordination opérationnelle des principaux cycles comptables et de trésorerie.
+
+- Construire et maintenir un prévisionnel de trésorerie glissant pour l’ensemble des entités.
+- Suivre les encaissements et décaissements prévisionnels.
+- Contrôler les factures fournisseurs et préparer les campagnes de paiement.
+- Analyser les rapprochements bancaires et identifier les éventuelles anomalies.
+- Préparer et suivre les provisions, factures à établir et autres écritures nécessaires aux clôtures.
+- Contrôler les opérations intercompagnies et assurer leur cohérence entre les entités.
+- Préparer et suivre les clôtures mensuelles et annuelles selon un calendrier groupe.
+- Centraliser les éléments nécessaires aux clôtures avec les cabinets comptables externes.
+- Suivre les délais et la qualité des travaux comptables réalisés par les partenaires externes.
+- Préparer les fichiers nécessaires aux virements de paie des différents pays et effectuer les virements mensuels dans le respect des échéances.
+
+Objectif : garantir des clôtures fiables et ponctuelles ainsi qu’une visibilité régulière sur la situation de trésorerie du groupe.
+
+Mission 4 — Coordination financière — 15 %
+
+Vous êtes le point de référence opérationnel sur les cycles financiers du groupe.
+
+- Faire appliquer les calendriers de facturation et de clôture auprès des différents interlocuteurs.
+- Collecter et contrôler les informations nécessaires à la production des reportings.
+- Suivre les actions nécessaires à la résolution des écarts ou anomalies identifiés.
+- Communiquer de manière claire, synthétique et proactive avec la Direction.
+- Accompagner les Business Managers dans la compréhension des données financières liées à leur activité.
+-Formaliser les processus, règles de gestion et responsabilités de chaque étape des cycles financiers.
+- Garantir une information financière homogène entre les différentes entités du groupe.
+
+Objectif : assurer une circulation fluide et fiable de l’information financière entre les équipes opérationnelles, les fonctions support et la Direction.
+
+Axe transverse — Transformation, automatisation & IA — 10 %
+
+Dans un contexte de structuration et de croissance, vous êtes force de proposition pour améliorer les processus financiers.
+
+- Cartographier les principaux processus financiers du groupe.
+- Identifier les tâches manuelles, les doublons et les principaux risques d’erreur.
+- Proposer et mettre en place des automatisations simples et à forte valeur ajoutée.
+- Automatiser progressivement certains contrôles, reportings, rapprochements et processus de relance.
+- Identifier des cas d’usage pertinents de l’IA pour améliorer la productivité et la fiabilité de la fonction Finance.
+- Tester et déployer les solutions pertinentes.
+- Mesurer les gains obtenus : temps gagné, réduction des erreurs, amélioration des délais.
+- Documenter les procédures, règles de validation et modes opératoires.
+
+Objectif : rendre les processus financiers plus fiables, plus simples et moins dépendants des tâches manuelles.
+
+Vos 6 premiers mois
+
+Les priorités des six premiers mois seront concrètes et mesurables :
+
+1. Sécuriser les cycles financiers
+2. Améliorer la qualité de la facturation
+3. Fiabiliser le pilotage financier
+Mise en place d’un reporting récurrent des principaux KPI du groupe.
+4. Structurer le forecast
+5. Automatiser
+
+Ce que nous recherchons
+Formation supérieure en finance, comptabilité, contrôle de gestion ou équivalent.
+Expérience de 3 à 5 ans environ sur un poste en finance d’entreprise, contrôle de gestion, FP&A, comptabilité
+
+**Profil recherché**
+
+Bac +5 en finance, audit ou contrôle de gestion : Master CCA, DSCG, école de commerce avec spécialisation finance
+4 à 6 ans d’expérience au total, dont 2 à 3 ans post-diplôme très opérationnels en contrôle de gestion, FP&A ou finance opérationnelle, ou un parcours audit suivi d’une fonction interne
+Une expérience en ESN, cabinet de conseil, audit ou société de services B2B est un atout majeur : vous comprenez le cycle temps prestés, facturation, encaissement
+Première expérience réussie d’encadrement (alternant, stagiaire, junior) ou de pilotage de prestataires
+Excel avancé (Power Query), Power BI ou équivalent, pratique d’un ERP et d’un outil de facturation ou CRM/PSA
+Anglais professionnel courant (C1) : réunions, relances et reporting ; le français est indispensable
 
 </details>
 
