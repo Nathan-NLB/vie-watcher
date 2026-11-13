@@ -665,8 +665,8 @@
     "ca": null,
     "effectif": 0,
     "effectifFiscal": "0",
-    "effectifInd": "238",
-    "effectifConso": "0",
+    "effectifInd": "250",
+    "effectifConso": "4898",
     "organizationCountryCounter": "0",
     "organizationExpertise": null,
     "cityAffectationId": 0,
@@ -675,16 +675,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Envie de lancer votre carrière dans un environnement international et stimulant ?\n Rejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 LE CONTEXTE\nAu sein de l’équipe Finance de SII Allemagne, basée à Augsburg, vous accompagnez la transformation de la fonction finance.\nVotre objectif : réduire les tâches manuelles, automatiser les processus et améliorer la qualité des données, notamment grâce à Power BI et à l’IA. Vous travaillez en lien étroit avec le contrôle de gestion interne.\nLe poste sera basé à Augsburg, de préférence. Un poste basé à Munich est également possible, avec au moins un jour par semaine sur site à Augsbourg (à environ une heure de route de Munich).\n\n🎯 VOS MISSIONS\n1. Optimisation des processus finance\n· Améliorer les processus dans l’ERP IFS.\n· Optimiser les processus comptables.\n· Documenter et standardiser les procédures.\n\n2. Automatisation et reporting\n· Automatiser les contrôles financiers et les tâches manuelles liées au processus de clôture, en s'appuyant sur des outils tels que l'IA, Power Automate, etc.\n· Développer les outils de reporting et de pilotage sous Power BI et Microsoft Fabric.\n\n3. Qualité des données\n· Garantir la qualité et la cohérence des données entre les outils (HubSpot et outils internes).\n· [Mettre en place des contrôles de cohérence automatisés.]",
     "creationDate": "2026-11-12T12:30:52Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -6688,16 +6681,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Jolt Capital is an independent European private equity platform dedicated to scaling responsible deeptech companies. Founded in 2011, the firm invests in technology-rich B2B growth companies with strong intellectual property, sound fundamentals and global ambitions. Beyond capital, Jolt provides hands-on strategic and operational support to help its portfolio companies become international leaders. Its investment approach combines sector expertise, rigorous transaction execution and data-driven capabilities, including its proprietary AI platform, Jolt.Ninja. With teams across Europe, North America and Asia, Jolt offers an entrepreneurial, international and demanding environment at the intersection of finance, technology and industrial transformation.\r\nJoin Jolt Capital in Montreal\r\n\r\nAs part of our international development, we are looking for a VIE Transaction Services Analyst to join our Montreal office. You will be fully integrated into the Canadian team and work closely with colleagues across Jolt’s international platform. For all Transaction Services assignments, methodologies and deliverables, you will work under the functional and technical supervision of the Director of Transaction Services.\r\n\r\nYour Mission\r\nAs a VIE Transaction Services Analyst, you will support the analysis and execution of investments, add-on acquisitions and selected exit processes. You will work on live transactions and portfolio projects, turning complex financial information into clear insights for investment decisions. This is a hands-on role offering early responsibility, direct exposure to senior professionals and a unique opportunity to understand how deeptech companies scale internationally.\r\n\r\nWhat You Will Do\r\n•\tSupport financial due diligence on potential investments, add-on acquisitions and selected exit processes.\r\n•\tAnalyse historical and forecast financial performance, including revenue quality, margins, working capital, cash conversion and key operating drivers.\r\n•\tReview financial models, business plans, accounting data and management information, and identify the principal risks, sensitivities and value drivers.\r\n•\tContribute to quality of earnings, net debt and working-capital analyses, adapting standard approaches to the specific economics of deeptech and high-growth businesses.\r\n•\tPrepare clear, decision-oriented analyses and materials for deal teams, partners and Investment Committees.\r\n•\tCoordinate selected workstreams with portfolio company management teams, external advisers, accountants and other due diligence providers.\r\n•\tSupport portfolio companies on ad hoc finance and transaction-related projects, including KPI structuring, reporting, financing, bolt-on acquisitions and exit readiness.\r\n•\tDevelop transaction benchmarks, analytical tools and repeatable methodologies for the Transaction Services team.\r\n•\tUse Jolt.Ninja and other data sources to enrich financial analysis, market understanding and investment decision-making.\r\n•\tContribute actively to the firm’s international platform by working across teams, geographies and areas of expertise.\r\n\r\nWhy Join Us?\r\nAt Jolt, you will join a lean, entrepreneurial and international team where high standards go hand in hand with collaboration. We value people who ask the right questions, take ownership and are willing to go beyond the numbers to understand a technology, a market and a business model. You will be trusted with meaningful work from the outset and encouraged to contribute your point of view.\r\n\r\nWhat This VIE Will Offer You\r\n•\tHands-on exposure to live growth private equity transactions and strategic portfolio projects.\r\n•\tClose collaboration with Jolt’s Transaction Services leadership, investment professionals and senior operating experts.\r\n•\tA distinctive learning environment combining financial analysis, deeptech, international growth and value creation.\r\n•\tMeaningful responsibility in a lean team, with direct visibility on how analytical work informs investment decisions.\r\n•\tAn international experience in Montreal, connected to Jolt’s teams and portfolio across Europe, North America and Asia.\r\n\r\n•\tTeam: Integrated into the Canadian team, with a functional and technical reporting line to the Director of Transaction Services for all Transaction Services matters.",
     "creationDate": "2026-10-13T13:27:32Z",
     "missionStartDate": "2027-02-01T00:00:00",
