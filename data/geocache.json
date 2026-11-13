@@ -671,5 +671,15 @@
   "ville|augsburg|allemagne": {
     "lat": 48.3690341,
     "lon": 10.8979522
+  },
+  "entreprise|rci banque|ljubljana|slovenie": null,
+  "ville|ljubljana|slovenie": {
+    "lat": 46.0500268,
+    "lon": 14.5069289
+  },
+  "entreprise|nexans france|melbourne|australie": null,
+  "ville|melbourne|australie": {
+    "lat": -37.8142454,
+    "lon": 144.9631732
   }
 }

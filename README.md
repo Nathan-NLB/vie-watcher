@@ -8,11 +8,89 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **13/11/2026 11:01:06**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **13/11/2026 11:15:59**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>BUSINESS & FINANCIAL CONTROLLER (H/F)</strong> · RCI BANQUE · LJUBLJANA, SLOVENIE · 2 145,81 €/mois</summary>
+
+- **Entreprise :** RCI BANQUE
+- **Lieu :** LJUBLJANA, SLOVENIE
+- **Indemnité :** 2 145,81 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 13/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à sa solide expérience en contrôle de gestion, sa maîtrise d'Excel et son niveau d'anglais courant. Le seul léger écart concerne la destination, l'offre étant basée en Slovénie alors que le candidat ciblait initialement l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248298](https://mon-vie-via.businessfrance.fr/offres/248298)
+
+**Description du poste**
+
+Mobilize Financial Services, filiale de Renault Group, est une banque de financement solide, partenaire des constructeurs Renault et d’autres marques du secteur automobile. Nos 4 000 collaborateurs présents dans 35 pays, agissent ensemble au service de nos clients. 
+Nous proposons à nos clients - particuliers comme professionnels - les financements et les services les plus adaptés pour les véhicules neufs et d'occasion.
+Mobilize Financial Services a financé plus de 1,2 million de dossiers (véhicules neufs et véhicules d’occasion) en 2023 et vendu 3,9 millions de services. À fin décembre 2023, les actifs productifs moyens sont de 51,2 milliards d’euros de financement et le résultat avant impôts est de 1 034 millions d’euros. Nous proposons également des offres d’épargne dans 7 pays.
+
+Rejoignez notre équipe et jouez un rôle dynamique dans le domaine de la finance, en travaillant en étroite collaboration avec le directeur financier au sein de notre filiale Slovène.
+Vous serez responsable des principales tâches financières dans trois pays (Slovénie, Croatie et Serbie):
+
+- Préparer et analyser les clôtures mensuelles, les rapports et les prévisions.
+- Participer activement à l'optimisation des processus, à l'amélioration des outils de reporting et à la gestion des bases de données internes.
+- Soutenir les filiales dans le suivi des risques financiers et de la trésorerie.
+- Assurer la réconciliation entre la comptabilité et la gestion, en s'alignant sur les normes du groupe et en contribuant à l'intégration de la gestion des risques financiers.
+- Contribuer à l'intégration d'un nouveau système de portefeuille informatique prévu en 2027.
+- Réalisation d'analyses de rentabilité, de simulations financières et de travaux de tarification en partenariat avec les équipes commerciales et marketing. 
+Ce poste offre une exposition importante aux décideurs de l'entreprise et de nombreuses interactions avec les principales parties prenantes du groupe, dans un environnement international et en pleine transformation.
+
+**Profil recherché**
+
+Les candidats idéaux pour ce poste :
+
+- Cherchent à développer de solides compétences en matière de réflexion analytique et de résolution de problèmes
+- Veulent devenir indépendants et compétents dans l'analyse, le pilotage et la présentation des résultats financiers
+- Esprit de synthèse permettant de transformer des données complexes en informations claires et exploitables
+- Proactivité et capacité à prendre des initiatives
+- Bonnes compétences organisationnelles et aptitude à gérer plusieurs sujets en parallèle
+- Vous avez de solides compétences en communication et une bonne maîtrise de l'anglais
+- Diplômé en finance, fortes capacités d'analyse et de synthèse
+Vous avez le sens des responsabilités et de la fiabilité, le souci de la confidentialité, le souci du détail et de l'exactitude, le sens de l'organisation 
+- Maîtrise du pack Office, en particulier Excel
+- Expérience dans la gestion de bases de données
+
+</details>
+
+<details>
+<summary><strong>Financial Planning & Analysis (H/F)</strong> · NEXANS FRANCE · MELBOURNE, AUSTRALIE · 3 435,37 €/mois</summary>
+
+- **Entreprise :** NEXANS FRANCE
+- **Lieu :** MELBOURNE, AUSTRALIE
+- **Indemnité :** 3 435,37 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 13/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le candidat possède une excellente adéquation technique (maîtrise d'Excel et Power BI, compétences solides en contrôle budgétaire, reporting et analyse de rentabilité) et un niveau d'anglais courant (TOEIC 925). Le principal écart réside dans l'expérience requise (2 ans pour le candidat contre 3 à 4 ans demandés) et la non-mention explicite d'un ERP type SAP dans son profil actuel.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248273](https://mon-vie-via.businessfrance.fr/offres/248273)
+
+**Description du poste**
+
+Nexans is a global electrification player, with around 10,000 employees in 39 countries and €7.1 billion in standard sales in 2024. The Group has committed to a Net-Zero 2050 trajectory and is organized around four business areas. As part of its strategy to accelerate electrification through technology solutions, Nexans requires timely, reliable financial and operational analysis to deliver profitable growth. The FP&A function plays a central role in this: providing insight, supporting strategic decisions, strengthening financial discipline and driving operational excellence.
+
+Within the Nexans Australia Finance team, based in Melbourne, the V.I.E will contribute to financial planning, forecasting, performance analysis, management reporting and process improvement in a complex industrial and manufacturing environment. The role works closely with the Finance Director Oceania and FP&A leadership, and partners with Sales, Supply Chain and Operations to connect financial performance with the underlying commercial and operational drivers. It supports the business in understanding what is driving performance, where risks and opportunities are emerging and what actions may be required, with exposure to the wider Oceania, APAC and Group finance network.
+
+Missions include supporting the monthly closing, forecasting, annual budget and strategic planning cycles; building an integrated view of P&L, cash flow, working capital and fixed costs, and explaining variances versus budget, forecast and prior year; performing root-cause analysis of performance drivers (volume, price, mix, productivity, inventory, sourcing, headcount, spend); preparing Business Review packs, financial bridges, management commentary and PowerPoint presentations for the Finance Director and leadership team; maintaining reconciliations and data consistency across SAP, HFM or other consolidation tools, Excel models, Power BI dashboards and local reporting sources; supporting scenario and sensitivity analysis, constructively challenging assumptions and highlighting risks, opportunities and recommended actions; developing and automating recurring dashboards and reports in Excel and Power BI; contributing to balance-sheet reviews, internal controls and audit support; delivering ad hoc analysis, business cases and tracking of productivity and cost-out initiatives; collaborating with APAC and Group finance teams on reporting requirements, deadlines, templates and process or system improvements, including SAP-related initiatives; and documenting models, definitions and procedures to build scalable processes and reduce key-person dependency.
+
+This 12- to 24-month assignment in Melbourne offers direct exposure to the Finance Director Oceania, FP&A leadership and senior stakeholders across Australia and the region, with hands-on responsibility across closing, forecasting, budgeting, performance analysis, business partnering and management reporting. It allows the volunteer to deepen expertise in SAP-enabled finance processes, Power BI, automation, financial modelling and operational performance management, within a multicultural and matrixed organization spanning Australia, New Zealand, APAC and the Group.
+
+**Profil recherché**
+
+Master’s degree (5-year level) in Finance, Accounting, Economics, Business Administration or a related discipline; a recognized accounting qualification is an advantage. Minimum 3-4 years of professional experience in FP&A, controlling, commercial finance, management accounting or financial audit, ideally in an industrial or manufacturing environment, with a good understanding of P&L, cash, working capital, inventory, fixed costs and operational performance drivers. Big Four audit experience is a plus.
+
+Strong FP&A capabilities: budgeting, forecasting, variance analysis, financial modelling, scenario analysis and management reporting. Hands-on SAP or comparable ERP knowledge is required; experience with HFM or another consolidation tool is highly desirable. Advanced Excel skills and confidence working with large datasets; Power BI and reporting-automation experience are strongly preferred.
+
+Clear, structured and critical thinker who can frame ambiguous problems, test assumptions, distinguish material issues from noise and reach practical conclusions. Strong analytical discipline and data-reconciliation skills, with high standards for accuracy, control and documentation. Excellent written and verbal communication skills, with the ability to explain complex analysis simply and produce high-quality PowerPoint presentations. Business-oriented, curious and proactive, comfortable working autonomously while building effective relationships across functions and cultures.
+
+Fluent English is required; French is an asset. Willingness to relocate to Melbourne and eligibility for a V.I.E assignment are required.
+
+</details>
 
 <details>
 <summary><strong>FINANCE OPERATIONS & CONTROL – ALLEMAGNE (H/F)</strong> · SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE · AUGSBURG, ALLEMAGNE · 3 027,63 €/mois</summary>
