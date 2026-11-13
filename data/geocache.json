@@ -691,5 +691,10 @@
   "ville|curitiba|bresil": {
     "lat": -25.4295963,
     "lon": -49.2712724
+  },
+  "entreprise|schneider electric industries sas|uccle|belgique": null,
+  "ville|uccle|belgique": {
+    "lat": 50.8035441,
+    "lon": 4.3338445
   }
 }
