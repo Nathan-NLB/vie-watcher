@@ -350,8 +350,8 @@
     "ca": null,
     "effectif": 0,
     "effectifFiscal": "0",
-    "effectifInd": "238",
-    "effectifConso": "0",
+    "effectifInd": "250",
+    "effectifConso": "4898",
     "organizationCountryCounter": "0",
     "organizationExpertise": null,
     "cityAffectationId": 0,
@@ -360,16 +360,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Envie de lancer votre carrière dans un environnement international et stimulant ? \nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 LE CONTEXTE\nAu sein de l’équipe Finance de SII Allemagne, basée à Augsburg, vous contribuez à fiabiliser et sécuriser les données financières et opérationnelles de l’entité. Dans une structure en pleine croissance, où les processus sont encore en construction, vous jouez un rôle clé dans la qualité des comptes et l’amélioration des pratiques.\nLe poste sera basé à Augsburg, de préférence. Un poste basé à Munich est également possible, avec au moins un jour par semaine sur site à Augsbourg (à environ une heure de route de Munich).\n\n🎯 VOS MISSIONS\n1. Clôtures comptables\n· Participer aux clôtures mensuelles et annuelles.\n· Analyser le bilan et le compte de résultat (BS & P&L review).\n\n2. Contrôles et réconciliations\n· Réaliser les contrôles et rapprochements comptables.\n· Contrôler le chiffre d’affaires, les encours (WIP) et la production.\n· Assurer les contrôles intercompany.\n\n3. Amélioration continue\n· Identifier les axes d’amélioration des processus et contribuer à leur mise en place.\n· Participer à la formalisation des procédures.",
     "creationDate": "2026-11-12T12:36:05Z",
     "missionStartDate": "2027-02-01T00:00:00",
