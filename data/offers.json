@@ -633,16 +633,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Poste et missions:\n\nPionnier du crédit à distance, COFIDIS Group a connu depuis plusieurs décennies un développement important et continu de ses activités, à la fois en termes d’expansion internationale et de diversification de son offre et de ses services. Nous nous appuyons également sur les savoir-faire complémentaires de notre actionnaire majoritaire : le Groupe Crédit Mutuel Alliance Fédérale.\n\nLa filiale de COFIDIS en Pologne est la plus jeune de notre Groupe implanté dans 9 pays en Europe.\nNous recrutons pour notre filiale polonaise un V.I.E en Finance (Comptabilité / Contrôle de Gestion / Trésorerie) dans le but d’accompagner notre activité.\n\nSous la responsabilité du Controlling Manager, et à l'issue de votre période de formation, vous prendrez en charge des activités financières. \nPour cela, vous :\n• Produisez des rapports hebdomadaires, mensuels, trimestriels et annuels, ainsi que d’analyses ponctuelles à la demande.\n• Participez au processus budgétaire.\n• Analysez les écarts en lien avec les activités au service de la performance.\n• Préparez les rapports, d’analyses et de présentations liés à l’activité de l’entreprise, destinés au comité de direction et aux comités.\n• Garantissez la qualité et la fiabilité des données, rapports et présentations produits.\n• Automatisez les rapports existants dans une logique d'amélioration continue.\n• Participez aux audits financiers et au contrôle interne.",
     "creationDate": "2026-11-10T17:20:49Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -826,8 +819,8 @@
     "ca": null,
     "effectif": 0,
     "effectifFiscal": "0",
-    "effectifInd": "238",
-    "effectifConso": "0",
+    "effectifInd": "250",
+    "effectifConso": "4898",
     "organizationCountryCounter": "0",
     "organizationExpertise": null,
     "cityAffectationId": 0,
@@ -836,16 +829,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII en VIE et vivez une expérience humaine et technologique unique !\n\nYOU MISSIONS :\nRattaché(e) à la Responsable du Contrôle financier International, le/la Contrôleur Financier International contribue à la fiabilité du reporting financier des filiales internationales et au déploiement des projets de transformation de la fonction Finance. \nIl/elle intervient principalement sur les activités de contrôle, d'analyse, de reporting et de maintien de la qualité des données financières. \n\n Votre rôle sera organisé en deux volets principaux :\n1.\tCONTRÔLE DE GESTION ET REPORTING INTERNATIONAL\nRevue des reportings mensuels \n•\tParticiper au processus de remontée des reporting mensuels \n•\tContrôler la cohérence et l'exhaustivité des informations transmises par les filiales. \n•\tRéaliser des contrôles de cohérence entre les différents outils financiers. \n•\tIdentifier les anomalies et assurer leur résolution avec les équipes locales. \nSuivi des indicateurs de performance \n•\tContrôler l'évolution des principaux KPIs  \n•\tAnalyser les ecarts, trouver les causes racines, presenter aux equipes dans le cadre des chantiers d'amelioration continue \n\n2.\tSUPPORT AU DEPLOIEMENT DE L’ERP GROUPE A TRAVERS LES FILIALES \nAccompagnement des projets de migration \n•\tParticiper aux phases de préparation des déploiements IFS comptabilité en lien avec l’équipe IT. \n•\tRéaliser les contrôles liés aux migrations de données. \n•\tContribuer aux campagnes de tests utilisateurs. \n•\tSuivre les incidents et anomalies fonctionnelles. \nSupport utilisateurs \n•\tAssister les équipes Finance dans l'utilisation des nouveaux processus. \n•\tParticiper à la rédaction de procédures et guides utilisateurs. \n•\tContribuer aux actions de formation. \nContrôle des données de référence \n•\tVérifier la qualité des données clients, fournisseurs, projets et collaborateurs. \n•\tParticiper aux opérations de fiabilisation des bases de données.",
     "creationDate": "2026-09-25T13:26:57Z",
     "missionStartDate": "2027-02-01T00:00:00",
