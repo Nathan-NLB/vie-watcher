@@ -203,6 +203,132 @@
     "dateCandidature": null
   },
   {
+    "id": 245507,
+    "organizationName": "FORTIL GROUP",
+    "missionTitle": "INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F)",
+    "missionDuration": 12,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "Fortil, groupe d'ingénierie et de conseil en technologie, Fortil est un modèle pensé par des ingénieurs entrepreneurs. Collaborer avec Fortil, c’est travailler avec une communauté ambitieuse et experte, animée par l'exactitude, le challenge et l'émulation.  Nous sommes aujourd'hui plus de 2 400 collaborateurs à œuvrer chaque jour pour faire de Fortil le plus grand acteur de l'ingénierie indépendant d'Europe.  Nous avons pour ambition de contribuer à la construction d’un monde plus responsable, plus collectif, plus inclusif pour nos collaborateurs et nos clients.",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "50",
+    "effectifInd": "20",
+    "effectifConso": "46",
+    "organizationCountryCounter": "15",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "LIEGE",
+    "cityNameEn": "LIEGE",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"2\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"71\",\"73\",\"110\",\"112\",\"114\",\"133\",\"143\",\"144\",\"145\",\"149\",\"155\",\"158\",\"159\",\"160\",\"161\",\"168\",\"169\",\"205\",\"206\",\"207\",\"208\",\"213\",\"244\",\"245\",\"246\",\"247\",\"248\",\"249\",\"251\",\"327\",\"328\",\"329\",\"330\",\"331\",\"345\",\"355\",\"358\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique\n\nNos ingénieur(e)s Systèmes Embarqués pilotent en partie les activités de « Digital Transformation ». Nous prenons actuellement en main des sujets d envergure dans les domaines de la défense, du maritime, des transports, de l'industrie, de l'énergétique, ou encore des maisons intelligentes.\n\nNos interventions s articulent autour de problématiques techniques liées aux dimensions :\n- Software Development\n- Embedded/Iot\n- Devops/integration\n- Infrastructure / infogerance\n- Data & Artificial intelligence\n- Digitalisation\n\nVos responsabilités métier\n\nPour accompagner l'équipe, vous êtes capable de prendre le lead sur tout ou partie dans un environnement embarqué des responsabilités métiers suivantes :\n\nDescription\n· Définir le besoin et rédiger le cahier des charges avec le client\n· Définir les spécifications techniques\n· Etablir l architecture logicielle\n· Développer de nouvelles fonctionnalités en C/C++ sur microcontrôleur ou Linux embarqué\n· Reprendre du code existant et le mettre à jour\n· Réaliser l intégration des briques logicielles\n· Tester et valider la solution\n· Etre support technique, analyser et corriger les défauts\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.\n\n\nVos atouts pour réussir\n\n· Vous avez de l expérience en développement (bas niveau ou applicatif) mais aussi en intégration\n· Vous maîtrisez les langages C/C++\n· Vous êtes sensibilisé(e) aux différents environnements suivants : Linux embarqué, Bare Metal, et OS temps réel\n· Vous avez déjà utilisé des microcontrôleurs pour l embarqué (PowerPC, ARM Cortex M4, M7, A9 )\n· Vous maîtrisez les outils de versioning Git/SVN\n· Idéalement, vous travaillez au quotidien avec la méthode Agile notamment avec Jira ou Azure DevOps\n· Vous êtes habitué(e) à utiliser des outils de suivi de bug\n· Vous savez vous servir d appareils de mesures tels que les oscilloscopes, les multimètres et les analyseurs de spectres\n· Vous êtes familier(ère) avec des protocoles de communication standards\n· Vous êtes capable de lire un schéma électronique\n· Vous maîtrisez l anglais technique",
+    "creationDate": "2026-08-31T08:20:36Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-13T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-12-13T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "Vous êtes diplômé(e) d une formation Bac+5 en informatique ou électronique et justifiez d'une première expérience sur un poste similaire.\n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.\n\nCe poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.",
+    "countryId": "BE",
+    "countryName": "BELGIQUE",
+    "countryNameEn": "BELGIUM",
+    "reference": "VIE245507",
+    "contactFirstName": "Jehanne",
+    "contactLastName": "Ravel",
+    "contactCivility": "Madame",
+    "contactName": "Madame Jehanne RAVEL",
+    "indemnite": 2978.53,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "jehanne.ravel@fortil.group",
+    "cityAffectation": "LIEGE",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "",
+    "dateCandidature": null
+  },
+  {
+    "id": 245348,
+    "organizationName": "FORTIL GROUP",
+    "missionTitle": "INGÉNIEUR SUPPLY CHAIN (H/F)",
+    "missionDuration": 12,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "Fortil, groupe d'ingénierie et de conseil en technologie, Fortil est un modèle pensé par des ingénieurs entrepreneurs. Collaborer avec Fortil, c’est travailler avec une communauté ambitieuse et experte, animée par l'exactitude, le challenge et l'émulation.  Nous sommes aujourd'hui plus de 2 400 collaborateurs à œuvrer chaque jour pour faire de Fortil le plus grand acteur de l'ingénierie indépendant d'Europe.  Nous avons pour ambition de contribuer à la construction d’un monde plus responsable, plus collectif, plus inclusif pour nos collaborateurs et nos clients.",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "50",
+    "effectifInd": "20",
+    "effectifConso": "46",
+    "organizationCountryCounter": "15",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "LIEGE",
+    "cityNameEn": "LIEGE",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. \n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions : \nSupply chain & distribution \nRéalisation d'audit\nRéalisation de plans d'actions\n\nVos responsabilités métier \n\nDans l’exercice de vos fonctions, vous serez amené à : \nOptimiser les flux de production\nIdentifier et suivre les actions d’amélioration avec les équipes internes \nSuivre et pérenniser les plans d’actions via des audits\nPiloter la planification de la production en fonction de la demande client et des capacités industrielles\nOptimiser les flux de matières, d’informations et de produits finis\nGérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités\nAccompagner les équipes dans la mise en place des bonnes pratiques\nCoordonner les projets d’amélioration de la maturité Supply Chain\nAnalyser les indicateurs de performance (KPI) et proposer des actions correctives\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
+    "creationDate": "2026-08-21T14:42:01Z",
+    "missionStartDate": "2027-01-01T00:00:00",
+    "missionEndDate": "2028-01-01T00:00:00",
+    "startBroadcastDate": "2026-11-13T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-12-13T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "Votre profil et votre personnalité\n\nDe formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie en industrie.\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.",
+    "countryId": "BE",
+    "countryName": "BELGIQUE",
+    "countryNameEn": "BELGIUM",
+    "reference": "VIE245348",
+    "contactFirstName": "Jehanne",
+    "contactLastName": "Ravel",
+    "contactCivility": "Madame",
+    "contactName": "Madame Jehanne RAVEL",
+    "indemnite": 2978.53,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "jehanne.ravel@fortil.group",
+    "cityAffectation": "LIEGE",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "",
+    "dateCandidature": null
+  },
+  {
     "id": 248264,
     "organizationName": "SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE",
     "missionTitle": "FINANCE OPERATIONS & CONTROL – ALLEMAGNE (H/F)",
@@ -3311,83 +3437,6 @@
     "dateCandidature": null
   },
   {
-    "id": 208880,
-    "organizationName": "MILLET MOUNTAIN GROUP SAS",
-    "missionTitle": "Chargé(e) de projet performance Usine (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "199",
-    "effectifInd": "215",
-    "effectifConso": "222",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "SAHLINE",
-    "cityNameEn": "SAHLINE",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "158",
-      "205"
-    ],
-    "specializations": [
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
-    "missionDescription": "Missions principale : \r\n- Coordination projets et suivi des projets transformation digitale de l’usine avec le siège (lien siège/usine pour faire avancer les projets usine)\r\n - Projet de mise en place de la GPAO\r\n- Assistance de l’équipe de Direction de l’usine sur les sujets de performance : renforcement de la polyvalence, adaptabilité/réactivité de l’organisation industrielle\r\n- Mise en place nouvelle ligne de production polyvalente\r\n- Chiffrage des systèmes de rémunération et compensation adaptés\r\n- Collecte de datas « terrain » pour consolidation reporting, Challenger les KPIS industriels\r\n- Consolidation de l’ensemble de reporting et tableaux de bord industriels : production – consommations tissus – flux polyvalence atelier \r\n- Consolidation reporting P&L mensuel et analyse des principaux écarts vs objectifs\r\n- Lien terrain CDG (Business partner) avec le siège également donc interaction comptabilité Tunisienne avec notre cabinet local",
-    "creationDate": "2024-06-26T19:02:49Z",
-    "missionStartDate": "2027-05-01T00:00:00",
-    "missionEndDate": "2028-05-01T00:00:00",
-    "startBroadcastDate": "2026-11-02T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-12-02T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "De formation supérieure type ingénieur, vous avez une première expérience en gestion de projets industriels (y compris un apprentissage ou stage de césure). Vous maîtrisez les outils du contrôle de gestion et de contrôle budgétaire.\r\n\r\nVotre curiosité et votre tempérament sociable feront de vous un allier précieux des opérationnels. Force de proposition, vous avez le goût du terrain afin de mener à bien des missions transverses.\r\n\r\nLe respect des délais et la discrétion sont essentiels pour réussir dans ce poste. Autonome et rigoureux(se), vous êtes force de proposition dans votre quotidien (proposition de nouveaux indicateurs) et êtes à l'aise avec les outils informatiques et bureautiques (Excel, outil de consolidation, ...).",
-    "countryId": "TN",
-    "countryName": "TUNISIE",
-    "countryNameEn": "TUNISIA",
-    "reference": "VIE208880",
-    "contactFirstName": "Maëva MAJDZERCZAK",
-    "contactLastName": "Maëva MAJDZERCZAK",
-    "contactCivility": "Monsieur",
-    "contactName": "Madame Chloé RIBES-MARTINEZ",
-    "indemnite": 1743.46,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "",
-    "cityAffectation": "SAHLINE",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "https://jobs.milletmountaingroup.com/jobs/8613869-vie-tunisie-12-mois-charge-e-de-projet-performance-usine/b120bed3-1d03-41da-9ba8-bb2b6d502c4b",
-    "dateCandidature": null
-  },
-  {
     "id": 247765,
     "organizationName": "AMUNDI ASSET MANAGEMENT",
     "missionTitle": "Distribution Support Officer (H/F)",
@@ -6388,748 +6437,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "https://careers.mantu.com/brands/mantu/jobs/45059",
-    "dateCandidature": null
-  },
-  {
-    "id": 245507,
-    "organizationName": "FORTIL GROUP",
-    "missionTitle": "INGÉNIEUR SYSTÈMES EMBARQUÉS (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "Fortil, groupe d'ingénierie et de conseil en technologie, Fortil est un modèle pensé par des ingénieurs entrepreneurs. Collaborer avec Fortil, c’est travailler avec une communauté ambitieuse et experte, animée par l'exactitude, le challenge et l'émulation.  Nous sommes aujourd'hui plus de 2 400 collaborateurs à œuvrer chaque jour pour faire de Fortil le plus grand acteur de l'ingénierie indépendant d'Europe.  Nous avons pour ambition de contribuer à la construction d’un monde plus responsable, plus collectif, plus inclusif pour nos collaborateurs et nos clients.",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "50",
-    "effectifInd": "20",
-    "effectifConso": "46",
-    "organizationCountryCounter": "15",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "LIEGE",
-    "cityNameEn": "LIEGE",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "2",
-      "60",
-      "62",
-      "63",
-      "64",
-      "65",
-      "66",
-      "71",
-      "73",
-      "110",
-      "112",
-      "114",
-      "133",
-      "143",
-      "144",
-      "145",
-      "149",
-      "155",
-      "158",
-      "159",
-      "160",
-      "161",
-      "168",
-      "169",
-      "205",
-      "206",
-      "207",
-      "208",
-      "213",
-      "244",
-      "245",
-      "246",
-      "247",
-      "248",
-      "249",
-      "251",
-      "327",
-      "328",
-      "329",
-      "330",
-      "331",
-      "345",
-      "355",
-      "358"
-    ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "60",
-        "specializationParentId": "59",
-        "specializationLabel": "Aéronautique",
-        "specializationLabelEn": "Aeronautics"
-      },
-      {
-        "specializationId": "62",
-        "specializationParentId": "196",
-        "specializationLabel": "Bâtiment – Construction – Second Oeuvre",
-        "specializationLabelEn": "Building - Construction - Finishings"
-      },
-      {
-        "specializationId": "63",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie - Génie Chimique",
-        "specializationLabelEn": "Chemicals - Chemical Engineering"
-      },
-      {
-        "specializationId": "64",
-        "specializationParentId": "59",
-        "specializationLabel": "Dessin industriel",
-        "specializationLabelEn": "Industrial Design"
-      },
-      {
-        "specializationId": "65",
-        "specializationParentId": "59",
-        "specializationLabel": "Electromécanique",
-        "specializationLabelEn": "Electro-mechanics"
-      },
-      {
-        "specializationId": "66",
-        "specializationParentId": "59",
-        "specializationLabel": "Electronique",
-        "specializationLabelEn": "Electronics"
-      },
-      {
-        "specializationId": "71",
-        "specializationParentId": "59",
-        "specializationLabel": "Génie Electrique",
-        "specializationLabelEn": "Electrical Engineering"
-      },
-      {
-        "specializationId": "73",
-        "specializationParentId": "59",
-        "specializationLabel": "Instrumentation - Automatisme - Robotique",
-        "specializationLabelEn": "Instrumentation - Automatism - Robotics"
-      },
-      {
-        "specializationId": "110",
-        "specializationParentId": "59",
-        "specializationLabel": "Automobile",
-        "specializationLabelEn": "Automobile"
-      },
-      {
-        "specializationId": "112",
-        "specializationParentId": "212",
-        "specializationLabel": "Modélisation et Méthodes Informatiques",
-        "specializationLabelEn": "Modelling and IT Methodology"
-      },
-      {
-        "specializationId": "114",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie des matériaux",
-        "specializationLabelEn": "Materials sector"
-      },
-      {
-        "specializationId": "133",
-        "specializationParentId": "227",
-        "specializationLabel": "Défense",
-        "specializationLabelEn": "Defence"
-      },
-      {
-        "specializationId": "143",
-        "specializationParentId": "59",
-        "specializationLabel": "Microélectronique",
-        "specializationLabelEn": "Microelectronics"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "145",
-        "specializationParentId": "196",
-        "specializationLabel": "Génie urbain",
-        "specializationLabelEn": "Urban Engineering"
-      },
-      {
-        "specializationId": "149",
-        "specializationParentId": "58",
-        "specializationLabel": "Génie Industriel",
-        "specializationLabelEn": "Industrial Engineering"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "159",
-        "specializationParentId": "59",
-        "specializationLabel": "Soudage",
-        "specializationLabelEn": "Welding"
-      },
-      {
-        "specializationId": "160",
-        "specializationParentId": "59",
-        "specializationLabel": "Fonderie",
-        "specializationLabelEn": "Foundry"
-      },
-      {
-        "specializationId": "161",
-        "specializationParentId": "59",
-        "specializationLabel": "Froid et Climatisation",
-        "specializationLabelEn": "Cold and Air Conditioning"
-      },
-      {
-        "specializationId": "168",
-        "specializationParentId": "255",
-        "specializationLabel": "Nucléaire",
-        "specializationLabelEn": "Nuclear Industry"
-      },
-      {
-        "specializationId": "169",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie des procédés",
-        "specializationLabelEn": "Process Engineering"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "207",
-        "specializationParentId": "58",
-        "specializationLabel": "Méthodes - Process",
-        "specializationLabelEn": "Methods"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "213",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique embarquée",
-        "specializationLabelEn": "Embedded systems"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "245",
-        "specializationParentId": "24",
-        "specializationLabel": "Architecture des systèmes d'information",
-        "specializationLabelEn": "IT architecture / Cloud and virtualisation"
-      },
-      {
-        "specializationId": "246",
-        "specializationParentId": "24",
-        "specializationLabel": "Cybersecurité - protection des données",
-        "specializationLabelEn": "IT security"
-      },
-      {
-        "specializationId": "247",
-        "specializationParentId": "24",
-        "specializationLabel": "Support informatique",
-        "specializationLabelEn": "Helpdesk"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "249",
-        "specializationParentId": "24",
-        "specializationLabel": "Gestion parc informatique",
-        "specializationLabelEn": "Computer park management"
-      },
-      {
-        "specializationId": "251",
-        "specializationParentId": "24",
-        "specializationLabel": "Ingénierie système",
-        "specializationLabelEn": "Systems engineering"
-      },
-      {
-        "specializationId": "327",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique et Sciences des Données",
-        "specializationLabelEn": "Informatique et Sciences des Données"
-      },
-      {
-        "specializationId": "328",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique de Gestion",
-        "specializationLabelEn": "Informatique de Gestion"
-      },
-      {
-        "specializationId": "329",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique Fondamentale",
-        "specializationLabelEn": "Informatique Fondamentale"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      },
-      {
-        "specializationId": "331",
-        "specializationParentId": "212",
-        "specializationLabel": "Réseaux et Sécurité Informatique",
-        "specializationLabelEn": "Réseaux et Sécurité Informatique"
-      },
-      {
-        "specializationId": "345",
-        "specializationParentId": "214",
-        "specializationLabel": "Propriété intellectuelle",
-        "specializationLabelEn": "Propriété intellectuelle"
-      },
-      {
-        "specializationId": "355",
-        "specializationParentId": "24",
-        "specializationLabel": "Intelligence artificielle / IA",
-        "specializationLabelEn": "Intelligence artificielle / IA"
-      },
-      {
-        "specializationId": "358",
-        "specializationParentId": "24",
-        "specializationLabel": "ERP management",
-        "specializationLabelEn": "ERP management"
-      }
-    ],
-    "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique\n\nNos ingénieur(e)s Systèmes Embarqués pilotent en partie les activités de « Digital Transformation ». Nous prenons actuellement en main des sujets d envergure dans les domaines de la défense, du maritime, des transports, de l'industrie, de l'énergétique, ou encore des maisons intelligentes.\n\nNos interventions s articulent autour de problématiques techniques liées aux dimensions :\n- Software Development\n- Embedded/Iot\n- Devops/integration\n- Infrastructure / infogerance\n- Data & Artificial intelligence\n- Digitalisation\n\nVos responsabilités métier\n\nPour accompagner l'équipe, vous êtes capable de prendre le lead sur tout ou partie dans un environnement embarqué des responsabilités métiers suivantes :\n\nDescription\n· Définir le besoin et rédiger le cahier des charges avec le client\n· Définir les spécifications techniques\n· Etablir l architecture logicielle\n· Développer de nouvelles fonctionnalités en C/C++ sur microcontrôleur ou Linux embarqué\n· Reprendre du code existant et le mettre à jour\n· Réaliser l intégration des briques logicielles\n· Tester et valider la solution\n· Etre support technique, analyser et corriger les défauts\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.\n\n\nVos atouts pour réussir\n\n· Vous avez de l expérience en développement (bas niveau ou applicatif) mais aussi en intégration\n· Vous maîtrisez les langages C/C++\n· Vous êtes sensibilisé(e) aux différents environnements suivants : Linux embarqué, Bare Metal, et OS temps réel\n· Vous avez déjà utilisé des microcontrôleurs pour l embarqué (PowerPC, ARM Cortex M4, M7, A9 )\n· Vous maîtrisez les outils de versioning Git/SVN\n· Idéalement, vous travaillez au quotidien avec la méthode Agile notamment avec Jira ou Azure DevOps\n· Vous êtes habitué(e) à utiliser des outils de suivi de bug\n· Vous savez vous servir d appareils de mesures tels que les oscilloscopes, les multimètres et les analyseurs de spectres\n· Vous êtes familier(ère) avec des protocoles de communication standards\n· Vous êtes capable de lire un schéma électronique\n· Vous maîtrisez l anglais technique",
-    "creationDate": "2026-08-31T08:20:36Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-19T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-11-18T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Vous êtes diplômé(e) d une formation Bac+5 en informatique ou électronique et justifiez d'une première expérience sur un poste similaire.\n\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains, vous serez valorisé sur votre performance et/ou celle de votre équipe.\n\nCe poste est ouvert aux personnes en situation de handicap, des adaptations de poste peuvent facilement être mises en place.",
-    "countryId": "BE",
-    "countryName": "BELGIQUE",
-    "countryNameEn": "BELGIUM",
-    "reference": "VIE245507",
-    "contactFirstName": "Jehanne",
-    "contactLastName": "Ravel",
-    "contactCivility": "Madame",
-    "contactName": "Madame Jehanne RAVEL",
-    "indemnite": 2978.53,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "jehanne.ravel@fortil.group",
-    "cityAffectation": "LIEGE",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
-    "dateCandidature": null
-  },
-  {
-    "id": 245348,
-    "organizationName": "FORTIL GROUP",
-    "missionTitle": "INGÉNIEUR SUPPLY CHAIN (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "Fortil, groupe d'ingénierie et de conseil en technologie, Fortil est un modèle pensé par des ingénieurs entrepreneurs. Collaborer avec Fortil, c’est travailler avec une communauté ambitieuse et experte, animée par l'exactitude, le challenge et l'émulation.  Nous sommes aujourd'hui plus de 2 400 collaborateurs à œuvrer chaque jour pour faire de Fortil le plus grand acteur de l'ingénierie indépendant d'Europe.  Nous avons pour ambition de contribuer à la construction d’un monde plus responsable, plus collectif, plus inclusif pour nos collaborateurs et nos clients.",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "50",
-    "effectifInd": "20",
-    "effectifConso": "46",
-    "organizationCountryCounter": "15",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "LIEGE",
-    "cityNameEn": "LIEGE",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "2",
-      "29",
-      "60",
-      "62",
-      "63",
-      "64",
-      "65",
-      "66",
-      "68",
-      "69",
-      "70",
-      "71",
-      "72",
-      "73",
-      "76",
-      "109",
-      "114",
-      "134",
-      "138",
-      "149",
-      "150",
-      "155",
-      "158",
-      "159",
-      "160",
-      "168",
-      "169",
-      "197",
-      "205",
-      "206",
-      "207",
-      "208",
-      "209",
-      "224",
-      "225",
-      "244",
-      "248",
-      "251",
-      "262",
-      "264",
-      "330",
-      "331",
-      "358",
-      "361"
-    ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "29",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique industrielle",
-        "specializationLabelEn": "Industrial Computing"
-      },
-      {
-        "specializationId": "60",
-        "specializationParentId": "59",
-        "specializationLabel": "Aéronautique",
-        "specializationLabelEn": "Aeronautics"
-      },
-      {
-        "specializationId": "62",
-        "specializationParentId": "196",
-        "specializationLabel": "Bâtiment – Construction – Second Oeuvre",
-        "specializationLabelEn": "Building - Construction - Finishings"
-      },
-      {
-        "specializationId": "63",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie - Génie Chimique",
-        "specializationLabelEn": "Chemicals - Chemical Engineering"
-      },
-      {
-        "specializationId": "64",
-        "specializationParentId": "59",
-        "specializationLabel": "Dessin industriel",
-        "specializationLabelEn": "Industrial Design"
-      },
-      {
-        "specializationId": "65",
-        "specializationParentId": "59",
-        "specializationLabel": "Electromécanique",
-        "specializationLabelEn": "Electro-mechanics"
-      },
-      {
-        "specializationId": "66",
-        "specializationParentId": "59",
-        "specializationLabel": "Electronique",
-        "specializationLabelEn": "Electronics"
-      },
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "69",
-        "specializationParentId": "255",
-        "specializationLabel": "Environnement - Ecologie",
-        "specializationLabelEn": "Environment - Ecology"
-      },
-      {
-        "specializationId": "70",
-        "specializationParentId": "196",
-        "specializationLabel": "Génie Civil – Travaux publics",
-        "specializationLabelEn": "Civil Engineering - Public Works"
-      },
-      {
-        "specializationId": "71",
-        "specializationParentId": "59",
-        "specializationLabel": "Génie Electrique",
-        "specializationLabelEn": "Electrical Engineering"
-      },
-      {
-        "specializationId": "72",
-        "specializationParentId": "255",
-        "specializationLabel": "Hydraulique - Thermique",
-        "specializationLabelEn": "Hydraulics - Thermal Industry"
-      },
-      {
-        "specializationId": "73",
-        "specializationParentId": "59",
-        "specializationLabel": "Instrumentation - Automatisme - Robotique",
-        "specializationLabelEn": "Instrumentation - Automatism - Robotics"
-      },
-      {
-        "specializationId": "76",
-        "specializationParentId": "59",
-        "specializationLabel": "Métallurgie",
-        "specializationLabelEn": "Metallurgy"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "114",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie des matériaux",
-        "specializationLabelEn": "Materials sector"
-      },
-      {
-        "specializationId": "134",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie de l'eau",
-        "specializationLabelEn": "Water Engineering"
-      },
-      {
-        "specializationId": "138",
-        "specializationParentId": "212",
-        "specializationLabel": "Intelligence artificielle",
-        "specializationLabelEn": "Artificial Intelligence"
-      },
-      {
-        "specializationId": "149",
-        "specializationParentId": "58",
-        "specializationLabel": "Génie Industriel",
-        "specializationLabelEn": "Industrial Engineering"
-      },
-      {
-        "specializationId": "150",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de la production",
-        "specializationLabelEn": "Production Management"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "159",
-        "specializationParentId": "59",
-        "specializationLabel": "Soudage",
-        "specializationLabelEn": "Welding"
-      },
-      {
-        "specializationId": "160",
-        "specializationParentId": "59",
-        "specializationLabel": "Fonderie",
-        "specializationLabelEn": "Foundry"
-      },
-      {
-        "specializationId": "168",
-        "specializationParentId": "255",
-        "specializationLabel": "Nucléaire",
-        "specializationLabelEn": "Nuclear Industry"
-      },
-      {
-        "specializationId": "169",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie des procédés",
-        "specializationLabelEn": "Process Engineering"
-      },
-      {
-        "specializationId": "197",
-        "specializationParentId": "89",
-        "specializationLabel": "Conducteur",
-        "specializationLabelEn": "Driver"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "207",
-        "specializationParentId": "58",
-        "specializationLabel": "Méthodes - Process",
-        "specializationLabelEn": "Methods"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "209",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité systèmes",
-        "specializationLabelEn": "Quality systems"
-      },
-      {
-        "specializationId": "224",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécatronique",
-        "specializationLabelEn": "Mecatronics"
-      },
-      {
-        "specializationId": "225",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécanique des fluides",
-        "specializationLabelEn": "Mechanics of fluids"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "251",
-        "specializationParentId": "24",
-        "specializationLabel": "Ingénierie système",
-        "specializationLabelEn": "Systems engineering"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      },
-      {
-        "specializationId": "331",
-        "specializationParentId": "212",
-        "specializationLabel": "Réseaux et Sécurité Informatique",
-        "specializationLabelEn": "Réseaux et Sécurité Informatique"
-      },
-      {
-        "specializationId": "358",
-        "specializationParentId": "24",
-        "specializationLabel": "ERP management",
-        "specializationLabelEn": "ERP management"
-      },
-      {
-        "specializationId": "361",
-        "specializationParentId": "24",
-        "specializationLabel": "Systèmes embarqués",
-        "specializationLabelEn": "Systèmes embarqués"
-      }
-    ],
-    "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. \n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions : \nSupply chain & distribution \nRéalisation d'audit\nRéalisation de plans d'actions\n\nVos responsabilités métier \n\nDans l’exercice de vos fonctions, vous serez amené à : \nOptimiser les flux de production\nIdentifier et suivre les actions d’amélioration avec les équipes internes \nSuivre et pérenniser les plans d’actions via des audits\nPiloter la planification de la production en fonction de la demande client et des capacités industrielles\nOptimiser les flux de matières, d’informations et de produits finis\nGérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités\nAccompagner les équipes dans la mise en place des bonnes pratiques\nCoordonner les projets d’amélioration de la maturité Supply Chain\nAnalyser les indicateurs de performance (KPI) et proposer des actions correctives\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
-    "creationDate": "2026-08-21T14:42:01Z",
-    "missionStartDate": "2026-12-01T00:00:00",
-    "missionEndDate": "2027-12-01T00:00:00",
-    "startBroadcastDate": "2026-10-19T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-11-18T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Votre profil et votre personnalité\n\nDe formation ingénieur ou équivalente, vous justifiez d’au moins une première expérience réussie en industrie.\nVous avez une appétence forte pour les projets complexes et la résolution de problématiques. On reconnait votre curiosité et votre culture technique dans le milieu professionnel mais aussi dans le milieu personnel. Vous avez une remise en cause facile et cherchez constamment à vous améliorer.\n\nVous entreprenez, portez des projets, des engagements. Vous challenger vos méthodes et vos idées pour vous dépasser et atteindre un haut niveau d’excellence. Dans ce contexte, vos moteurs peuvent être techniques, financiers ou humains.",
-    "countryId": "BE",
-    "countryName": "BELGIQUE",
-    "countryNameEn": "BELGIUM",
-    "reference": "VIE245348",
-    "contactFirstName": "Jehanne",
-    "contactLastName": "Ravel",
-    "contactCivility": "Madame",
-    "contactName": "Madame Jehanne RAVEL",
-    "indemnite": 2978.53,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "jehanne.ravel@fortil.group",
-    "cityAffectation": "LIEGE",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
     "dateCandidature": null
   },
   {
