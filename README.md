@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **13/11/2026 10:45:40**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **13/11/2026 11:01:06**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1892,51 +1892,6 @@ Professional competencies
 
 Additional requirements
 •	Willingness to travel occasionally, primarily to Luxembourg and Paris, as business needs require.
-
-</details>
-
-<details>
-<summary><strong>AUDITOR - GENERAL INSPECTION (H/F)</strong> · CACEIS · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
-
-- **Entreprise :** CACEIS
-- **Lieu :** DUBLIN, IRLANDE
-- **Indemnité :** 3 520,38 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 05/11/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en termes de formation (Master en cours), de compétences financières et d'anglais courant. Cependant, l'offre relève de l'audit interne bancaire (Inspection Générale) alors que son expérience et ses aspirations se situent plutôt en contrôle de gestion et FP&A.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247936](https://mon-vie-via.businessfrance.fr/offres/247936)
-
-**Description du poste**
-
-Within CACEIS, the General Inspection function is an integral part of the internal control framework. General Inspection is a single business line bringing together teams based in Paris, Ireland, Luxembourg, Munich, Milan, Amsterdam, Kuala Lumpur and Madrid. It conducts periodic control missions within CACEIS. These missions aim to ensure that external and internal rules are complied with, to assess the level of risk management and operational effectiveness of processes within the Bank. General Inspection identifies areas for improvement and issues recommendations for action in the inspection report published at the end of each mission. It then monitors their complete and timely implementation throughout the year.
-
-In this context, the VIE will join the General Inspection team of CACEIS Bank Ireland Branch to carry out Group missions, working with a team junior and experienced staff located internationally (France, Ireland, Luxembourg, Germany, the Netherlands, Spain, Italy, Malaysia).
-
-Your missions
-You will be an integral part of the General Inspection team as a VIE and will contribute to missions carried out in Ireland and abroad, under the supervision of a lead inspector.
-
-You will be involved in the entire audit process, from the planning phase through to the issuance of the audit report. In this context, you will be in position to: 
--	Participate and lead initial meetings with auditees to define the scope of work, performing investigation tests in line with internal audit methodologies, drafting documented reports and travels to other CACEIS locations abroad. 
--	Contribute to the preparation of recommendations designed to strengthen the Bank’s internal control framework and to the follow up of these recommendations, ensuring that the risk mitigation measures identified during the missions are fully and timely implemented.
--	Prepare Internal Audit reporting and related documentation for local management and relevant governance committees, supporting clear communication of key findings, risks and recommended actions.
--	Support and lead discussion of the results with both auditees and the managers in a clear and convincing manner.
--	Be part of the continuous audit monitoring process at local level, supporting the General Inspection team
-
-This role provides an opportunity to develop auditing expertise and risk management, through the application of the audit methodology to abroad range of business line and support functions across the bank, fostering specialized knowledge in areas such as asset servicing, IT, or banking regulation.
-
-**Profil recherché**
-
-What do you need to succeed?
-•	0-2 year's experience in Audit, Finance, Data
-•	Masters degree - specialising in audit, legal, law, finance, risk management
-•	Excellent English skills - Interact in written and spoken English with stakeholders within and/or outside the organisation
-•	Organized, methodical, rigorous, reliable and Team oriented
-•	High level of curiosity to gain first or further knowledge of audit techniques., self-confidence and assertiveness
-•	Ability to anticipate, own-initiative, and work under pressure
-•	Strong communication skills
-•	Willingness to travel
-•	In‑depth knowledge of advanced office software functionalities (e.g. macro development), particularly spreadsheets (Excel) or database managers (Access). SQL and/or Python knowledge is a plus.
-•	English and (French) required; a third language is a plus
 
 </details>
 
