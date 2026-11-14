@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Récupérer le dépôt
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Installer Node.js
         uses: actions/setup-node@v4
