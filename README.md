@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **14/11/2026 04:01:08**, 95 offre(s) actuellement en ligne.
+Dernière vérification : **14/11/2026 04:15:44**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5304,104 +5304,6 @@ Atouts supplémentaires
 •	Maîtrise d’une autre langue européenne (idéalement français ou italien)
 •	Expérience avec Hubble, QlikView ou outils similaires
 •	Expérience dans un environnement industriel multinational
-
-</details>
-
-<details>
-<summary><strong>Consultant SAP Finance (H/F)</strong> · CONSEILS PLUS · MILAN, ITALIE · 3 003,87 €/mois</summary>
-
-- **Entreprise :** CONSEILS PLUS
-- **Lieu :** MILAN, ITALIE
-- **Indemnité :** 3 003,87 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 14/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246089](https://mon-vie-via.businessfrance.fr/offres/246089)
-
-**Description du poste**
-
-vous serez le relais de Conseils-Plus en Italie, après une phase de formation de 4 à 6 mois à Paris pour maîtriser les outils, méthodologies et solutions SAP du cabinet.
-
-Vos missions principales seront :
-
-Développement commercial et expertise locale
-Participer à la création de contenus et de démonstrations pour promouvoir les solutions SAP Finance et Comptabilité.
-Réaliser des missions d’avant-vente, de prospection et de suivi client en Italie.
-Contribuer au développement de l’expertise locale en collaboration avec la direction.
-Accompagnement des clients
-Avec la direction de Conseils-Plus Italie, vous travaillerez sur les activités de développement commercial sur la zone Afrique francophone :
-
-Intervenir chez les clients pour les accompagner dans la mise en œuvre de SAP S/4HANA  en appliquant la méthodologie du cabinet.
-Piloter des phases clés des projets (recueil des besoins, paramétrage, recette, formation des utilisateurs).
-Assurer le relais entre les équipes locales et celles basées en France.
-
-**Profil recherché**
-
-Notre profil idéal
-Vous êtes diplômé(e) d’un Master ou équivalent BAC+5 d’une école de commerce ou d’ingénieur avec une spécialisation en Finance, Comptabilité ou Contrôle de gestion.
-Idéalement vous bénéficiez d’une première expérience (stage ou CDD) en comptabilité, audit, gestion d’entreprise ou utilisation de SAP.
-Vous êtes doté(e) d’un bon esprit d’analyse et de synthèse.
-Vous savez allier autonomie et esprit d’équipe.
-Vous avez une appétence pour les outils ERP et la transformation digitale.
-Vous êtes de nationalité européenne.
-Vous parlez couramment anglais et français, l’italien est apprécié.
-Enfin, si innovation, service client et gestion de projet résonnent en vous, vous êtes au bon endroit !
-
-</details>
-
-<details>
-<summary><strong>Financial Controller (H/F)</strong> · NORAC MISSIONS · IBIUNA, BRESIL · 2 302,29 €/mois</summary>
-
-- **Entreprise :** NORAC MISSIONS
-- **Lieu :** IBIUNA, BRESIL
-- **Indemnité :** 2 302,29 €/mois
-- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
-- **Publiée le :** 14/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245150](https://mon-vie-via.businessfrance.fr/offres/245150)
-
-**Description du poste**
-
-Who we are
-
-Norac Foods Brasil is the Brazilian subsidiary of Norac Foods. Founded in 2011, we’re the pioneer of the Brazilian snacking market: we make and sell sandwiches, salads and fresh juices under our Ateliê brand. We also produce bread, madeleines and crêpes under our Paderrí brand using authentic French recipes.
-We’re growing fast, and we’re expanding our finance team. 
-
-Your mission
-
-Reporting to the CFO, you’ll be a genuine business partner to our operations. You’ll help steer the company’s economic performance, keep our management data reliable and consistent, and give local and group management the insights they need to make the right decisions.
-
-What you’ll be doing
-
-> Reporting & performance steering
-•	Help build and analyse the monthly reporting (P&L, dashboards, KPIs)
-•	Dig into variances between actuals, budget and forecast — and explain what’s driving them
-•	Contribute to the budget process, re-forecasts and mid-term plans
-> Industrial controlling
-•	Track and analyse production costs, cost prices and margins by product / line
-•	Follow industrial KPIs (yields, losses, productivity, raw-material consumption) in close collaboration with the plant teams
-•	Take part in inventories and stock monitoring
-> Analysis & decision support
-•	Run profitability studies and ad hoc analyses for management
-•	Help improve our tools and processes, clean up our data and automate reporting
-•	Be the key point of contact for the group’s teams on controlling topics
-
-**Profil recherché**
-
-Master’s degree (business school, IAE or university) with a major in finance, controlling or audit
-A first solid experience in controlling (long internship, apprenticeship or first job), ideally in an industrial or food environment.
-Strong command of Excel; comfortable with an ERP, BI tools (Power BI…) an/or IA is a plus
-Solid foundations in cost accounting and financial analysis
-
-Languages
-
-Fluent professional English
-Some Portuguese is a must — bilingual Portuguese is a plus
-
-The mindset we value
-
-Rigorous, analytical and at ease with numbers
-A people person who likes being close to the field
-Independent, curious and ready to thrive in an international environment
-Proactive and results-driven
 
 </details>
 
