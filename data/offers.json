@@ -178,16 +178,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As a VIE - Accounting Transformation Analyst – Record to Report (RTR), you will join an international Finance environment and contribute to the transformation of our accounting processes.\n\n \n\nWorking alongside accounting teams, Finance stakeholders and transformation experts, you will support initiatives aimed at making our Record-to-Report processes simpler, more efficient, digital and data-driven.\n\n \n\nThis VIE is a great opportunity to combine Finance, data analysis and project management while gaining hands-on experience in an international transformation environment.\n\n \n\nWhat You’ll Do\n\nContribute to Finance transformation and continuous improvement projects across the Record-to-Report cycle.\nAnalyze existing accounting processes and help identify opportunities for simplification, standardization and automation.\nMonitor RTR KPIs, analyze performance trends and contribute to the definition and follow-up of improvement actions.\nSupport the deployment and adoption of new Finance tools, systems and digital solutions.\nInvestigate accounting and reporting issues through root cause analysis and contribute to corrective actions.\nParticipate in workshops with Finance and Accounting teams to understand business needs and translate them into improvement opportunities.\nSupport change management, communication and training activities linked to transformation projects.\nMaintain process documentation and contribute to the sharing of best practices across teams and countries.",
     "creationDate": "2026-11-13T13:48:15Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -3146,16 +3139,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "What is the opportunity?\n\nThe ETF (Exchange-Traded Funds) Service Department develops investment solutions to \nhelp clients reach their financial goals. This position will:\n\n•\tBe a member of the ETF Business Line and be part of the operational teams interacting with Authorised Participants and Client Capital Market teams.\n•\tMaintain strong cooperation with all the stakeholders of CACEIS to deliver operational \nexcellence and best-in-class solutions. \n\nWhat will you do?\n\nETF Operations\n•\tManage the end-to-end processing of ETF primary market creation and redemption orders, ensuring accuracy, timeliness and adherence to service level agreements.\n•\tPrepare and calculate Primary Market Trading Components (PMTC/Actual Cost), including the review of component securities, quantities and pricing.\n•\tProduce ETF cash confirmations.\n•\tKnowledge of Portfolio Composition File (PCF) and its importance for ETFs (preferable but not mandatory) ETF issuance models (ICSD, ICSD+ and Local CSD) and settlement processes to support operational needs.\n•\tEnsure all transactions are processed accurately and in accordance with internal controls, regulatory requirements and operational procedures.\n\nClient & Stakeholder Management\n•\tOperational contact for Authorised Participants (APs), ETF issuers and Capital Markets teams.\n•\tBuild and maintain strong working relationships with internal and external stakeholders to deliver a high standard of client service.\n•\tInvestigate and resolve operational queries, exceptions and settlement issues in a timely manner.\n•\tInvolvement in operational and client service review meetings and support discussions relating to service enhancements and operational improvements.\n\nOperational Excellence\n•\tMonitor operational quality, productivity and risk metrics.\n•\tEnsure appropriate operational controls are followed.\n•\tIdentify opportunities to improve processes, reduce operational risk and enhance efficiency.\n\nCollaboration & Technical Expertise\n•\tShare knowledge and best practice to support team capability and consistency.\n•\tCollaborate effectively with cross-functional teams to deliver operational excellence and successful client outcomes.\n•\tContribute to projects",
     "creationDate": "2026-11-04T17:33:14Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3216,44 +3202,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "17",
-      "21",
-      "320",
-      "327"
+      "[\"6\",\"17\",\"21\",\"320\",\"327\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "327",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique et Sciences des Données",
-        "specializationLabelEn": "Informatique et Sciences des Données"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Heetch met en relation chauffeurs et passagers sur plusieurs marchés. Après une profonde restructuration, nous sommes aujourd’hui une petite équipe resserrée et agile, avec un seul objectif : remettre l’entreprise sur une trajectoire durable. Ce ne sera pas facile. Mais rares sont les endroits où vous pourrez avoir autant d’impact aussi tôt.\r\n\r\nNos valeurs :\r\n\r\nJouer collectif\r\nFaire bouger les choses (l’impact avant tout)\r\nÊtre bienveillant (nous sommes conscients des enjeux sociaux et nous nous écoutons les uns les autres)\r\nPenser différemment\r\n\r\nVous serez notre référent(e) en Business Analysis et en données business. Vous serez rattaché(e) directement au CEO et serez le bras droit des General Managers, des Growth Managers et du/de la Head of Customer Service.\r\n\r\nVous aurez un accès complet à nos données et la liberté de construire vos propres routines. Vos interlocuteurs vous feront part de leurs retours et de leurs intuitions. Votre mission sera d'aider à les transformer en problématiques qui comptent vraiment, de remonter jusqu’à la cause racine et d’élaborer des solutions avec les équipes concernées.\r\n\r\nCe poste s’adresse à quelqu’un qui est à l’aise avec l’ambiguïté et qui veut voir son travail se refléter dans les résultats de l’entreprise. Et les sujets à améliorer ne manquent pas.\r\n\r\nQue ferez-vous ?\r\n\r\nMarketplace & pricing : suivre de près l’offre, la demande et la fiabilité, et d'aider à traduire vos observations en recommandations claires sur le pricing et les paramètres de la marketplace.\r\nGrowth :aider à analyser en profondeur les funnels d’acquisition et la rétention, identifier les plus grosses opportunités et mesurer ce qui fonctionne, des nouvelles initiatives à nos actions récurrentes d’acquisition et de CRM.\r\nService client : aider le/la Head of Customer Service à définir la stratégie et la roadmap projets, suivre les KPI, construire des dashboards et optimiser nos outils et automatisations.\r\nTrust & Safety : aider à suivre le comportement des chauffeurs et des passagers et son impact sur la marketplace, puis ajuster nos processus disciplinaires et nos automatisations pour maintenir l’équilibre.\r\nAutomatisation : aider à automatiser des processus pour les équipes Growth, Produit et Service client, grâce à des workflows automatisés et des outils d’IA comme Claude.",
     "creationDate": "2026-11-03T15:45:33Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3314,16 +3265,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Au Canada, l’activité s’appuie sur une structure agile basée à Toronto et intervenant sur des projets situés dans plusieurs provinces. Cette organisation implique de travailler au quotidien avec de nombreux interlocuteurs à distance et offre un environnement particulièrement transversal, où autonomie, coordination et collaboration sont essentielles.\nLe contrôleur financier junior sera responsable à la fois de la gestion de la comptabilité, de la trésorerie, du contrôle des coûts, de la fiscalité ainsi que du reporting interne de l'entreprise. Il participera également à divers sujets administratifs tels que les ressources humaines ou les affaires juridiques, en coordination avec les spécialistes du groupe.\n\nRattachement hiérarchique : RAF pays\n\n\nResponsabilités : \n\nComptabilité, trésorerie et fiscalité\n•\tComptabiliser les opérations dans l’ERP et dans le logiciel de gestion des notes de frais.\n•\tEffectuer les rapprochements mensuels (banques, comptes clients, etc.).\n•\tSaisir les liasses comptables trimestrielles dans l’outil de consolidation du groupe.\n•\tPréparer les revues comptables trimestrielles à destination du siège social.\n•\tPréparer les états financiers annuels en coordination avec le cabinet comptable (CPA) de l’entité locale.\n•\tPréparer les paiements et déclarations des différentes taxes (TPS/TVH, impôt sur les sociétés, etc.) en coordination avec le CPA lorsque nécessaire.\n\nReporting\n•\tPréparer les rapports mensuels dans l’outil de consolidation du groupe.\n•\tProduire différents rapports relatifs aux projets en cours de l’entité locale.\n•\tPréparer les rapports mensuels destinés au département Trésorerie du siège social.\n\nContrôle des coûts\n•\tAssurer le suivi des coûts des projets en cours.\n•\tRéaliser des analyses ponctuelles à la demande de la direction.\n\nAutres sujets administratifs\n•\tCollaborer avec les spécialistes de la paie à l’élaboration des paies mensuelles et gérer les dossiers de paie des employés.\n•\tSuperviser le paiement et le rapprochement des programmes d’avantages sociaux et de retraite.\n•\tAgir en tant que point de contact pour les employés de la filiale, notamment en assurant la gestion de l’ensemble des éléments de rémunération des expatriés.Assurer le suivi de la conformité réglementaire dans les provinces où l’entité locale exerce ses activités.\n•\tAssurer le suivi des obligations d’assurance de l’entité locale.",
     "creationDate": "2026-11-02T10:14:56Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -7052,16 +6996,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Jolt Capital is an independent European private equity platform dedicated to scaling responsible deeptech companies. Founded in 2011, the firm invests in technology-rich B2B growth companies with strong intellectual property, sound fundamentals and global ambitions. Beyond capital, Jolt provides hands-on strategic and operational support to help its portfolio companies become international leaders. Its investment approach combines sector expertise, rigorous transaction execution and data-driven capabilities, including its proprietary AI platform, Jolt.Ninja. With teams across Europe, North America and Asia, Jolt offers an entrepreneurial, international and demanding environment at the intersection of finance, technology and industrial transformation.\r\nJoin Jolt Capital in Montreal\r\n\r\nAs part of our international development, we are looking for a VIE Transaction Services Analyst to join our Montreal office. You will be fully integrated into the Canadian team and work closely with colleagues across Jolt’s international platform. For all Transaction Services assignments, methodologies and deliverables, you will work under the functional and technical supervision of the Director of Transaction Services.\r\n\r\nYour Mission\r\nAs a VIE Transaction Services Analyst, you will support the analysis and execution of investments, add-on acquisitions and selected exit processes. You will work on live transactions and portfolio projects, turning complex financial information into clear insights for investment decisions. This is a hands-on role offering early responsibility, direct exposure to senior professionals and a unique opportunity to understand how deeptech companies scale internationally.\r\n\r\nWhat You Will Do\r\n•\tSupport financial due diligence on potential investments, add-on acquisitions and selected exit processes.\r\n•\tAnalyse historical and forecast financial performance, including revenue quality, margins, working capital, cash conversion and key operating drivers.\r\n•\tReview financial models, business plans, accounting data and management information, and identify the principal risks, sensitivities and value drivers.\r\n•\tContribute to quality of earnings, net debt and working-capital analyses, adapting standard approaches to the specific economics of deeptech and high-growth businesses.\r\n•\tPrepare clear, decision-oriented analyses and materials for deal teams, partners and Investment Committees.\r\n•\tCoordinate selected workstreams with portfolio company management teams, external advisers, accountants and other due diligence providers.\r\n•\tSupport portfolio companies on ad hoc finance and transaction-related projects, including KPI structuring, reporting, financing, bolt-on acquisitions and exit readiness.\r\n•\tDevelop transaction benchmarks, analytical tools and repeatable methodologies for the Transaction Services team.\r\n•\tUse Jolt.Ninja and other data sources to enrich financial analysis, market understanding and investment decision-making.\r\n•\tContribute actively to the firm’s international platform by working across teams, geographies and areas of expertise.\r\n\r\nWhy Join Us?\r\nAt Jolt, you will join a lean, entrepreneurial and international team where high standards go hand in hand with collaboration. We value people who ask the right questions, take ownership and are willing to go beyond the numbers to understand a technology, a market and a business model. You will be trusted with meaningful work from the outset and encouraged to contribute your point of view.\r\n\r\nWhat This VIE Will Offer You\r\n•\tHands-on exposure to live growth private equity transactions and strategic portfolio projects.\r\n•\tClose collaboration with Jolt’s Transaction Services leadership, investment professionals and senior operating experts.\r\n•\tA distinctive learning environment combining financial analysis, deeptech, international growth and value creation.\r\n•\tMeaningful responsibility in a lean team, with direct visibility on how analytical work informs investment decisions.\r\n•\tAn international experience in Montreal, connected to Jolt’s teams and portfolio across Europe, North America and Asia.\r\n\r\n•\tTeam: Integrated into the Canadian team, with a functional and technical reporting line to the Director of Transaction Services for all Transaction Services matters.",
     "creationDate": "2026-10-13T13:27:32Z",
     "missionStartDate": "2027-02-01T00:00:00",
