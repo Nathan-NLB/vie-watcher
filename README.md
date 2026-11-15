@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **15/11/2026 03:45:40**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **15/11/2026 04:01:12**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5092,130 +5092,6 @@ Fluent in English + French and/or Dutch (speaking all three is a major asset)
 Analytical, rigorous, and organized
 Autonomous, adaptable, and team-oriented
 A first experience in compliance, internal audit, or financial crime prevention is a plus
-
-</details>
-
-<details>
-<summary><strong>FP&A Business Partner (H/F)</strong> · AMARIS FRANCE SAS · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** AMARIS FRANCE SAS
-- **Lieu :** BARCELONE, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 15/10/2026
-- **Compatibilité avec ton profil :** 60 % — Le profil correspond bien sur le plan technique (compétences en FP&A, Excel, Power BI, bilinguisme français-anglais) et géographique (Barcelone). Cependant, l'offre requiert une expérience en management d'équipe (lead a team) et un niveau de séniorité stratégique plus élevé que les 2 ans d'expérience opérationnelle en PME du candidat.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247114](https://mon-vie-via.businessfrance.fr/offres/247114)
-
-**Description du poste**
-
-You will join our finance team, playing a key role in financial strategy and performance. Reporting to the FP&A Head-of, you will structure and drive the financial planning process while supporting operational teams in optimizing business performance. You will lead a team and act as a strategic partner to senior leadership, providing insights to support decision-making.
-
-Your missions:
-
-- Act as a trusted advisor to the CFO and FP&A Head-of, providing strategic financial insights and decision support
-- Guide and coach the FP&A team, fostering a high-performance culture
-- Align financial planning processes with business objectives, ensuring strategic coherence
-- Prepare reports and presentations for senior leadership, offering clear and actionable insights
-- Oversee budgeting, forecasting, and financial modeling to ensure data-driven decision-making
-- Analyze business performance, identify risks and opportunities, and drive corrective actions
-- Develop and refine reporting tools to improve data visualization and financial storytelling
-- Translate financial insights into strategic recommendations for non-financial stakeholders
-- Work closely with data and finance teams to optimize reporting tools and automate key processes
-- Support major transformation initiatives by ensuring financial alignment with company strategy
-- Drive continuous improvement in financial systems, leveraging digital tools for efficiency gains
-- Collaborate with IT and other business functions to enhance financial reporting capabilities
-- Partner with other finance teams across different locations to maintain consistency in reporting and compliance
-
-**Profil recherché**
-
-Experience in FP&A, financial audit, or a similar role (2-3 years)
-Strong leadership and interpersonal skills for guiding the FP&A team
-Excellent communication skills, with the ability to make financial data accessible to diverse stakeholders
-Analytical mindset with a proactive and problem-solving approach
-Ability to work with multiple deadlines in a fast-paced setting
-Strong Excel skills; knowledge of Power BI is an advantage
-English and French fluent
-Ability to work autonomously, take initiative, and drive financial improvements
-Experience with generative AI tools such as OpenAI for improving day-to-day productivity
-
-</details>
-
-<details>
-<summary><strong>Junior Underwriter / Actuarial Analyst (H/F)</strong> · GIE AXA · CHICAGO         -IL-, ETATS-UNIS · 3 813,78 €/mois</summary>
-
-- **Entreprise :** GIE AXA
-- **Lieu :** CHICAGO         -IL-, ETATS-UNIS
-- **Indemnité :** 3 813,78 €/mois
-- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
-- **Publiée le :** 15/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est axé sur le contrôle de gestion généraliste et la finance d'entreprise, tandis que l'offre chez AXA cible spécifiquement un rôle d'analyste actuariel et de souscription d'assurance aux États-Unis. Bien que ses compétences en analyse financière et Excel correspondent, l'absence de formation ou d'expérience en actuariat constitue un écart important.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247082](https://mon-vie-via.businessfrance.fr/offres/247082)
-
-**Description du poste**
-
-We are seeking a highly motivated and detail-oriented Junior Underwriter / Actuarial Analyst to join our Underwriting team. This entry-level role is designed for a professional with 1-3 years of experience who is eager to learn and contribute to the assessment, analysis, and management of risks associated with travel Assistance and insurance products, with a foundational understanding of actuarial principles. The ideal candidate will support senior underwriters and the business in ensuring profitability, regulatory compliance, and pricing exercise.
-
-Dimensions of the role
-•	The Underwriter will report to the Underwriting Manager
-•	He/she will interact with Commercial department, Operation/Work force management, Finance, Data, Product, Legal, Captive Manager and other UWs.
-•	Support Pricing activity, Actuarial, Underwriting and Reinsurance
-•	Preparing analysis, evaluating Assistance, Insurance and reinsurance quotes. 
-•	Work to approve the coverages requested within specified underwriting authority, either as submitted or on a modified basis, or decline the risk in its entirety; refer to recommended action if risk exceeds underwriting authority.
-•	Identify and suggest creative underwriting solutions through knowledge of various options, Reference Based Pricing vendors.
-•	Prepare pricing models according to guidelines and operating procedures
-
-Key responsibilities
-Risk Assessment & Underwriting Support:
-	Assist in evaluating travel insurance applications, collecting data, and supporting risk exposure assessment.
-	Help analyze financial, medical, and travel-related information to inform underwriting decisions.
-	Learn and apply underwriting guidelines consistently under supervision.
-Policy Management Support:
-•	Support the issuance, renewal, and modification of travel insurance policies.
-•	Assist in monitoring claims trends and loss ratios, providing data for underwriting strategy adjustments.
-•	Collaborate with claims and actuarial teams to gather data for optimizing pricing and coverage.
-
-Actuarial Analysis Support:
-•	Assist the actuarial team with data collection, validation, and preliminary analysis for pricing and reserving.
-•	Support the development and maintenance of actuarial models under guidance.
-•	Contribute to experience studies and profitability analysis for travel insurance products.
-
-Compliance & Regulatory Adherence Support:
-•	Learn and assist in ensuring all underwriting activities comply with regulatory and legal requirements in relevant markets.
-•	Stay informed about changes in insurance regulations and support the team in adjusting underwriting practices.
-•	Participate in data gathering for audits and compliance reporting.
-
-Market Analysis & Product Development Support:
-•	Assist in gathering data on market trends and competitor offerings to identify opportunities for product enhancements.
-•	Support the analysis of insights and recommendations for developing new travel insurance products and features.
-•	Contribute to the development of underwriting strategies to maintain a competitive edge.
-
-Process Improvement:
-•	Identify and suggest minor areas for operational efficiencies and contribute to process improvements within the underwriting and actuarial functions.
-•	Learn to leverage technology and data analytics to enhance underwriting accuracy and speed.
-
-Organisational Summary 
- 
-AXA Partners is AXA’s global entity dedicated to co-building and distributing with partners simple, customer-centric, and innovative solutions that combine insurance, assistance, and other value-added services.
-As an integral part of the Group Innovation unit, AXA Partners also plays a key role in the deployment of disruptive solutions emerging from this innovation ecosystem. 
-The combination of both missions’ positions AXA Partners today as a key pillar of AXA’s Payer-to-Partner strategy. 
-With the support of operating units established in 39 countries, our more than 9,000 employees are at the service of our customers anywhere, anytime.
-In 2020, AXA Partners’ revenues reached €2.98 billion.
-
-**Profil recherché**
-
-Qualifications & Experience:
-•	Bachelor’s degree in Actuarial Science, Mathematics, Statistics, Finance, Business, or a related quantitative field.
-•	1-2 years of experience in an insurance, underwriting, or actuarial support role, or a related field.
-•	Foundational understanding of travel insurance products, policies, and market dynamics, or a strong willingness to learn.
-•	Familiarity with data analysis tools (e.g., Excel, Power BI) and an eagerness to learn underwriting/actuarial software.
-•	Awareness of regulatory compliance principles and best practices.
-
-Key Competencies:
-•	Excellent analytical and decision-making skills.
-•	Strong negotiation and relationship-building abilities.
-•	Effective communication and presentation skills.
-•	High attention to detail and organizational skills.
-•	Ability to work independently and as part of a team in a fast-paced environment.
 
 </details>
 
