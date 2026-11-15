@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **16/11/2026 00:01:06**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **16/11/2026 00:15:46**, 87 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -1337,64 +1337,6 @@ Capable de travailler en mode multitâche sans perdre de vue les échéanciers s
 Bon équilibre entre la pensée stratégique et une attitude « qui fait avancer les choses »
 Solides compétences en résolution de problèmes et en consultation
 Compétences pour la documentation et la communication écrite pour tout ce qui touche la documentation client
-
-</details>
-
-<details>
-<summary><strong>Analyst - Transaction Services (H/F)</strong> · JOLT CAPITAL · MONTREAL -QC, CANADA · 2 649,28 €/mois</summary>
-
-- **Entreprise :** JOLT CAPITAL
-- **Lieu :** MONTREAL -QC, CANADA
-- **Indemnité :** 2 649,28 €/mois
-- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
-- **Publiée le :** 10/11/2026
-- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan présente d'excellentes compétences en analyse financière, maîtrise d'Excel et bilinguisme français-anglais, ce qui correspond bien aux attentes. Cependant, l'offre cible un poste en Transaction Services / Private Equity nécessitant idéalement une première expérience en audit, M&A ou cabinet de conseil, plutôt qu'en contrôle de gestion pure.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247018](https://mon-vie-via.businessfrance.fr/offres/247018)
-
-**Description du poste**
-
-Jolt Capital is an independent European private equity platform dedicated to scaling responsible deeptech companies. Founded in 2011, the firm invests in technology-rich B2B growth companies with strong intellectual property, sound fundamentals and global ambitions. Beyond capital, Jolt provides hands-on strategic and operational support to help its portfolio companies become international leaders. Its investment approach combines sector expertise, rigorous transaction execution and data-driven capabilities, including its proprietary AI platform, Jolt.Ninja. With teams across Europe, North America and Asia, Jolt offers an entrepreneurial, international and demanding environment at the intersection of finance, technology and industrial transformation.
-Join Jolt Capital in Montreal
-
-As part of our international development, we are looking for a VIE Transaction Services Analyst to join our Montreal office. You will be fully integrated into the Canadian team and work closely with colleagues across Jolt’s international platform. For all Transaction Services assignments, methodologies and deliverables, you will work under the functional and technical supervision of the Director of Transaction Services.
-
-Your Mission
-As a VIE Transaction Services Analyst, you will support the analysis and execution of investments, add-on acquisitions and selected exit processes. You will work on live transactions and portfolio projects, turning complex financial information into clear insights for investment decisions. This is a hands-on role offering early responsibility, direct exposure to senior professionals and a unique opportunity to understand how deeptech companies scale internationally.
-
-What You Will Do
-•	Support financial due diligence on potential investments, add-on acquisitions and selected exit processes.
-•	Analyse historical and forecast financial performance, including revenue quality, margins, working capital, cash conversion and key operating drivers.
-•	Review financial models, business plans, accounting data and management information, and identify the principal risks, sensitivities and value drivers.
-•	Contribute to quality of earnings, net debt and working-capital analyses, adapting standard approaches to the specific economics of deeptech and high-growth businesses.
-•	Prepare clear, decision-oriented analyses and materials for deal teams, partners and Investment Committees.
-•	Coordinate selected workstreams with portfolio company management teams, external advisers, accountants and other due diligence providers.
-•	Support portfolio companies on ad hoc finance and transaction-related projects, including KPI structuring, reporting, financing, bolt-on acquisitions and exit readiness.
-•	Develop transaction benchmarks, analytical tools and repeatable methodologies for the Transaction Services team.
-•	Use Jolt.Ninja and other data sources to enrich financial analysis, market understanding and investment decision-making.
-•	Contribute actively to the firm’s international platform by working across teams, geographies and areas of expertise.
-
-Why Join Us?
-At Jolt, you will join a lean, entrepreneurial and international team where high standards go hand in hand with collaboration. We value people who ask the right questions, take ownership and are willing to go beyond the numbers to understand a technology, a market and a business model. You will be trusted with meaningful work from the outset and encouraged to contribute your point of view.
-
-What This VIE Will Offer You
-•	Hands-on exposure to live growth private equity transactions and strategic portfolio projects.
-•	Close collaboration with Jolt’s Transaction Services leadership, investment professionals and senior operating experts.
-•	A distinctive learning environment combining financial analysis, deeptech, international growth and value creation.
-•	Meaningful responsibility in a lean team, with direct visibility on how analytical work informs investment decisions.
-•	An international experience in Montreal, connected to Jolt’s teams and portfolio across Europe, North America and Asia.
-
-•	Team: Integrated into the Canadian team, with a functional and technical reporting line to the Director of Transaction Services for all Transaction Services matters.
-
-**Profil recherché**
-
-What We Are Looking For
-•	Master’s degree from a leading business school, engineering school or university, with strong exposure to finance, accounting or corporate finance.
-•	A first significant experience in Transaction Services, audit, M&A, private equity, leveraged finance or corporate finance; experience within a Big Four or recognised advisory firm would be particularly relevant.
-•	Strong accounting and financial analysis skills, with the ability to understand the operational story behind the numbers.
-•	Excellent analytical and modelling capabilities, advanced proficiency in Excel and the ability to prepare concise, high-quality presentations.
-•	Fluent English is required; French is strongly preferred for collaboration across the Montreal and Paris teams.
-•	A genuine interest in technology, industrial innovation and high-growth B2B companies.
-•	A rigorous, curious and pragmatic mindset, with strong attention to detail and a collaborative approach.
 
 </details>
 
@@ -4956,142 +4898,6 @@ Advanced Excel; Power BI is a plus
 Master's degree in Business School, Finance, Financial Engineering, or equivalent
 English fluent. French is a plus.
 You demonstrate rigour, analytical mindset, critical thinking, and proactivity
-
-</details>
-
-<details>
-<summary><strong>DATA ANALYST - DATA SCIENTIST - DATA ENGINEER H/F (H/F)</strong> · CLEEVEN ND · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** CLEEVEN ND
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 déc. 2026 au 1 déc. 2027)
-- **Publiée le :** 16/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245470](https://mon-vie-via.businessfrance.fr/offres/245470)
-
-**Description du poste**
-
-! Join a Dynamic and Exciting Team at Cleeven!
-
-Are you prepared to join a dynamic, youthful company with an exceptional atmosphere? Are you eager to dive into meaningful work and advance your career? 
-Join us at Cleeven and be a part of a team that values your growth and development while contributing to groundbreaking projects. Apply now to start your journey with us!
-
-WHO WE ARE
-
-Cleeven is an international engineering consulting firm built on two fundamental principles:
-
-OUR MISSION: 
-
-To enhance self-awareness and the awareness of those around us.
-OUR BELIEF: The excellence of European engineers should drive Europe’s leadership in technological innovation and R&D. As engineers, we work closely with our clients to ensure their global competitiveness.
-
-YOUR ROLE AS DATA ANALYST :
-
-Analysis and synthesis of functional and technical requirements
-Data asset analysis
-Definition of statistical modeling to meet requirements
-Sourcing and gathering all necessary structured and unstructured data sources for analysis
-Study and comparison of statistical methods (PCA, logistic regression, random forest)
-Implementation and utilization of methods and models (R, SAS, Python, SPSS)
-Optimization of algorithm performance
-Analysis and synthesis of information and results
-Technological monitoring in Big Data, machine learning, and decisional statistics
-Participation in solution qualification
-
-WHAT’S HAPPENING AT CLEEVEN?
-
-We value the potential of our employees through various support programs:
-Cleeven Coaching Program: A voluntary individual coaching program to contribute to your personal development.
-Project Follow-ups: Monthly reviews with your project manager to discuss project progress.
-Boost Your Skills: Bi-monthly events focusing on the expertise areas of Cleeven consultants.
-Social Events: Regular gatherings throughout the year to strengthen team cohesion and sharing among Cleeven consultants.
-"With Cleeven, become who you are!"
-
-**Profil recherché**
-
-THE PERFECT CONSULTANT :
-
-Master’s degree.
-EN + FR/NL - speaking all three languages is a strong asset.
-Experience with data analytics tools and programming languages (e.g., Java, Python, SQL, Power BI, Tableau,...)
-Adaptable, autonomous, proactive and a real team player
-Analytical minded
-Solution oriented
-A first experience in the financial sector is a +
-
-</details>
-
-<details>
-<summary><strong>KYC ANALYST M/F (H/F)</strong> · CLEEVEN ND · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** CLEEVEN ND
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 6 mois (Du 1 déc. 2026 au 1 juin 2027)
-- **Publiée le :** 16/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/231210](https://mon-vie-via.businessfrance.fr/offres/231210)
-
-**Description du poste**
-
-Présentation de la société :
-
-!Join a Dynamic Team at Cleeven!
-
-
-
-Are you ready to join a fast-growing company where your work truly matters? Do you want to contribute to strategic compliance initiatives that shape the future of financial institutions?
-
-
-
-At Cleeven, we combine energy, innovation, and purpose. Join a team that values your development and gives you the tools to grow while working on impactful projects.
-
-
-
-WHO ARE WE ?
-
-
-
-Cleeven is an international engineering consulting firm built on two core principles:
-
-OUR MISSION: To enhance self-awareness and the awareness of those around us.
-OUR BELIEF: Europe’s leadership in innovation depends on the excellence of its engineers and professionals.
-
-
-At Cleeven, our consultants work hand-in-hand with clients to manage compliance challenges, mitigate risks, and ensure alignment with evolving regulatory demands.
-
-Poste et missions :
-
-YOUR ROLE AS A COMPLIANCE ANALYST (KYC/KYT/AML)
-
-
-
-You’ll play a key role in helping financial institutions meet regulatory expectations and safeguard their operations. Your responsibilities will include:
-
-Monitoring regulations: Stay on top of regulatory developments in the financial sector and assess their impact.
-KYC/KYT/AML analysis: Review client profiles, monitor transactions, and flag suspicious activity in accordance with legal standards.
-Risk assessment and mitigation: Identify gaps, evaluate compliance risks, and implement mitigation strategies.
-Process improvement: Propose and deploy enhancements to compliance frameworks and internal procedures.
-Internal controls & audits: Support internal audits and ensure robust compliance practices are in place.
-Awareness and training: Prepare training materials, raise employee awareness, and promote compliance culture.
-Bridge business and regulation: Translate complex regulatory language into actionable processes for operational teams.
-
-**Profil recherché**
-
-WHO YOU ARE
-
-
-
-You bring a sharp eye for detail, a strong sense of integrity, and a passion for creating secure, compliant environments.
-
-
-
-Your ideal profile:
-
-Master’s degree in law, finance, risk management, or a related field
-Fluent in English + French and/or Dutch (speaking all three is a major asset)
-Analytical, rigorous, and organized
-Autonomous, adaptable, and team-oriented
-A first experience in compliance, internal audit, or financial crime prevention is a plus
 
 </details>
 
