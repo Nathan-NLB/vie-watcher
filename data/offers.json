@@ -437,16 +437,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "320"
+      "[\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A l’écoute de tous nos clients, nous créons des services financiers innovants pour construire une mobilité durable pour tous.\nRejoindre Mobilize Financial Services, c’est d’abord choisir d’intégrer un groupe international, filiale de Renault Group, une banque de financement solide, partenaire du constructeur Renault et d’autres marques du secteur automobile. Nos 4 000 collaborateurs présents dans 35 pays, agissent ensemble au service de nos clients.\nNous proposons à nos clients - particuliers comme professionnels - les financements et les services les plus adaptés pour les véhicules neufs et d'occasion.\nNotre entreprise se \"MOBILIZE\" en faveur de la diversité culturelle, l'égalité hommes-femmes et l'intégration de personnes en situation de Handicap, au travers notamment de notre Chartre. Nous favorisons un environnement de travail où les différences individuelles sont reconnues, appréciées, respectées et valorisées, de façon à mettre à profit les talents et les forces de chacun.\n\nLES MISSIONS PRINCIPALES DU VIE CONSISTERONT :\n– Suivi des opérations de refinancement\n– Suivi du TRP (taux de refinancement prévisionnels) pour la construction de la tarification\n– Supporter la mise en place des alternatives de refinancement proposées par le trésorier\n– Suivi du flux de trésorerie réel par rapport à la projection\n– Supporter le contrôle et suivie des risques financiers (contrepartie, liquidité, risque de taux, LCR, etc.)\n– Supporter la mise à jour de présentations pour les banques et investisseurs\n– Supporter la mise à jour des rapport financiers\n– Supporter la préparation du comité financier filiale\n– Supporter le développement de projets au sein de la Trésorerie\n– Supporter la mise en place des outils de suivi des risques",
     "creationDate": "2026-09-16T07:52:30Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -1571,37 +1564,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "68",
-      "144",
-      "180",
-      "365"
+      "[\"68\",\"144\",\"180\",\"365\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "365",
-        "specializationParentId": "255",
-        "specializationLabel": "Energies renouvelables",
-        "specializationLabelEn": "Energies renouvelables"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Context :\n\nMarket Analysis (ECMA) is an Expertise Center within ENGIE Supply & Energy Management (S&EM), which delivers a broad spectrum of services related to energy markets including supply and demand analysis and meteorological forecasts, investment economics, strategic studies, regulatory advisory and ESG requirements.\n\nWithin ECMA, the Long-Term Power & Grid Modelling team provides insights to several clients within the ENGIE Group by developing or leveraging advanced quantitative forecasting models. The transversality of the work leads to a comprehensive overview of power markets across all relevant horizons:\n•\t0-5 years: Support S&EM trading activities in Central Western Europe (spot & forward along liquid curve) \n•\t5-10 years: Provide insights on grid congestion risk to portfolio managers across European markets in order to optimize mid-term risk mitigation decisions \n•\t<25 years: In charge of the Group’s Corporate Scenarios which deliver long-term views on power prices, technological mix and investment profitability for key ENGIE geographies (EU, USA, Brazil,…)\n\n\n\n\nYou will be part of the Long-Term Power: Europe team, focusing on projects for the longer-term in Europe.\nRole: Power Market Analyst \nIn order to bring the highest standard of analytical services to ECMA’s clients, we are looking to expand our team with a new V.I.E based in Brussels (Belgium):\n\nIn the LT Power Europe team, you will be part of a transversal team delivering quantitative projects for multiple internal ENGIE clients such as the global Strategy Department, Renewable & Flexibility project developers, portfolio managers or energy traders. You will be working alongside passionate experts with multi-faceted backgrounds who like to be challenged on complex energy-related questions.\n\nTogether with your project team, your primary goal will be to support ENGIE’s functional and operational entities across multiple geographies in better understanding the transformation of the energy landscape in increasingly complex and uncertain environments. Concretely in this role, you will: \n\n•\tWork on the long-term power price projections for Europe, used widely in the Group.\n\n•\tOperate & improve large-scale optimization models to evaluate the long-term evolution of the energy sectors (technology mix, actors & competition, regulation, carbon footprint, costs…) across multiple power systems – mainly EU.\n\n•\tSupport ENGIE’s entities on specific questions concerning strategic, regulatory and market challenges to achieve the societal & Group decarbonization ambition. Evaluate macro-trends and perform techno-economic analyses (regional/country level).\n\n•\tUnderstand how to translate the specificities of each market and timeframe into appropriate modelling requirements. Actively participate to the reputation and relevance of the department by ensuring consistency across client & timeframe, and by challenging existing practices.\n\n•\tCommunicate your findings to different stakeholders within the Group.\n\nThis is an excellent opportunity for someone eager to kickstart their career in energy markets within a Group committed to the ecological transition.",
     "creationDate": "2026-11-09T11:49:54Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -2810,16 +2775,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Au Canada, l’activité s’appuie sur une structure agile basée à Toronto et intervenant sur des projets situés dans plusieurs provinces. Cette organisation implique de travailler au quotidien avec de nombreux interlocuteurs à distance et offre un environnement particulièrement transversal, où autonomie, coordination et collaboration sont essentielles.\nLe contrôleur financier junior sera responsable à la fois de la gestion de la comptabilité, de la trésorerie, du contrôle des coûts, de la fiscalité ainsi que du reporting interne de l'entreprise. Il participera également à divers sujets administratifs tels que les ressources humaines ou les affaires juridiques, en coordination avec les spécialistes du groupe.\n\nRattachement hiérarchique : RAF pays\n\n\nResponsabilités : \n\nComptabilité, trésorerie et fiscalité\n•\tComptabiliser les opérations dans l’ERP et dans le logiciel de gestion des notes de frais.\n•\tEffectuer les rapprochements mensuels (banques, comptes clients, etc.).\n•\tSaisir les liasses comptables trimestrielles dans l’outil de consolidation du groupe.\n•\tPréparer les revues comptables trimestrielles à destination du siège social.\n•\tPréparer les états financiers annuels en coordination avec le cabinet comptable (CPA) de l’entité locale.\n•\tPréparer les paiements et déclarations des différentes taxes (TPS/TVH, impôt sur les sociétés, etc.) en coordination avec le CPA lorsque nécessaire.\n\nReporting\n•\tPréparer les rapports mensuels dans l’outil de consolidation du groupe.\n•\tProduire différents rapports relatifs aux projets en cours de l’entité locale.\n•\tPréparer les rapports mensuels destinés au département Trésorerie du siège social.\n\nContrôle des coûts\n•\tAssurer le suivi des coûts des projets en cours.\n•\tRéaliser des analyses ponctuelles à la demande de la direction.\n\nAutres sujets administratifs\n•\tCollaborer avec les spécialistes de la paie à l’élaboration des paies mensuelles et gérer les dossiers de paie des employés.\n•\tSuperviser le paiement et le rapprochement des programmes d’avantages sociaux et de retraite.\n•\tAgir en tant que point de contact pour les employés de la filiale, notamment en assurant la gestion de l’ensemble des éléments de rémunération des expatriés.Assurer le suivi de la conformité réglementaire dans les provinces où l’entité locale exerce ses activités.\n•\tAssurer le suivi des obligations d’assurance de l’entité locale.",
     "creationDate": "2026-11-02T10:14:56Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -3916,23 +3874,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8"
+      "[\"5\",\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Contexte de la mission : \r\nWinwin Afrique est une entreprise qui fait  du sport et de la culture des leviers pour le développement économique et social en Afrique.  \r\nEn Côte d’Ivoire, nous opérons pour le compte du gouvernement, dans le cadre d’un contrat de coopération franco-ivoirien, un projet développement d’infrastructures socio sportives qui se présente autour de 3 grands axes :\r\n- Un programme de construction qui vise à bâtir des complexes sportifs multifonctionnels sur 91 communes réparties sur tout le pays.\r\n- Un programme de développement autour des thématiques de la santé, de l’innovation sociale et du développement durable où les acteurs locaux, associations et ONG sont appelés à animer les espaces qui leur sont réservés\r\n- Un système d’exploitation autonome qui développe des activités génératrices de revenus. \r\n\r\nLe premier centre a été inauguré en 2019, à Abidjan sur la commune de Koumassi, par le Président Macron et le vice-président Duncan avec de nombreuses autorités françaises et ivoiriennes. Trois autres complexes ont été inaugurés en 2024. Les AGORAS sont exploitées par notre filiale ivoirienne, Ivoire AGORA. \r\n\r\n4 autres complexes sortiront de terre entre décembre 2026 et avril 2027. L’entreprise doublera de taille durant cette période passant de 80 à plus de 120 collaborateurs. Pour poursuivre la montée en puissance du programme et structurer l’organisation et le fonctionnement commun de ces AGORAS, WWA recherche un.e auditeur chargé du contrôle de gestion, des modèles économiques et du suivi des financements.\r\n\r\n\r\n\r\n\r\nMissions principales\r\n\r\n\r\nAudit et de contrôle et de gestion :\r\n\r\n- Analyser les processus administratifs et financiers existants.\r\n- Optimiser les procédures et outils existants  (doublement des sites en exploitation / développement sur toute la Côte d’Ivoire)  \r\n- Contrôle budgétaire \r\n- Suivi des indicateurs de performance sur chacun des sites (de 4 à 8 en 2026, puis 11 en 2027).\r\n- Mise en place et formation des équipes d’audit et de contrôle de gestion \r\n\r\n\r\nDéveloppement du modèle économique \r\n- Stratégie de développement des revenus et ressources des AGORAS \r\n- Suivi et développement des investissements et des partenariats \r\n\r\nReporting et suivi des financements :\r\n- Consolidation des données administratives et financières pour alimenter les rapports destinés au Trésor/ Bercy et aux partenaires.\r\n- Ouverture à  des modèles de financement complémentaires pour la construction d’une nouvelle tranche de 10 AGORAS",
     "creationDate": "2026-10-29T08:52:36Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -5036,16 +4980,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are looking for a motivated and analytical VIE Finance Analyst to join our Finance team. The role offers broad exposure across different finance activities, with a primary focus on Management Control, Financial Performance Monitoring, and Internal Consolidation Reporting.\nWorking closely with Finance Business Partners, Controlling teams, and Group Finance stakeholders, the successful candidate will contribute to the production of management information, support financial analysis, and help ensure the quality and consistency of financial reporting delivered to management and headquarters.\nKey Responsibilities\nManagement Control\n•\tSupport monthly closing and management reporting activities.\n•\tAnalyze financial performance versus budget, forecast, and prior year results.\n•\tPrepare variance analyses and provide insights on key business drivers.\n•\tContribute to budgeting, forecasting, and long-term planning exercises.\n•\tMonitor financial and operational KPIs and assist in developing management dashboards.\n•\tSupport ad hoc financial analyses and business cases for management.\nInternal Consolidation & Reporting\n•\tParticipate in the preparation and validation of internal financial reporting packages.\n•\tSupport the consolidation process by collecting, reviewing, and reconciling financial data from different entities.\n•\tEnsure accuracy, completeness, and consistency of reported figures.\n•\tAssist in the preparation of reporting submissions to Group Finance.\n•\tMonitor reporting deadlines and follow up with stakeholders to ensure timely delivery.\n•\tSupport continuous improvement initiatives aimed at enhancing reporting processes and controls.\nCross-Functional Finance Support\n•\tCollaborate with Accounting, Treasury, Business Finance, and other Finance teams.\n•\tContribute to process documentation and internal control activities.\n•\tParticipate in finance transformation and automation projects.\n•\tHelp identify opportunities to improve reporting efficiency and data quality.",
     "creationDate": "2026-10-26T10:02:32Z",
     "missionStartDate": "2027-01-01T00:00:00",
