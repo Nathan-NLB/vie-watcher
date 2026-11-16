@@ -8,11 +8,80 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **16/11/2026 16:45:43**, 89 offre(s) actuellement en ligne.
+Dernière vérification : **16/11/2026 17:01:40**, 90 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE Cost Controller (H/F)</strong> · BOUYGUES TRAVAUX PUBLICS · MUSWELLBROOK, AUSTRALIE · 3 435,37 €/mois</summary>
+
+- **Entreprise :** BOUYGUES TRAVAUX PUBLICS
+- **Lieu :** MUSWELLBROOK, AUSTRALIE
+- **Indemnité :** 3 435,37 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 16/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248369](https://mon-vie-via.businessfrance.fr/offres/248369)
+
+**Description du poste**
+
+At Bouygues Construction Australia, we are dedicated to the design, construction, and delivery of nation shaping projects across civil infrastructure, engineering, and energy and services.
+We have proudly been working in Australia for more than 25 years.
+Our local experience in underpinned by significant global expertise and resourcing.
+
+ 
+
+About the Role 
+
+The Junior cost controller position is accountable for the ongoing analysis of process constraints, target costing projects and tracing costs. He has to provide an appropriate level of costing information to the project management throughout costs allocations, follow ups and reportings.
+
+ 
+
+Key Responsibilities
+
+Responsible of controls activities of the Solar Farms Project on which (s)he will be, including the measures of cost, time and scope of the project in accordance with the contract.
+Cost planning, forecasting and monitoring cost estimations.
+Tracking milestones and insuring project targets are realized.
+Validate scope documents with contract scope/ sales estimates.
+Prepare cost estimates and update online costs forecasts.
+Minimise deviation through rigorous cost control and forecasting.
+Close control of subcontracts/ supplier accounts costs.
+Periodic financial statements about project progress
+Regular reporting of risk/ opportunities and potential deviations.
+Timely supporting documentation for project reviews.
+ 
+
+Qualifications & Experience 
+
+Degree in Management/Accounting & Finance
+2 years’ experience in a Junior Cost Control/ Finance officer role
+High profile global Construction/Civil Engineering Company
+Advanced excel & accounting skills
+Methodical, organised and meticulous with common sense
+Strong Analytical and problem solving skills
+Technical knowledge of site techniques
+Ability to critique, recommend and implement initiatives that seek efficiencies either from a process or systems perspective
+ 
+
+ 
+
+Bouygues Construction Australia values diversity and welcomes applications from Aboriginal and Torres Strait Islander Australians.
+
+**Profil recherché**
+
+Qualifications & Experience 
+
+Degree in Management/Accounting & Finance
+2 years’ experience in a Junior Cost Control/ Finance officer role
+High profile global Construction/Civil Engineering Company
+Advanced excel & accounting skills
+Methodical, organised and meticulous with common sense
+Strong Analytical and problem solving skills
+Technical knowledge of site techniques
+Ability to critique, recommend and implement initiatives that seek efficiencies either from a process or systems perspective
+
+</details>
 
 <details>
 <summary><strong>Responsable Administratif et Commercial (H/F)</strong> · SOC ATELIERS PINTON · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
