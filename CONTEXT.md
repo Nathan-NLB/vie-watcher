@@ -222,6 +222,17 @@ vues et le workflow empêche deux passages simultanés.
 - Symptôme d'un retour du problème : moins de 4 passages par heure dans l'historique
   du dépôt, ou des notifications qui arrivent en rafale.
 
+## Incident du 12 novembre 2026 : collision entre deux passages
+
+Deux passages lancés à la même seconde (cron-job.org et planificateur GitHub de
+secours) : le second repartait d'une version périmée du dépôt (GitHub extrait par
+défaut le commit du déclenchement, pas le plus récent), son enregistrement a été
+refusé puis a échoué sur README.md et docs/index.html. Rien n'a été perdu (le passage
+suivant recalcule tout), mais des notifications ont pu être envoyées deux fois.
+Correction : l'étape d'extraction du dépôt utilise désormais la dernière version de
+la branche (`ref: ${{ github.ref_name }}`). Le 9 novembre, un échec isolé venait
+d'une erreur 500 temporaire du site Business France (sans conséquence).
+
 ## Préférences de Nathan à respecter
 
 - Ne sait pas coder du tout : tout expliquer simplement, étape par étape,
