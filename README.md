@@ -8,11 +8,65 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **16/11/2026 05:01:03**, 87 offre(s) actuellement en ligne.
+Dernière vérification : **16/11/2026 05:15:50**, 88 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Junior Accountant & Reporting (m/f) (H/F)</strong> · ALUK · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** ALUK
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 18 mois (Du 1 janv. 2027 au 1 juil. 2028)
+- **Publiée le :** 16/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes financières et linguistiques du poste de Junior Accountant & Reporting, notamment grâce à ses compétences en reporting et analyse financière. Cependant, l'offre met un accent plus fort sur la comptabilité générale (saisie, facturation, SAP) que sur son expérience principale en contrôle de gestion pur.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248254](https://mon-vie-via.businessfrance.fr/offres/248254)
+
+**Description du poste**
+
+AluK SA is looking for a junior financial accountant directly reporting to Group CFO. The person will act as the accountant for Aluk SA (holding entity in Luxembourg) from encoding accounts receivables/payables, payroll and provisions postings, preparing payment batches, reconciling intercompany transactions and executing the month-end closing on time while ensuring accuracy and compliance
+This person will work in the AluK headquarters located in Luxembourg.
+Responsibilities:
+•	Prepare monthly statements as well as annual accounting and financial statements: balance sheet, income statement
+•	Ensure bookkeeping by posting and processing journal entries to ensure all business transactions are recorded
+•	Post bank statements 
+•	Monitor payments and invoices including verification, coding in SAP accounting system and payment batches preparation
+•	Follow up on cash movements, balances with optimized cash flow monitoring
+•	Set up and update internal process/procedures
+•	Assist management on specific reportings
+•	Perform analysis and interpret the actuals budgets and forecasts and influences strategies and actions plans to drive business results
+•	Provide ongoing financial insights and analysis to drive business performance of the organization
+•	Contribute to various cross-functional projects 
+•	Ensure proper internal and external communication
+
+**Profil recherché**
+
+Profile:
+Education & Work Experience: 
+•	Degree in accounting / finance
+•	Excellent understanding of accounting and financial reporting principles and practices 
+SAP Fiori knowledge is a plus
+
+
+
+Skills & Qualifications:
+•	Proficient in using the Office Pack (Word, Excel, Power Point) 
+•	Strong IT and analytical skills, with the ability to leverage digital tools to automate and continuously improve controlling and reporting processes.
+•	Ability to work autonomously as well as part of a team
+•	Analytical skills
+•	Ability to work in fast paced environment and to meet deadlines
+•	Excellent written and oral communication skills 
+•	Organised, rigorous
+•	Dedicated
+•	Polyvalent
+
+Language: 
+•	Fluent in English and French is a plus
+
+</details>
 
 <details>
 <summary><strong>Finance Controller & Digital Transformation (H/F)</strong> · AIRBUS HELICOPTERS · SUBANG JAYA, MALAISIE · 2 079,64 €/mois</summary>
