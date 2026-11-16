@@ -8,11 +8,39 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **16/11/2026 10:45:49**, 88 offre(s) actuellement en ligne.
+Dernière vérification : **16/11/2026 11:01:20**, 89 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>V.I.E. Equity Sales & Corporate Access (H/F)</strong> · ODDO BHF SCA · VIENNE, AUTRICHE · 3 024,47 €/mois</summary>
+
+- **Entreprise :** ODDO BHF SCA
+- **Lieu :** VIENNE, AUTRICHE
+- **Indemnité :** 3 024,47 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 16/11/2026
+- **Compatibilité avec ton profil :** 40 % — Le profil du candidat est orienté vers le contrôle de gestion et le FP&A industriel, tandis que l'offre concerne les marchés financiers en Equity Sales et Corporate Access. Bien que la maîtrise d'Excel et l'anglais soient communes, l'écart de domaine entre la finance d'entreprise et la finance de marché est important.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248357](https://mon-vie-via.businessfrance.fr/offres/248357)
+
+**Description du poste**
+
+•	Support our corporate access team with the organization of roadshows and conferences
+•	Help the equity sales team in the daily business and on projects 
+•	Preparation of sales presentations 
+•	Assist Head of Branch with operational tasks
+
+**Profil recherché**
+
+•	Passion for equity markets 
+•	Excellent Excel and PowerPoint knowledge
+•	Proficiency in English is required; German is a plus
+•	Working knowledge of accounting, financial modelling, and valuation techniques
+•	Prompting skills
+
+</details>
 
 <details>
 <summary><strong>Junior Accountant & Reporting (m/f) (H/F)</strong> · ALUK · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
