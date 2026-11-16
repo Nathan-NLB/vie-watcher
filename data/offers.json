@@ -2061,37 +2061,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "68",
-      "144",
-      "180",
-      "365"
+      "[\"68\",\"144\",\"180\",\"365\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "365",
-        "specializationParentId": "255",
-        "specializationLabel": "Energies renouvelables",
-        "specializationLabelEn": "Energies renouvelables"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Context :\n\nMarket Analysis (ECMA) is an Expertise Center within ENGIE Supply & Energy Management (S&EM), which delivers a broad spectrum of services related to energy markets including supply and demand analysis and meteorological forecasts, investment economics, strategic studies, regulatory advisory and ESG requirements.\n\nWithin ECMA, the Long-Term Power & Grid Modelling team provides insights to several clients within the ENGIE Group by developing or leveraging advanced quantitative forecasting models. The transversality of the work leads to a comprehensive overview of power markets across all relevant horizons:\n•\t0-5 years: Support S&EM trading activities in Central Western Europe (spot & forward along liquid curve) \n•\t5-10 years: Provide insights on grid congestion risk to portfolio managers across European markets in order to optimize mid-term risk mitigation decisions \n•\t<25 years: In charge of the Group’s Corporate Scenarios which deliver long-term views on power prices, technological mix and investment profitability for key ENGIE geographies (EU, USA, Brazil,…)\n\n\n\n\nYou will be part of the Long-Term Power: Europe team, focusing on projects for the longer-term in Europe.\nRole: Power Market Analyst \nIn order to bring the highest standard of analytical services to ECMA’s clients, we are looking to expand our team with a new V.I.E based in Brussels (Belgium):\n\nIn the LT Power Europe team, you will be part of a transversal team delivering quantitative projects for multiple internal ENGIE clients such as the global Strategy Department, Renewable & Flexibility project developers, portfolio managers or energy traders. You will be working alongside passionate experts with multi-faceted backgrounds who like to be challenged on complex energy-related questions.\n\nTogether with your project team, your primary goal will be to support ENGIE’s functional and operational entities across multiple geographies in better understanding the transformation of the energy landscape in increasingly complex and uncertain environments. Concretely in this role, you will: \n\n•\tWork on the long-term power price projections for Europe, used widely in the Group.\n\n•\tOperate & improve large-scale optimization models to evaluate the long-term evolution of the energy sectors (technology mix, actors & competition, regulation, carbon footprint, costs…) across multiple power systems – mainly EU.\n\n•\tSupport ENGIE’s entities on specific questions concerning strategic, regulatory and market challenges to achieve the societal & Group decarbonization ambition. Evaluate macro-trends and perform techno-economic analyses (regional/country level).\n\n•\tUnderstand how to translate the specificities of each market and timeframe into appropriate modelling requirements. Actively participate to the reputation and relevance of the department by ensuring consistency across client & timeframe, and by challenging existing practices.\n\n•\tCommunicate your findings to different stakeholders within the Group.\n\nThis is an excellent opportunity for someone eager to kickstart their career in energy markets within a Group committed to the ecological transition.",
     "creationDate": "2026-11-09T11:49:54Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4203,16 +4175,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans un contexte de transformation et de digitalisation de la fonction Finance, vous contribuerez activement à l'amélioration des outils de pilotage, des processus financiers et du contrôle de gestion au sein de la zone Allemagne / Autriche.\nRattaché(e) au Directeur Administratif et Financier, vous accompagnerez les équipes Finance et Opérations dans l'exploitation des nouveaux outils issus du déploiement de SAP et participerez à l'harmonisation des processus de reporting et de contrôle de gestion.\nUne attention particulière sera portée au développement de nouveaux dashboards de pilotage, à l'amélioration de la qualité des données et au renforcement du contrôle de gestion industriel, notamment dans le cadre de la mise en place du module SAP PS (Project System) sur le site de production de Modulan.\nCette mission s'inscrit dans la continuité des activités de reporting, de business controlling et d'amélioration du contrôle interne.\nPRINCIPALES ACTIVITES : \n1. Digitalisation Finance & Business Intelligence\n· Accompagner la transformation digitale du département Finance.\n· Concevoir et déployer de nouveaux dashboards et outils de pilotage à partir des données SAP.\n· Participer à l'évolution et à l'optimisation des reportings financiers et opérationnels.\n· Contribuer à l'amélioration de la qualité, de la disponibilité et de la fiabilité des données.\n· Accompagner les utilisateurs dans l'adoption des nouveaux outils et indicateurs de performance.\n2. Contrôle de gestion & Performance\n· Participer aux clôtures mensuelles et à l'analyse de la performance économique.\n· Accompagner les équipes dans le pilotage économique des activités.\n· Contribuer à l'harmonisation des méthodes de calcul et des processus de contrôle de gestion entre les différentes entités de la zone.\n· Développer des analyses permettant d'améliorer le pilotage de la rentabilité et des activités opérationnelles.\n· Identifier des opportunités d'amélioration de la performance et être force de proposition.\n3. Audit interne – Contrôle interne\n· Contribution à l’amélioration des dispositifs de Contrôle Interne\n· Participation au processus annuel d’auto-évaluation\n· Assurer le suivi des plans d'actions associés.",
     "creationDate": "2026-10-29T15:47:09Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4273,16 +4238,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "322"
+      "[\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À propos de Sibelco\r\n\r\nSibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.\r\n\r\nDans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.\r\n\r\nRejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.\r\n\r\nMission:\r\n\r\nLe/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. \r\nIl/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. \r\nEn interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. \r\nCette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.",
     "creationDate": "2026-10-19T13:15:35Z",
     "missionStartDate": "2027-01-01T00:00:00",
