@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **16/11/2026 17:45:43**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **16/11/2026 18:01:13**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -328,6 +328,66 @@ Fluency in English and French; Dutch proficiency is considered an advantage.
 Strong proficiency in Microsoft Excel and the Microsoft Office suite.
 Excellent analytical, organizational, problem-solving, and customer service skills.
 Experience with SAP, Order-to-Cash processes, supply chain operations, or FMCG environments is beneficial.
+
+</details>
+
+<details>
+<summary><strong>Contrôleur de gestion (H/F)</strong> · THERMAL CERAMICS DE FRANCE · KEMPTEN, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** THERMAL CERAMICS DE FRANCE
+- **Lieu :** KEMPTEN, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 16/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond très bien sur le plan technique (contrôle budgétaire, Excel avancé, dimension internationale, bon niveau d'anglais) et son expérience en secteur manufacturier (PME d'agencement) est un atout. Toutefois, l'offre exige explicitement la maîtrise de l'allemand, une expérience en contrôle de gestion industriel et potentiellement un ERP international, des critères sur lesquels le candidat présente des lacunes.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/244112](https://mon-vie-via.businessfrance.fr/offres/244112)
+
+**Description du poste**
+
+Si vous aimez être au plus près des chiffres qui font réellement tourner une usine — et pas seulement les analyser a posteriori — ce poste est fait pour vous.
+Nous recherchons un(e) Contrôleur de gestion industriel pour rejoindre notre équipe opérations en Allemagne. Vous travaillerez en étroite collaboration avec les équipes production, supply chain et finance, afin d’aider l’entreprise à comprendre où l’argent est dépensé, où il ne devrait pas l’être, et quelles actions mettre en place.
+
+
+Le poste
+Vous serez au cœur de la finance opérationnelle. Au quotidien, vous analyserez les coûts de production, challengerez les hypothèses, soutiendrez les décisions de planification et vous assurerez que les données financières reflètent la réalité opérationnelle.
+Fort d’une première expérience dans une entreprise du secteur manufacturier, vous travaillerez en partenariat étroit avec les centres de services partagés, les équipes site et le Directeur Financier EMEA pour transformer les données en analyses concrètes et exploitables.
+
+Responsabilités principales
+•	Assurer le contrôle de gestion opérationnel (production et stocks)
+•	Analyser les écarts, les cut-offs de stock et les leviers de performance opérationnelle
+•	Collaborer avec les équipes de comptabilité centralisée pour garantir la fiabilité du reporting, des rapprochements et des valorisations
+•	Accompagner les projets CAPEX avec des analyses financières solides et des études de rentabilité (ROI)
+•	Contribuer aux appels d’offres (RFQ) en garantissant des hypothèses de coûts réalistes
+•	Participer aux initiatives Lean visant à réduire les coûts sans compromettre la qualité
+•	Suivre et analyser des KPI non financiers (énergie, maintenance, taux d’utilisation, etc.)
+•	Contribuer au processus S&OP avec des analyses financières et aux prévisions mensuelles
+•	Piloter le budget opérationnel et les forecasts en challengeant la performance
+•	Supporter les audits internes et externes
+•	Maintenir la qualité des données opérationnelles dans l’ERP
+•	Accompagner le Directeur Financier EMEA sur des projets ad hoc
+
+Ce que nous offrons
+•	Exposition internationale 
+•	Un poste où vos analyses influencent réellement les décisions
+
+Prêt(e) à vous installer en Allemagne et à être au cœur de l’action ? Postulez dès maintenant.
+Dans la mesure du possible, merci de nous transmettre votre CV en anglais.
+
+**Profil recherché**
+
+•	Diplôme en gestion, finance, comptabilité ou équivalent
+•	Expérience significative en contrôle de gestion industriel / opérationnel
+•	Bonne maîtrise de la comptabilité analytique, analyse des écarts et gestion des stocks
+•	Connaissance des normes IFRS
+•	Expérience avec un ERP international (JDE E1 ou équivalent)
+•	Excellente maîtrise d’Excel (les formules ne vous font pas peur)
+•	Capacité à travailler en allemand
+•	Esprit pragmatique, curieux et capable de challenger les chiffres avec diplomatie
+
+Atouts supplémentaires
+•	Maîtrise d’une autre langue européenne (idéalement français ou italien)
+•	Expérience avec Hubble, QlikView ou outils similaires
+•	Expérience dans un environnement industriel multinational
 
 </details>
 
