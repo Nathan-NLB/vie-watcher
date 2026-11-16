@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **16/11/2026 14:31:09**, 89 offre(s) actuellement en ligne.
+Dernière vérification : **16/11/2026 14:45:43**, 89 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -155,6 +155,80 @@ Skills & Qualifications:
 
 Language: 
 •	Fluent in English and French is a plus
+
+</details>
+
+<details>
+<summary><strong>TECHNICAL SOLUTIONS ENGINEER—SALES SUPPORT (FINTECH) - M/F (H/F)</strong> · WEEFIN · LONDRES, ROYAUME-UNI · 3 815,75 €/mois</summary>
+
+- **Entreprise :** WEEFIN
+- **Lieu :** LONDRES, ROYAUME-UNI
+- **Indemnité :** 3 815,75 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 16/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de contrôleur de gestion de Nathan correspond au secteur financier demandé et son niveau d'anglais est excellent. Cependant, l'offre requiert un rôle technique orienté pré-vente, ingénierie logicielle et développement d'algorithmes (Python, VBA), ce qui s'éloigne de son expertise financière pure.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247337](https://mon-vie-via.businessfrance.fr/offres/247337)
+
+**Description du poste**
+
+As a Technical Solutions Engineer, you will mainly support our Pre-sales team on Proofs of Concept (POCs) for prospects . You will serve as both a technical expert and a commercial ambassador, working closely with clients to understand their needs, provide tailored solutions, and ensure they get the maximum value from our platform. Your role will also involve presenting new features to clients, contributing directly to the business development strategy. 
+You will also support pre-sales activities by partnering with the Sales team to qualify technical requirements, deliver product demos, contribute to tailored solution design, and articulate the platform’s technical value proposition to prospective clients.
+Additionally, you will be responsible for developing tactical solutions and algorithms to meet specific client demands, bridging the gap between technical development and business needs.
+
+UK Office Overview: You’ll be joining WeeFin’s UK team of 12 people, based in a co-working space in Aldgate, at the heart of the City of London. The space offers access to a full range of facilities, including meeting rooms, lounges, kitchens, and an on-site coffee shop. There’s also a rooftop terrace and an in-house gym—perfect for lunch breaks and after-work gatherings with the team.
+
+Key Responsibilities:
+- Pre-sales support: work hand in hand with the Pre-sales team to understand prospects’ needs, qualify technical requirements and contribute to tailored solution design, RFPs and POCs.- Product demonstrations: help prepare and deliver product demos, learning to translate technical functionalities into clear business benefits for clients and prospects.
+- Technical expertise: support technical discussions and help answer client questions, building your expertise on the platform and its data.
+- Tactical solution development: design and build algorithms or tools tailored to client requirements, ensuring the platform meets specific financial or operational needs.
+
+- Client onboarding: occasionally support the Ops team on new client implementations when additional capacity is needed. 
+- Client Training: Conduct training sessions and workshops to educate clients on the effective use of our platform, empowering them to utilise it to its fullest potential.
+
+- Feedback Loop: Gather client feedback on our solution, identify areas for improvement, and work closely with our product and development teams to enhance the user experience.- Partner with Sales to understand prospects’ needs, qualify technical requirements, design tailored solutions, and deliver compelling product demos
+- Lead technical discussions, address client questions, support RFPs and POCs when needed
+- Client relationships: support the Account Executives in building strong client relationships, contributing to client satisfaction and success with our solution. All client engagement is coordinated with the AE in charge of the account. 
+
+What to expect from this experience
+- Step into the FinTech space to discover one of the most dynamic industries
+- At WeeFin, you’ll work at the intersection of technology, finance, and sustainability, gaining hands-on experience with cutting-edge tools and real-world client challenges.
+- You’ll join a close-knit and supportive team in London while staying connected to our Paris headquarters, allowing you to build an international network from day one.
+- Participate in making an impact and making finance more sustainable and transparent
+- Expect a steep learning curve, ownership of your projects, and the freedom to propose and implement your ideas.
+- You’ll also gain deep exposure to ESG and sustainable finance, equipping you with a unique and highly relevant skill set for the future of the financial industry.
+
+
+WeeFin Growth
+- Seed round: 2m€ in 2022
+- Series A round: 7m€ at the end of 2023 with 4 investment funds: Asterion Ventures, Investir&+, Iris Capital and Ring Capital
+- Series B round: 25m€ in 2025, led by BlackFin
+- More than 100 employees across the Paris & London offices
+
+Support to start your life in the UK & onboarding
+- We’ll support you throughout your relocation, including guidance to help you find suitable accommodation. From the outset, you’ll be in close contact with your team, who will be available to answer your questions about living in the UK—whether it’s finding a place to live, settling in, or discovering the best spots to visit and shop.
+- You’ll also benefit from regular check-ins with both the UK and French teams to ensure a smooth and well-supported transition.
+
+**Profil recherché**
+
+Educational Background: Bachelor’s or Master’s degree in Engineering, Computer Science, Finance, or a related field.
+
+Experience: Experience in a technical client-facing role, preferably within the Finance, FinTech or SaaS industry.
+
+Technical Skills: Strong proficiency in algorithm development, scripting (Python, VBA, or similar), and data structuring. A strong analytical mindset with the ability to create tactical solutions for financial applications.
+
+Communication Skills: Excellent verbal and written communication skills in English; proficiency in French is a plus.
+
+Client-Focused: A passion for working with clients, with the ability to understand their needs and provide solutions that drive value.
+
+Knowledge in Market Finance is a plus: A strong understanding of financial markets, financial products, and risk management principles would be a plus.
+
+Adaptability: Ability to thrive in a fast-paced, startup environment and adapt to changing priorities.
+
+Other
+
+The admin tasks to participate in a VIE programme can take up to 3 months overall, which can alter the start period.
+
+We’re receiving a large number of applications; we’ll get back to you as soon as possible.
 
 </details>
 
@@ -4647,80 +4721,6 @@ Analytical mindset and problem-solving capabilities, with the ability to assess 
 Inquisitive attitude and strong motivation to learn, with a proactive approach to professional development;
 Collaborative and proactive team player, able to contribute effectively in a structured and multi-disciplinary environment;
 Highly adaptable, well-organised, motivated and able to manage multiple tasks and priorities simultaneously.
-
-</details>
-
-<details>
-<summary><strong>TECHNICAL SOLUTIONS ENGINEER—SALES SUPPORT (FINTECH) - M/F (H/F)</strong> · WEEFIN · LONDRES, ROYAUME-UNI · 3 815,75 €/mois</summary>
-
-- **Entreprise :** WEEFIN
-- **Lieu :** LONDRES, ROYAUME-UNI
-- **Indemnité :** 3 815,75 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 22/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de contrôleur de gestion de Nathan correspond au secteur financier demandé et son niveau d'anglais est excellent. Cependant, l'offre requiert un rôle technique orienté pré-vente, ingénierie logicielle et développement d'algorithmes (Python, VBA), ce qui s'éloigne de son expertise financière pure.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247337](https://mon-vie-via.businessfrance.fr/offres/247337)
-
-**Description du poste**
-
-As a Technical Solutions Engineer, you will mainly support our Pre-sales team on Proofs of Concept (POCs) for prospects . You will serve as both a technical expert and a commercial ambassador, working closely with clients to understand their needs, provide tailored solutions, and ensure they get the maximum value from our platform. Your role will also involve presenting new features to clients, contributing directly to the business development strategy. 
-You will also support pre-sales activities by partnering with the Sales team to qualify technical requirements, deliver product demos, contribute to tailored solution design, and articulate the platform’s technical value proposition to prospective clients.
-Additionally, you will be responsible for developing tactical solutions and algorithms to meet specific client demands, bridging the gap between technical development and business needs.
-
-UK Office Overview: You’ll be joining WeeFin’s UK team of 12 people, based in a co-working space in Aldgate, at the heart of the City of London. The space offers access to a full range of facilities, including meeting rooms, lounges, kitchens, and an on-site coffee shop. There’s also a rooftop terrace and an in-house gym—perfect for lunch breaks and after-work gatherings with the team.
-
-Key Responsibilities:
-- Pre-sales support: work hand in hand with the Pre-sales team to understand prospects’ needs, qualify technical requirements and contribute to tailored solution design, RFPs and POCs.- Product demonstrations: help prepare and deliver product demos, learning to translate technical functionalities into clear business benefits for clients and prospects.
-- Technical expertise: support technical discussions and help answer client questions, building your expertise on the platform and its data.
-- Tactical solution development: design and build algorithms or tools tailored to client requirements, ensuring the platform meets specific financial or operational needs.
-
-- Client onboarding: occasionally support the Ops team on new client implementations when additional capacity is needed. 
-- Client Training: Conduct training sessions and workshops to educate clients on the effective use of our platform, empowering them to utilise it to its fullest potential.
-
-- Feedback Loop: Gather client feedback on our solution, identify areas for improvement, and work closely with our product and development teams to enhance the user experience.- Partner with Sales to understand prospects’ needs, qualify technical requirements, design tailored solutions, and deliver compelling product demos
-- Lead technical discussions, address client questions, support RFPs and POCs when needed
-- Client relationships: support the Account Executives in building strong client relationships, contributing to client satisfaction and success with our solution. All client engagement is coordinated with the AE in charge of the account. 
-
-What to expect from this experience
-- Step into the FinTech space to discover one of the most dynamic industries
-- At WeeFin, you’ll work at the intersection of technology, finance, and sustainability, gaining hands-on experience with cutting-edge tools and real-world client challenges.
-- You’ll join a close-knit and supportive team in London while staying connected to our Paris headquarters, allowing you to build an international network from day one.
-- Participate in making an impact and making finance more sustainable and transparent
-- Expect a steep learning curve, ownership of your projects, and the freedom to propose and implement your ideas.
-- You’ll also gain deep exposure to ESG and sustainable finance, equipping you with a unique and highly relevant skill set for the future of the financial industry.
-
-
-WeeFin Growth
-- Seed round: 2m€ in 2022
-- Series A round: 7m€ at the end of 2023 with 4 investment funds: Asterion Ventures, Investir&+, Iris Capital and Ring Capital
-- Series B round: 25m€ in 2025, led by BlackFin
-- More than 100 employees across the Paris & London offices
-
-Support to start your life in the UK & onboarding
-- We’ll support you throughout your relocation, including guidance to help you find suitable accommodation. From the outset, you’ll be in close contact with your team, who will be available to answer your questions about living in the UK—whether it’s finding a place to live, settling in, or discovering the best spots to visit and shop.
-- You’ll also benefit from regular check-ins with both the UK and French teams to ensure a smooth and well-supported transition.
-
-**Profil recherché**
-
-Educational Background: Bachelor’s or Master’s degree in Engineering, Computer Science, Finance, or a related field.
-
-Experience: Experience in a technical client-facing role, preferably within the Finance, FinTech or SaaS industry.
-
-Technical Skills: Strong proficiency in algorithm development, scripting (Python, VBA, or similar), and data structuring. A strong analytical mindset with the ability to create tactical solutions for financial applications.
-
-Communication Skills: Excellent verbal and written communication skills in English; proficiency in French is a plus.
-
-Client-Focused: A passion for working with clients, with the ability to understand their needs and provide solutions that drive value.
-
-Knowledge in Market Finance is a plus: A strong understanding of financial markets, financial products, and risk management principles would be a plus.
-
-Adaptability: Ability to thrive in a fast-paced, startup environment and adapt to changing priorities.
-
-Other
-
-The admin tasks to participate in a VIE programme can take up to 3 months overall, which can alter the start period.
-
-We’re receiving a large number of applications; we’ll get back to you as soon as possible.
 
 </details>
 
