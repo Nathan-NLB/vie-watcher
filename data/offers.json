@@ -374,30 +374,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9",
-      "259"
+      "[\"8\",\"9\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Mobilize Financial Services, filiale de Renault Group, est une banque de financement solide, partenaire des constructeurs Renault et d’autres marques du secteur automobile. Nos 4 000 collaborateurs présents dans 35 pays, agissent ensemble au service de nos clients. \nNous proposons à nos clients - particuliers comme professionnels - les financements et les services les plus adaptés pour les véhicules neufs et d'occasion.\nMobilize Financial Services a financé plus de 1,2 million de dossiers (véhicules neufs et véhicules d’occasion) en 2023 et vendu 3,9 millions de services. À fin décembre 2023, les actifs productifs moyens sont de 51,2 milliards d’euros de financement et le résultat avant impôts est de 1 034 millions d’euros. Nous proposons également des offres d’épargne dans 7 pays.\n\nRejoignez notre équipe et jouez un rôle dynamique dans le domaine de la finance, en travaillant en étroite collaboration avec le directeur financier au sein de notre filiale Slovène.\nVous serez responsable des principales tâches financières dans trois pays (Slovénie, Croatie et Serbie):\n\n- Préparer et analyser les clôtures mensuelles, les rapports et les prévisions.\n- Participer activement à l'optimisation des processus, à l'amélioration des outils de reporting et à la gestion des bases de données internes.\n- Soutenir les filiales dans le suivi des risques financiers et de la trésorerie.\n- Assurer la réconciliation entre la comptabilité et la gestion, en s'alignant sur les normes du groupe et en contribuant à l'intégration de la gestion des risques financiers.\n- Contribuer à l'intégration d'un nouveau système de portefeuille informatique prévu en 2027.\n- Réalisation d'analyses de rentabilité, de simulations financières et de travaux de tarification en partenariat avec les équipes commerciales et marketing. \nCe poste offre une exposition importante aux décideurs de l'entreprise et de nombreuses interactions avec les principales parties prenantes du groupe, dans un environnement international et en pleine transformation.",
     "creationDate": "2026-11-13T09:56:06Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1025,317 +1004,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "2",
-      "29",
-      "60",
-      "62",
-      "63",
-      "64",
-      "65",
-      "66",
-      "68",
-      "69",
-      "70",
-      "71",
-      "72",
-      "73",
-      "76",
-      "109",
-      "114",
-      "134",
-      "138",
-      "149",
-      "150",
-      "155",
-      "158",
-      "159",
-      "160",
-      "168",
-      "169",
-      "197",
-      "205",
-      "206",
-      "207",
-      "208",
-      "209",
-      "224",
-      "225",
-      "244",
-      "248",
-      "251",
-      "262",
-      "264",
-      "330",
-      "331",
-      "358",
-      "361"
+      "[\"2\",\"29\",\"60\",\"62\",\"63\",\"64\",\"65\",\"66\",\"68\",\"69\",\"70\",\"71\",\"72\",\"73\",\"76\",\"109\",\"114\",\"134\",\"138\",\"149\",\"150\",\"155\",\"158\",\"159\",\"160\",\"168\",\"169\",\"197\",\"205\",\"206\",\"207\",\"208\",\"209\",\"224\",\"225\",\"244\",\"248\",\"251\",\"262\",\"264\",\"330\",\"331\",\"358\",\"361\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "29",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique industrielle",
-        "specializationLabelEn": "Industrial Computing"
-      },
-      {
-        "specializationId": "60",
-        "specializationParentId": "59",
-        "specializationLabel": "Aéronautique",
-        "specializationLabelEn": "Aeronautics"
-      },
-      {
-        "specializationId": "62",
-        "specializationParentId": "196",
-        "specializationLabel": "Bâtiment – Construction – Second Oeuvre",
-        "specializationLabelEn": "Building - Construction - Finishings"
-      },
-      {
-        "specializationId": "63",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie - Génie Chimique",
-        "specializationLabelEn": "Chemicals - Chemical Engineering"
-      },
-      {
-        "specializationId": "64",
-        "specializationParentId": "59",
-        "specializationLabel": "Dessin industriel",
-        "specializationLabelEn": "Industrial Design"
-      },
-      {
-        "specializationId": "65",
-        "specializationParentId": "59",
-        "specializationLabel": "Electromécanique",
-        "specializationLabelEn": "Electro-mechanics"
-      },
-      {
-        "specializationId": "66",
-        "specializationParentId": "59",
-        "specializationLabel": "Electronique",
-        "specializationLabelEn": "Electronics"
-      },
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "69",
-        "specializationParentId": "255",
-        "specializationLabel": "Environnement - Ecologie",
-        "specializationLabelEn": "Environment - Ecology"
-      },
-      {
-        "specializationId": "70",
-        "specializationParentId": "196",
-        "specializationLabel": "Génie Civil – Travaux publics",
-        "specializationLabelEn": "Civil Engineering - Public Works"
-      },
-      {
-        "specializationId": "71",
-        "specializationParentId": "59",
-        "specializationLabel": "Génie Electrique",
-        "specializationLabelEn": "Electrical Engineering"
-      },
-      {
-        "specializationId": "72",
-        "specializationParentId": "255",
-        "specializationLabel": "Hydraulique - Thermique",
-        "specializationLabelEn": "Hydraulics - Thermal Industry"
-      },
-      {
-        "specializationId": "73",
-        "specializationParentId": "59",
-        "specializationLabel": "Instrumentation - Automatisme - Robotique",
-        "specializationLabelEn": "Instrumentation - Automatism - Robotics"
-      },
-      {
-        "specializationId": "76",
-        "specializationParentId": "59",
-        "specializationLabel": "Métallurgie",
-        "specializationLabelEn": "Metallurgy"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "114",
-        "specializationParentId": "255",
-        "specializationLabel": "Chimie des matériaux",
-        "specializationLabelEn": "Materials sector"
-      },
-      {
-        "specializationId": "134",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie de l'eau",
-        "specializationLabelEn": "Water Engineering"
-      },
-      {
-        "specializationId": "138",
-        "specializationParentId": "212",
-        "specializationLabel": "Intelligence artificielle",
-        "specializationLabelEn": "Artificial Intelligence"
-      },
-      {
-        "specializationId": "149",
-        "specializationParentId": "58",
-        "specializationLabel": "Génie Industriel",
-        "specializationLabelEn": "Industrial Engineering"
-      },
-      {
-        "specializationId": "150",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de la production",
-        "specializationLabelEn": "Production Management"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "158",
-        "specializationParentId": "243",
-        "specializationLabel": "Opérations - Logistique",
-        "specializationLabelEn": "Logistics"
-      },
-      {
-        "specializationId": "159",
-        "specializationParentId": "59",
-        "specializationLabel": "Soudage",
-        "specializationLabelEn": "Welding"
-      },
-      {
-        "specializationId": "160",
-        "specializationParentId": "59",
-        "specializationLabel": "Fonderie",
-        "specializationLabelEn": "Foundry"
-      },
-      {
-        "specializationId": "168",
-        "specializationParentId": "255",
-        "specializationLabel": "Nucléaire",
-        "specializationLabelEn": "Nuclear Industry"
-      },
-      {
-        "specializationId": "169",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie des procédés",
-        "specializationLabelEn": "Process Engineering"
-      },
-      {
-        "specializationId": "197",
-        "specializationParentId": "89",
-        "specializationLabel": "Conducteur",
-        "specializationLabelEn": "Driver"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "206",
-        "specializationParentId": "58",
-        "specializationLabel": "Amélioration continue",
-        "specializationLabelEn": "Continuous improvement"
-      },
-      {
-        "specializationId": "207",
-        "specializationParentId": "58",
-        "specializationLabel": "Méthodes - Process",
-        "specializationLabelEn": "Methods"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "209",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité systèmes",
-        "specializationLabelEn": "Quality systems"
-      },
-      {
-        "specializationId": "224",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécatronique",
-        "specializationLabelEn": "Mecatronics"
-      },
-      {
-        "specializationId": "225",
-        "specializationParentId": "59",
-        "specializationLabel": "Mécanique des fluides",
-        "specializationLabelEn": "Mechanics of fluids"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "251",
-        "specializationParentId": "24",
-        "specializationLabel": "Ingénierie système",
-        "specializationLabelEn": "Systems engineering"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      },
-      {
-        "specializationId": "330",
-        "specializationParentId": "212",
-        "specializationLabel": "Ingénierie Informatique",
-        "specializationLabelEn": "Ingénierie Informatique"
-      },
-      {
-        "specializationId": "331",
-        "specializationParentId": "212",
-        "specializationLabel": "Réseaux et Sécurité Informatique",
-        "specializationLabelEn": "Réseaux et Sécurité Informatique"
-      },
-      {
-        "specializationId": "358",
-        "specializationParentId": "24",
-        "specializationLabel": "ERP management",
-        "specializationLabelEn": "ERP management"
-      },
-      {
-        "specializationId": "361",
-        "specializationParentId": "24",
-        "specializationLabel": "Systèmes embarqués",
-        "specializationLabelEn": "Systèmes embarqués"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Groupe international d’ingénierie et d'expertise en technologies, fortil repose sur un modèle indépendant et rassemble plus de 2 500 collaborateurs. Avec 30 agences réparties dans 14 pays, fortil cultive la liberté d'entreprendre et la libération des potentiels \n \nfortil Belgium porte des projets innovants en life science, énergie, aérospatial, défense et ferroviaire, en mettant son expertise scientifique et technique au service de ses partenaires\n\n\nVotre environnement technique \n\nNos ingénieurs supply chain pilotent les activités de coordination de projets d'amélioration continue.\nNous prenons actuellement en main des sujets d’envergure dans de nombreux domaines tels que l'industrie pharmaceutique, l'aéronautique, l'énergie ou encore la chimie. Notre expertise s’applique à la production et/ou à la chefferie de projet notamment dans des environnements techniques complexes. \n\nNos interventions s’articulent autour de problématiques techniques liées aux dimensions : \nSupply chain & distribution \nRéalisation d'audit\nRéalisation de plans d'actions\n\nVos responsabilités métier \n\nDans l’exercice de vos fonctions, vous serez amené à : \nOptimiser les flux de production\nIdentifier et suivre les actions d’amélioration avec les équipes internes \nSuivre et pérenniser les plans d’actions via des audits\nPiloter la planification de la production en fonction de la demande client et des capacités industrielles\nOptimiser les flux de matières, d’informations et de produits finis\nGérer les outils ERP / APS (type SAP, Oracle, etc.) pour la planification et le suivi des activités\nAccompagner les équipes dans la mise en place des bonnes pratiques\nCoordonner les projets d’amélioration de la maturité Supply Chain\nAnalyser les indicateurs de performance (KPI) et proposer des actions correctives\n\nVous avez une volonté de vous professionnaliser sur les éventuelles compétences manquantes.",
     "creationDate": "2026-08-21T14:42:01Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1396,16 +1067,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Envie de lancer votre carrière dans un environnement international et stimulant ? \nRejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 LE CONTEXTE\nAu sein de l’équipe Finance de SII Allemagne, basée à Augsburg, vous contribuez à fiabiliser et sécuriser les données financières et opérationnelles de l’entité. Dans une structure en pleine croissance, où les processus sont encore en construction, vous jouez un rôle clé dans la qualité des comptes et l’amélioration des pratiques.\nLe poste sera basé à Augsburg, de préférence. Un poste basé à Munich est également possible, avec au moins un jour par semaine sur site à Augsbourg (à environ une heure de route de Munich).\n\n🎯 VOS MISSIONS\n1. Clôtures comptables\n· Participer aux clôtures mensuelles et annuelles.\n· Analyser le bilan et le compte de résultat (BS & P&L review).\n\n2. Contrôles et réconciliations\n· Réaliser les contrôles et rapprochements comptables.\n· Contrôler le chiffre d’affaires, les encours (WIP) et la production.\n· Assurer les contrôles intercompany.\n\n3. Amélioration continue\n· Identifier les axes d’amélioration des processus et contribuer à leur mise en place.\n· Participer à la formalisation des procédures.",
     "creationDate": "2026-11-12T12:36:05Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1466,16 +1130,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Envie de lancer votre carrière dans un environnement international et stimulant ?\n Rejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 LE CONTEXTE\nAu sein de l’équipe Finance de SII Allemagne, basée à Augsburg, vous accompagnez la transformation de la fonction finance.\nVotre objectif : réduire les tâches manuelles, automatiser les processus et améliorer la qualité des données, notamment grâce à Power BI et à l’IA. Vous travaillez en lien étroit avec le contrôle de gestion interne.\nLe poste sera basé à Augsburg, de préférence. Un poste basé à Munich est également possible, avec au moins un jour par semaine sur site à Augsbourg (à environ une heure de route de Munich).\n\n🎯 VOS MISSIONS\n1. Optimisation des processus finance\n· Améliorer les processus dans l’ERP IFS.\n· Optimiser les processus comptables.\n· Documenter et standardiser les procédures.\n\n2. Automatisation et reporting\n· Automatiser les contrôles financiers et les tâches manuelles liées au processus de clôture, en s'appuyant sur des outils tels que l'IA, Power Automate, etc.\n· Développer les outils de reporting et de pilotage sous Power BI et Microsoft Fabric.\n\n3. Qualité des données\n· Garantir la qualité et la cohérence des données entre les outils (HubSpot et outils internes).\n· [Mettre en place des contrôles de cohérence automatisés.]",
     "creationDate": "2026-11-12T12:30:52Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1746,79 +1403,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "49",
-      "86",
-      "155",
-      "208",
-      "234",
-      "262",
-      "264",
-      "326",
-      "340",
-      "346"
+      "[\"49\",\"86\",\"155\",\"208\",\"234\",\"262\",\"264\",\"326\",\"340\",\"346\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "49",
-        "specializationParentId": "239",
-        "specializationLabel": "Sciences",
-        "specializationLabelEn": "Sciences"
-      },
-      {
-        "specializationId": "86",
-        "specializationParentId": "81",
-        "specializationLabel": "Pharmacie",
-        "specializationLabelEn": "Pharmaceutics"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "234",
-        "specializationParentId": "227",
-        "specializationLabel": "Affaires et études européennes",
-        "specializationLabelEn": "European affairs and studies"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      },
-      {
-        "specializationId": "340",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit des affaires",
-        "specializationLabelEn": "Droit des affaires"
-      },
-      {
-        "specializationId": "346",
-        "specializationParentId": "214",
-        "specializationLabel": "Droit de la santé",
-        "specializationLabelEn": "Droit de la santé"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Details of the mission: \nThe Medical Affairs Analyst is responsible for leading and coordinating Medical Affairs activities that support the safety, performance, and regulatory compliance of medical devices throughout their lifecycle. This role serves as both a scientific contributor and project leader, driving cross-functional initiatives related to EU MDR compliance, Clinical Evaluation, Post-Market Surveillance, and product lifecycle management.\nThe position requires effective project management of MDR-related deliverables, coordination of global stakeholders, and leadership of programs aimed at maintaining regulatory compliance and continuous improvement of Medical Affairs processes. \n\nRole and responsibilities:\n•\tProvide medical and scientific support for assigned medical device portfolios throughout the product lifecycle.\n•\tConduct literature reviews, clinical data assessments, and state-of-the-art evaluations.\n•\tDevelop and maintain CEPs, CERs, and related clinical evidence documentation.\n•\tCoordinate EU MDR clinical, PMS, PMCF, and PSUR deliverables across product families.\n•\tEvaluate complaints, vigilance data, literature, and emerging safety signals to support risk and benefit-risk assessments.\n•\tSupport regulatory submissions, product lifecycle activities, audits, and interactions with Notified Bodies and Competent Authorities.\n•\tCollaborate with Regulatory, Quality, R&D, Clinical, Risk Management, Toxicology, Biocompatibility, and Vigilance teams.\n•\tManage project plans, timelines, dependencies, risks, metrics, and stakeholder updates.\n•\tMonitor regulatory and standards developments and contribute to process improvement and team knowledge-sharing.\n\nBenefits to join your team:\n•\tGain hands-on experience in global Medical Affairs and EU MDR activities across the medical device lifecycle.\n•\tWork on meaningful projects that support patient safety, product performance, and regulatory compliance.\n•\tCollaborate with experienced, cross-functional, and international teams.\n•\tBuild expertise in clinical evidence, post-market surveillance, risk management, and regulatory strategy.\n•\tDevelop project management, stakeholder engagement, and professional communication skills in a supportive team environment.",
     "creationDate": "2026-09-30T07:57:47Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -1949,107 +1536,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "21",
-      "49",
-      "86",
-      "125",
-      "144",
-      "150",
-      "155",
-      "208",
-      "209",
-      "244",
-      "256",
-      "262",
-      "264"
+      "[\"5\",\"21\",\"49\",\"86\",\"125\",\"144\",\"150\",\"155\",\"208\",\"209\",\"244\",\"256\",\"262\",\"264\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "49",
-        "specializationParentId": "239",
-        "specializationLabel": "Sciences",
-        "specializationLabelEn": "Sciences"
-      },
-      {
-        "specializationId": "86",
-        "specializationParentId": "81",
-        "specializationLabel": "Pharmacie",
-        "specializationLabelEn": "Pharmaceutics"
-      },
-      {
-        "specializationId": "125",
-        "specializationParentId": "81",
-        "specializationLabel": "Génie Biomédical",
-        "specializationLabelEn": "Biomedical Engineering"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "150",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de la production",
-        "specializationLabelEn": "Production Management"
-      },
-      {
-        "specializationId": "155",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité, Hygiène, Sécurité, Environnement (QHSE)",
-        "specializationLabelEn": "Prevention - Hygiene - Safety"
-      },
-      {
-        "specializationId": "208",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité produits",
-        "specializationLabelEn": "Quality products"
-      },
-      {
-        "specializationId": "209",
-        "specializationParentId": "58",
-        "specializationLabel": "Qualité systèmes",
-        "specializationLabelEn": "Quality systems"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "256",
-        "specializationParentId": "255",
-        "specializationLabel": "Biochimie",
-        "specializationLabelEn": "Biochemestry"
-      },
-      {
-        "specializationId": "262",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets technologiques & innovation",
-        "specializationLabelEn": "Innovation & technology management"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Avertim Netherlands is currently looking for Quality Engineers able to assist in the continuous expansion of Avertim’s consulting activities in Life Sciences. Located in Amsterdam-Zuid, Avertim Netherlands is a trusted partner by the largest players in the Life Sciences sector.\n\n\n\nAs a Quality Engineer, you will play a key role in ensuring GMP compliance by managing and resolving Non-Conformities (NCs) and driving continuous improvement in quality processes. You will collaborate closely with cross-functional teams to investigate deviations, implement corrective and preventive actions (CAPAs), and uphold regulatory standards.\n\n\n\nKey responsibilities:\n\nLead the investigation, documentation, and resolution of NCs, ensuring timely and effective CAPA implementation, and manage change controls.\nPerform root cause analyses and risk assessments to prevent recurrence of deviations.\nEnsure compliance with GMP, FDA, EMA, and other regulatory requirements in all quality-related activities.\nCollaborate with production, quality control, and regulatory teams to drive improvements in GMP processes.\nConduct internal audits and support external regulatory inspections.\nMaintain and improve SOPs, batch records, and other GMP documentation.\nProvide GMP training and guidance to operational teams to enhance compliance awareness.\n\n\nYour background:\n\nA Master’s Degree in Engineering, Pharmacy, Life Sciences or related field\n2 years of experience in Pharmaceuticals, Biotech or Medical Devices.\nHands-on experience with NC management, CAPA implementation, change controls, and deviation investigations.\nExperience in cell & gene therapy is a plus.\nPlanning & organization – Planning & organization plans and organizes own work(load) in an effective way by setting priorities and meeting deadlines;\nCommunicating & influencing – Communicates with clarity, speaks and writes clearly and to the point; active listener;\nProficiency in Lean and Six Sigma methodologies or Project Management\nFluent in English\n\n\nAs an Avertimer, you will get the opportunity to:\n\nImmerse yourself into a young, vibrant, fast-growing team at our modern office, located in the Amsterdam business district, de Zuidas\nEnjoy our events, like team activities and afterworks.\nDevelop yourself in a place where individuals and ideas matter, in line with our company values:\n\n\nBe yourself\n\nTrust, ownership and respect\n\nListen and act\n\n\n\nWith offices in Brussels, Paris, Frankfurt and Amsterdam you will benefit from our international community. On top of that, we also support the opportunity to perform projects at multiple locations.\nAccess various learning and development opportunities and an interesting career track.\n\n\nAbout Avertim:\n\nAvertim is a uniquely positioned Management Consulting Group that bridges the gap between Strategy and Operations. Our mission is to translate the strategy of our clients into actionable projects and enable the alignment between Business, Technology and Management. Founded in 2007, and headquartered on Brussels’ famous Louise Avenue, Avertim has grown into a European consultancy group with more than 300 consultants and offices in Belgium, France, Germany, and the Netherlands.\n\n\n\n\n\nLooking for a challenging and exciting new step in your career at a recognised international consultancy firm that works with the top players in the Life Sciences sector?\n\nApply now!\n\n\n\n\n\nAt Avertim, we value talent and mindset. No difference will be made during the recruitment process and applicants will receive consideration for employment whatever their gender, marital status, religion, age, color, sexual orientation, nationality or disability, …",
     "creationDate": "2026-05-12T14:43:27Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3405,16 +2894,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "We are seeking a highly skilled ALM & Structured Funding professional with strong expertise in securitisation (SRT), derivatives management, regulatory frameworks and project management.\n\nThe candidate will play a key role to support ALM & Treasury activities especially focused on securitisation, liquidity, interest rate risk and solvency topics. The role combines technical expertise with project delivery and a focus on innovation and continuous improvement.\n________________________________________\nKey Responsibilities\n•\tMonitor securitisation transactions, including SRT deals.\n•\tMonitor derivatives and hedging strategies (IRS and back-to-back swaps).\n•\tSupport on regulatory and strategic projects (internal and at group level)\n•\tEnsure compliance with regulatory and accounting requirements.\n•\tManage and optimize liquidity, IRR and solvency topics.\n•\tLiaise with regulators, auditors, investors and rating agencies.",
     "creationDate": "2026-11-05T09:24:43Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4175,37 +3657,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9",
-      "200",
-      "259",
-      "320"
+      "[\"9\",\"200\",\"259\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Reporting directly to the Group CFO and working closely with the country BU Directors, the V.I.E will support Finance & Administration (F&A) activities for our Mexico and São Paulo subsidiaries.\r\n \r\nBased in our Mexico City office, the V.I.E will also provide remote support for activities related to São Paulo. The mission will mainly cover the following areas:\r\n \r\n1) FINANCE COORDINATION & SUPPORT\r\n•\tWork closely with the Finance teams in Mexico and São Paulo and facilitate coordination with Group Finance.\r\n•\tLiaise with external accounting providers regarding annual financial statements, tax declarations and other accounting matters.\r\n•\tSupport the coordination and preparation of information required for annual audits.\r\n•\tFacilitate communication between local teams, external providers and Corporate F&A.\r\n \r\n2) REPORTING & CONTROL\r\n•\tPrepare financial reporting and analysis for monthly closing, forecasting and planning.\r\n•\tPerform consistency checks on financial and accounting data and highlight discrepancies to the relevant local or Group stakeholders.\r\n•\tSupport reconciliation between accounting and reporting.\r\n•\tPrepare cash-control information, including bank reconciliations, and support payment preparation and follow-up in accordance with the company’s established approval procedures.\r\n•\tSupport the implementation and monitoring of KLB policies and procedures.\r\n \r\n3) TRANSACTION SUPPORT & MONITORING\r\n•\tSupport Accounts Receivable and Accounts Payable processes, including invoice preparation, cash-collection follow-up and supplier-account monitoring.\r\n•\tCoordinate the transmission of financial information to external accountants and contribute to the review of monthly and yearly accounting deliverables.\r\n•\tReview expense documentation and flag potential discrepancies or compliance issues to the relevant responsible stakeholders.\r\n•\tSupport the preparation and follow-up of exchanges with tax administrations, under the responsibility of the relevant local or Group representatives.\r\n \r\n4) HR ADMINISTRATION SUPPORT\r\n•\tProvide administrative support for the preparation of employment documentation and the maintenance of employee files and records.\r\n•\tCoordinate the collection and transmission of information required for bi-weekly payroll processing with the external service provider.\r\n•\tSupport HR administrative processes throughout the employee lifecycle.\r\n \r\n5) CONTRACT & LEGAL SUPPORT\r\n•\tSupport the administrative review and coordination of contracts prior to signature by the authorized company representatives.\r\n•\tPrepare and compile information and documentation required for potential legal matters, in coordination with external lawyers and the relevant company representatives.\r\n•\tFacilitate follow-up between internal stakeholders and external legal advisers.\r\n \r\n6) PROJECTS & GENERAL ADMINISTRATION\r\n•\tSupport office and general administration activities, including premises, IT, insurance, company cars and mobile phones.\r\n•\tProvide support to Corporate F&A and contribute to Group projects in coordination with F&A representatives in other countries.\r\n•\tContribute to the improvement of financial and administrative processes and reporting tools.",
     "creationDate": "2026-10-27T15:07:28Z",
     "missionStartDate": "2027-03-01T00:00:00",
