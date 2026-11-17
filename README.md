@@ -8,11 +8,73 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **17/11/2026 18:01:14**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **17/11/2026 18:15:57**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Finance Analyst/Controller Neuroscience & Aesthetics (H/F)</strong> · IPSEN PHARMA · CAMBRIDGE       -MA-, ETATS-UNIS · 4 108,83 €/mois</summary>
+
+- **Entreprise :** IPSEN PHARMA
+- **Lieu :** CAMBRIDGE       -MA-, ETATS-UNIS
+- **Indemnité :** 4 108,83 €/mois
+- **Durée de la mission :** 18 mois (Du 1 mars 2027 au 1 sept. 2028)
+- **Publiée le :** 17/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux exigences du VIE avec son Master en finance, ses deux années d'expérience en contrôle de gestion et son excellent niveau d'anglais (TOEIC 925). Seul un léger écart géographique est à noter, le poste étant basé aux États-Unis alors qu'il montre une affinité particulière pour l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248423](https://mon-vie-via.businessfrance.fr/offres/248423)
+
+**Description du poste**
+
+Your Mission
+As a V.I.E Finance Analyst / Controller, you will join our Neuroscience Finance team in Cambridge.
+
+Working closely with Finance teams across the US, France and the UK, you will support financial planning, controlling and business partnering activities, contributing to strategic decision-making and financial performance.
+
+
+Your Key Responsibilities
+Financial Planning & Budgeting: Support budgeting activities, maintain financial tracking tools and monitor Neuroscience project costs.
+Financial Analysis & Reporting: Prepare financial models, analyze financial data and produce accurate financial reports.
+Business Partnering: Collaborate with Finance teams and project leaders to provide financial insights and support business decisions.
+Business Case Development: Contribute to financial evaluations, investment analyses and business cases.
+Cost & Investment Monitoring: Analyze Neuroscience costs and investments across projects and development phases.
+Finance Projects & Improvement: Support global Finance initiatives, financial benchmarking and process improvement activities.
+
+Your Profile
+Bachelor's or Master's degree in Finance, Accounting, Business Administration or a related field.
+Ideally 1–2 years of experience in Financial Analysis, Controlling or Financial Planning.
+Strong analytical skills and proficiency in Excel and PowerPoint.
+Knowledge of SAP, TM1 or Think-cell is an advantage.
+Interest in the pharmaceutical industry and financial management.
+Excellent communication and organizational skills.
+Proactive, autonomous and comfortable working with international teams.
+Fluent English, both written and spoken.
+
+Why Join Ipsen?
+Develop your expertise in financial analysis, controlling and business partnering.
+Collaborate with international Finance teams across the US, France and the UK.
+Contribute to strategic financial projects within the pharmaceutical industry.
+Support innovative projects that make a difference for patients.
+
+Ready to Join Us?
+Looking to develop your career in Finance within an international pharmaceutical company?
+
+Apply now and join Ipsen's Neuroscience Finance team!
+
+**Profil recherché**
+
+Your Profile
+Bachelor's or Master's degree in Finance, Accounting, Business Administration or a related field.
+Ideally 1–2 years of experience in Financial Analysis, Controlling or Financial Planning.
+Strong analytical skills and proficiency in Excel and PowerPoint.
+Knowledge of SAP, TM1 or Think-cell is an advantage.
+Interest in the pharmaceutical industry and financial management.
+Excellent communication and organizational skills.
+Proactive, autonomous and comfortable working with international teams.
+Fluent English, both written and spoken.
+
+</details>
 
 <details>
 <summary><strong>VIE Corporate Development (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
