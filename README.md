@@ -8,11 +8,76 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **17/11/2026 12:30:57**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **17/11/2026 12:45:56**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Financial Analyst Procurement NorAm (H/F)</strong> · BEL · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** BEL
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 18 mois (Du 1 mars 2027 au 1 sept. 2028)
+- **Publiée le :** 17/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil correspond parfaitement aux attentes avec un Master en finance, 2 ans d'expérience en contrôle de gestion et une maîtrise d'Excel et Power BI. Les seuls légers bémols résident dans l'absence d'expérience spécifique en milieu industriel agroalimentaire ou avec les normes IFRS, bien que ses compétences analytiques compensent largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248391](https://mon-vie-via.businessfrance.fr/offres/248391)
+
+**Description du poste**
+
+The Financial Analyst – Purchasing is responsible for providing financial analysis and P&L management for the Purchasing department.
+Essential Duties and Responsibilities
+Monthly Closing and Reporting for Purchasing:
+•	Ensure accurate and timely monthly financial closes in compliance with IFRS standards.
+•	Collaborate with the Accounting and Purchasing teams to prepare and manage accruals and journal entries.
+•	Identify and reconcile discrepancies between systems and reports.
+•	Provide financial support to the Purchasing team (focused on Raw Materials, Packaging, and Fresh Apples categories).
+•	Deliver insights on business performance through monthly, and annual reports, monitoring trends and budget variances.
+•	Track and analyze performance against budget, (Purchase Price Variance) P&L and related KPIs.
+•	Monitor obsolescence expenses (e.g., depreciation).
+•	Track and provide insights into inventory valuation, sharing key takeaways with cross-functional teams.
+
+Budget Preparation and Forecasting
+o	Support budgeting and reforecasting activities for Purchasing functions.
+o	Provide detailed P&L analysis and financial modeling for project-specific activities.
+o	Build forecasts and estimates to assess "year-to-go" and landing.
+o	Manage monthly updates on risks and opportunities in collaboration with the Purchasing department.
+o	Offer financial guidance to the Purchasing team in building key assumptions (e.g., standard costs, secondary costs).
+Strategic and Business Support
+o	Act as a business partner to drive continuous performance improvement and savings validation.
+o	Support strategic projects to updates financial KPIs (Savings, free cash flow impact, ROIs).
+o	Support Private Label sales team in providing P&L and costings.
+Tools, Systems, and Process Optimization
+o	Develop efficient methods to reduce manual work and enhance collaboration using tools like Power Query and Power BI.
+o	Collaborate with the IT team to establish a consistent and accurate data hub to expedite month-end closing.
+o	Streamline internal controls processes and workflows using tools such as Power Automate and Approvals. 
+o	Support projects to improve cost tracking in production ERP (VIF).
+o	Develop or revamp existing worksheet to augment automation efficiency.
+
+**Profil recherché**
+
+•	Expert in MS Office, especially Excel, Power Point.
+•	Power query and power BI.
+•	Quick learner.
+•	Accounting skills.
+•	Attention to both detail and high level of accuracy.
+•	Analytical and problem solving.
+•	Effective verbal and written communications skills.
+•	Team player.
+•	Excellent time management skills; able to prioritize.
+•	Able to quickly pivot and be agile in thinking differently.
+•	Comfortable working on a fast-paced business.
+•	Comfortable working in an international environment.
+•	Master’s degree in Finance, Business (with an Accounting focus), or a related field preferred.
+•	1-3 years of relevant accounting and financial analysis experience.
+•	Strong accounting and financial reporting experience in an operational environment.
+•	IFRS/US GAAP.
+•	Experience with Big Four audit firms is preferred.
+•	Prior experience working within a manufacturing environment highly preferred.
+
+</details>
 
 <details>
 <summary><strong>Finance Analyst - Dublin (H/F)</strong> · PERNOD RICARD · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
@@ -62,6 +127,94 @@ Candidate Profile
 1–2+ years of finance experience (e.g., BP&A, audit, finance operations)
 Strong financial acumen, attention to detail, and adaptability
 Proficiency in English is mandatory
+
+</details>
+
+<details>
+<summary><strong>SAP Controlling Analyst (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** VINCI CONSTRUCTION SI
+- **Lieu :** BOTTROP, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 17/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245657](https://mon-vie-via.businessfrance.fr/offres/245657)
+
+**Description du poste**
+
+WHO ARE WE?
+
+Joining VINCI Construction SI means contributing to the Group's digital transformation to support users worldwide.
+
+Our mission is to modernize management tools and business applications, enhance cybersecurity and develop IT infrastructures. We also work on driving user adoption of our solutions while helping shape the digital future through technologies such as AI, BIM, and IoT.
+
+If you would like to learn more about us, visit and follow our LinkedIn page!
+
+YOUR MISSIONS AND CHALLENGES AT VINCI CONSTRUCTION SI
+
+As part of the IT Department in Germany, reporting to Andrea Wienand from the Transformation & Applications team, you will join a dynamic team of 13 people for a 24-month V.I.E. assignment.
+You will be based at our Bauknechtquartier site on the VINCI Construction campus in Bottrop, Germany, near Düsseldorf, following a 6-month training period at VINCI Construction SI in Nanterre-Préfecture (France).
+
+You will contribute to a key challenge for the Group: ensuring efficient management of construction projects by providing IT solutions related to the Finance & Controlling domain, including:
+•	General Ledger Accounting (GL)
+•	Accounts Payable (AP)
+•	Accounts Receivable (AR)
+•	Treasury Management
+•	Asset Accounting
+•	Construction project controlling and corporate controlling
+•	Budgeting processes
+•	Revenue and cost integration and monitoring
+•	Profitability analysis
+•	Monthly closing activities
+
+Your responsibilities will include:
+•	Participating in the analysis of business requirements and implementing appropriate technical solutions to enhance our processes
+•	Managing interactions with other business domains, including Logistics, Finance, Human Resources and operational applications
+•	Providing support, maintenance and training activities related to our solutions for users in Germany, as well as internationally, on cross-functional topics to facilitate adoption
+•	Developing expertise on SAP environment, learning project management best practices and facilitating workshops with internal clients
+
+Location: L'Archipel, VINCI Head Office at Nanterre-Préfecture (France) | Bottrop, GERMANY
+
+Contract type: V.I.E. (International Corporate Volunteer Program)
+
+What we offer: A varied and stimulating role | International collaboration | Integration into a team with a true spirit of equal partnership | A long-term working relationship built on trust | A high level of responsibility and autonomy | Access to personalized continuous learning opportunities
+
+WHY JOIN US?
+
+By joining our IT Department, you will become part of a dynamic and innovative team that leverages the latest technologies to meet the needs of our Business Units and customers.
+You will benefit from close collaboration with VINCI Construction SI, enabling you to share knowledge and contribute to cross-functional projects. In doing so, you will actively support the digital transformation of the VINCI Construction Group.
+
+We place great importance on the Employee Experience, which we consider a key success factor for our company. We offer a personalized onboarding program, individual and collective support, as well as training and mobility opportunities within VINCI Construction SI and VINCI Group.
+Throughout your assignment, you will develop your technical, linguistic, managerial and interpersonal skills while strengthening your sense of responsibility and commitment to safety.
+
+RECRUITMENT PROCESS:
+
+1.	To apply for this opportunity, simply submit your CV
+2.	If your profile matches our expectations, a member of the Talents Team will contact you for an interview on Teams
+3.	If successful, you will meet Steven Cousin, the Hiring Manager.
+4.	You will then meet the IT Department Director
+5.	If your application is approved, you will receive a verbal offer, followed by a formal written offer
+6.	We will then prepare your onboarding and integration into VINCI Construction SI 😊
+
+Build Better Together
+
+**Profil recherché**
+
+COULD IT BE YOU?
+
+In your final year of a Master's degree or Bac+5 (engineering school, business school, university, or IT-related studies), or already graduated with one or more years of professional experience, you have:
+•	The ability to understand, analyze and summarize business challenges, adapt your communication style to different audiences and interact effectively with internal clients
+•	Experience gained through an internship, personal project or academic project in an IT/Digital environment on SAP S/4HANA Controlling (CO) as a Functional Analysist would be an advantage
+•	Strong written and verbal communication skills in both French and English, enabling effective collaboration with end users, VINCI Construction management and other IT teams (Infrastructure, Networks, Support, etc.)
+•	Professional fluency in English
+•	Basic knowledge of German
+
+SOFT SKILLS AND TECHNICAL COMPETENCIES:
+
+•	Strong team spirit, customer-oriented mindset, curiosity, attention to detail, analytical and synthesis skills, excellent interpersonal abilities, organizational skills and a results-driven approach 
+•	An educational background in Controlling, Construction Engineering or Information Systems would be appreciated 
+•	A first experience as a SAP S/4HANA Controlling (CO) Functional Analyst would be a plus 
+•	Willingness to undertake occasional business travel as part of the role
 
 </details>
 
@@ -131,68 +284,6 @@ Methodical, organised and meticulous with common sense
 Strong Analytical and problem solving skills
 Technical knowledge of site techniques
 Ability to critique, recommend and implement initiatives that seek efficiencies either from a process or systems perspective
-
-</details>
-
-<details>
-<summary><strong>Responsable Administratif et Commercial (H/F)</strong> · SOC ATELIERS PINTON · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
-
-- **Entreprise :** SOC ATELIERS PINTON
-- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
-- **Indemnité :** 5 088,87 €/mois
-- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
-- **Publiée le :** 16/11/2026
-- **Compatibilité avec ton profil :** 60 % — Nathan possède de solides compétences en gestion, Excel et un excellent niveau d'anglais, ce qui correspond aux tâches de reporting et d'administration. Cependant, l'offre est orientée à 60% vers le développement commercial, un domaine où son profil de contrôleur de gestion présente un écart par rapport à la dominante commerciale recherchée.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248364](https://mon-vie-via.businessfrance.fr/offres/248364)
-
-**Description du poste**
-
-Depuis 1867, la Manufacture Pinton perpétue la tradition de la tapisserie d'Aubusson et participe à son renouveau sur la scène de l'art contemporain. Reconnue dans l'art, la décoration d'intérieur et le luxe, l'entreprise familiale a constitué un groupe textile unique (Manufacture Royale d'Aubusson, Tissage des Flandres, MyDiTex, nouvelle manufacture de tapis tuftés main en Creuse). Ses créations habillent galeries d'art, résidences privées, hôtels et boutiques de luxe à travers le monde.
-
-Le groupe ouvre son marché américain et développe sa filiale Pinton Inc., basée à New York. Rattaché(e) directement au Directeur Général de Pinton Inc., vous serez son bras droit sur un marché en pleine structuration, avec des responsabilités concrètes et une grande autonomie dès le premier jour.
-
-1. Développement commercial (environ 60 %)
-- Développer la présence de l'entreprise aux États-Unis et au Canada : études de marché, prospection de clients et distributeurs, salons professionnels, tournées commerciales.
-- Prospecter et détecter des projets auprès des architectes et designers d'intérieur, showrooms design, galeries d'art et acteurs de l'hospitality (hôtellerie, restauration, retail et boutiques de luxe).
-- Déployer des campagnes de prospection multicanales, qualifier les leads et suivre le pipeline commercial.
-- Présenter les produits et savoir-faire, adapter le discours au marché américain et conduire les négociations jusqu'à la signature.
-- Assister le Directeur Général dans la prospection et la gestion de la relation client.
-- Mettre en place des outils de prospection et de pilotage (CRM, bases de données, tableaux de bord Excel, outils d'IA, supports de présentation et marketing).
-
-2. Gestion de projets et coordination production (environ 20 %)
-- Suivre les projets clients de la commande à la livraison : tapisseries, tapis, moquettes et tissus.
-- Faire le relais entre les clients nord-américains et les équipes de production et de logistique en France, en Europe et en Asie : cahiers des charges, délais, contrôle qualité, expérience client.
-- En coordination avec l'équipe ADV France, faciliter la logistique vers les États-Unis et le Canada : transport, formalités d'importation, suivi des installations.
-- Tenir à jour les plannings de production et informer les clients de l'avancement de leurs projets.
-
-3. Administration et office management (environ 20 %)
-- Préparer le reporting commercial et financier destiné à la direction générale du groupe.
-- Contribuer à la gestion administrative de la filiale avec l'équipe France : devis, facturation, suivi des paiements et relances.
-- Participer à l'organisation du bureau et, à terme, du showroom de New York : fournisseurs, prestataires, échantillons, accueil des clients.
-- Contribuer à l'organisation d'événements locaux (salons, présentations, opérations marketing) avec les équipes marketing et communication du groupe.
-
-Déplacements à prévoir aux États-Unis et au Canada. Télétravail partiel possible.
-
-Candidature : CV et lettre de motivation en français et en anglais, référence « VIE - Responsable Commercial et Administratif - New York ».
-
-**Profil recherché**
-
-Formation et langues
-- Formation supérieure Bac +5 : école de commerce, IEP, grande école ou équivalent universitaire.
-- Bilingue français-anglais et biculturel franco-américain ; Aisance rédactionnelle et orale dans les deux langues.
-
-Compétences
-- Maîtrise des outils informatiques et bureautiques, notamment Excel et la suite Microsoft.
-- Aisance avec les outils d'IA et les solutions digitales : CRM, Monday, Google, outils de prospection et de suivi client, outils de mise en page.
-- Bonnes bases en techniques de vente et de négociation ; une première expérience commerciale (stage, alternance) est un plus.
-- Capacité à gérer plusieurs projets en parallèle avec rigueur et sens de l'organisation.
-- Permis de conduire B requis : déplacements à prévoir aux États-Unis et au Canada.
-
-Qualités personnelles
-- Fort intérêt pour le design, l'art, l'artisanat d'exception et les industries du luxe au sens large.
-- Autonomie, esprit entrepreneurial et goût du terrain ; capacité à évoluer dans une petite structure en développement.
-- Excellent relationnel, sens du service client et de la représentation d'une maison de luxe.
-- Curiosité, polyvalence et force de proposition.
 
 </details>
 

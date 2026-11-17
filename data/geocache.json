@@ -704,5 +704,9 @@
     "lat": -32.4881159,
     "lon": 150.516408
   },
-  "entreprise|pernod ricard|dublin|irlande": null
+  "entreprise|pernod ricard|dublin|irlande": null,
+  "entreprise|bel|new york  -ny-|etats-unis": {
+    "lat": 40.6997318,
+    "lon": -73.57089
+  }
 }
