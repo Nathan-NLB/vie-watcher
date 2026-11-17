@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **17/11/2026 17:01:31**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **17/11/2026 17:16:01**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -218,6 +218,91 @@ Qualités personnelles
 - Autonomie, esprit entrepreneurial et goût du terrain ; capacité à évoluer dans une petite structure en développement.
 - Excellent relationnel, sens du service client et de la représentation d'une maison de luxe.
 - Curiosité, polyvalence et force de proposition.
+
+</details>
+
+<details>
+<summary><strong>VIE Contract Manager, Energy Exotic Market (Back Office) (H/F)</strong> · ENGIE GLOBAL MARKETS · COLOGNE, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** ENGIE GLOBAL MARKETS
+- **Lieu :** COLOGNE, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 17/11/2026
+- **Compatibilité avec ton profil :** 60 % — Le profil de Nathan présente de solides compétences en finance, Excel et analyse de données, ainsi qu'un excellent niveau d'anglais adapté à un VIE international. Cependant, l'offre requiert des compétences techniques spécifiques en programmation (VBA, SQL, Python) et une expérience en finance de marché ou middle/back office que le candidat ne possède pas entièrement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248301](https://mon-vie-via.businessfrance.fr/offres/248301)
+
+**Description du poste**
+
+Location: Cologne (priority) or Berlin, Germany
+
+Context
+ 
+ENGIE is a global benchmark in low-carbon energy and services. Its energy management business, Global Energy Management & Sales, has built its know-how over 20+ years on a vast and diversified asset portfolio. Our 3,300 employees work across 20+ international sales platforms. They cover the entire energy mix: renewable and thermal energy, natural gas and LNG, biomass and environmental products.
+ 
+Our 120,000 customers include producers, asset developers, financial players, utilities, distributors and manufacturers. We support them with four areas of expertise: asset management, energy transition services, energy and commodities trading, and risk management and market access.
+ 
+The B2B division provides energy supply solutions and risk management services. They support customers in their decarbonization journey, optimize ENGIE's assets and create value.
+ 
+BP Germany is a fast-growing business platform with strong ambitions in renewables, and it leads the Group's carbon neutrality objective. It rests on three pillars: renewables, market access and supply, and optimization of generation assets.
+ 
+The Back Office team ensures correct invoicing and post-trade control for all BP Germany customers.
+ 
+Your Mission
+ 
+As VIE Contract Manager, you will report to the Head of the BO team and have no management responsibilities.
+You will:
+ 
+Manage energy supply contracts. You will build a thorough understanding of each contract, identify the right invoicing scheme and assess the impact on the invoicing and accounting chain.
+Learn the operational invoicing tasks alongside the team.
+Maintain and improve the invoicing tools (currently Excel and VBA).
+Take part in the team's project to digitalize invoicing with Dataiku and Python.
+Make sure the contractual terms match the booking, and manage the day-to-day contract lifecycle.
+Work with the internal teams: Front Office (trading and origination), Customer Support, Legal, Credit and Risk, Compliance and other KYC teams. You will also deal with external counterparties.
+ 
+Depending on your performance, you may also:
+ 
+Join the migration of invoicing to a global tool. You would work with IT teams, provide guidance, and test and validate deliveries.
+Manage disputes with counterparties, with input from internal stakeholders.
+Support Front Office, Sales, Tax and Legal on deal origination and renegotiation.
+
+**Profil recherché**
+
+What we are looking for
+ 
+Hard skills
+Coding skills in VBA, SQL and Python. Dataiku is a plus.
+Strong command of Outlook, Teams, Excel and Power BI.
+Analytical and quantitative skills, with a hands-on approach.
+Ability to extract and analyze large volumes of data with IT tools.
+Understanding of the front-to-back value chain and of accounting principles in a market finance environment.
+Knowledge of commodity transactions (physical and financial products and their risks) is a plus.
+ 
+Soft skills
+Assertive, inquisitive and stress-resistant.
+High level of integrity.
+Well organized, proactive and solution-oriented.
+Able to perform under tight deadlines during reporting cycles.
+Able to work reliably and accurately with limited supervision.
+A real team player who shares knowledge and coordinates input from various units.
+Able to optimize processes and work with IT teams to propose system improvements.
+ 
+Education & Experience
+ Degree in applied economics, finance or accounting, or relevant professional experience in finance (for example as a controller).
+Previous experience in back office, middle office or contract management, ideally in the energy sector.
+Relevant experience in market finance.
+ 
+Languages
+English: fluent, written and spoken.
+German: a plus.
+ 
+Why join us? 
+Join a global leader in low-carbon energy, with a major role in energy management and trading.
+Work in a fast-growing platform with strong ambitions in renewables.
+Get hands-on experience of the full front-to-back chain, with exposure to IT, digitalization and automation projects.
+Possible growth into global tool migration, dispute management and deal support, depending on your performance.
+Work in an environment that encourages team spirit, curiosity and innovation, with a healthy work-life balance.
+Be based in Cologne, with occasional visits to Berlin, Paris and Brussels.
 
 </details>
 
