@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **17/11/2026 16:15:47**, 90 offre(s) actuellement en ligne.
+Dernière vérification : **17/11/2026 16:30:59**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -127,6 +127,68 @@ Candidate Profile
 1–2+ years of finance experience (e.g., BP&A, audit, finance operations)
 Strong financial acumen, attention to detail, and adaptability
 Proficiency in English is mandatory
+
+</details>
+
+<details>
+<summary><strong>Responsable Administratif et Commercial (H/F)</strong> · SOC ATELIERS PINTON · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** SOC ATELIERS PINTON
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 17/11/2026
+- **Compatibilité avec ton profil :** 60 % — Nathan possède de solides compétences en gestion, Excel et un excellent niveau d'anglais, ce qui correspond aux tâches de reporting et d'administration. Cependant, l'offre est orientée à 60% vers le développement commercial, un domaine où son profil de contrôleur de gestion présente un écart par rapport à la dominante commerciale recherchée.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248364](https://mon-vie-via.businessfrance.fr/offres/248364)
+
+**Description du poste**
+
+Depuis 1867, la Manufacture Pinton perpétue la tradition de la tapisserie d'Aubusson et participe à son renouveau sur la scène de l'art contemporain. Reconnue dans l'art, la décoration d'intérieur et le luxe, l'entreprise familiale a constitué un groupe textile unique (Manufacture Royale d'Aubusson, Tissage des Flandres, MyDiTex, nouvelle manufacture de tapis tuftés main en Creuse). Ses créations habillent galeries d'art, résidences privées, hôtels et boutiques de luxe à travers le monde.
+
+Le groupe ouvre son marché américain et développe sa filiale Pinton Inc., basée à New York. Rattaché(e) directement au Directeur Général de Pinton Inc., vous serez son bras droit sur un marché en pleine structuration, avec des responsabilités concrètes et une grande autonomie dès le premier jour.
+
+1. Développement commercial (environ 60 %)
+- Développer la présence de l'entreprise aux États-Unis et au Canada : études de marché, prospection de clients et distributeurs, salons professionnels, tournées commerciales.
+- Prospecter et détecter des projets auprès des architectes et designers d'intérieur, showrooms design, galeries d'art et acteurs de l'hospitality (hôtellerie, restauration, retail et boutiques de luxe).
+- Déployer des campagnes de prospection multicanales, qualifier les leads et suivre le pipeline commercial.
+- Présenter les produits et savoir-faire, adapter le discours au marché américain et conduire les négociations jusqu'à la signature.
+- Assister le Directeur Général dans la prospection et la gestion de la relation client.
+- Mettre en place des outils de prospection et de pilotage (CRM, bases de données, tableaux de bord Excel, outils d'IA, supports de présentation et marketing).
+
+2. Gestion de projets et coordination production (environ 20 %)
+- Suivre les projets clients de la commande à la livraison : tapisseries, tapis, moquettes et tissus.
+- Faire le relais entre les clients nord-américains et les équipes de production et de logistique en France, en Europe et en Asie : cahiers des charges, délais, contrôle qualité, expérience client.
+- En coordination avec l'équipe ADV France, faciliter la logistique vers les États-Unis et le Canada : transport, formalités d'importation, suivi des installations.
+- Tenir à jour les plannings de production et informer les clients de l'avancement de leurs projets.
+
+3. Administration et office management (environ 20 %)
+- Préparer le reporting commercial et financier destiné à la direction générale du groupe.
+- Contribuer à la gestion administrative de la filiale avec l'équipe France : devis, facturation, suivi des paiements et relances.
+- Participer à l'organisation du bureau et, à terme, du showroom de New York : fournisseurs, prestataires, échantillons, accueil des clients.
+- Contribuer à l'organisation d'événements locaux (salons, présentations, opérations marketing) avec les équipes marketing et communication du groupe.
+
+Déplacements à prévoir aux États-Unis et au Canada. Télétravail partiel possible.
+
+Candidature : CV et lettre de motivation en français et en anglais, référence « VIE - Responsable Commercial et Administratif - New York ».
+
+**Profil recherché**
+
+Formation et langues
+- Formation supérieure Bac +5 : école de commerce, IEP, grande école ou équivalent universitaire.
+- Bilingue français-anglais et biculturel franco-américain ; Aisance rédactionnelle et orale dans les deux langues.
+
+Compétences
+- Maîtrise des outils informatiques et bureautiques, notamment Excel et la suite Microsoft.
+- Aisance avec les outils d'IA et les solutions digitales : CRM, Monday, Google, outils de prospection et de suivi client, outils de mise en page.
+- Bonnes bases en techniques de vente et de négociation ; une première expérience commerciale (stage, alternance) est un plus.
+- Capacité à gérer plusieurs projets en parallèle avec rigueur et sens de l'organisation.
+- Permis de conduire B requis : déplacements à prévoir aux États-Unis et au Canada.
+
+Qualités personnelles
+- Fort intérêt pour le design, l'art, l'artisanat d'exception et les industries du luxe au sens large.
+- Autonomie, esprit entrepreneurial et goût du terrain ; capacité à évoluer dans une petite structure en développement.
+- Excellent relationnel, sens du service client et de la représentation d'une maison de luxe.
+- Curiosité, polyvalence et force de proposition.
 
 </details>
 
