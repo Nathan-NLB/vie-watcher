@@ -77,6 +77,69 @@
     "dateCandidature": null
   },
   {
+    "id": 248379,
+    "organizationName": "PERNOD RICARD",
+    "missionTitle": "Finance Analyst - Dublin (H/F)",
+    "missionDuration": 12,
+    "viewCounter": 0,
+    "candidateCounter": 0,
+    "missionType": "VIE",
+    "missionTypeEn": "VIE",
+    "organizationPresentation": "Pernod Ricard est le leader mondial des champagnes et spiritueux premium internationaux. Nos marques iconiques reflètent notre passion pour le développement de nos produits et pour les relations humaines.\n\nLa convivialité est au cœur de tout ce que nous faisons, de nos vignobles à nos distilleries, en passant par nos sites de production ainsi qu’au sein de nos bureaux présents à travers le monde. Nous nous engageons à offrir à nos consommateurs des produits et des expériences à la pointe de l’innovation, tout en veillant à garantir un avenir durable, respectueux de notre environnement et riche de nos relations humaines.",
+    "organizationUrlImage": "",
+    "organizationImage": null,
+    "organizationPathImage": null,
+    "pathImage": null,
+    "image": null,
+    "activitySectorN1": null,
+    "activitySectorN2": null,
+    "activitySectorN3": null,
+    "activitySectorN1Id": 0,
+    "ca": null,
+    "effectif": 0,
+    "effectifFiscal": "0",
+    "effectifInd": "878",
+    "effectifConso": "0",
+    "organizationCountryCounter": "0",
+    "organizationExpertise": null,
+    "cityAffectationId": 0,
+    "cityName": "DUBLIN",
+    "cityNameEn": "DUBLIN",
+    "activitySectorOfferId": 0,
+    "levelStudyIds": null,
+    "specialization": [
+      "[\"318\"]"
+    ],
+    "specializations": null,
+    "missionDescription": "Context\nThe spirits Ready-to-Drink (RTD) category is experiencing rapid growth, with double-digit CAGR expected to continue over the next five years. Higher-quality product offerings have elevated the category’s image and spurred growth, meeting consumers’ needs for convenient, premium-quality drinks. For Pernod Ricard, RTDs represent an opportunity to attract new consumers and foster brand loyalty.\nTo capitalize on this potential, Pernod Ricard has established a dedicated Global RTD & Convenience Business Unit. Within Europe, a centralized EMEA RTD hub has been created in Dublin at Irish Distillers, which coordinates and streamlines operations. This structure demands a dedicated focus on statutory P&L management, cost of goods tracking, and operational efficiency.\nKey Responsibilities \nStatutory Flow Ownership and Management\nCollaborate with the Global RTD BU Finance and Global Tax teams to establish and maintain transfer pricing processes and databases.\nCalculate and track service charges that underpin EMEA hub service compensation.\nAdjust product pricing throughout the year as needed.\nAnalyze statutory P&L results, proactively suggesting corrective measures.\n\nOperational Leverage and Cost Management\nPartner with the EMEA Operations & Procurement team to support standard costing processes by gathering and updating key assumptions.\nAnalyze cost trends, including manufacturing variances and standard costs, across the region.\nPrepare and report on actual cost of goods sold (COGS).\nMonitor operations finance KPIs—such as COGS and margins—against the business plan.\nEnhance financial performance for RTD operations by maintaining and optimizing databases and analytical tools.\n\nData Management and Systems Integration\nWork with local Finance and Tech teams to oversee RTD EMEA hub master data integrity.\nEnsure accurate mapping and alignment between local ERP systems and the global ERP platform.\nDevelop and refine automated tools and reporting files to improve efficiency and data accuracy.\n\nCandidate Profile\n1–2+ years of finance experience (e.g., BP&A, audit, finance operations)\nStrong financial acumen, attention to detail, and adaptability\nProficiency in English is mandatory\n\nPernod Ricard values diversity and solidarity within its organization and in its relations with its stakeholders. Our recruitment methods focus on skills and we welcome all types of talent.",
+    "creationDate": "2026-11-16T15:21:16Z",
+    "missionStartDate": "2027-03-01T00:00:00",
+    "missionEndDate": "2028-03-01T00:00:00",
+    "startBroadcastDate": "2026-11-17T00:00:00",
+    "durationBroadcast": 30,
+    "endBroadcastDate": "2026-12-17T00:00:00",
+    "organizationId": 0,
+    "missionProfile": "Candidate Profile\n1–2+ years of finance experience (e.g., BP&A, audit, finance operations)\nStrong financial acumen, attention to detail, and adaptability\nProficiency in English is mandatory",
+    "countryId": "IE",
+    "countryName": "IRLANDE",
+    "countryNameEn": "IRELAND",
+    "reference": "VIE248379",
+    "contactFirstName": "",
+    "contactLastName": "",
+    "contactCivility": "",
+    "contactName": "Monsieur Eric DANG",
+    "indemnite": 3520.38,
+    "teleworkingAvailable": false,
+    "socialReach": false,
+    "idMotifDesactivationOffre": 0,
+    "contactEmail": "",
+    "cityAffectation": "",
+    "idNomenclatureSecteur": null,
+    "externalJobId": "",
+    "contactURL": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/VIE---Finance-Analyst---Dublin_JR-055605",
+    "dateCandidature": null
+  },
+  {
     "id": 248369,
     "organizationName": "BOUYGUES TRAVAUX PUBLICS",
     "missionTitle": "VIE Cost Controller (H/F)",
@@ -234,16 +297,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tSupport our corporate access team with the organization of roadshows and conferences\n•\tHelp the equity sales team in the daily business and on projects \n•\tPreparation of sales presentations \n•\tAssist Head of Branch with operational tasks",
     "creationDate": "2026-11-16T09:40:09Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -2810,37 +2866,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "68",
-      "144",
-      "180",
-      "365"
+      "[\"68\",\"144\",\"180\",\"365\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "365",
-        "specializationParentId": "255",
-        "specializationLabel": "Energies renouvelables",
-        "specializationLabelEn": "Energies renouvelables"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Context :\n\nMarket Analysis (ECMA) is an Expertise Center within ENGIE Supply & Energy Management (S&EM), which delivers a broad spectrum of services related to energy markets including supply and demand analysis and meteorological forecasts, investment economics, strategic studies, regulatory advisory and ESG requirements.\n\nWithin ECMA, the Long-Term Power & Grid Modelling team provides insights to several clients within the ENGIE Group by developing or leveraging advanced quantitative forecasting models. The transversality of the work leads to a comprehensive overview of power markets across all relevant horizons:\n•\t0-5 years: Support S&EM trading activities in Central Western Europe (spot & forward along liquid curve) \n•\t5-10 years: Provide insights on grid congestion risk to portfolio managers across European markets in order to optimize mid-term risk mitigation decisions \n•\t<25 years: In charge of the Group’s Corporate Scenarios which deliver long-term views on power prices, technological mix and investment profitability for key ENGIE geographies (EU, USA, Brazil,…)\n\n\n\n\nYou will be part of the Long-Term Power: Europe team, focusing on projects for the longer-term in Europe.\nRole: Power Market Analyst \nIn order to bring the highest standard of analytical services to ECMA’s clients, we are looking to expand our team with a new V.I.E based in Brussels (Belgium):\n\nIn the LT Power Europe team, you will be part of a transversal team delivering quantitative projects for multiple internal ENGIE clients such as the global Strategy Department, Renewable & Flexibility project developers, portfolio managers or energy traders. You will be working alongside passionate experts with multi-faceted backgrounds who like to be challenged on complex energy-related questions.\n\nTogether with your project team, your primary goal will be to support ENGIE’s functional and operational entities across multiple geographies in better understanding the transformation of the energy landscape in increasingly complex and uncertain environments. Concretely in this role, you will: \n\n•\tWork on the long-term power price projections for Europe, used widely in the Group.\n\n•\tOperate & improve large-scale optimization models to evaluate the long-term evolution of the energy sectors (technology mix, actors & competition, regulation, carbon footprint, costs…) across multiple power systems – mainly EU.\n\n•\tSupport ENGIE’s entities on specific questions concerning strategic, regulatory and market challenges to achieve the societal & Group decarbonization ambition. Evaluate macro-trends and perform techno-economic analyses (regional/country level).\n\n•\tUnderstand how to translate the specificities of each market and timeframe into appropriate modelling requirements. Actively participate to the reputation and relevance of the department by ensuring consistency across client & timeframe, and by challenging existing practices.\n\n•\tCommunicate your findings to different stakeholders within the Group.\n\nThis is an excellent opportunity for someone eager to kickstart their career in energy markets within a Group committed to the ecological transition.",
     "creationDate": "2026-11-09T11:49:54Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4091,16 +4119,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "320"
+      "[\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Au sein des départements Back Office et Trésorerie, le Business Analyst sera rattaché fonctionnellement aux responsables des équipes concernées. Cette mission lui permettra d’acquérir une vision transverse des activités financières et de trésorerie du Groupe, tout en contribuant à la transformation et à l’amélioration des processus existants. Il participera à la conception, à la refonte et à l’automatisation des reportings financiers et des outils d’aide à la décision, principalement sous Power BI et Excel. Ces outils couvriront notamment le suivi du cash pooling, des prévisions de trésorerie, des paiements, de l’endettement Groupe et des risques financiers.",
     "creationDate": "2026-10-15T15:55:32Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5596,37 +5617,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "21",
-      "202",
-      "259"
+      "[\"5\",\"21\",\"202\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "As an intermediate Business analyst in the functional IT practice, you will be responsible for:\r\n- Understanding the activity of our clients: financial markets, Gas and power market\r\n- Knowing front, middle and back-office software as a user\r\n- Following clients’ workshops\r\n- Proposing IT specifications on new activities, new deals or regulations and delivering those specifications to the IT developing team\r\n- Controlling new versions and testing results\r\n- Dealing with reporting duties both for the clients and the firm\r\n- Participating to functional transversal meetings and finding new IT solutions with managers",
     "creationDate": "2026-07-16T14:32:11Z",
     "missionStartDate": "2027-01-01T00:00:00",

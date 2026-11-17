@@ -8,11 +8,62 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **17/11/2026 09:45:41**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **17/11/2026 10:01:19**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Finance Analyst - Dublin (H/F)</strong> · PERNOD RICARD · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
+
+- **Entreprise :** PERNOD RICARD
+- **Lieu :** DUBLIN, IRLANDE
+- **Indemnité :** 3 520,38 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 17/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux exigences du poste grâce à ses 2 ans d'expérience en contrôle de gestion, sa maîtrise des outils de reporting et son excellent niveau d'anglais (TOEIC 925). Seul un léger écart géographique existe puisque le candidat ciblait initialement l'Espagne, mais l'offre à Dublin en Irlande est en adéquation totale avec ses compétences financières.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248379](https://mon-vie-via.businessfrance.fr/offres/248379)
+
+**Description du poste**
+
+Context
+The spirits Ready-to-Drink (RTD) category is experiencing rapid growth, with double-digit CAGR expected to continue over the next five years. Higher-quality product offerings have elevated the category’s image and spurred growth, meeting consumers’ needs for convenient, premium-quality drinks. For Pernod Ricard, RTDs represent an opportunity to attract new consumers and foster brand loyalty.
+To capitalize on this potential, Pernod Ricard has established a dedicated Global RTD & Convenience Business Unit. Within Europe, a centralized EMEA RTD hub has been created in Dublin at Irish Distillers, which coordinates and streamlines operations. This structure demands a dedicated focus on statutory P&L management, cost of goods tracking, and operational efficiency.
+Key Responsibilities 
+Statutory Flow Ownership and Management
+Collaborate with the Global RTD BU Finance and Global Tax teams to establish and maintain transfer pricing processes and databases.
+Calculate and track service charges that underpin EMEA hub service compensation.
+Adjust product pricing throughout the year as needed.
+Analyze statutory P&L results, proactively suggesting corrective measures.
+
+Operational Leverage and Cost Management
+Partner with the EMEA Operations & Procurement team to support standard costing processes by gathering and updating key assumptions.
+Analyze cost trends, including manufacturing variances and standard costs, across the region.
+Prepare and report on actual cost of goods sold (COGS).
+Monitor operations finance KPIs—such as COGS and margins—against the business plan.
+Enhance financial performance for RTD operations by maintaining and optimizing databases and analytical tools.
+
+Data Management and Systems Integration
+Work with local Finance and Tech teams to oversee RTD EMEA hub master data integrity.
+Ensure accurate mapping and alignment between local ERP systems and the global ERP platform.
+Develop and refine automated tools and reporting files to improve efficiency and data accuracy.
+
+Candidate Profile
+1–2+ years of finance experience (e.g., BP&A, audit, finance operations)
+Strong financial acumen, attention to detail, and adaptability
+Proficiency in English is mandatory
+
+Pernod Ricard values diversity and solidarity within its organization and in its relations with its stakeholders. Our recruitment methods focus on skills and we welcome all types of talent.
+
+**Profil recherché**
+
+Candidate Profile
+1–2+ years of finance experience (e.g., BP&A, audit, finance operations)
+Strong financial acumen, attention to detail, and adaptability
+Proficiency in English is mandatory
+
+</details>
 
 <details>
 <summary><strong>VIE Cost Controller (H/F)</strong> · BOUYGUES TRAVAUX PUBLICS · MUSWELLBROOK, AUSTRALIE · 3 435,37 €/mois</summary>
