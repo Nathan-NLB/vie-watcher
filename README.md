@@ -8,11 +8,40 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **17/11/2026 16:45:44**, 91 offre(s) actuellement en ligne.
+Dernière vérification : **17/11/2026 17:01:31**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE Corporate Development (H/F)</strong> · ODDO BHF SCA · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** ODDO BHF SCA
+- **Lieu :** FRANCFORT, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 17/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248403](https://mon-vie-via.businessfrance.fr/offres/248403)
+
+**Description du poste**
+
+Analyse du marché européen des services financiers (banque, gestion d’actifs, gestion de patrimoine, fintech et asset servicing), incluant des études sectorielles et l’identification des tendances stratégiques clés au sein du secteur financier (FIG)
+Screening, identification et examen de cibles d’acquisition potentielles, en cohérence avec la stratégie de croissance externe du Groupe.
+Analyse financière, stratégique et fondamentale des opportunités envisagées
+Modélisation financière et évaluation
+Gestion de projet M&A avec les parties internes et externes (ex. : processus de due diligence)
+Support dans la préparation et/ou la révision de la documentation pertinente dans le cadre d’un processus M&A (offres non contraignantes, offres fermes, lettres de confirmation, revue du SPA, etc.)
+Préparation de présentations, notes d’information, mémos d’investissement, etc., à destination du Senior Management dans le cadre du processus décisionnel
+Support à l’équipe pour le suivi des investissements minoritaires du Groupe sur tous les aspects : financiers, augmentations de capital, discussions juridiques et toute synergie potentielle avec le Groupe
+
+**Profil recherché**
+
+Diplômé d'une école de commerce
+Première expérience en finance, corporate development ou M&A
+Français et Anglais courant, l'allemand est un plus
+
+</details>
 
 <details>
 <summary><strong>Financial Analyst Procurement NorAm (H/F)</strong> · BEL · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
