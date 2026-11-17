@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **17/11/2026 11:30:58**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **17/11/2026 11:45:41**, 91 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -3285,94 +3285,6 @@ Vous maîtrisez les outils informatiques (plus particulièrement Microsoft Excel
 
 Et maintenant, quelle suite pour votre candidature ?
 Si nous poursuivons l’aventure ensemble, vous me rencontrerez au sein de notre siège social basé à Aix-En-Provence : Elodie, Chargée de Recrutement puis Philippe, Responsable de la Comptabilité International, accompagné de Benoit, Responsable du Contrôle de Gestion Internationale.
-
-</details>
-
-<details>
-<summary><strong>SAP Controlling Analyst (H/F)</strong> · VINCI CONSTRUCTION SI · BOTTROP, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** VINCI CONSTRUCTION SI
-- **Lieu :** BOTTROP, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 02/11/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245657](https://mon-vie-via.businessfrance.fr/offres/245657)
-
-**Description du poste**
-
-WHO ARE WE?
-
-Joining VINCI Construction SI means contributing to the Group's digital transformation to support users worldwide.
-
-Our mission is to modernize management tools and business applications, enhance cybersecurity and develop IT infrastructures. We also work on driving user adoption of our solutions while helping shape the digital future through technologies such as AI, BIM, and IoT.
-
-If you would like to learn more about us, visit and follow our LinkedIn page!
-
-YOUR MISSIONS AND CHALLENGES AT VINCI CONSTRUCTION SI
-
-As part of the IT Department in Germany, reporting to Andrea Wienand from the Transformation & Applications team, you will join a dynamic team of 13 people for a 24-month V.I.E. assignment.
-You will be based at our Bauknechtquartier site on the VINCI Construction campus in Bottrop, Germany, near Düsseldorf, following a 6-month training period at VINCI Construction SI in Nanterre-Préfecture (France).
-
-You will contribute to a key challenge for the Group: ensuring efficient management of construction projects by providing IT solutions related to the Finance & Controlling domain, including:
-•	General Ledger Accounting (GL)
-•	Accounts Payable (AP)
-•	Accounts Receivable (AR)
-•	Treasury Management
-•	Asset Accounting
-•	Construction project controlling and corporate controlling
-•	Budgeting processes
-•	Revenue and cost integration and monitoring
-•	Profitability analysis
-•	Monthly closing activities
-
-Your responsibilities will include:
-•	Participating in the analysis of business requirements and implementing appropriate technical solutions to enhance our processes
-•	Managing interactions with other business domains, including Logistics, Finance, Human Resources and operational applications
-•	Providing support, maintenance and training activities related to our solutions for users in Germany, as well as internationally, on cross-functional topics to facilitate adoption
-•	Developing expertise on SAP environment, learning project management best practices and facilitating workshops with internal clients
-
-Location: L'Archipel, VINCI Head Office at Nanterre-Préfecture (France) | Bottrop, GERMANY
-
-Contract type: V.I.E. (International Corporate Volunteer Program)
-
-What we offer: A varied and stimulating role | International collaboration | Integration into a team with a true spirit of equal partnership | A long-term working relationship built on trust | A high level of responsibility and autonomy | Access to personalized continuous learning opportunities
-
-WHY JOIN US?
-
-By joining our IT Department, you will become part of a dynamic and innovative team that leverages the latest technologies to meet the needs of our Business Units and customers.
-You will benefit from close collaboration with VINCI Construction SI, enabling you to share knowledge and contribute to cross-functional projects. In doing so, you will actively support the digital transformation of the VINCI Construction Group.
-
-We place great importance on the Employee Experience, which we consider a key success factor for our company. We offer a personalized onboarding program, individual and collective support, as well as training and mobility opportunities within VINCI Construction SI and VINCI Group.
-Throughout your assignment, you will develop your technical, linguistic, managerial and interpersonal skills while strengthening your sense of responsibility and commitment to safety.
-
-RECRUITMENT PROCESS:
-
-1.	To apply for this opportunity, simply submit your CV
-2.	If your profile matches our expectations, a member of the Talents Team will contact you for an interview on Teams
-3.	If successful, you will meet Steven Cousin, the Hiring Manager.
-4.	You will then meet the IT Department Director
-5.	If your application is approved, you will receive a verbal offer, followed by a formal written offer
-6.	We will then prepare your onboarding and integration into VINCI Construction SI 😊
-
-Build Better Together
-
-**Profil recherché**
-
-COULD IT BE YOU?
-
-In your final year of a Master's degree or Bac+5 (engineering school, business school, university, or IT-related studies), or already graduated with one or more years of professional experience, you have:
-•	The ability to understand, analyze and summarize business challenges, adapt your communication style to different audiences and interact effectively with internal clients
-•	Experience gained through an internship, personal project or academic project in an IT/Digital environment on SAP S/4HANA Controlling (CO) as a Functional Analysist would be an advantage
-•	Strong written and verbal communication skills in both French and English, enabling effective collaboration with end users, VINCI Construction management and other IT teams (Infrastructure, Networks, Support, etc.)
-•	Professional fluency in English
-•	Basic knowledge of German
-
-SOFT SKILLS AND TECHNICAL COMPETENCIES:
-
-•	Strong team spirit, customer-oriented mindset, curiosity, attention to detail, analytical and synthesis skills, excellent interpersonal abilities, organizational skills and a results-driven approach 
-•	An educational background in Controlling, Construction Engineering or Information Systems would be appreciated 
-•	A first experience as a SAP S/4HANA Controlling (CO) Functional Analyst would be a plus 
-•	Willingness to undertake occasional business travel as part of the role
 
 </details>
 
