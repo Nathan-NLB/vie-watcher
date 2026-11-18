@@ -8,11 +8,113 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **18/11/2026 16:15:44**, 95 offre(s) actuellement en ligne.
+Dernière vérification : **18/11/2026 16:31:20**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE Finance Transformation Analyst- AI & Emerging Tech (H/F)</strong> · AIRBUS · HERNDON      -VA-, ETATS-UNIS · 3 714,31 €/mois</summary>
+
+- **Entreprise :** AIRBUS
+- **Lieu :** HERNDON      -VA-, ETATS-UNIS
+- **Indemnité :** 3 714,31 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 18/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248458](https://mon-vie-via.businessfrance.fr/offres/248458)
+
+**Description du poste**
+
+Reporting to the Head of Finance Transformation North America, the VIE Finance Transformation Analyst- AI & Emerging Tech is a high-impact, forward-looking role designed to lead the integration of Artificial Intelligence within the Finance function.
+
+As the AI lead for the US Finance Transformation team, the incumbent is responsible for enforcing standard Airbus Finance Transformation Strategies while pioneering "Agentic Finance"—the use of AI agents, Large Language Models (LLMs), and machine learning to automate complex workflows. This role transcends traditional reporting, focusing on building the Future of Finance by identifying, developing, and scaling AI use cases that drive operational excellence across North America.
+
+
+
+The person will also be responsible for ensuring that the company’s financial systems and processes comply with relevant laws and regulations and plays a critical role in maintaining the integrity and legal compliance of the financial operations.
+
+They will ensure the full lifecycle of projects by following the Airbus project management methodology and will be responsible for delivering the solutions through to entry into service. This role will interact with all the Airbus Functions including Procurement, Digital, Customer Services, Logistic, Production, Human-Resources and with multiple Stakeholders.
+
+
+
+Primary Responsibilities:
+
+
+
+AI Initiative Leadership & Implementation (40%)
+
+Deliver on the Finance Transformation roadmap by driving the adoption of existing and new AI solutions.
+
+Implement AI-based tools & integrate AI further into the Finance Function as a primary point of contact for AI-related use cases.
+
+Identify and develop AI use cases that deliver measurable value and efficiency to the finance teams.
+
+Predictive Modeling: Move beyond historical reporting to build ML-driven models for revenue forecasting, cash flow, and variance analysis.
+
+Team Upskilling & Change Management: Act as the internal "AI Coach" for the finance team. Promote awareness and understanding of AI technologies across the North American finance teams.
+
+Provide leadership in ensuring consistent use of the Airbus project methodology.
+
+Be an expert to manage high-risk & complex projects while leveraging cross-functional resources and capabilities.
+
+**Profil recherché**
+
+Education:
+
+
+
+Required
+
+Bachelor's Degree in Finance, Business Analytics, Accounting, Information Systems or related field of study.
+
+
+
+Preferred
+
+A Master's degree is highly preferred.
+
+
+
+Experience:
+
+Required
+
+2–5 years of experience in Finance or Accounting. 
+
+Proven experience in financial analysis combined with a strong background in implementing transformation and AI-driven projects.
+
+You must deeply understand the "Why" behind the numbers before you can automate the "How."
+
+
+
+Qualified Skills:  
+
+
+
+Lifecycle Management: Manage global rollouts, system upgrades, and high-level support for finance transformation throughout the project lifecycle.
+
+Financial Closing: Facilitate seamless Year-end and Period-end closing activities, empowering end-users to execute complex tasks and reporting.
+
+Problem Solving & RCA: Lead Root Cause Analysis (RCA), After-Action Reviews (AAR), and Post-Implementation Reviews to address outcomes and drive continuous process improvement.
+
+User Enablement: Conduct extensive training sessions and author comprehensive user manuals and documentation for business stakeholders.
+
+Data Synthesis: Apply advanced analytical reasoning to prioritize high-volume data and develop strategic, multi-scenario solutions.
+
+
+
+Knowledge, Demonstrated Capabilities:
+
+
+
+Required
+
+Analytical abilities and are capable of synthesizing and prioritizing a large volume of information. You use logic and trusted expertise to derive a variety of scenarios and solutions. You can think critically to make clear, well-reasoned and rational decisions.
+
+Communicate clearly, concisely, and with impact. You convey confidence, ease and enthusiasm with a variety of audiences. You promote a free flow of information throughout the organization.
+
+</details>
 
 <details>
 <summary><strong>Sales & Admin Support (H/F)</strong> · LA FINANCIERE DE L'ECHIQUIER · GENEVE, SUISSE · 4 157,65 €/mois</summary>

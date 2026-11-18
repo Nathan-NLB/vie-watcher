@@ -715,5 +715,10 @@
     "lon": 6.959974
   },
   "entreprise|ipsen pharma|cambridge       -ma-|etats-unis": null,
-  "entreprise|la financiere de l'echiquier|geneve|suisse": null
+  "entreprise|la financiere de l'echiquier|geneve|suisse": null,
+  "entreprise|airbus|herndon      -va-|etats-unis": null,
+  "ville|herndon      -va-|etats-unis": {
+    "lat": 38.9695316,
+    "lon": -77.3859479
+  }
 }
