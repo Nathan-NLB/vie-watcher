@@ -8,11 +8,56 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **18/11/2026 12:15:41**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **18/11/2026 12:30:56**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>BUSINESS & FINANCIAL CONTROLLER (H/F)</strong> · RCI BANQUE · LJUBLJANA, SLOVENIE · 2 145,81 €/mois</summary>
+
+- **Entreprise :** RCI BANQUE
+- **Lieu :** LJUBLJANA, SLOVENIE
+- **Indemnité :** 2 145,81 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 18/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à sa solide expérience en contrôle de gestion, sa maîtrise d'Excel et son niveau d'anglais courant. Le seul léger écart concerne la destination, l'offre étant basée en Slovénie alors que le candidat ciblait initialement l'Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248298](https://mon-vie-via.businessfrance.fr/offres/248298)
+
+**Description du poste**
+
+Mobilize Financial Services, filiale de Renault Group, est une banque de financement solide, partenaire des constructeurs Renault et d’autres marques du secteur automobile. Nos 4 000 collaborateurs présents dans 35 pays, agissent ensemble au service de nos clients. 
+Nous proposons à nos clients - particuliers comme professionnels - les financements et les services les plus adaptés pour les véhicules neufs et d'occasion.
+Mobilize Financial Services a financé plus de 1,2 million de dossiers (véhicules neufs et véhicules d’occasion) en 2023 et vendu 3,9 millions de services. À fin décembre 2023, les actifs productifs moyens sont de 51,2 milliards d’euros de financement et le résultat avant impôts est de 1 034 millions d’euros. Nous proposons également des offres d’épargne dans 7 pays.
+
+Rejoignez notre équipe et jouez un rôle dynamique dans le domaine de la finance, en travaillant en étroite collaboration avec le directeur financier au sein de notre filiale Slovène.
+Vous serez responsable des principales tâches financières dans trois pays (Slovénie, Croatie et Serbie):
+
+- Préparer et analyser les clôtures mensuelles, les rapports et les prévisions.
+- Participer activement à l'optimisation des processus, à l'amélioration des outils de reporting et à la gestion des bases de données internes.
+- Soutenir les filiales dans le suivi des risques financiers et de la trésorerie.
+- Assurer la réconciliation entre la comptabilité et la gestion, en s'alignant sur les normes du groupe et en contribuant à l'intégration de la gestion des risques financiers.
+- Contribuer à l'intégration d'un nouveau système de portefeuille informatique prévu en 2027.
+- Réalisation d'analyses de rentabilité, de simulations financières et de travaux de tarification en partenariat avec les équipes commerciales et marketing. 
+Ce poste offre une exposition importante aux décideurs de l'entreprise et de nombreuses interactions avec les principales parties prenantes du groupe, dans un environnement international et en pleine transformation.
+
+**Profil recherché**
+
+Les candidats idéaux pour ce poste :
+
+- Cherchent à développer de solides compétences en matière de réflexion analytique et de résolution de problèmes
+- Veulent devenir indépendants et compétents dans l'analyse, le pilotage et la présentation des résultats financiers
+- Esprit de synthèse permettant de transformer des données complexes en informations claires et exploitables
+- Proactivité et capacité à prendre des initiatives
+- Bonnes compétences organisationnelles et aptitude à gérer plusieurs sujets en parallèle
+- Vous avez de solides compétences en communication et une bonne maîtrise de l'anglais
+- Diplômé en finance, fortes capacités d'analyse et de synthèse
+Vous avez le sens des responsabilités et de la fiabilité, le souci de la confidentialité, le souci du détail et de l'exactitude, le sens de l'organisation 
+- Maîtrise du pack Office, en particulier Excel
+- Expérience dans la gestion de bases de données
+
+</details>
 
 <details>
 <summary><strong>Finance Analyst/Controller Neuroscience & Aesthetics (H/F)</strong> · IPSEN PHARMA · CAMBRIDGE       -MA-, ETATS-UNIS · 4 108,83 €/mois</summary>
@@ -906,51 +951,6 @@ Interest in digital transformation, automation and continuous improvement.
 Proactive, curious and eager to learn and contribute in an international and multicultural environment.
 Good communication skills and ability to collaborate with different Finance stakeholders.
 Fluent English to work effectively in an international environment.
-
-</details>
-
-<details>
-<summary><strong>BUSINESS & FINANCIAL CONTROLLER (H/F)</strong> · RCI BANQUE · LJUBLJANA, SLOVENIE · 2 145,81 €/mois</summary>
-
-- **Entreprise :** RCI BANQUE
-- **Lieu :** LJUBLJANA, SLOVENIE
-- **Indemnité :** 2 145,81 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 13/11/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à sa solide expérience en contrôle de gestion, sa maîtrise d'Excel et son niveau d'anglais courant. Le seul léger écart concerne la destination, l'offre étant basée en Slovénie alors que le candidat ciblait initialement l'Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248298](https://mon-vie-via.businessfrance.fr/offres/248298)
-
-**Description du poste**
-
-Mobilize Financial Services, filiale de Renault Group, est une banque de financement solide, partenaire des constructeurs Renault et d’autres marques du secteur automobile. Nos 4 000 collaborateurs présents dans 35 pays, agissent ensemble au service de nos clients. 
-Nous proposons à nos clients - particuliers comme professionnels - les financements et les services les plus adaptés pour les véhicules neufs et d'occasion.
-Mobilize Financial Services a financé plus de 1,2 million de dossiers (véhicules neufs et véhicules d’occasion) en 2023 et vendu 3,9 millions de services. À fin décembre 2023, les actifs productifs moyens sont de 51,2 milliards d’euros de financement et le résultat avant impôts est de 1 034 millions d’euros. Nous proposons également des offres d’épargne dans 7 pays.
-
-Rejoignez notre équipe et jouez un rôle dynamique dans le domaine de la finance, en travaillant en étroite collaboration avec le directeur financier au sein de notre filiale Slovène.
-Vous serez responsable des principales tâches financières dans trois pays (Slovénie, Croatie et Serbie):
-
-- Préparer et analyser les clôtures mensuelles, les rapports et les prévisions.
-- Participer activement à l'optimisation des processus, à l'amélioration des outils de reporting et à la gestion des bases de données internes.
-- Soutenir les filiales dans le suivi des risques financiers et de la trésorerie.
-- Assurer la réconciliation entre la comptabilité et la gestion, en s'alignant sur les normes du groupe et en contribuant à l'intégration de la gestion des risques financiers.
-- Contribuer à l'intégration d'un nouveau système de portefeuille informatique prévu en 2027.
-- Réalisation d'analyses de rentabilité, de simulations financières et de travaux de tarification en partenariat avec les équipes commerciales et marketing. 
-Ce poste offre une exposition importante aux décideurs de l'entreprise et de nombreuses interactions avec les principales parties prenantes du groupe, dans un environnement international et en pleine transformation.
-
-**Profil recherché**
-
-Les candidats idéaux pour ce poste :
-
-- Cherchent à développer de solides compétences en matière de réflexion analytique et de résolution de problèmes
-- Veulent devenir indépendants et compétents dans l'analyse, le pilotage et la présentation des résultats financiers
-- Esprit de synthèse permettant de transformer des données complexes en informations claires et exploitables
-- Proactivité et capacité à prendre des initiatives
-- Bonnes compétences organisationnelles et aptitude à gérer plusieurs sujets en parallèle
-- Vous avez de solides compétences en communication et une bonne maîtrise de l'anglais
-- Diplômé en finance, fortes capacités d'analyse et de synthèse
-Vous avez le sens des responsabilités et de la fiabilité, le souci de la confidentialité, le souci du détail et de l'exactitude, le sens de l'organisation 
-- Maîtrise du pack Office, en particulier Excel
-- Expérience dans la gestion de bases de données
 
 </details>
 
