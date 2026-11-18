@@ -4777,16 +4777,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "322"
+      "[\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À propos de Sibelco\r\n\r\nSibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.\r\n\r\nDans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.\r\n\r\nRejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.\r\n\r\nMission:\r\n\r\nLe/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. \r\nIl/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. \r\nEn interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. \r\nCette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.",
     "creationDate": "2026-10-19T13:15:35Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -6766,76 +6759,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/Milan/Market-Analyst-Western-and-Central-Europe--VIE-_R29176",
-    "dateCandidature": null
-  },
-  {
-    "id": 247234,
-    "organizationName": "LEGRAND FRANCE",
-    "missionTitle": "MANAGEMENT CONTROL ANALYST (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "Spécialiste mondial des infrastructures électriques et numériques du bâtiment, nous répondons aux enjeux technologiques, sociétaux et environnementaux du monde. Nous avons pour raison d’être d’améliorer les vies en transformant les espaces où les gens vivent, travaillent et se rencontrent, avec des infrastructures électriques et numériques et des solutions connectées qui sont simples, innovantes et durables. Engagés, nous sommes près de 38 000 collaborateurs et agissons au quotidien pour enrichir le bâtiment de demain et le rendre plus durable, pour tous.",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "0",
-    "effectifConso": "3617",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "LIMA",
-    "cityNameEn": "LIMA",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "259"
-    ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
-    "missionDescription": "You will support the Finance Department by providing reliable financial and business analysis, ensuring accurate management reporting, and contributing to budgeting, forecasting, and monthly closing processes, to facilitate informed decision-making and effective business performance monitoring.\nAmong your key resposabilities, you will contribute in: \n- Managing the BPC reporting application,\n- Preparing sales analysis reports,\n- Supporting the preparation and consolidation of final budgets,\n- Supporting the preparation of quarterly forecasts,\n- Supporting monthly accounting and management control closing processes,\n- Preparing business analyses and reports related to sales and finance to support informed decision-making.",
-    "creationDate": "2026-10-19T12:59:21Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-19T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-11-18T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Graduated from a Master’s degree or equivalent professional qualification in Finance with at least 2 years of experience in management control, financial planning and analysis, accounting, budgeting, or similar finance-related position,\nMastery of Spanish/English and French (level C1),\nAdvanced proficiency in Microsoft tools (esp. Excel),\nKnowledge of reporting and financial planning systems,\nExperience with data visualisation and business intelligence tools is desirable,\nAnalytical thinking, attention to detail and accuracy, planning and organisational skills, results orientation, business acumen, effective communication, collaboration and teamwork, proactivity and continuous improvement mindset.",
-    "countryId": "PE",
-    "countryName": "PEROU",
-    "countryNameEn": "PERU",
-    "reference": "VIE247234",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Emilie VIEILLERIBIERE",
-    "indemnite": 2440.62,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "lea.casado@legrand.com",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
     "dateCandidature": null
   },
   {
