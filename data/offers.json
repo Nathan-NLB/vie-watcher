@@ -388,16 +388,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Envie de lancer votre carrière dans un environnement international et stimulant ?\nRejoignez SII en VIE et vivez une expérience humaine et technologique unique !\n\nYOU MISSIONS :\nRattaché(e) à la Responsable du Contrôle financier International, le/la Contrôleur Financier International contribue à la fiabilité du reporting financier des filiales internationales et au déploiement des projets de transformation de la fonction Finance. \nIl/elle intervient principalement sur les activités de contrôle, d'analyse, de reporting et de maintien de la qualité des données financières. \n\n Votre rôle sera organisé en deux volets principaux :\n1.\tCONTRÔLE DE GESTION ET REPORTING INTERNATIONAL\nRevue des reportings mensuels \n•\tParticiper au processus de remontée des reporting mensuels \n•\tContrôler la cohérence et l'exhaustivité des informations transmises par les filiales. \n•\tRéaliser des contrôles de cohérence entre les différents outils financiers. \n•\tIdentifier les anomalies et assurer leur résolution avec les équipes locales. \nSuivi des indicateurs de performance \n•\tContrôler l'évolution des principaux KPIs  \n•\tAnalyser les ecarts, trouver les causes racines, presenter aux equipes dans le cadre des chantiers d'amelioration continue \n\n2.\tSUPPORT AU DEPLOIEMENT DE L’ERP GROUPE A TRAVERS LES FILIALES \nAccompagnement des projets de migration \n•\tParticiper aux phases de préparation des déploiements IFS comptabilité en lien avec l’équipe IT. \n•\tRéaliser les contrôles liés aux migrations de données. \n•\tContribuer aux campagnes de tests utilisateurs. \n•\tSuivre les incidents et anomalies fonctionnelles. \nSupport utilisateurs \n•\tAssister les équipes Finance dans l'utilisation des nouveaux processus. \n•\tParticiper à la rédaction de procédures et guides utilisateurs. \n•\tContribuer aux actions de formation. \nContrôle des données de référence \n•\tVérifier la qualité des données clients, fournisseurs, projets et collaborateurs. \n•\tParticiper aux opérations de fiabilisation des bases de données.",
     "creationDate": "2026-09-25T13:26:57Z",
     "missionStartDate": "2027-02-01T00:00:00",
