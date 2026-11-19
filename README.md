@@ -8,11 +8,99 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/11/2026 12:15:42**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **19/11/2026 12:31:05**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE - Junior Analyst - Client Setup (H/F)</strong> · CACEIS · MUNICH, ALLEMAGNE · 3 381,57 €/mois</summary>
+
+- **Entreprise :** CACEIS
+- **Lieu :** MUNICH, ALLEMAGNE
+- **Indemnité :** 3 381,57 €/mois
+- **Durée de la mission :** 24 mois (Du 1 mars 2027 au 1 mars 2029)
+- **Publiée le :** 19/11/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil correspond académiquement (Master en finance) et possède de solides compétences en Excel et analyse de données, ainsi qu'un excellent niveau d'anglais. Cependant, l'offre s'oriente vers le 'Client Setup' et l'onboarding opérationnel en Allemagne, alors que l'expérience et le projet professionnel du candidat sont très axés sur le contrôle de gestion pur et le FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248511](https://mon-vie-via.businessfrance.fr/offres/248511)
+
+**Description du poste**
+
+Being a part of the Commercial business area, the Client Service & Client Setup department supports clients in their day-to-day operational business. The main goal of the department is client satisfaction.
+
+Client Service is the central point of contact for the clients on their inquiries regarding the operational delivery of a service. The team coordinates the client inquires with internal operational departments up to the solution finding. Further it strives to improve the operational service delivery supported by Service Review meetings with the clients.
+
+The back office team Client Setup, which has no direct contact to clients, coordinates the client setup requests by converting them into technical requirements and preparing them for the implementation into the master data systems. Client requests may include, but are not limited to, opening/closure of cash and securities accounts and the setup of reporting.
+
+The clients we serve are capital investment companies/KVGs, investors such as insurance companies, pension funds and foundations as well as asset managers and advisors.
+
+Together with the colleagues from Client Management, Client Service & Client Setup supports the strategic development of the client relationship.
+
+ 
+Your main missions will be:
+
+• Actively support the Client Setup team with the requests of setting up clients in internal systems
+
+• Prepare and instruct the parametrization of client data
+
+• Process client requests, e.g. account opening, account closure, setup of various reports
+
+• Analyse and clean up client data, as well as check for its completeness with the aim of meeting regulatory requirements
+
+• Participate in the planning and implementation of client onboarding and client migrations
+
+• Support the coordination and further development of processes related to client data, account opening, account closure, reporting
+
+
+CACEIS Bank Germany Branch offers to its VIEs the following benefits
+
+German courses
+Flexible working hours
+International work environment
+
+**Profil recherché**
+
+Studies level:
+Bac + 5 / M2 et plus
+
+Studies:
+Master's Degree in Business, Finance, Business Administration, Economics or equivalent. 
+
+Level of experience:
+0 - 2 ans
+
+Experience:
+A first experience in project management and/or process management is an advantage.
+
+Hard Skills:
+
+-Client data management (instruction, maintenance, control, and cleanup of client data)
+-Business analysis (understanding client requests and translating them into technical requirements)
+-Reporting setup and monitoring (configuration of client reports and follow-up)
+-Data analysis and data quality control (checking completeness)
+-Advanced MS Office skills, especially Excel; basic programming knowledge (e.g. VBA) as a plus
+ 
+
+ Soft Skills:
+
+-Analytical and structured way of working
+-Strong teamwork and collaboration with Client Service / Business Implementation teams
+-Curiosity and eagerness to learn in an international environment
+-Goal-oriented mindset and sense of responsibility/autonomy
+-Open-mindedness and good communication skills with internal stakeholders
+ 
+
+Outils informatiques:
+- MS Office (Word, Excel, PowerPoint, Outlook, OneNote)
+
+- Programming language is of advantage (e.g. VBA)
+
+ 
+Langues:
+-English and French: fluent; German: basic knowledge
+
+</details>
 
 <details>
 <summary><strong>CHEF(FE) DE PROJET (H/F)</strong> · TELCO OI · ANTANANARIVO, MADAGASCAR · 2 604,95 €/mois</summary>
