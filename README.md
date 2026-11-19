@@ -8,11 +8,98 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/11/2026 11:31:01**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **19/11/2026 11:45:52**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>CHEF(FE) DE PROJET (H/F)</strong> · TELCO OI · ANTANANARIVO, MADAGASCAR · 2 604,95 €/mois</summary>
+
+- **Entreprise :** TELCO OI
+- **Lieu :** ANTANANARIVO, MADAGASCAR
+- **Indemnité :** 2 604,95 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 19/11/2026
+- **Compatibilité avec ton profil :** 50 % — Le profil de Nathan présente de bonnes compétences en contrôle de gestion, modélisation financière et analyse de rentabilité qui font écho aux missions financières du poste. Cependant, l'offre exige un niveau Bac+5 et au moins 5 ans d'expérience en gestion de projets complexes, ce qui dépasse le profil actuel de Nathan (étudiant en M1/M2 avec 2 ans d'expérience en PME).
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248499](https://mon-vie-via.businessfrance.fr/offres/248499)
+
+**Description du poste**
+
+Présentation de WeLight
+Fondée en 2018 par le Groupe Axian, Sagemcom et Norfund, WeLight est une entreprise pionnière de l’électrification rurale en Afrique subsaharienne. Sa mission est de favoriser l’inclusion énergétique en développant des solutions d’accès à une électricité propre, fiable et abordable dans les zones rurales.
+WeLight conçoit, développe, construit et exploite des mini-réseaux électriques décentralisés, principalement alimentés par l'énergie solaire. Ces infrastructures permettent d'alimenter les foyers, les commerces, les petites industries ainsi que les infrastructures communautaires telles que les écoles et les centres de santé.
+Présente à Madagascar et au Mali, et engagée dans son développement sur d'autres marchés africains, WeLight compte aujourd'hui 186 sites opérationnels et près de 70 000 connexions. L'entreprise contribue directement au développement économique et social des territoires ruraux, en facilitant l'accès à l'énergie et en favorisant l'émergence de nouvelles activités économiques.
+Au-delà de la fourniture d'électricité, WeLight développe des solutions destinées à développer l’électrification des infrastructures sociales et renforcer les usages productifs de l'énergie : équipements de cuisson électrique, systèmes d'adduction d'eau, centres multimédias, équipements pour les centres de santé et solutions de chaîne du froid.
+Dans le cadre du développement de ses activités à Madagascar, WeLight recherche un(e) Chef(fe) de projet en VIE pour piloter un programme de déploiement de services et d'équipements dans les villages électrifiés.
+
+Dans le cadre du développement de ses activités à Madagascar, WeLight recherche un(e) Chef(fe) de projet en VIE pour piloter un programme de déploiement de services et d'équipements dans les villages électrifiés.
+Description du poste
+Rattaché(e) au Directeur des opérations de WeLight Madagascar, le/la Chef(fe) de projet assure le pilotage global du programme, depuis la planification jusqu'à la mise en œuvre opérationnelle sur le terrain.
+Il/Elle est garant(e) du respect des objectifs, des budgets, des délais et des engagements contractuels auprès des partenaires et bailleurs de fonds.
+Le poste implique une forte dimension transversale, avec des interactions régulières avec les équipes commerciales, opérationnelles, financières et juridiques, ainsi qu'avec les partenaires institutionnels et les acteurs locaux.
+Missions principales
+1. Pilotage et coordination transverse du programme
+•	Élaborer et suivre le planning opérationnel, les budgets et les livrables.
+•	Organiser les comités de pilotage et assurer le reporting auprès de la Direction.
+•	Identifier les villages éligibles sur la base de critères techniques, économiques et communautaires.
+•	Superviser les déploiements sur le terrain et assurer le suivi de leur avancement.
+•	Identifier les risques et mettre en œuvre les actions correctives nécessaires.
+•	Développer les processus et outils de suivi avec les différents départements.
+2. Gestion d’équipe
+•	Coordonner les équipes impliquées dans le programme.
+•	Définir les objectifs et accompagner la montée en compétences des membres de l'équipe projet.
+3. Gestion des achats et des approvisionnements
+•	Élaborer les cahiers des charges et organiser les consultations fournisseurs.
+•	Analyser les offres et établir les comparatifs.
+•	Suivre les demandes d'achat, les commandes, les réceptions et les livraisons.
+•	Veiller au respect des procédures d'achat et des exigences des bailleurs de fonds.
+4. Relations avec les bailleurs et partenaires institutionnels
+•	Assurer le suivi des relations avec les bailleurs de fonds et les partenaires institutionnels.
+•	Préparer les demandes de décaissement et rassembler les justificatifs nécessaires.
+•	Élaborer les rapports narratifs et financiers.
+•	Participer à la préparation et au déroulement des audits.
+•	Coordonner les échanges avec les ministères, ONG et organisations internationales.
+ 
+5. Développement des modèles économiques
+•	Concevoir et ajuster les modèles économiques des services déployés.
+•	Analyser l'impact des équipements sur la consommation électrique et le chiffre d'affaires par client (ARPU).
+•	Proposer des ajustements permettant d'améliorer la rentabilité et la pérennité des services.
+. 
+6. Suivi financier et reporting
+•	Assurer le suivi des dépenses, des subventions, des factures et des décaissements.
+•	Travailler en coordination avec les équipes Finance et Contrôle de gestion.
+•	Participer à l'élaboration des budgets prévisionnels et au suivi de la performance financière.
+•	Contribuer à la préparation des audits et des clôtures financières.
+7. Gestion juridique et contractuelle
+•	Participer à la négociation et à la rédaction des contrats fournisseurs et partenaires.
+•	Préparer et suivre les conventions de partenariat et de service avec les collectivités locales.
+•	Veiller au respect des engagements contractuels et au traitement des éventuels litiges.
+
+**Profil recherché**
+
+Formation
+•	Diplôme de niveau Bac+5 en gestion de projet, management, finance, entrepreneuriat, ingénierie ou développement international.
+Expérience
+•	Minimum 5 ans d'expérience en gestion de projets complexes ou de programmes multisectoriels.
+•	Expérience confirmée en gestion budgétaire, suivi financier et reporting.
+•	Une expérience dans la gestion de projets financés par des bailleurs institutionnels ou internationaux serait un atout.
+•	Une expérience en déploiement opérationnel sur le terrain est souhaitée.
+Compétences techniques
+•	Maîtrise des outils de gestion de projet et de suivi budgétaire.
+•	Très bonne maîtrise d'Excel et des outils de reporting (Word, PowerPoint).
+•	Bonne compréhension des procédures d'achats, de contractualisation et de suivi financier.
+•	Capacité à analyser des données et à construire des modèles économiques.
+Qualités personnelles
+•	Leadership et capacité à fédérer des équipes pluridisciplinaires.
+•	Excellentes capacités d'organisation et de planification.
+•	Rigueur, autonomie et sens des responsabilités.
+•	Esprit analytique et orientation résultats.
+•	Bonnes capacités de négociation et de communication.
+•	Adaptabilité et capacité à évoluer dans un environnement multiculturel.
+
+</details>
 
 <details>
 <summary><strong>VIE Finance Transformation Analyst- AI & Emerging Tech (H/F)</strong> · AIRBUS · HERNDON      -VA-, ETATS-UNIS · 3 714,31 €/mois</summary>
