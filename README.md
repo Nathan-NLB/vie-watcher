@@ -8,11 +8,51 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/11/2026 16:15:42**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **19/11/2026 16:31:05**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Financial Planning & Analyst (H/F)</strong> · LONGCHAMP · HONG KONG, HONG KONG · 3 196,80 €/mois</summary>
+
+- **Entreprise :** LONGCHAMP
+- **Lieu :** HONG KONG, HONG KONG
+- **Indemnité :** 3 196,80 €/mois
+- **Durée de la mission :** 24 mois (Du 1 avr. 2027 au 1 avr. 2029)
+- **Publiée le :** 19/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248522](https://mon-vie-via.businessfrance.fr/offres/248522)
+
+**Description du poste**
+
+Responsabilités principales
+
+Planification financière et prévisions
+•	Contribuer à l’élaboration des budgets annuels, des prévisions trimestrielles et des plans d’affaires à long terme.
+•	Consolider et analyser les données financières des marchés d’Asie-Pacifique.
+•	Suivre les principaux indicateurs de performance financiers et opérationnels.
+•	Participer à l’élaboration de modèles financiers et de scénarios business pour appuyer les décisions stratégiques.
+Analyse de la performance commerciale
+•	Analyser les ventes mensuelles, la marge brute, les charges d’exploitation et les tendances de rentabilité.
+•	Préparer des analyses d’écarts par rapport au budget, aux prévisions et aux résultats de l’année précédente.
+•	Identifier les risques et les opportunités ayant un impact sur la performance financière.
+•	Fournir à la direction des analyses pertinentes et des recommandations opérationnelles.
+Reporting et support au management
+•	Préparer les rapports de gestion mensuels et les tableaux de bord destinés à la direction régionale.
+•	Participer aux revues d’activité avec les équipes de direction des marchés et de la région.
+•	Soutenir la réalisation d’analyses financières et de présentations ad hoc pour la direction générale.
+•	Contribuer à l’amélioration continue des processus et des outils de reporting.
+
+**Profil recherché**
+
+•	Diplôme de niveau Bachelor ou supérieur en Finance ou dans un domaine connexe
+•	Maîtrise de la suite Microsoft Office (Outlook, Excel, Word, PowerPoint, etc.)
+•	Une expérience des outils ERP et de planification (SAP, OneStream, etc.) est appréciée
+•	Rigueur et esprit analytique
+•	Bonne maîtrise de la communication orale et écrite en anglais ; le français ou une autre langue asiatique est un atout
+
+</details>
 
 <details>
 <summary><strong>VIE - Junior Analyst - Client Setup (H/F)</strong> · CACEIS · MUNICH, ALLEMAGNE · 3 381,57 €/mois</summary>

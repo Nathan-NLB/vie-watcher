@@ -720,5 +720,9 @@
   "ville|herndon      -va-|etats-unis": {
     "lat": 38.9695316,
     "lon": -77.3859479
+  },
+  "entreprise|longchamp|hong kong|hong kong": {
+    "lat": 22.2976844,
+    "lon": 114.1690577
   }
 }
