@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/11/2026 09:15:43**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **19/11/2026 09:30:56**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -4374,33 +4374,6 @@ First experience in the banking industry within the big four or an Internal audi
 International experience in an English spoken country.
 Proficient in Excel and Word.
 Strong working knowledge of analytical and AI tools .
-
-</details>
-
-<details>
-<summary><strong>VIE - Operations Transformation & AI Support Analyst (H/F)</strong> · AMUNDI ASSET MANAGEMENT · SANT CUGAT DEL VALLES, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** AMUNDI ASSET MANAGEMENT
-- **Lieu :** SANT CUGAT DEL VALLES, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 27/10/2026
-- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion traditionnel et la finance d'entreprise (Master en cours, expérience en PME), tandis que l'offre de VIE chez Amundi recherche un profil aux compétences techniques marquées en IA, transformation opérationnelle, développement et gestion de projets digitaux. Malgré la bonne localisation en Espagne et la maîtrise des chiffres, l'écart sur le plan technologique et informatique est important.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247559](https://mon-vie-via.businessfrance.fr/offres/247559)
-
-**Description du poste**
-
-We are looking for a VIE to join the OST department at Sabadell Asset Management to support the Operational and technological model transformation of SabAM.
-
-The main mission of the VIE will be to support the transformation of operational and technological current model  by combining technical, functional and demand-management skills, helping to implement a more efficient, digital and data-driven operating model.
-
-**Profil recherché**
-
-University degree, preferably in one of the following areas: •	Computer Engineering / Telecommunications Engineering   •	Mathematics / Statistics / Data Science  •	Business Administration / Economics / Finance with a strong technological orientation •	Equivalent qualification with a strong technical  component.
-Previous experience will be valued, even if only through internships, in any of the following areas: •	Process automation •	Python and/or Java development • Data processing and SQL / PL-SQL queries • Participation in AI-related projects • Functional or technical support in investment, funds or operational environments  • Use of tools such as JIRA and documentation platforms such as Confluence • Experience in transformation, process improvement or digitalization projects will be especially valued.
-Functional business knowledge: •	Knowledge of the investment funds business • Understanding of operational  processes on Asset Management industry • Ability to interpret functional and operational requirements 
-Demand management and support: •	User request management • Handling of JIRA ticketing systems • Follow-up of incidents, tasks and requirements • Documentation and collaboration • Updating and maintaining team information in Confluence • Strong documentation, synthesis and structuring skills 
-Personal competencies: • Analytical and problem-solving skills •	Proactivity and results orientation • Fast learner • Accuracy and attention to detail •	Teamwork and good communication • Ability to adapt to a changing environment
 
 </details>
 
