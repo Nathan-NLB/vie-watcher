@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **19/11/2026 04:01:10**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **19/11/2026 04:15:47**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5306,46 +5306,6 @@ Fluent in English. Other languages such as French or German are appreciated.
 Innovative, energetic, optimistic, ambitious but not aggressive, structured and with attention to analysis and details, independent and with great communication and relational skills, describe you best.
 
 You work well with Microsoft Office and Power BI and can quickly learn other software.
-
-</details>
-
-<details>
-<summary><strong>Corporate Finance & Treasury Analyst (H/F)</strong> · AMARIS FRANCE SAS · PORTO, PORTUGAL · 2 677,43 €/mois</summary>
-
-- **Entreprise :** AMARIS FRANCE SAS
-- **Lieu :** PORTO, PORTUGAL
-- **Indemnité :** 2 677,43 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 19/10/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa formation en finance, sa maîtrise d'Excel et de Power BI, ainsi que son niveau d'anglais courant. Ses 2 ans d'expérience en contrôle de gestion et analyse financière font écho aux missions demandées, bien que l'offre soit davantage orientée finance d'entreprise et trésorerie.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246778](https://mon-vie-via.businessfrance.fr/offres/246778)
-
-**Description du poste**
-
-Job Description : 
-
-You will join the Corporate Financing & Treasury department within Mantu Group, playing a central role in corporate finance and treasury analysis. As a true cross-functional point of contact, you will interact daily with the group's banking partners and multiple internal teams, including accounting, FP&A, HR & Payroll, suppliers, and executive management.
-
- 
-Your Missions :
-
-Support and monitor Group financing projects and build financial models
-Prepare recurring financial reporting and analyses for senior management
-Coordinate banking relationships and support financing execution
-Supervise off-balance sheet commitments and cash collateral
-Contribute to process improvement and automation projects
-Monitor excess cash and analyse investment solutions
-Perform client credit risk assessments
-Support ESG analysis and integration into finance projects
-
-**Profil recherché**
-
-Experience in corporate finance, financial analysis, credit risk assessment, or treasury (1–3 years)
-Advanced financial analysis and modelling skills
-Advanced Excel; Power BI is a plus
-Master's degree in Business School, Finance, Financial Engineering, or equivalent
-English fluent. French is a plus.
-You demonstrate rigour, analytical mindset, critical thinking, and proactivity
 
 </details>
 
