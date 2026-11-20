@@ -8,11 +8,76 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **20/11/2026 11:45:43**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **20/11/2026 12:01:39**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>COLLABORATEUR COMPTABLE (H/F)</strong> · 01 ACCOUNTING SERVICES · LA VALETTE, MALTE · 2 225,20 €/mois</summary>
+
+- **Entreprise :** 01 ACCOUNTING SERVICES
+- **Lieu :** LA VALETTE, MALTE
+- **Indemnité :** 2 225,20 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 20/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248560](https://mon-vie-via.businessfrance.fr/offres/248560)
+
+**Description du poste**
+
+Entreprise: 01 ACCOUNTING SERVICES
+www.01accountingservices.com
+
+The role will be based in Dublin and you will work on French and UK and Irish portfolios’
+
+Your tasks will be:
+Bookkeeping and reporting (monthly/quarterly/annually)
+Preparing the year-end financial statement (various reconciliations)
+Preparation and submission of tax return (VAT, Corporation tax, Intrastat,..)
+Establishment of payslips and payroll taxes
+Assisting in the legal process of setting up a company
+Work collaboratively with associates accountants
+Accounts assistances, including responding to client enquiries regarding the accounts of their subsidiaries
+
+**Profil recherché**
+
+profil cabinet comptable-contrat local
+
+</details>
+
+<details>
+<summary><strong>COLLABORATEUR COMPTABLE (H/F)</strong> · 01 ACCOUNTING SERVICES · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
+
+- **Entreprise :** 01 ACCOUNTING SERVICES
+- **Lieu :** DUBLIN, IRLANDE
+- **Indemnité :** 3 520,38 €/mois
+- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
+- **Publiée le :** 20/11/2026
+- **Compatibilité avec ton profil :** 35 % — Le profil de Nathan est orienté vers le contrôle de gestion stratégique (FP&A) et l'industrie, alors que l'offre correspond à un poste de collaborateur comptable en cabinet axé sur la tenue de comptes, la fiscalité et la paie. De plus, l'entreprise recherche un contrat local et non un VIE, ce qui crée un double écart important.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248559](https://mon-vie-via.businessfrance.fr/offres/248559)
+
+**Description du poste**
+
+Entreprise: 01 ACCOUNTING SERVICES
+www.01accountingservices.com
+
+The role will be based in Dublin and you will work on French and UK and Irish portfolios’
+
+Your tasks will be:
+Bookkeeping and reporting (monthly/quarterly/annually)
+Preparing the year-end financial statement (various reconciliations)
+Preparation and submission of tax return (VAT, Corporation tax, Intrastat,..)
+Establishment of payslips and payroll taxes
+Assisting in the legal process of setting up a company
+Work collaboratively with associates accountants
+Accounts assistances, including responding to client enquiries regarding the accounts of their subsidiaries
+
+**Profil recherché**
+
+profil cabinet comptable-contrat local
+
+</details>
 
 <details>
 <summary><strong>VIE - Accounting Transformation Analyst - Uccle (H/F)</strong> · SCHNEIDER ELECTRIC INDUSTRIES SAS · UCCLE, BELGIQUE · 2 978,53 €/mois</summary>

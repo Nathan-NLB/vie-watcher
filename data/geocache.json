@@ -724,5 +724,11 @@
   "entreprise|longchamp|hong kong|hong kong": {
     "lat": 22.2976844,
     "lon": 114.1690577
-  }
+  },
+  "entreprise|01 accounting services|la valette|malte": null,
+  "ville|la valette|malte": {
+    "lat": 35.8989979,
+    "lon": 14.5136607
+  },
+  "entreprise|01 accounting services|dublin|irlande": null
 }
