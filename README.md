@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **20/11/2026 13:15:43**, 95 offre(s) actuellement en ligne.
+Dernière vérification : **20/11/2026 13:31:11**, 98 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -80,6 +80,88 @@ profil cabinet comptable-contrat local
 </details>
 
 <details>
+<summary><strong>Analyste Bill to Cash (H/F)</strong> · TOTALENERGIES SE · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES SE
+- **Lieu :** LIEGE, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 20/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248557](https://mon-vie-via.businessfrance.fr/offres/248557)
+
+**Description du poste**
+
+Vous souhaitez développer votre expertise en comptabilité clients, en analyse de données financières et en amélioration continue ?
+
+Rejoignez l’équipe Bill to Cash du département Customer Operations. Cette équipe intervient après la facturation et jusqu’à la réception du paiement du client. Son périmètre couvre notamment les encaissements et décaissements, les domiciliations, les virements bancaires, les remboursements clients ainsi que le recouvrement interne et externe.
+
+En tant qu’Analyste Bill to Cash, vous contribuerez activement à la réduction de la bad debt et à la fiabilité des soldes clients. Vous analyserez, réconcilierez et assainirez différentes populations de données financières, tout en identifiant des leviers permettant d’améliorer le taux de recouvrement et d’automatiser les processus existants.
+
+Cette mission vous donnera l’occasion de travailler de manière transverse avec des interlocuteurs expérimentés issus des équipes Customer Operations, Finance, recouvrement et du projet de migration.
+Vos principales responsabilités
+Analyse et réconciliation des soldes clients
+Analyser et régulariser les transactions liées aux cessions de créances.
+Analyser et apurer les comptes d’attente associés aux paiements reçus.
+Identifier, analyser et traiter les soldes créditeurs, notamment les trop-perçus, les soldes créditeurs sur des dossiers proposés pour une prise en perte et les soldes nécessitant une régularisation.
+Réaliser des travaux de réconciliation de données financières et de soldes clients.
+Analyser les écritures comptables anciennes ou incorrectement traitées et déterminer les actions correctrices appropriées.
+Analyser les populations d’impayés et comprendre les causes des défauts de paiement.
+Identifier les segments de clients pour lesquels de nouvelles actions de recouvrement pourraient améliorer le taux de récupération.
+Identifier les populations éligibles à une prise en perte et assurer leur traitement.
+Participer aux calculs mensuels de bad debt et de provisions, en portant un regard critique sur les méthodes existantes et en détectant les éventuelles anomalies.
+Analyser les soldes créditeurs anciens afin d’identifier les montants devant encore être remboursés et ceux pouvant être repris en profit conformément aux règles applicables.
+
+Pilotage de la performance et amélioration continue
+Créer des tableaux de bord permettant de suivre les volumes traités et restant à traiter, les actions engagées et l’évolution de la dette.
+Utiliser Excel pour conduire les premières analyses, puis traduire les besoins identifiés en rapports Power BI automatisés.
+Développer des rapports d’exception permettant de cibler les situations nécessitant une intervention manuelle.
+Identifier les causes racines des anomalies et proposer des solutions permettant de réduire ou de prévenir leur réapparition.
+Proposer, tester et suivre des actions d’amélioration en évaluant systématiquement les coûts, les efforts nécessaires et les gains attendus.
+Mettre en œuvre les améliorations retenues en collaboration avec les équipes opérationnelles, Finance et IT concernées.
+Documenter les analyses, les processus, les contrôles et les actions mises en place afin d’assurer leur pérennité et de faciliter le transfert de connaissances.
+Préparer et animer des réunions consacrées à la bad debt, en présentant vos analyses et recommandations à des interlocuteurs expérimentés ou de niveau hiérarchique élevé.
+
+
+Cette mission vous permettra de :
+
+Développer une expertise solide en comptabilité clients, recouvrement et gestion de la bad debt.
+Travailler sur des données financières ayant un impact direct sur la performance de l’activité.
+Renforcer votre maîtrise d’Excel, de Power BI, du reporting et de l’automatisation des processus.
+Évoluer dans un environnement transverse et interagir avec des interlocuteurs expérimentés.
+Développer votre capacité à formuler des recommandations concrètes à partir de données financières et opérationnelles.
+Contribuer à un projet de migration stratégique et à l’amélioration continue des processus Bill to Cash.
+
+**Profil recherché**
+
+Vous êtes titulaire d’un Bac+5 en finance, comptabilité, gestion.
+
+Vous possédez une bonne compréhension des principes de comptabilité clients et de recouvrement, notamment des provisions, des prises en perte ou en profit et de leur impact sur la bad debt et le compte de résultat.
+
+Une première expérience en entreprise, acquise dans le cadre d’une alternance ou d’un premier emploi est attendue. Une expérience en recouvrement, en réconciliation financière, en calcul de provisions ou dans le secteur de la fourniture d’énergie B2B ou B2C constituera un atout.
+
+Vous êtes également capable de :
+
+Analyser et réconcilier des données financières et des soldes clients.
+Mener des recherches approfondies pour comprendre des situations comptables complexes.
+Identifier les causes racines d’une anomalie et proposer des actions correctrices pertinentes.
+Gérer plusieurs sujets en parallèle avec méthode et précision.
+Travailler de manière autonome, formuler des hypothèses et remettre en question des calculs ou des processus existants.
+Présenter clairement vos conclusions et défendre vos recommandations avec assurance.
+Collaborer efficacement avec des interlocuteurs opérationnels et financiers variés.
+Une connaissance des méthodologies d’amélioration continue ou d’optimisation des processus serait un avantage.
+
+Vos compétences informatiques
+Excellente maîtrise d’Excel, notamment des tableaux croisés dynamiques, des fonctions avancées et de l’analyse de données.
+Bonne connaissance de Power BI pour la création de tableaux de bord et le suivi des indicateurs, ou forte capacité à apprendre rapidement l’outil.
+Une familiarité avec la logique d’un langage ou d’un outil de données tel que SQL, Python ou Java facilitera votre montée en compétence sur Power BI.
+La connaissance d’un ERP, idéalement SAP, serait appréciée mais ne constitue pas un prérequis.
+Langues
+Français : niveau C1/C2.
+Anglais : niveau B2 minimum.
+
+</details>
+
+<details>
 <summary><strong>VIE - Accounting Transformation Analyst - Uccle (H/F)</strong> · SCHNEIDER ELECTRIC INDUSTRIES SAS · UCCLE, BELGIQUE · 2 978,53 €/mois</summary>
 
 - **Entreprise :** SCHNEIDER ELECTRIC INDUSTRIES SAS
@@ -125,6 +207,97 @@ Interest in digital transformation, automation and continuous improvement.
 Proactive, curious and eager to learn and contribute in an international and multicultural environment.
 Good communication skills and ability to collaborate with different Finance stakeholders.
 Fluent English to work effectively in an international environment.
+
+</details>
+
+<details>
+<summary><strong>V.I.E - Equity Sales H/F - Frankfurt (H/F)</strong> · BNP PARIBAS · FRANCFORT, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** BNP PARIBAS
+- **Lieu :** FRANCFORT, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 20/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion et le FP&A, alors que l'offre concerne un poste de Equity Sales en salle des marchés. Bien qu'il ait de solides compétences financières et un bon niveau d'anglais, il manque d'expérience en marchés de capitaux et ne maîtrise pas l'allemand requis par l'entreprise.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248531](https://mon-vie-via.businessfrance.fr/offres/248531)
+
+**Description du poste**
+
+Au quotidien, ça donne quoi ?
+BNP Paribas Corporate & Institutional Banking (CIB) sert une vaste clientèle, allant des grandes multinationales et des entreprises de taille moyenne aux investisseurs institutionnels et aux prestataires de services financiers. L'activité est l'un des principaux fournisseurs de services de banque d'investissement, de financement des marchés de capitaux et de solutions de financement et d'investissement durables.
+Intégré(e) au sein de l'équipe à Francfort, vos principales missions seront les suivantes : 
+•	Soutenir l'équipe dans l’activité quotidienne des activités et la couverture client.
+•	Collaborer et coordonner vos actions avec diverses équipes notamment la Recherche, le Corporate Access et l'Exécution, évoluant ainsi dans un environnement de travail international
+•	Préparer les supports de marketing quotidiens et hebdomadaires ainsi que les présentations sur l'activité du marché et la recherche. 
+•	Participer à la planification et à l'exécution des roadshows d'entreprises et du marketing analyste, tout en développant et en présentant des idées d'investissement.
+Et après ?
+Cette expérience vous permettra d’acquérir une compréhension solide du fonctionnement d’une salle des marchés.
+Vous développerez des compétences recherchées en analyse de marché, en interprétation de données financières, en préparation de recommandations commerciales, en organisation et en relation client. 
+Les avantages à nous rejoindre
+Fixée par arrêté ministériel, elle est versée mensuellement et se compose de deux éléments :
+•	Une indemnité commune, identique pour tous les jeunes en mission ;
+•	Une indemnité géographique, variable selon le pays et parfois la ville de destination. Cette indemnité est recalculée chaque trimestre.
+Retrouvez plus d’informations sur le site de Business France.
+
+**Profil recherché**
+
+Êtes-vous notre prochain VIE – Equity Sales – H/F ?
+Vous êtes diplômé d’un Bac+5 d’une école de commerce, d’une école d’ingénieurs ou équivalent universitaire, avec une spécialisation en finance, en économie ou dans un domaine connexe.
+Vous manifestez un fort intérêt pour les actions et l'évaluation d'entreprise. 
+Une première expérience dans le domaine des marchés de capitaux est privilégiée.
+Vous possédez de solides capacités d'analyse et de communication, ainsi qu'une réelle résilience et une aptitude à travailler de manière autonome
+Vous maitrisez les produits MS Office, en particulier Excel et PowerPoint.
+Vous parlez couramment l’anglais et l’allemand, à l’écrit comme à l’oral.
+Au-delà de vos compétences techniques, vous démontrez une collaboration active avec vos interlocuteurs, de solides capacités d'organisation, une communication claire et efficace, un forte capacité d'analyse ainsi qu'une grande adaptabilité. Votre motivation, votre curiosité et votre proactivité seront des atouts essentiels pour réussir dans cette mission.
+Enfin, votre sens de l’éthique et de l’intégrité ainsi que votre attention portée aux différentes dimensions du risque seront essentiels pour réussir cette mission.
+Durée et disponibilité
+Ce poste est à pourvoir dès que possible pour une durée de 24 mois.
+Avant de postuler, veillez à vérifier les conditions d’éligibilité pour cette destination : Faire son V.I.E en Allemagne et ajouter à votre espace candidat un CV et une lettre de motivation en anglais.
+
+</details>
+
+<details>
+<summary><strong>AUDITOR - GENERAL INSPECTION (H/F)</strong> · CACEIS · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
+
+- **Entreprise :** CACEIS
+- **Lieu :** DUBLIN, IRLANDE
+- **Indemnité :** 3 520,38 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 20/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en termes de formation (Master en cours), de compétences financières et d'anglais courant. Cependant, l'offre relève de l'audit interne bancaire (Inspection Générale) alors que son expérience et ses aspirations se situent plutôt en contrôle de gestion et FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247936](https://mon-vie-via.businessfrance.fr/offres/247936)
+
+**Description du poste**
+
+Within CACEIS, the General Inspection function is an integral part of the internal control framework. General Inspection is a single business line bringing together teams based in Paris, Ireland, Luxembourg, Munich, Milan, Amsterdam, Kuala Lumpur and Madrid. It conducts periodic control missions within CACEIS. These missions aim to ensure that external and internal rules are complied with, to assess the level of risk management and operational effectiveness of processes within the Bank. General Inspection identifies areas for improvement and issues recommendations for action in the inspection report published at the end of each mission. It then monitors their complete and timely implementation throughout the year.
+
+In this context, the VIE will join the General Inspection team of CACEIS Bank Ireland Branch to carry out Group missions, working with a team junior and experienced staff located internationally (France, Ireland, Luxembourg, Germany, the Netherlands, Spain, Italy, Malaysia).
+
+Your missions
+You will be an integral part of the General Inspection team as a VIE and will contribute to missions carried out in Ireland and abroad, under the supervision of a lead inspector.
+
+You will be involved in the entire audit process, from the planning phase through to the issuance of the audit report. In this context, you will be in position to: 
+-	Participate and lead initial meetings with auditees to define the scope of work, performing investigation tests in line with internal audit methodologies, drafting documented reports and travels to other CACEIS locations abroad. 
+-	Contribute to the preparation of recommendations designed to strengthen the Bank’s internal control framework and to the follow up of these recommendations, ensuring that the risk mitigation measures identified during the missions are fully and timely implemented.
+-	Prepare Internal Audit reporting and related documentation for local management and relevant governance committees, supporting clear communication of key findings, risks and recommended actions.
+-	Support and lead discussion of the results with both auditees and the managers in a clear and convincing manner.
+-	Be part of the continuous audit monitoring process at local level, supporting the General Inspection team
+
+This role provides an opportunity to develop auditing expertise and risk management, through the application of the audit methodology to abroad range of business line and support functions across the bank, fostering specialized knowledge in areas such as asset servicing, IT, or banking regulation.
+
+**Profil recherché**
+
+What do you need to succeed?
+•	0-2 year's experience in Audit, Finance, Data, Engineering 
+•	Masters degree - specialising in audit, engineering, legal, law, finance, risk management
+•	Excellent English skills - Interact in written and spoken English with stakeholders within and/or outside the organisation
+•	Organized, methodical, rigorous, reliable and Team oriented
+•	High level of curiosity to gain first or further knowledge of audit techniques., self-confidence and assertiveness
+•	Ability to anticipate, own-initiative, and work under pressure
+•	Strong communication skills
+•	Willingness to travel
+•	In‑depth knowledge of advanced office software functionalities (e.g. macro development), particularly spreadsheets (Excel) or database managers (Access). SQL and/or Python knowledge is a plus.
+•	English and (French) required; a third language is a plus
 
 </details>
 
