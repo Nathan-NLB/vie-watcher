@@ -8,11 +8,60 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **20/11/2026 09:15:42**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **20/11/2026 09:31:02**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE - Accounting Transformation Analyst - Uccle (H/F)</strong> · SCHNEIDER ELECTRIC INDUSTRIES SAS · UCCLE, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** SCHNEIDER ELECTRIC INDUSTRIES SAS
+- **Lieu :** UCCLE, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 20/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le candidat possède un profil financier solide avec un Master en cours, une maîtrise d'Excel et un excellent niveau d'anglais, ce qui correspond aux attentes. Cependant, l'offre est axée sur la transformation comptable et les processus RTR (Record-to-Report), alors que l'expérience principale de Nathan se situe en contrôle de gestion pur.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248532](https://mon-vie-via.businessfrance.fr/offres/248532)
+
+**Description du poste**
+
+As a VIE - Accounting Transformation Analyst – Record to Report (RTR), you will join an international Finance environment and contribute to the transformation of our accounting processes.
+
+ 
+
+Working alongside accounting teams, Finance stakeholders and transformation experts, you will support initiatives aimed at making our Record-to-Report processes simpler, more efficient, digital and data-driven.
+
+ 
+
+This VIE is a great opportunity to combine Finance, data analysis and project management while gaining hands-on experience in an international transformation environment.
+
+ 
+
+What You’ll Do
+
+Contribute to Finance transformation and continuous improvement projects across the Record-to-Report cycle.
+Analyze existing accounting processes and help identify opportunities for simplification, standardization and automation.
+Monitor RTR KPIs, analyze performance trends and contribute to the definition and follow-up of improvement actions.
+Support the deployment and adoption of new Finance tools, systems and digital solutions.
+Investigate accounting and reporting issues through root cause analysis and contribute to corrective actions.
+Participate in workshops with Finance and Accounting teams to understand business needs and translate them into improvement opportunities.
+Support change management, communication and training activities linked to transformation projects.
+Maintain process documentation and contribute to the sharing of best practices across teams and countries.
+
+**Profil recherché**
+
+Master’s degree in Finance, Accounting, Business, Economics or a related field.
+First experience through an internship, apprenticeship in Finance, Accounting, Audit, Controlling or Finance Transformation would be appreciated.
+Strong analytical and problem-solving skills, with an interest in understanding how processes can be improved.
+Comfortable working with data and Excel; exposure to Power BI, SAP or Power Automate would be a plus.
+Interest in digital transformation, automation and continuous improvement.
+Proactive, curious and eager to learn and contribute in an international and multicultural environment.
+Good communication skills and ability to collaborate with different Finance stakeholders.
+Fluent English to work effectively in an international environment.
+
+</details>
 
 <details>
 <summary><strong>Financial Planning & Analyst (H/F)</strong> · LONGCHAMP · HONG KONG, HONG KONG · 3 196,80 €/mois</summary>
