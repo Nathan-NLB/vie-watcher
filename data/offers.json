@@ -1669,100 +1669,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "2",
-      "6",
-      "7",
-      "17",
-      "21",
-      "26",
-      "171",
-      "234",
-      "244",
-      "321",
-      "322",
-      "326",
-      "315"
+      "[\"2\",\"6\",\"7\",\"17\",\"21\",\"26\",\"171\",\"234\",\"244\",\"321\",\"322\",\"326\",\"315\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "2",
-        "specializationParentId": "243",
-        "specializationLabel": "Achats",
-        "specializationLabelEn": "Purchasing"
-      },
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "26",
-        "specializationParentId": "216",
-        "specializationLabel": "Communication",
-        "specializationLabelEn": "Communication"
-      },
-      {
-        "specializationId": "171",
-        "specializationParentId": "227",
-        "specializationLabel": "Relations Internationales",
-        "specializationLabelEn": "International Relations"
-      },
-      {
-        "specializationId": "234",
-        "specializationParentId": "227",
-        "specializationLabel": "Affaires et études européennes",
-        "specializationLabelEn": "European affairs and studies"
-      },
-      {
-        "specializationId": "244",
-        "specializationParentId": "243",
-        "specializationLabel": "Supply chain",
-        "specializationLabelEn": "Supply chain"
-      },
-      {
-        "specializationId": "321",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance Verte et Responsable",
-        "specializationLabelEn": "Finance Verte et Responsable"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      },
-      {
-        "specializationId": "315",
-        "specializationParentId": "193",
-        "specializationLabel": "E-commerce",
-        "specializationLabelEn": "E-commerce"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "This role focuses on managing the complete Order-to-Cash process, ensuring customer orders are accurately processed from receipt through delivery and invoicing. It serves as the primary point of contact for customers regarding order status, deliveries, invoicing, returns, and claims. The position requires close collaboration with supply chain, logistics, sales, finance, marketing, and planning teams to ensure smooth operations and high service levels. It involves resolving delivery challenges, stock shortages, and customer issues while maintaining strong customer relationships. The role also contributes to continuous improvement initiatives aimed at enhancing customer service performance and operational efficiency.\n\nManage customer orders throughout the entire Order-to-Cash cycle, from order entry to invoicing.\nMonitor and communicate order, delivery, and invoice status to customers and internal stakeholders.\nResolve delivery issues, stock shortages, returns, refusals, and customer claims in a timely manner.\nCoordinate with logistics providers and internal teams to validate and release blocked orders.\nSupport customer service excellence and participate in process improvement and operational optimization projects.",
     "creationDate": "2026-09-15T14:11:59Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -3433,37 +3342,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "68",
-      "144",
-      "180",
-      "365"
+      "[\"68\",\"144\",\"180\",\"365\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "68",
-        "specializationParentId": "255",
-        "specializationLabel": "Energie",
-        "specializationLabelEn": "Energy"
-      },
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "365",
-        "specializationParentId": "255",
-        "specializationLabel": "Energies renouvelables",
-        "specializationLabelEn": "Energies renouvelables"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Context :\n\nMarket Analysis (ECMA) is an Expertise Center within ENGIE Supply & Energy Management (S&EM), which delivers a broad spectrum of services related to energy markets including supply and demand analysis and meteorological forecasts, investment economics, strategic studies, regulatory advisory and ESG requirements.\n\nWithin ECMA, the Long-Term Power & Grid Modelling team provides insights to several clients within the ENGIE Group by developing or leveraging advanced quantitative forecasting models. The transversality of the work leads to a comprehensive overview of power markets across all relevant horizons:\n•\t0-5 years: Support S&EM trading activities in Central Western Europe (spot & forward along liquid curve) \n•\t5-10 years: Provide insights on grid congestion risk to portfolio managers across European markets in order to optimize mid-term risk mitigation decisions \n•\t<25 years: In charge of the Group’s Corporate Scenarios which deliver long-term views on power prices, technological mix and investment profitability for key ENGIE geographies (EU, USA, Brazil,…)\n\n\n\n\nYou will be part of the Long-Term Power: Europe team, focusing on projects for the longer-term in Europe.\nRole: Power Market Analyst \nIn order to bring the highest standard of analytical services to ECMA’s clients, we are looking to expand our team with a new V.I.E based in Brussels (Belgium):\n\nIn the LT Power Europe team, you will be part of a transversal team delivering quantitative projects for multiple internal ENGIE clients such as the global Strategy Department, Renewable & Flexibility project developers, portfolio managers or energy traders. You will be working alongside passionate experts with multi-faceted backgrounds who like to be challenged on complex energy-related questions.\n\nTogether with your project team, your primary goal will be to support ENGIE’s functional and operational entities across multiple geographies in better understanding the transformation of the energy landscape in increasingly complex and uncertain environments. Concretely in this role, you will: \n\n•\tWork on the long-term power price projections for Europe, used widely in the Group.\n\n•\tOperate & improve large-scale optimization models to evaluate the long-term evolution of the energy sectors (technology mix, actors & competition, regulation, carbon footprint, costs…) across multiple power systems – mainly EU.\n\n•\tSupport ENGIE’s entities on specific questions concerning strategic, regulatory and market challenges to achieve the societal & Group decarbonization ambition. Evaluate macro-trends and perform techno-economic analyses (regional/country level).\n\n•\tUnderstand how to translate the specificities of each market and timeframe into appropriate modelling requirements. Actively participate to the reputation and relevance of the department by ensuring consistency across client & timeframe, and by challenging existing practices.\n\n•\tCommunicate your findings to different stakeholders within the Group.\n\nThis is an excellent opportunity for someone eager to kickstart their career in energy markets within a Group committed to the ecological transition.",
     "creationDate": "2026-11-09T11:49:54Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -4581,44 +4462,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "17",
-      "21",
-      "320",
-      "327"
+      "[\"6\",\"17\",\"21\",\"320\",\"327\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "327",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique et Sciences des Données",
-        "specializationLabelEn": "Informatique et Sciences des Données"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Heetch met en relation chauffeurs et passagers sur plusieurs marchés. Après une profonde restructuration, nous sommes aujourd’hui une petite équipe resserrée et agile, avec un seul objectif : remettre l’entreprise sur une trajectoire durable. Ce ne sera pas facile. Mais rares sont les endroits où vous pourrez avoir autant d’impact aussi tôt.\r\n\r\nNos valeurs :\r\n\r\nJouer collectif\r\nFaire bouger les choses (l’impact avant tout)\r\nÊtre bienveillant (nous sommes conscients des enjeux sociaux et nous nous écoutons les uns les autres)\r\nPenser différemment\r\n\r\nVous serez notre référent(e) en Business Analysis et en données business. Vous serez rattaché(e) directement au CEO et serez le bras droit des General Managers, des Growth Managers et du/de la Head of Customer Service.\r\n\r\nVous aurez un accès complet à nos données et la liberté de construire vos propres routines. Vos interlocuteurs vous feront part de leurs retours et de leurs intuitions. Votre mission sera d'aider à les transformer en problématiques qui comptent vraiment, de remonter jusqu’à la cause racine et d’élaborer des solutions avec les équipes concernées.\r\n\r\nCe poste s’adresse à quelqu’un qui est à l’aise avec l’ambiguïté et qui veut voir son travail se refléter dans les résultats de l’entreprise. Et les sujets à améliorer ne manquent pas.\r\n\r\nQue ferez-vous ?\r\n\r\nMarketplace & pricing : suivre de près l’offre, la demande et la fiabilité, et d'aider à traduire vos observations en recommandations claires sur le pricing et les paramètres de la marketplace.\r\nGrowth :aider à analyser en profondeur les funnels d’acquisition et la rétention, identifier les plus grosses opportunités et mesurer ce qui fonctionne, des nouvelles initiatives à nos actions récurrentes d’acquisition et de CRM.\r\nService client : aider le/la Head of Customer Service à définir la stratégie et la roadmap projets, suivre les KPI, construire des dashboards et optimiser nos outils et automatisations.\r\nTrust & Safety : aider à suivre le comportement des chauffeurs et des passagers et son impact sur la marketplace, puis ajuster nos processus disciplinaires et nos automatisations pour maintenir l’équilibre.\r\nAutomatisation : aider à automatiser des processus pour les équipes Growth, Produit et Service client, grâce à des workflows automatisés et des outils d’IA comme Claude.",
     "creationDate": "2026-11-03T15:45:33Z",
     "missionStartDate": "2027-01-01T00:00:00",
