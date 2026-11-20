@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **20/11/2026 13:45:41**, 98 offre(s) actuellement en ligne.
+Dernière vérification : **20/11/2026 14:01:27**, 99 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -207,6 +207,79 @@ Interest in digital transformation, automation and continuous improvement.
 Proactive, curious and eager to learn and contribute in an international and multicultural environment.
 Good communication skills and ability to collaborate with different Finance stakeholders.
 Fluent English to work effectively in an international environment.
+
+</details>
+
+<details>
+<summary><strong>Chargé de projets RH & Développement Business H/F – Luxembourg (H/F)</strong> · TOTALENERGIES MARKETING SERVICES · WICKRANGE, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES MARKETING SERVICES
+- **Lieu :** WICKRANGE, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 20/11/2026
+- **Compatibilité avec ton profil :** 65 % — Nathan possède le niveau d'études requis (Master), maîtrise Excel et Power BI, et son profil analytique correspond à la partie business de l'offre. Toutefois, le poste est fortement orienté vers les Ressources Humaines et le juridique, ce qui s'éloigne de son cœur de métier et de son souhait de se spécialiser en contrôle de gestion pur.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248260](https://mon-vie-via.businessfrance.fr/offres/248260)
+
+**Description du poste**
+
+Contexte et environnement
+Vous souhaitez démarrer votre parcours international avec une mission qui vous permette de comprendre le fonctionnement d’une entreprise dans sa globalité, à l’interface entre People, Business et Performance ?
+
+Rejoignez TotalEnergies au Luxembourg pour un VIE particulièrement transverse, au sein d’une filiale à taille humaine d’environ vingt collaborateurs. Son activité réunit des fonctions support, des activités commerciales et de back-office ainsi que des activités liées aux nouvelles énergies, notamment le déploiement de bornes de recharge électrique.
+
+Dans cet environnement, vous travaillerez au contact de différentes équipes et du management et contribuerez à des projets associant Ressources Humaines & Juridique et Business & Performance.
+
+L’équilibre entre ces différents domaines pourra évoluer selon les priorités de l’entité, vous permettant ainsi d’élargir progressivement votre champ d’intervention.
+
+Activités
+Vos missions
+Ressources Humaines & Juridique
+Aux côtés de la Responsable RH & Affaires Sociales, vous serez amené(e) à :
+
+Contribuer au déploiement et au suivi des projets et processus RH de l’entité ;
+Participer aux différentes étapes du cycle de vie des collaborateurs, de l’intégration au départ ;
+Préparer et suivre les déclarations légales et réglementaires auprès des autorités compétentes ;
+Participer aux campagnes RH : entretiens annuels, formation, enquêtes internes ;
+Préparer et suivre des indicateurs, tableaux de bord et analyses RH ;
+Rédiger et mettre à jour des documents, procédures et supports RH ;
+Contribuer aux actions de communication interne et aux initiatives favorisant l’engagement des collaborateurs ;
+Participer au suivi de la formation et du développement des compétences ;
+Effectuer des recherches en droit du travail, sécurité sociale et réglementation sociale et assurer une veille sur leurs évolutions ;
+Contribuer à des projets transverses visant à faire évoluer l’organisation et les processus internes.
+
+
+Vous interviendrez ainsi sur des sujets RH et juridiques variés pour lesquels il faudra transformer des informations provenant de différentes sources en analyses et livrables directement exploitables.
+
+
+Business & Performance
+En collaboration avec les équipes commerciales et les différentes activités de l’entité, vous serez amené(e) à :
+
+Réaliser des analyses de marché et suivre les principales tendances ;
+Analyser des données commerciales et financières ainsi que les principaux indicateurs de performance ;
+Contribuer à l’identification de segments de marché, de prospects et de cibles commerciales ;
+Analyser les portefeuilles clients et prospects afin d’identifier des opportunités de développement ;
+Participer à l’analyse d’opportunités commerciales et à l’évaluation de leur potentiel économique ;
+Contribuer à la réflexion autour des stratégies commerciales et des plans d’action ;
+Préparer des reportings, présentations, synthèses et recommandations destinés au management ;
+Participer à l’amélioration des outils de suivi et de reporting commercial.
+
+
+D’une recherche sur un sujet réglementaire à l’analyse de données commerciales ou à la préparation d’une recommandation pour le management, vous évoluerez régulièrement entre des problématiques différentes. Une diversité particulièrement intéressante pour comprendre simultanément les dimensions humaines et business d’une entreprise.
+
+**Profil recherché**
+
+Vous êtes diplômé(e) d’une formation supérieure de niveau **Bac+5 / Master ou équivalent**, idéalement avec un parcours combinant **Finance, Commerce, Économie ou Analyse de marché et Ressources Humaines**.
+
+Un cursus orienté business complété par un intérêt pour les RH est également pertinent. Si votre formation est principalement spécialisée en Ressources Humaines, une première expérience ou une exposition à des problématiques **business, financières ou d’analyse de marché** sera appréciée.
+
+Une première expérience, notamment en stage, croisant **RH et enjeux business ou performance** constituera un atout.
+
+Vous maîtrisez **Excel** (dont les formules courantes), **PowerPoint et Word**. La connaissance de **Power BI** et de **Microsoft Copilot** serait appréciée.
+
+**Langues :**
+- Français : C1
+- Anglais : B2
 
 </details>
 

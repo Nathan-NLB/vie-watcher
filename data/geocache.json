@@ -731,5 +731,10 @@
     "lon": 14.5136607
   },
   "entreprise|01 accounting services|dublin|irlande": null,
-  "entreprise|totalenergies se|liege|belgique": null
+  "entreprise|totalenergies se|liege|belgique": null,
+  "entreprise|totalenergies marketing services|wickrange|luxembourg": null,
+  "ville|wickrange|luxembourg": {
+    "lat": 49.5423438,
+    "lon": 6.0198557
+  }
 }
