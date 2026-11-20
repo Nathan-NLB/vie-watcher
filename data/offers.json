@@ -171,16 +171,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Being a part of the Commercial business area, the Client Service & Client Setup department supports clients in their day-to-day operational business. The main goal of the department is client satisfaction.\r\n\r\nClient Service is the central point of contact for the clients on their inquiries regarding the operational delivery of a service. The team coordinates the client inquires with internal operational departments up to the solution finding. Further it strives to improve the operational service delivery supported by Service Review meetings with the clients.\r\n\r\nThe back office team Client Setup, which has no direct contact to clients, coordinates the client setup requests by converting them into technical requirements and preparing them for the implementation into the master data systems. Client requests may include, but are not limited to, opening/closure of cash and securities accounts and the setup of reporting.\r\n\r\nThe clients we serve are capital investment companies/KVGs, investors such as insurance companies, pension funds and foundations as well as asset managers and advisors.\r\n\r\nTogether with the colleagues from Client Management, Client Service & Client Setup supports the strategic development of the client relationship.\r\n\r\n \r\nYour main missions will be:\r\n\r\n• Actively support the Client Setup team with the requests of setting up clients in internal systems\r\n\r\n• Prepare and instruct the parametrization of client data\r\n\r\n• Process client requests, e.g. account opening, account closure, setup of various reports\r\n\r\n• Analyse and clean up client data, as well as check for its completeness with the aim of meeting regulatory requirements\r\n\r\n• Participate in the planning and implementation of client onboarding and client migrations\r\n\r\n• Support the coordination and further development of processes related to client data, account opening, account closure, reporting\r\n\r\n\r\nCACEIS Bank Germany Branch offers to its VIEs the following benefits\r\n\r\nGerman courses\r\nFlexible working hours\r\nInternational work environment",
     "creationDate": "2026-11-19T11:07:34Z",
     "missionStartDate": "2027-03-01T00:00:00",
