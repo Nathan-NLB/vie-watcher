@@ -2152,16 +2152,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "320"
+      "[\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "A l’écoute de tous nos clients, nous créons des services financiers innovants pour construire une mobilité durable pour tous.\nRejoindre Mobilize Financial Services, c’est d’abord choisir d’intégrer un groupe international, filiale de Renault Group, une banque de financement solide, partenaire du constructeur Renault et d’autres marques du secteur automobile. Nos 4 000 collaborateurs présents dans 35 pays, agissent ensemble au service de nos clients.\nNous proposons à nos clients - particuliers comme professionnels - les financements et les services les plus adaptés pour les véhicules neufs et d'occasion.\nNotre entreprise se \"MOBILIZE\" en faveur de la diversité culturelle, l'égalité hommes-femmes et l'intégration de personnes en situation de Handicap, au travers notamment de notre Chartre. Nous favorisons un environnement de travail où les différences individuelles sont reconnues, appréciées, respectées et valorisées, de façon à mettre à profit les talents et les forces de chacun.\n\nLES MISSIONS PRINCIPALES DU VIE CONSISTERONT :\n– Suivi des opérations de refinancement\n– Suivi du TRP (taux de refinancement prévisionnels) pour la construction de la tarification\n– Supporter la mise en place des alternatives de refinancement proposées par le trésorier\n– Suivi du flux de trésorerie réel par rapport à la projection\n– Supporter le contrôle et suivie des risques financiers (contrepartie, liquidité, risque de taux, LCR, etc.)\n– Supporter la mise à jour de présentations pour les banques et investisseurs\n– Supporter la mise à jour des rapport financiers\n– Supporter la préparation du comité financier filiale\n– Supporter le développement de projets au sein de la Trésorerie\n– Supporter la mise en place des outils de suivi des risques",
     "creationDate": "2026-09-16T07:52:30Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -5120,23 +5113,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9"
+      "[\"8\",\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Votre quotidien à nos côtés ?\r\n\r\nLa société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Responsable Administratif et Financier en VIE.\r\nRattaché à Thomas, Directeur d’Agence, votre objectif est d’accompagner l’agence dans sa gestion administrative et financière. Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international.\r\nVotre poste est basé à George Town, Guyana.\r\n\r\n\r\nVos missions clés consisteront notamment à : \r\n•\tGestion administrative et financière des filiales Friedlander et Friedlander Energie Guyana, en collaboration avec les services du Siège\r\n•\tParticiper Révision de la comptabilité Générale et analytique \r\n•\tPréparer Clôture mensuelle de gestion et reporting\r\n•\tParticiper à la Clôture Trimestrielle Comptable\r\n•\tS’assurer du Contrôle du respect des procédures Groupe\r\n•\tContribuer au suivi de Gestion de la trésorerie\r\n•\tAccompagnement de la croissance & structuration interne\r\n•\tSoutien au support des relations avec les conseils fiscaux, comptables\r\n\r\n\r\nCes missions n’ont pas de secret pour vous ? Nous vous offrons les outils et les moyens à la hauteur de vos ambitions !\r\nUne intégration personnalisée avec Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international durant 2 semaines au sein du siège, à Aix-En-Provence. Tous deux vous formeront sur les process, les outils, le périmètre et ses spécificités et effectuerons un suivi de l’intégration en local.\r\nIl ne manque plus que vous - pour apporter votre contribution personnelle - à cette belle organisation.\r\n\r\nRegardons un peu plus loin, quel futur ?  \r\nChez Ortec, nous considérons que chaque collaborateur doit pouvoir déployer son talent et ses compétences, et donner du sens à son poste. Plus tard, cela se traduit aussi par des opportunités au sein de la Direction Administrative Financière ou dans l’équipe de Direction d’une agence d’exploitation.",
     "creationDate": "2026-09-23T09:11:37Z",
     "missionStartDate": "2027-04-01T00:00:00",
@@ -5484,16 +5463,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "322"
+      "[\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "À propos de Sibelco\r\n\r\nSibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.\r\n\r\nDans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.\r\n\r\nRejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.\r\n\r\nMission:\r\n\r\nLe/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. \r\nIl/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. \r\nEn interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. \r\nCette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.",
     "creationDate": "2026-10-19T13:15:35Z",
     "missionStartDate": "2027-01-01T00:00:00",
