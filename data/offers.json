@@ -486,30 +486,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9",
-      "259"
+      "[\"8\",\"9\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Mobilize Financial Services, filiale de Renault Group, est une banque de financement solide, partenaire des constructeurs Renault et d’autres marques du secteur automobile. Nos 4 000 collaborateurs présents dans 35 pays, agissent ensemble au service de nos clients. \nNous proposons à nos clients - particuliers comme professionnels - les financements et les services les plus adaptés pour les véhicules neufs et d'occasion.\nMobilize Financial Services a financé plus de 1,2 million de dossiers (véhicules neufs et véhicules d’occasion) en 2023 et vendu 3,9 millions de services. À fin décembre 2023, les actifs productifs moyens sont de 51,2 milliards d’euros de financement et le résultat avant impôts est de 1 034 millions d’euros. Nous proposons également des offres d’épargne dans 7 pays.\n\nRejoignez notre équipe et jouez un rôle dynamique dans le domaine de la finance, en travaillant en étroite collaboration avec le directeur financier au sein de notre filiale Slovène.\nVous serez responsable des principales tâches financières dans trois pays (Slovénie, Croatie et Serbie):\n\n- Préparer et analyser les clôtures mensuelles, les rapports et les prévisions.\n- Participer activement à l'optimisation des processus, à l'amélioration des outils de reporting et à la gestion des bases de données internes.\n- Soutenir les filiales dans le suivi des risques financiers et de la trésorerie.\n- Assurer la réconciliation entre la comptabilité et la gestion, en s'alignant sur les normes du groupe et en contribuant à l'intégration de la gestion des risques financiers.\n- Contribuer à l'intégration d'un nouveau système de portefeuille informatique prévu en 2027.\n- Réalisation d'analyses de rentabilité, de simulations financières et de travaux de tarification en partenariat avec les équipes commerciales et marketing. \nCe poste offre une exposition importante aux décideurs de l'entreprise et de nombreuses interactions avec les principales parties prenantes du groupe, dans un environnement international et en pleine transformation.",
     "creationDate": "2026-11-13T09:56:06Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1270,16 +1249,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tSupport our corporate access team with the organization of roadshows and conferences\n•\tHelp the equity sales team in the daily business and on projects \n•\tPreparation of sales presentations \n•\tAssist Head of Branch with operational tasks",
     "creationDate": "2026-11-16T09:40:09Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -4434,16 +4406,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180"
+      "[\"180\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Within the EC Risk, the EGM Market Risk Team is dedicated to the monitoring of EGM activities ensuring the compliance with regulated standards. The team is in charge of:   \n\n- Building risk frameworks aligned with EGM strategy. \n- Providing comprehensive risk views and implement risk frameworks. \n- Delivering regular risk analysis reports and suggest action plans. \n- Reviewing and adjusting risk assessment frameworks. \n- Ensuring adequacy with capital requirements \n- Maintaining efficient relationships with supervision bodies (ACPR, external and internal auditors). \n- Providing risk support to other Global Business Units of Engie \n\n  \nRole: \n\n \n\nOn a daily basis, you will: \n\n- Produce, certify and analyze the different risk indicators of EGM while monitoring and reporting the breaches, \n- Produce detailed analysis on exposures evolutions, \n- Challenge Front Office strategies \n- Adress limits extension \n- Work on ad-hoc projects to improve risk monitoring",
     "creationDate": "2026-11-05T15:06:12Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5687,16 +5652,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans un contexte de transformation et de digitalisation de la fonction Finance, vous contribuerez activement à l'amélioration des outils de pilotage, des processus financiers et du contrôle de gestion au sein de la zone Allemagne / Autriche.\nRattaché(e) au Directeur Administratif et Financier, vous accompagnerez les équipes Finance et Opérations dans l'exploitation des nouveaux outils issus du déploiement de SAP et participerez à l'harmonisation des processus de reporting et de contrôle de gestion.\nUne attention particulière sera portée au développement de nouveaux dashboards de pilotage, à l'amélioration de la qualité des données et au renforcement du contrôle de gestion industriel, notamment dans le cadre de la mise en place du module SAP PS (Project System) sur le site de production de Modulan.\nCette mission s'inscrit dans la continuité des activités de reporting, de business controlling et d'amélioration du contrôle interne.\nPRINCIPALES ACTIVITES : \n1. Digitalisation Finance & Business Intelligence\n· Accompagner la transformation digitale du département Finance.\n· Concevoir et déployer de nouveaux dashboards et outils de pilotage à partir des données SAP.\n· Participer à l'évolution et à l'optimisation des reportings financiers et opérationnels.\n· Contribuer à l'amélioration de la qualité, de la disponibilité et de la fiabilité des données.\n· Accompagner les utilisateurs dans l'adoption des nouveaux outils et indicateurs de performance.\n2. Contrôle de gestion & Performance\n· Participer aux clôtures mensuelles et à l'analyse de la performance économique.\n· Accompagner les équipes dans le pilotage économique des activités.\n· Contribuer à l'harmonisation des méthodes de calcul et des processus de contrôle de gestion entre les différentes entités de la zone.\n· Développer des analyses permettant d'améliorer le pilotage de la rentabilité et des activités opérationnelles.\n· Identifier des opportunités d'amélioration de la performance et être force de proposition.\n3. Audit interne – Contrôle interne\n· Contribution à l’amélioration des dispositifs de Contrôle Interne\n· Participation au processus annuel d’auto-évaluation\n· Assurer le suivi des plans d'actions associés.",
     "creationDate": "2026-10-29T15:47:09Z",
     "missionStartDate": "2027-01-01T00:00:00",
@@ -5827,23 +5785,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8"
+      "[\"5\",\"8\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Contexte de la mission : \r\nWinwin Afrique est une entreprise qui fait  du sport et de la culture des leviers pour le développement économique et social en Afrique.  \r\nEn Côte d’Ivoire, nous opérons pour le compte du gouvernement, dans le cadre d’un contrat de coopération franco-ivoirien, un projet développement d’infrastructures socio sportives qui se présente autour de 3 grands axes :\r\n- Un programme de construction qui vise à bâtir des complexes sportifs multifonctionnels sur 91 communes réparties sur tout le pays.\r\n- Un programme de développement autour des thématiques de la santé, de l’innovation sociale et du développement durable où les acteurs locaux, associations et ONG sont appelés à animer les espaces qui leur sont réservés\r\n- Un système d’exploitation autonome qui développe des activités génératrices de revenus. \r\n\r\nLe premier centre a été inauguré en 2019, à Abidjan sur la commune de Koumassi, par le Président Macron et le vice-président Duncan avec de nombreuses autorités françaises et ivoiriennes. Trois autres complexes ont été inaugurés en 2024. Les AGORAS sont exploitées par notre filiale ivoirienne, Ivoire AGORA. \r\n\r\n4 autres complexes sortiront de terre entre décembre 2026 et avril 2027. L’entreprise doublera de taille durant cette période passant de 80 à plus de 120 collaborateurs. Pour poursuivre la montée en puissance du programme et structurer l’organisation et le fonctionnement commun de ces AGORAS, WWA recherche un.e auditeur chargé du contrôle de gestion, des modèles économiques et du suivi des financements.\r\n\r\n\r\n\r\n\r\nMissions principales\r\n\r\n\r\nAudit et de contrôle et de gestion :\r\n\r\n- Analyser les processus administratifs et financiers existants.\r\n- Optimiser les procédures et outils existants  (doublement des sites en exploitation / développement sur toute la Côte d’Ivoire)  \r\n- Contrôle budgétaire \r\n- Suivi des indicateurs de performance sur chacun des sites (de 4 à 8 en 2026, puis 11 en 2027).\r\n- Mise en place et formation des équipes d’audit et de contrôle de gestion \r\n\r\n\r\nDéveloppement du modèle économique \r\n- Stratégie de développement des revenus et ressources des AGORAS \r\n- Suivi et développement des investissements et des partenariats \r\n\r\nReporting et suivi des financements :\r\n- Consolidation des données administratives et financières pour alimenter les rapports destinés au Trésor/ Bercy et aux partenaires.\r\n- Ouverture à  des modèles de financement complémentaires pour la construction d’une nouvelle tranche de 10 AGORAS",
     "creationDate": "2026-10-29T08:52:36Z",
     "missionStartDate": "2027-02-01T00:00:00",
