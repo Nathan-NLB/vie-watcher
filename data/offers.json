@@ -3223,16 +3223,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Envie de lancer votre carrière dans un environnement international et stimulant ?\n Rejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 LE CONTEXTE\nAu sein de l’équipe Finance de SII Allemagne, basée à Augsburg, vous accompagnez la transformation de la fonction finance.\nVotre objectif : réduire les tâches manuelles, automatiser les processus et améliorer la qualité des données, notamment grâce à Power BI et à l’IA. Vous travaillez en lien étroit avec le contrôle de gestion interne.\nLe poste sera basé à Augsburg, de préférence. Un poste basé à Munich est également possible, avec au moins un jour par semaine sur site à Augsbourg (à environ une heure de route de Munich).\n\n🎯 VOS MISSIONS\n1. Optimisation des processus finance\n· Améliorer les processus dans l’ERP IFS.\n· Optimiser les processus comptables.\n· Documenter et standardiser les procédures.\n\n2. Automatisation et reporting\n· Automatiser les contrôles financiers et les tâches manuelles liées au processus de clôture, en s'appuyant sur des outils tels que l'IA, Power Automate, etc.\n· Développer les outils de reporting et de pilotage sous Power BI et Microsoft Fabric.\n\n3. Qualité des données\n· Garantir la qualité et la cohérence des données entre les outils (HubSpot et outils internes).\n· [Mettre en place des contrôles de cohérence automatisés.]",
     "creationDate": "2026-11-12T12:30:52Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -3797,65 +3790,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "26",
-      "109",
-      "200",
-      "201",
-      "245",
-      "248",
-      "259"
+      "[\"8\",\"26\",\"109\",\"200\",\"201\",\"245\",\"248\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "26",
-        "specializationParentId": "216",
-        "specializationLabel": "Communication",
-        "specializationLabelEn": "Communication"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "245",
-        "specializationParentId": "24",
-        "specializationLabel": "Architecture des systèmes d'information",
-        "specializationLabelEn": "IT architecture / Cloud and virtualisation"
-      },
-      {
-        "specializationId": "248",
-        "specializationParentId": "24",
-        "specializationLabel": "Développement logiciel",
-        "specializationLabelEn": "Software development"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Présentation de la société :\n\nBig Bang est une société d’experts-conseils qui aide les organisations à optimiser et à simplifier les processus par la planification d’une stratégie numérique, par le déploiement de solutions d’affaires et par la réalisation d’harmonisation organisationnelle. Notre objectif est de créer de la valeur tangible pour nos clients en les aidant à rationaliser les systèmes opérationnels, notamment par l’interconnexion de l’information entre les systèmes, par l’unification de la stratégie et de la technologie, et par le soutien au développement de l’expertise organisationnelle. Nous avons pour vision d’offrir à chaque personne de chaque organisation un accès direct à l’information qui lui permet de faire le meilleur travail possible, et ce, en tout temps et n’importe où. Grâce à notre siège à Montréal (Canada) et à nos bureaux en France, à l’île Maurice, à Toronto et aux États-Unis, nous servons des entreprises de toutes tailles partout dans le monde.\n\n\nPoste et missions :\n\n Rôle:\nAnalyser les besoins d'affaires, les exigences et les processus et participer à la configuration des solutions infonuagiques pour combler et surpasser les attentes du client. Participer à l'implantation ou à l'intégration de différents systèmes tels que les plateformes de commerce électronique et de marketing, les logiciels de comptabilité et de paie et les solutions pour la gestion de la fabrication, de l'approvisionnement et de l'entreposage.\n\nResponsabilités principales:\n\nOpérations (70%)\nAnalyser les besoins d'affaires, les requis, les flux de travaux, les processus et les applications des clients\nDéfinir, cadrer et documenter les solutions appropriées pour améliorer, automatiser et accélérer l'amélioration des processus\nConfigurer, tester, déployer, soutenir et dépanner les systèmes applicatifs pour répondre aux exigences des processus d'affaires\nAnalyser les exigences en production de rapports, faciliter le développement et la validation de rapports\nCommuniquer régulièrement avec les gestionnaires de projet à propos de l'état d'avancement du travail en cours\n\nService à la clientèle (15%)\nAssurer un service à la clientèle hors pair en respectant nos meilleures pratiques\nAgir en tant que soutien primaire pour les clients actuels\nRépondre aux appels des clients et fournir une aide immédiate pour les demandes urgentes\n\nVentes (10%)\nConfigurer les environnements de démonstration servant à la présentation des solutions infonuagiques aux clients potentiels\nDévelopper des fonctionnalités particulières selon les exigences spécifiques de clients potentiels et adapter des échantillons de données à leur industrie\nDocumenter l'énoncé des travaux\nDonner des présentations aux clients potentiels à propos de solutions particulières ou de domaines d'expertise pointus\n\nGestion des connaissances (5%)\nÉlaborer des plans de formations basés sur les spécifications du client\nAssurer la formation des usagers durant les projets d'implémentation\nCoacher les collègues junior sur les solutions pourvues et supportées par l'organisation\nPréparer des présentations à l'interne à propos des leçons apprises lors de projets pour clients, des tendances et meilleures pratiques de l'industrie, trucs et astuces et nouvelles capabilités des systèmes\nOrganiser et mener des séances de travail pour utilisateurs expérimentés",
     "creationDate": "2026-10-13T12:33:17Z",
     "missionStartDate": "2027-03-01T00:00:00",
