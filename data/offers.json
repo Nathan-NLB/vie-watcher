@@ -1165,30 +1165,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9",
-      "259",
-      "318"
+      "[\"9\",\"259\",\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The Financial Analyst – Purchasing is responsible for providing financial analysis and P&L management for the Purchasing department.\r\nEssential Duties and Responsibilities\r\nMonthly Closing and Reporting for Purchasing:\r\n•\tEnsure accurate and timely monthly financial closes in compliance with IFRS standards.\r\n•\tCollaborate with the Accounting and Purchasing teams to prepare and manage accruals and journal entries.\r\n•\tIdentify and reconcile discrepancies between systems and reports.\r\n•\tProvide financial support to the Purchasing team (focused on Raw Materials, Packaging, and Fresh Apples categories).\r\n•\tDeliver insights on business performance through monthly, and annual reports, monitoring trends and budget variances.\r\n•\tTrack and analyze performance against budget, (Purchase Price Variance) P&L and related KPIs.\r\n•\tMonitor obsolescence expenses (e.g., depreciation).\r\n•\tTrack and provide insights into inventory valuation, sharing key takeaways with cross-functional teams.\r\n\r\nBudget Preparation and Forecasting\r\no\tSupport budgeting and reforecasting activities for Purchasing functions.\r\no\tProvide detailed P&L analysis and financial modeling for project-specific activities.\r\no\tBuild forecasts and estimates to assess \"year-to-go\" and landing.\r\no\tManage monthly updates on risks and opportunities in collaboration with the Purchasing department.\r\no\tOffer financial guidance to the Purchasing team in building key assumptions (e.g., standard costs, secondary costs).\r\nStrategic and Business Support\r\no\tAct as a business partner to drive continuous performance improvement and savings validation.\r\no\tSupport strategic projects to updates financial KPIs (Savings, free cash flow impact, ROIs).\r\no\tSupport Private Label sales team in providing P&L and costings.\r\nTools, Systems, and Process Optimization\r\no\tDevelop efficient methods to reduce manual work and enhance collaboration using tools like Power Query and Power BI.\r\no\tCollaborate with the IT team to establish a consistent and accurate data hub to expedite month-end closing.\r\no\tStreamline internal controls processes and workflows using tools such as Power Automate and Approvals. \r\no\tSupport projects to improve cost tracking in production ERP (VIF).\r\no\tDevelop or revamp existing worksheet to augment automation efficiency.",
     "creationDate": "2026-11-17T09:14:21Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -1578,16 +1557,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "At Bouygues Construction Australia, we are dedicated to the design, construction, and delivery of nation shaping projects across civil infrastructure, engineering, and energy and services.\nWe have proudly been working in Australia for more than 25 years.\nOur local experience in underpinned by significant global expertise and resourcing.\n\n \n\nAbout the Role \n\nThe Junior cost controller position is accountable for the ongoing analysis of process constraints, target costing projects and tracing costs. He has to provide an appropriate level of costing information to the project management throughout costs allocations, follow ups and reportings.\n\n \n\nKey Responsibilities\n\nResponsible of controls activities of the Solar Farms Project on which (s)he will be, including the measures of cost, time and scope of the project in accordance with the contract.\nCost planning, forecasting and monitoring cost estimations.\nTracking milestones and insuring project targets are realized.\nValidate scope documents with contract scope/ sales estimates.\nPrepare cost estimates and update online costs forecasts.\nMinimise deviation through rigorous cost control and forecasting.\nClose control of subcontracts/ supplier accounts costs.\nPeriodic financial statements about project progress\nRegular reporting of risk/ opportunities and potential deviations.\nTimely supporting documentation for project reviews.\n \n\nQualifications & Experience \n\nDegree in Management/Accounting & Finance\n2 years’ experience in a Junior Cost Control/ Finance officer role\nHigh profile global Construction/Civil Engineering Company\nAdvanced excel & accounting skills\nMethodical, organised and meticulous with common sense\nStrong Analytical and problem solving skills\nTechnical knowledge of site techniques\nAbility to critique, recommend and implement initiatives that seek efficiencies either from a process or systems perspective\n \n\n \n\nBouygues Construction Australia values diversity and welcomes applications from Aboriginal and Torres Strait Islander Australians.",
     "creationDate": "2026-11-16T13:39:04Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -2243,16 +2215,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Nexans is a global electrification player, with around 10,000 employees in 39 countries and €7.1 billion in standard sales in 2024. The Group has committed to a Net-Zero 2050 trajectory and is organized around four business areas. As part of its strategy to accelerate electrification through technology solutions, Nexans requires timely, reliable financial and operational analysis to deliver profitable growth. The FP&A function plays a central role in this: providing insight, supporting strategic decisions, strengthening financial discipline and driving operational excellence.\n\nWithin the Nexans Australia Finance team, based in Melbourne, the V.I.E will contribute to financial planning, forecasting, performance analysis, management reporting and process improvement in a complex industrial and manufacturing environment. The role works closely with the Finance Director Oceania and FP&A leadership, and partners with Sales, Supply Chain and Operations to connect financial performance with the underlying commercial and operational drivers. It supports the business in understanding what is driving performance, where risks and opportunities are emerging and what actions may be required, with exposure to the wider Oceania, APAC and Group finance network.\n\nMissions include supporting the monthly closing, forecasting, annual budget and strategic planning cycles; building an integrated view of P&L, cash flow, working capital and fixed costs, and explaining variances versus budget, forecast and prior year; performing root-cause analysis of performance drivers (volume, price, mix, productivity, inventory, sourcing, headcount, spend); preparing Business Review packs, financial bridges, management commentary and PowerPoint presentations for the Finance Director and leadership team; maintaining reconciliations and data consistency across SAP, HFM or other consolidation tools, Excel models, Power BI dashboards and local reporting sources; supporting scenario and sensitivity analysis, constructively challenging assumptions and highlighting risks, opportunities and recommended actions; developing and automating recurring dashboards and reports in Excel and Power BI; contributing to balance-sheet reviews, internal controls and audit support; delivering ad hoc analysis, business cases and tracking of productivity and cost-out initiatives; collaborating with APAC and Group finance teams on reporting requirements, deadlines, templates and process or system improvements, including SAP-related initiatives; and documenting models, definitions and procedures to build scalable processes and reduce key-person dependency.\n\nThis 12- to 24-month assignment in Melbourne offers direct exposure to the Finance Director Oceania, FP&A leadership and senior stakeholders across Australia and the region, with hands-on responsibility across closing, forecasting, budgeting, performance analysis, business partnering and management reporting. It allows the volunteer to deepen expertise in SAP-enabled finance processes, Power BI, automation, financial modelling and operational performance management, within a multicultural and matrixed organization spanning Australia, New Zealand, APAC and the Group.",
     "creationDate": "2026-11-12T17:37:20Z",
     "missionStartDate": "2027-02-01T00:00:00",
