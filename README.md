@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **22/11/2026 03:45:41**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **22/11/2026 04:15:40**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5427,123 +5427,6 @@ Excellentes compétences en communication et relationnelles.
 Très bonne capacité d'organisation.
 Personne proactive, fiable et capable de gérer plusieurs priorités dans un environnement exigeant.
 Maîtrise courante de l'anglais ; la connaissance de l'allemand constitue un avantage.
-
-</details>
-
-<details>
-<summary><strong>Assistant Chef de Projet Contrôle Interne (H/F) – République tchèque</strong> · TOTALENERGIES MARKETING SERVICES · PRAGUE, TCHEQUIE / REPUBLIQUE TCHEQUE · 2 640,11 €/mois</summary>
-
-- **Entreprise :** TOTALENERGIES MARKETING SERVICES
-- **Lieu :** PRAGUE, TCHEQUIE / REPUBLIQUE TCHEQUE
-- **Indemnité :** 2 640,11 €/mois
-- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
-- **Publiée le :** 22/10/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en matière de formation financière et d'expérience en gestion, avec un excellent niveau d'anglais. Cependant, l'offre est axée sur le contrôle interne et l'audit plutôt que sur le contrôle de gestion pur, et la destination (République tchèque) s'éloigne de son souhait initial pour l'Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247383](https://mon-vie-via.businessfrance.fr/offres/247383)
-
-**Description du poste**
-
-Rejoignez la branche Marketing & Services de TotalEnergies à Prague, en République tchèque, et contribuez au renforcement du contrôle interne au sein d’un hub régional couvrant la République tchèque, la Slovaquie et la Hongrie.
-Vous participez à la préparation d’un audit interne régional et contribuez à la fiabilisation des processus, au suivi des contrôles et à l’amélioration continue des pratiques.
-
-Merci de candidater en anglais.
-
-Vos principales missions :
-•	Analyser les résultats des revues de contrôle interne et les plans d’actions associés.
-•	Comprendre les processus des entités couvrant trois pays.
-•	Coordonner les actions de préparation aux audits internes.
-•	Vérifier l’application des procédures et des règles de la Compagnie.
-•	Contrôler la disponibilité et la conformité de la documentation.
-•	Identifier les écarts, retards et points de vigilance.
-•	Accompagner les équipes dans la préparation des audits.
-•	Faciliter la coordination entre les équipes locales et les interlocuteurs du siège.
-•	Structurer le suivi des actions correctives après audit.
-•	Contribuer à l’intégration des exigences de contrôle interne au sein d’une nouvelle entité.
-
-**Profil recherché**
-
-Vous êtes diplômé d’un BAC+5 minimum (master universitaire ou école de commerce) avec une spécialisation en audit, contrôle interne, gestion des risques ou finance.
-Vous bénéficiez d’une première expérience dans un de ces domaines.
-Une expérience dans un secteur différent de celui de l’énergie représenterait un atout, en favorisant l’apport de nouvelles approches et de bonnes pratiques transposables à notre activité.
-Vous maîtrisez les outils du Pack Office, notamment :
-•	Excel ;
-•	PowerPoint ;
-•	Word.
-La connaissance de SAP constitue un atout.
-Un niveau d’anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.
-
-</details>
-
-<details>
-<summary><strong>Product Engineering Officer (H/F)</strong> · SOCIETE GENERALE · MILAN, ITALIE · 3 003,87 €/mois</summary>
-
-- **Entreprise :** SOCIETE GENERALE
-- **Lieu :** MILAN, ITALIE
-- **Indemnité :** 3 003,87 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 22/10/2026
-- **Compatibilité avec ton profil :** 45 % — Le candidat possède de solides compétences en finance et en gestion de projet, mais l'offre exige une maîtrise de la langue italienne et une spécialisation en services titres (Securities Services) que le profil ne démontre pas. De plus, le poste est orienté vers l'ingénierie produit et non strictement vers le contrôle de gestion recherché.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247372](https://mon-vie-via.businessfrance.fr/offres/247372)
-
-**Description du poste**
-
-The Product Engineering Office is responsible for the design, development and implementation of products, solutions and services supporting SGSS business development objectives. 
-As part of the Commercial Department, the Office works in close collaboration with the Commercial and Marketing teams to support SGSS Italy business development, identify client and market needs, and translate them into client-focused solutions. 
-It also partners with Operations and IT teams to design and implement scalable, efficient and compliant products, services and operating models, addressing complex client requirements and contributing to the continuous enhancement of SGSS’s service offering.
-
-The successful candidate will work closely with the Product Engineering team and support the delivery of new products, solutions and services throughout their lifecycle, from analysis and design to implementation and client onboarding.
-
-Key responsibilities include:
-
-Supporting product and solution development projects;
-Gathering and documenting business requirements;
-Assisting in feasibility studies with Operations, IT, Risk and Compliance teams;
-Contributing to the design of operational solutions and target operating models;
-Preparing documentation for governance committees and project follow-up;
-Supporting the preparation of onboarding documentation, KPIs and SLAs;
-Maintaining product documentation and service descriptions;
-Assisting with implementation activities and client onboarding;
-Participating in client requests, RFP responses and commercial initiatives when required.
-In addition, the candidate will support transversal Product Engineering Office activities, including budget monitoring, pricing database maintenance, internal benchmarking and the preparation of management dashboards.
-
-A questionnaire will be provided to you in order to check your VIE (Société Générale and Business France) eligibility. For an efficient analysis of your application, please make sure to truthfully answer all the questions.
-
-Please note that it is mandatory to communicate us a formal proof of your M2 diploma validation at least 2 weeks before the assignment start. No VIE mission will start without this document. *Grade sheets are not accepted as justification of diploma.
-
-**Profil recherché**
-
-PLEASE NOTE that since this program is primarily an international development program, candidates cannot apply to a VIE assignment in their own country of citizenship.
-
-To facilitate the examination of your application by our English-speaking managers, we thank you for applying in English.
-
-Studies & experience:
-
-Graduate with a Master degree from Business/Engineering School or University with a specialization in Economics, Finance or a related field
-
- 
-
-Language skills:
-
-Fluent in English (B2-C1)
-Italian: B2 (Upper Intermediate) - C1 (Advanced / Skilled)
-Operational, technical & soft skills:
-
-Good command of Microsoft Office tools, especially Excel and PowerPoint
-
-Knowledge of financial markets and Securities Services activities
-
-Understanding of project management and business analysis concepts
-
-Good analytical and organizational skills
-
-Client-oriented approach
-
-Strong communication and presentation skills, with the ability to clearly articulate concepts and information to different stakeholders;
-High attention to detail and a rigorous approach to work, ensuring accuracy, consistency and compliance with high-quality standards;
-Analytical mindset and problem-solving capabilities, with the ability to assess complex situations and identify effective, data-driven solutions;
-Inquisitive attitude and strong motivation to learn, with a proactive approach to professional development;
-Collaborative and proactive team player, able to contribute effectively in a structured and multi-disciplinary environment;
-Highly adaptable, well-organised, motivated and able to manage multiple tasks and priorities simultaneously.
 
 </details>
 
