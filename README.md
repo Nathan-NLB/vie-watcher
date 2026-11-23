@@ -8,11 +8,88 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/11/2026 15:15:45**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **23/11/2026 15:31:06**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Coordonnateur Technique - Opérations (H/F)</strong> · TWYCE · MONTREAL -QC, CANADA · 2 649,28 €/mois</summary>
+
+- **Entreprise :** TWYCE
+- **Lieu :** MONTREAL -QC, CANADA
+- **Indemnité :** 2 649,28 €/mois
+- **Durée de la mission :** 24 mois (Du 1 mars 2027 au 1 mars 2029)
+- **Publiée le :** 23/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248651](https://mon-vie-via.businessfrance.fr/offres/248651)
+
+**Description du poste**
+
+Sommaire du poste
+
+Nous sommes à la recherche d'une personne polyvalente, dynamique et autonome pour occuper un poste combinant des responsabilités techniques, administratives, commerciales et de gestion.
+
+La personne recherchée devra être à l'aise avec une grande variété de tâches et être capable de passer d'un dossier à un autre selon les priorités et les besoins de l'entreprise et de son responsable. Elle jouera un rôle important dans le bon fonctionnement des opérations quotidiennes, la gestion des immeubles et des locataires, ainsi que dans le développement des activités commerciales.
+
+Ce poste s'adresse à une personne débrouillarde, organisée, proactive et qui aime relever différents défis au quotidien.
+
+
+Fonctions principales :
+1. Gestion technique et entretien des bâtiments
+•	Effectuer des réparations mineures et des travaux d'entretien général dans les bâtiments.
+•	Assurer le suivi des demandes de réparation et d'entretien.
+•	Effectuer des inspections visuelles des immeubles et identifier les interventions nécessaires.
+•	Coordonner, au besoin, les interventions de fournisseurs, d'entrepreneurs et de sous-traitants.
+•	Veiller au bon état général des installations et des espaces communs.
+2. Gestion immobilière et relations avec les locataires
+•	Assurer les communications avec les locataires et répondre à leurs demandes.
+•	Effectuer le suivi des plaintes, requêtes et situations particulières.
+•	Coordonner les interventions nécessaires auprès des locataires.
+•	Participer au suivi des baux, des renouvellements et des dossiers locatifs.
+•	Maintenir de bonnes relations avec les locataires et assurer un service professionnel.
+3. Développement commercial et prospection
+•	Effectuer des activités de prospection auprès de clients et partenaires potentiels.
+•	Identifier de nouvelles occasions d'affaires.
+•	Communiquer avec des clients potentiels et assurer les suivis nécessaires.
+•	Participer au développement et à la croissance des activités de l'entreprise.
+•	Entretenir et développer un réseau de contacts professionnels.
+4. Gestion administrative et suivi de dossiers
+•	Effectuer diverses tâches administratives et assurer le suivi de différents dossiers.
+•	Préparer, classer et mettre à jour des documents et des dossiers.
+•	Effectuer des suivis auprès de fournisseurs, clients, partenaires et autres intervenants.
+•	Participer à la préparation de rapports, de soumissions et de documents administratifs.
+•	Assurer le respect des échéanciers et le suivi des demandes en cours.
+5. Soutien général aux opérations
+•	Participer à différentes tâches opérationnelles selon les besoins de l'entreprise.
+•	Prendre en charge des mandats ponctuels et des projets spéciaux.
+•	Trouver des solutions pratiques aux problèmes rencontrés au quotidien.
+•	Collaborer avec les différents intervenants afin d'assurer le bon déroulement des activités.
+•	Faire preuve de flexibilité et contribuer à toute autre tâche connexe nécessaire au bon fonctionnement de l'entreprise.
+•	Être ouvert à travailler sur des horaires en soirée ou le weekend si nécessaire.
+
+**Profil recherché**
+
+Compétences recherchées :
+•	Personne polyvalente, autonome et débrouillarde.
+•	Excellente capacité d'organisation et de gestion des priorités.
+•	Bon sens pratique et habiletés manuelles.
+•	Aptitudes en communication et en relations interpersonnelles.
+•	Intérêt pour la gestion immobilière et le développement des affaires.
+•	Capacité à gérer plusieurs dossiers simultanément.
+•	Esprit d'initiative et approche orientée vers les solutions.
+•	Bonne maîtrise des outils informatiques et de la suite Microsoft Office.
+•	Permis de conduire valide, un atout important.
+
+Qualités personnelles recherchées :
+•	Polyvalence et adaptabilité.
+•	Fiabilité et sens des responsabilités.
+•	Autonomie et initiative.
+•	Entregent et professionnalisme.
+•	Esprit entrepreneurial.
+•	Capacité à travailler dans un environnement où les journées sont variées et les priorités peuvent changer rapidement.
+
+</details>
 
 <details>
 <summary><strong>VIE Finance Transformation Analyst- AI & Emerging Tech (H/F)</strong> · AIRBUS · HERNDON      -VA-, ETATS-UNIS · 3 714,31 €/mois</summary>
