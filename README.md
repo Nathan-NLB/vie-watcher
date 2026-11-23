@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/11/2026 17:45:40**, 95 offre(s) actuellement en ligne.
+Dernière vérification : **23/11/2026 18:01:20**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -199,6 +199,42 @@ Formation : Master (Bac+5) en Finance, Comptabilité, Gestion ou Ingénierie à 
 Compétences : bonne compréhension des états financiers (compte de résultat, bilan, flux de trésorerie) et des fondamentaux du contrôle de gestion ; solides capacités d’analyse, de traitement de données, de modélisation et de synthèse ; maîtrise d’Excel et bonne pratique de PowerPoint ; la connaissance d’outils ERP / BI (SAP, Power BI ou équivalent) est un plus ; anglais courant à l’oral et à l’écrit.
 
 Qualités personnelles : rigueur, sens de l’organisation et du détail, forte capacité d’appropriation ; autonomie et aisance dans un environnement multiculturel ; curiosité et esprit orienté business, avec l’envie de comprendre les enjeux industriels et commerciaux derrière les chiffres ; bonnes qualités de communication avec des interlocuteurs finance comme non-finance ; adaptabilité et motivation pour vivre et travailler aux États-Unis (Cincinnati, Ohio) au sein d’un groupe international.
+
+</details>
+
+<details>
+<summary><strong>Contrôleur de Projet & PMO (H/F)</strong> · GRUPO ANTOLIN FRANCE · ALLERSHAUSEN, ALLEMAGNE · 3 027,63 €/mois</summary>
+
+- **Entreprise :** GRUPO ANTOLIN FRANCE
+- **Lieu :** ALLERSHAUSEN, ALLEMAGNE
+- **Indemnité :** 3 027,63 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 23/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248058](https://mon-vie-via.businessfrance.fr/offres/248058)
+
+**Description du poste**
+
+En tant que V.I.E. Project Controlling & PMO, vous intégrerez l’équipe Program Management et travaillerez en étroite collaboration avec le Program Director et les Project Managers, en apportant votre soutien au suivi financier et à la coordination de différents projets Cockpits et Door Panels.
+Cette expérience vous permettra de développer une vision globale de la gestion de projets dans un environnement industriel international et d’acquérir une expérience pratique en project controlling, analyse financière, gestion budgétaire, SAP et activités de PMO.
+
+**Profil recherché**
+
+En tant que V.I.E. Project Controlling & PMO, vous intégrerez l’équipe Program Management et travaillerez en étroite collaboration avec le Program Director et les Project Managers, en apportant votre soutien au suivi financier et à la coordination de différents projets Cockpits et Door Panels.
+Cette expérience vous permettra de développer une vision globale de la gestion de projets dans un environnement industriel international et d’acquérir une expérience pratique en project controlling, analyse financière, gestion budgétaire, SAP et activités de PMO.
+Missions principales :
+•	Participer au suivi financier des projets, notamment des coûts, du chiffre d’affaires, de la rentabilité et des écarts par rapport au budget.
+•	Contribuer au suivi des budgets, des centres de coûts et des forecasts, à l’aide de SAP et des outils internes.
+•	Apporter un soutien dans la gestion et le suivi des commandes, des demandes d’achat et de la facturation liées aux projets.
+•	Accompagner le Program Director et les Project Managers dans la préparation, la consolidation et le reporting des informations relatives aux projets.
+•	Participer aux activités de PMO et à la coordination transversale, en collaboration avec les équipes Project Management, Finance, Controlling et Purchasing.
+Profil recherché :
+•	Diplôme universitaire en Gestion, Finance, Économie, Génie industriel ou dans un domaine similaire.
+•	Intérêt pour une carrière en Project Management, Controlling ou Finance dans un environnement industriel.
+•	Bonnes capacités d’analyse et aisance dans le traitement des données.
+•	Bonne maîtrise d’Excel ; la connaissance de SAP est un plus.
+•	Sens de l’organisation, rigueur, attention aux détails et orientation résultats.
+•	Bon niveau d’anglais et d’allemand ; la connaissance de l’espagnol est un plus.
+•	Capacité à évoluer dans un environnement international
 
 </details>
 

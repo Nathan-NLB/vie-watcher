@@ -743,5 +743,10 @@
   "ville|cincinnati      -oh-|etats-unis": {
     "lat": 39.1012809,
     "lon": -84.5127405
+  },
+  "entreprise|grupo antolin france|allershausen|allemagne": null,
+  "ville|allershausen|allemagne": {
+    "lat": 48.4333967,
+    "lon": 11.6001317
   }
 }
