@@ -745,16 +745,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Mission\r\nSupport the Swiss sales team in business development and day-to-day operations, with exposure to client servicing, marketing coordination, and commercial support.\r\n\r\nResponsibilities\r\n·         Prepare client presentations, sales materials, and briefing notes for the Swiss market.\r\n·         Support prospecting efforts, market research, and follow-up on commercial actions.\r\n·         Maintain and update CRM records, including contact and company data.\r\n·         Coordinate events, roadshows, and client meetings with internal teams.\r\n·         Liaise with Paris-based teams on marketing, reporting, client service and administrative topics for the Swiss market.\r\n·         Provide day-to-day administrative support to the Geneva office.",
     "creationDate": "2026-11-18T09:08:55Z",
     "missionStartDate": "2027-02-01T00:00:00",
