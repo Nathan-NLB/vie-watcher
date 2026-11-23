@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/11/2026 12:30:55**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **23/11/2026 12:45:41**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -874,40 +874,6 @@ Required
 Analytical abilities and are capable of synthesizing and prioritizing a large volume of information. You use logic and trusted expertise to derive a variety of scenarios and solutions. You can think critically to make clear, well-reasoned and rational decisions.
 
 Communicate clearly, concisely, and with impact. You convey confidence, ease and enthusiasm with a variety of audiences. You promote a free flow of information throughout the organization.
-
-</details>
-
-<details>
-<summary><strong>Sales & Admin Support (H/F)</strong> · LA FINANCIERE DE L'ECHIQUIER · GENEVE, SUISSE · 4 157,65 €/mois</summary>
-
-- **Entreprise :** LA FINANCIERE DE L'ECHIQUIER
-- **Lieu :** GENEVE, SUISSE
-- **Indemnité :** 4 157,65 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 18/11/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion et le FP&A, tandis que l'offre proposée est axée sur le support commercial, marketing et administratif. Bien que le niveau d'études et les langues correspondent, la nature des missions diffère sensiblement de son objectif principal en finance d'entreprise.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248447](https://mon-vie-via.businessfrance.fr/offres/248447)
-
-**Description du poste**
-
-Mission
-Support the Swiss sales team in business development and day-to-day operations, with exposure to client servicing, marketing coordination, and commercial support.
-
-Responsibilities
-·         Prepare client presentations, sales materials, and briefing notes for the Swiss market.
-·         Support prospecting efforts, market research, and follow-up on commercial actions.
-·         Maintain and update CRM records, including contact and company data.
-·         Coordinate events, roadshows, and client meetings with internal teams.
-·         Liaise with Paris-based teams on marketing, reporting, client service and administrative topics for the Swiss market.
-·         Provide day-to-day administrative support to the Geneva office.
-
-**Profil recherché**
-
-·         Master’s degree from a business school or university, ideally with a focus on finance.
-·         Fluent in French and English; German is a plus.
-·         A first experience in finance, asset management, or a commercial support role is appreciated.
-·         Strong organisational and communication skills, with attention to detail and the ability to manage multiple priorities.
-·         Interest in asset management and client-facing environments.
 
 </details>
 
