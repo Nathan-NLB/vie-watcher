@@ -8,11 +8,133 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/11/2026 05:01:06**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **23/11/2026 05:15:55**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>V.I.E – Business Developer ERP & CRM (H/F) Abidjan, Côte d’Ivoire | Durée : 12 à 24 mois</strong> · KOORTIS · ABIDJAN, COTE D'IVOIRE · 2 541,92 €/mois</summary>
+
+- **Entreprise :** KOORTIS
+- **Lieu :** ABIDJAN, COTE D'IVOIRE
+- **Indemnité :** 2 541,92 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 23/11/2026
+- **Compatibilité avec ton profil :** 25 % — Le profil de Nathan est spécialisé en contrôle de gestion et finance d'entreprise, alors que l'offre recherche un profil commercial en développement des ventes (Business Developer) orienté IT et ERP. Bien que le cadre d'un VIE à l'international corresponde à ses attentes, les compétences métier requises sont totalement différentes.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248427](https://mon-vie-via.businessfrance.fr/offres/248427)
+
+**Description du poste**
+
+KOORTIS, société de conseil et d’intégration de systèmes d’information, recherche un Business Developer en V.I.E pour accompagner le lancement et le développement de sa filiale en Côte d’Ivoire.
+
+Vous souhaitez participer à une aventure entrepreneuriale à l’international et contribuer au développement d’une nouvelle implantation ? Cette mission vous permettra de prendre une part active à notre croissance autour des solutions SAP, Odoo et Salesforce.
+
+En lien direct avec la direction et avec l’appui de nos équipes de consultants, vous serez amené à :
+- Identifier et prospecter de nouveaux clients en Côte d’Ivoire.
+- Rencontrer les décideurs et comprendre leurs enjeux métiers et leurs besoins en systèmes d’information.
+- Développer les opportunités commerciales, de la première prise de contact à la préparation des offres.
+- Participer aux propositions commerciales et aux soutenances avec nos équipes.
+- Construire un réseau de partenaires locaux et représenter KOORTIS lors d’événements professionnels.
+- Contribuer à la structuration de l’activité commerciale et au développement de la filiale.
+Votre profil
+
+Diplômé d’un Bac+5 en école de commerce, à l’université ou en école d’ingénieurs, vous avez une réelle affinité avec l’informatique, le conseil et l’intégration de systèmes d’information.
+
+Vous aimez aller à la rencontre des clients, comprendre leurs activités et construire une relation de confiance. Curieux, organisé et autonome, vous faites preuve d’initiative et souhaitez vous investir pendant un à deux ans dans le développement d’une filiale à l’étranger.
+
+Une première expérience en développement commercial, dans le conseil ou les services numériques serait un atout. Une connaissance des solutions SAP, Odoo ou Salesforce serait également appréciée.
+
+Vous bénéficierez de l’accompagnement de la direction et de nos équipes, avec des responsabilités concrètes et la possibilité de suivre les opportunités commerciales jusqu’à leur réalisation.
+
+**Profil recherché**
+
+De formation Bac+5 en école de commerce, université ou école d’ingénieurs, vous avez une affinité avec l’informatique, le conseil et les solutions ERP/CRM. Doté d’un bon relationnel, curieux et autonome, vous souhaitez vous investir pendant 12 à 24 mois en Côte d’Ivoire pour contribuer au développement commercial d’une nouvelle filiale. Une première expérience commerciale et une connaissance de SAP, Odoo ou Salesforce seraient appréciées.
+
+</details>
+
+<details>
+<summary><strong>Attaché(e) économique (H/F)</strong> · DIRECTION GENERALE DU TRESOR · TACHKENT, OUZBEKISTAN · 2 703,22 €/mois</summary>
+
+- **Entreprise :** DIRECTION GENERALE DU TRESOR
+- **Lieu :** TACHKENT, OUZBEKISTAN
+- **Indemnité :** 2 703,22 €/mois
+- **Durée de la mission :** 24 mois (Du 1 mars 2027 au 1 mars 2029)
+- **Publiée le :** 23/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion opérationnel en entreprise, alors que l'offre de la DG Trésor relève de la macroéconomie, des finances publiques et de la diplomatie économique en institution. Bien que sa formation financière soit un atout, l'absence de compétences en économie publique et la non-maîtrise du russe demandée constituent des écarts notables.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248421](https://mon-vie-via.businessfrance.fr/offres/248421)
+
+**Description du poste**
+
+PRESENTATION DU SER : 
+Le Service économique régional de Tachkent est un service de la direction générale du Trésor du ministère de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique.
+Compétent pour l’Ouzbékistan, le Turkménistan, le Tadjikistan, le Kazakhstan et le Kirghizstan, il assure le suivi des relations économiques entre la France et ces 5 Etats, en liaison avec le service économique d’Astana. Il exerce sa mission au sein de l’ambassade de France en Ouzbékistan.
+
+Le Service économique régional analyse la situation macroéconomique et financière des pays de la zone et les projets des institutions financières internationales et régionales. Il relaye les positions françaises économiques auprès des autorités de ces pays. Il coordonne, à l’échelle de la région, le suivi des politiques économiques des Etats de la zone et des grands projets d’entreprises françaises. Il anime la communauté d’affaires française et assure la coordination dans la région des membres de la Team France Export (chambres de commerce françaises, Business France, conseillers du commerce extérieur).
+
+Le service économique régional est composé d’un chef de service, d’un conseiller financier, adjoint au chef de service, d’un agent de droit local et d’un VIA.
+
+Il exerce ses missions sous l’autorité de la direction générale du Trésor et des ambassadeurs de France des pays de la zone. Il travaille notamment en étroite collaboration avec le Service des affaires bilatérales et de l'internationalisation des entreprises et le service des affaires multilatérales et du développement de la DG Trésor, les chefs de services de l’ambassade de France en Ouzbékistan, le bureau de l’AFD et la CCI française de Tachkent, le bureau de Business France à Almaty, le comité des conseillers du commerce extérieur de l’Asie centrale du sud et les représentants des entreprises françaises dans la zone.
+
+
+MISSION ET ATTRIBUTIONS DU VIA : (contexte, hiérarchie, secteurs concernés, tâches spécifiques)
+Sous l’autorité du Chef de service économique régional et de son adjoint, l’attaché économique contribuera aux missions suivantes : 
+-	Macroéconomie, finances publiques, politiques économiques sectorielles publiques des 5 pays de la zone : rédaction de notes d’analyse, de préparation et de suivi d’entretiens ;
+-	Aide au développement : analyse de projet, rédaction d’avis ;
+-	Développement international des entreprises françaises : suivi des prospects et projets, organisation de mission (exemple : délégation du MEDEF International en juin 2026 ; envoyé spécial pour la ville durable en octobre 2026), appui à l’animation de la communauté d’affaires française en Ouzbékistan ; suivi des instruments financiers public de soutien à l’export ;
+-	Correspondant informatique local (CIL) en charge du support informatique en lien avec les services de la DG Trésor ;
+
+COMPETENCES REQUISES : (qualités et connaissances spécifiques, langues…)
+Compétences requises :
+-	Capacité à analyser l’information macroéconomique et financière ;
+-	Qualités rédactionnelles, esprit de synthèse ; 
+-	Capacités à travailler, le cas échéant dans l’urgence et en autonomie (réactivité et flexibilité dans le traitement de commandes) ; 
+-	Capacités organisationnelles/logistiques ;
+-	Sens du relationnel et capacité à interagir avec des interlocuteurs économiques (entreprises, financiers, agences de développement et bailleurs de fonds) et institutionnels (services, ministères, autorités locales) ;
+-	Compétences linguistiques : un niveau B2 de russe sera un avantage ;
+
+Les agents de la DG TRESOR partagent les valeurs d’ouverture, de loyauté, d’engagement et esprit d'équipe.
+
+
+DIVERS :
+Hébergement : non fourni ; un logement temporaire au sein de l’ambassade peut être mis à disposition du/de la VIA à son arrivée pour une durée limitée (de l’ordre de dix jours), sous réserve de disponibilité ;
+compter 750 USD/mois pour un appartement de 70 m² en centre-ville
+
+Sécurité, conditions sanitaires :
+- Bonnes conditions de sécurité, à l’exclusion de la sécurité routière ;
+- Qualité de l’air à Tachkent pouvant être médiocre (pollution, poussière) ;
+- Infrastructure médicale internationale (clinique internationale de Tachkent ;
+- Climat continental et semi-aride : été long (en général de mai à fin septembre, avec un pic chaud et sec en juin-jullet-aout), hiver modéré (des vagues de froid peuvent se produire mais limitées dans le temps) ;
+
+PROFIL RECHERCHE (formation, diplômes) :
+Diplômé(e) en économie (niveau Master 2), d’un institut d’études politiques, d’une école de commerce ou titulaire d’un diplôme universitaire validant une formation en économie, finances, commerce international ou relations internationales.
+Adaptabilité, sens du relationnel.
+
+**Profil recherché**
+
+MISSION ET ATTRIBUTIONS DU VIA : 
+Sous l’autorité du Chef de service économique régional et de son adjoint, l’attaché économique contribuera aux missions suivantes : 
+-	Macroéconomie, finances publiques, politiques économiques sectorielles publiques des 5 pays de la zone : rédaction de notes d’analyse, de préparation et de suivi d’entretiens ;
+-	Aide au développement : analyse de projet, rédaction d’avis ;
+-	Développement international des entreprises françaises : suivi des prospects et projets, organisation de mission (exemple : délégation du MEDEF International en juin 2026 ; envoyé spécial pour la ville durable en octobre 2026), appui à l’animation de la communauté d’affaires française en Ouzbékistan ; suivi des instruments financiers public de soutien à l’export ;
+-	Correspondant informatique local (CIL) en charge du support informatique en lien avec les services de la DG Trésor ;
+
+COMPETENCES REQUISES : 
+-	Capacité à analyser l’information macroéconomique et financière ;
+-	Qualités rédactionnelles, esprit de synthèse ; 
+-	Capacités à travailler, le cas échéant dans l’urgence et en autonomie (réactivité et flexibilité dans le traitement de commandes) ; 
+-	Capacités organisationnelles/logistiques ;
+-	Sens du relationnel et capacité à interagir avec des interlocuteurs économiques (entreprises, financiers, agences de développement et bailleurs de fonds) et institutionnels (services, ministères, autorités locales) ;
+-	Compétences linguistiques : un niveau B2 de russe sera un avantage ;
+
+Les agents de la DG TRESOR partagent les valeurs d’ouverture, de loyauté, d’engagement et esprit d'équipe.
+
+PROFIL RECHERCHE :
+Diplômé(e) en économie (niveau Master 2), d’un institut d’études politiques, d’une école de commerce ou titulaire d’un diplôme universitaire validant une formation en économie, finances, commerce international ou relations internationales.
+Adaptabilité, sens du relationnel.
+
+</details>
 
 <details>
 <summary><strong>COLLABORATEUR COMPTABLE (H/F)</strong> · 01 ACCOUNTING SERVICES · LA VALETTE, MALTE · 2 225,20 €/mois</summary>
