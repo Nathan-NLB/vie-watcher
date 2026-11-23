@@ -1277,44 +1277,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "7",
-      "8",
-      "109",
-      "313"
+      "[\"6\",\"7\",\"8\",\"109\",\"313\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "313",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce de luxe",
-        "specializationLabelEn": "Commerce de luxe"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Depuis 1867, la Manufacture Pinton perpétue la tradition de la tapisserie d'Aubusson et participe à son renouveau sur la scène de l'art contemporain. Reconnue dans l'art, la décoration d'intérieur et le luxe, l'entreprise familiale a constitué un groupe textile unique (Manufacture Royale d'Aubusson, Tissage des Flandres, MyDiTex, nouvelle manufacture de tapis tuftés main en Creuse). Ses créations habillent galeries d'art, résidences privées, hôtels et boutiques de luxe à travers le monde.\n\nLe groupe ouvre son marché américain et développe sa filiale Pinton Inc., basée à New York. Rattaché(e) directement au Directeur Général de Pinton Inc., vous serez son bras droit sur un marché en pleine structuration, avec des responsabilités concrètes et une grande autonomie dès le premier jour.\n\n1. Développement commercial (environ 60 %)\n- Développer la présence de l'entreprise aux États-Unis et au Canada : études de marché, prospection de clients et distributeurs, salons professionnels, tournées commerciales.\n- Prospecter et détecter des projets auprès des architectes et designers d'intérieur, showrooms design, galeries d'art et acteurs de l'hospitality (hôtellerie, restauration, retail et boutiques de luxe).\n- Déployer des campagnes de prospection multicanales, qualifier les leads et suivre le pipeline commercial.\n- Présenter les produits et savoir-faire, adapter le discours au marché américain et conduire les négociations jusqu'à la signature.\n- Assister le Directeur Général dans la prospection et la gestion de la relation client.\n- Mettre en place des outils de prospection et de pilotage (CRM, bases de données, tableaux de bord Excel, outils d'IA, supports de présentation et marketing).\n\n2. Gestion de projets et coordination production (environ 20 %)\n- Suivre les projets clients de la commande à la livraison : tapisseries, tapis, moquettes et tissus.\n- Faire le relais entre les clients nord-américains et les équipes de production et de logistique en France, en Europe et en Asie : cahiers des charges, délais, contrôle qualité, expérience client.\n- En coordination avec l'équipe ADV France, faciliter la logistique vers les États-Unis et le Canada : transport, formalités d'importation, suivi des installations.\n- Tenir à jour les plannings de production et informer les clients de l'avancement de leurs projets.\n\n3. Administration et office management (environ 20 %)\n- Préparer le reporting commercial et financier destiné à la direction générale du groupe.\n- Contribuer à la gestion administrative de la filiale avec l'équipe France : devis, facturation, suivi des paiements et relances.\n- Participer à l'organisation du bureau et, à terme, du showroom de New York : fournisseurs, prestataires, échantillons, accueil des clients.\n- Contribuer à l'organisation d'événements locaux (salons, présentations, opérations marketing) avec les équipes marketing et communication du groupe.\n\nDéplacements à prévoir aux États-Unis et au Canada. Télétravail partiel possible.\n\nCandidature : CV et lettre de motivation en français et en anglais, référence « VIE - Responsable Commercial et Administratif - New York ».",
     "creationDate": "2026-11-16T11:53:41Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -2201,16 +2166,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Nexans is a global electrification player, with around 10,000 employees in 39 countries and €7.1 billion in standard sales in 2024. The Group has committed to a Net-Zero 2050 trajectory and is organized around four business areas. As part of its strategy to accelerate electrification through technology solutions, Nexans requires timely, reliable financial and operational analysis to deliver profitable growth. The FP&A function plays a central role in this: providing insight, supporting strategic decisions, strengthening financial discipline and driving operational excellence.\n\nWithin the Nexans Australia Finance team, based in Melbourne, the V.I.E will contribute to financial planning, forecasting, performance analysis, management reporting and process improvement in a complex industrial and manufacturing environment. The role works closely with the Finance Director Oceania and FP&A leadership, and partners with Sales, Supply Chain and Operations to connect financial performance with the underlying commercial and operational drivers. It supports the business in understanding what is driving performance, where risks and opportunities are emerging and what actions may be required, with exposure to the wider Oceania, APAC and Group finance network.\n\nMissions include supporting the monthly closing, forecasting, annual budget and strategic planning cycles; building an integrated view of P&L, cash flow, working capital and fixed costs, and explaining variances versus budget, forecast and prior year; performing root-cause analysis of performance drivers (volume, price, mix, productivity, inventory, sourcing, headcount, spend); preparing Business Review packs, financial bridges, management commentary and PowerPoint presentations for the Finance Director and leadership team; maintaining reconciliations and data consistency across SAP, HFM or other consolidation tools, Excel models, Power BI dashboards and local reporting sources; supporting scenario and sensitivity analysis, constructively challenging assumptions and highlighting risks, opportunities and recommended actions; developing and automating recurring dashboards and reports in Excel and Power BI; contributing to balance-sheet reviews, internal controls and audit support; delivering ad hoc analysis, business cases and tracking of productivity and cost-out initiatives; collaborating with APAC and Group finance teams on reporting requirements, deadlines, templates and process or system improvements, including SAP-related initiatives; and documenting models, definitions and procedures to build scalable processes and reduce key-person dependency.\n\nThis 12- to 24-month assignment in Melbourne offers direct exposure to the Finance Director Oceania, FP&A leadership and senior stakeholders across Australia and the region, with hands-on responsibility across closing, forecasting, budgeting, performance analysis, business partnering and management reporting. It allows the volunteer to deepen expertise in SAP-enabled finance processes, Power BI, automation, financial modelling and operational performance management, within a multicultural and matrixed organization spanning Australia, New Zealand, APAC and the Group.",
     "creationDate": "2026-11-12T17:37:20Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -5320,76 +5278,6 @@
     "socialReach": false,
     "idMotifDesactivationOffre": 0,
     "contactEmail": "emmanuelle.rieuf@heetch.com",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
-    "dateCandidature": null
-  },
-  {
-    "id": 247125,
-    "organizationName": "B.G.",
-    "missionTitle": "Business Analyst (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "500",
-    "effectifConso": "500",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "BRUXELLES",
-    "cityNameEn": "BRUXELLES",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "320"
-    ],
-    "specializations": [
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
-    "missionDescription": "Au sein des départements Back Office et Trésorerie, le Business Analyst sera rattaché fonctionnellement aux responsables des équipes concernées. Cette mission lui permettra d’acquérir une vision transverse des activités financières et de trésorerie du Groupe, tout en contribuant à la transformation et à l’amélioration des processus existants. Il participera à la conception, à la refonte et à l’automatisation des reportings financiers et des outils d’aide à la décision, principalement sous Power BI et Excel. Ces outils couvriront notamment le suivi du cash pooling, des prévisions de trésorerie, des paiements, de l’endettement Groupe et des risques financiers.",
-    "creationDate": "2026-10-15T15:55:32Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-11-04T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-12-04T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "-  niveau d'étude : Bac + 4/5\n- filière d'étude : Finance / Ecole de commerce / Gestion\n- expérience : débutant /Une 1ère expérience en finance serait un atout\n- domaine de compétences : Reportings financiers / Analyse financière / Finance / Trésorerie\n- niveau linguistique : Français, anglais courant.\n- compétences professionnelles : Finance de marché, finance corporate, dérivés financiers, trésorerie, automatisation, promptage IA, data management.\n- compétences personnelles : Sociable, curieux, rigoureux, team-player.\n- logiciels bureautiques : Suite Office, Power Query, Power-BI, langage programmation (i.e DAX, M, VBA), IA.",
-    "countryId": "BE",
-    "countryName": "BELGIQUE",
-    "countryNameEn": "BELGIUM",
-    "reference": "VIE247125",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Charlotte FESLER",
-    "indemnite": 2978.53,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "charlotte.fesler@savencia.com",
     "cityAffectation": "",
     "idNomenclatureSecteur": null,
     "externalJobId": "",
