@@ -738,5 +738,10 @@
     "lon": 6.0198557
   },
   "entreprise|koortis|abidjan|cote d'ivoire": null,
-  "entreprise|twyce|montreal -qc|canada": null
+  "entreprise|twyce|montreal -qc|canada": null,
+  "entreprise|nexans france|cincinnati      -oh-|etats-unis": null,
+  "ville|cincinnati      -oh-|etats-unis": {
+    "lat": 39.1012809,
+    "lon": -84.5127405
+  }
 }
