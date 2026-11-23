@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/11/2026 18:31:01**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **23/11/2026 18:45:43**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -3445,66 +3445,6 @@ Fluent in English; Italian is an advantage.
 Excellent knowledge of Excel; knowledge of SQL and Python is a plus.
 Fast learner with a proactive and entrepreneurial approach.
 Ability to multitask and manage priorities.
-
-</details>
-
-<details>
-<summary><strong>Treasury/Cash Officer (H/F)</strong> · AMARIS FRANCE SAS · PORTO, PORTUGAL · 2 677,43 €/mois</summary>
-
-- **Entreprise :** AMARIS FRANCE SAS
-- **Lieu :** PORTO, PORTUGAL
-- **Indemnité :** 2 677,43 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 06/11/2026
-- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est orienté vers le contrôle de gestion et le FP&A, alors que l'offre concerne spécifiquement la trésorerie et la gestion de caisse opérationnelle (Treasury Officer). Bien que l'anglais et la formation financière correspondent, le candidat manque d'expérience spécifique en trésorerie d'entreprise et sur les outils dédiés comme le TMS Kyriba requis pour ce poste.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247937](https://mon-vie-via.businessfrance.fr/offres/247937)
-
-**Description du poste**
-
-Job Description:
-Join our Corporate Financing & Treasury department and play a senior operational role in the day-to-day of group treasury. As Treasury Officer, you will act as the primary owner of a defined entity perimeter, ensuring the full cycle of cash — from payment preparation to banking relationship — while driving process reliability and continuous improvement. You will collaborate closely with the Head of Corporate Financing & Treasury and serve as the main point of contact for banking partners, accounting teams, and group entities within your scope.
-
-
-++Our missions:++
-Prepare and submit payment files to banks through our Treasury System (TMS)
-Monitor and maintain the group cash forecast, including daily cash position, direct debit tracking, and payment calendar
-Ensure day-to-day liquidity coverage and produce accurate short-term cash forecasts
-Ensure timely execution of all payments within the assigned entity perimeter, including suppliers, payroll, tax, and intercompany payments
-Track and resolve payment incidents by coordinating with relevant teams
-Act as the primary operational contact for banking relationship contacts within the assigned perimeter
-Attend and coordinate KYC meetings with banking partners
-Handle bank account opening and closing processes, ensuring technical connectivity is completed
-Maintain up-to-date bank mandates, user access lists, and account conventions
-Serve as the Treasury point of contact for Accounting, HR and Payroll, and supplier teams within the perimeter
-Suggest and implement process improvements to reduce manual workload and improve cash tracking accuracy
-Participate in cross-functional treasury projects and support the digital transformation of treasury operations
-Monitor and control all group banking fees, perform regular fee audits, and negotiate fee reductions where applicable
-Execute foreign exchange transactions at group level and monitor FX exposures
-Oversee surplus cash placements and identify suitable short-term investment solutions
-Maintain TMS user access lists and bank account signatory lists, ensuring compliance and accuracy
-Prepare and support internal and external audits covering the treasury perimeter
-Ensure KYC and AML compliance for all bank accounts within the perimeter
-Lead the design, implementation, and maintenance of the Treasury System (TMS), including connectivity with banks, ERPs, and payment platforms
-Oversee banking connectivity channels, including SWIFT, APIs, SFTP, and web portals, ensuring secure and reliable data and payment flows
-Configure and maintain treasury interfaces, bank account reporting, payment workflows, and electronic bank statements, including ISO 20022, MT940/MT942, and CAMT formats
-Lead connectivity projects with banks and internal stakeholders, from requirements gathering and solution design through testing, deployment, and post-go-live support
-Act as the subject-matter expert and key point of contact for Treasury, Finance, IT, banks, and external technology providers
-
-**Profil recherché**
-
-Master’s degree in Finance or equivalent; a specialised Treasury Master’s programme is a significant plus
-3 to 5 years of experience in corporate treasury, banking operations, or cash operations, including at least 2 years handling banking relationships directly
-Previous experience in a team leadership role is a significant plus
-Proficiency in Kyriba TMS is essential; advanced Excel skills and familiarity with banking platforms are required; Power BI is a plus
-Proficiency in SWIFT message formats used over SWIFTNet, including MT101, MT940, and ISO 20022 XML formats such as camt.053 and camt.086
-Fluent English and French, written and spoken
-Strong sense of ownership and accountability
-Rigour and precision
-Strong banking relationship skills
-Initiative and ownership
-Autonomy and a structured working approach
-Excellent organisational skills
-Collaborative and cross-functional mindset
 
 </details>
 
