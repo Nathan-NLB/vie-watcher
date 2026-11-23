@@ -614,5 +614,9 @@
   "248559": {
     "score": 35,
     "raison": "Le profil de Nathan est orienté vers le contrôle de gestion stratégique (FP&A) et l'industrie, alors que l'offre correspond à un poste de collaborateur comptable en cabinet axé sur la tenue de comptes, la fiscalité et la paie. De plus, l'entreprise recherche un contrat local et non un VIE, ce qui crée un double écart important."
+  },
+  "248641": {
+    "score": 45,
+    "raison": "Le candidat possède une bonne expérience en contrôle de gestion et maîtrise l'anglais, mais le poste chez Airbus exige une forte expertise en transformation financière et en déploiement de projets d'intelligence artificielle (IA/LLM), des compétences absentes de son profil."
   }
 }

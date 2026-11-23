@@ -8,11 +8,85 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **23/11/2026 13:45:41**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **23/11/2026 14:01:16**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE Finance Transformation Analyst- AI & Emerging Tech (H/F)</strong> · AIRBUS · HERNDON      -VA-, ETATS-UNIS · 3 714,31 €/mois</summary>
+
+- **Entreprise :** AIRBUS
+- **Lieu :** HERNDON      -VA-, ETATS-UNIS
+- **Indemnité :** 3 714,31 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 23/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le candidat possède une bonne expérience en contrôle de gestion et maîtrise l'anglais, mais le poste chez Airbus exige une forte expertise en transformation financière et en déploiement de projets d'intelligence artificielle (IA/LLM), des compétences absentes de son profil.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248641](https://mon-vie-via.businessfrance.fr/offres/248641)
+
+**Description du poste**
+
+Job Summary: 
+
+
+
+Reporting to the Head of Finance Transformation North America, the VIE Finance Transformation Analyst- AI & Emerging Tech is a high-impact, forward-looking role designed to lead the integration of Artificial Intelligence within the Finance function.
+
+As the AI lead for the US Finance Transformation team, the incumbent is responsible for enforcing standard Airbus Finance Transformation Strategies while pioneering "Agentic Finance"—the use of AI agents, Large Language Models (LLMs), and machine learning to automate complex workflows. This role transcends traditional reporting, focusing on building the Future of Finance by identifying, developing, and scaling AI use cases that drive operational excellence across North America.
+
+
+
+The person will also be responsible for ensuring that the company’s financial systems and processes comply with relevant laws and regulations and plays a critical role in maintaining the integrity and legal compliance of the financial operations.
+
+They will ensure the full lifecycle of projects by following the Airbus project management methodology and will be responsible for delivering the solutions through to entry into service. This role will interact with all the Airbus Functions including Procurement, Digital, Customer Services, Logistic, Production, Human-Resources and with multiple Stakeholders.
+
+**Profil recherché**
+
+Required
+
+Bachelor's Degree in Finance, Business Analytics, Accounting, Information Systems or related field of study.
+
+
+
+Preferred
+
+A Master's degree is highly preferred.
+
+
+
+Experience:
+
+Required
+
+2–5 years of experience in Finance or Accounting. 
+
+Proven experience in financial analysis combined with a strong background in implementing transformation and AI-driven projects.
+
+You must deeply understand the "Why" behind the numbers before you can automate the "How."
+
+
+
+Qualified Skills:  
+
+
+
+Lifecycle Management: Manage global rollouts, system upgrades, and high-level support for finance transformation throughout the project lifecycle.
+
+Financial Closing: Facilitate seamless Year-end and Period-end closing activities, empowering end-users to execute complex tasks and reporting.
+
+Problem Solving & RCA: Lead Root Cause Analysis (RCA), After-Action Reviews (AAR), and Post-Implementation Reviews to address outcomes and drive continuous process improvement.
+
+User Enablement: Conduct extensive training sessions and author comprehensive user manuals and documentation for business stakeholders.
+
+Data Synthesis: Apply advanced analytical reasoning to prioritize high-volume data and develop strategic, multi-scenario solutions.
+Analytical abilities 
+Communicate clearly
+Accountability and can take personal ownership 
+Growth mindset
+You are a progressive thinker and strong problem-solver
+
+</details>
 
 <details>
 <summary><strong>FP&A Analyst (H/F)</strong> · KYKA GROUP · MOKA, MAURICE · 1 879,79 €/mois</summary>
