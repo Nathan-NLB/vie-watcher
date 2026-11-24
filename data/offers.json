@@ -1802,23 +1802,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "202"
+      "[\"180\",\"202\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Location: Cologne (priority) or Berlin, Germany\n\nContext\n \nENGIE is a global benchmark in low-carbon energy and services. Its energy management business, Global Energy Management & Sales, has built its know-how over 20+ years on a vast and diversified asset portfolio. Our 3,300 employees work across 20+ international sales platforms. They cover the entire energy mix: renewable and thermal energy, natural gas and LNG, biomass and environmental products.\n \nOur 120,000 customers include producers, asset developers, financial players, utilities, distributors and manufacturers. We support them with four areas of expertise: asset management, energy transition services, energy and commodities trading, and risk management and market access.\n \nThe B2B division provides energy supply solutions and risk management services. They support customers in their decarbonization journey, optimize ENGIE's assets and create value.\n \nBP Germany is a fast-growing business platform with strong ambitions in renewables, and it leads the Group's carbon neutrality objective. It rests on three pillars: renewables, market access and supply, and optimization of generation assets.\n \nThe Back Office team ensures correct invoicing and post-trade control for all BP Germany customers.\n \nYour Mission\n \nAs VIE Contract Manager, you will report to the Head of the BO team and have no management responsibilities.\nYou will:\n \nManage energy supply contracts. You will build a thorough understanding of each contract, identify the right invoicing scheme and assess the impact on the invoicing and accounting chain.\nLearn the operational invoicing tasks alongside the team.\nMaintain and improve the invoicing tools (currently Excel and VBA).\nTake part in the team's project to digitalize invoicing with Dataiku and Python.\nMake sure the contractual terms match the booking, and manage the day-to-day contract lifecycle.\nWork with the internal teams: Front Office (trading and origination), Customer Support, Legal, Credit and Risk, Compliance and other KYC teams. You will also deal with external counterparties.\n \nDepending on your performance, you may also:\n \nJoin the migration of invoicing to a global tool. You would work with IT teams, provide guidance, and test and validate deliveries.\nManage disputes with counterparties, with input from internal stakeholders.\nSupport Front Office, Sales, Tax and Legal on deal origination and renegotiation.",
     "creationDate": "2026-11-13T11:12:07Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -6982,16 +6968,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5"
+      "[\"5\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Within CACEIS, the General Inspection function is an integral part of the internal control framework. General Inspection is a single business line bringing together teams based in Paris, Ireland, Luxembourg, Munich, Milan, Amsterdam, Kuala Lumpur and Madrid. It conducts periodic control missions within CACEIS. These missions aim to ensure that external and internal rules are complied with, to assess the level of risk management and operational effectiveness of processes within the Bank. General Inspection identifies areas for improvement and issues recommendations for action in the inspection report published at the end of each mission. It then monitors their complete and timely implementation throughout the year.\n\nIn this context, the VIE will join the General Inspection team of CACEIS Bank Ireland Branch to carry out Group missions, working with a team junior and experienced staff located internationally (France, Ireland, Luxembourg, Germany, the Netherlands, Spain, Italy, Malaysia).\n\nYour missions\nYou will be an integral part of the General Inspection team as a VIE and will contribute to missions carried out in Ireland and abroad, under the supervision of a lead inspector.\n\nYou will be involved in the entire audit process, from the planning phase through to the issuance of the audit report. In this context, you will be in position to: \n-\tParticipate and lead initial meetings with auditees to define the scope of work, performing investigation tests in line with internal audit methodologies, drafting documented reports and travels to other CACEIS locations abroad. \n-\tContribute to the preparation of recommendations designed to strengthen the Bank’s internal control framework and to the follow up of these recommendations, ensuring that the risk mitigation measures identified during the missions are fully and timely implemented.\n-\tPrepare Internal Audit reporting and related documentation for local management and relevant governance committees, supporting clear communication of key findings, risks and recommended actions.\n-\tSupport and lead discussion of the results with both auditees and the managers in a clear and convincing manner.\n-\tBe part of the continuous audit monitoring process at local level, supporting the General Inspection team\n\nThis role provides an opportunity to develop auditing expertise and risk management, through the application of the audit methodology to abroad range of business line and support functions across the bank, fostering specialized knowledge in areas such as asset servicing, IT, or banking regulation.",
     "creationDate": "2026-11-04T17:06:42Z",
     "missionStartDate": "2027-02-01T00:00:00",
