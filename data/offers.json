@@ -1431,30 +1431,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9",
-      "259",
-      "318"
+      "[\"9\",\"259\",\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The Financial Analyst – Purchasing is responsible for providing financial analysis and P&L management for the Purchasing department.\r\nEssential Duties and Responsibilities\r\nMonthly Closing and Reporting for Purchasing:\r\n•\tEnsure accurate and timely monthly financial closes in compliance with IFRS standards.\r\n•\tCollaborate with the Accounting and Purchasing teams to prepare and manage accruals and journal entries.\r\n•\tIdentify and reconcile discrepancies between systems and reports.\r\n•\tProvide financial support to the Purchasing team (focused on Raw Materials, Packaging, and Fresh Apples categories).\r\n•\tDeliver insights on business performance through monthly, and annual reports, monitoring trends and budget variances.\r\n•\tTrack and analyze performance against budget, (Purchase Price Variance) P&L and related KPIs.\r\n•\tMonitor obsolescence expenses (e.g., depreciation).\r\n•\tTrack and provide insights into inventory valuation, sharing key takeaways with cross-functional teams.\r\n\r\nBudget Preparation and Forecasting\r\no\tSupport budgeting and reforecasting activities for Purchasing functions.\r\no\tProvide detailed P&L analysis and financial modeling for project-specific activities.\r\no\tBuild forecasts and estimates to assess \"year-to-go\" and landing.\r\no\tManage monthly updates on risks and opportunities in collaboration with the Purchasing department.\r\no\tOffer financial guidance to the Purchasing team in building key assumptions (e.g., standard costs, secondary costs).\r\nStrategic and Business Support\r\no\tAct as a business partner to drive continuous performance improvement and savings validation.\r\no\tSupport strategic projects to updates financial KPIs (Savings, free cash flow impact, ROIs).\r\no\tSupport Private Label sales team in providing P&L and costings.\r\nTools, Systems, and Process Optimization\r\no\tDevelop efficient methods to reduce manual work and enhance collaboration using tools like Power Query and Power BI.\r\no\tCollaborate with the IT team to establish a consistent and accurate data hub to expedite month-end closing.\r\no\tStreamline internal controls processes and workflows using tools such as Power Automate and Approvals. \r\no\tSupport projects to improve cost tracking in production ERP (VIF).\r\no\tDevelop or revamp existing worksheet to augment automation efficiency.",
     "creationDate": "2026-11-17T09:14:21Z",
     "missionStartDate": "2027-03-01T00:00:00",
