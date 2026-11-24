@@ -630,5 +630,9 @@
   "248702": {
     "score": 75,
     "raison": "Le profil académique et l'expérience en contrôle de gestion de Nathan correspondent bien aux attentes financières du poste, et sa maîtrise de l'anglais et du français est un atout fort. Cependant, l'offre cible spécifiquement le crédit management (comptabilité clients) et exige la maîtrise de SAP, un outil non mentionné dans son parcours."
+  },
+  "248720": {
+    "score": 10,
+    "raison": "Le profil du candidat est orienté vers le contrôle de gestion financier (FP&A) et la comptabilité, tandis que l'offre recherche un Data Scientist / Actuaire spécialisé en modélisation statistique et programmation. Il y a un décalage majeur entre les compétences requises en science des données et le parcours en gestion du candidat."
   }
 }

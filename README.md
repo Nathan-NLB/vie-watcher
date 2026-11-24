@@ -8,11 +8,61 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/11/2026 17:31:01**, 97 offre(s) actuellement en ligne.
+Dernière vérification : **24/11/2026 17:45:50**, 98 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>L&H Actuarial Data Scientist (H/F)</strong> · SCOR SE · SINGAPOUR, SINGAPOUR · 4 063,89 €/mois</summary>
+
+- **Entreprise :** SCOR SE
+- **Lieu :** SINGAPOUR, SINGAPOUR
+- **Indemnité :** 4 063,89 €/mois
+- **Durée de la mission :** 12 mois (Du 1 avr. 2027 au 1 avr. 2028)
+- **Publiée le :** 24/11/2026
+- **Compatibilité avec ton profil :** 10 % — Le profil du candidat est orienté vers le contrôle de gestion financier (FP&A) et la comptabilité, tandis que l'offre recherche un Data Scientist / Actuaire spécialisé en modélisation statistique et programmation. Il y a un décalage majeur entre les compétences requises en science des données et le parcours en gestion du candidat.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248720](https://mon-vie-via.businessfrance.fr/offres/248720)
+
+**Description du poste**
+
+The L&H Actuarial Data Scientist applies statistical modelling, predictive analytics, AI and automation to solve Life & Health insurance and reinsurance challenges. The role focuses on translating business and actuarial questions into robust analytical solutions that support pricing, underwriting, experience analysis, assumption setting, portfolio management, and decision-making. 
+Working within a cross-functional team of actuaries, underwriters, data scientists and technology colleagues, the successful candidate will contribute hands-on to regional and global initiatives. These include predictive-modelling projects as well as the redesign and augmentation of insurance workflows through automation, AI-assisted decision support and advanced analytical solutions. The objective is not only to develop models, but also to embed analytical capabilities into business processes to improve efficiency, consistency and decision-making.
+
+Approach
+	Support Life & Health business activities in the APAC region but also globally.
+	Develop and apply statistical, predictive and machine-learning models to support Life & Health insurance and reinsurance activities, translating analytical results into actionable business insights and recommendations.
+	Demonstrate autonomy in selecting appropriate methodologies and analytical approaches based on business needs.
+	Apply coding and analytical best practices to ensure robust, reproducible and maintainable solutions.
+
+Projects
+	Be a hands-on contributor in the delivery of analytics and business transformation projects.
+	Lead or contribute to predictive modelling initiatives across pricing, underwriting, claims, experience analysis and risk assessment.
+	Contribute to the enhancement and transformation of insurance processes through advanced analytics, AI-enabled solutions and automation.
+	Collaborate closely with actuaries, underwriters, business stakeholders and technology teams to deliver practical business solutions.
+
+
+R&D
+	Collaborate with SCOR's global analytics community and contribute to research initiatives and knowledge sharing.
+	Conduct proof-of-concept work to evaluate new modelling approaches, analytical techniques and data sources.
+	Contribute to the development of analytical methodologies and best practices, including areas such as model interpretability, survival modeling,…
+
+Communication
+	Present analytical results and recommendations clearly to technical and non-technical stakeholders.
+	Produce high-quality documentation, visualizations and reports to support decision-making.
+	Contribute to training and knowledge-sharing activities within the Data Analytics community.
+
+Compliance
+	Adhere to all Information Security policies and best practices, including security awareness training and other information protection initiatives
+	Be fully compliant with GDPR and other local data protection legislation 
+	Be aware of regulatory and reputational risk when developing consumer-facing AI tools and suggest ways of mitigating these
+
+**Profil recherché**
+
+Seeking a candidate with 1-3 years of experience in predictive modelling, data science, actuarial analytics, or a related quantitative field. The role requires strong analytical and Python programming skills, experience with machine learning techniques, and the ability to translate business needs into actionable insights. An interest in Life & Health insurance is appreciated. The ideal candidate is proactive, detail-oriented, collaborative, and able to communicate complex topics to both technical and non-technical stakeholders. A Master's degree in Actuarial Science, Statistics, Mathematics, Data Science, Econometrics, or a related discipline is required. Actuarial qualifications or a PhD are a plus.
+
+</details>
 
 <details>
 <summary><strong>Credit Controller (H/F)</strong> · FERRERO FRANCE COMMERCIALE · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
