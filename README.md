@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/11/2026 16:45:47**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **24/11/2026 17:01:31**, 97 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -38,6 +38,56 @@ Nous recherchons un(e) candidat(e) titulaire d'un master en finance / comptabili
 Pour garantir une collaboration efficace avec les principales parties prenantes, vos capacités relationnelles et de communication sont essentielles.
 
 Des compétences avancées en Excel et la connaissance de base de SAP sont indispensables, ainsi que la maîtrise de l'anglais et du français.
+
+</details>
+
+<details>
+<summary><strong>VIE – Correspondant Conformité (H/F) – Italie</strong> · TOTALENERGIES SE · MILAN, ITALIE · 3 003,87 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES SE
+- **Lieu :** MILAN, ITALIE
+- **Indemnité :** 3 003,87 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 24/11/2026
+- **Compatibilité avec ton profil :** 40 % — Le profil de Nathan est fortement orienté vers le contrôle de gestion et l'analyse financière, tandis que l'offre de VIE chez TotalEnergies concerne la conformité, le droit et le contrôle interne. Bien que le candidat possède une solide expérience financière et un bon niveau d'anglais, le domaine d'activité et la spécialisation requise s'écartent significativement de son projet professionnel.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248690](https://mon-vie-via.businessfrance.fr/offres/248690)
+
+**Description du poste**
+
+Contexte et environnement
+Rejoignez notre filiale TotalEnergies à Milan, en Italie, et contribuez au déploiement du programme de conformité de la filiale.
+Vous accompagnez le Responsable conformité dans la mise en œuvre des politiques de conformité, le suivi des procédures anti-corruption et la promotion de la culture éthique au sein de l'organisation. Vous contribuez également aux activités de contrôle, de reporting et de sensibilisation des collaborateurs.
+Vérifiez votre éligibilité au programme VIE ainsi que les spécificités pays sur le site internet : https://mon-vie-via.businessfrance.fr/qu-est-ce-que-le-volontariat-international.
+Merci de candidater en anglais.
+Un logement individuel est fourni par la filiale.
+Quelques déplacements de 2 à 3 jours sont à prévoir, principalement en Italie.
+
+Vos principales missions
+Vos principales missions :
+•	Accompagner le déploiement du programme de conformité et sensibiliser les collaborateurs aux bonnes pratiques.
+•	Veiller à la conformité des due diligences des tiers selon les procédures de la compagnie et les vérifier avant validation. 
+•	Proposer des mesures de due diligence.
+•	Assurer l'utilisation des outils de due diligence et le bon archivage de la documentation.
+•	Participer à l'organisation des événements internes liés à la conformité.
+•	Préparer, animer et suivre la réalisation des formations internes en matière de conformité, avec le Responsable conformité.
+•	Apporter un soutien à l’équipe comptable dans la préparation des contrôles comptables annuels relatifs à la lutte contre la corruption.
+•	Préparer les reportings Anti-Corruption et Anti-Fraude de la filiale.
+•	Assurer le suivi des recommandations issues des audits Compliance.
+•	Participer à la campagne annuelle de déclaration des conflits d'intérêts.
+•	Assurer une veille sur les évolutions des procédures et exigences de conformité.
+
+**Profil recherché**
+
+Vous êtes diplômé d’un BAC+5 minimum (master universitaire ou école spécialisée) avec une spécialisation en droit, conformité, contrôle interne, audit ou due diligence.
+Vous bénéficiez d’une première expérience en conformité ou en contrôle interne. 
+La connaissance du cadre juridique italien constitue un atout.
+Vous maîtrisez les outils du Pack Office, notamment :
+•	Excel ;
+•	PowerPoint ;
+•	Word.
+Un niveau d’anglais B2 minimum est requis. Un niveau de français B2 minimum est également demandé. La maîtrise de l’italien constitue un atout important.
+
+La branche Exploration-Production (EP) de TotalEnergies couvre l’exploration et la production de pétrole et de gaz naturel, ainsi que les activités contribuant à la neutralité carbone. Présents dans une cinquantaine de pays, ses 9 000 collaboratrices et collaborateurs ont pour mission de produire de manière responsable les hydrocarbures dont le monde a besoin aujourd’hui tout en contribuant à la transition énergétique de la Compagnie. La branche EP agit pour réduire les émissions de gaz à effet de serre, en particulier le méthane, et améliorer la performance environnementale de ses opérations.
 
 </details>
 
