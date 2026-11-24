@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/11/2026 01:01:07**, 95 offre(s) actuellement en ligne.
+Dernière vérification : **24/11/2026 01:15:43**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -3796,10 +3796,10 @@ Intégration des marques partenaires dans les méthodes de travail de House of T
 </details>
 
 <details>
-<summary><strong>VIE ALM / STRUCTURED FUNDING SPECIALIST (H/F)</strong> · CA CONSUMER FINANCE · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+<summary><strong>VIE ALM / STRUCTURED FUNDING SPECIALIST (H/F)</strong> · CA CONSUMER FINANCE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** CA CONSUMER FINANCE
-- **Lieu :** MADRID, ESPAGNE
+- **Lieu :** BARCELONE, ESPAGNE
 - **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 05/11/2026
@@ -5211,10 +5211,10 @@ Capacité à analyser et synthétiser des données financières complexes.
 </details>
 
 <details>
-<summary><strong>VIE Finance Analyst – Management Control & Internal Consolidation Reporting (H/F)</strong> · CA CONSUMER FINANCE · MADRID, ESPAGNE · 2 688,86 €/mois</summary>
+<summary><strong>VIE Finance Analyst – Management Control & Internal Consolidation Reporting (H/F)</strong> · CA CONSUMER FINANCE · BARCELONE, ESPAGNE · 2 688,86 €/mois</summary>
 
 - **Entreprise :** CA CONSUMER FINANCE
-- **Lieu :** MADRID, ESPAGNE
+- **Lieu :** BARCELONE, ESPAGNE
 - **Indemnité :** 2 688,86 €/mois
 - **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
 - **Publiée le :** 26/10/2026
