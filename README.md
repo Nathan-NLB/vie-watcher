@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/11/2026 17:45:50**, 98 offre(s) actuellement en ligne.
+Dernière vérification : **24/11/2026 18:01:09**, 98 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -170,6 +170,99 @@ A structured, meticulous, and independent work style, as well as strong teamwork
 Strong IT skills and an interest in AI applications and digital technologies
 Proficiency in MS Office; experience with Bloomberg or programming languages is a plus
 Very good written and spoken German and English; knowledge of French is a plus
+
+</details>
+
+<details>
+<summary><strong>Analyste Trésorerie et process (H/F)</strong> · CARREFOUR MANAGEMENT · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
+
+- **Entreprise :** CARREFOUR MANAGEMENT
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 743,28 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 24/11/2026
+- **Compatibilité avec ton profil :** 82 % — Le profil de Nathan correspond fortement aux attentes techniques et financières de l'offre grâce à ses compétences avancées en Excel, Power BI, gestion du BFR et analyse de données, ainsi qu'à son solide parcours en contrôle de gestion. Les principaux écarts résident dans la spécialisation initiale en trésorerie pure et la langue du pays d'affectation (Brésil), bien que son anglais courant et sa forte agilité internationale atténuent ce décalage.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247629](https://mon-vie-via.businessfrance.fr/offres/247629)
+
+**Description du poste**
+
+V.I.E Analyste Trésorerie et process (F/H) - Brésil 
+
+📍Date : Mars 2027 
+🌎Pays : São Paulo, Brésil 
+⏱️Durée : 12 mois renouvelables (24 mois au total) 
+
+Participer à l’aventure d’un groupe en pleine transformation, ça te tente ?
+
+Créateur de l’hypermarché, deuxième distributeur mondial et premier en Europe, Carrefour reste fidèle à ses racines mais se réinvente pour permettre à chacun, chaque jour, de manger mieux : plus sain, plus local, plus responsable.
+Nos atouts pour y parvenir ? Un réseau multiformat de magasins, la création de services et d'une offre digitale de référence, une coopération renforcée avec les acteurs du monde agricole, de la chaîne alimentaire, de la Tech… et des collaborateurs passionnés, qui s’engagent, challengent leur métier et grandissent ensemble pour réussir la transition alimentaire pour tous ! 
+
+Le groupe Carrefour est également engagé dans une ambitieuse transformation pour devenir une Digital Retail Company, qui place le digital et la data au cœur de toutes ses opérations et de son modèle de création de valeur. Conçu pour développer nos futurs leaders à l’international, le V.I.E Program Talent Carrefour permet d’accéder à des missions à forte valeur ajoutée pour accompagner ton développement et accélérer la transformation de Carrefour. Nous recherchons des candidat(e)s ayant une réelle motivation et un goût prononcé pour le challenge et l’innovation !
+
+TA FILIALE :
+Depuis 50 ans, Carrefour Brésil est un pionnier de la distribution sur le marché brésilien, avec une présence quotidienne dans la vie de millions de consommateurs grâce à son vaste réseau et le défi d'améliorer la qualité des aliments à un prix accessible pour des milliers de foyers brésiliens.
+Carrefour est le premier distributeur alimentaire au Brésil, présent dans plus de 150 villes des 26 États brésiliens et dans le district fédéral. Notre réseau s'appuie sur la force de nos marques Atacadão (plus de 400 magasins), Carrefour et Sam's Club. Ces marques sont parmi les plus reconnues dans le secteur de la vente en gros et des hypermarchés au Brésil. Pour soutenir cette présence unique, nous opérons un réseau logistique puissant composé de plus de 40 centres de distribution stratégiquement répartis, garantissant l'approvisionnement de plus de 900 points de vente.
+
+Il y a cinq formats de magasins au Brésil : 
+- Cash & carry et commerce de gros (tous deux sous la marque Atacadão) 
+- Hypermarchés (sous la marque Carrefour, dont des pharmacies et stations essence)
+- Supermarchés (sous les marques Carrefour Bairro et Carrefour Market) 
+- Magasins de proximité (sous la marque Carrefour Express)
+
+TON ENVIRONNEMENT DE TRAVAIL : 
+Au sein de la Trésorerie Groupe, et plus particulièrement de l’équipe en charge de la gestion de la trésorerie et des moyens de paiement (Corporate Treasury / Cash and Means of Payment).
+Tu seras amené(e) à échanger avec :
+- Comptabilité et FP&A : Collaborer au suivi des flux financiers et à la fiabilité des données comptables et prévisionnelles.
+- Contrôle de gestion et équipes Back Office : Coordonner les opérations de trésorerie et de paiement avec les équipes opérationnelles et les centres de services.
+- Audit et contrôle interne : Contribuer à la maîtrise des risques, au respect des procédures et à la sécurisation des opérations.
+- Juridique et Fiscalité : Travailler en collaboration sur les enjeux réglementaires, contractuels et fiscaux liés aux activités de trésorerie et aux moyens de paiement.
+
+TES MISSIONS : 
+Tu seras  amené(e) à : 
+- Développer une compréhension approfondie des processus de trésorerie du Groupe Carrefour Brésil, notamment la gestion des flux de trésorerie, les placements, les prévisions financières et les instruments de couverture (hedging).
+- Soutenir le développement et l'automatisation des processus récurrents.
+- Créer des tableaux de bord et appuyer les analyses de données permettant à la direction de prendre des décisions plus rapides et plus précises sur des sujets tels que : les variations des flux de trésorerie, les charges financières, le besoin en fonds de roulement (BFR / Working capital), l'évolution et les tendances des règlements / paiements.
+
+Tes objectifs sont les suivants : 
+- Travailler avec des volumes importants de données financières, en structurant des bases d'informations fiables pour les analyses récurrentes de la Trésorerie.
+- Identifier les opportunités d'amélioration des processus existants en proposant des solutions fondées sur l'automatisation, la modélisation de données et la digitalisation.
+- Appuyer l'équipe Trésorerie dans la préparation des analyses financières et des rapports de gestion destinés à éclairer les prises de décision.
+
+AVANTAGES DU VIE TALENT PROGRAM CARREFOUR : 
+Nous rejoindre, c’est bénéficier d’un accompagnement signature : 
+- Prise en charge du voyage A/R et aide au logement.
+- Cours de langue en portugais (40h) pour t’accompagner lors de tes premiers pas. 
+- Programme de formation sur mesure pour développer tes soft et hard skills.
+- Un suivi individuel, par le Groupe et le Brésil, avec un accompagnement carrière en fin de mission.
+
+**Profil recherché**
+
+LE PROFIL :
+De formation supérieure bac+5 (M2), tu es diplômé(e) d’une école de commerce, d’ingénieurs ou d’une université avec une spécialité financière (en trésorerie est un plus).
+
+Qualités recherchées :
+
+Compétences techniques (Technical Skills) :
+- Solides capacités d'analyse et compétences quantitatives, avec la capacité de traiter de grands volumes de données financières.
+- Connaissance des concepts de trésorerie d'entreprise, notamment la gestion des flux de trésorerie, le besoin en fonds de roulement (BFR) et les moyens de paiement.
+- Expérience pratique des outils d'analyse et de visualisation de données (ex. : fonctions avancées d'Excel, Power BI, Tableau ou équivalent).
+- Compréhension de base des flux de trésorerie et des moyens de paiement.
+- Connaissance de l'automatisation et de la structuration de données (ex. : VBA, Python, SQL ou outils similaires constituent un plus).
+- Capacité à structurer et maintenir des bases de données financières fiables.
+
+Compréhension financière & Business (Business & Financial Understanding) :
+- Compréhension de la finance d'entreprise et des opérations de trésorerie.
+- Capacité à traduire des données financières en enseignements stratégiques (insights) pour éclairer les prises de décision de la direction.
+
+Compétences relationnelles (Soft Skills) :
+- Capacités de résolution de problèmes et esprit critique.
+- État d'esprit proactif axé sur l'amélioration continue et l'automatisation des processus.
+- Sens de l'organisation et rigueur / souci du détail.
+- Capacité à travailler dans un environnement transversal et international.
+
+Langues : 
+Anglais : niveau courant requis
+Portugais : la maîtrise est un plus
 
 </details>
 
@@ -5136,99 +5229,6 @@ What do You have?
 • Excellent interpersonal and communication skills, both oral and written in English
 • Excellent organisation and planning skills
 • A keen ability to resolve issues and meet tight deadlines
-
-</details>
-
-<details>
-<summary><strong>Analyste Trésorerie et process (H/F)</strong> · CARREFOUR MANAGEMENT · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
-
-- **Entreprise :** CARREFOUR MANAGEMENT
-- **Lieu :** SAO PAULO, BRESIL
-- **Indemnité :** 2 743,28 €/mois
-- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
-- **Publiée le :** 28/10/2026
-- **Compatibilité avec ton profil :** 82 % — Le profil de Nathan correspond fortement aux attentes techniques et financières de l'offre grâce à ses compétences avancées en Excel, Power BI, gestion du BFR et analyse de données, ainsi qu'à son solide parcours en contrôle de gestion. Les principaux écarts résident dans la spécialisation initiale en trésorerie pure et la langue du pays d'affectation (Brésil), bien que son anglais courant et sa forte agilité internationale atténuent ce décalage.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247629](https://mon-vie-via.businessfrance.fr/offres/247629)
-
-**Description du poste**
-
-V.I.E Analyste Trésorerie et process (F/H) - Brésil 
-
-📍Date : Mars 2027 
-🌎Pays : São Paulo, Brésil 
-⏱️Durée : 12 mois renouvelables (24 mois au total) 
-
-Participer à l’aventure d’un groupe en pleine transformation, ça te tente ?
-
-Créateur de l’hypermarché, deuxième distributeur mondial et premier en Europe, Carrefour reste fidèle à ses racines mais se réinvente pour permettre à chacun, chaque jour, de manger mieux : plus sain, plus local, plus responsable.
-Nos atouts pour y parvenir ? Un réseau multiformat de magasins, la création de services et d'une offre digitale de référence, une coopération renforcée avec les acteurs du monde agricole, de la chaîne alimentaire, de la Tech… et des collaborateurs passionnés, qui s’engagent, challengent leur métier et grandissent ensemble pour réussir la transition alimentaire pour tous ! 
-
-Le groupe Carrefour est également engagé dans une ambitieuse transformation pour devenir une Digital Retail Company, qui place le digital et la data au cœur de toutes ses opérations et de son modèle de création de valeur. Conçu pour développer nos futurs leaders à l’international, le V.I.E Program Talent Carrefour permet d’accéder à des missions à forte valeur ajoutée pour accompagner ton développement et accélérer la transformation de Carrefour. Nous recherchons des candidat(e)s ayant une réelle motivation et un goût prononcé pour le challenge et l’innovation !
-
-TA FILIALE :
-Depuis 50 ans, Carrefour Brésil est un pionnier de la distribution sur le marché brésilien, avec une présence quotidienne dans la vie de millions de consommateurs grâce à son vaste réseau et le défi d'améliorer la qualité des aliments à un prix accessible pour des milliers de foyers brésiliens.
-Carrefour est le premier distributeur alimentaire au Brésil, présent dans plus de 150 villes des 26 États brésiliens et dans le district fédéral. Notre réseau s'appuie sur la force de nos marques Atacadão (plus de 400 magasins), Carrefour et Sam's Club. Ces marques sont parmi les plus reconnues dans le secteur de la vente en gros et des hypermarchés au Brésil. Pour soutenir cette présence unique, nous opérons un réseau logistique puissant composé de plus de 40 centres de distribution stratégiquement répartis, garantissant l'approvisionnement de plus de 900 points de vente.
-
-Il y a cinq formats de magasins au Brésil : 
-- Cash & carry et commerce de gros (tous deux sous la marque Atacadão) 
-- Hypermarchés (sous la marque Carrefour, dont des pharmacies et stations essence)
-- Supermarchés (sous les marques Carrefour Bairro et Carrefour Market) 
-- Magasins de proximité (sous la marque Carrefour Express)
-
-TON ENVIRONNEMENT DE TRAVAIL : 
-Au sein de la Trésorerie Groupe, et plus particulièrement de l’équipe en charge de la gestion de la trésorerie et des moyens de paiement (Corporate Treasury / Cash and Means of Payment).
-Tu seras amené(e) à échanger avec :
-- Comptabilité et FP&A : Collaborer au suivi des flux financiers et à la fiabilité des données comptables et prévisionnelles.
-- Contrôle de gestion et équipes Back Office : Coordonner les opérations de trésorerie et de paiement avec les équipes opérationnelles et les centres de services.
-- Audit et contrôle interne : Contribuer à la maîtrise des risques, au respect des procédures et à la sécurisation des opérations.
-- Juridique et Fiscalité : Travailler en collaboration sur les enjeux réglementaires, contractuels et fiscaux liés aux activités de trésorerie et aux moyens de paiement.
-
-TES MISSIONS : 
-Tu seras  amené(e) à : 
-- Développer une compréhension approfondie des processus de trésorerie du Groupe Carrefour Brésil, notamment la gestion des flux de trésorerie, les placements, les prévisions financières et les instruments de couverture (hedging).
-- Soutenir le développement et l'automatisation des processus récurrents.
-- Créer des tableaux de bord et appuyer les analyses de données permettant à la direction de prendre des décisions plus rapides et plus précises sur des sujets tels que : les variations des flux de trésorerie, les charges financières, le besoin en fonds de roulement (BFR / Working capital), l'évolution et les tendances des règlements / paiements.
-
-Tes objectifs sont les suivants : 
-- Travailler avec des volumes importants de données financières, en structurant des bases d'informations fiables pour les analyses récurrentes de la Trésorerie.
-- Identifier les opportunités d'amélioration des processus existants en proposant des solutions fondées sur l'automatisation, la modélisation de données et la digitalisation.
-- Appuyer l'équipe Trésorerie dans la préparation des analyses financières et des rapports de gestion destinés à éclairer les prises de décision.
-
-AVANTAGES DU VIE TALENT PROGRAM CARREFOUR : 
-Nous rejoindre, c’est bénéficier d’un accompagnement signature : 
-- Prise en charge du voyage A/R et aide au logement.
-- Cours de langue en portugais (40h) pour t’accompagner lors de tes premiers pas. 
-- Programme de formation sur mesure pour développer tes soft et hard skills.
-- Un suivi individuel, par le Groupe et le Brésil, avec un accompagnement carrière en fin de mission.
-
-**Profil recherché**
-
-LE PROFIL :
-De formation supérieure bac+5 (M2), tu es diplômé(e) d’une école de commerce, d’ingénieurs ou d’une université avec une spécialité financière (en trésorerie est un plus).
-
-Qualités recherchées :
-
-Compétences techniques (Technical Skills) :
-- Solides capacités d'analyse et compétences quantitatives, avec la capacité de traiter de grands volumes de données financières.
-- Connaissance des concepts de trésorerie d'entreprise, notamment la gestion des flux de trésorerie, le besoin en fonds de roulement (BFR) et les moyens de paiement.
-- Expérience pratique des outils d'analyse et de visualisation de données (ex. : fonctions avancées d'Excel, Power BI, Tableau ou équivalent).
-- Compréhension de base des flux de trésorerie et des moyens de paiement.
-- Connaissance de l'automatisation et de la structuration de données (ex. : VBA, Python, SQL ou outils similaires constituent un plus).
-- Capacité à structurer et maintenir des bases de données financières fiables.
-
-Compréhension financière & Business (Business & Financial Understanding) :
-- Compréhension de la finance d'entreprise et des opérations de trésorerie.
-- Capacité à traduire des données financières en enseignements stratégiques (insights) pour éclairer les prises de décision de la direction.
-
-Compétences relationnelles (Soft Skills) :
-- Capacités de résolution de problèmes et esprit critique.
-- État d'esprit proactif axé sur l'amélioration continue et l'automatisation des processus.
-- Sens de l'organisation et rigueur / souci du détail.
-- Capacité à travailler dans un environnement transversal et international.
-
-Langues : 
-Anglais : niveau courant requis
-Portugais : la maîtrise est un plus
 
 </details>
 
