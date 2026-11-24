@@ -2635,16 +2635,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Nexans is a global electrification player, with around 10,000 employees in 39 countries and €7.1 billion in standard sales in 2024. The Group has committed to a Net-Zero 2050 trajectory and is organized around four business areas. As part of its strategy to accelerate electrification through technology solutions, Nexans requires timely, reliable financial and operational analysis to deliver profitable growth. The FP&A function plays a central role in this: providing insight, supporting strategic decisions, strengthening financial discipline and driving operational excellence.\n\nWithin the Nexans Australia Finance team, based in Melbourne, the V.I.E will contribute to financial planning, forecasting, performance analysis, management reporting and process improvement in a complex industrial and manufacturing environment. The role works closely with the Finance Director Oceania and FP&A leadership, and partners with Sales, Supply Chain and Operations to connect financial performance with the underlying commercial and operational drivers. It supports the business in understanding what is driving performance, where risks and opportunities are emerging and what actions may be required, with exposure to the wider Oceania, APAC and Group finance network.\n\nMissions include supporting the monthly closing, forecasting, annual budget and strategic planning cycles; building an integrated view of P&L, cash flow, working capital and fixed costs, and explaining variances versus budget, forecast and prior year; performing root-cause analysis of performance drivers (volume, price, mix, productivity, inventory, sourcing, headcount, spend); preparing Business Review packs, financial bridges, management commentary and PowerPoint presentations for the Finance Director and leadership team; maintaining reconciliations and data consistency across SAP, HFM or other consolidation tools, Excel models, Power BI dashboards and local reporting sources; supporting scenario and sensitivity analysis, constructively challenging assumptions and highlighting risks, opportunities and recommended actions; developing and automating recurring dashboards and reports in Excel and Power BI; contributing to balance-sheet reviews, internal controls and audit support; delivering ad hoc analysis, business cases and tracking of productivity and cost-out initiatives; collaborating with APAC and Group finance teams on reporting requirements, deadlines, templates and process or system improvements, including SAP-related initiatives; and documenting models, definitions and procedures to build scalable processes and reduce key-person dependency.\n\nThis 12- to 24-month assignment in Melbourne offers direct exposure to the Finance Director Oceania, FP&A leadership and senior stakeholders across Australia and the region, with hands-on responsibility across closing, forecasting, budgeting, performance analysis, business partnering and management reporting. It allows the volunteer to deepen expertise in SAP-enabled finance processes, Power BI, automation, financial modelling and operational performance management, within a multicultural and matrixed organization spanning Australia, New Zealand, APAC and the Group.",
     "creationDate": "2026-11-12T17:37:20Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -3657,16 +3650,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Envie de lancer votre carrière dans un environnement international et stimulant ?\n Rejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 LE CONTEXTE\nAu sein de l’équipe Finance de SII Allemagne, basée à Augsburg, vous accompagnez la transformation de la fonction finance.\nVotre objectif : réduire les tâches manuelles, automatiser les processus et améliorer la qualité des données, notamment grâce à Power BI et à l’IA. Vous travaillez en lien étroit avec le contrôle de gestion interne.\nLe poste sera basé à Augsburg, de préférence. Un poste basé à Munich est également possible, avec au moins un jour par semaine sur site à Augsbourg (à environ une heure de route de Munich).\n\n🎯 VOS MISSIONS\n1. Optimisation des processus finance\n· Améliorer les processus dans l’ERP IFS.\n· Optimiser les processus comptables.\n· Documenter et standardiser les procédures.\n\n2. Automatisation et reporting\n· Automatiser les contrôles financiers et les tâches manuelles liées au processus de clôture, en s'appuyant sur des outils tels que l'IA, Power Automate, etc.\n· Développer les outils de reporting et de pilotage sous Power BI et Microsoft Fabric.\n\n3. Qualité des données\n· Garantir la qualité et la cohérence des données entre les outils (HubSpot et outils internes).\n· [Mettre en place des contrôles de cohérence automatisés.]",
     "creationDate": "2026-11-12T12:30:52Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -4350,37 +4336,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259",
-      "318",
-      "320",
-      "322"
+      "[\"259\",\"318\",\"320\",\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Leading French independent pharmaceutical Company, specialised in ethical medicinal products. 92% of Servier’s sales are achieved internationally, with several subsidiary companies abroad. We are looking for V.I.E’s, for our subsidiary in ARGENTINA\nDescription of the mission: \n\tCentralized Management: Single point of contact for all procurement activities for the Argentina affiliate.\n\tSourcing & Negotiation: Lead bidding processes (RFQs/RFPs) and negotiate contracts to optimize costs and quality.\n\tSupplier Relationship Management (SRM): Evaluate risks and monitor the performance of strategic suppliers.\n\tBusiness Partnership: Advise internal departments (Finance, Marketing, Medical, etc.) on their specific procurement needs.\n\tCompliance & Reporting: Ensure adherence to global policies and report key performance indicators (KPIs).\n\nDuration of the mission: 12 months renewable",
     "creationDate": "2026-11-09T13:36:52Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -5960,37 +5918,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9",
-      "200",
-      "259",
-      "320"
+      "[\"9\",\"200\",\"259\",\"320\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Reporting directly to the Group CFO and working closely with the country BU Directors, the V.I.E will support Finance & Administration (F&A) activities for our Mexico and São Paulo subsidiaries.\r\n \r\nBased in our Mexico City office, the V.I.E will also provide remote support for activities related to São Paulo. The mission will mainly cover the following areas:\r\n \r\n1) FINANCE COORDINATION & SUPPORT\r\n•\tWork closely with the Finance teams in Mexico and São Paulo and facilitate coordination with Group Finance.\r\n•\tLiaise with external accounting providers regarding annual financial statements, tax declarations and other accounting matters.\r\n•\tSupport the coordination and preparation of information required for annual audits.\r\n•\tFacilitate communication between local teams, external providers and Corporate F&A.\r\n \r\n2) REPORTING & CONTROL\r\n•\tPrepare financial reporting and analysis for monthly closing, forecasting and planning.\r\n•\tPerform consistency checks on financial and accounting data and highlight discrepancies to the relevant local or Group stakeholders.\r\n•\tSupport reconciliation between accounting and reporting.\r\n•\tPrepare cash-control information, including bank reconciliations, and support payment preparation and follow-up in accordance with the company’s established approval procedures.\r\n•\tSupport the implementation and monitoring of KLB policies and procedures.\r\n \r\n3) TRANSACTION SUPPORT & MONITORING\r\n•\tSupport Accounts Receivable and Accounts Payable processes, including invoice preparation, cash-collection follow-up and supplier-account monitoring.\r\n•\tCoordinate the transmission of financial information to external accountants and contribute to the review of monthly and yearly accounting deliverables.\r\n•\tReview expense documentation and flag potential discrepancies or compliance issues to the relevant responsible stakeholders.\r\n•\tSupport the preparation and follow-up of exchanges with tax administrations, under the responsibility of the relevant local or Group representatives.\r\n \r\n4) HR ADMINISTRATION SUPPORT\r\n•\tProvide administrative support for the preparation of employment documentation and the maintenance of employee files and records.\r\n•\tCoordinate the collection and transmission of information required for bi-weekly payroll processing with the external service provider.\r\n•\tSupport HR administrative processes throughout the employee lifecycle.\r\n \r\n5) CONTRACT & LEGAL SUPPORT\r\n•\tSupport the administrative review and coordination of contracts prior to signature by the authorized company representatives.\r\n•\tPrepare and compile information and documentation required for potential legal matters, in coordination with external lawyers and the relevant company representatives.\r\n•\tFacilitate follow-up between internal stakeholders and external legal advisers.\r\n \r\n6) PROJECTS & GENERAL ADMINISTRATION\r\n•\tSupport office and general administration activities, including premises, IT, insurance, company cars and mobile phones.\r\n•\tProvide support to Corporate F&A and contribute to Group projects in coordination with F&A representatives in other countries.\r\n•\tContribute to the improvement of financial and administrative processes and reporting tools.",
     "creationDate": "2026-10-27T15:07:28Z",
     "missionStartDate": "2027-03-01T00:00:00",
