@@ -8,11 +8,70 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/11/2026 11:45:39**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **24/11/2026 12:01:28**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Credit Controller (H/F)</strong> · FERRERO FRANCE COMMERCIALE · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** FERRERO FRANCE COMMERCIALE
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 24/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil académique et l'expérience en contrôle de gestion de Nathan correspondent bien aux attentes financières du poste, et sa maîtrise de l'anglais et du français est un atout fort. Cependant, l'offre cible spécifiquement le crédit management (comptabilité clients) et exige la maîtrise de SAP, un outil non mentionné dans son parcours.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248702](https://mon-vie-via.businessfrance.fr/offres/248702)
+
+**Description du poste**
+
+En tant que VIE contrôleur de crédit, vous entretenez de solides relations avec les clients en suivant et en contrôlant activement les factures et les notes de crédit en suspens. Vous analyserez les déductions, les demandes, résoudrez les problèmes, établirez des relations solides et optimiserez la communication avec les clients.
+
+En interaction avec le service clientèle, vous veillerez à ce que la facturation soit précise et ponctuelle, en enquêtant sur les problèmes liés au processus de facturation avec le service IT ou sur les litiges avec les clients. Grâce à votre capacité à anticiper les défis et à communiquer efficacement entre les équipes, les différences entre les modèles de comptabilité et de contrôle seront réduites.
+
+**Profil recherché**
+
+Nous recherchons un(e) candidat(e) titulaire d'un master en finance / comptabilité / contrôle de gestion avec une première expérience (stage, apprentissage) dans un département comptable. Une connaissance du crédit, de la facturation, des prévisions de trésorerie et de la gestion de bases de données est appréciée. Une expérience préalable dans le secteur des produits de grande consommation ou de la distribution est considérée comme un atout. Le poste requiert de solides compétences organisationnelles et analytiques ainsi qu'un état d'esprit axé sur les résultats, avec un bon équilibre entre pragmatisme et souci du détail.
+
+Pour garantir une collaboration efficace avec les principales parties prenantes, vos capacités relationnelles et de communication sont essentielles.
+
+Des compétences avancées en Excel et la connaissance de base de SAP sont indispensables, ainsi que la maîtrise de l'anglais et du français.
+
+</details>
+
+<details>
+<summary><strong>VIE Junior Portfolio Manager (H/F)</strong> · ODDO BHF SCA · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** ODDO BHF SCA
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 24/11/2026
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248657](https://mon-vie-via.businessfrance.fr/offres/248657)
+
+**Description du poste**
+
+Reviewing investment recommendations and implementing them in consultation with advisors 
+Conducting ex-ante investment limit checks, entering and forwarding orders to the group’s internal trading desks, and monitoring execution quality
+Recording and maintaining investment restrictions in accordance with client specifications, and coordinating with Risk Control regarding compliance with investment limits 
+Liquidity management for all funds
+Serving as the point of contact for onboarding new advisors and external portfolio managers in close collaboration with client relationship managers and the legal department
+Contributing to outsourcing control, particularly in monitoring outsourced portfolio management activities
+Support with regulatory and administrative tasks in day-to-day operations
+Participation in projects aimed at optimizing, digitizing, and automating processes
+
+**Profil recherché**
+
+A bachelor’s degree in economics or comparable education
+Interest in capital markets; initial experience in portfolio management or securities trading is a plus
+A structured, meticulous, and independent work style, as well as strong teamwork skills
+Strong IT skills and an interest in AI applications and digital technologies
+Proficiency in MS Office; experience with Bloomberg or programming languages is a plus
+Very good written and spoken German and English; knowledge of French is a plus
+
+</details>
 
 <details>
 <summary><strong>Consultant en contrôle de gestion, IA et BI (H/F)</strong> · PRODEVA · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>

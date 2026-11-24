@@ -622,5 +622,9 @@
   "248641": {
     "score": 45,
     "raison": "Le candidat possède une bonne expérience en contrôle de gestion et maîtrise l'anglais, mais le poste chez Airbus exige une forte expertise en transformation financière et en déploiement de projets d'intelligence artificielle (IA/LLM), des compétences absentes de son profil."
+  },
+  "248702": {
+    "score": 75,
+    "raison": "Le profil académique et l'expérience en contrôle de gestion de Nathan correspondent bien aux attentes financières du poste, et sa maîtrise de l'anglais et du français est un atout fort. Cependant, l'offre cible spécifiquement le crédit management (comptabilité clients) et exige la maîtrise de SAP, un outil non mentionné dans son parcours."
   }
 }
