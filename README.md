@@ -8,11 +8,123 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **24/11/2026 09:01:06**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **24/11/2026 09:15:44**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Consultant en contrôle de gestion, IA et BI (H/F)</strong> · PRODEVA · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** PRODEVA
+- **Lieu :** BRUXELLES, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 24/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux exigences techniques du poste avec son master en contrôle de gestion, ses deux ans d'expérience réussie et sa maîtrise d'Excel et de Power BI. Ses compétences linguistiques (anglais courant) et son autonomie s'intègrent très bien dans ce projet de VIE, même si l'offre est basée à Bruxelles plutôt qu'en Espagne.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247492](https://mon-vie-via.businessfrance.fr/offres/247492)
+
+**Description du poste**
+
+Vous avez une première expérience solide en contrôle de gestion, l'IA et les nouvelles technologies vous passionnent, et vous voulez donner une longueur d'avance à votre carrière ?
+
+Chez DataVizX, nous améliorons la performance des entreprises par des approches modernes et novatrices : tableaux de bord de nouvelle génération, agents IA, revues de gestion automatisées. Forts de notre savoir-faire, nous vous apprendrons à maîtriser ces outils à un niveau avancé, à les mettre au service de nos clients et à communiquer avec des directeurs généraux, des directeurs financiers, des directions métiers et des conseils d'administration. Votre expertise en contrôle de gestion pour socle, l'IA au cœur, les fondamentaux de la BI en appui : vous réunirez le meilleur des trois mondes.
+
+• V.I.E de 12 mois, renouvelable une fois (24 mois au maximum), à partir du 1er février 2027
+• Possibilité de CDI à l'issue du V.I.E
+• Bruxelles, dans les locaux de TotalEnergies
+• Équipement fourni : ordinateur portable, téléphone portable et tous les outils nécessaires à votre mission
+• Télétravail possible, selon des conditions à négocier après le premier mois
+
+LE POSTE
+
+Vous êtes le référent finance de nos projets, spécialiste des nouvelles technologies : vous mettez votre maîtrise du contrôle de gestion et de nos outils d'IA et de BI au service de la performance de nos clients.
+
+• Présentation et validation : vous présentez nos solutions à nos clients et vous validez avec eux, et avec nos équipes, la justesse des totaux et des indicateurs.
+• L'IA appliquée à la finance : vous utilisez l'IA au quotidien dans votre travail, vous faites la démonstration de nos solutions d'automatisation IA et d'analyse BI à nos clients et vous apportez votre regard métier pour les rendre toujours plus pertinentes.
+• Garant de la qualité : rien ne part chez un client sans votre contrôle.
+• Formateur : vous formez des équipes financières à l'IA et à la BI, en visio, dans le cadre de notre certification Qualiopi.
+• Bâtisseur : vous nous aidez à définir les indicateurs pertinents pour chaque métier, et vos idées d'analyses enrichissent nos solutions au service de tous nos clients.
+
+Vous êtes épaulé au quotidien : notre équipe technique prend en charge les développements avancés, et vous apportez la connaissance métier, le sens des chiffres et la relation client.
+
+CE QUI REND CE POSTE UNIQUE
+
+Dans un grand groupe, un V.I.E en contrôle de gestion suit souvent une seule entité et un seul reporting. Chez nous, vous travaillez pour de nombreuses entreprises, face à leurs dirigeants, avec des outils d'IA que très peu de financiers utilisent encore.
+
+De la suite Office à Power BI, en passant par une pratique maîtrisée et certifiée de l'IA, vous apprendrez à automatiser et à sécuriser les tâches de votre métier. Ce qui prend des jours à beaucoup de contrôleurs, vous saurez le faire en quelques heures, avec des chiffres vérifiés.
+
+• Une entreprise à la pointe de la technologie : assistants d'analyse multilingues, données des clients croisées avec des données publiques, une quinzaine de solutions prêtes à l'emploi, lisibles sur ordinateur, tablette et téléphone. Nous livrons un tableau de bord complet en quelques jours, là où il faut habituellement un mois.
+• Le CES de Las Vegas : après Accountex 2025 et le CES 2026, nous serons de nouveau à Las Vegas en janvier 2027. Vous pourrez nous accompagner pour l'édition 2028.
+• Le fondateur en direct : vous échangez chaque jour avec le fondateur de DataVizX et apprenez au plus près de celui qui conçoit nos solutions.
+• Des secteurs très variés : automobile, aviation, promotion immobilière, mandataires, industrie, dispositifs fiscaux, location, magasins, salles de sport, bailleurs sociaux. Vos connaissances y seront précieuses, et vous découvrirez une diversité de métiers rare en début de carrière.
+• Des missions dès votre arrivée : vous intervenez sur des projets clients dès les premières semaines, accompagné par nos équipes, puis vous gagnez rapidement en autonomie et prenez en charge votre propre portefeuille de clients. Votre formation se poursuit au fil des projets.
+• Au terme de votre mission : une triple compétence en finance, IA et BI, des certifications Claude, OpenAI, Microsoft et Sage prises en charge par DataVizX, et un profil rare, recherché par les directions financières comme par les cabinets de conseil internationaux.
+
+BRUXELLES, UN TREMPLIN EUROPÉEN
+
+• Hébergé chez TotalEnergies : grâce à notre partenariat avec le groupe, vous travaillez dans un cadre moderne et cosmopolite, au contact d'équipes du monde entier.
+• Au cœur de l'Europe : la capitale des institutions européennes, où français, néerlandais et anglais se côtoient, à quelques heures de train de Paris, Londres et Amsterdam.
+• Notre représentant en Belgique : formations, présentations, premiers clients belges, vous incarnez notre développement local.
+
+À PROPOS DE DATAVIZX
+
+Depuis 2022, DataVizX a accompagné 40 entreprises en France, en Espagne et aux Antilles. Organisme de formation certifié Qualiopi, nous intervenons auprès des directions générales et financières, de la conception de leurs tableaux de bord à l'automatisation de leurs analyses. Notre fondateur, Serge Barros Chaves, porte l'innovation de DataVizX et la relation avec nos clients.
+
+CE QUI FAIT RÉUSSIR CHEZ NOUS
+
+Nous sommes une équipe internationale et exigeante : le fondateur partage son temps entre la Guadeloupe et Bordeaux, notre équipe technique travaille en anglais. Ce que nous attendons, concrètement :
+
+• Des résultats, pas de la présence : nous jugeons sur ce qui est livré, dans les délais annoncés. Un délai est un engagement, pas une indication.
+• La rigueur : un chiffre présenté à un client est vérifié et rapproché de sa source. Un document qui part est relu, sans approximation.
+• L'initiative : face à un problème, vous cherchez, vous testez, avec nos outils d'IA en premier, et vous arrivez avec une solution plutôt qu'avec une question.
+• La transparence : chaque jour, un point écrit sur ce qui est fait, ce qui bloque et ce qui suit. Un sujet bloqué se signale le jour même, pas trois semaines plus tard.
+• L'autonomie : sans manager sur place, vous organisez vos journées, vous allez chercher l'information et vous tenez vos engagements.
+• L'exigence de qualité : nos clients reçoivent des livrables haut de gamme. Un travail « à peu près » est un travail à refaire.
+• Une image professionnelle : tenue professionnelle et caméra allumée en visio. Face à des dirigeants, vous êtes le visage de DataVizX.
+
+Ce poste n'est pas fait pour vous si vous attendez des consignes détaillées pour avancer, si vous préférez la réflexion à la livraison, ou si vous voyez la qualité comme une option.
+
+COMMENT NOUS REJOINDRE
+
+Notre processus est court et concret : il vous permet de découvrir le poste autant qu'il nous permet de vous connaître.
+
+1. Votre candidature sur la plateforme V.I.E de Business France : votre CV et une lettre de motivation qui explique en quoi votre expérience correspond au poste proposé.
+2. Un premier échange avec le fondateur : en visio, ou en personne à Bordeaux selon le calendrier.
+3. Une mise en situation sur un cas réel anonymisé : vous présentez votre analyse comme vous le feriez devant un client, puis vous la résumez par écrit.
+
+Au cours du processus, vous recevrez une démonstration de nos solutions. Chaque candidature reçoit une réponse, et notre décision est prise au plus tard fin novembre 2026.
+
+**Profil recherché**
+
+Vous avez une première expérience solide en contrôle de gestion, en audit ou en finance d'entreprise, et vous voulez la mettre au service de projets innovants. Vous savez lire un compte de résultat, analyser un écart et défendre un chiffre. L'IA et la BI vous attirent : nous vous formons à nos outils.
+
+Profils visés : contrôleur de gestion, auditeur, analyste financier, consultant en finance.
+
+Indispensable :
+• Formation en contrôle de gestion, finance ou audit (Bac+4 ou Bac+5)
+• Deux ans d'expérience dans ces métiers, alternance comprise
+• Français courant, à l'écrit comme à l'oral
+• Anglais professionnel, langue de travail de notre équipe technique
+• Excel solide
+
+Un plus :
+• Power BI ou un autre outil de BI, SQL
+• Pratique des outils d'IA
+• Espagnol, allemand, italien ou arabe
+• Expérience en cabinet de conseil ou en mission auprès de clients
+
+Votre personnalité fera la différence :
+• Rigueur : vous vérifiez chaque chiffre avant de le présenter.
+• Autonomie : vous organisez votre travail sans manager sur place et vous tenez vos délais.
+• Curiosité : vous cherchez, vous testez, vous proposez.
+• Aisance orale : vous savez présenter et convaincre face à des dirigeants.
+• Pédagogie : vous aimez transmettre et former.
+
+Poste ouvert aux candidats éligibles au V.I.E : 18 à 28 ans, ressortissants de l'Espace économique européen.
+
+</details>
 
 <details>
 <summary><strong>Coordonnateur Technique - Opérations (H/F)</strong> · TWYCE · MONTREAL -QC, CANADA · 2 649,28 €/mois</summary>
@@ -5225,118 +5337,6 @@ Cross-Functional Finance Support
 Languages
 •	Fluent English (written and spoken).
 •	French and/or Spanish would be an advantage.
-
-</details>
-
-<details>
-<summary><strong>Consultant en contrôle de gestion, IA et BI (H/F)</strong> · PRODEVA · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** PRODEVA
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 26/10/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux exigences techniques du poste avec son master en contrôle de gestion, ses deux ans d'expérience réussie et sa maîtrise d'Excel et de Power BI. Ses compétences linguistiques (anglais courant) et son autonomie s'intègrent très bien dans ce projet de VIE, même si l'offre est basée à Bruxelles plutôt qu'en Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247492](https://mon-vie-via.businessfrance.fr/offres/247492)
-
-**Description du poste**
-
-Vous avez une première expérience solide en contrôle de gestion, l'IA et les nouvelles technologies vous passionnent, et vous voulez donner une longueur d'avance à votre carrière ?
-
-Chez DataVizX, nous améliorons la performance des entreprises par des approches modernes et novatrices : tableaux de bord de nouvelle génération, agents IA, revues de gestion automatisées. Forts de notre savoir-faire, nous vous apprendrons à maîtriser ces outils à un niveau avancé, à les mettre au service de nos clients et à communiquer avec des directeurs généraux, des directeurs financiers, des directions métiers et des conseils d'administration. Votre expertise en contrôle de gestion pour socle, l'IA au cœur, les fondamentaux de la BI en appui : vous réunirez le meilleur des trois mondes.
-
-• V.I.E de 12 mois, renouvelable une fois (24 mois au maximum), à partir du 1er février 2027
-• Possibilité de CDI à l'issue du V.I.E
-• Bruxelles, dans les locaux de TotalEnergies
-• Équipement fourni : ordinateur portable, téléphone portable et tous les outils nécessaires à votre mission
-• Télétravail possible, selon des conditions à négocier après le premier mois
-
-LE POSTE
-
-Vous êtes le référent finance de nos projets, spécialiste des nouvelles technologies : vous mettez votre maîtrise du contrôle de gestion et de nos outils d'IA et de BI au service de la performance de nos clients.
-
-• Présentation et validation : vous présentez nos solutions à nos clients et vous validez avec eux, et avec nos équipes, la justesse des totaux et des indicateurs.
-• L'IA appliquée à la finance : vous utilisez l'IA au quotidien dans votre travail, vous faites la démonstration de nos solutions d'automatisation IA et d'analyse BI à nos clients et vous apportez votre regard métier pour les rendre toujours plus pertinentes.
-• Garant de la qualité : rien ne part chez un client sans votre contrôle.
-• Formateur : vous formez des équipes financières à l'IA et à la BI, en visio, dans le cadre de notre certification Qualiopi.
-• Bâtisseur : vous nous aidez à définir les indicateurs pertinents pour chaque métier, et vos idées d'analyses enrichissent nos solutions au service de tous nos clients.
-
-Vous êtes épaulé au quotidien : notre équipe technique prend en charge les développements avancés, et vous apportez la connaissance métier, le sens des chiffres et la relation client.
-
-CE QUI REND CE POSTE UNIQUE
-
-Dans un grand groupe, un V.I.E en contrôle de gestion suit souvent une seule entité et un seul reporting. Chez nous, vous travaillez pour de nombreuses entreprises, face à leurs dirigeants, avec des outils d'IA que très peu de financiers utilisent encore.
-
-De la suite Office à Power BI, en passant par une pratique maîtrisée et certifiée de l'IA, vous apprendrez à automatiser et à sécuriser les tâches de votre métier. Ce qui prend des jours à beaucoup de contrôleurs, vous saurez le faire en quelques heures, avec des chiffres vérifiés.
-
-• Une entreprise à la pointe de la technologie : assistants d'analyse multilingues, données des clients croisées avec des données publiques, une quinzaine de solutions prêtes à l'emploi, lisibles sur ordinateur, tablette et téléphone. Nous livrons un tableau de bord complet en quelques jours, là où il faut habituellement un mois.
-• Le CES de Las Vegas : après Accountex 2025 et le CES 2026, nous serons de nouveau à Las Vegas en janvier 2027. Vous pourrez nous accompagner pour l'édition 2028.
-• Le fondateur en direct : vous échangez chaque jour avec le fondateur de DataVizX et apprenez au plus près de celui qui conçoit nos solutions.
-• Des secteurs très variés : automobile, aviation, promotion immobilière, mandataires, industrie, dispositifs fiscaux, location, magasins, salles de sport, bailleurs sociaux. Vos connaissances y seront précieuses, et vous découvrirez une diversité de métiers rare en début de carrière.
-• Des missions dès votre arrivée : vous intervenez sur des projets clients dès les premières semaines, accompagné par nos équipes, puis vous gagnez rapidement en autonomie et prenez en charge votre propre portefeuille de clients. Votre formation se poursuit au fil des projets.
-• Au terme de votre mission : une triple compétence en finance, IA et BI, des certifications Claude, OpenAI, Microsoft et Sage prises en charge par DataVizX, et un profil rare, recherché par les directions financières comme par les cabinets de conseil internationaux.
-
-BRUXELLES, UN TREMPLIN EUROPÉEN
-
-• Hébergé chez TotalEnergies : grâce à notre partenariat avec le groupe, vous travaillez dans un cadre moderne et cosmopolite, au contact d'équipes du monde entier.
-• Au cœur de l'Europe : la capitale des institutions européennes, où français, néerlandais et anglais se côtoient, à quelques heures de train de Paris, Londres et Amsterdam.
-• Notre représentant en Belgique : formations, présentations, premiers clients belges, vous incarnez notre développement local.
-
-À PROPOS DE DATAVIZX
-
-Depuis 2022, DataVizX a accompagné 40 entreprises en France, en Espagne et aux Antilles. Organisme de formation certifié Qualiopi, nous intervenons auprès des directions générales et financières, de la conception de leurs tableaux de bord à l'automatisation de leurs analyses. Notre fondateur, Serge Barros Chaves, porte l'innovation de DataVizX et la relation avec nos clients.
-
-CE QUI FAIT RÉUSSIR CHEZ NOUS
-
-Nous sommes une équipe internationale et exigeante : le fondateur partage son temps entre la Guadeloupe et Bordeaux, notre équipe technique travaille en anglais. Ce que nous attendons, concrètement :
-
-• Des résultats, pas de la présence : nous jugeons sur ce qui est livré, dans les délais annoncés. Un délai est un engagement, pas une indication.
-• La rigueur : un chiffre présenté à un client est vérifié et rapproché de sa source. Un document qui part est relu, sans approximation.
-• L'initiative : face à un problème, vous cherchez, vous testez, avec nos outils d'IA en premier, et vous arrivez avec une solution plutôt qu'avec une question.
-• La transparence : chaque jour, un point écrit sur ce qui est fait, ce qui bloque et ce qui suit. Un sujet bloqué se signale le jour même, pas trois semaines plus tard.
-• L'autonomie : sans manager sur place, vous organisez vos journées, vous allez chercher l'information et vous tenez vos engagements.
-• L'exigence de qualité : nos clients reçoivent des livrables haut de gamme. Un travail « à peu près » est un travail à refaire.
-• Une image professionnelle : tenue professionnelle et caméra allumée en visio. Face à des dirigeants, vous êtes le visage de DataVizX.
-
-Ce poste n'est pas fait pour vous si vous attendez des consignes détaillées pour avancer, si vous préférez la réflexion à la livraison, ou si vous voyez la qualité comme une option.
-
-COMMENT NOUS REJOINDRE
-
-Notre processus est court et concret : il vous permet de découvrir le poste autant qu'il nous permet de vous connaître.
-
-1. Votre candidature sur la plateforme V.I.E de Business France : votre CV et une lettre de motivation qui explique en quoi votre expérience correspond au poste proposé.
-2. Un premier échange avec le fondateur : en visio, ou en personne à Bordeaux selon le calendrier.
-3. Une mise en situation sur un cas réel anonymisé : vous présentez votre analyse comme vous le feriez devant un client, puis vous la résumez par écrit.
-
-Au cours du processus, vous recevrez une démonstration de nos solutions. Chaque candidature reçoit une réponse, et notre décision est prise au plus tard fin novembre 2026.
-
-**Profil recherché**
-
-Vous avez une première expérience solide en contrôle de gestion, en audit ou en finance d'entreprise, et vous voulez la mettre au service de projets innovants. Vous savez lire un compte de résultat, analyser un écart et défendre un chiffre. L'IA et la BI vous attirent : nous vous formons à nos outils.
-
-Profils visés : contrôleur de gestion, auditeur, analyste financier, consultant en finance.
-
-Indispensable :
-• Formation en contrôle de gestion, finance ou audit (Bac+4 ou Bac+5)
-• Deux ans d'expérience dans ces métiers, alternance comprise
-• Français courant, à l'écrit comme à l'oral
-• Anglais professionnel, langue de travail de notre équipe technique
-• Excel solide
-
-Un plus :
-• Power BI ou un autre outil de BI, SQL
-• Pratique des outils d'IA
-• Espagnol, allemand, italien ou arabe
-• Expérience en cabinet de conseil ou en mission auprès de clients
-
-Votre personnalité fera la différence :
-• Rigueur : vous vérifiez chaque chiffre avant de le présenter.
-• Autonomie : vous organisez votre travail sans manager sur place et vous tenez vos délais.
-• Curiosité : vous cherchez, vous testez, vous proposez.
-• Aisance orale : vous savez présenter et convaincre face à des dirigeants.
-• Pédagogie : vous aimez transmettre et former.
-
-Poste ouvert aux candidats éligibles au V.I.E : 18 à 28 ans, ressortissants de l'Espace économique européen.
 
 </details>
 
