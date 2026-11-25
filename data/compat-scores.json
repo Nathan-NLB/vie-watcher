@@ -634,5 +634,9 @@
   "248720": {
     "score": 10,
     "raison": "Le profil du candidat est orienté vers le contrôle de gestion financier (FP&A) et la comptabilité, tandis que l'offre recherche un Data Scientist / Actuaire spécialisé en modélisation statistique et programmation. Il y a un décalage majeur entre les compétences requises en science des données et le parcours en gestion du candidat."
+  },
+  "248745": {
+    "score": 65,
+    "raison": "Nathan possède de solides compétences financières, un excellent niveau d'anglais et un espagnol B1, ce qui correspond en partie aux attentes. Cependant, son profil est orienté vers le contrôle de gestion en entreprise (FP&A) et non vers la macroéconomie pure et la diplomatie financière exigées par ce poste au Trésor."
   }
 }

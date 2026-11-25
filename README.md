@@ -8,11 +8,88 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/11/2026 10:45:44**, 98 offre(s) actuellement en ligne.
+Dernière vérification : **25/11/2026 11:01:19**, 99 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Attaché(e) financier(ière) au SER de Buenos Aires (H/F)</strong> · DIRECTION GENERALE DU TRESOR · BUENOS AIRES, ARGENTINE · 2 837,98 €/mois</summary>
+
+- **Entreprise :** DIRECTION GENERALE DU TRESOR
+- **Lieu :** BUENOS AIRES, ARGENTINE
+- **Indemnité :** 2 837,98 €/mois
+- **Durée de la mission :** 24 mois (Du 1 avr. 2027 au 1 avr. 2029)
+- **Publiée le :** 25/11/2026
+- **Compatibilité avec ton profil :** 65 % — Nathan possède de solides compétences financières, un excellent niveau d'anglais et un espagnol B1, ce qui correspond en partie aux attentes. Cependant, son profil est orienté vers le contrôle de gestion en entreprise (FP&A) et non vers la macroéconomie pure et la diplomatie financière exigées par ce poste au Trésor.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248745](https://mon-vie-via.businessfrance.fr/offres/248745)
+
+**Description du poste**
+
+Le SER de Buenos Aires a la responsabilité du suivi macroéconomique et financier des pays du cône Sud (Argentine, Chili, Uruguay et Paraguay). Il élabore des notes d’analyse sur la conjoncture économique, le risque-pays, les systèmes financiers, les problématiques monétaires et de change. Il contribue à la préparation des instructions pour nos administrateurs au sein des institutions financières internationales (principalement FMI, Banque mondiale, Banque interaméricaine de développement).
+
+Ses principaux interlocuteurs sont les ministères de l’Economie et des finances ainsi que les Banques centrales des pays dont il assure le suivi.
+
+Sous l’autorité du chef du service économique régional (CSER) et de l’adjointe, cheffe du pôle économie et finances, l’attaché financier prépare des analyses économiques et financières et assure un suivi statistique régulier et rigoureux des pays de la région.
+
+ATTRIBUTIONS :
+
+Placé(e) auprès de l’adjointe du service, conseillère financière et cheffe du pôle macroéconomique, elle-même sous l’autorité du chef du SER, le/la VIA est chargé(e) de suivre les thématiques suivantes :
+
+•	suivi de la situation macroéconomique de l’Argentine, de l’Uruguay, du Paraguay et du Chili (en lien avec le service économique de Santiago pour ce dernier) : activité économique et déterminants de la croissance ; politiques monétaire et budgétaire ; taux de change ; finances publiques ;
+•	suivi du secteur bancaire et des marchés financiers des pays de la zone : situation des banques et des institutions financières (rentabilité, liquidité, solvabilité, concentration) ; secteur de l’assurance ; évolution du crédit et du financement de l’économie ; évolution des marchés financiers (bourse, dérivés…) ;
+•	suivi du programme FMI en Argentine et des activités du FMI dans la zone ;
+•	suivi des politiques sociales : politique de lutte contre la pauvreté ; politique de l’emploi ; politique des retraites ; sécurité sociale ;
+•	réponses aux commandes ponctuelles des Ambassades de France de la zone
+
+Les principales missions qui lui seront confiées sont :
+
+•	rédaction, coordination et envoi d’une publication bi-mensuelle consacrée à des thèmes économiques et financiers ;
+•	rédaction de notes portant sur les thèmes susmentionnés ;
+•	rédaction de notes sur les échanges bilatéraux entre la France et les pays du cône Sud, sur le commerce extérieur et les IDE de ces derniers ;
+•	suivi des finances publiques argentines avec un accent sur la soutenabilité de la dette ;
+•	préparation d’avis sur les projets financés par les banques de développement dans les pays de la zone (Country Partnership Banque mondiale, projets de développement BID et Groupe de la Banque mondiale) ;
+•	rédaction d’avis sur les rapports des organisations internationales (Article IV FMI, EFF Argentine, RST Paraguay, EDR Chili) ;
+•	réalisation de présentations macroéconomiques ;
+•	gestion et alimentation des diverses bases de données statistiques utilisées par le SER : comptabilité nationale, balance des paiements, échanges extérieurs et bilatéraux (commerce et IDE) ;
+•	participation à des séminaires/colloques portant sur les questions économiques et financières ; 
+•	organisation et rencontre avec les autorités locales et économistes sur place ;
+•	participation à la politique d’outreach du service, notamment via l’alimentation du site internet ;
+•	veille presse
+
+PROFIL
+
+Master2 en économie, solides connaissances en macroéconomie et finances ; écoles de commerce, IEP, université.
+
+COMPETENCES REQUISES :
+
+•	spécialisation sur les questions macroéconomiques et financières, sanctionnée au moins par une maîtrise en économie ou équivalent 
+•	maîtrise des concepts et outils statistiques
+•	gestion de bases de données et des outils graphiques, principalement sous Excel
+•	parfaite autonomie vis-à-vis des outils informatiques, Excel, OneNote, PowerPoint
+•	capacité à travailler en équipe
+•	aptitude à travailler sous contrainte de temps
+•	solide maîtrise de l’espagnol et de l’anglais
+•	bon esprit de synthèse et de bonnes qualités rédactionnelles, ainsi que des qualités de coordination pour la réalisation de travaux communs
+•	esprit d’équipe, capacité d’adaptation et proactivité 
+
+DIVERS :
+
+•	Buenos Aires est une ville agréable, relativement sûre, dotée d’une vie culturelle riche et diversifiée. 
+•	Existence d’une offre abondante de locations, coût cependant assez élevé (proche de celui de Paris). Quartiers recommandés proche de l’ambassade (Recoleta, Palermo, Colegiales, Belgrano). 
+•	Il est relativement facile de se déplacer à l’intérieur de l’Argentine.   
+•	L’ouverture d’un compte bancaire est facilitée grâce au partenariat entre l’Ambassade de France et les banques BancoPatagonia. Système bancaire historiquement complexe (mais en nette amélioration ces dernières années) en raison du contrôle des capitaux et multiples taux de change mais il est possible d’effectuer des transferts d’argent à travers Western Union.
+•	Hormis les périodes de restrictions exceptionnelles dans les déplacements (pandémie), il est relativement facile de se déplacer à l’intérieur de l’Argentine.
+
+**Profil recherché**
+
+•	master2 en économie, solides connaissances en macroéconomie et finances ; écoles de commerce, IEP, université
+•	solide maîtrise de l’espagnol et de l’anglais
+
+Merci d'adresser VOS CV et LM UNIQUEMENT EN FRANCAIS
+
+</details>
 
 <details>
 <summary><strong>L&H Actuarial Data Scientist (H/F)</strong> · SCOR SE · SINGAPOUR, SINGAPOUR · 4 063,89 €/mois</summary>
