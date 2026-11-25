@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/11/2026 14:15:45**, 99 offre(s) actuellement en ligne.
+Dernière vérification : **25/11/2026 14:30:54**, 99 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -20,7 +20,7 @@ Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 - **Entreprise :** DIRECTION GENERALE DU TRESOR
 - **Lieu :** BUENOS AIRES, ARGENTINE
 - **Indemnité :** 2 837,98 €/mois
-- **Durée de la mission :** 24 mois (Du 1 avr. 2027 au 1 avr. 2029)
+- **Durée de la mission :** 24 mois (Du 1 mars 2027 au 1 mars 2029)
 - **Publiée le :** 25/11/2026
 - **Compatibilité avec ton profil :** 65 % — Nathan possède de solides compétences financières, un excellent niveau d'anglais et un espagnol B1, ce qui correspond en partie aux attentes. Cependant, son profil est orienté vers le contrôle de gestion en entreprise (FP&A) et non vers la macroéconomie pure et la diplomatie financière exigées par ce poste au Trésor.
 - **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248745](https://mon-vie-via.businessfrance.fr/offres/248745)
