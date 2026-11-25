@@ -4966,37 +4966,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "259",
-      "318",
-      "328"
+      "[\"6\",\"259\",\"318\",\"328\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "328",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique de Gestion",
-        "specializationLabelEn": "Informatique de Gestion"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "KOORTIS, société de conseil et d’intégration de systèmes d’information, recherche un Business Developer en V.I.E pour accompagner le lancement et le développement de sa filiale en Côte d’Ivoire.\n\nVous souhaitez participer à une aventure entrepreneuriale à l’international et contribuer au développement d’une nouvelle implantation ? Cette mission vous permettra de prendre une part active à notre croissance autour des solutions SAP, Odoo et Salesforce.\n\nEn lien direct avec la direction et avec l’appui de nos équipes de consultants, vous serez amené à :\n- Identifier et prospecter de nouveaux clients en Côte d’Ivoire.\n- Rencontrer les décideurs et comprendre leurs enjeux métiers et leurs besoins en systèmes d’information.\n- Développer les opportunités commerciales, de la première prise de contact à la préparation des offres.\n- Participer aux propositions commerciales et aux soutenances avec nos équipes.\n- Construire un réseau de partenaires locaux et représenter KOORTIS lors d’événements professionnels.\n- Contribuer à la structuration de l’activité commerciale et au développement de la filiale.\nVotre profil\n\nDiplômé d’un Bac+5 en école de commerce, à l’université ou en école d’ingénieurs, vous avez une réelle affinité avec l’informatique, le conseil et l’intégration de systèmes d’information.\n\nVous aimez aller à la rencontre des clients, comprendre leurs activités et construire une relation de confiance. Curieux, organisé et autonome, vous faites preuve d’initiative et souhaitez vous investir pendant un à deux ans dans le développement d’une filiale à l’étranger.\n\nUne première expérience en développement commercial, dans le conseil ou les services numériques serait un atout. Une connaissance des solutions SAP, Odoo ou Salesforce serait également appréciée.\n\nVous bénéficierez de l’accompagnement de la direction et de nos équipes, avec des responsabilités concrètes et la possibilité de suivre les opportunités commerciales jusqu’à leur réalisation.",
     "creationDate": "2026-11-17T19:19:22Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -6282,23 +6254,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9"
+      "[\"8\",\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Votre quotidien à nos côtés ?\r\n\r\nLa société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Responsable Administratif et Financier en VIE.\r\nRattaché à Thomas, Directeur d’Agence, votre objectif est d’accompagner l’agence dans sa gestion administrative et financière. Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international.\r\nVotre poste est basé à George Town, Guyana.\r\n\r\n\r\nVos missions clés consisteront notamment à : \r\n•\tGestion administrative et financière des filiales Friedlander et Friedlander Energie Guyana, en collaboration avec les services du Siège\r\n•\tParticiper Révision de la comptabilité Générale et analytique \r\n•\tPréparer Clôture mensuelle de gestion et reporting\r\n•\tParticiper à la Clôture Trimestrielle Comptable\r\n•\tS’assurer du Contrôle du respect des procédures Groupe\r\n•\tContribuer au suivi de Gestion de la trésorerie\r\n•\tAccompagnement de la croissance & structuration interne\r\n•\tSoutien au support des relations avec les conseils fiscaux, comptables\r\n\r\n\r\nCes missions n’ont pas de secret pour vous ? Nous vous offrons les outils et les moyens à la hauteur de vos ambitions !\r\nUne intégration personnalisée avec Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international durant 2 semaines au sein du siège, à Aix-En-Provence. Tous deux vous formeront sur les process, les outils, le périmètre et ses spécificités et effectuerons un suivi de l’intégration en local.\r\nIl ne manque plus que vous - pour apporter votre contribution personnelle - à cette belle organisation.\r\n\r\nRegardons un peu plus loin, quel futur ?  \r\nChez Ortec, nous considérons que chaque collaborateur doit pouvoir déployer son talent et ses compétences, et donner du sens à son poste. Plus tard, cela se traduit aussi par des opportunités au sein de la Direction Administrative Financière ou dans l’équipe de Direction d’une agence d’exploitation.",
     "creationDate": "2026-09-23T09:11:37Z",
     "missionStartDate": "2027-04-01T00:00:00",
