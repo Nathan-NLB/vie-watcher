@@ -304,16 +304,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Reviewing investment recommendations and implementing them in consultation with advisors \nConducting ex-ante investment limit checks, entering and forwarding orders to the group’s internal trading desks, and monitoring execution quality\nRecording and maintaining investment restrictions in accordance with client specifications, and coordinating with Risk Control regarding compliance with investment limits \nLiquidity management for all funds\nServing as the point of contact for onboarding new advisors and external portfolio managers in close collaboration with client relationship managers and the legal department\nContributing to outsourcing control, particularly in monitoring outsourced portfolio management activities\nSupport with regulatory and administrative tasks in day-to-day operations\nParticipation in projects aimed at optimizing, digitizing, and automating processes",
     "creationDate": "2026-11-23T15:38:54Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -2845,16 +2838,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Nexans is a global electrification player, with around 10,000 employees in 39 countries and €7.1 billion in standard sales in 2024. The Group has committed to a Net-Zero 2050 trajectory and is organized around four business areas. As part of its strategy to accelerate electrification through technology solutions, Nexans requires timely, reliable financial and operational analysis to deliver profitable growth. The FP&A function plays a central role in this: providing insight, supporting strategic decisions, strengthening financial discipline and driving operational excellence.\n\nWithin the Nexans Australia Finance team, based in Melbourne, the V.I.E will contribute to financial planning, forecasting, performance analysis, management reporting and process improvement in a complex industrial and manufacturing environment. The role works closely with the Finance Director Oceania and FP&A leadership, and partners with Sales, Supply Chain and Operations to connect financial performance with the underlying commercial and operational drivers. It supports the business in understanding what is driving performance, where risks and opportunities are emerging and what actions may be required, with exposure to the wider Oceania, APAC and Group finance network.\n\nMissions include supporting the monthly closing, forecasting, annual budget and strategic planning cycles; building an integrated view of P&L, cash flow, working capital and fixed costs, and explaining variances versus budget, forecast and prior year; performing root-cause analysis of performance drivers (volume, price, mix, productivity, inventory, sourcing, headcount, spend); preparing Business Review packs, financial bridges, management commentary and PowerPoint presentations for the Finance Director and leadership team; maintaining reconciliations and data consistency across SAP, HFM or other consolidation tools, Excel models, Power BI dashboards and local reporting sources; supporting scenario and sensitivity analysis, constructively challenging assumptions and highlighting risks, opportunities and recommended actions; developing and automating recurring dashboards and reports in Excel and Power BI; contributing to balance-sheet reviews, internal controls and audit support; delivering ad hoc analysis, business cases and tracking of productivity and cost-out initiatives; collaborating with APAC and Group finance teams on reporting requirements, deadlines, templates and process or system improvements, including SAP-related initiatives; and documenting models, definitions and procedures to build scalable processes and reduce key-person dependency.\n\nThis 12- to 24-month assignment in Melbourne offers direct exposure to the Finance Director Oceania, FP&A leadership and senior stakeholders across Australia and the region, with hands-on responsibility across closing, forecasting, budgeting, performance analysis, business partnering and management reporting. It allows the volunteer to deepen expertise in SAP-enabled finance processes, Power BI, automation, financial modelling and operational performance management, within a multicultural and matrixed organization spanning Australia, New Zealand, APAC and the Group.",
     "creationDate": "2026-11-12T17:37:20Z",
     "missionStartDate": "2027-02-01T00:00:00",
