@@ -241,51 +241,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "259",
-      "318",
-      "320",
-      "322",
-      "324"
+      "[\"5\",\"259\",\"318\",\"320\",\"322\",\"324\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "324",
-        "specializationParentId": "19",
-        "specializationLabel": "Banque et Ingénierie Financière",
-        "specializationLabelEn": "Banque et Ingénierie Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Contexte et environnement\nRejoignez notre filiale TotalEnergies à Milan, en Italie, et contribuez au déploiement du programme de conformité de la filiale.\nVous accompagnez le Responsable conformité dans la mise en œuvre des politiques de conformité, le suivi des procédures anti-corruption et la promotion de la culture éthique au sein de l'organisation. Vous contribuez également aux activités de contrôle, de reporting et de sensibilisation des collaborateurs.\nVérifiez votre éligibilité au programme VIE ainsi que les spécificités pays sur le site internet : https://mon-vie-via.businessfrance.fr/qu-est-ce-que-le-volontariat-international.\nMerci de candidater en anglais.\nUn logement individuel est fourni par la filiale.\nQuelques déplacements de 2 à 3 jours sont à prévoir, principalement en Italie.\n\nVos principales missions\nVos principales missions :\n•\tAccompagner le déploiement du programme de conformité et sensibiliser les collaborateurs aux bonnes pratiques.\n•\tVeiller à la conformité des due diligences des tiers selon les procédures de la compagnie et les vérifier avant validation. \n•\tProposer des mesures de due diligence.\n•\tAssurer l'utilisation des outils de due diligence et le bon archivage de la documentation.\n•\tParticiper à l'organisation des événements internes liés à la conformité.\n•\tPréparer, animer et suivre la réalisation des formations internes en matière de conformité, avec le Responsable conformité.\n•\tApporter un soutien à l’équipe comptable dans la préparation des contrôles comptables annuels relatifs à la lutte contre la corruption.\n•\tPréparer les reportings Anti-Corruption et Anti-Fraude de la filiale.\n•\tAssurer le suivi des recommandations issues des audits Compliance.\n•\tParticiper à la campagne annuelle de déclaration des conflits d'intérêts.\n•\tAssurer une veille sur les évolutions des procédures et exigences de conformité.",
     "creationDate": "2026-11-24T08:42:59Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -570,107 +528,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "21",
-      "70",
-      "90",
-      "109",
-      "137",
-      "147",
-      "195",
-      "205",
-      "238",
-      "264",
-      "318",
-      "319",
-      "344",
-      "312"
+      "[\"21\",\"70\",\"90\",\"109\",\"137\",\"147\",\"195\",\"205\",\"238\",\"264\",\"318\",\"319\",\"344\",\"312\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "21",
-        "specializationParentId": "193",
-        "specializationLabel": "Management",
-        "specializationLabelEn": "Management"
-      },
-      {
-        "specializationId": "70",
-        "specializationParentId": "196",
-        "specializationLabel": "Génie Civil – Travaux publics",
-        "specializationLabelEn": "Civil Engineering - Public Works"
-      },
-      {
-        "specializationId": "90",
-        "specializationParentId": "89",
-        "specializationLabel": "Immobilier",
-        "specializationLabelEn": "Real Estate"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "137",
-        "specializationParentId": "255",
-        "specializationLabel": "Industrie du Bois",
-        "specializationLabelEn": "Wood Industry"
-      },
-      {
-        "specializationId": "147",
-        "specializationParentId": "89",
-        "specializationLabel": "Services aux entreprises",
-        "specializationLabelEn": "Business Services"
-      },
-      {
-        "specializationId": "195",
-        "specializationParentId": "193",
-        "specializationLabel": "Developpement commercial, prospection",
-        "specializationLabelEn": "Business Development"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      },
-      {
-        "specializationId": "238",
-        "specializationParentId": "100",
-        "specializationLabel": "Recrutement",
-        "specializationLabelEn": "Recruitement"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "319",
-        "specializationParentId": "19",
-        "specializationLabel": "Gestion du patrimoine",
-        "specializationLabelEn": "Gestion du patrimoine"
-      },
-      {
-        "specializationId": "344",
-        "specializationParentId": "214",
-        "specializationLabel": "Gestion du patrimoine - Immobilier",
-        "specializationLabelEn": "Gestion du patrimoine - Immobilier"
-      },
-      {
-        "specializationId": "312",
-        "specializationParentId": "193",
-        "specializationLabel": "Service / relation client",
-        "specializationLabelEn": "Service / relation client"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Sommaire du poste\n\nNous sommes à la recherche d'une personne polyvalente, dynamique et autonome pour occuper un poste combinant des responsabilités techniques, administratives, commerciales et de gestion.\n\nLa personne recherchée devra être à l'aise avec une grande variété de tâches et être capable de passer d'un dossier à un autre selon les priorités et les besoins de l'entreprise et de son responsable. Elle jouera un rôle important dans le bon fonctionnement des opérations quotidiennes, la gestion des immeubles et des locataires, ainsi que dans le développement des activités commerciales.\n\nCe poste s'adresse à une personne débrouillarde, organisée, proactive et qui aime relever différents défis au quotidien.\n\n\nFonctions principales :\n1. Gestion technique et entretien des bâtiments\n•\tEffectuer des réparations mineures et des travaux d'entretien général dans les bâtiments.\n•\tAssurer le suivi des demandes de réparation et d'entretien.\n•\tEffectuer des inspections visuelles des immeubles et identifier les interventions nécessaires.\n•\tCoordonner, au besoin, les interventions de fournisseurs, d'entrepreneurs et de sous-traitants.\n•\tVeiller au bon état général des installations et des espaces communs.\n2. Gestion immobilière et relations avec les locataires\n•\tAssurer les communications avec les locataires et répondre à leurs demandes.\n•\tEffectuer le suivi des plaintes, requêtes et situations particulières.\n•\tCoordonner les interventions nécessaires auprès des locataires.\n•\tParticiper au suivi des baux, des renouvellements et des dossiers locatifs.\n•\tMaintenir de bonnes relations avec les locataires et assurer un service professionnel.\n3. Développement commercial et prospection\n•\tEffectuer des activités de prospection auprès de clients et partenaires potentiels.\n•\tIdentifier de nouvelles occasions d'affaires.\n•\tCommuniquer avec des clients potentiels et assurer les suivis nécessaires.\n•\tParticiper au développement et à la croissance des activités de l'entreprise.\n•\tEntretenir et développer un réseau de contacts professionnels.\n4. Gestion administrative et suivi de dossiers\n•\tEffectuer diverses tâches administratives et assurer le suivi de différents dossiers.\n•\tPréparer, classer et mettre à jour des documents et des dossiers.\n•\tEffectuer des suivis auprès de fournisseurs, clients, partenaires et autres intervenants.\n•\tParticiper à la préparation de rapports, de soumissions et de documents administratifs.\n•\tAssurer le respect des échéanciers et le suivi des demandes en cours.\n5. Soutien général aux opérations\n•\tParticiper à différentes tâches opérationnelles selon les besoins de l'entreprise.\n•\tPrendre en charge des mandats ponctuels et des projets spéciaux.\n•\tTrouver des solutions pratiques aux problèmes rencontrés au quotidien.\n•\tCollaborer avec les différents intervenants afin d'assurer le bon déroulement des activités.\n•\tFaire preuve de flexibilité et contribuer à toute autre tâche connexe nécessaire au bon fonctionnement de l'entreprise.\n•\tÊtre ouvert à travailler sur des horaires en soirée ou le weekend si nécessaire.",
     "creationDate": "2026-11-23T13:57:58Z",
     "missionStartDate": "2027-03-01T00:00:00",
