@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **25/11/2026 15:30:57**, 98 offre(s) actuellement en ligne.
+Dernière vérification : **25/11/2026 15:45:41**, 97 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -138,33 +138,6 @@ Compliance
 **Profil recherché**
 
 Seeking a candidate with 1-3 years of experience in predictive modelling, data science, actuarial analytics, or a related quantitative field. The role requires strong analytical and Python programming skills, experience with machine learning techniques, and the ability to translate business needs into actionable insights. An interest in Life & Health insurance is appreciated. The ideal candidate is proactive, detail-oriented, collaborative, and able to communicate complex topics to both technical and non-technical stakeholders. A Master's degree in Actuarial Science, Statistics, Mathematics, Data Science, Econometrics, or a related discipline is required. Actuarial qualifications or a PhD are a plus.
-
-</details>
-
-<details>
-<summary><strong>Credit Controller (H/F)</strong> · FERRERO FRANCE COMMERCIALE · BRUXELLES, BELGIQUE · 2 978,53 €/mois</summary>
-
-- **Entreprise :** FERRERO FRANCE COMMERCIALE
-- **Lieu :** BRUXELLES, BELGIQUE
-- **Indemnité :** 2 978,53 €/mois
-- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
-- **Publiée le :** 24/11/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil académique et l'expérience en contrôle de gestion de Nathan correspondent bien aux attentes financières du poste, et sa maîtrise de l'anglais et du français est un atout fort. Cependant, l'offre cible spécifiquement le crédit management (comptabilité clients) et exige la maîtrise de SAP, un outil non mentionné dans son parcours.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248702](https://mon-vie-via.businessfrance.fr/offres/248702)
-
-**Description du poste**
-
-En tant que VIE contrôleur de crédit, vous entretenez de solides relations avec les clients en suivant et en contrôlant activement les factures et les notes de crédit en suspens. Vous analyserez les déductions, les demandes, résoudrez les problèmes, établirez des relations solides et optimiserez la communication avec les clients.
-
-En interaction avec le service clientèle, vous veillerez à ce que la facturation soit précise et ponctuelle, en enquêtant sur les problèmes liés au processus de facturation avec le service IT ou sur les litiges avec les clients. Grâce à votre capacité à anticiper les défis et à communiquer efficacement entre les équipes, les différences entre les modèles de comptabilité et de contrôle seront réduites.
-
-**Profil recherché**
-
-Nous recherchons un(e) candidat(e) titulaire d'un master en finance / comptabilité / contrôle de gestion avec une première expérience (stage, apprentissage) dans un département comptable. Une connaissance du crédit, de la facturation, des prévisions de trésorerie et de la gestion de bases de données est appréciée. Une expérience préalable dans le secteur des produits de grande consommation ou de la distribution est considérée comme un atout. Le poste requiert de solides compétences organisationnelles et analytiques ainsi qu'un état d'esprit axé sur les résultats, avec un bon équilibre entre pragmatisme et souci du détail.
-
-Pour garantir une collaboration efficace avec les principales parties prenantes, vos capacités relationnelles et de communication sont essentielles.
-
-Des compétences avancées en Excel et la connaissance de base de SAP sont indispensables, ainsi que la maîtrise de l'anglais et du français.
 
 </details>
 
