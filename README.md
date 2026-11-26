@@ -8,11 +8,54 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **26/11/2026 15:30:59**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **26/11/2026 15:45:52**, 94 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Trading Operations Analyst (H/F)</strong> · BLUE CUBE (FRANCE) · LONDRES, ROYAUME-UNI · 3 815,75 €/mois</summary>
+
+- **Entreprise :** BLUE CUBE (FRANCE)
+- **Lieu :** LONDRES, ROYAUME-UNI
+- **Indemnité :** 3 815,75 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 26/11/2026
+- **Compatibilité avec ton profil :** 45 % — Le profil de Nathan est orienté vers le contrôle de gestion classique et l'analyse financière en entreprise, alors que l'offre recherche un profil orienté vers les opérations de trading, la cryptomonnaie et les rapprochements de positions. Malgré un bon niveau d'anglais et une maîtrise d'Excel, l'adéquation des compétences métier et des outils (manque de compétences en programmation type Python/SQL) est faible.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248832](https://mon-vie-via.businessfrance.fr/offres/248832)
+
+**Description du poste**
+
+Blockchain.com is the world's leading software platform for digital assets. Offering the largest production blockchain platform in the world, we share the passion to code, create, and ultimately build an open, accessible and fair financial future, one piece of software at a time.
+We are seeking a highly motivated Trading Operations Analyst to join our dynamic team, supporting a 24-7 EMEA, Singapore and US cryptocurrency trading team. This role provides an exceptional opportunity to make a significant impact within our fast-growing and innovative organization with exposure across multiple trading strategies and the full spectrum of operations functions.
+Responsibilities:
+Manage daily trade and position settlement workflows across multiple business units.
+Perform reconciliations across accounts, positions, and transactions to ensure accuracy.
+Assist in generating and validating the firmwide NAV, ensuring timely reporting to stakeholders.
+Support reporting and operational processes for custody, staking, and trading desks.
+Collaborate with cross-functional teams, including trading, finance, and technology, to improve and automate processes.
+Maintain and monitor daily trading infrastructure, ensuring accurate trade capture, system stability, and timely issue resolution across internal platforms.
+Monitor and address operational issues, proactively identifying and resolving inefficiencies.
+Provide operational support for new initiatives, products, and services as the business expands.
+Qualifications:
+Bachelor’s degree in Finance, Economics, Mathematics, Computer Science, or a related field
+Strong analytical and quantitative skills with the ability to interpret complex data sets.
+Proficiency in Excel and familiarity with programming languages such as Python, R, or SQL
+Excellent communication and teamwork skills
+Ability to work in a fast-paced, high-pressure environment
+Keen interest in financial markets and trading
+Excellent interpersonal and communication skills, with a client-focused approach to trading
+Demonstrated ability to perform under pressure, make quick decisions and handle high volumes of transactions
+A keen interest in staying updated with trends and news in the fast-paced world of cryptocurrencies. Prior personal experience is a plus
+Must be comfortable working flexible hours in coordination with our Singapore and UK teams
+The ideal candidate will be a hungry, hard-working individual accustomed to earning a significant portion of income through commission. If you are ready to seize this challenging opportunity and make a substantial contribution to our operation, we invite you to apply!
+
+**Profil recherché**
+
+We are seeking a highly motivated Trading Operations Analyst to join our dynamic team, supporting a 24-7 EMEA, Singapore and US cryptocurrency trading team. This role provides an exceptional opportunity to make a significant impact within our fast-growing and innovative organization with exposure across multiple trading strategies and the full spectrum of operations functions.
+
+</details>
 
 <details>
 <summary><strong>Analyste Pricing F/H (H/F)</strong> · PARKER HANNIFIN MANUFACTURING FRANCE · ETOY, SUISSE · 4 135,75 €/mois</summary>

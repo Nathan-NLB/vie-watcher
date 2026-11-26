@@ -642,5 +642,9 @@
   "248784": {
     "score": 75,
     "raison": "Le profil de Nathan correspond bien aux attentes grâce à ses compétences en analyse financière, rentabilité, maîtrise d'Excel, Power BI et son niveau d'anglais courant. Cependant, le poste est axé sur le pricing en Suisse et non strictement sur le contrôle de gestion pur, et l'allemand demandé n'est pas présent dans ses compétences."
+  },
+  "248832": {
+    "score": 45,
+    "raison": "Le profil de Nathan est orienté vers le contrôle de gestion classique et l'analyse financière en entreprise, alors que l'offre recherche un profil orienté vers les opérations de trading, la cryptomonnaie et les rapprochements de positions. Malgré un bon niveau d'anglais et une maîtrise d'Excel, l'adéquation des compétences métier et des outils (manque de compétences en programmation type Python/SQL) est faible."
   }
 }
