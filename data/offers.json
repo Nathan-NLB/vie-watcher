@@ -2425,16 +2425,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tSupport our corporate access team with the organization of roadshows and conferences\n•\tHelp the equity sales team in the daily business and on projects \n•\tPreparation of sales presentations \n•\tAssist Head of Branch with operational tasks",
     "creationDate": "2026-11-16T09:40:09Z",
     "missionStartDate": "2027-02-01T00:00:00",
