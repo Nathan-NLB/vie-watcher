@@ -754,5 +754,10 @@
   "entreprise|oddo bhf sca|luxembourg|luxembourg": null,
   "entreprise|totalenergies se|milan|italie": null,
   "entreprise|scor se|singapour|singapour": null,
-  "entreprise|direction generale du tresor|buenos aires|argentine": null
+  "entreprise|direction generale du tresor|buenos aires|argentine": null,
+  "entreprise|parker hannifin manufacturing france|etoy|suisse": null,
+  "ville|etoy|suisse": {
+    "lat": 46.4860906,
+    "lon": 6.4193113
+  }
 }

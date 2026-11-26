@@ -8,11 +8,58 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **26/11/2026 09:30:57**, 92 offre(s) actuellement en ligne.
+Dernière vérification : **26/11/2026 09:45:51**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Analyste Pricing F/H (H/F)</strong> · PARKER HANNIFIN MANUFACTURING FRANCE · ETOY, SUISSE · 4 135,75 €/mois</summary>
+
+- **Entreprise :** PARKER HANNIFIN MANUFACTURING FRANCE
+- **Lieu :** ETOY, SUISSE
+- **Indemnité :** 4 135,75 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 26/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes grâce à ses compétences en analyse financière, rentabilité, maîtrise d'Excel, Power BI et son niveau d'anglais courant. Cependant, le poste est axé sur le pricing en Suisse et non strictement sur le contrôle de gestion pur, et l'allemand demandé n'est pas présent dans ses compétences.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248784](https://mon-vie-via.businessfrance.fr/offres/248784)
+
+**Description du poste**
+
+Chez Parker, nous jouons un rôle essentiel dans les applications qui changent notre monde. Nous sommes présents dans presque tout ce qui bouge. Grâce à notre large éventail de technologies, y compris dans le domaine des technologies propres, nous aidons nos clients à résoudre leurs problèmes d'ingénierie les plus complexes. 
+
+Dans le cadre du développement et de l’optimisation de la stratégie pricing, le/la Analyste Pricing accompagnera le Pricing Manager de la Division, en étroite collaboration avec les équipes marketing et commerciales, dans ses missions quotidiennes, le déploiement des projets pricing et le suivi de la performance.
+
+Missions principales : 
+
+Support au processus pricing
+•	Contribuer aux réponses aux appels d’offres et demandes de cotation clients.
+•	Réaliser des analyses de prix et de rentabilité afin d’identifier des opportunités d’optimisation et proposer des plans d’action adaptés.
+•	Analyser le positionnement prix, l’environnement concurrentiel et recommander des ajustements tarifaires.
+
+Support aux projets pricing
+•	Structuration tarifaire
+Contribuer aux projets d’harmonisation et de consolidation des listes de prix ainsi qu’à l’alignement des niveaux de remise par client. Participer à la préparation et au déploiement des communications internes et externes liées aux évolutions tarifaires.
+•	Produits cœur de gamme
+Participer à l’optimisation de la stratégie tarifaire des produits cœur de gamme, en lien avec les équipes marketing, commerciales et finance.
+
+Suivi de la performance
+•	Participer à la mise à jour, à l’analyse et à la diffusion des indicateurs de performance pricing.
+•	Contribuer à la définition et au déploiement des plans d’action associés.
+
+**Profil recherché**
+
+Profil recherché
+•	Formation supérieure de type école de commerce, école d’ingénieur ou université, avec une spécialisation en finance, pricing, data analysis, marketing industriel ou commerce international.
+•	Capacité à comprendre les enjeux commerciaux, les contextes clients et les mécanismes de négociation.
+•	Forte appétence pour les environnements chiffrés et l’analyse de données.
+•	Très bonne maîtrise d’Excel. Intérêt pour les outils digitaux et analytiques tels que Power BI, Power Apps, et les solutions d’intelligence artificielle.
+•	Bonnes capacités de communication et aptitude à travailler avec des équipes commerciales, marketing, finance et pricing. Rigueur, autonomie.
+•	Une première expérience en environnement industriel serait appréciée.
+•	Anglais professionnel requis ; la maîtrise de l’allemand serait un plus.
+
+</details>
 
 <details>
 <summary><strong>Attaché(e) financier(ière) au SER de Buenos Aires (H/F)</strong> · DIRECTION GENERALE DU TRESOR · BUENOS AIRES, ARGENTINE · 2 837,98 €/mois</summary>
