@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **26/11/2026 14:01:11**, 93 offre(s) actuellement en ligne.
+Dernière vérification : **26/11/2026 14:15:43**, 93 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -58,6 +58,153 @@ Profil recherché
 •	Bonnes capacités de communication et aptitude à travailler avec des équipes commerciales, marketing, finance et pricing. Rigueur, autonomie.
 •	Une première expérience en environnement industriel serait appréciée.
 •	Anglais professionnel requis ; la maîtrise de l’allemand serait un plus.
+
+</details>
+
+<details>
+<summary><strong>Internal Audit, Controls & AI Analyst (H/F)</strong> · M&L DISTRIBUTION (FRANCE) S.A.R.L. · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
+
+- **Entreprise :** M&L DISTRIBUTION (FRANCE) S.A.R.L.
+- **Lieu :** SAO PAULO, BRESIL
+- **Indemnité :** 2 743,28 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 26/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil financier et analytique de Nathan correspond bien aux attentes en contrôle et analyse de données, avec un fort niveau d'anglais et une appétence pour l'international. Cependant, l'offre exige la maîtrise du portugais et se focalise sur l'audit interne et l'IA, ce qui diffère légèrement de son cœur de métier en contrôle de gestion.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247756](https://mon-vie-via.businessfrance.fr/offres/247756)
+
+**Description du poste**
+
+CONTEXT & MISSION: 
+
+The L’OCCITANE Group Internal Audit team is looking for a VIE to join us in São Paulo, embedded within our Brazilian organization. 
+You will support the deployment of internal controls and the transformation of Internal Audit through data analytics and Artificial Intelligence. 
+ 
+The role provides a unique opportunity to gain exposure to a fast-growing international business while working directly with Group Internal Audit on strategic initiatives across multiple brands, including L’Occitane au Brésil and L’Occitane en Provence. 
+
+working directly with Group Internal Audit on strategic initiatives across multiple brands, including Sol de Janeiro and L'Occitane. 
+
+Ready to start your international career at the intersection of business, risk, data and AI? 
+
+KEY RESPONSIBILITIES: 
+
+Internal Controls: support the improvement of the Internal Control System (ICS) in Brazil and support the deployment and testing of the Group GRC (governance risk and control) software for our Brands operating in Sao Paulo 
+
+Internal Audit: contribute to Group audit assignments across brands and countries worldwide 
+
+AI & Audit Innovation: challenge and validate AI-enabled audit work (prompt and then verify loops with Group Internal Audit Senior Managers), using all Microsoft 365 tools (MS365, Excel, Power BI) available, our internal AI and external AI models 
+
+
+WHAT YOU WILL GAIN: 
+
+Work directly with senior leaders from Group Internal Audit 
+
+Contribute to the transformation of Internal Audit through AI and analytics 
+
+Gain exposure to a fast-growing international business 
+
+Develop expertise in internal controls, governance and risk management 
+
+Learn to apply AI responsibly within audit activities 
+
+Build a strong foundation for future careers in Internal Audit, Internal Controls, Risk Management, Data Analytics or Governance
+
+**Profil recherché**
+
+You do not need to be an audit expert. We are looking for an honest, smart, curious, motivated, well organized and service-oriented individual who enjoys learning every day and understanding how businesses work, how information flows, and how technology improves internal audit and controls. If you are passionate about AI, data and technology, risk and business operations, we would like to hear from you. 
+
+Master's degree (or equivalent) in Business, Engineering, Finance, Audit, Information Systems, Data Analytics or a related field 
+
+Initial experience in audit, internal controls, consulting, finance, technology or data analytics 
+
+Fluent in Portuguese, French and English  
+
+Demonstrated interest in Artificial Intelligence, automation and business transformation (at ease with Copilot, Claude, MS365, Excel with Python, ERP Systems etc.)  
+
+Strong analytical and problem-solving skills 
+
+Proactive and eager to learn 
+
+Ability to challenge information constructively and communicate clearly with stakeholders 
+
+Curiosity about how organizations operate, how decisions are made, and how data flows across processes 
+
+Demonstrate integrity, professionalism and sound judgement 
+
+Enjoy working in multicultural environments 
+
+Comfortable engaging with Internal Controls owners and building positive working relationships
+
+</details>
+
+<details>
+<summary><strong>Internal Audit, Controls & AI Analyst (H/F)</strong> · M&L DISTRIBUTION (FRANCE) S.A.R.L. · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
+
+- **Entreprise :** M&L DISTRIBUTION (FRANCE) S.A.R.L.
+- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
+- **Indemnité :** 5 088,87 €/mois
+- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
+- **Publiée le :** 26/11/2026
+- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes financières et linguistiques (anglais courant) de l'offre, avec de solides compétences en Excel et Power BI. Cependant, l'offre est axée sur l'audit interne, les contrôles internes et l'IA, alors que l'expérience de Nathan est plus orientée vers le contrôle de gestion pur.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247753](https://mon-vie-via.businessfrance.fr/offres/247753)
+
+**Description du poste**
+
+CONTEXT & MISSION: 
+
+The L’OCCITANE Group Internal Audit team is looking for a VIE to join us in New York City, embedded within our North American organization. 
+You will support the deployment of internal controls and the transformation of Internal Audit through data analytics and Artificial Intelligence. 
+ 
+The role provides a unique opportunity to gain exposure to a fast-growing international business while working directly with Group Internal Audit on strategic initiatives across multiple brands, including Sol de Janeiro and L'Occitane en Provence. 
+
+Ready to start your international career at the intersection of business, risk, data and AI? 
+
+KEY RESPONSIBILITIES: 
+
+Internal Controls: support the improvement of the Internal Control System (ICS) and support the deployment & testing of the Group GRC (governance risk and control) software for our Brands operating in North America 
+
+Internal Audit: contribute to Group audit assignments across brands and countries worldwide 
+
+AI & Audit Innovation: challenge and validate AI-enabled audit work (prompt and then verify loops with Group Internal Audit Senior Managers), using all Microsoft 365 tools (MS365, Excel, Power BI) available, our internal AI and external AI models 
+
+WHAT YOU WILL GAIN: 
+
+Work directly with senior leaders from Group Internal Audit 
+
+Contribute to the transformation of Internal Audit through AI and analytics 
+
+Gain exposure to a fast-growing international business 
+
+Develop expertise in internal controls, governance and risk management 
+
+Learn to apply AI responsibly within audit activities 
+
+Build a strong foundation for future careers in Internal Audit, Internal Controls, Risk Management, Data Analytics or Governance
+
+**Profil recherché**
+
+You do not need to be an audit expert. We are looking for an honest, smart, curious, motivated, well organized and service-oriented individual who enjoys learning every day and understanding how businesses work, how information flows, and how technology improves internal audit and controls. If you are passionate about AI, data and technology, risk and business operations, we would like to hear from you. 
+
+Master's degree (or equivalent) in Business, Engineering, Finance, Audit, Information Systems, Data Analytics or a related field 
+
+Initial experience in audit, internal controls, consulting, finance, technology or data analytics 
+
+Fluent in English and French 
+
+Demonstrated interest in Artificial Intelligence, automation and business transformation (at ease with Copilot, Claude, MS365, Excel with Python, ERP Systems etc.)  
+
+Strong analytical and problem-solving skills 
+
+Proactive and eager to learn 
+
+Ability to challenge information constructively and communicate clearly with stakeholders 
+
+Curiosity about how organizations operate, how decisions are made, and how data flows across processes 
+
+Demonstrate strong integrity, professionalism and sound judgement 
+
+Enjoy working in multicultural environments  
+
+Comfortable engaging with Internal Controls owners and building positive working relationships
 
 </details>
 
@@ -4482,153 +4629,6 @@ Vous utilisez l’IA au quotidien, et avec rigueur
 Vous restez calme et vous livrez, même dans l’incertitude
 
 Encore mieux si vous connaissez le secteur de la mobilité et que vous êtes un(e) utilisateur(rice) régulier(ère) de Heetch !
-
-</details>
-
-<details>
-<summary><strong>Internal Audit, Controls & AI Analyst (H/F)</strong> · M&L DISTRIBUTION (FRANCE) S.A.R.L. · SAO PAULO, BRESIL · 2 743,28 €/mois</summary>
-
-- **Entreprise :** M&L DISTRIBUTION (FRANCE) S.A.R.L.
-- **Lieu :** SAO PAULO, BRESIL
-- **Indemnité :** 2 743,28 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 02/11/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil financier et analytique de Nathan correspond bien aux attentes en contrôle et analyse de données, avec un fort niveau d'anglais et une appétence pour l'international. Cependant, l'offre exige la maîtrise du portugais et se focalise sur l'audit interne et l'IA, ce qui diffère légèrement de son cœur de métier en contrôle de gestion.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247756](https://mon-vie-via.businessfrance.fr/offres/247756)
-
-**Description du poste**
-
-CONTEXT & MISSION: 
-
-The L’OCCITANE Group Internal Audit team is looking for a VIE to join us in São Paulo, embedded within our Brazilian organization. 
-You will support the deployment of internal controls and the transformation of Internal Audit through data analytics and Artificial Intelligence. 
- 
-The role provides a unique opportunity to gain exposure to a fast-growing international business while working directly with Group Internal Audit on strategic initiatives across multiple brands, including L’Occitane au Brésil and L’Occitane en Provence. 
-
-working directly with Group Internal Audit on strategic initiatives across multiple brands, including Sol de Janeiro and L'Occitane. 
-
-Ready to start your international career at the intersection of business, risk, data and AI? 
-
-KEY RESPONSIBILITIES: 
-
-Internal Controls: support the improvement of the Internal Control System (ICS) in Brazil and support the deployment and testing of the Group GRC (governance risk and control) software for our Brands operating in Sao Paulo 
-
-Internal Audit: contribute to Group audit assignments across brands and countries worldwide 
-
-AI & Audit Innovation: challenge and validate AI-enabled audit work (prompt and then verify loops with Group Internal Audit Senior Managers), using all Microsoft 365 tools (MS365, Excel, Power BI) available, our internal AI and external AI models 
-
-
-WHAT YOU WILL GAIN: 
-
-Work directly with senior leaders from Group Internal Audit 
-
-Contribute to the transformation of Internal Audit through AI and analytics 
-
-Gain exposure to a fast-growing international business 
-
-Develop expertise in internal controls, governance and risk management 
-
-Learn to apply AI responsibly within audit activities 
-
-Build a strong foundation for future careers in Internal Audit, Internal Controls, Risk Management, Data Analytics or Governance
-
-**Profil recherché**
-
-You do not need to be an audit expert. We are looking for an honest, smart, curious, motivated, well organized and service-oriented individual who enjoys learning every day and understanding how businesses work, how information flows, and how technology improves internal audit and controls. If you are passionate about AI, data and technology, risk and business operations, we would like to hear from you. 
-
-Master's degree (or equivalent) in Business, Engineering, Finance, Audit, Information Systems, Data Analytics or a related field 
-
-Initial experience in audit, internal controls, consulting, finance, technology or data analytics 
-
-Fluent in Portuguese, French and English  
-
-Demonstrated interest in Artificial Intelligence, automation and business transformation (at ease with Copilot, Claude, MS365, Excel with Python, ERP Systems etc.)  
-
-Strong analytical and problem-solving skills 
-
-Proactive and eager to learn 
-
-Ability to challenge information constructively and communicate clearly with stakeholders 
-
-Curiosity about how organizations operate, how decisions are made, and how data flows across processes 
-
-Demonstrate integrity, professionalism and sound judgement 
-
-Enjoy working in multicultural environments 
-
-Comfortable engaging with Internal Controls owners and building positive working relationships
-
-</details>
-
-<details>
-<summary><strong>Internal Audit, Controls & AI Analyst (H/F)</strong> · M&L DISTRIBUTION (FRANCE) S.A.R.L. · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
-
-- **Entreprise :** M&L DISTRIBUTION (FRANCE) S.A.R.L.
-- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
-- **Indemnité :** 5 088,87 €/mois
-- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
-- **Publiée le :** 02/11/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes financières et linguistiques (anglais courant) de l'offre, avec de solides compétences en Excel et Power BI. Cependant, l'offre est axée sur l'audit interne, les contrôles internes et l'IA, alors que l'expérience de Nathan est plus orientée vers le contrôle de gestion pur.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247753](https://mon-vie-via.businessfrance.fr/offres/247753)
-
-**Description du poste**
-
-CONTEXT & MISSION: 
-
-The L’OCCITANE Group Internal Audit team is looking for a VIE to join us in New York City, embedded within our North American organization. 
-You will support the deployment of internal controls and the transformation of Internal Audit through data analytics and Artificial Intelligence. 
- 
-The role provides a unique opportunity to gain exposure to a fast-growing international business while working directly with Group Internal Audit on strategic initiatives across multiple brands, including Sol de Janeiro and L'Occitane en Provence. 
-
-Ready to start your international career at the intersection of business, risk, data and AI? 
-
-KEY RESPONSIBILITIES: 
-
-Internal Controls: support the improvement of the Internal Control System (ICS) and support the deployment & testing of the Group GRC (governance risk and control) software for our Brands operating in North America 
-
-Internal Audit: contribute to Group audit assignments across brands and countries worldwide 
-
-AI & Audit Innovation: challenge and validate AI-enabled audit work (prompt and then verify loops with Group Internal Audit Senior Managers), using all Microsoft 365 tools (MS365, Excel, Power BI) available, our internal AI and external AI models 
-
-WHAT YOU WILL GAIN: 
-
-Work directly with senior leaders from Group Internal Audit 
-
-Contribute to the transformation of Internal Audit through AI and analytics 
-
-Gain exposure to a fast-growing international business 
-
-Develop expertise in internal controls, governance and risk management 
-
-Learn to apply AI responsibly within audit activities 
-
-Build a strong foundation for future careers in Internal Audit, Internal Controls, Risk Management, Data Analytics or Governance
-
-**Profil recherché**
-
-You do not need to be an audit expert. We are looking for an honest, smart, curious, motivated, well organized and service-oriented individual who enjoys learning every day and understanding how businesses work, how information flows, and how technology improves internal audit and controls. If you are passionate about AI, data and technology, risk and business operations, we would like to hear from you. 
-
-Master's degree (or equivalent) in Business, Engineering, Finance, Audit, Information Systems, Data Analytics or a related field 
-
-Initial experience in audit, internal controls, consulting, finance, technology or data analytics 
-
-Fluent in English and French 
-
-Demonstrated interest in Artificial Intelligence, automation and business transformation (at ease with Copilot, Claude, MS365, Excel with Python, ERP Systems etc.)  
-
-Strong analytical and problem-solving skills 
-
-Proactive and eager to learn 
-
-Ability to challenge information constructively and communicate clearly with stakeholders 
-
-Curiosity about how organizations operate, how decisions are made, and how data flows across processes 
-
-Demonstrate strong integrity, professionalism and sound judgement 
-
-Enjoy working in multicultural environments  
-
-Comfortable engaging with Internal Controls owners and building positive working relationships
 
 </details>
 
