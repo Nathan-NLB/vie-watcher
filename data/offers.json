@@ -276,16 +276,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Reviewing investment recommendations and implementing them in consultation with advisors \nConducting ex-ante investment limit checks, entering and forwarding orders to the group’s internal trading desks, and monitoring execution quality\nRecording and maintaining investment restrictions in accordance with client specifications, and coordinating with Risk Control regarding compliance with investment limits \nLiquidity management for all funds\nServing as the point of contact for onboarding new advisors and external portfolio managers in close collaboration with client relationship managers and the legal department\nContributing to outsourcing control, particularly in monitoring outsourced portfolio management activities\nSupport with regulatory and administrative tasks in day-to-day operations\nParticipation in projects aimed at optimizing, digitizing, and automating processes",
     "creationDate": "2026-11-23T15:38:54Z",
     "missionStartDate": "2027-03-01T00:00:00",
