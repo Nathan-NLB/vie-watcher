@@ -1277,30 +1277,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259",
-      "318",
-      "322"
+      "[\"259\",\"318\",\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Responsabilités principales\n\nPlanification financière et prévisions\n•\tContribuer à l’élaboration des budgets annuels, des prévisions trimestrielles et des plans d’affaires à long terme.\n•\tConsolider et analyser les données financières des marchés d’Asie-Pacifique.\n•\tSuivre les principaux indicateurs de performance financiers et opérationnels.\n•\tParticiper à l’élaboration de modèles financiers et de scénarios business pour appuyer les décisions stratégiques.\nAnalyse de la performance commerciale\n•\tAnalyser les ventes mensuelles, la marge brute, les charges d’exploitation et les tendances de rentabilité.\n•\tPréparer des analyses d’écarts par rapport au budget, aux prévisions et aux résultats de l’année précédente.\n•\tIdentifier les risques et les opportunités ayant un impact sur la performance financière.\n•\tFournir à la direction des analyses pertinentes et des recommandations opérationnelles.\nReporting et support au management\n•\tPréparer les rapports de gestion mensuels et les tableaux de bord destinés à la direction régionale.\n•\tParticiper aux revues d’activité avec les équipes de direction des marchés et de la région.\n•\tSoutenir la réalisation d’analyses financières et de présentations ad hoc pour la direction générale.\n•\tContribuer à l’amélioration continue des processus et des outils de reporting.",
     "creationDate": "2026-11-19T14:11:20Z",
     "missionStartDate": "2027-04-01T00:00:00",
@@ -2068,44 +2047,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "7",
-      "8",
-      "109",
-      "313"
+      "[\"6\",\"7\",\"8\",\"109\",\"313\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "313",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce de luxe",
-        "specializationLabelEn": "Commerce de luxe"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Depuis 1867, la Manufacture Pinton perpétue la tradition de la tapisserie d'Aubusson et participe à son renouveau sur la scène de l'art contemporain. Reconnue dans l'art, la décoration d'intérieur et le luxe, l'entreprise familiale a constitué un groupe textile unique (Manufacture Royale d'Aubusson, Tissage des Flandres, MyDiTex, nouvelle manufacture de tapis tuftés main en Creuse). Ses créations habillent galeries d'art, résidences privées, hôtels et boutiques de luxe à travers le monde.\n\nLe groupe ouvre son marché américain et développe sa filiale Pinton Inc., basée à New York. Rattaché(e) directement au Directeur Général de Pinton Inc., vous serez son bras droit sur un marché en pleine structuration, avec des responsabilités concrètes et une grande autonomie dès le premier jour.\n\n1. Développement commercial (environ 60 %)\n- Développer la présence de l'entreprise aux États-Unis et au Canada : études de marché, prospection de clients et distributeurs, salons professionnels, tournées commerciales.\n- Prospecter et détecter des projets auprès des architectes et designers d'intérieur, showrooms design, galeries d'art et acteurs de l'hospitality (hôtellerie, restauration, retail et boutiques de luxe).\n- Déployer des campagnes de prospection multicanales, qualifier les leads et suivre le pipeline commercial.\n- Présenter les produits et savoir-faire, adapter le discours au marché américain et conduire les négociations jusqu'à la signature.\n- Assister le Directeur Général dans la prospection et la gestion de la relation client.\n- Mettre en place des outils de prospection et de pilotage (CRM, bases de données, tableaux de bord Excel, outils d'IA, supports de présentation et marketing).\n\n2. Gestion de projets et coordination production (environ 20 %)\n- Suivre les projets clients de la commande à la livraison : tapisseries, tapis, moquettes et tissus.\n- Faire le relais entre les clients nord-américains et les équipes de production et de logistique en France, en Europe et en Asie : cahiers des charges, délais, contrôle qualité, expérience client.\n- En coordination avec l'équipe ADV France, faciliter la logistique vers les États-Unis et le Canada : transport, formalités d'importation, suivi des installations.\n- Tenir à jour les plannings de production et informer les clients de l'avancement de leurs projets.\n\n3. Administration et office management (environ 20 %)\n- Préparer le reporting commercial et financier destiné à la direction générale du groupe.\n- Contribuer à la gestion administrative de la filiale avec l'équipe France : devis, facturation, suivi des paiements et relances.\n- Participer à l'organisation du bureau et, à terme, du showroom de New York : fournisseurs, prestataires, échantillons, accueil des clients.\n- Contribuer à l'organisation d'événements locaux (salons, présentations, opérations marketing) avec les équipes marketing et communication du groupe.\n\nDéplacements à prévoir aux États-Unis et au Canada. Télétravail partiel possible.\n\nCandidature : CV et lettre de motivation en français et en anglais, référence « VIE - Responsable Commercial et Administratif - New York ».",
     "creationDate": "2026-11-16T11:53:41Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -7641,160 +7585,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "",
-    "dateCandidature": null
-  },
-  {
-    "id": 247527,
-    "organizationName": "TECHNIP ENERGIES FRANCE",
-    "missionTitle": "V.I.E - Financial Controller - F/M (H/F)",
-    "missionDuration": 24,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "0",
-    "effectifConso": "3002",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "DOHA",
-    "cityNameEn": "DOHA",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "259"
-    ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
-    "missionDescription": "Liste des Tâches confiées au V.I.E. \n\nParticiper au suivi financier global du projet (revenus, coûts, marge et cash-flow).\n\nPréparer les clôtures mensuelles et les reportings financiers à destination du management local et du siège.\n\nAnalyser les écarts entre le budget, les prévisions et les réalisations. \n\nParticiper à l'élaboration des forecasts financiers et des revues de performance du projet.\n\nContribuer au contrôle des engagements, des risques et des opportunités financières.\n\nSuivre les encaissements clients et les indicateurs de trésorerie.\n\nAccompagner les équipes opérationnelles dans l'amélioration de la performance financière et le respect des objectifs de rentabilité.\n\nParticiper aux audits externes.",
-    "creationDate": "2026-10-26T15:06:05Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2029-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-26T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-11-25T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Votre profil:\n\n \n\nDiplômé(e) d'une école de commerce, d'ingénieur ou d'un Master 2 en Finance, Contrôle de Gestion ou Comptabilité. Expérience attendue : Première expérience en contrôle de gestion, audit ou finance de projet (stage ou alternance significatifs acceptés).\n\nVous maitrisez l'Excel et des outils d'analyse financière.\n\nVous connaissez des principes comptables et du contrôle de gestion.\n\nLa connaissance d'ERP tels que SAP constitue un atout.\n\nCapacité à analyser et synthétiser des données financières complexes.\n\n Sens de l'organisation, rigueur et esprit d'équipe.\n\n Anglais professionnel impératif (oral et écrit).",
-    "countryId": "QA",
-    "countryName": "QATAR",
-    "countryNameEn": "QATAR",
-    "reference": "VIE247527",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Arina TURCHINA",
-    "indemnite": 2721.83,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "https://hcxg.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/16324/?keyword=vie&mode=location",
-    "dateCandidature": null
-  },
-  {
-    "id": 247435,
-    "organizationName": "TOTALENERGIES SE",
-    "missionTitle": "Assistant Support aux Opérations Terrain (H/F) – Danemark",
-    "missionDuration": 24,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "",
-    "organizationUrlImage": "",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "1110",
-    "effectifConso": "3917",
-    "organizationCountryCounter": "0",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "ESBJERG",
-    "cityNameEn": "ESBJERG",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "5",
-      "169",
-      "264"
-    ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "169",
-        "specializationParentId": "255",
-        "specializationLabel": "Génie des procédés",
-        "specializationLabelEn": "Process Engineering"
-      },
-      {
-        "specializationId": "264",
-        "specializationParentId": "58",
-        "specializationLabel": "Gestion de projets industriels",
-        "specializationLabelEn": "Industrial project management"
-      }
-    ],
-    "missionDescription": "Rejoignez les équipes Field Operations de TotalEnergies au Danemark et contribuez à l'amélioration de la performance opérationnelle et de la sécurité des activités offshore. \nAu sein des départements Field Operations Support et Operational Safety, vous contribuez au développement d'outils de pilotage, au suivi budgétaire, à la préparation des audits réglementaires et à l'amélioration des processus internes. \n\nMerci de candidater en anglais.\nUn logement sera fourni pas la filiale.\n\nVous intervenez auprès de deux équipes distinctes, le support aux opérations et la sécurité opérationnelle. Au-delà des missions propres à chaque activité, vous participez à des projets transverses d'amélioration continue, de reporting et de transformation des modes de travail, vous offrant une vision élargie des activités Field Operations.\nVos principales missions :\n•\tDévelopper et améliorer des reportings automatisés à destination des équipes opérationnelles. \n•\tConstruire et faire évoluer des tableaux de bord Power BI. \n•\tProduire des indicateurs de performance et des analyses de données. \n•\tParticiper au suivi budgétaire et à la consolidation des données de coûts. \n•\tMettre à jour les données organisationnelles et les organigrammes. \n•\tPréparer les audits réglementaires et coordonner les actions associées. \n•\tContribuer au suivi des sujets HSE et aux analyses de causes racines. \n•\tPréparer des présentations et supports destinés au management. \n•\tIdentifier des pistes d'amélioration et proposer des solutions innovantes.",
-    "creationDate": "2026-10-23T15:45:33Z",
-    "missionStartDate": "2027-02-01T00:00:00",
-    "missionEndDate": "2029-02-01T00:00:00",
-    "startBroadcastDate": "2026-10-26T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-11-25T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Vous diplômé d’un BAC+5 minimum, d’une école d'ingénieurs ou équivalent avec une spécialisation en génie des procédés, génie chimique, HSE ou gestion des risques.\n\nVous bénéficiez d’une première expérience (stage, alternance ou expérience professionnelle) intégrant de l'analyse de données, suivi des coûts, du reporting ou de la gestion de projet.\n\nUne expérience sur des sujets HSE, audits ou gestion des risques dans le secteur de l’industrie ou de l’énergie constitue un atout.\n\nUne expérience sur le développement d’outils digitaux est appréciée.\n\nVous maîtrisez les outils du Pack Office, notamment :\n•\tExcel ;\n•\tPowerPoint ;\n•\tPower BI (pour la visualisation de données.)\n\nUn niveau d’anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.",
-    "countryId": "DK",
-    "countryName": "DANEMARK",
-    "countryNameEn": "DENMARK",
-    "reference": "VIE247435",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Madame Véronique BACAUD",
-    "indemnite": 3662.65,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "https://jobs.totalenergies.com/fr_FR/careers/JobDetail/VIE-Assistant-Support-aux-Op-rations-Terrain-H-F-Danemark/85445",
     "dateCandidature": null
   },
   {

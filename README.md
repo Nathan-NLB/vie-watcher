@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **26/11/2026 04:01:11**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **26/11/2026 04:15:43**, 92 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5378,109 +5378,6 @@ Plus:
 • Master in Finance 
 • Knowledge of analytical tools such as SAS or basics in database models 
 • Written and spoken German
-
-</details>
-
-<details>
-<summary><strong>V.I.E - Financial Controller - F/M (H/F)</strong> · TECHNIP ENERGIES FRANCE · DOHA, QATAR · 2 721,83 €/mois</summary>
-
-- **Entreprise :** TECHNIP ENERGIES FRANCE
-- **Lieu :** DOHA, QATAR
-- **Indemnité :** 2 721,83 €/mois
-- **Durée de la mission :** 24 mois (Du 1 janv. 2027 au 1 janv. 2029)
-- **Publiée le :** 26/10/2026
-- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à sa formation en contrôle de gestion, ses compétences solides en Excel et reporting, et son excellent niveau d'anglais (TOEIC 925). Seul léger écart : son expérience est orientée PME industrielle et non en finance de projet grand compte, et la destination (Qatar) diffère de son appétence initiale pour l'Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247527](https://mon-vie-via.businessfrance.fr/offres/247527)
-
-**Description du poste**
-
-Liste des Tâches confiées au V.I.E. 
-
-Participer au suivi financier global du projet (revenus, coûts, marge et cash-flow).
-
-Préparer les clôtures mensuelles et les reportings financiers à destination du management local et du siège.
-
-Analyser les écarts entre le budget, les prévisions et les réalisations. 
-
-Participer à l'élaboration des forecasts financiers et des revues de performance du projet.
-
-Contribuer au contrôle des engagements, des risques et des opportunités financières.
-
-Suivre les encaissements clients et les indicateurs de trésorerie.
-
-Accompagner les équipes opérationnelles dans l'amélioration de la performance financière et le respect des objectifs de rentabilité.
-
-Participer aux audits externes.
-
-**Profil recherché**
-
-Votre profil:
-
- 
-
-Diplômé(e) d'une école de commerce, d'ingénieur ou d'un Master 2 en Finance, Contrôle de Gestion ou Comptabilité. Expérience attendue : Première expérience en contrôle de gestion, audit ou finance de projet (stage ou alternance significatifs acceptés).
-
-Vous maitrisez l'Excel et des outils d'analyse financière.
-
-Vous connaissez des principes comptables et du contrôle de gestion.
-
-La connaissance d'ERP tels que SAP constitue un atout.
-
-Capacité à analyser et synthétiser des données financières complexes.
-
- Sens de l'organisation, rigueur et esprit d'équipe.
-
- Anglais professionnel impératif (oral et écrit).
-
-</details>
-
-<details>
-<summary><strong>Assistant Support aux Opérations Terrain (H/F) – Danemark</strong> · TOTALENERGIES SE · ESBJERG, DANEMARK · 3 662,65 €/mois</summary>
-
-- **Entreprise :** TOTALENERGIES SE
-- **Lieu :** ESBJERG, DANEMARK
-- **Indemnité :** 3 662,65 €/mois
-- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
-- **Publiée le :** 26/10/2026
-- **Compatibilité avec ton profil :** 65 % — Le profil présente de solides compétences en contrôle de gestion, Power BI et analyse de données en phase avec le volet budgétaire et reporting du poste. Cependant, l'offre cible plutôt un profil ingénieur avec une spécialisation HSE/génie des procédés et requiert un anglais C1 (contre 925 au TOEIC), tandis que le candidat recherche prioritairement l'Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247435](https://mon-vie-via.businessfrance.fr/offres/247435)
-
-**Description du poste**
-
-Rejoignez les équipes Field Operations de TotalEnergies au Danemark et contribuez à l'amélioration de la performance opérationnelle et de la sécurité des activités offshore. 
-Au sein des départements Field Operations Support et Operational Safety, vous contribuez au développement d'outils de pilotage, au suivi budgétaire, à la préparation des audits réglementaires et à l'amélioration des processus internes. 
-
-Merci de candidater en anglais.
-Un logement sera fourni pas la filiale.
-
-Vous intervenez auprès de deux équipes distinctes, le support aux opérations et la sécurité opérationnelle. Au-delà des missions propres à chaque activité, vous participez à des projets transverses d'amélioration continue, de reporting et de transformation des modes de travail, vous offrant une vision élargie des activités Field Operations.
-Vos principales missions :
-•	Développer et améliorer des reportings automatisés à destination des équipes opérationnelles. 
-•	Construire et faire évoluer des tableaux de bord Power BI. 
-•	Produire des indicateurs de performance et des analyses de données. 
-•	Participer au suivi budgétaire et à la consolidation des données de coûts. 
-•	Mettre à jour les données organisationnelles et les organigrammes. 
-•	Préparer les audits réglementaires et coordonner les actions associées. 
-•	Contribuer au suivi des sujets HSE et aux analyses de causes racines. 
-•	Préparer des présentations et supports destinés au management. 
-•	Identifier des pistes d'amélioration et proposer des solutions innovantes.
-
-**Profil recherché**
-
-Vous diplômé d’un BAC+5 minimum, d’une école d'ingénieurs ou équivalent avec une spécialisation en génie des procédés, génie chimique, HSE ou gestion des risques.
-
-Vous bénéficiez d’une première expérience (stage, alternance ou expérience professionnelle) intégrant de l'analyse de données, suivi des coûts, du reporting ou de la gestion de projet.
-
-Une expérience sur des sujets HSE, audits ou gestion des risques dans le secteur de l’industrie ou de l’énergie constitue un atout.
-
-Une expérience sur le développement d’outils digitaux est appréciée.
-
-Vous maîtrisez les outils du Pack Office, notamment :
-•	Excel ;
-•	PowerPoint ;
-•	Power BI (pour la visualisation de données.)
-
-Un niveau d’anglais C1 minimum est requis. Un niveau de français B2 minimum est également demandé.
 
 </details>
 
