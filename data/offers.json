@@ -2327,23 +2327,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "180",
-      "202"
+      "[\"180\",\"202\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "180",
-        "specializationParentId": "19",
-        "specializationLabel": "Finances de marchés - trading",
-        "specializationLabelEn": "Market Finance - trading"
-      },
-      {
-        "specializationId": "202",
-        "specializationParentId": "19",
-        "specializationLabel": "Back et Middle Office (Banque de marché)",
-        "specializationLabelEn": "Back et Middle Office (Capital Markets)"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Location: Cologne (priority) or Berlin, Germany\n\nContext\n \nENGIE is a global benchmark in low-carbon energy and services. Its energy management business, Global Energy Management & Sales, has built its know-how over 20+ years on a vast and diversified asset portfolio. Our 3,300 employees work across 20+ international sales platforms. They cover the entire energy mix: renewable and thermal energy, natural gas and LNG, biomass and environmental products.\n \nOur 120,000 customers include producers, asset developers, financial players, utilities, distributors and manufacturers. We support them with four areas of expertise: asset management, energy transition services, energy and commodities trading, and risk management and market access.\n \nThe B2B division provides energy supply solutions and risk management services. They support customers in their decarbonization journey, optimize ENGIE's assets and create value.\n \nBP Germany is a fast-growing business platform with strong ambitions in renewables, and it leads the Group's carbon neutrality objective. It rests on three pillars: renewables, market access and supply, and optimization of generation assets.\n \nThe Back Office team ensures correct invoicing and post-trade control for all BP Germany customers.\n \nYour Mission\n \nAs VIE Contract Manager, you will report to the Head of the BO team and have no management responsibilities.\nYou will:\n \nManage energy supply contracts. You will build a thorough understanding of each contract, identify the right invoicing scheme and assess the impact on the invoicing and accounting chain.\nLearn the operational invoicing tasks alongside the team.\nMaintain and improve the invoicing tools (currently Excel and VBA).\nTake part in the team's project to digitalize invoicing with Dataiku and Python.\nMake sure the contractual terms match the booking, and manage the day-to-day contract lifecycle.\nWork with the internal teams: Front Office (trading and origination), Customer Support, Legal, Credit and Risk, Compliance and other KYC teams. You will also deal with external counterparties.\n \nDepending on your performance, you may also:\n \nJoin the migration of invoicing to a global tool. You would work with IT teams, provide guidance, and test and validate deliveries.\nManage disputes with counterparties, with input from internal stakeholders.\nSupport Front Office, Sales, Tax and Legal on deal origination and renegotiation.",
     "creationDate": "2026-11-13T11:12:07Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -7410,76 +7396,6 @@
     "idNomenclatureSecteur": null,
     "externalJobId": "",
     "contactURL": "https://recrutement.natixis.com/job/v-i-e-18-months-internal-auditor-f-m-new-york",
-    "dateCandidature": null
-  },
-  {
-    "id": 246087,
-    "organizationName": "CA CONSUMER FINANCE",
-    "missionTitle": "VIE Junior Financial Controller (H/F)",
-    "missionDuration": 12,
-    "viewCounter": 0,
-    "candidateCounter": 0,
-    "missionType": "VIE",
-    "missionTypeEn": "VIE",
-    "organizationPresentation": "Crédit Agricole Consumer Finance, filiale du groupe Crédit Agricole, distribue en direct, sur le lieu de vente ou les plateformes e-commerce de ses partenaires, une gamme étendue de solutions de financement – crédit amortissable, crédit renouvelable, leasing et rachat de crédit - avec des services associés dont les assurances, des solutions de paiement fractionné et des services dédiés à la mobilité, avec pour objectif de répondre aux enjeux de transition énergétique dans la mobilité, l’habitat et la consommation.  Ses solutions de financement et ses services sont proposés en France via Sofinco, en Italie via Agos, en Allemagne via Creditplus, au Portugal via Credibom, en Espagne via Sofinco España, au Maroc via Wafasalaf, et en Chine via GAC-Sofinco (financement automobile uniquement). Crédit Agricole Consumer Finance ambitionne d’être leader de la mobilité verte en Europe et propose un continuum de toutes les solutions de mobilité dans les 19 pays où il est présent (leasing, location moyenne et courte durée, abonnement, autopartage, installation de bornes de charge…). Il s’appuie sur Leasys, un leader européen de la LLD avec Stellantis, CA Auto Bank et Drivalia, notre entité paneuropéenne de financement automobile, de location et de mobilité et le développement des financements automobiles dans ses entités historiques en Europe et dans les Caisses régionales du Crédit Agricole et chez LCL via Agilauto.",
-    "organizationUrlImage": "https://www.meilleurtaux.com/images/actu/logo-cacf.PNG",
-    "organizationImage": null,
-    "organizationPathImage": null,
-    "pathImage": null,
-    "image": null,
-    "activitySectorN1": null,
-    "activitySectorN2": null,
-    "activitySectorN3": null,
-    "activitySectorN1Id": 0,
-    "ca": null,
-    "effectif": 0,
-    "effectifFiscal": "0",
-    "effectifInd": "2000",
-    "effectifConso": "0",
-    "organizationCountryCounter": "19",
-    "organizationExpertise": null,
-    "cityAffectationId": 0,
-    "cityName": "STUTTGART",
-    "cityNameEn": "STUTTGART",
-    "activitySectorOfferId": 0,
-    "levelStudyIds": null,
-    "specialization": [
-      "259"
-    ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
-    "missionDescription": "Our Mission \nWe make wishes come true - our mission is to enrich the lives of our customers and realize dreams with \nour financial services. We don't see ourselves as a typical bank, but as a vibrant community of creators \nwho are not afraid to break new ground. At the same time, we are all committed to topics with an impact \nsuch as sustainability and digitalization - whether at our headquarters in Stuttgart, at our location in \nOffenbach or in our 21 branches across Germany.  \nAt Creditplus, we think bigger because we benefit from synergies with our (inter)national sister units and \nbusiness units under the Crédit Agricole umbrella. As you can see, we still like a family atmosphere: \nwith appreciation and team spirit, we work hand in hand for the innovation of financial services. And \ncelebrate our successes, big and small, together. Goodbye monotonous working day. Hello feasible.  \nWe are making banking digital - and you are a part of it. Our IT department is the driving force for change \n(and run). With your new job you will be directly involved in shaping the path to new innovations in the \ncredit industry. Develop your skills with us by mastering exciting challenges independently. Our agile \norganizational structure in chapters and guilds means you are well prepared for interdisciplinary and \ninternational collaboration. We work with modern tech stacks and state-of-the-art technologies. Are you \njust as non-standard as our IT jobs? Then start an IT career at Creditplus now! \nWhat you will work on \n• Preparation of the monthly reporting according to HGB, IFRS and management \nreporting based on IFRS for the responsible area, including coordination with the \ndepartments involved as well as analysis of the key figures (development, plan-actual \ndeviations, special analyses) \n• Implementation of (sub-annual and multi-annual) planning in accordance with HGB, \nIFRS and management reporting based on IFRS, including coordination with \nspecialist departments, the Executive Board and the Group \n• Support for the annual financial statements by providing auditors with the necessary \ndocuments in a timely manner \n• Budget and forecast planning: process coordination within the department, within \nCreditplus and with CAPFM \nFurther development and redesign of controlling processes: \n• Methodological-conceptual recording, description and participation in the remodelling \nof processe \n• Creation and support for specialist concepts, process presentations as well as the \nassociated work instructions \nParticipation in BI projects: \n• Support in the development of specialist concepts, testing, roll-out and follow-up \nsupport within the framework of business intelligence projects \nQuality assurance: \n• Participation in the design and implementation of quality assurance measures \nincluding documentation, with special attention to process stability and efficiency \nimprovement.",
-    "creationDate": "2026-09-17T16:08:45Z",
-    "missionStartDate": "2027-01-01T00:00:00",
-    "missionEndDate": "2028-01-01T00:00:00",
-    "startBroadcastDate": "2026-10-27T00:00:00",
-    "durationBroadcast": 30,
-    "endBroadcastDate": "2026-11-26T00:00:00",
-    "organizationId": 0,
-    "missionProfile": "Completed studies in economics with specializations in controlling/ finance, business \nmathematics, business informatics or comparable degree \n• Very good knowledge of MS Office, especially Excel (incl. Pivot, SQL) and \nPowerPoint \n• In-depth understanding of financial economics and first experience in the \ndevelopment and optimization of controlling processes. \n• Fluent English (level B2/C1) \n• Good communication skills and very good analytical and conceptual skills, combined \nwith a structured and solution-oriented way of working. \n• High level of reliability, conscientiousness and quality awareness. \n• Strong teamwork and social competence, with the ability to work effectively with \ninternal and external stakeholders. \n• Resilience and flexibility, especially in a dynamic working environment. \nPlus: \n• Relevant professional experience in controlling or a comparable field \n• Master in Finance \n• Knowledge of analytical tools such as SAS or basics in database models \n• Written and spoken German",
-    "countryId": "DE",
-    "countryName": "ALLEMAGNE",
-    "countryNameEn": "GERMANY",
-    "reference": "VIE246087",
-    "contactFirstName": "",
-    "contactLastName": "",
-    "contactCivility": "",
-    "contactName": "Monsieur KEVIN VIEIRA FERREIRA",
-    "indemnite": 3027.63,
-    "teleworkingAvailable": false,
-    "socialReach": false,
-    "idMotifDesactivationOffre": 0,
-    "contactEmail": "kvieiraferreira@ca-ibs.com",
-    "cityAffectation": "",
-    "idNomenclatureSecteur": null,
-    "externalJobId": "",
-    "contactURL": "",
     "dateCandidature": null
   },
   {

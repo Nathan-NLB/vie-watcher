@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/11/2026 00:01:12**, 96 offre(s) actuellement en ligne.
+Dernière vérification : **27/11/2026 00:15:44**, 95 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5475,82 +5475,6 @@ First experience in the banking industry within the big four or an Internal audi
 International experience in an English spoken country.
 Proficient in Excel and Word.
 Strong working knowledge of analytical and AI tools .
-
-</details>
-
-<details>
-<summary><strong>VIE Junior Financial Controller (H/F)</strong> · CA CONSUMER FINANCE · STUTTGART, ALLEMAGNE · 3 027,63 €/mois</summary>
-
-- **Entreprise :** CA CONSUMER FINANCE
-- **Lieu :** STUTTGART, ALLEMAGNE
-- **Indemnité :** 3 027,63 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 27/10/2026
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/246087](https://mon-vie-via.businessfrance.fr/offres/246087)
-
-**Description du poste**
-
-Our Mission 
-We make wishes come true - our mission is to enrich the lives of our customers and realize dreams with 
-our financial services. We don't see ourselves as a typical bank, but as a vibrant community of creators 
-who are not afraid to break new ground. At the same time, we are all committed to topics with an impact 
-such as sustainability and digitalization - whether at our headquarters in Stuttgart, at our location in 
-Offenbach or in our 21 branches across Germany.  
-At Creditplus, we think bigger because we benefit from synergies with our (inter)national sister units and 
-business units under the Crédit Agricole umbrella. As you can see, we still like a family atmosphere: 
-with appreciation and team spirit, we work hand in hand for the innovation of financial services. And 
-celebrate our successes, big and small, together. Goodbye monotonous working day. Hello feasible.  
-We are making banking digital - and you are a part of it. Our IT department is the driving force for change 
-(and run). With your new job you will be directly involved in shaping the path to new innovations in the 
-credit industry. Develop your skills with us by mastering exciting challenges independently. Our agile 
-organizational structure in chapters and guilds means you are well prepared for interdisciplinary and 
-international collaboration. We work with modern tech stacks and state-of-the-art technologies. Are you 
-just as non-standard as our IT jobs? Then start an IT career at Creditplus now! 
-What you will work on 
-• Preparation of the monthly reporting according to HGB, IFRS and management 
-reporting based on IFRS for the responsible area, including coordination with the 
-departments involved as well as analysis of the key figures (development, plan-actual 
-deviations, special analyses) 
-• Implementation of (sub-annual and multi-annual) planning in accordance with HGB, 
-IFRS and management reporting based on IFRS, including coordination with 
-specialist departments, the Executive Board and the Group 
-• Support for the annual financial statements by providing auditors with the necessary 
-documents in a timely manner 
-• Budget and forecast planning: process coordination within the department, within 
-Creditplus and with CAPFM 
-Further development and redesign of controlling processes: 
-• Methodological-conceptual recording, description and participation in the remodelling 
-of processe 
-• Creation and support for specialist concepts, process presentations as well as the 
-associated work instructions 
-Participation in BI projects: 
-• Support in the development of specialist concepts, testing, roll-out and follow-up 
-support within the framework of business intelligence projects 
-Quality assurance: 
-• Participation in the design and implementation of quality assurance measures 
-including documentation, with special attention to process stability and efficiency 
-improvement.
-
-**Profil recherché**
-
-Completed studies in economics with specializations in controlling/ finance, business 
-mathematics, business informatics or comparable degree 
-• Very good knowledge of MS Office, especially Excel (incl. Pivot, SQL) and 
-PowerPoint 
-• In-depth understanding of financial economics and first experience in the 
-development and optimization of controlling processes. 
-• Fluent English (level B2/C1) 
-• Good communication skills and very good analytical and conceptual skills, combined 
-with a structured and solution-oriented way of working. 
-• High level of reliability, conscientiousness and quality awareness. 
-• Strong teamwork and social competence, with the ability to work effectively with 
-internal and external stakeholders. 
-• Resilience and flexibility, especially in a dynamic working environment. 
-Plus: 
-• Relevant professional experience in controlling or a comparable field 
-• Master in Finance 
-• Knowledge of analytical tools such as SAS or basics in database models 
-• Written and spoken German
 
 </details>
 
