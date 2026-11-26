@@ -598,16 +598,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Job Summary: \n\n\n\nReporting to the Head of Finance Transformation North America, the VIE Finance Transformation Analyst- AI & Emerging Tech is a high-impact, forward-looking role designed to lead the integration of Artificial Intelligence within the Finance function.\n\nAs the AI lead for the US Finance Transformation team, the incumbent is responsible for enforcing standard Airbus Finance Transformation Strategies while pioneering \"Agentic Finance\"—the use of AI agents, Large Language Models (LLMs), and machine learning to automate complex workflows. This role transcends traditional reporting, focusing on building the Future of Finance by identifying, developing, and scaling AI use cases that drive operational excellence across North America.\n\n\n\nThe person will also be responsible for ensuring that the company’s financial systems and processes comply with relevant laws and regulations and plays a critical role in maintaining the integrity and legal compliance of the financial operations.\n\nThey will ensure the full lifecycle of projects by following the Airbus project management methodology and will be responsible for delivering the solutions through to entry into service. This role will interact with all the Airbus Functions including Procurement, Digital, Customer Services, Logistic, Production, Human-Resources and with multiple Stakeholders.",
     "creationDate": "2026-11-23T10:24:49Z",
     "missionStartDate": "2027-02-01T00:00:00",
