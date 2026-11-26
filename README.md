@@ -8,11 +8,94 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **26/11/2026 17:30:57**, 94 offre(s) actuellement en ligne.
+Dernière vérification : **26/11/2026 17:46:02**, 96 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE – Analyste Back-Office Enterprise (H/F) – Belgique</strong> · TOTALENERGIES SE · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
+
+- **Entreprise :** TOTALENERGIES SE
+- **Lieu :** LIEGE, BELGIQUE
+- **Indemnité :** 2 978,53 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 26/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à son Master en contrôle de gestion, ses compétences en analyse financière, en reporting et sa maîtrise d'Excel et Power BI. Ses expériences en gestion des risques d'assurance et en amélioration des processus s'alignent parfaitement avec les missions de l'offre, bien que sa préférence géographique initiale fût l'Espagne plutôt que la Belgique.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248839](https://mon-vie-via.businessfrance.fr/offres/248839)
+
+**Description du poste**
+
+Rejoignez la filiale TotalEnergies Power & Gas à Liège, en Belgique et contribuez à l'optimisation des activités du département Back-Office Enterprise dédié aux clients grands comptes B2B.
+Dans un contexte de transformation des processus et de digitalisation des activités, vous intervenez à la fois sur les sujets liés à l'analyse du risque crédit et sur les projets d'amélioration continue visant à automatiser, simplifier et fiabiliser les opérations du Back Office.
+Vérifiez votre éligibilité au programme VIE ainsi que les spécificités pays sur le site internet https://mon-vie-via.businessfrance.fr/qu-est-ce-que-le-volontariat-international.
+Merci de candidater en anglais.
+Vos principales missions
+Vos principales missions :
+•	Analyser la solvabilité des clients et prospects B2B.
+•	Participer à l'évaluation et au suivi du risque crédit.
+•	Contribuer au suivi des limites d'assurance-crédit et des expositions financières.
+•	Participer aux actions de prévention et de réduction des impayés.
+•	Comprendre et analyser les processus opérationnels du Back Office Enterprise.
+•	Identifier des opportunités d'amélioration, de simplification et d'automatisation des processus.
+•	Participer à la mise en œuvre de projets de transformation digitale.
+•	Contribuer au développement d'outils de reporting et de suivi de la performance.
+•	Participer à la formalisation et à la documentation des processus.
+•	Accompagner l'adoption de nouveaux outils et méthodes de travail.
+•	Contribuer aux initiatives liées à l'utilisation de l'intelligence artificielle dans les activités du Back Office.
+
+**Profil recherché**
+
+Vous êtes diplômé d'un BAC+5 minimum (master universitaire, école de commerce ou école d'ingénieurs) avec une spécialisation en finance, comptabilité, contrôle de gestion, économie, gestion, audit, analyse de données ou domaine équivalent.
+Vous bénéficiez d'une première expérience en automatisation, amélioration des processus, analyse financière ou contrôle de gestion.
+Vous avez des connaissances en automatisation, intelligence artificielle, analyse financière de comptes annuels. Vous connaissez idéalement l’assurance-crédit et le factoring. 
+Vous démontrez un intérêt marqué pour les sujets liés à la digitalisation, à l'automatisation des processus et à l'intelligence artificielle.
+
+Vous maîtrisez les outils du Pack Office, notamment :
+•	Excel (tableaux croisés dynamiques et fonction avancées) ;
+•	PowerPoint ;
+•	Word.
+La maîtrise de Power BI ou de SQL est demandée pour la création de tableaux et le suivi d’indicateurs. 
+La connaissance d’un ERP est un atout, comme SAP par exemple. 
+Un niveau de français C1 minimum est requis. Un niveau d'anglais B2 minimum est également demandé. La connaissance du néerlandais constitue un atout.
+La branche Gas, Renewables & Power (GRP) de TotalEnergies regroupe la production d’électricité, son stockage, son négoce ainsi que sa distribution. Elle couvre aussi l’ensemble de la chaîne du gaz et du gaz naturel liquéfié (GNL), et développe les activités biogaz et hydrogène. Avec environ 10 000 collaborateurs dans plus de 50 pays, la branche GRP est un pilier majeur de la transition énergétique de la Compagnie. Son objectif : construire un modèle intégré de l’électricité, notamment renouvelable, tout en garantissant l’approvisionnement en gaz dont le monde a besoin aujourd’hui.
+
+</details>
+
+<details>
+<summary><strong>VIE Crédit Officer (H/F)</strong> · BANQUE TRANSATLANTIQUE · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
+
+- **Entreprise :** BANQUE TRANSATLANTIQUE
+- **Lieu :** LUXEMBOURG, LUXEMBOURG
+- **Indemnité :** 3 152,69 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 26/11/2026
+- **Compatibilité avec ton profil :** 65 % — Le profil de Nathan présente de solides compétences analytiques et en reporting ainsi qu'un niveau d'anglais adéquat pour ce poste au Luxembourg. Cependant, l'offre s'oriente vers le crédit management et la gestion des risques bancaires, ce qui s'éloigne de son cœur de métier en contrôle de gestion et FP&A.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248833](https://mon-vie-via.businessfrance.fr/offres/248833)
+
+**Description du poste**
+
+Vous intégrez une équipe à taille humaine et dynamique, le Département Crédits composé de 4 personnes pour :
+• S’assurer de la complétude des dossiers de crédits (bilan, AML, etc.) et des offres
+• S’initier à l’analyse Risques Crédits
+• Contribuer à préparer ou vérifier les contrats de crédit et la recevabilité des demandes clients (complétude des dossiers clients, respect de la réglementation, etc.)
+• Contribuer au processus de validation des crédits dans le respect de la politique de crédit mise en place par la banque
+• Assurer l’archivage des documents
+• Effectuer des revues périodiques des crédits ainsi que des garanties
+• Contribuer à la collecte de données utiles pour reportings
+• Participer à la préparation des différents comités et reportings
+
+**Profil recherché**
+
+• Titulaire d’un diplôme académique supérieur (minim Bachelor)
+• Compétences analytiques
+• Sens de la discrétion et de la confidentialité
+• Organisation, rigueur et précision
+• Bonne maîtrise des outils bureautiques (Excel notamment)
+• Parfaite maîtrise du français et pratique courante de l’anglais
+
+</details>
 
 <details>
 <summary><strong>Trading Operations Analyst (H/F)</strong> · BLUE CUBE (FRANCE) · LONDRES, ROYAUME-UNI · 3 815,75 €/mois</summary>

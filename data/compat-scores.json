@@ -646,5 +646,13 @@
   "248832": {
     "score": 45,
     "raison": "Le profil de Nathan est orienté vers le contrôle de gestion classique et l'analyse financière en entreprise, alors que l'offre recherche un profil orienté vers les opérations de trading, la cryptomonnaie et les rapprochements de positions. Malgré un bon niveau d'anglais et une maîtrise d'Excel, l'adéquation des compétences métier et des outils (manque de compétences en programmation type Python/SQL) est faible."
+  },
+  "248833": {
+    "score": 65,
+    "raison": "Le profil de Nathan présente de solides compétences analytiques et en reporting ainsi qu'un niveau d'anglais adéquat pour ce poste au Luxembourg. Cependant, l'offre s'oriente vers le crédit management et la gestion des risques bancaires, ce qui s'éloigne de son cœur de métier en contrôle de gestion et FP&A."
+  },
+  "248839": {
+    "score": 85,
+    "raison": "Le profil de Nathan correspond très bien aux attentes de l'offre grâce à son Master en contrôle de gestion, ses compétences en analyse financière, en reporting et sa maîtrise d'Excel et Power BI. Ses expériences en gestion des risques d'assurance et en amélioration des processus s'alignent parfaitement avec les missions de l'offre, bien que sa préférence géographique initiale fût l'Espagne plutôt que la Belgique."
   }
 }
