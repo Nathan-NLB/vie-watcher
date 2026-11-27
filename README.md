@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/11/2026 14:31:01**, 99 offre(s) actuellement en ligne.
+Dernière vérification : **27/11/2026 14:45:46**, 99 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -217,20 +217,13 @@ Intragroupe : suivi des refacturations intragroupe et appui aux audits des soci�
 
 **Profil recherché**
 
-•
-Bac+5 (école de commerce, d’ingénieur ou master universitaire) en finance, audit ou gestion des risques, une première expérience en audit, en gestion des risques, en administration de fonds ou en private equity est un plus.
-•
-Bonne maîtrise des états financiers et des principes comptables.
-•
-Français et anglais courants, à l’écrit comme à l’oral.
-•
-Rigueur, sens du détail et esprit méthodique ; capacité à mener plusieurs sujets dans un environnement évolutif.
-•
-Autonomie, sens de l’initiative et discrétion sur des données confidentielles.
-•
-Bon relationnel, esprit d’équipe et intérêt pour le private equity en Afrique et dans la région MENA.
-•
-Maitrise du Pack office (Excel, Word, PowerPoint).
+• Bac+5 (école de commerce, d’ingénieur ou master universitaire) en finance, audit ou gestion des risques, une première expérience en audit, en gestion des risques, en administration de fonds ou en private equity est un plus.
+• Bonne maîtrise des états financiers et des principes comptables.
+• Français et anglais courants, à l’écrit comme à l’oral.
+• Rigueur, sens du détail et esprit méthodique ; capacité à mener plusieurs sujets dans un environnement évolutif.
+• Autonomie, sens de l’initiative et discrétion sur des données confidentielles.
+• Bon relationnel, esprit d’équipe et intérêt pour le private equity en Afrique et dans la région MENA.
+• Maitrise du Pack office (Excel, Word, PowerPoint).
 
 </details>
 
