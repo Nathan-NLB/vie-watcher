@@ -770,5 +770,10 @@
   "ville|kaposvar|hongrie": {
     "lat": 46.3564692,
     "lon": 17.7886886
+  },
+  "entreprise|julbo|mintia|roumanie": null,
+  "ville|mintia|roumanie": {
+    "lat": 45.9238836,
+    "lon": 22.8487956
   }
 }

@@ -8,11 +8,50 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/11/2026 13:30:59**, 98 offre(s) actuellement en ligne.
+Dernière vérification : **27/11/2026 13:45:49**, 99 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>CONTROLEUR DE GESTION INDUSTRIEL ET PERFORMANCE OPERATIONNELLE (H/F)</strong> · JULBO · MINTIA, ROUMANIE · 2 320,52 €/mois</summary>
+
+- **Entreprise :** JULBO
+- **Lieu :** MINTIA, ROUMANIE
+- **Indemnité :** 2 320,52 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 27/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond très bien aux attentes de l'offre grâce à son Master en contrôle de gestion, sa maîtrise d'Excel et de Power BI, ainsi que son expérience solide en reporting et analyse financière. Seul léger écart : l'offre se situe en Roumanie alors que le candidat manifeste une préférence pour l'Espagne, et le contexte est spécifiquement industriel.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248870](https://mon-vie-via.businessfrance.fr/offres/248870)
+
+**Description du poste**
+
+1. Analyse des coûts, des marges et de la performance industrielle
+ Aller au-delà du constat financier pour comprendre les causes opérationnelles des écarts et identifier les actions correctives pertinentes.
+2. Développement du pilotage de la performance des ateliers
+Mettre à disposition des managers des outils leur permettant de comprendre les performances de leurs ateliers et de prioriser les actions d'amélioration.
+3. Contribution au déploiement du nouvel ERP
+Faire de l'ERP un véritable outil d'aide à la décision, et non simplement un système de collecte de données.
+4. Suivi budgétaire et analyse financière
+Produire une information financière fiable, compréhensible et directement utilisable pour la prise de décision.
+5. Participation aux projets de développement industriel
+Apporter une vision économique structurée aux projets de développement du site.
+
+**Profil recherché**
+
+Bac+5 en contrôle de gestion, finance d'entreprise, ingénierie industrielle ou gestion de production.
+Une première expérience en contrôle de gestion industriel, en analyse de performance ou en environnement de production serait appréciée.
+Les profils d'ingénieurs ayant développé des compétences en gestion financière sont également les bienvenus.
+Compétences
+
+Bonne maîtrise d'Excel et capacité à manipuler et analyser des données.
+Connaissance des principes du contrôle de gestion et des coûts industriels.
+Intérêt pour les systèmes ERP et les outils de Business Intelligence (Power BI ou équivalent).
+Capacité à structurer des analyses et à présenter des conclusions claires.
+Français courant et bon niveau d'anglais.
+
+</details>
 
 <details>
 <summary><strong>VIE - MALTE - Contrôleur de gestion (H/F)</strong> · STMICROELECTRONICS FRANCE · KIRKOP, MALTE · 2 225,20 €/mois</summary>
