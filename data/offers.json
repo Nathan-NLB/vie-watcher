@@ -4469,16 +4469,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Envie de lancer votre carrière dans un environnement international et stimulant ?\n Rejoignez SII et vivez une expérience humaine et technologique unique !\n\n🚀 LE CONTEXTE\nAu sein de l’équipe Finance de SII Allemagne, basée à Augsburg, vous accompagnez la transformation de la fonction finance.\nVotre objectif : réduire les tâches manuelles, automatiser les processus et améliorer la qualité des données, notamment grâce à Power BI et à l’IA. Vous travaillez en lien étroit avec le contrôle de gestion interne.\nLe poste sera basé à Augsburg, de préférence. Un poste basé à Munich est également possible, avec au moins un jour par semaine sur site à Augsbourg (à environ une heure de route de Munich).\n\n🎯 VOS MISSIONS\n1. Optimisation des processus finance\n· Améliorer les processus dans l’ERP IFS.\n· Optimiser les processus comptables.\n· Documenter et standardiser les procédures.\n\n2. Automatisation et reporting\n· Automatiser les contrôles financiers et les tâches manuelles liées au processus de clôture, en s'appuyant sur des outils tels que l'IA, Power Automate, etc.\n· Développer les outils de reporting et de pilotage sous Power BI et Microsoft Fabric.\n\n3. Qualité des données\n· Garantir la qualité et la cohérence des données entre les outils (HubSpot et outils internes).\n· [Mettre en place des contrôles de cohérence automatisés.]",
     "creationDate": "2026-11-12T12:30:52Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -5162,37 +5155,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259",
-      "318",
-      "320",
-      "322"
+      "[\"259\",\"318\",\"320\",\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "320",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyse financière",
-        "specializationLabelEn": "Analyse financière"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Leading French independent pharmaceutical Company, specialised in ethical medicinal products. 92% of Servier’s sales are achieved internationally, with several subsidiary companies abroad. We are looking for V.I.E’s, for our subsidiary in ARGENTINA\nDescription of the mission: \n\tCentralized Management: Single point of contact for all procurement activities for the Argentina affiliate.\n\tSourcing & Negotiation: Lead bidding processes (RFQs/RFPs) and negotiate contracts to optimize costs and quality.\n\tSupplier Relationship Management (SRM): Evaluate risks and monitor the performance of strategic suppliers.\n\tBusiness Partnership: Advise internal departments (Finance, Marketing, Medical, etc.) on their specific procurement needs.\n\tCompliance & Reporting: Ensure adherence to global policies and report key performance indicators (KPIs).\n\nDuration of the mission: 12 months renewable",
     "creationDate": "2026-11-09T13:36:52Z",
     "missionStartDate": "2027-02-01T00:00:00",
