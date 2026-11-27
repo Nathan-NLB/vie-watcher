@@ -8,11 +8,58 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/11/2026 14:45:46**, 99 offre(s) actuellement en ligne.
+Dernière vérification : **27/11/2026 15:01:18**, 100 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE 2027-LATAM (Mexico)-International Procurement Manager (H/F)</strong> · AIRBUS · MEXICO, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** AIRBUS
+- **Lieu :** MEXICO, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 18 mois (Du 1 mars 2027 au 1 sept. 2028)
+- **Publiée le :** 27/11/2026
+- **Compatibilité avec ton profil :** 40 % — Le profil du candidat est axé sur le contrôle de gestion et la finance d'entreprise, tandis que l'offre d'Airbus concerne les achats internationaux et la gestion de la chaîne d'approvisionnement (Procurement). Bien que le niveau d'anglais, l'ouverture à l'international et la maîtrise des outils d'analyse soient adaptés, le cœur de métier diffère nettement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248879](https://mon-vie-via.businessfrance.fr/offres/248879)
+
+**Description du poste**
+
+"This role offers a unique opportunity to work in a dynamic region of the world, covering the full spectrum of Airbus products and services, including Commercial and Military Aircraft and Helicopters.
+
+Given the dynamic development of the LatAm region and its associated business opportunities, strategic supplier management and development are critical to supporting Airbus's footprint in the region.
+
+Therefore, under the authority of the HO Procurement Governance & Strategy, the VIE LatAm International Procurement role has been established to contribute to supply chain development in the region. The main mission involves exploring supply chain capabilities, providing procurement intelligence and assessments, identifying, characterizing, mapping, and evaluating Airbus's current and potential supply chain in the LatAm region, analyzing the competitive landscape, and supporting regional sales campaign activities and events.
+
+The role will be based in Mexico City and/or Queretaro , Mexico, with a functional reporting line to the Head of Procurement Governance and Strategy based in Toulouse-Blagnac."
+
+**Profil recherché**
+
+"Tasks & accountabilities
+
+Your main tasks will include:
+
+
+
+Market Intelligence: Screen regional aerospace activities related to Procurement, including analysis of risks and opportunities. Monitor competitor activities and their supply chain strategies.
+
+Potential Supplier Scouting: Identify potential LatAm regional aerospace suppliers and collaboration opportunities. This involves mapping their activities, customers, industrial footprint, and partnerships, including participation in B2B events.
+
+Database & Reports: Create and update regional Procurement country profiles, monitor Airbus supplier regional volumes, and manage the regional intelligence database for the region.
+
+Regional Support: Contribute to regional initiatives and events within the scope of Procurement (e.g., Offsets, campaigns, country visits, Airbus events).
+
+Regional Governance Support: Provide assistance for Procurement's regional projects and activities, focusing on business development and governance frameworks.
+
+Sourcing support: Support Divisions needs, in terms of sourcing (suppliers visits report, capabilities analysis, etc) 
+
+
+
+This role may involve some travel for business within the LATAM  Region  and as such you must be able to travel accordingly."
+
+</details>
 
 <details>
 <summary><strong>CONTROLEUR DE GESTION INDUSTRIEL ET PERFORMANCE OPERATIONNELLE (H/F)</strong> · JULBO · MINTIA, ROUMANIE · 2 320,52 €/mois</summary>

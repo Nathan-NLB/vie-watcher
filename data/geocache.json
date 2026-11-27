@@ -775,5 +775,9 @@
   "ville|mintia|roumanie": {
     "lat": 45.9238836,
     "lon": 22.8487956
+  },
+  "entreprise|airbus|mexico|mexique": {
+    "lat": 19.4305338,
+    "lon": -99.0640679
   }
 }
