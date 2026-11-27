@@ -255,16 +255,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Blockchain.com is the world's leading software platform for digital assets. Offering the largest production blockchain platform in the world, we share the passion to code, create, and ultimately build an open, accessible and fair financial future, one piece of software at a time.\nWe are seeking a highly motivated Trading Operations Analyst to join our dynamic team, supporting a 24-7 EMEA, Singapore and US cryptocurrency trading team. This role provides an exceptional opportunity to make a significant impact within our fast-growing and innovative organization with exposure across multiple trading strategies and the full spectrum of operations functions.\nResponsibilities:\nManage daily trade and position settlement workflows across multiple business units.\nPerform reconciliations across accounts, positions, and transactions to ensure accuracy.\nAssist in generating and validating the firmwide NAV, ensuring timely reporting to stakeholders.\nSupport reporting and operational processes for custody, staking, and trading desks.\nCollaborate with cross-functional teams, including trading, finance, and technology, to improve and automate processes.\nMaintain and monitor daily trading infrastructure, ensuring accurate trade capture, system stability, and timely issue resolution across internal platforms.\nMonitor and address operational issues, proactively identifying and resolving inefficiencies.\nProvide operational support for new initiatives, products, and services as the business expands.\nQualifications:\nBachelor’s degree in Finance, Economics, Mathematics, Computer Science, or a related field\nStrong analytical and quantitative skills with the ability to interpret complex data sets.\nProficiency in Excel and familiarity with programming languages such as Python, R, or SQL\nExcellent communication and teamwork skills\nAbility to work in a fast-paced, high-pressure environment\nKeen interest in financial markets and trading\nExcellent interpersonal and communication skills, with a client-focused approach to trading\nDemonstrated ability to perform under pressure, make quick decisions and handle high volumes of transactions\nA keen interest in staying updated with trends and news in the fast-paced world of cryptocurrencies. Prior personal experience is a plus\nMust be comfortable working flexible hours in coordination with our Singapore and UK teams\nThe ideal candidate will be a hungry, hard-working individual accustomed to earning a significant portion of income through commission. If you are ready to seize this challenging opportunity and make a substantial contribution to our operation, we invite you to apply!",
     "creationDate": "2026-11-26T13:43:22Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1242,16 +1235,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Dans le cadre de sa stratégie de croissance en Amérique du Nord, la Business Unit Accessories de Nexans lance un projet stratégique aux États-Unis, basé à Cincinnati (Ohio). Pour accompagner ce développement, nous recherchons un(e) V.I.E Finance qui travaillera en étroite collaboration avec l’équipe locale américaine et l’organisation finance de la BU Accessories. Sous la supervision du Finance Director de la BU Accessories et en rapport avec le US Program Manager, le/la volontaire contribuera au contrôle de gestion, au pilotage de la performance et au suivi du projet, afin de garantir un suivi financier solide de l’activité américaine et de soutenir le déploiement des processus, outils et standards Nexans.\n\nContrôle financier et reporting du projet : le/la volontaire participera au suivi financier du projet US Accessories (compte de résultat, bilan, flux de trésorerie, suivi des capex et OPEX). Il/elle préparera le reporting mensuel et les tableaux de bord en veillant à la fiabilité, la cohérence et le respect des délais. Il/elle contribuera aux cycles budgétaires (budget annuel, révisions, plan long terme) pour le périmètre US, analysera les écarts par rapport au budget et au forecast, et formulera commentaires et recommandations à destination du management.\n\nAnalyse de la performance : le/la volontaire appuiera les analyses de ventes, de marges et de coûts de l’activité Accessories aux États-Unis, ainsi que les analyses de prix et de rentabilité par produit, client et segment. Il/elle aidera à identifier des leviers d’amélioration (optimisation des coûts, gains d’efficacité, amélioration des marges) et réalisera des analyses ad hoc d’aide à la décision (cas d’investissement, analyses de scénarios, make or buy).\n\nSuivi des investissements : le/la volontaire assistera la préparation des business cases pour les investissements clés du projet (industriels, commerciaux, digitaux), assurera le suivi du capex en comparant les réalisés aux budgets approuvés et en suivant les calendriers, et contribuera aux revues post-investissement et aux indicateurs de performance (ROI, payback, VAN le cas échéant).\n\nProcessus, outils et conformité : le/la volontaire participera au déploiement et à l’harmonisation des processus finance Nexans au sein du projet US (routines de clôture, standards de reporting, contrôle interne), soutiendra l’adoption des outils du Groupe (ERP, BI, outils de planification) et contribuera au respect des politiques Groupe, du cadre de contrôle interne et des réglementations locales, en lien avec les équipes corporate et locales.\n\nCollaboration transverse : il/elle travaillera au quotidien avec les équipes opérations, gestion de projet, ventes et ingénierie de Cincinnati pour comprendre les moteurs de l’activité et en mesurer l’impact financier, échangera avec les équipes finance de la BU Accessories en Europe pour s’aligner sur les standards et bonnes pratiques du Groupe, et préparera et participera aux présentations de management, revues et comités de pilotage du projet US.\n\nCette mission offre une position stratégique au cœur du développement de Nexans Accessories aux États-Unis, une expérience concrète de finance et de contrôle de projet dans un contexte industriel et international, une exposition à la direction et aux processus de décision, et l’opportunité de développer ses compétences techniques et comportementales au sein d’un acteur mondial des solutions de câbles et de connectivité.",
     "creationDate": "2026-11-20T18:54:52Z",
     "missionStartDate": "2027-04-01T00:00:00",
@@ -5680,37 +5666,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "259",
-      "318",
-      "328"
+      "[\"6\",\"259\",\"318\",\"328\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "328",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique de Gestion",
-        "specializationLabelEn": "Informatique de Gestion"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "KOORTIS, société de conseil et d’intégration de systèmes d’information, recherche un Business Developer en V.I.E pour accompagner le lancement et le développement de sa filiale en Côte d’Ivoire.\n\nVous souhaitez participer à une aventure entrepreneuriale à l’international et contribuer au développement d’une nouvelle implantation ? Cette mission vous permettra de prendre une part active à notre croissance autour des solutions SAP, Odoo et Salesforce.\n\nEn lien direct avec la direction et avec l’appui de nos équipes de consultants, vous serez amené à :\n- Identifier et prospecter de nouveaux clients en Côte d’Ivoire.\n- Rencontrer les décideurs et comprendre leurs enjeux métiers et leurs besoins en systèmes d’information.\n- Développer les opportunités commerciales, de la première prise de contact à la préparation des offres.\n- Participer aux propositions commerciales et aux soutenances avec nos équipes.\n- Construire un réseau de partenaires locaux et représenter KOORTIS lors d’événements professionnels.\n- Contribuer à la structuration de l’activité commerciale et au développement de la filiale.\nVotre profil\n\nDiplômé d’un Bac+5 en école de commerce, à l’université ou en école d’ingénieurs, vous avez une réelle affinité avec l’informatique, le conseil et l’intégration de systèmes d’information.\n\nVous aimez aller à la rencontre des clients, comprendre leurs activités et construire une relation de confiance. Curieux, organisé et autonome, vous faites preuve d’initiative et souhaitez vous investir pendant un à deux ans dans le développement d’une filiale à l’étranger.\n\nUne première expérience en développement commercial, dans le conseil ou les services numériques serait un atout. Une connaissance des solutions SAP, Odoo ou Salesforce serait également appréciée.\n\nVous bénéficierez de l’accompagnement de la direction et de nos équipes, avec des responsabilités concrètes et la possibilité de suivre les opportunités commerciales jusqu’à leur réalisation.",
     "creationDate": "2026-11-17T19:19:22Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -6912,30 +6870,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "17",
-      "322",
-      "326"
+      "[\"17\",\"322\",\"326\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "17",
-        "specializationParentId": "239",
-        "specializationLabel": "Economie",
-        "specializationLabelEn": "Economics"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      },
-      {
-        "specializationId": "326",
-        "specializationParentId": "19",
-        "specializationLabel": "Compliance et Régulation Financière",
-        "specializationLabelEn": "Compliance et Régulation Financière"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Le SER de Buenos Aires a la responsabilité du suivi macroéconomique et financier des pays du cône Sud (Argentine, Chili, Uruguay et Paraguay). Il élabore des notes d’analyse sur la conjoncture économique, le risque-pays, les systèmes financiers, les problématiques monétaires et de change. Il contribue à la préparation des instructions pour nos administrateurs au sein des institutions financières internationales (principalement FMI, Banque mondiale, Banque interaméricaine de développement).\n\nSes principaux interlocuteurs sont les ministères de l’Economie et des finances ainsi que les Banques centrales des pays dont il assure le suivi.\n\nSous l’autorité du chef du service économique régional (CSER) et de l’adjointe, cheffe du pôle économie et finances, l’attaché financier prépare des analyses économiques et financières et assure un suivi statistique régulier et rigoureux des pays de la région.\n\nATTRIBUTIONS :\n\nPlacé(e) auprès de l’adjointe du service, conseillère financière et cheffe du pôle macroéconomique, elle-même sous l’autorité du chef du SER, le/la VIA est chargé(e) de suivre les thématiques suivantes :\n\n•\tsuivi de la situation macroéconomique de l’Argentine, de l’Uruguay, du Paraguay et du Chili (en lien avec le service économique de Santiago pour ce dernier) : activité économique et déterminants de la croissance ; politiques monétaire et budgétaire ; taux de change ; finances publiques ;\n•\tsuivi du secteur bancaire et des marchés financiers des pays de la zone : situation des banques et des institutions financières (rentabilité, liquidité, solvabilité, concentration) ; secteur de l’assurance ; évolution du crédit et du financement de l’économie ; évolution des marchés financiers (bourse, dérivés…) ;\n•\tsuivi du programme FMI en Argentine et des activités du FMI dans la zone ;\n•\tsuivi des politiques sociales : politique de lutte contre la pauvreté ; politique de l’emploi ; politique des retraites ; sécurité sociale ;\n•\tréponses aux commandes ponctuelles des Ambassades de France de la zone\n\nLes principales missions qui lui seront confiées sont :\n\n•\trédaction, coordination et envoi d’une publication bi-mensuelle consacrée à des thèmes économiques et financiers ;\n•\trédaction de notes portant sur les thèmes susmentionnés ;\n•\trédaction de notes sur les échanges bilatéraux entre la France et les pays du cône Sud, sur le commerce extérieur et les IDE de ces derniers ;\n•\tsuivi des finances publiques argentines avec un accent sur la soutenabilité de la dette ;\n•\tpréparation d’avis sur les projets financés par les banques de développement dans les pays de la zone (Country Partnership Banque mondiale, projets de développement BID et Groupe de la Banque mondiale) ;\n•\trédaction d’avis sur les rapports des organisations internationales (Article IV FMI, EFF Argentine, RST Paraguay, EDR Chili) ;\n•\tréalisation de présentations macroéconomiques ;\n•\tgestion et alimentation des diverses bases de données statistiques utilisées par le SER : comptabilité nationale, balance des paiements, échanges extérieurs et bilatéraux (commerce et IDE) ;\n•\tparticipation à des séminaires/colloques portant sur les questions économiques et financières ; \n•\torganisation et rencontre avec les autorités locales et économistes sur place ;\n•\tparticipation à la politique d’outreach du service, notamment via l’alimentation du site internet ;\n•\tveille presse\n\nPROFIL\n\nMaster2 en économie, solides connaissances en macroéconomie et finances ; écoles de commerce, IEP, université.\n\nCOMPETENCES REQUISES :\n\n•\tspécialisation sur les questions macroéconomiques et financières, sanctionnée au moins par une maîtrise en économie ou équivalent \n•\tmaîtrise des concepts et outils statistiques\n•\tgestion de bases de données et des outils graphiques, principalement sous Excel\n•\tparfaite autonomie vis-à-vis des outils informatiques, Excel, OneNote, PowerPoint\n•\tcapacité à travailler en équipe\n•\taptitude à travailler sous contrainte de temps\n•\tsolide maîtrise de l’espagnol et de l’anglais\n•\tbon esprit de synthèse et de bonnes qualités rédactionnelles, ainsi que des qualités de coordination pour la réalisation de travaux communs\n•\tesprit d’équipe, capacité d’adaptation et proactivité \n\nDIVERS :\n\n•\tBuenos Aires est une ville agréable, relativement sûre, dotée d’une vie culturelle riche et diversifiée. \n•\tExistence d’une offre abondante de locations, coût cependant assez élevé (proche de celui de Paris). Quartiers recommandés proche de l’ambassade (Recoleta, Palermo, Colegiales, Belgrano). \n•\tIl est relativement facile de se déplacer à l’intérieur de l’Argentine.   \n•\tL’ouverture d’un compte bancaire est facilitée grâce au partenariat entre l’Ambassade de France et les banques BancoPatagonia. Système bancaire historiquement complexe (mais en nette amélioration ces dernières années) en raison du contrôle des capitaux et multiples taux de change mais il est possible d’effectuer des transferts d’argent à travers Western Union.\n•\tHormis les périodes de restrictions exceptionnelles dans les déplacements (pandémie), il est relativement facile de se déplacer à l’intérieur de l’Argentine.",
     "creationDate": "2026-11-25T09:45:20Z",
     "missionStartDate": "2027-03-01T00:00:00",
