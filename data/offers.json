@@ -2565,44 +2565,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "7",
-      "8",
-      "109",
-      "313"
+      "[\"6\",\"7\",\"8\",\"109\",\"313\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "7",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce – Vente - Distribution",
-        "specializationLabelEn": "Trade - Sales - Distribution"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "109",
-        "specializationParentId": "193",
-        "specializationLabel": "Gestion de Projets",
-        "specializationLabelEn": "Project Management"
-      },
-      {
-        "specializationId": "313",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce de luxe",
-        "specializationLabelEn": "Commerce de luxe"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Depuis 1867, la Manufacture Pinton perpétue la tradition de la tapisserie d'Aubusson et participe à son renouveau sur la scène de l'art contemporain. Reconnue dans l'art, la décoration d'intérieur et le luxe, l'entreprise familiale a constitué un groupe textile unique (Manufacture Royale d'Aubusson, Tissage des Flandres, MyDiTex, nouvelle manufacture de tapis tuftés main en Creuse). Ses créations habillent galeries d'art, résidences privées, hôtels et boutiques de luxe à travers le monde.\n\nLe groupe ouvre son marché américain et développe sa filiale Pinton Inc., basée à New York. Rattaché(e) directement au Directeur Général de Pinton Inc., vous serez son bras droit sur un marché en pleine structuration, avec des responsabilités concrètes et une grande autonomie dès le premier jour.\n\n1. Développement commercial (environ 60 %)\n- Développer la présence de l'entreprise aux États-Unis et au Canada : études de marché, prospection de clients et distributeurs, salons professionnels, tournées commerciales.\n- Prospecter et détecter des projets auprès des architectes et designers d'intérieur, showrooms design, galeries d'art et acteurs de l'hospitality (hôtellerie, restauration, retail et boutiques de luxe).\n- Déployer des campagnes de prospection multicanales, qualifier les leads et suivre le pipeline commercial.\n- Présenter les produits et savoir-faire, adapter le discours au marché américain et conduire les négociations jusqu'à la signature.\n- Assister le Directeur Général dans la prospection et la gestion de la relation client.\n- Mettre en place des outils de prospection et de pilotage (CRM, bases de données, tableaux de bord Excel, outils d'IA, supports de présentation et marketing).\n\n2. Gestion de projets et coordination production (environ 20 %)\n- Suivre les projets clients de la commande à la livraison : tapisseries, tapis, moquettes et tissus.\n- Faire le relais entre les clients nord-américains et les équipes de production et de logistique en France, en Europe et en Asie : cahiers des charges, délais, contrôle qualité, expérience client.\n- En coordination avec l'équipe ADV France, faciliter la logistique vers les États-Unis et le Canada : transport, formalités d'importation, suivi des installations.\n- Tenir à jour les plannings de production et informer les clients de l'avancement de leurs projets.\n\n3. Administration et office management (environ 20 %)\n- Préparer le reporting commercial et financier destiné à la direction générale du groupe.\n- Contribuer à la gestion administrative de la filiale avec l'équipe France : devis, facturation, suivi des paiements et relances.\n- Participer à l'organisation du bureau et, à terme, du showroom de New York : fournisseurs, prestataires, échantillons, accueil des clients.\n- Contribuer à l'organisation d'événements locaux (salons, présentations, opérations marketing) avec les équipes marketing et communication du groupe.\n\nDéplacements à prévoir aux États-Unis et au Canada. Télétravail partiel possible.\n\nCandidature : CV et lettre de motivation en français et en anglais, référence « VIE - Responsable Commercial et Administratif - New York ».",
     "creationDate": "2026-11-16T11:53:41Z",
     "missionStartDate": "2027-02-01T00:00:00",
