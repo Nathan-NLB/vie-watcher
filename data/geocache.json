@@ -760,5 +760,15 @@
     "lat": 46.4860906,
     "lon": 6.4193113
   },
-  "entreprise|banque transatlantique|luxembourg|luxembourg": null
+  "entreprise|banque transatlantique|luxembourg|luxembourg": null,
+  "entreprise|stmicroelectronics france|kirkop|malte": null,
+  "ville|kirkop|malte": {
+    "lat": 35.8419845,
+    "lon": 14.4844481
+  },
+  "entreprise|mersen france sb sas|kaposvar|hongrie": null,
+  "ville|kaposvar|hongrie": {
+    "lat": 46.3564692,
+    "lon": 17.7886886
+  }
 }

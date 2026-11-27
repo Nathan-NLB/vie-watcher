@@ -8,11 +8,131 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/11/2026 10:01:12**, 95 offre(s) actuellement en ligne.
+Dernière vérification : **27/11/2026 10:15:58**, 97 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>VIE - MALTE - Contrôleur de gestion (H/F)</strong> · STMICROELECTRONICS FRANCE · KIRKOP, MALTE · 2 225,20 €/mois</summary>
+
+- **Entreprise :** STMICROELECTRONICS FRANCE
+- **Lieu :** KIRKOP, MALTE
+- **Indemnité :** 2 225,20 €/mois
+- **Durée de la mission :** 24 mois (Du 1 févr. 2027 au 1 févr. 2029)
+- **Publiée le :** 27/11/2026
+- **Compatibilité avec ton profil :** 85 % — Le profil de Nathan correspond parfaitement aux exigences du poste grâce à sa formation en contrôle de gestion, son expérience significative en PME et sa maîtrise d'Excel et Power BI. Les seuls légers écarts concernent la connaissance préalable de SAP et de la comptabilité générale, qui nécessiteront une montée en compétences rapide.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248842](https://mon-vie-via.businessfrance.fr/offres/248842)
+
+**Description du poste**
+
+Dans le cadre de sa croissance, le site de Malte cherche à améliorer son processus de contrôle de gestion en recrutant un VIE pour une durée de 24 mois.
+
+Les principales responsabilités du candidat seront :
+
+Analyse des coûts de production par centre de frais et par produit
+Automatisation des outils de contrôle de gestion et de reporting
+Calcul des coûts standards
+Contrôle budgétaire
+Comptabilité générale et analyses financières
+Le/la candidat(e) est issu(e) d'une école de commerce ou d'une formation universitaire en Finance/Comptabilité. Il/elle devra faire preuve d'autonomie, de curiosité et d'esprit d'initiative. Il/elle devra également être capable d'apprendre rapidement le fonctionnement de l'ERP SAP ainsi que les outils de Business Intelligence, et évoluer avec aisance dans un environnement multiculturel.
+
+Lieu de travail : Kirkop, Malte
+
+**Profil recherché**
+
+VOS COMPÉTENCES ET EXPÉRIENCES
+
+Diplôme de master en finance, comptabilité, business, supply chain, économie ou dans un domaine connexe.
+Une certification professionnelle telle que CMA, ACCA, CPA ou une qualification comptable équivalente reconnue est souhaitée mais non obligatoire.
+0 à 2 ans d’expérience en contrôle de gestion, comptabilité, analyse métier ou logistique.
+Maîtrise de SAP, Power BI, MS Excel et MS Access, avec la capacité de travailler avec précision sur de grands volumes de données et de développer des rapports et analyses fiables.
+Solides compétences analytiques, de résolution de problèmes et de prise de décision.
+Excellentes compétences en communication et en relations interpersonnelles.
+Approche proactive et autonome, axée sur l’amélioration continue et la prise d’initiative.
+Capacité à travailler dans un environnement dynamique et à rythme soutenu.
+
+</details>
+
+<details>
+<summary><strong>Junior Operational Controller (F/H) (H/F)</strong> · MERSEN FRANCE SB SAS · KAPOSVAR, HONGRIE · 2 552,51 €/mois</summary>
+
+- **Entreprise :** MERSEN FRANCE SB SAS
+- **Lieu :** KAPOSVAR, HONGRIE
+- **Indemnité :** 2 552,51 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 27/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, ses compétences avancées sur Excel et son expérience solide en finance d'entreprise. Seul un léger écart est à noter sur la destination géographique et la langue, l'offre étant en Hongrie alors qu'il visait initialement l'Espagne, bien que son anglais courant compense largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248841](https://mon-vie-via.businessfrance.fr/offres/248841)
+
+**Description du poste**
+
+🚀 Ready to launch your international career and make a real impact from day one?
+
+Join Mersen, a global expert in electrical power and advanced materials, and take part in the financial transformation of one of our key industrial sites in Europe.
+
+📍 Location: Kaposvár, Hungary
+ 📅 Duration: 12 to 24 months
+ 🎓 Target profile: Recent graduate or early-career professional in Finance, Controlling, Business Analytics or related field
+
+Your mission
+
+As a Junior Operational Controller, you will support the modernization of financial processes and performance management tools in a dynamic manufacturing environment.
+
+You will play an active role in the continuous improvement of industrial controlling practices and contribute to strategic transformation projects, including the preparation of the site for the future deployment of the Group ERP system.
+
+What you will do
+
+✅ Analyze manufacturing costs and identify performance improvement opportunities
+
+✅ Support the deployment of Group cost accounting standards
+
+✅ Develop and monitor operational KPIs and reporting tools
+
+✅ Partner with Finance, Operations and Production teams to support decision-making
+
+✅ Contribute to ERP implementation readiness and data quality initiatives
+
+✅ Improve reporting reliability and business performance monitoring
+
+Why join us?
+
+🌍 Gain valuable international experience within a global industrial group
+
+📈 Develop expertise in Industrial Controlling and Financial Performance Management
+
+🚀 Contribute to high-impact transformation projects
+
+🤝 Work closely with cross-functional and international teams
+
+📊 Strengthen your analytical, financial and business partnering skills
+
+**Profil recherché**
+
+Who are we looking for?
+
+✔ Master's degree in Finance, Controlling, Business Analytics or a related field
+
+✔ Strong analytical and problem-solving skills
+
+✔ Advanced Excel skills and affinity for data analysis
+
+✔ Fluent English is required
+
+✔ Knowledge of Hungarian would be a strong asset, helping you build close relationships with local teams and better understand the operational environment
+
+✔ First experience in Finance or Controlling through internships, apprenticeships or an initial professional experience
+
+✔ Curious, proactive and comfortable working in an international environment
+
+Ready for the challenge?
+
+If you are looking for an opportunity that combines international mobility, industrial finance and transformation projects, we would love to hear from you.
+
+👉 Apply now and start your international journey with Mersen!
+
+</details>
 
 <details>
 <summary><strong>VIE – Analyste Back-Office Enterprise (H/F) – Belgique</strong> · TOTALENERGIES SE · LIEGE, BELGIQUE · 2 978,53 €/mois</summary>
