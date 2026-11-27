@@ -1256,16 +1256,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "En tant que V.I.E. Project Controlling & PMO, vous intégrerez l’équipe Program Management et travaillerez en étroite collaboration avec le Program Director et les Project Managers, en apportant votre soutien au suivi financier et à la coordination de différents projets Cockpits et Door Panels.\nCette expérience vous permettra de développer une vision globale de la gestion de projets dans un environnement industriel international et d’acquérir une expérience pratique en project controlling, analyse financière, gestion budgétaire, SAP et activités de PMO.",
     "creationDate": "2026-11-06T14:38:14Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -1963,16 +1956,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Reporting to the Head of Finance Transformation North America, the VIE Finance Transformation Analyst- AI & Emerging Tech is a high-impact, forward-looking role designed to lead the integration of Artificial Intelligence within the Finance function.\n\nAs the AI lead for the US Finance Transformation team, the incumbent is responsible for enforcing standard Airbus Finance Transformation Strategies while pioneering \"Agentic Finance\"—the use of AI agents, Large Language Models (LLMs), and machine learning to automate complex workflows. This role transcends traditional reporting, focusing on building the Future of Finance by identifying, developing, and scaling AI use cases that drive operational excellence across North America.\n\n\n\nThe person will also be responsible for ensuring that the company’s financial systems and processes comply with relevant laws and regulations and plays a critical role in maintaining the integrity and legal compliance of the financial operations.\n\nThey will ensure the full lifecycle of projects by following the Airbus project management methodology and will be responsible for delivering the solutions through to entry into service. This role will interact with all the Airbus Functions including Procurement, Digital, Customer Services, Logistic, Production, Human-Resources and with multiple Stakeholders.\n\n\n\nPrimary Responsibilities:\n\n\n\nAI Initiative Leadership & Implementation (40%)\n\nDeliver on the Finance Transformation roadmap by driving the adoption of existing and new AI solutions.\n\nImplement AI-based tools & integrate AI further into the Finance Function as a primary point of contact for AI-related use cases.\n\nIdentify and develop AI use cases that deliver measurable value and efficiency to the finance teams.\n\nPredictive Modeling: Move beyond historical reporting to build ML-driven models for revenue forecasting, cash flow, and variance analysis.\n\nTeam Upskilling & Change Management: Act as the internal \"AI Coach\" for the finance team. Promote awareness and understanding of AI technologies across the North American finance teams.\n\nProvide leadership in ensuring consistent use of the Airbus project methodology.\n\nBe an expert to manage high-risk & complex projects while leveraging cross-functional resources and capabilities.",
     "creationDate": "2026-11-18T14:56:04Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -2320,16 +2306,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Analyse du marché européen des services financiers (banque, gestion d’actifs, gestion de patrimoine, fintech et asset servicing), incluant des études sectorielles et l’identification des tendances stratégiques clés au sein du secteur financier (FIG)\nScreening, identification et examen de cibles d’acquisition potentielles, en cohérence avec la stratégie de croissance externe du Groupe.\nAnalyse financière, stratégique et fondamentale des opportunités envisagées\nModélisation financière et évaluation\nGestion de projet M&A avec les parties internes et externes (ex. : processus de due diligence)\nSupport dans la préparation et/ou la révision de la documentation pertinente dans le cadre d’un processus M&A (offres non contraignantes, offres fermes, lettres de confirmation, revue du SPA, etc.)\nPréparation de présentations, notes d’information, mémos d’investissement, etc., à destination du Senior Management dans le cadre du processus décisionnel\nSupport à l’équipe pour le suivi des investissements minoritaires du Groupe sur tous les aspects : financiers, augmentations de capital, discussions juridiques et toute synergie potentielle avec le Groupe",
     "creationDate": "2026-11-17T10:34:42Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -2390,30 +2369,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9",
-      "259",
-      "318"
+      "[\"9\",\"259\",\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "The Financial Analyst – Purchasing is responsible for providing financial analysis and P&L management for the Purchasing department.\r\nEssential Duties and Responsibilities\r\nMonthly Closing and Reporting for Purchasing:\r\n•\tEnsure accurate and timely monthly financial closes in compliance with IFRS standards.\r\n•\tCollaborate with the Accounting and Purchasing teams to prepare and manage accruals and journal entries.\r\n•\tIdentify and reconcile discrepancies between systems and reports.\r\n•\tProvide financial support to the Purchasing team (focused on Raw Materials, Packaging, and Fresh Apples categories).\r\n•\tDeliver insights on business performance through monthly, and annual reports, monitoring trends and budget variances.\r\n•\tTrack and analyze performance against budget, (Purchase Price Variance) P&L and related KPIs.\r\n•\tMonitor obsolescence expenses (e.g., depreciation).\r\n•\tTrack and provide insights into inventory valuation, sharing key takeaways with cross-functional teams.\r\n\r\nBudget Preparation and Forecasting\r\no\tSupport budgeting and reforecasting activities for Purchasing functions.\r\no\tProvide detailed P&L analysis and financial modeling for project-specific activities.\r\no\tBuild forecasts and estimates to assess \"year-to-go\" and landing.\r\no\tManage monthly updates on risks and opportunities in collaboration with the Purchasing department.\r\no\tOffer financial guidance to the Purchasing team in building key assumptions (e.g., standard costs, secondary costs).\r\nStrategic and Business Support\r\no\tAct as a business partner to drive continuous performance improvement and savings validation.\r\no\tSupport strategic projects to updates financial KPIs (Savings, free cash flow impact, ROIs).\r\no\tSupport Private Label sales team in providing P&L and costings.\r\nTools, Systems, and Process Optimization\r\no\tDevelop efficient methods to reduce manual work and enhance collaboration using tools like Power Query and Power BI.\r\no\tCollaborate with the IT team to establish a consistent and accurate data hub to expedite month-end closing.\r\no\tStreamline internal controls processes and workflows using tools such as Power Automate and Approvals. \r\no\tSupport projects to improve cost tracking in production ERP (VIF).\r\no\tDevelop or revamp existing worksheet to augment automation efficiency.",
     "creationDate": "2026-11-17T09:14:21Z",
     "missionStartDate": "2027-03-01T00:00:00",
