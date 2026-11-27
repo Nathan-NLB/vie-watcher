@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/11/2026 15:01:18**, 100 offre(s) actuellement en ligne.
+Dernière vérification : **27/11/2026 15:15:44**, 99 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -5132,55 +5132,6 @@ Vous maîtrisez les outils informatiques (plus particulièrement Microsoft Excel
 
 Et maintenant, quelle suite pour votre candidature ?
 Si nous poursuivons l’aventure ensemble, vous me rencontrerez au sein de notre siège social basé à Aix-En-Provence : Elodie, Chargée de Recrutement puis Philippe, Responsable de la Comptabilité International, accompagné de Benoit, Responsable du Contrôle de Gestion Internationale.
-
-</details>
-
-<details>
-<summary><strong>CONTROLEUR DE GESTION PROJETS INDUSTRIELS (H/F)</strong> · COMPAGNIE INTERNATIONALE DE MAINTENANCE · PANAMA, PANAMA · 2 390,57 €/mois</summary>
-
-- **Entreprise :** COMPAGNIE INTERNATIONALE DE MAINTENANCE
-- **Lieu :** PANAMA, PANAMA
-- **Indemnité :** 2 390,57 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 02/11/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil correspond très bien aux missions techniques de contrôle de gestion (budgets, reporting, écarts) et le candidat apporte une solide expérience concrète. Cependant, l'espagnol du candidat (niveau B1) est un peu en deçà de la pratique courante exigée pour ce poste basé au Panama.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/245118](https://mon-vie-via.businessfrance.fr/offres/245118)
-
-**Description du poste**
-
-Poste et missions:
-
-o Elaborer et actualiser les budgets de la filiale et du contrat de maintenance en cours
-o Analyser et expliquer les écarts budgétaires
-o Animer les suivis budgétaires auprès des opérationnels
-o Elaborer les prévisions de Chiffre d’affaires et de trésorerie
-o Superviser et contrôler les clôtures comptables
-o Vérifier les imputations analytiques
-o Déterminer les charges à recevoir, les reprises de provisions, et la reconnaissance du CA
-o Préparer les reporting mensuels de gestion
-o Préparer les éléments de la facturation
-o Suivre l’avancement des commandes achats en cours
-o Préparer et consolider les pointages personnels
-o Assurer le suivi des levées de caution
-o Participer aux chiffrages des offres commerciales
-o Participer aux travaux d’audit
-o Contribuer à l’amélioration des outils de suivi budgétaire
-o Diverses études Ad hoc
-
-**Profil recherché**
-
-De formation Bac+4/5 en gestion-finance
-- Pratique courante de l’espagnol et du français, l'anglais est un plus
-- Capacité à comprendre les enjeux techniques et spécifiques des contrats longs terme
-- Première expérience en contrôle de gestion ou en audit (y compris stage).
-- Un séjour professionnel ou pré-professionnel à l’étranger constituerait un atout supplémentaire
-- Esprit analytique et synthétique ;
-- Fiabilité et rigueur ;
-- Autonomie ;
-- Ouverture d’esprit ;
-- Diplomatie ;
-- Bon relationnel et esprit d'équipe
-- Potentiel d’évolution
 
 </details>
 
