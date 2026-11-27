@@ -108,23 +108,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "259"
+      "[\"8\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Rejoignez la filiale TotalEnergies Power & Gas à Liège, en Belgique et contribuez à l'optimisation des activités du département Back-Office Enterprise dédié aux clients grands comptes B2B.\nDans un contexte de transformation des processus et de digitalisation des activités, vous intervenez à la fois sur les sujets liés à l'analyse du risque crédit et sur les projets d'amélioration continue visant à automatiser, simplifier et fiabiliser les opérations du Back Office.\nVérifiez votre éligibilité au programme VIE ainsi que les spécificités pays sur le site internet https://mon-vie-via.businessfrance.fr/qu-est-ce-que-le-volontariat-international.\nMerci de candidater en anglais.\nVos principales missions\nVos principales missions :\n•\tAnalyser la solvabilité des clients et prospects B2B.\n•\tParticiper à l'évaluation et au suivi du risque crédit.\n•\tContribuer au suivi des limites d'assurance-crédit et des expositions financières.\n•\tParticiper aux actions de prévention et de réduction des impayés.\n•\tComprendre et analyser les processus opérationnels du Back Office Enterprise.\n•\tIdentifier des opportunités d'amélioration, de simplification et d'automatisation des processus.\n•\tParticiper à la mise en œuvre de projets de transformation digitale.\n•\tContribuer au développement d'outils de reporting et de suivi de la performance.\n•\tParticiper à la formalisation et à la documentation des processus.\n•\tAccompagner l'adoption de nouveaux outils et méthodes de travail.\n•\tContribuer aux initiatives liées à l'utilisation de l'intelligence artificielle dans les activités du Back Office.",
     "creationDate": "2026-11-26T15:49:01Z",
     "missionStartDate": "2027-03-01T00:00:00",
@@ -185,16 +171,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Vous intégrez une équipe à taille humaine et dynamique, le Département Crédits composé de 4 personnes pour :\n• S’assurer de la complétude des dossiers de crédits (bilan, AML, etc.) et des offres\n• S’initier à l’analyse Risques Crédits\n• Contribuer à préparer ou vérifier les contrats de crédit et la recevabilité des demandes clients (complétude des dossiers clients, respect de la réglementation, etc.)\n• Contribuer au processus de validation des crédits dans le respect de la politique de crédit mise en place par la banque\n• Assurer l’archivage des documents\n• Effectuer des revues périodiques des crédits ainsi que des garanties\n• Contribuer à la collecte de données utiles pour reportings\n• Participer à la préparation des différents comités et reportings",
     "creationDate": "2026-11-26T13:49:27Z",
     "missionStartDate": "2027-02-01T00:00:00",
