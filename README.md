@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/11/2026 17:31:04**, 100 offre(s) actuellement en ligne.
+Dernière vérification : **27/11/2026 17:45:50**, 101 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -155,6 +155,71 @@ Sourcing support: Support Divisions needs, in terms of sourcing (suppliers visit
 
 
 This role may involve some travel for business within the LATAM  Region  and as such you must be able to travel accordingly."
+
+</details>
+
+<details>
+<summary><strong>Industrial Controller (H/F)</strong> · PLASTIQUES DU VAL DE LOIRE · SAN LUIS POTOSI, MEXIQUE · 3 221,54 €/mois</summary>
+
+- **Entreprise :** PLASTIQUES DU VAL DE LOIRE
+- **Lieu :** SAN LUIS POTOSI, MEXIQUE
+- **Indemnité :** 3 221,54 €/mois
+- **Durée de la mission :** 18 mois (Du 1 avr. 2027 au 1 oct. 2028)
+- **Publiée le :** 27/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son expérience solide en contrôle de gestion, sa maîtrise d'Excel et de Power BI, ainsi que son niveau d'anglais courant (TOEIC 925). Le seul léger écart concerne l'espagnol, où il possède un niveau B1 intermédiaire face au bon niveau requis par l'entreprise, mais sa motivation pour l'international compense largement.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248874](https://mon-vie-via.businessfrance.fr/offres/248874)
+
+**Description du poste**
+
+Ready to give your early career an international dimension ?
+Are you looking for a real professional experience abroad, an opportunity to discover the world of Industrial Finance, and the chance to quickly take on responsibilities?
+Join Plastivaloire Group in Mexico for a V.I.E. assignment of up to 24 months at the heart of our industrial operations.
+You will join the local Finance team and work closely with Group Finance. Your mission: contribute to the development of the site's management control activities and support the teams in managing and improving their performance.
+🎯 Your challenges
+On a day-to-day basis, you will:
+Contribute to the development and structuring of management control within the plant;
+Deploy the Group's management control tools and methods;
+Ensure the quality and reliability of financial reporting;
+Analyze costs, margins, variances and performance indicators;
+Identify opportunities to improve the site's profitability;
+Support the local management team with analysis and decision-making;
+Contribute to the deployment of internal controls;
+Act as a key link between Local Finance and Group Finance.
+🔎 The profile we're looking for
+You hold a Master's degree in Finance, Management Control, Audit, or an equivalent qualification, and have gained initial experience in management control through an internship, apprenticeship, or first professional experience.
+You have:
+🇬🇧 a good level of English;
+🇪🇸 a good level of Spanish;
+📊 excellent Excel skills;
+a strong interest in numbers, analysis, and industrial environments.
+Experience with Power BI and/or SAP would be a real plus.
+Beyond technical skills, we're looking for someone who is curious, autonomous and rigorous, with a genuine desire to learn and contribute in an international environment.
+🚀 Why could this experience make a real difference?
+This V.I.E. is much more than just an opportunity to work abroad.
+Over two years, you will have the opportunity to:
+Discover the financial operations of an international industrial site;
+Work with both local and Group-level stakeholders;
+Rapidly develop your expertise in industrial management control;
+Gain autonomy and take on increasing responsibilities;
+Enjoy a valuable professional and personal experience in Mexico.
+📍 Key information
+Location: San Luis Potosí, Mexico (to be confirmed)
+Duration: 18-24 months
+Contract: V.I.E.
+Environment: Finance / Industrial Management Control / International
+Ready to take your career international?
+Join us in Mexico!
+
+**Profil recherché**
+
+You hold a Master's degree in Finance, Management Control, Audit, or an equivalent qualification, and have gained initial experience in management control through an internship, apprenticeship, or first professional experience.
+You have:
+🇬🇧 a good level of English;
+🇪🇸 a good level of Spanish;
+📊 excellent Excel skills;
+a strong interest in numbers, analysis, and industrial environments.
+Experience with Power BI and/or SAP would be a real plus.
+Beyond technical skills, we're looking for someone who is curious, autonomous and rigorous, with a genuine desire to learn and contribute in an international environment.
 
 </details>
 
