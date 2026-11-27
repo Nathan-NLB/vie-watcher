@@ -1739,30 +1739,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259",
-      "318",
-      "322"
+      "[\"259\",\"318\",\"322\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "322",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance internationale",
-        "specializationLabelEn": "Finance internationale"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Responsabilités principales\n\nPlanification financière et prévisions\n•\tContribuer à l’élaboration des budgets annuels, des prévisions trimestrielles et des plans d’affaires à long terme.\n•\tConsolider et analyser les données financières des marchés d’Asie-Pacifique.\n•\tSuivre les principaux indicateurs de performance financiers et opérationnels.\n•\tParticiper à l’élaboration de modèles financiers et de scénarios business pour appuyer les décisions stratégiques.\nAnalyse de la performance commerciale\n•\tAnalyser les ventes mensuelles, la marge brute, les charges d’exploitation et les tendances de rentabilité.\n•\tPréparer des analyses d’écarts par rapport au budget, aux prévisions et aux résultats de l’année précédente.\n•\tIdentifier les risques et les opportunités ayant un impact sur la performance financière.\n•\tFournir à la direction des analyses pertinentes et des recommandations opérationnelles.\nReporting et support au management\n•\tPréparer les rapports de gestion mensuels et les tableaux de bord destinés à la direction régionale.\n•\tParticiper aux revues d’activité avec les équipes de direction des marchés et de la région.\n•\tSoutenir la réalisation d’analyses financières et de présentations ad hoc pour la direction générale.\n•\tContribuer à l’amélioration continue des processus et des outils de reporting.",
     "creationDate": "2026-11-19T14:11:20Z",
     "missionStartDate": "2027-04-01T00:00:00",
