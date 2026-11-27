@@ -8,11 +8,108 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **27/11/2026 16:15:45**, 99 offre(s) actuellement en ligne.
+Dernière vérification : **27/11/2026 16:31:03**, 100 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
 ---
+
+<details>
+<summary><strong>Contrôleur·euse de gestion (H/F)</strong> · MAISON KYKA · MOKA, MAURICE · 1 879,79 €/mois</summary>
+
+- **Entreprise :** MAISON KYKA
+- **Lieu :** MOKA, MAURICE
+- **Indemnité :** 1 879,79 €/mois
+- **Durée de la mission :** 12 mois (Du 1 mars 2027 au 1 mars 2028)
+- **Publiée le :** 27/11/2026
+- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes avec son Master en contrôle de gestion, son expérience de 2 ans en gestion multi-entités et ses compétences en analyse de marge et reporting. Son background dans une PME d'agencement sur-mesure est un atout majeur pour appréhender la culture chantier de cette offre à Maurice.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/248881](https://mon-vie-via.businessfrance.fr/offres/248881)
+
+**Description du poste**
+
+En tant que Contrôleur de Gestion, votre mission est de donner à la Direction et aux managers une vision fiable, rapide et partagée de la performance financière de l'entreprise, et de transformer cette information en décisions concrètes pour améliorer les coûts, les marges et la rentabilité. Vous êtes également force de proposition dans l'amélioration continue des processus budgétaires, des méthodes de prévision et des outils de pilotage de la performance.
+
+Vos responsabilités incluent, mais ne sont pas limitées à :
+
+1. Marge chantier et pilotage à l'avancement
+
+● Suivi de la marge à terminaison
+
+Vous tenez pour chaque chantier le budget à terminaison, les coûts engagés et facturés, le taux d'avancement physique validé avec le conducteur de travaux et la marge reconnue. Vous détectez les pertes à terminaison et proposez les provisions correspondantes.
+
+● Revues de chantier mensuelles
+
+Vous passez en revue les chantiers en cours avec l’équipe travaux : avancement réel, reste à dépenser, aléas, risques de dépassement. Vous formalisez les actions décidées et en suivez l'exécution d'un mois sur l'autre.
+
+● Travaux supplémentaires et avenants
+
+Vous identifiez les travaux supplémentaires réalisés mais pas encore chiffrés, signés ou facturés, et vous vous assurez qu'ils sont facturés ou arbitrés par la direction. C'est l'un des premiers gisements de marge du métier.
+
+● Facturation à l'avancement et encaissements
+
+Vous contrôlez que les situations de travaux suivent l'avancement réel, sans retard de facturation ni surfacturation, et vous suivez avec la comptabilité clients les retenues de garantie et les retards d'encaissement.
+
+2.Achats, sous-traitance et engagements
+
+● Engagements hors budget
+
+Vous mettez en place puis faites vivre un circuit de validation des dépenses non budgétées (commandes, sous-traitance complémentaire) et alertez la direction de Petra dès qu'un chantier dérive.
+
+● Achats et sous-traitance
+
+Vous analysez les prix d'achat, les écarts entre devis sous-traitants et montants facturés, et la consommation de matériaux par chantier. Vous proposez des actions concrètes : renégociation, référencement de fournisseurs, regroupement des commandes.
+
+3. Rentabilité par canal
+
+● Rentabilité B2C et B2B
+
+Vous mesurez la marge brute et la contribution de chaque canal et de chaque typologie de chantier.
+
+● Retour d'expérience sur le chiffrage
+
+À la clôture de chaque chantier, vous comparez le réalisé au chiffrage initial, poste par poste, et transmettez aux équipes de chiffrage les ratios à corriger (prix unitaires, provisions pour aléas).
+
+4. Forecast et reporting
+
+● Challenge du forecast
+
+Vous challengez les prévisions produites par le FP&A au regard du carnet de commandes, du planning des chantiers et de ce que vous constatez sur le terrain. Vous signalez les écarts et les risques avant qu'ils n'arrivent à la Direction.
+
+● Reporting mensuel
+
+Vous produisez le reporting de gestion de Petra (marge par chantier et par canal) et le commentez en revue mensuelle avec la direction de Petra et le CFO
+
+Vous êtes un acteur clé de l'amélioration de la performance de Petra. Au-delà de la production d'analyses et de reportings, vous êtes attendu sur votre capacité à challenger les pratiques existantes, identifier les risques et les opportunités, proposer des solutions et les mettre en œuvre avec les équipes et la Direction. Votre objectif est de faire évoluer le pilotage financier vers une approche plus anticipative, analytique et orientée vers la prise de décision.
+
+**Profil recherché**
+
+Ce que l’on cherche
+- Expérience & Formation
+Bac+5 (école de commerce, d'ingénieur ou master en contrôle de gestion) et 2 à 5 ans en contrôle de gestion opérationnel, idéalement dans le BTP, la rénovation, l'aménagement ou une activité pilotée à l'affaire.
+
+-Culture chantier
+Vous savez lire un devis et un planning. Vous savez obtenir d'un collaborateur opérationnel une information fiable et vous allez la chercher là où elle se trouve.
+
+- Outils
+Excel maîtrisé. La connaissance d'un ERP BTP ou d'un outil de BI est un plus, pas un prérequis. ● Posture Rigueur, sens du concret, capacité à dire les choses aux opérationnels et à les faire évoluer.
+
+Nos étapes de recrutement
+- Échange visio avec l’équipe RH (30 min)
+- Entretien avec le CFO
+- Cas pratique
+- Entretien métier avec le manager et la hub director (1 h)
+- Prise de références
+
+Engagement diversité, équité & inclusion
+Chez Kyka, nous sommes convaincus que l'habitat ancien mérite d'être transformé pour tout le monde, et que cette ambition ne peut se construire qu'avec des équipes à l'image de cette diversité. Nous évaluons les candidatures uniquement sur la base des qualifications et de la motivation, sans aucune forme de discrimination.
+
+Vous pouvez postuler chez Kyka, quel que soit votre genre, votre religion, votre âge, votre orientation sexuelle, votre origine ethnique ou votre situation de handicap. Afin de garantir l'égalité des chances, nous vous invitons à exclure les informations personnelles (par exemple : photo, âge) de vos candidatures.
+
+Si vous avez besoin d'aménagements particuliers, merci de nous en informer pour que nous puissions adapter le processus de recrutement. Toutes les informations fournies sont traitées par Kyka pour la seule gestion des candidatures. Merci de contacter 
+recrutement@kyka.fr
+ pour toute question ou pour exercer vos droits.
+
+</details>
 
 <details>
 <summary><strong>VIE 2027-LATAM (Mexico)-International Procurement Manager (H/F)</strong> · AIRBUS · MEXICO, MEXIQUE · 3 221,54 €/mois</summary>
@@ -5136,6 +5233,56 @@ Si nous poursuivons l’aventure ensemble, vous me rencontrerez au sein de notre
 </details>
 
 <details>
+<summary><strong>Spécialiste Analyse Financière et contrôle de gestion Europe de l’Ouest (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 688,86 €/mois</summary>
+
+- **Entreprise :** SIBELCO FRANCE
+- **Lieu :** BILBAO, ESPAGNE
+- **Indemnité :** 2 688,86 €/mois
+- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
+- **Publiée le :** 30/10/2026
+- **Compatibilité avec ton profil :** 95 % — Le profil de Nathan correspond parfaitement à l'offre : il possède 2 ans d'expérience solide en contrôle de gestion, maîtrise le reporting et les prévisions, et a un excellent niveau d'anglais. De plus, sa volonté de s'expatrier en Espagne coïncide exactement avec le lieu du poste à Bilbao.
+- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247237](https://mon-vie-via.businessfrance.fr/offres/247237)
+
+**Description du poste**
+
+À propos de Sibelco
+
+Sibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.
+
+Dans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.
+
+Rejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.
+
+Mission:
+
+Le/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. 
+Il/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. 
+En interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. 
+Cette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.
+
+**Profil recherché**
+
+Vous disposez idéalement d'une première expérience acquise lors d'un stage, d'une alternance ou d'un premier emploi dans les domaines du contrôle de gestion, de l'audit, de l'analyse financière ou du Financial Planning & Analysis (FP&A).
+Compétences recherchées :
+
+Solides capacités d'analyse et de synthèse.
+Bonne maîtrise d'Excel et des outils bureautiques.
+Intérêt marqué pour les chiffres, la performance financière et l'analyse de données.
+Capacité à travailler avec des interlocuteurs de différents pays et fonctions.
+Excellentes compétences de communication.
+Anglais courant, à l'écrit comme à l'oral.
+Qualités personnelles :
+
+Curiosité et envie d'apprendre.
+Rigueur et sens du détail.
+Esprit d'équipe et collaboration.
+Proactivité et autonomie.
+Capacité d'adaptation dans un environnement international et multiculturel.
+Cette mission s'adresse à un(e) candidat(e) souhaitant acquérir une expérience internationale en finance d'entreprise et développer une expertise en pilotage de la performance, budgétisation, prévisions financières et aide à la décision.
+
+</details>
+
+<details>
 <summary><strong>Distribution Support Officer (H/F)</strong> · AMUNDI ASSET MANAGEMENT · LUXEMBOURG, LUXEMBOURG · 3 152,69 €/mois</summary>
 
 - **Entreprise :** AMUNDI ASSET MANAGEMENT
@@ -5269,56 +5416,6 @@ Que proposons-nous ?
 · Une expérience combinant finance, data et contrôle de gestion industrielle.
 · Un environnement international dynamique au sein du Groupe Legrand.
 · La possibilité de contribuer à des projets stratégiques dans une zone en croissance.
-
-</details>
-
-<details>
-<summary><strong>Spécialiste Analyse Financière et contrôle de gestion Europe de l’Ouest (H/F)</strong> · SIBELCO FRANCE · BILBAO, ESPAGNE · 2 688,86 €/mois</summary>
-
-- **Entreprise :** SIBELCO FRANCE
-- **Lieu :** BILBAO, ESPAGNE
-- **Indemnité :** 2 688,86 €/mois
-- **Durée de la mission :** 12 mois (Du 1 janv. 2027 au 1 janv. 2028)
-- **Publiée le :** 30/10/2026
-- **Compatibilité avec ton profil :** 95 % — Le profil de Nathan correspond parfaitement à l'offre : il possède 2 ans d'expérience solide en contrôle de gestion, maîtrise le reporting et les prévisions, et a un excellent niveau d'anglais. De plus, sa volonté de s'expatrier en Espagne coïncide exactement avec le lieu du poste à Bilbao.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247237](https://mon-vie-via.businessfrance.fr/offres/247237)
-
-**Description du poste**
-
-À propos de Sibelco
-
-Sibelco est un leader mondial des solutions en minéraux industriels, présent dans plus de 30 pays et au service de secteurs variés tels que le verre, la construction, les énergies renouvelables, la céramique et l'industrie manufacturière.
-
-Dans un environnement international en constante évolution, les équipes Finance jouent un rôle stratégique en accompagnant la performance de l'entreprise, en garantissant la fiabilité des données financières et en soutenant la prise de décision à tous les niveaux de l'organisation.
-
-Rejoindre Sibelco, c'est intégrer un groupe à dimension internationale qui valorise l'expertise, la collaboration et l'amélioration continue. Vous évoluerez au sein d'une équipe engagée, avec l'opportunité de contribuer à des projets variés tout en développant vos compétences dans un environnement dynamique et multiculturel.
-
-Mission:
-
-Le/la VIE rejoindra l'équipe Finance Europe de l'Ouest et contribuera au pilotage de la performance financière régionale. 
-Il/elle participera à la production des reportings, aux exercices budgétaires et de prévisions, à l'analyse des écarts de performance ainsi qu'au développement de modèles financiers et d'outils d'aide à la décision. 
-En interaction avec les équipes financières et opérationnelles de plusieurs pays, le/la candidat(e) contribuera aux projets de planification financière, au suivi des indicateurs clés de performance et à l'amélioration continue des processus FP&A. 
-Cette mission constitue une opportunité de développer une vision globale de la finance d'entreprise dans un environnement international.
-
-**Profil recherché**
-
-Vous disposez idéalement d'une première expérience acquise lors d'un stage, d'une alternance ou d'un premier emploi dans les domaines du contrôle de gestion, de l'audit, de l'analyse financière ou du Financial Planning & Analysis (FP&A).
-Compétences recherchées :
-
-Solides capacités d'analyse et de synthèse.
-Bonne maîtrise d'Excel et des outils bureautiques.
-Intérêt marqué pour les chiffres, la performance financière et l'analyse de données.
-Capacité à travailler avec des interlocuteurs de différents pays et fonctions.
-Excellentes compétences de communication.
-Anglais courant, à l'écrit comme à l'oral.
-Qualités personnelles :
-
-Curiosité et envie d'apprendre.
-Rigueur et sens du détail.
-Esprit d'équipe et collaboration.
-Proactivité et autonomie.
-Capacité d'adaptation dans un environnement international et multiculturel.
-Cette mission s'adresse à un(e) candidat(e) souhaitant acquérir une expérience internationale en finance d'entreprise et développer une expertise en pilotage de la performance, budgétisation, prévisions financières et aide à la décision.
 
 </details>
 
