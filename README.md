@@ -8,7 +8,7 @@ chaque nouvelle offre détectée.
 
 **[Voir la page de consultation (plus agréable à lire)](https://nathan-nlb.github.io/vie-watcher/)**
 
-Dernière vérification : **28/11/2026 04:01:08**, 101 offre(s) actuellement en ligne.
+Dernière vérification : **28/11/2026 04:15:38**, 98 offre(s) actuellement en ligne.
 
 Clique sur une offre ci-dessous pour dérouler la fiche de poste complète.
 
@@ -2000,51 +2000,6 @@ Enfin, votre sens de l’éthique et de l’intégrité ainsi que votre attentio
 Durée et disponibilité
 Ce poste est à pourvoir dès que possible pour une durée de 24 mois.
 Avant de postuler, veillez à vérifier les conditions d’éligibilité pour cette destination : Faire son V.I.E en Allemagne et ajouter à votre espace candidat un CV et une lettre de motivation en anglais.
-
-</details>
-
-<details>
-<summary><strong>AUDITOR - GENERAL INSPECTION (H/F)</strong> · CACEIS · DUBLIN, IRLANDE · 3 520,38 €/mois</summary>
-
-- **Entreprise :** CACEIS
-- **Lieu :** DUBLIN, IRLANDE
-- **Indemnité :** 3 520,38 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 20/11/2026
-- **Compatibilité avec ton profil :** 75 % — Le profil de Nathan correspond bien aux attentes en termes de formation (Master en cours), de compétences financières et d'anglais courant. Cependant, l'offre relève de l'audit interne bancaire (Inspection Générale) alors que son expérience et ses aspirations se situent plutôt en contrôle de gestion et FP&A.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247936](https://mon-vie-via.businessfrance.fr/offres/247936)
-
-**Description du poste**
-
-Within CACEIS, the General Inspection function is an integral part of the internal control framework. General Inspection is a single business line bringing together teams based in Paris, Ireland, Luxembourg, Munich, Milan, Amsterdam, Kuala Lumpur and Madrid. It conducts periodic control missions within CACEIS. These missions aim to ensure that external and internal rules are complied with, to assess the level of risk management and operational effectiveness of processes within the Bank. General Inspection identifies areas for improvement and issues recommendations for action in the inspection report published at the end of each mission. It then monitors their complete and timely implementation throughout the year.
-
-In this context, the VIE will join the General Inspection team of CACEIS Bank Ireland Branch to carry out Group missions, working with a team junior and experienced staff located internationally (France, Ireland, Luxembourg, Germany, the Netherlands, Spain, Italy, Malaysia).
-
-Your missions
-You will be an integral part of the General Inspection team as a VIE and will contribute to missions carried out in Ireland and abroad, under the supervision of a lead inspector.
-
-You will be involved in the entire audit process, from the planning phase through to the issuance of the audit report. In this context, you will be in position to: 
--	Participate and lead initial meetings with auditees to define the scope of work, performing investigation tests in line with internal audit methodologies, drafting documented reports and travels to other CACEIS locations abroad. 
--	Contribute to the preparation of recommendations designed to strengthen the Bank’s internal control framework and to the follow up of these recommendations, ensuring that the risk mitigation measures identified during the missions are fully and timely implemented.
--	Prepare Internal Audit reporting and related documentation for local management and relevant governance committees, supporting clear communication of key findings, risks and recommended actions.
--	Support and lead discussion of the results with both auditees and the managers in a clear and convincing manner.
--	Be part of the continuous audit monitoring process at local level, supporting the General Inspection team
-
-This role provides an opportunity to develop auditing expertise and risk management, through the application of the audit methodology to abroad range of business line and support functions across the bank, fostering specialized knowledge in areas such as asset servicing, IT, or banking regulation.
-
-**Profil recherché**
-
-What do you need to succeed?
-•	0-2 year's experience in Audit, Finance, Data, Engineering 
-•	Masters degree - specialising in audit, engineering, legal, law, finance, risk management
-•	Excellent English skills - Interact in written and spoken English with stakeholders within and/or outside the organisation
-•	Organized, methodical, rigorous, reliable and Team oriented
-•	High level of curiosity to gain first or further knowledge of audit techniques., self-confidence and assertiveness
-•	Ability to anticipate, own-initiative, and work under pressure
-•	Strong communication skills
-•	Willingness to travel
-•	In‑depth knowledge of advanced office software functionalities (e.g. macro development), particularly spreadsheets (Excel) or database managers (Access). SQL and/or Python knowledge is a plus.
-•	English and (French) required; a third language is a plus
 
 </details>
 
@@ -5755,91 +5710,6 @@ What do You have?
 • Excellent interpersonal and communication skills, both oral and written in English
 • Excellent organisation and planning skills
 • A keen ability to resolve issues and meet tight deadlines
-
-</details>
-
-<details>
-<summary><strong>Financial Analyst (H/F)</strong> · TRANSDEV GROUP · LOMBARD  -IL-, ETATS-UNIS · 3 813,78 €/mois</summary>
-
-- **Entreprise :** TRANSDEV GROUP
-- **Lieu :** LOMBARD  -IL-, ETATS-UNIS
-- **Indemnité :** 3 813,78 €/mois
-- **Durée de la mission :** 18 mois (Du 1 févr. 2027 au 1 août 2028)
-- **Publiée le :** 28/10/2026
-- **Compatibilité avec ton profil :** 90 % — Le profil de Nathan correspond parfaitement aux attentes de l'offre grâce à son Master en contrôle de gestion, ses compétences en FP&A, en reporting et sa maîtrise d'Excel. Son niveau d'anglais (TOEIC 925) répond pleinement aux exigences de ce VIE aux États-Unis, malgré sa préférence initiale pour l'Espagne.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247575](https://mon-vie-via.businessfrance.fr/offres/247575)
-
-**Description du poste**
-
-Transdev is hiring a Financial Analyst (V.I.E)  M/F
-
-As part of a replacement, Transdev North America is looking for a Financial Analyst for an 18-month V.I.E assignment within its Finance team. Reporting to the Director of FP&A and working closely with the Finance & Accounting teams, you will support a wide range of financial planning, analysis and accounting activities.
-
-Your mission
-Budgeting, Forecasting & Analysis
-- Assist in the preparation of budgets and forecasts to support corporate strategic planning initiatives
-- Provide variance analysis to identify trends, opportunities and risks, gathering the relevant data from cross-functional teams (IT, HR, safety, operations)
-Accounting Close & Reporting
-- Conduct accounting close operations, including balance sheet reconciliations and journal entries
-- Prepare presentations and reports for senior management and stakeholders
-Corporate Finance Projects & Process Improvement
-- Project-manage the overall corporate finance goals and objectives, and support ad-hoc financial projects and initiatives aimed at increasing company-wide efficiencies
-
-**Profil recherché**
-
-Your profile
-- Business school graduate, specialized in Accounting / Audit
-- Strong command of Excel and some technical accounting knowledge
-- Proactive, motivated and curious, you like asking questions and are eager to learn and grow
-- Genuine interest in American culture
-- Proficient English
-
-Your destination
-Transdev North America is the largest private operator and integrator of multiple modes of public transportation in the United States, including bus, paratransit, rail, NEMT, microtransit, shuttle and autonomous vehicles.
-
- Leading cities, counties, airports, private companies and universities contract with Transdev to operate and maintain their transportation systems. You will join the Corporate Finance / FP&A team within the Finance department, in a collaborative and growth-oriented environment, and report directly to the Director of FP&A.
-
-This role offers hands-on experience in budgeting and forecasting, data analysis, internal controls, financial reporting and accounting close.
-
-Location: Lombard, Illinois (USA)
-
-Specifics: 18-month V.I.E assignment starting Q1 2027, occasional travel
-
-</details>
-
-<details>
-<summary><strong>V.I.E. - 18 months - Internal Auditor F/M - New York (H/F)</strong> · NATIXIS · NEW YORK  -NY-, ETATS-UNIS · 5 088,87 €/mois</summary>
-
-- **Entreprise :** NATIXIS
-- **Lieu :** NEW YORK  -NY-, ETATS-UNIS
-- **Indemnité :** 5 088,87 €/mois
-- **Durée de la mission :** 12 mois (Du 1 févr. 2027 au 1 févr. 2028)
-- **Publiée le :** 28/10/2026
-- **Compatibilité avec ton profil :** 65 % — Le candidat possède un excellent niveau d'anglais et un Master en finance adapté, mais son expérience se concentre sur le contrôle de gestion en PME industrielle et non sur l'audit bancaire requis pour ce poste chez Natixis à New York.
-- **Lien vers l'offre :** [https://mon-vie-via.businessfrance.fr/offres/247572](https://mon-vie-via.businessfrance.fr/offres/247572)
-
-**Description du poste**
-
-The VIE Internal Auditor will work alongside a team of audit professionals, to review, test and validate that the first and second lines of defense are performing their tasks in accordance with Bank Policy and regulatory standards. He/she/they will highlight key weaknesses and provide strong recommendations that will address those weaknesses while strengthening the system of internal controls. Additionally, presentations will be prepared and made to all levels of management within the CIB Americas platform.
-
-The VIE Internal Auditor position is an audit team role within Natixis CIB Internal Audit to support the audit missions of business lines as well as the associated support functions and control environment. 
-
-Assist Senior Auditors and Mission Managers in the pre-diagnosis, diagnosis, and closure phases of each assigned audit.
-Evaluate the risk and results measurement system.
-Check the effectiveness of the internal control framework and compliance with applicable regulations and industry standards.
-Assess the robustness and optimization of business processes.
-Provide an opinion on the organization and governance of the entity.
-Make hierarchical recommendations according to the degree of risk.
-Documentation of Audit Programs, Workpapers,  and Audit Reports consistent with Natixis CIB Audit Guidelines, regulatory guidelines, and industry best practices (i.e., IIA Global Audit Standards).
-Perform Recommendation Validation and Sustainability Testing for outstanding Audit Recommendations.
-
-**Profil recherché**
-
-Master's degree in Internal Auditing, Banking, Finance or other Master Degree equivalent (DESS, Mastere of "Grande Ecole").
-First experience in the banking industry within the big four or an Internal audit department of a top French bank will be appreciated.
-International experience in an English spoken country.
-Proficient in Excel and Word.
-Strong working knowledge of analytical and AI tools .
 
 </details>
 
