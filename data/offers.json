@@ -311,16 +311,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "9"
+      "[\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Ready to give your early career an international dimension ?\nAre you looking for a real professional experience abroad, an opportunity to discover the world of Industrial Finance, and the chance to quickly take on responsibilities?\nJoin Plastivaloire Group in Mexico for a V.I.E. assignment of up to 24 months at the heart of our industrial operations.\nYou will join the local Finance team and work closely with Group Finance. Your mission: contribute to the development of the site's management control activities and support the teams in managing and improving their performance.\n🎯 Your challenges\nOn a day-to-day basis, you will:\nContribute to the development and structuring of management control within the plant;\nDeploy the Group's management control tools and methods;\nEnsure the quality and reliability of financial reporting;\nAnalyze costs, margins, variances and performance indicators;\nIdentify opportunities to improve the site's profitability;\nSupport the local management team with analysis and decision-making;\nContribute to the deployment of internal controls;\nAct as a key link between Local Finance and Group Finance.\n🔎 The profile we're looking for\nYou hold a Master's degree in Finance, Management Control, Audit, or an equivalent qualification, and have gained initial experience in management control through an internship, apprenticeship, or first professional experience.\nYou have:\n🇬🇧 a good level of English;\n🇪🇸 a good level of Spanish;\n📊 excellent Excel skills;\na strong interest in numbers, analysis, and industrial environments.\nExperience with Power BI and/or SAP would be a real plus.\nBeyond technical skills, we're looking for someone who is curious, autonomous and rigorous, with a genuine desire to learn and contribute in an international environment.\n🚀 Why could this experience make a real difference?\nThis V.I.E. is much more than just an opportunity to work abroad.\nOver two years, you will have the opportunity to:\nDiscover the financial operations of an international industrial site;\nWork with both local and Group-level stakeholders;\nRapidly develop your expertise in industrial management control;\nGain autonomy and take on increasing responsibilities;\nEnjoy a valuable professional and personal experience in Mexico.\n📍 Key information\nLocation: San Luis Potosí, Mexico (to be confirmed)\nDuration: 18-24 months\nContract: V.I.E.\nEnvironment: Finance / Industrial Management Control / International\nReady to take your career international?\nJoin us in Mexico!",
     "creationDate": "2026-11-27T12:40:06Z",
     "missionStartDate": "2027-04-01T00:00:00",
@@ -381,58 +374,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "5",
-      "8",
-      "9",
-      "199",
-      "200",
-      "201",
-      "205"
+      "[\"5\",\"8\",\"9\",\"199\",\"200\",\"201\",\"205\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "5",
-        "specializationParentId": "19",
-        "specializationLabel": "Audit",
-        "specializationLabelEn": "Auditing"
-      },
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      },
-      {
-        "specializationId": "199",
-        "specializationParentId": "19",
-        "specializationLabel": "Analyste crédit",
-        "specializationLabelEn": "Credit management"
-      },
-      {
-        "specializationId": "200",
-        "specializationParentId": "19",
-        "specializationLabel": "Direction financière (DAF, RAF)",
-        "specializationLabelEn": "Finance department"
-      },
-      {
-        "specializationId": "201",
-        "specializationParentId": "19",
-        "specializationLabel": "Expertise comptable",
-        "specializationLabelEn": "Certified accounting"
-      },
-      {
-        "specializationId": "205",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de gestion industriel",
-        "specializationLabelEn": "Industrial controlling"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Rejoignez-nous et boostez votre carrière !\r\n\r\nNous recrutons un Performance Manager pour renforcer notre équipe au siège situé à Madrid. Dans ce rôle stratégique, vous travaillerez en étroite collaboration avec nos équipes locales et internationales pour soutenir la croissance continue du groupe. Vous aurez l'opportunité de déployer des outils de gestion et de contrôle pour plusieurs périmètres internationaux dans un environnement dynamique et en constante évolution.\r\n\r\nVotre mission : Contribuer à l’expansion internationale du groupe !\r\n\r\nEn tant que Performance Manager International, vos principales missions seront :\r\n\r\n- Participer à l’élaboration des KPIs hebdomadaires pour différents pays et régions.\r\n- Créer et déployer des tableaux de bord pour mesurer la performance dans de nouveaux marchés internationaux.\r\n- Rédiger et formaliser des processus opérationnels afin d'optimiser les performances des équipes.\r\n- Déployer et administrer notre CRM dans de nouveaux périmètres internationaux.\r\n- Fournir un support, accompagnement et formation aux équipes locales dans différents pays.\r\n- Réaliser des analyses et contrôles divers sur les performances internationales et proposer des solutions d’amélioration.\r\n\r\nCe que nous offrons :\r\n\r\n- Un rôle stratégique, avec une forte exposition internationale.\r\n- Un environnement innovant et stimulant, au sein d’un groupe en pleine croissance.\r\n- Des possibilités d’évolution rapide dans un contexte de forte dynamique.\r\n\r\nNotre entreprise est un acteur majeur dans son secteur, avec une présence internationale croissante. Nous sommes en forte expansion et recherchons des talents pour accompagner cette croissance.",
     "creationDate": "2026-11-27T11:35:03Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -766,23 +710,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "8",
-      "9"
+      "[\"8\",\"9\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "8",
-        "specializationParentId": "19",
-        "specializationLabel": "Comptabilité - Gestion",
-        "specializationLabelEn": "Accounting - Management"
-      },
-      {
-        "specializationId": "9",
-        "specializationParentId": "19",
-        "specializationLabel": "Contrôle de Gestion",
-        "specializationLabelEn": "Management Auditing"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Votre quotidien à nos côtés ?\r\n\r\nLa société FRIEDLANDER GUYANA, filiale du Groupe Ortec, spécialisée dans les travaux de maintenance et de constructions industrielles recherche un Responsable Administratif et Financier en VIE.\r\nRattaché à Thomas, Directeur d’Agence, votre objectif est d’accompagner l’agence dans sa gestion administrative et financière. Vous interagissez avec les experts financiers du siège basés à Aix-en-Provence, Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international.\r\nVotre poste est basé à George Town, Guyana.\r\n\r\n\r\nVos missions clés consisteront notamment à : \r\n•\tGestion administrative et financière des filiales Friedlander et Friedlander Energie Guyana, en collaboration avec les services du Siège\r\n•\tParticiper Révision de la comptabilité Générale et analytique \r\n•\tPréparer Clôture mensuelle de gestion et reporting\r\n•\tParticiper à la Clôture Trimestrielle Comptable\r\n•\tS’assurer du Contrôle du respect des procédures Groupe\r\n•\tContribuer au suivi de Gestion de la trésorerie\r\n•\tAccompagnement de la croissance & structuration interne\r\n•\tSoutien au support des relations avec les conseils fiscaux, comptables\r\n\r\n\r\nCes missions n’ont pas de secret pour vous ? Nous vous offrons les outils et les moyens à la hauteur de vos ambitions !\r\nUne intégration personnalisée avec Philippe, Responsable de la Comptabilité internationale et Benoît, Responsable du Contrôle de Gestion international durant 2 semaines au sein du siège, à Aix-En-Provence. Tous deux vous formeront sur les process, les outils, le périmètre et ses spécificités et effectuerons un suivi de l’intégration en local.\r\nIl ne manque plus que vous - pour apporter votre contribution personnelle - à cette belle organisation.\r\n\r\nRegardons un peu plus loin, quel futur ?  \r\nChez Ortec, nous considérons que chaque collaborateur doit pouvoir déployer son talent et ses compétences, et donner du sens à son poste. Plus tard, cela se traduit aussi par des opportunités au sein de la Direction Administrative Financière ou dans l’équipe de Direction d’une agence d’exploitation.",
     "creationDate": "2026-09-23T09:11:37Z",
     "missionStartDate": "2027-05-01T00:00:00",
