@@ -1844,16 +1844,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "318"
+      "[\"318\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "En tant que V.I.E. Project Controlling & PMO, vous intégrerez l’équipe Program Management et travaillerez en étroite collaboration avec le Program Director et les Project Managers, en apportant votre soutien au suivi financier et à la coordination de différents projets Cockpits et Door Panels.\nCette expérience vous permettra de développer une vision globale de la gestion de projets dans un environnement industriel international et d’acquérir une expérience pratique en project controlling, analyse financière, gestion budgétaire, SAP et activités de PMO.",
     "creationDate": "2026-11-06T14:38:14Z",
     "missionStartDate": "2027-02-01T00:00:00",
