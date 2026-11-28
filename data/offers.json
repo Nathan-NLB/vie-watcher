@@ -983,23 +983,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "144",
-      "259"
+      "[\"144\",\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "144",
-        "specializationParentId": "24",
-        "specializationLabel": "Big Data & Data Sciences",
-        "specializationLabelEn": "Data mining & analyst"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Chez Parker, nous jouons un rôle essentiel dans les applications qui changent notre monde. Nous sommes présents dans presque tout ce qui bouge. Grâce à notre large éventail de technologies, y compris dans le domaine des technologies propres, nous aidons nos clients à résoudre leurs problèmes d'ingénierie les plus complexes. \r\n\r\nDans le cadre du développement et de l’optimisation de la stratégie pricing, le/la Analyste Pricing accompagnera le Pricing Manager de la Division, en étroite collaboration avec les équipes marketing et commerciales, dans ses missions quotidiennes, le déploiement des projets pricing et le suivi de la performance.\r\n\r\nMissions principales : \r\n\r\nSupport au processus pricing\r\n•\tContribuer aux réponses aux appels d’offres et demandes de cotation clients.\r\n•\tRéaliser des analyses de prix et de rentabilité afin d’identifier des opportunités d’optimisation et proposer des plans d’action adaptés.\r\n•\tAnalyser le positionnement prix, l’environnement concurrentiel et recommander des ajustements tarifaires.\r\n\r\nSupport aux projets pricing\r\n•\tStructuration tarifaire\r\nContribuer aux projets d’harmonisation et de consolidation des listes de prix ainsi qu’à l’alignement des niveaux de remise par client. Participer à la préparation et au déploiement des communications internes et externes liées aux évolutions tarifaires.\r\n•\tProduits cœur de gamme\r\nParticiper à l’optimisation de la stratégie tarifaire des produits cœur de gamme, en lien avec les équipes marketing, commerciales et finance.\r\n\r\nSuivi de la performance\r\n•\tParticiper à la mise à jour, à l’analyse et à la diffusion des indicateurs de performance pricing.\r\n•\tContribuer à la définition et au déploiement des plans d’action associés.",
     "creationDate": "2026-11-25T16:47:25Z",
     "missionStartDate": "2027-02-01T00:00:00",
