@@ -357,7 +357,7 @@
     "ca": null,
     "effectif": 0,
     "effectifFiscal": "0",
-    "effectifInd": "69",
+    "effectifInd": "70",
     "effectifConso": "0",
     "organizationCountryCounter": "22",
     "organizationExpertise": null,
@@ -913,16 +913,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "Blockchain.com is the world's leading software platform for digital assets. Offering the largest production blockchain platform in the world, we share the passion to code, create, and ultimately build an open, accessible and fair financial future, one piece of software at a time.\nWe are seeking a highly motivated Trading Operations Analyst to join our dynamic team, supporting a 24-7 EMEA, Singapore and US cryptocurrency trading team. This role provides an exceptional opportunity to make a significant impact within our fast-growing and innovative organization with exposure across multiple trading strategies and the full spectrum of operations functions.\nResponsibilities:\nManage daily trade and position settlement workflows across multiple business units.\nPerform reconciliations across accounts, positions, and transactions to ensure accuracy.\nAssist in generating and validating the firmwide NAV, ensuring timely reporting to stakeholders.\nSupport reporting and operational processes for custody, staking, and trading desks.\nCollaborate with cross-functional teams, including trading, finance, and technology, to improve and automate processes.\nMaintain and monitor daily trading infrastructure, ensuring accurate trade capture, system stability, and timely issue resolution across internal platforms.\nMonitor and address operational issues, proactively identifying and resolving inefficiencies.\nProvide operational support for new initiatives, products, and services as the business expands.\nQualifications:\nBachelor’s degree in Finance, Economics, Mathematics, Computer Science, or a related field\nStrong analytical and quantitative skills with the ability to interpret complex data sets.\nProficiency in Excel and familiarity with programming languages such as Python, R, or SQL\nExcellent communication and teamwork skills\nAbility to work in a fast-paced, high-pressure environment\nKeen interest in financial markets and trading\nExcellent interpersonal and communication skills, with a client-focused approach to trading\nDemonstrated ability to perform under pressure, make quick decisions and handle high volumes of transactions\nA keen interest in staying updated with trends and news in the fast-paced world of cryptocurrencies. Prior personal experience is a plus\nMust be comfortable working flexible hours in coordination with our Singapore and UK teams\nThe ideal candidate will be a hungry, hard-working individual accustomed to earning a significant portion of income through commission. If you are ready to seize this challenging opportunity and make a substantial contribution to our operation, we invite you to apply!",
     "creationDate": "2026-11-26T13:43:22Z",
     "missionStartDate": "2027-02-01T00:00:00",
