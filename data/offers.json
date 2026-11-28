@@ -3335,16 +3335,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "259"
+      "[\"259\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "•\tSupport our corporate access team with the organization of roadshows and conferences\n•\tHelp the equity sales team in the daily business and on projects \n•\tPreparation of sales presentations \n•\tAssist Head of Branch with operational tasks",
     "creationDate": "2026-11-16T09:40:09Z",
     "missionStartDate": "2027-02-01T00:00:00",
@@ -6058,37 +6051,9 @@
     "activitySectorOfferId": 0,
     "levelStudyIds": null,
     "specialization": [
-      "6",
-      "259",
-      "318",
-      "328"
+      "[\"6\",\"259\",\"318\",\"328\"]"
     ],
-    "specializations": [
-      {
-        "specializationId": "6",
-        "specializationParentId": "193",
-        "specializationLabel": "Commerce International",
-        "specializationLabelEn": "International Trade"
-      },
-      {
-        "specializationId": "259",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance",
-        "specializationLabelEn": "Finance"
-      },
-      {
-        "specializationId": "318",
-        "specializationParentId": "19",
-        "specializationLabel": "Finance d'entreprise",
-        "specializationLabelEn": "Finance d'entreprise"
-      },
-      {
-        "specializationId": "328",
-        "specializationParentId": "212",
-        "specializationLabel": "Informatique de Gestion",
-        "specializationLabelEn": "Informatique de Gestion"
-      }
-    ],
+    "specializations": null,
     "missionDescription": "KOORTIS, société de conseil et d’intégration de systèmes d’information, recherche un Business Developer en V.I.E pour accompagner le lancement et le développement de sa filiale en Côte d’Ivoire.\n\nVous souhaitez participer à une aventure entrepreneuriale à l’international et contribuer au développement d’une nouvelle implantation ? Cette mission vous permettra de prendre une part active à notre croissance autour des solutions SAP, Odoo et Salesforce.\n\nEn lien direct avec la direction et avec l’appui de nos équipes de consultants, vous serez amené à :\n- Identifier et prospecter de nouveaux clients en Côte d’Ivoire.\n- Rencontrer les décideurs et comprendre leurs enjeux métiers et leurs besoins en systèmes d’information.\n- Développer les opportunités commerciales, de la première prise de contact à la préparation des offres.\n- Participer aux propositions commerciales et aux soutenances avec nos équipes.\n- Construire un réseau de partenaires locaux et représenter KOORTIS lors d’événements professionnels.\n- Contribuer à la structuration de l’activité commerciale et au développement de la filiale.\nVotre profil\n\nDiplômé d’un Bac+5 en école de commerce, à l’université ou en école d’ingénieurs, vous avez une réelle affinité avec l’informatique, le conseil et l’intégration de systèmes d’information.\n\nVous aimez aller à la rencontre des clients, comprendre leurs activités et construire une relation de confiance. Curieux, organisé et autonome, vous faites preuve d’initiative et souhaitez vous investir pendant un à deux ans dans le développement d’une filiale à l’étranger.\n\nUne première expérience en développement commercial, dans le conseil ou les services numériques serait un atout. Une connaissance des solutions SAP, Odoo ou Salesforce serait également appréciée.\n\nVous bénéficierez de l’accompagnement de la direction et de nos équipes, avec des responsabilités concrètes et la possibilité de suivre les opportunités commerciales jusqu’à leur réalisation.",
     "creationDate": "2026-11-17T19:19:22Z",
     "missionStartDate": "2027-02-01T00:00:00",
